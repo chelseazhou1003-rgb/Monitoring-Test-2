@@ -115,7 +115,7 @@ export function renderDashboard(latest) {
     const date = latest.date || '';
 
     return `
-      <a href="${id}.html" class="dashboard-card">
+      <a href="#/${id}" class="dashboard-card">
         <h3 class="dashboard-card-title">${escapeHtml(info.title || id)}</h3>
         <div class="dashboard-card-count">${count} article${count !== 1 ? 's' : ''}</div>
         <p class="dashboard-card-headline">${escapeHtml(topHeadline)}</p>
