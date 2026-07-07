@@ -1,131 +1,83 @@
 {
-  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "generatedAt": "2026-07-07T10:58:33.564Z",
   "date": "2026-07-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Key stakeholders in Qualcomm's ecosystem showed strong engagement in H1 2026. 3GPP standards leadership remains critical as 5G-Advanced transitions toward 6G. Major OEM wins with Toyota and Stellantis validate Qualcomm's automotive platform strategy. TSMC remains the critical foundry partner, while Microsoft's Copilot+ PC initiative drives Windows-on-Arm ecosystem growth.",
+    "summary": "As of 2026-06-16, 3 article(s) from IEEE ComSoc, Fierce Wireless, Mobile World Live cover key stakeholders: \"3GPP approves timelines for Release 21: 6G specs set for early 2029\"; \"Q&A: 6G is coming — Qualcomm's John Smee on AI, connectivity and the future\"; \"Qualcomm expects AI-boosting 6G devices in 2029, positioning 6G as AI-native\".",
     "keyTakeaways": [
       {
-        "text": "3GPP: Qualcomm and Huawei best positioned to carry 5G-era SEP influence into 6G standards development.",
+        "text": "3GPP TSG RAN #112 in Singapore approved Release 21 timeline. First 6G specs functional freeze March 2027, final freeze December 2028, code freeze March 2029....",
         "articleIds": [
-          "a18"
+          "st1"
         ],
         "subCategory": "3gpp"
       },
       {
-        "text": "OEM: Toyota RAV4 and Stellantis global portfolio represent landmark automotive design wins.",
+        "text": "Qualcomm SVP John Smee outlines 6G strategy: AI-native networks, predictive analytics, and integrated sensing. 6G will deliver quality of service and differe...",
         "articleIds": [
-          "a19"
+          "st2"
         ],
-        "subCategory": "oem"
+        "subCategory": "etsi"
       },
       {
-        "text": "Foundry: TSMC 2nm roadmap critical for next-gen Snapdragon; Samsung Foundry as strategic alternative.",
+        "text": "At MWC Shanghai 2026, Qualcomm SVP John Smee framed 6G as the wireless technology for the age of AI. Pre-commercial devices expected 2028, commercial 2029. 3...",
         "articleIds": [
-          "a20"
+          "st3"
         ],
-        "subCategory": "foundry"
-      },
-      {
-        "text": "Platform: Microsoft Copilot+ PC exclusivity drives Windows-on-Arm adoption; NVIDIA entry threatens this position.",
-        "articleIds": [
-          "a21"
-        ],
-        "subCategory": "platform-partner"
+        "subCategory": "3gpp"
       }
-    ]
+    ],
+    "generatedAt": "2026-07-07T10:58:33.564Z",
+    "dateScope": "latest-available",
+    "articleCount": 3,
+    "totalArticles": 3
   },
   "articles": [
     {
-      "id": "a20",
-      "title": "TSMC 2nm Process and Advanced Packaging: Implications for Qualcomm's Next-Gen Chips",
-      "url": "https://sesamedisk.com/geopolitical-chip-supply-2026/",
-      "description": "TSMC's advanced process nodes (3nm, upcoming 2nm) remain critical for Qualcomm's flagship Snapdragon chips. The geopolitical risk concentration around TSMC creates supply chain vulnerability. Industry analysis recommends multi-foundry strategies including Samsung Foundry as alternative for certain product tiers. Advanced packaging (CoWoS, InFO) becoming as important as process node for AI chip performance.",
-      "source": "Sesame Disk",
-      "sourceId": "sesame-disk",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-07-03T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "stakeholders",
-      "subCategory": "foundry",
-      "subLabel": "Foundry Partners",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "TSMC's advanced nodes (3nm, 2nm roadmap) remain critical for Qualcomm's flagship Snapdragon production. Geopolitical risk concentration around TSMC creates single-point vulnerability. Industry analysis recommends Samsung Foundry as strategic alternative for select product tiers. Advanced packaging (CoWoS, InFO) now as critical as process node for AI chip performance. Qualcomm's multi-foundry strategy balances cutting-edge performance with supply chain resilience."
-    },
-    {
-      "id": "a21",
-      "title": "Qualcomm and Microsoft Deepen Windows on Arm Collaboration for AI PC Era",
-      "url": "https://insighttechdaily.com/2026-five-way-chip-war-nvidia-apple-qualcomm-x86/",
-      "description": "Microsoft's Copilot+ PC initiative, powered by Qualcomm's Snapdragon X series, represents the strongest Windows-on-Arm push to date. The collaboration enables native Arm64 Windows applications, emulation for x86 apps, and integrated AI features through the NPU. Qualcomm's exclusivity window for Copilot+ has driven initial adoption, but NVIDIA's expected entry with MediaTek will introduce new competition.",
-      "source": "InsightTechDaily",
-      "sourceId": "insight-tech-daily",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-02-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
-      "competitors": [
-        "apple",
-        "intel",
-        "amd",
-        "nvidia"
-      ],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Microsoft-Qualcomm Copilot+ PC partnership represents most significant Windows-on-Arm push ever. Snapdragon X series enjoys initial exclusivity for Copilot+ branding. Native Arm64 Windows app ecosystem growing but x86 emulation still necessary. NVIDIA's expected entry with MediaTek-powered N1X will challenge Qualcomm's Windows-on-Arm leadership. The partnership is pivotal for Qualcomm's PC ambitions — Windows ecosystem access determines TAM."
-    },
-    {
-      "id": "a18",
-      "title": "3GPP Release 19 and 6G Timeline: Qualcomm's Role in Next-Gen Standards Development",
-      "url": "https://techblog.comsoc.org/2026/01/30/huawei-qualcomm-samsung-and-ericsson-leading-patent-race-in-15-billion-5g-licensing-market/",
-      "description": "The LexisNexis 5G patent analysis reveals shifting 5G-Advanced leadership. For 3GPP Release 18 (5G-Advanced), top contributors shift to LG Electronics, ETRI Korea, Samsung, Oppo, Foxconn, and Huawei. However, Qualcomm and Huawei are best positioned to carry 5G-era influence into 6G, which extends OFDM-based radio technologies into higher frequency bands. Barring structural changes, 3GPP meetings will remain dominated by current SEP powerhouses.",
-      "source": "IEEE ComSoc Technology Blog",
+      "id": "st1",
+      "title": "3GPP approves timelines for Release 21: 6G specs set for early 2029",
+      "url": "https://techblog.comsoc.org/2026/06/16/3gpp-approves-timelines-for-release-21-which-will-specify-6g-ran-and-5g-advanced/",
+      "description": "3GPP TSG RAN #112 in Singapore approved Release 21 timeline. First 6G specs functional freeze March 2027, final freeze December 2028, code freeze March 2029. CP-OFDM confirmed as 6G downlink waveform. Migration architecture decision deferred to September 2026 Madrid meeting.",
+      "source": "IEEE ComSoc",
       "sourceId": "ieee-comsoc",
       "sourceGroup": "telecom",
-      "publishedAt": "2026-01-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "publishedAt": "2026-06-16T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",
-      "subLabel": "3GPP",
-      "competitors": [
-        "huawei",
-        "samsung"
-      ],
-      "stakeholders": [
-        "3gpp",
-        "etsi",
-        "ieee"
-      ],
-      "summary": "LexisNexis 2026 analysis shows shifting 3GPP leadership across releases. Release 15 (5G baseline): led by Huawei, Qualcomm, Samsung, Ericsson. Release 18 (5G-Advanced): leadership shifts to LG, ETRI, Samsung, Oppo, Foxconn, Huawei. Qualcomm and Huawei best positioned to carry influence into 6G era. 3GPP Release 19 work underway with Qualcomm's X105 modem as first Release 19-ready platform. Standards participation increasingly critical for SEP portfolio value."
+      "subLabel": "3GPP"
     },
     {
-      "id": "a19",
-      "title": "Toyota Selects Qualcomm Snapdragon Cockpit Platform for New RAV4 with AI-Driven Features",
-      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-drives-the-future-of-mobility-with-strong-snapdragon-di",
-      "description": "Toyota selected Qualcomm's next-generation Snapdragon Cockpit Platform for the new RAV4, bringing advanced AI-driven features that anticipate driver and passenger needs. The platform adapts in real time and provides intelligent in-vehicle assistance. With 75M+ vehicles already using Snapdragon Cockpit, this represents Qualcomm's expansion into Toyota, the world's largest automaker.",
-      "source": "Qualcomm Newsroom",
-      "sourceId": "qualcomm",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-01-05T14:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "id": "st2",
+      "title": "Q&A: 6G is coming — Qualcomm's John Smee on AI, connectivity and the future",
+      "url": "https://www.fierce-network.com/wireless/qa-6g-coming-qualcomms-john-smee-ai-connectivity-and-future-everything",
+      "description": "Qualcomm SVP John Smee outlines 6G strategy: AI-native networks, predictive analytics, and integrated sensing. 6G will deliver quality of service and differentiated services that Wi-Fi cannot match. WRC-27 and LA 2028 Olympics seen as key milestones toward 2029 commercial deployment.",
+      "source": "Fierce Wireless",
+      "sourceId": "fierce-wireless",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-02-17T11:49:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchStrategy": "approved-source",
       "section": "stakeholders",
-      "subCategory": "oem",
-      "subLabel": "Core OEM Customers",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Toyota adopts Qualcomm Snapdragon Cockpit Platform for the new RAV4 — a landmark design win with the world's largest automaker. AI-driven features anticipate driver needs and adapt in real time. Builds on 75M+ vehicles already running Snapdragon Cockpit globally. Represents Qualcomm's strategic expansion from premium/Chinese automakers into Toyota's mass-market volume. Signals growing automotive industry acceptance of Qualcomm as a tier-1 cockpit platform supplier."
+      "subCategory": "etsi",
+      "subLabel": "ETSI"
+    },
+    {
+      "id": "st3",
+      "title": "Qualcomm expects AI-boosting 6G devices in 2029, positioning 6G as AI-native",
+      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-looks-to-6g-support-for-ai-from-2029/",
+      "description": "At MWC Shanghai 2026, Qualcomm SVP John Smee framed 6G as the wireless technology for the age of AI. Pre-commercial devices expected 2028, commercial 2029. 3GPP Release 21 initial approval March 2027. \"AI is the new UI\" — context-aware agents delivered through voice, glasses, and watches.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-06-25T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchStrategy": "approved-source",
+      "section": "stakeholders",
+      "subCategory": "3gpp",
+      "subLabel": "3GPP"
     }
   ]
 }

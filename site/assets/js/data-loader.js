@@ -2,9 +2,36 @@
 import { NEWS_DATA } from './data.js';
 import { todayBeijingDate, yesterdayBeijingDate, formatDate } from './utils.js';
 
-// Load latest.json (dashboard data)
+// ─── Dynamically build dashboard data from all sections ───
+let _latestCache = null;
+
 export async function loadLatest() {
-  return NEWS_DATA.latest || null;
+  if (_latestCache) return _latestCache;
+
+  const today = todayBeijingDate();
+  const sections = {};
+  const sectionIds = ['core-businesses', 'competitors', 'growth-areas', 'ip-legal', 'macro-environment', 'stakeholders'];
+
+  for (const id of sectionIds) {
+    const data = NEWS_DATA[id];
+    if (!data) continue;
+
+    const articles = data.articles || [];
+    const todayArticles = articles.filter(a => (a.publishedAt || '').split('T')[0] === today);
+
+    sections[id] = {
+      title: data.sectionTitle || id,
+      articleCount: articles.length,
+      todayCount: todayArticles.length,
+      topHeadline: articles.length > 0 ? articles[0].title : 'No articles',
+    };
+  }
+
+  _latestCache = {
+    date: today,
+    sections,
+  };
+  return _latestCache;
 }
 
 // Load a specific section's JSON
@@ -12,9 +39,27 @@ export async function loadSection(sectionId) {
   return NEWS_DATA[sectionId] || null;
 }
 
-// Load sources registry
+// Load sources registry — dynamically built from actual articles
 export async function loadSources() {
-  return NEWS_DATA.sources || [];
+  const sources = {};
+  const sectionIds = ['core-businesses', 'competitors', 'growth-areas', 'ip-legal', 'macro-environment', 'stakeholders'];
+
+  for (const id of sectionIds) {
+    const data = NEWS_DATA[id];
+    if (!data || !data.articles) continue;
+    for (const a of data.articles) {
+      if (!sources[a.sourceId]) {
+        sources[a.sourceId] = {
+          id: a.sourceId,
+          name: a.source,
+          group: a.sourceGroup || 'other',
+          groupLabel: (a.sourceGroup || 'other').charAt(0).toUpperCase() + (a.sourceGroup || 'other').slice(1),
+        };
+      }
+    }
+  }
+
+  return Object.values(sources);
 }
 
 // Load an archive day

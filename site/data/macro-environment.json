@@ -1,99 +1,83 @@
 {
-  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "generatedAt": "2026-07-07T10:58:33.561Z",
   "date": "2026-07-07",
   "section": "macro-environment",
   "sectionTitle": "Macro Environment",
   "briefing": {
-    "summary": "The macro environment for Qualcomm in 2026 is defined by deepening US-China semiconductor decoupling, TSMC concentration risk, and evolving export controls. Supply chain resilience strategies — multi-foundry certification and product tiering — are increasingly critical. China's countermeasures (tungsten export restrictions) and gray-market enforcement add compliance complexity.",
+    "summary": "As of 2026-04-30, 3 article(s) from Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
     "keyTakeaways": [
       {
-        "text": "TSMC concentration remains the highest-impact single-point supply chain risk for Qualcomm's flagship chips.",
+        "text": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit...",
         "articleIds": [
-          "a12"
+          "me1"
         ],
         "subCategory": "supply-chain"
       },
       {
-        "text": "US-China decoupling intensifies: China's Remote Access Security Act + 10% R&D growth commitment reshape competitive dynamics.",
+        "text": "Qualcomm's ByteDance custom chip talks highlight the complex geopolitics of semiconductor design. The deal leverages Alphawave Semi technology (acquired June...",
         "articleIds": [
-          "a13"
+          "me2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Global chip distribution routes shifting: Dubai, Istanbul, Hong Kong emerge as new semiconductor trade gateways.",
+        "text": "At CES 2026, Qualcomm expanded automotive collaborations with Google, Toyota, Li Auto, NIO, Leapmotor, ZF, and Stellantis. Snapdragon Ride Flex — first mixed...",
         "articleIds": [
-          "a14"
+          "me3"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "customers-partners"
       }
-    ]
+    ],
+    "generatedAt": "2026-07-07T10:58:33.561Z",
+    "dateScope": "latest-available",
+    "articleCount": 3,
+    "totalArticles": 3
   },
   "articles": [
     {
-      "id": "a12",
-      "title": "2026 Geopolitics and Semiconductor Supply: Key Risks for Chip Companies",
-      "url": "https://sesamedisk.com/geopolitical-chip-supply-2026/",
-      "description": "The 2026 chip risk map extends beyond Taiwan to include Korea, Middle East energy, China export controls, and critical materials. HBM memory (80% controlled by Samsung and SK Hynix) remains a bottleneck. TSMC concentration creates the highest-impact single-point risk. China's tungsten export restrictions and US enforcement against gray-market GPU smuggling add complexity. Recommended strategies include multi-foundry certification, product tiering, and embedding compliance into chip design.",
-      "source": "Sesame Disk",
-      "sourceId": "sesame-disk",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-07-03T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "id": "me1",
+      "title": "Memory crunch weighs on Qualcomm outlook as supply constraints persist",
+      "url": "https://www.mobileworldlive.com/qualcomm/memory-crunch-weighs-on-qualcomm-outlook/",
+      "description": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit surged 162%. The company cited memory pricing and availability as key near-term risks across its supply chain.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-04-30T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "supply-chain",
-      "subLabel": "Supply Chain",
-      "competitors": [],
-      "stakeholders": [
-        "foundry",
-        "regulators"
-      ],
-      "summary": "2026 semiconductor supply chain risk analysis identifies TSMC concentration as the highest-impact single-point risk. HBM memory bottleneck (Samsung + SK Hynix = 80% market) creates allocation disadvantages for smaller chip buyers. China's tungsten export restrictions impact manufacturing equipment. US DOJ prosecutes $2.5B gray-market GPU smuggling case. Recommendations: multi-foundry certification, product tiering for supply flexibility, and compliance-by-design in chip architecture."
+      "subLabel": "Supply Chain"
     },
     {
-      "id": "a14",
-      "title": "Global Chip Distribution Map 2026: How Geopolitics Reshapes Semiconductor Procurement",
-      "url": "https://www.ic-future.com/blog/geopolitics-chip-distribution-map-2026",
-      "description": "Export controls and geopolitical shifts are reshaping semiconductor distribution hubs. Dubai, Istanbul, and Hong Kong emerge as critical gateways for compliant chip sourcing. The redistribution of global semiconductor trade routes creates new compliance challenges for companies sourcing components across multiple jurisdictions.",
-      "source": "IC Future",
-      "sourceId": "ic-future",
+      "id": "me2",
+      "title": "Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions",
+      "url": "https://www.reuters.com/technology/qualcomm-talks-design-custom-chips-bytedance-2026-06-24/",
+      "description": "Qualcomm's ByteDance custom chip talks highlight the complex geopolitics of semiconductor design. The deal leverages Alphawave Semi technology (acquired June 2025) to serve a major Chinese tech client, navigating US export controls while expanding custom ASIC business.",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-24T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchStrategy": "approved-source",
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls"
+    },
+    {
+      "id": "me3",
+      "title": "Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026",
+      "url": "https://autotechinsight.spglobal.com/news/5285964/ces-2026-qualcomm-extends-automotive-partnerships-for-snapdragon-digital-chassis-and-agentic-ai",
+      "description": "At CES 2026, Qualcomm expanded automotive collaborations with Google, Toyota, Li Auto, NIO, Leapmotor, ZF, and Stellantis. Snapdragon Ride Flex — first mixed-criticality SoC — deployed in 8 global programs. $65B automotive design-win pipeline updated.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
-      "publishedAt": "2026-05-13T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "publishedAt": "2026-01-07T08:13:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchStrategy": "approved-source",
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators",
-        "foundry"
-      ],
-      "summary": "Export controls reshape global chip distribution routes in 2026. Dubai, Istanbul, and Hong Kong emerge as critical semiconductor trade gateways. Companies face increasing compliance complexity when sourcing across jurisdictions. New distribution patterns create both opportunities and risks for chip buyers. Qualcomm's global customer base requires navigating multiple export regulatory regimes simultaneously."
-    },
-    {
-      "id": "a13",
-      "title": "US-China Semiconductor Tech War 2026: Deepening Decoupling and Export Controls",
-      "url": "https://www.youngju.dev/blog/culture/2026-03-16-us-china-semiconductor-tech-war-2026.en",
-      "description": "The US-China tech cold war deepens in 2026 with China's Remote Access Security Act closing the cloud loophole. China commits to 10% annual R&D growth and intensifies semiconductor self-sufficiency efforts. The decoupling creates \"dual supply chain\" dynamics where companies must navigate parallel regulatory regimes for US and China markets.",
-      "source": "Youngju.dev",
-      "sourceId": "youngju",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-03-16T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [
-        "regulators",
-        "foundry"
-      ],
-      "summary": "US-China semiconductor decoupling intensifies in 2026. China closes cloud computing loophole with Remote Access Security Act and commits to 10% annual R&D growth. Export controls create \"dual supply chain\" reality — companies must navigate divergent US and China regulatory regimes. SMIC and Huawei accelerate domestic alternatives, tightening mature node capacity globally. Qualcomm faces both opportunity (China handset market) and risk (export restrictions, Huawei/HiSilicon competition)."
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners"
     }
   ]
 }

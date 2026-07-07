@@ -1,113 +1,83 @@
 {
-  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "generatedAt": "2026-07-07T10:58:33.556Z",
   "date": "2026-07-07",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Qualcomm faces unprecedented multi-front competition in 2026 across mobile, PC, automotive, and AI domains. The entry of NVIDIA into PC CPUs (via MediaTek partnership) represents the most significant competitive disruption. In PCs, Qualcomm must defend Windows-on-Arm gains against both Intel/AMD and NVIDIA. In automotive, NVIDIA's Orin/Thor platform competes directly with Snapdragon Ride.",
+    "summary": "As of 2026-06-24, 3 article(s) from Reuters, Mobile World Live, CNBC cover competitors: \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\".",
     "keyTakeaways": [
       {
-        "text": "NVIDIA enters PC CPU market with N1X + MediaTek — the most disruptive new competitor across Qualcomm's growth domains.",
+        "text": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to fo...",
         "articleIds": [
-          "a15",
-          "a17"
+          "co1"
         ],
-        "subCategory": "nvidia"
+        "subCategory": "broadcom"
       },
       {
-        "text": "On-device AI chip market: Four-way battle with MediaTek, Intel, NVIDIA across mobile, PC, and automotive.",
+        "text": "OpenAI partnered with Qualcomm and MediaTek to co-develop smartphone processors optimized for on-device AI. The project could redefine the high-end handset m...",
         "articleIds": [
-          "a16"
+          "co2"
         ],
         "subCategory": "mediatek"
       },
       {
-        "text": "Qualcomm's unique advantage: integrated connectivity + AI + compute across mobile, PC, automotive, and IoT.",
+        "text": "Qualcomm acquired AI software startup Modular for $3.9B in an all-stock deal. The Mojo language and MAX inference engine aim to break NVIDIA's CUDA software ...",
         "articleIds": [
-          "a17"
+          "co3"
         ],
-        "subCategory": "broadcom"
+        "subCategory": "nvidia"
       }
-    ]
+    ],
+    "generatedAt": "2026-07-07T10:58:33.556Z",
+    "dateScope": "latest-available",
+    "articleCount": 3,
+    "totalArticles": 3
   },
   "articles": [
     {
-      "id": "a17",
-      "title": "Qualcomm Competitors 2026: Top Semiconductor and Mobile Chip Rivals Compared",
-      "url": "https://www.companieshistory.com/qualcomm-competitors/",
-      "description": "Comprehensive analysis of Qualcomm's competitive landscape in 2026 across mobile SoCs (MediaTek, Apple, Samsung, UNISOC), PC processors (Intel, AMD, Apple), automotive (NVIDIA, Intel/Mobileye), and AI accelerators (NVIDIA). Qualcomm's diversification strategy spans all four domains, but each has strong incumbents with significant ecosystem advantages.",
-      "source": "Companies History",
-      "sourceId": "companies-history",
+      "id": "co1",
+      "title": "Sources: Qualcomm in talks to design custom chips for ByteDance",
+      "url": "https://www.reuters.com/technology/qualcomm-talks-design-custom-chips-bytedance-2026-06-24/",
+      "description": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to four sources. The deal signals Qualcomm's push into custom ASIC design against Broadcom and Marvell.",
+      "source": "Reuters",
+      "sourceId": "reuters",
       "sourceGroup": "finance",
-      "publishedAt": "2026-06-27T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "publishedAt": "2026-06-24T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.555Z",
+      "fetchStrategy": "approved-source",
       "section": "competitors",
       "subCategory": "broadcom",
-      "subLabel": "Broadcom",
-      "competitors": [
-        "apple",
-        "mediatek",
-        "intel",
-        "nvidia",
-        "amd",
-        "samsung",
-        "broadcom",
-        "huawei"
-      ],
-      "stakeholders": [
-        "oem",
-        "foundry"
-      ],
-      "summary": "Qualcomm faces multi-front competition in 2026. Mobile SoCs: MediaTek (#1 in volume), Apple (premium), Samsung Exynos, UNISOC (low-end). PC: Intel/AMD (x86 ecosystem), Apple M-series (efficiency benchmark). Automotive: NVIDIA Orin/Thor (autonomous driving), Intel/Mobileye (ADAS). AI accelerators: NVIDIA dominates data center, Qualcomm focuses on edge/on-device. Qualcomm's unique value: integrated connectivity + AI + compute across all four domains."
+      "subLabel": "Broadcom"
     },
     {
-      "id": "a15",
-      "title": "Computex 2026 Chip Battle: NVIDIA RTX Spark vs Intel Crescent Island vs Qualcomm's AI PC Offensive",
-      "url": "https://www.ai-master.cc/blog/blog-283",
-      "description": "Computex 2026 marked a turning point in AI chip competition. NVIDIA announced RTX Spark for consumer PCs. Intel revealed Crescent Island AI GPU on 18A process. Qualcomm declared 2026 as the year of intelligent PCs, positioning Snapdragon X2 Elite against both x86 incumbents and NVIDIA's new entry. The competition spans CPU, GPU, and NPU domains simultaneously.",
-      "source": "AI Master",
-      "sourceId": "ai-master",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-06-04T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "competitors",
-      "subCategory": "nvidia",
-      "subLabel": "NVIDIA",
-      "competitors": [
-        "nvidia",
-        "intel",
-        "amd"
-      ],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Computex 2026 becomes a three-way AI PC showdown: NVIDIA RTX Spark enters consumer PC market, Intel unveils Crescent Island AI GPU on 18A, and Qualcomm positions X2 Elite for \"intelligent PC\" era. The competition now spans CPU, GPU, and NPU in a single platform battle. NVIDIA's entry with MediaTek partnership represents the most disruptive force, bringing data-center GPU expertise to consumer PCs. Qualcomm must defend its Windows-on-Arm gains against both x86 and NVIDIA."
-    },
-    {
-      "id": "a16",
-      "title": "AI Chip Landscape 2026: Qualcomm, MediaTek, Intel, NVIDIA Four-Way Battle",
-      "url": "https://zhuanlan.zhihu.com/p/2024922708601763606",
-      "description": "2026 marks the explosion of on-device AI with Intel Core Ultra reaching 180 TOPS. Qualcomm, MediaTek, Intel, and NVIDIA compete across mobile, PC, and automotive domains. Qualcomm's advantage lies in its integrated modem + AI + CPU capability. MediaTek challenges in mid-range with Dimensity series. Intel leverages x86 ecosystem and foundry strategy.",
-      "source": "Zhihu",
-      "sourceId": "zhihu",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-04-07T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
+      "id": "co2",
+      "title": "Qualcomm teams with OpenAI and MediaTek on AI smartphone chip",
+      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-teams-with-openai-mediatek-on-ai-chip/",
+      "description": "OpenAI partnered with Qualcomm and MediaTek to co-develop smartphone processors optimized for on-device AI. The project could redefine the high-end handset market, challenging Apple's A-series and Samsung's Exynos in AI processing capabilities.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-04-28T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.556Z",
+      "fetchStrategy": "approved-source",
       "section": "competitors",
       "subCategory": "mediatek",
-      "subLabel": "MediaTek",
-      "competitors": [
-        "mediatek",
-        "intel",
-        "nvidia"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "2026 on-device AI chip market sees four-way competition: Qualcomm, MediaTek, Intel, and NVIDIA. Intel Core Ultra reaches 180 TOPS. Qualcomm's integrated modem+AI+CPU advantage remains unique. MediaTek Dimensity challenges in mid-range mobile SoCs. Intel leverages x86 ecosystem and 18A foundry strategy. Battle spans mobile, PC, and automotive domains simultaneously. Qualcomm's challenge: defending mobile dominance while expanding in PC and automotive."
+      "subLabel": "MediaTek"
+    },
+    {
+      "id": "co3",
+      "title": "Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition",
+      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
+      "description": "Qualcomm acquired AI software startup Modular for $3.9B in an all-stock deal. The Mojo language and MAX inference engine aim to break NVIDIA's CUDA software moat. Combined with Dragonfly C1000 and Tenstorrent pursuit, this represents a ~$14B bet on the AI data center market.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-24T15:00:00.000Z",
+      "fetchedAt": "2026-07-07T10:58:33.556Z",
+      "fetchStrategy": "approved-source",
+      "section": "competitors",
+      "subCategory": "nvidia",
+      "subLabel": "NVIDIA"
     }
   ]
 }
