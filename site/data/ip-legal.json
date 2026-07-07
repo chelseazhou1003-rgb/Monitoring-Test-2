@@ -1,104 +1,11 @@
 {
-  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "generatedAt": "2026-07-07T10:19:16.358Z",
   "date": "2026-07-07",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Qualcomm's IP and legal position strengthened in 2026 with the withdrawal of the UK consumer class action and continued leadership in 5G SEP rankings. The LexisNexis report confirmed Qualcomm's #1 position on the Patent Asset Index, with QTL licensing generating $5.6B in FY2024 revenue. However, Apple's transition to its own C1 modem signals long-term licensing revenue pressure.",
-    "keyTakeaways": [
-      {
-        "text": "UK consumer class action seeking £480M withdrawn — tribunal expected to rule Qualcomm did not violate competition law.",
-        "articleIds": [
-          "a6"
-        ],
-        "subCategory": "frand-licensing"
-      },
-      {
-        "text": "LexisNexis 2026: Qualcomm ranks #1 on Patent Asset Index in $15B 5G licensing market; QTL generated $5.6B in FY2024.",
-        "articleIds": [
-          "a7"
-        ],
-        "subCategory": "sep"
-      },
-      {
-        "text": "Apple's C1 modem transition begins gradual reduction of Qualcomm modem licensing revenue.",
-        "articleIds": [
-          "a8"
-        ],
-        "subCategory": "frand-licensing"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "id": "a8",
-      "title": "Qualcomm's 2026 Apple Royalty Rate: Percentage-Based Licensing Continues Amid Modem Transition",
-      "url": "https://nextgen.nen.wfglobal.org/news/qualcomm-apple-patent-dispute-2026-modem-chip-royalty-rate-830993",
-      "description": "In 2026, Qualcomm continues to license its 5G modem IP to Apple at a percentage-based royalty tied to iPhone selling price, not the standalone modem chip cost. This comes as Apple transitions to its own C1 modem with the iPhone 16e, aiming to reduce long-term dependency on Qualcomm's modem technology.",
-      "source": "NextGen News",
-      "sourceId": "nextgen",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-06-17T08:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm continues percentage-based 5G modem royalty from Apple in 2026, calculated on iPhone selling price rather than component cost. Apple's C1 modem rollout (starting with iPhone 16e) represents its first step toward reducing Qualcomm dependency. The royalty rate structure remains a point of industry debate regarding FRAND principles. Apple's transition timeline suggests Qualcomm's modem licensing revenue from Apple will decline gradually over several years."
-    },
-    {
-      "id": "a6",
-      "title": "UK Consumer Lawsuit Claiming Qualcomm Inflated iPhone Prices to Be Withdrawn",
-      "url": "https://www.macrumors.com/2026/02/17/qualcomm-inflated-iphone-prices-withdrawn/",
-      "description": "A major UK consumer lawsuit alleging Qualcomm inflated iPhone prices through patent licensing practices will be withdrawn with no payment. The case, filed by Which? on behalf of 29 million UK smartphone buyers seeking £480 million, alleged Qualcomm's \"no license, no chips\" policy forced Apple and Samsung to pay excessive royalties. The UK Competition Appeal Tribunal was expected to rule that Qualcomm did not violate competition law.",
-      "source": "MacRumors",
-      "sourceId": "macrumors",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-02-17T15:56:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [
-        "apple",
-        "samsung"
-      ],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "UK consumer class action against Qualcomm over iPhone pricing to be withdrawn. Which? had sought £480M for 29M UK buyers, alleging Qualcomm's licensing practices inflated smartphone costs. The Competition Appeal Tribunal was expected to find Qualcomm did not coerce manufacturers or violate competition law. This represents a significant legal victory for Qualcomm's licensing model. Comes as Apple transitions to its own C1 modem, reducing dependence on Qualcomm."
-    },
-    {
-      "id": "a7",
-      "title": "Huawei, Qualcomm, Samsung, and Ericsson Lead $15 Billion 5G Patent Licensing Market",
-      "url": "https://techblog.comsoc.org/2026/01/30/huawei-qualcomm-samsung-and-ericsson-leading-patent-race-in-15-billion-5g-licensing-market/",
-      "description": "The 2026 LexisNexis report shows the 5G patent licensing market is now worth ~$15 billion annually. Huawei leads in patent family volume, but Qualcomm ranks first on the Patent Asset Index (quality-weighted). Qualcomm's QTL licensing unit generated ~$5.6 billion in FY2024 revenue — 14% of total sales and ~30% of company profit. The report covers 50 top 5G patent owners with geographic diversity across China (14), Japan (9), US (9), Europe (7), and others.",
-      "source": "IEEE ComSoc Technology Blog",
-      "sourceId": "ieee-comsoc",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-01-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T09:50:00.000Z",
-      "fetchStrategy": "web-research",
-      "section": "ip-legal",
-      "subCategory": "sep",
-      "subLabel": "Standard-Essential Patents",
-      "competitors": [
-        "huawei",
-        "samsung"
-      ],
-      "stakeholders": [
-        "3gpp",
-        "etsi",
-        "ieee"
-      ],
-      "summary": "LexisNexis 2026 report values 5G patent licensing at $15B annually. Qualcomm ranks #1 on Patent Asset Index despite Huawei leading in raw patent family volume. Qualcomm's QTL licensing unit generated $5.6B in FY2024 (~$4B pre-tax profit, ~30% of company profit). Huawei by contrast earned only ~$630M from licensing. Top patent holders reflect geographic diversity across 7 countries. Patent data accuracy increasingly critical for FRAND determinations."
-    }
-  ]
+  "articles": []
 }
