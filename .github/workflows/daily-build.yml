@@ -37,6 +37,9 @@ jobs:
           # Set OPENAI_API_KEY secret in repo settings to enable LLM-enhanced briefings
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
 
+      - name: Bundle data into JS module
+        run: node scripts/bundle-data.cjs
+
       - name: Commit updated data (if changed)
         run: |
           git config user.name "github-actions[bot]"
