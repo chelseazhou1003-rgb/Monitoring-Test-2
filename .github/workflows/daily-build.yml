@@ -31,12 +31,6 @@ jobs:
       - name: Install dependencies
         run: npm ci
 
-      - name: Build news data
-        run: node scripts/build.js
-        env:
-          # Set OPENAI_API_KEY secret in repo settings to enable LLM-enhanced briefings
-          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY || '' }}
-
       - name: Bundle data into JS module
         run: node scripts/bundle-data.cjs
 
@@ -44,7 +38,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add site/data/
+          git add site/data/ site/assets/js/data.js
           if git diff --staged --quiet; then
             echo "No data changes to commit."
           else

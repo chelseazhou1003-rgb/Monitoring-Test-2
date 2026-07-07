@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-07-07T10:19:16.360Z",
+  "generatedAt": "2026-07-07T09:50:00.000Z",
   "date": "2026-07-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm to Acquire Modular",
+      "articleCount": 5,
+      "topHeadline": "Qualcomm Introduces Snapdragon 6 Gen 5 and 4 Gen 5 Chips for Mid-Range Smartphones",
       "topHeadlineId": "a1",
-      "briefingSummary": "One article today covering IoT & XR. Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software fo"
+      "briefingSummary": "Qualcomm's core businesses saw strong momentum in H1 2026, driven by Snapdragon X2 series AI PC chips, new mid-range mobile SoCs, and expanding automotive design wins. The Snapdragon Digital Chassis platform secured partnerships with Toyota and Stellantis, while the X105 5G modem positioned Qualcomm for the 6G transition."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm's 2026 Apple Royalty Rate: Percentage-Based Licensing Continues Amid Modem Transition",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Qualcomm's IP and legal position strengthened in 2026 with the withdrawal of the UK consumer class action and continued leadership in 5G SEP rankings. The LexisNexis report confirmed Qualcomm's #1 position on the Patent Asset Index, with QTL licensing generating $5.6B in FY2024 revenue. However, Apple's transition to its own C1 modem signals long-term licensing revenue pressure."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
-    },
-    "macro-environment": {
-      "title": "Macro Environment",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm at MWC 2026: AI-Native Wi-Fi 8 and Agentic RAN Management for 6G Era",
+      "topHeadlineId": "a11",
+      "briefingSummary": "Qualcomm's growth areas are centered on AI PC expansion, automotive agentic AI, and next-gen connectivity. The Snapdragon X2 series positions Qualcomm strongly in the AI PC race, while partnerships with Google and automakers bring on-device AI to vehicles. MWC 2026 showcased Qualcomm's vision for AI-native networks in the 6G era."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm Competitors 2026: Top Semiconductor and Mobile Chip Rivals Compared",
+      "topHeadlineId": "a17",
+      "briefingSummary": "Qualcomm faces unprecedented multi-front competition in 2026 across mobile, PC, automotive, and AI domains. The entry of NVIDIA into PC CPUs (via MediaTek partnership) represents the most significant competitive disruption. In PCs, Qualcomm must defend Windows-on-Arm gains against both Intel/AMD and NVIDIA. In automotive, NVIDIA's Orin/Thor platform competes directly with Snapdragon Ride."
+    },
+    "macro-environment": {
+      "title": "Macro Environment",
+      "articleCount": 3,
+      "topHeadline": "2026 Geopolitics and Semiconductor Supply: Key Risks for Chip Companies",
+      "topHeadlineId": "a12",
+      "briefingSummary": "The macro environment for Qualcomm in 2026 is defined by deepening US-China semiconductor decoupling, TSMC concentration risk, and evolving export controls. Supply chain resilience strategies — multi-foundry certification and product tiering — are increasingly critical. China's countermeasures (tungsten export restrictions) and gray-market enforcement add compliance complexity."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 4,
+      "topHeadline": "TSMC 2nm Process and Advanced Packaging: Implications for Qualcomm's Next-Gen Chips",
+      "topHeadlineId": "a20",
+      "briefingSummary": "Key stakeholders in Qualcomm's ecosystem showed strong engagement in H1 2026. 3GPP standards leadership remains critical as 5G-Advanced transitions toward 6G. Major OEM wins with Toyota and Stellantis validate Qualcomm's automotive platform strategy. TSMC remains the critical foundry partner, while Microsoft's Copilot+ PC initiative drives Windows-on-Arm ecosystem growth."
     }
   },
-  "totalArticles": 1
+  "totalArticles": 21
 }

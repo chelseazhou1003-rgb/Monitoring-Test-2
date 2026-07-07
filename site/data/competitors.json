@@ -1,11 +1,113 @@
 {
-  "generatedAt": "2026-07-07T10:19:16.358Z",
+  "generatedAt": "2026-07-07T09:50:00.000Z",
   "date": "2026-07-07",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Qualcomm faces unprecedented multi-front competition in 2026 across mobile, PC, automotive, and AI domains. The entry of NVIDIA into PC CPUs (via MediaTek partnership) represents the most significant competitive disruption. In PCs, Qualcomm must defend Windows-on-Arm gains against both Intel/AMD and NVIDIA. In automotive, NVIDIA's Orin/Thor platform competes directly with Snapdragon Ride.",
+    "keyTakeaways": [
+      {
+        "text": "NVIDIA enters PC CPU market with N1X + MediaTek — the most disruptive new competitor across Qualcomm's growth domains.",
+        "articleIds": [
+          "a15",
+          "a17"
+        ],
+        "subCategory": "nvidia"
+      },
+      {
+        "text": "On-device AI chip market: Four-way battle with MediaTek, Intel, NVIDIA across mobile, PC, and automotive.",
+        "articleIds": [
+          "a16"
+        ],
+        "subCategory": "mediatek"
+      },
+      {
+        "text": "Qualcomm's unique advantage: integrated connectivity + AI + compute across mobile, PC, automotive, and IoT.",
+        "articleIds": [
+          "a17"
+        ],
+        "subCategory": "broadcom"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "a17",
+      "title": "Qualcomm Competitors 2026: Top Semiconductor and Mobile Chip Rivals Compared",
+      "url": "https://www.companieshistory.com/qualcomm-competitors/",
+      "description": "Comprehensive analysis of Qualcomm's competitive landscape in 2026 across mobile SoCs (MediaTek, Apple, Samsung, UNISOC), PC processors (Intel, AMD, Apple), automotive (NVIDIA, Intel/Mobileye), and AI accelerators (NVIDIA). Qualcomm's diversification strategy spans all four domains, but each has strong incumbents with significant ecosystem advantages.",
+      "source": "Companies History",
+      "sourceId": "companies-history",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-27T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "competitors",
+      "subCategory": "broadcom",
+      "subLabel": "Broadcom",
+      "competitors": [
+        "apple",
+        "mediatek",
+        "intel",
+        "nvidia",
+        "amd",
+        "samsung",
+        "broadcom",
+        "huawei"
+      ],
+      "stakeholders": [
+        "oem",
+        "foundry"
+      ],
+      "summary": "Qualcomm faces multi-front competition in 2026. Mobile SoCs: MediaTek (#1 in volume), Apple (premium), Samsung Exynos, UNISOC (low-end). PC: Intel/AMD (x86 ecosystem), Apple M-series (efficiency benchmark). Automotive: NVIDIA Orin/Thor (autonomous driving), Intel/Mobileye (ADAS). AI accelerators: NVIDIA dominates data center, Qualcomm focuses on edge/on-device. Qualcomm's unique value: integrated connectivity + AI + compute across all four domains."
+    },
+    {
+      "id": "a15",
+      "title": "Computex 2026 Chip Battle: NVIDIA RTX Spark vs Intel Crescent Island vs Qualcomm's AI PC Offensive",
+      "url": "https://www.ai-master.cc/blog/blog-283",
+      "description": "Computex 2026 marked a turning point in AI chip competition. NVIDIA announced RTX Spark for consumer PCs. Intel revealed Crescent Island AI GPU on 18A process. Qualcomm declared 2026 as the year of intelligent PCs, positioning Snapdragon X2 Elite against both x86 incumbents and NVIDIA's new entry. The competition spans CPU, GPU, and NPU domains simultaneously.",
+      "source": "AI Master",
+      "sourceId": "ai-master",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-06-04T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "competitors",
+      "subCategory": "nvidia",
+      "subLabel": "NVIDIA",
+      "competitors": [
+        "nvidia",
+        "intel",
+        "amd"
+      ],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Computex 2026 becomes a three-way AI PC showdown: NVIDIA RTX Spark enters consumer PC market, Intel unveils Crescent Island AI GPU on 18A, and Qualcomm positions X2 Elite for \"intelligent PC\" era. The competition now spans CPU, GPU, and NPU in a single platform battle. NVIDIA's entry with MediaTek partnership represents the most disruptive force, bringing data-center GPU expertise to consumer PCs. Qualcomm must defend its Windows-on-Arm gains against both x86 and NVIDIA."
+    },
+    {
+      "id": "a16",
+      "title": "AI Chip Landscape 2026: Qualcomm, MediaTek, Intel, NVIDIA Four-Way Battle",
+      "url": "https://zhuanlan.zhihu.com/p/2024922708601763606",
+      "description": "2026 marks the explosion of on-device AI with Intel Core Ultra reaching 180 TOPS. Qualcomm, MediaTek, Intel, and NVIDIA compete across mobile, PC, and automotive domains. Qualcomm's advantage lies in its integrated modem + AI + CPU capability. MediaTek challenges in mid-range with Dimensity series. Intel leverages x86 ecosystem and foundry strategy.",
+      "source": "Zhihu",
+      "sourceId": "zhihu",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-04-07T08:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "competitors",
+      "subCategory": "mediatek",
+      "subLabel": "MediaTek",
+      "competitors": [
+        "mediatek",
+        "intel",
+        "nvidia"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "2026 on-device AI chip market sees four-way competition: Qualcomm, MediaTek, Intel, and NVIDIA. Intel Core Ultra reaches 180 TOPS. Qualcomm's integrated modem+AI+CPU advantage remains unique. MediaTek Dimensity challenges in mid-range mobile SoCs. Intel leverages x86 ecosystem and 18A foundry strategy. Battle spans mobile, PC, and automotive domains simultaneously. Qualcomm's challenge: defending mobile dominance while expanding in PC and automotive."
+    }
+  ]
 }

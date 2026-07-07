@@ -1,11 +1,99 @@
 {
-  "generatedAt": "2026-07-07T10:19:16.358Z",
+  "generatedAt": "2026-07-07T09:50:00.000Z",
   "date": "2026-07-07",
   "section": "macro-environment",
   "sectionTitle": "Macro Environment",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "The macro environment for Qualcomm in 2026 is defined by deepening US-China semiconductor decoupling, TSMC concentration risk, and evolving export controls. Supply chain resilience strategies — multi-foundry certification and product tiering — are increasingly critical. China's countermeasures (tungsten export restrictions) and gray-market enforcement add compliance complexity.",
+    "keyTakeaways": [
+      {
+        "text": "TSMC concentration remains the highest-impact single-point supply chain risk for Qualcomm's flagship chips.",
+        "articleIds": [
+          "a12"
+        ],
+        "subCategory": "supply-chain"
+      },
+      {
+        "text": "US-China decoupling intensifies: China's Remote Access Security Act + 10% R&D growth commitment reshape competitive dynamics.",
+        "articleIds": [
+          "a13"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "Global chip distribution routes shifting: Dubai, Istanbul, Hong Kong emerge as new semiconductor trade gateways.",
+        "articleIds": [
+          "a14"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "id": "a12",
+      "title": "2026 Geopolitics and Semiconductor Supply: Key Risks for Chip Companies",
+      "url": "https://sesamedisk.com/geopolitical-chip-supply-2026/",
+      "description": "The 2026 chip risk map extends beyond Taiwan to include Korea, Middle East energy, China export controls, and critical materials. HBM memory (80% controlled by Samsung and SK Hynix) remains a bottleneck. TSMC concentration creates the highest-impact single-point risk. China's tungsten export restrictions and US enforcement against gray-market GPU smuggling add complexity. Recommended strategies include multi-foundry certification, product tiering, and embedding compliance into chip design.",
+      "source": "Sesame Disk",
+      "sourceId": "sesame-disk",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-07-03T08:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [
+        "foundry",
+        "regulators"
+      ],
+      "summary": "2026 semiconductor supply chain risk analysis identifies TSMC concentration as the highest-impact single-point risk. HBM memory bottleneck (Samsung + SK Hynix = 80% market) creates allocation disadvantages for smaller chip buyers. China's tungsten export restrictions impact manufacturing equipment. US DOJ prosecutes $2.5B gray-market GPU smuggling case. Recommendations: multi-foundry certification, product tiering for supply flexibility, and compliance-by-design in chip architecture."
+    },
+    {
+      "id": "a14",
+      "title": "Global Chip Distribution Map 2026: How Geopolitics Reshapes Semiconductor Procurement",
+      "url": "https://www.ic-future.com/blog/geopolitics-chip-distribution-map-2026",
+      "description": "Export controls and geopolitical shifts are reshaping semiconductor distribution hubs. Dubai, Istanbul, and Hong Kong emerge as critical gateways for compliant chip sourcing. The redistribution of global semiconductor trade routes creates new compliance challenges for companies sourcing components across multiple jurisdictions.",
+      "source": "IC Future",
+      "sourceId": "ic-future",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-05-13T08:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators",
+        "foundry"
+      ],
+      "summary": "Export controls reshape global chip distribution routes in 2026. Dubai, Istanbul, and Hong Kong emerge as critical semiconductor trade gateways. Companies face increasing compliance complexity when sourcing across jurisdictions. New distribution patterns create both opportunities and risks for chip buyers. Qualcomm's global customer base requires navigating multiple export regulatory regimes simultaneously."
+    },
+    {
+      "id": "a13",
+      "title": "US-China Semiconductor Tech War 2026: Deepening Decoupling and Export Controls",
+      "url": "https://www.youngju.dev/blog/culture/2026-03-16-us-china-semiconductor-tech-war-2026.en",
+      "description": "The US-China tech cold war deepens in 2026 with China's Remote Access Security Act closing the cloud loophole. China commits to 10% annual R&D growth and intensifies semiconductor self-sufficiency efforts. The decoupling creates \"dual supply chain\" dynamics where companies must navigate parallel regulatory regimes for US and China markets.",
+      "source": "Youngju.dev",
+      "sourceId": "youngju",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-03-16T08:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [
+        "regulators",
+        "foundry"
+      ],
+      "summary": "US-China semiconductor decoupling intensifies in 2026. China closes cloud computing loophole with Remote Access Security Act and commits to 10% annual R&D growth. Export controls create \"dual supply chain\" reality — companies must navigate divergent US and China regulatory regimes. SMIC and Huawei accelerate domestic alternatives, tightening mature node capacity globally. Qualcomm faces both opportunity (China handset market) and risk (export restrictions, Huawei/HiSilicon competition)."
+    }
+  ]
 }

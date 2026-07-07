@@ -1,156 +1,107 @@
 [
   {
-    "id": "reuters",
-    "name": "Reuters",
-    "group": "finance",
-    "groupLabel": "Finance / Mainstream",
+    "id": "qualcomm",
+    "name": "Qualcomm Newsroom",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
     "hasRss": false
   },
   {
-    "id": "bloomberg",
-    "name": "Bloomberg",
-    "group": "finance",
-    "groupLabel": "Finance / Mainstream",
+    "id": "ieee-comsoc",
+    "name": "IEEE ComSoc Technology Blog",
+    "group": "telecom",
+    "groupLabel": "Telecom / Industry",
     "hasRss": false
   },
   {
-    "id": "wsj",
-    "name": "Wall Street Journal",
-    "group": "finance",
-    "groupLabel": "Finance / Mainstream",
-    "hasRss": false
-  },
-  {
-    "id": "ft",
-    "name": "Financial Times",
-    "group": "finance",
-    "groupLabel": "Finance / Mainstream",
-    "hasRss": false
-  },
-  {
-    "id": "cnbc",
-    "name": "CNBC",
-    "group": "finance",
-    "groupLabel": "Finance / Mainstream",
-    "hasRss": false
-  },
-  {
-    "id": "the-information",
-    "name": "The Information",
+    "id": "insight-tech-daily",
+    "name": "InsightTechDaily",
     "group": "tech",
     "groupLabel": "Technology",
     "hasRss": false
   },
   {
-    "id": "techcrunch",
-    "name": "TechCrunch",
+    "id": "macrumors",
+    "name": "MacRumors",
     "group": "tech",
     "groupLabel": "Technology",
     "hasRss": true
   },
   {
-    "id": "the-verge",
-    "name": "The Verge",
+    "id": "sesame-disk",
+    "name": "Sesame Disk",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": false
+  },
+  {
+    "id": "robotics-automation",
+    "name": "Robotics & Automation News",
     "group": "tech",
     "groupLabel": "Technology",
-    "hasRss": true
+    "hasRss": false
   },
   {
-    "id": "venturebeat",
-    "name": "VentureBeat",
+    "id": "ic-future",
+    "name": "IC Future",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": false
+  },
+  {
+    "id": "nextgen",
+    "name": "NextGen News",
     "group": "tech",
     "groupLabel": "Technology",
-    "hasRss": true
-  },
-  {
-    "id": "eetimes",
-    "name": "EE Times",
-    "group": "semiconductor",
-    "groupLabel": "Semiconductor",
-    "hasRss": true
-  },
-  {
-    "id": "semiconductor-engineering",
-    "name": "Semiconductor Engineering",
-    "group": "semiconductor",
-    "groupLabel": "Semiconductor",
-    "hasRss": true
-  },
-  {
-    "id": "semiconductor-digest",
-    "name": "Semiconductor Digest",
-    "group": "semiconductor",
-    "groupLabel": "Semiconductor",
-    "hasRss": true
-  },
-  {
-    "id": "silicon-semiconductor",
-    "name": "Silicon Semiconductor",
-    "group": "semiconductor",
-    "groupLabel": "Semiconductor",
-    "hasRss": true
-  },
-  {
-    "id": "iam",
-    "name": "IAM",
-    "group": "ip",
-    "groupLabel": "IP / Legal",
     "hasRss": false
   },
   {
-    "id": "ipwatchdog",
-    "name": "IPWatchdog",
-    "group": "ip",
-    "groupLabel": "IP / Legal",
-    "hasRss": true
-  },
-  {
-    "id": "patently-o",
-    "name": "Patently-O",
-    "group": "ip",
-    "groupLabel": "IP / Legal",
-    "hasRss": true
-  },
-  {
-    "id": "law360-ip",
-    "name": "Law360 IP",
-    "group": "ip",
-    "groupLabel": "IP / Legal",
+    "id": "youngju",
+    "name": "Youngju.dev",
+    "group": "tech",
+    "groupLabel": "Technology",
     "hasRss": false
   },
   {
-    "id": "ip-fray",
-    "name": "IP Fray",
-    "group": "ip",
-    "groupLabel": "IP / Legal",
+    "id": "ai-master",
+    "name": "AI Master",
+    "group": "tech",
+    "groupLabel": "Technology",
     "hasRss": false
   },
   {
-    "id": "light-reading",
-    "name": "Light Reading",
-    "group": "telecom",
-    "groupLabel": "Telecom / Industry",
-    "hasRss": true
+    "id": "propakistani",
+    "name": "ProPakistani",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
   },
   {
-    "id": "rcr-wireless",
-    "name": "RCR Wireless News",
-    "group": "telecom",
-    "groupLabel": "Telecom / Industry",
-    "hasRss": true
+    "id": "companies-history",
+    "name": "Companies History",
+    "group": "finance",
+    "groupLabel": "Finance / Mainstream",
+    "hasRss": false
   },
   {
-    "id": "mobile-world-live",
-    "name": "Mobile World Live",
-    "group": "telecom",
-    "groupLabel": "Telecom / Industry",
-    "hasRss": true
+    "id": "tencent-news",
+    "name": "Tencent News",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
   },
   {
-    "id": "fierce-wireless",
-    "name": "Fierce Wireless",
-    "group": "telecom",
-    "groupLabel": "Telecom / Industry",
-    "hasRss": true
+    "id": "sina-tech",
+    "name": "Sina Tech",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "zhihu",
+    "name": "Zhihu",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
   }
 ]
