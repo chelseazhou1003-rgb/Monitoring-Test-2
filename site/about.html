@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>About — Qualcomm News Monitor</title>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Source+Serif+4:opsz,wght@8..60,400;8..60,600;8..60,700&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="assets/css/main.css">
+</head>
+<body data-page="about">
+
+  <header class="site-header">
+    <div class="header-inner">
+      <div class="masthead">
+        <div class="masthead-left">
+          <a href="index.html" class="masthead-title" style="color:inherit;">Qualcomm Monitor</a>
+          <span class="masthead-date" id="masthead-date"></span>
+        </div>
+        <span class="masthead-updated" id="masthead-updated">Updated daily at 07:00 CST (UTC+8)</span>
+        <button class="hamburger" id="hamburger" aria-label="Menu"><span></span><span></span><span></span></button>
+      </div>
+      <nav class="primary-nav" id="primary-nav">
+        <a href="index.html" class="nav-link">Home</a>
+        <a href="core-businesses.html" class="nav-link">Core Businesses</a>
+        <a href="ip-legal.html" class="nav-link">IP & Legal</a>
+        <a href="growth-areas.html" class="nav-link">Growth Areas</a>
+        <a href="macro-environment.html" class="nav-link">Macro Environment</a>
+        <a href="competitors.html" class="nav-link">Competitors</a>
+        <a href="stakeholders.html" class="nav-link">Stakeholders</a>
+        <a href="about.html" class="nav-link">About</a>
+      </nav>
+    </div>
+  </header>
+
+  <main class="container page-content">
+    <div class="section-header">
+      <h1 class="section-title">About This Monitor</h1>
+    </div>
+
+    <div style="max-width:720px; margin-top:var(--space-8);">
+
+      <div class="about-section">
+        <h3>What This Is</h3>
+        <p>Qualcomm News Monitor is a daily briefing tool that aggregates Qualcomm-related coverage from 20+ foreign media sources across six monitoring dimensions. It updates automatically at 07:00 CST (UTC+8) every day, providing a synthesized overview of the most important developments.</p>
+      </div>
+
+      <div class="about-section">
+        <h3>Methodology</h3>
+        <p>Articles are sourced from two channels:</p>
+        <p><strong>Native RSS feeds</strong> — Sources like TechCrunch, The Verge, VentureBeat, EE Times, IPWatchdog, and others publish full RSS feeds that include titles, descriptions, and links. These are fetched directly using standard RSS parsing.</p>
+        <p><strong>Google News RSS aggregation</strong> — Premium sources like Reuters, Bloomberg, Wall Street Journal, Financial Times, and CNBC do not offer public full-text RSS feeds. For these sources, we use Google News's publicly available RSS search to surface headlines and links that mention Qualcomm. This is a legal, public-facing aggregation method that respects paywalls and only surfaces publicly indexed content.</p>
+        <p>All articles are then filtered for Qualcomm relevance using keyword matching, tagged by section and sub-category, deduplicated, and summarized. We <strong>never</strong> scrape full article text — summaries are derived solely from RSS-provided descriptions or headline-derived teasers. Every article links back to its original source.</p>
+      </div>
+
+      <div class="about-section">
+        <h3>Monitoring Dimensions</h3>
+        <p><strong>A. Core Businesses</strong> — Semiconductors, wireless communication, mobile chips, PC chips & computing platforms, automotive chips & platforms, IoT & XR.</p>
+        <p><strong>B. IP & Legal</strong> — Standard-essential patents (SEP), intellectual property, patent litigation, FRAND and licensing disputes, regulatory and antitrust actions.</p>
+        <p><strong>C. Growth Areas</strong> — On-device AI and edge AI, AI PC, embodied AI and robotics, in-vehicle infotainment and ADAS, XR and spatial computing.</p>
+        <p><strong>D. Macro Environment</strong> — Customers and partners, supply chain dynamics, geopolitics and export controls.</p>
+        <p><strong>E. Competitors</strong> — Apple, MediaTek, Intel, NVIDIA, AMD, Samsung, Broadcom, Huawei and other relevant competitors.</p>
+        <p><strong>F. Key Stakeholders</strong> — Standards bodies (3GPP, ETSI, IEEE), industry alliances (Wi-Fi Alliance, Bluetooth SIG, USB-IF, O-RAN), regulators, OEMs, foundries, and platform partners.</p>
+      </div>
+
+      <div class="about-section">
+        <h3>Source Registry</h3>
+        <p>The following table lists all monitored sources and their data collection method:</p>
+        <div style="overflow-x:auto;">
+          <table class="source-table">
+            <thead><tr><th>Source</th><th>Group</th><th>Collection Method</th></tr></thead>
+            <tbody id="sources-tbody">
+              <tr><td colspan="3" style="text-align:center;color:var(--ink-faint);">Loading...</td></tr>
+            </tbody>
+          </table>
+        </div>
+      </div>
+
+      <div class="about-section">
+        <h3>Limitations</h3>
+        <p><strong>Paywalled sources:</strong> Bloomberg, WSJ, FT, and The Information operate behind paywalls. Their articles appear as headlines with links; full text is not available through public RSS. Law360 IP is entirely subscriber-only; only Google News headlines are surfaced.</p>
+        <p><strong>Timeliness:</strong> RSS feeds are fetched once daily at 23:00 UTC. Breaking news after this window will appear in the next day's briefing.</p>
+        <p><strong>Coverage gaps:</strong> Articles may be missed if they do not appear in the monitored RSS feeds or Google News results at fetch time. The keyword-based relevance filter may occasionally misclassify articles.</p>
+        <p><strong>No full-text scraping:</strong> To respect publishers' terms of service, we do not scrape article bodies. Summaries are limited to the information available in RSS feed descriptions.</p>
+      </div>
+
+      <div class="about-section">
+        <h3>Update Schedule</h3>
+        <p>The build pipeline runs daily at 23:00 UTC, which corresponds to <strong>07:00 China Standard Time (UTC+8)</strong>. The site is automatically redeployed with fresh data immediately after each build.</p>
+      </div>
+
+      <div class="about-section">
+        <h3>Disclaimer</h3>
+        <p>This site is an independent news aggregation tool. It is not affiliated with, endorsed by, or sponsored by Qualcomm Incorporated. All trademarks and copyrights belong to their respective owners. Article summaries link to original sources; we do not host or reproduce copyrighted content.</p>
+        <p>The information provided is for general informational purposes only and should not be considered investment advice or a comprehensive news service.</p>
+      </div>
+    </div>
+  </main>
+
+  <footer class="site-footer"><div class="footer-inner"><div class="divider"></div><p class="body-xs">Aggregated from public RSS feeds. Not affiliated with Qualcomm Incorporated.</p></div></footer>
+  <script type="module" src="assets/js/app.js"></script>
+</body>
+</html>

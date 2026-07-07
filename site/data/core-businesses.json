@@ -1,0 +1,162 @@
+{
+  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "date": "2026-07-07",
+  "section": "core-businesses",
+  "sectionTitle": "Core Businesses",
+  "briefing": {
+    "summary": "Qualcomm's core businesses saw strong momentum in H1 2026, driven by Snapdragon X2 series AI PC chips, new mid-range mobile SoCs, and expanding automotive design wins. The Snapdragon Digital Chassis platform secured partnerships with Toyota and Stellantis, while the X105 5G modem positioned Qualcomm for the 6G transition.",
+    "keyTakeaways": [
+      {
+        "text": "PC Chips: Snapdragon X2 Elite outperforms Apple M5 in multi-core benchmarks; X2 Plus brings 80 TOPS NPU to mainstream AI PCs.",
+        "articleIds": [
+          "a2",
+          "a9"
+        ],
+        "subCategory": "pc-chips-computing"
+      },
+      {
+        "text": "Automotive: Stellantis and Toyota partnerships expand Snapdragon Digital Chassis to millions of vehicles globally.",
+        "articleIds": [
+          "a4",
+          "a5"
+        ],
+        "subCategory": "automotive"
+      },
+      {
+        "text": "Wireless: X105 modem becomes industry's first 3GPP Release 19-ready 5G Advanced platform, bridging to 6G.",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Mobile: Snapdragon 6/4 Gen 5 chips strengthen Qualcomm's mid-range position against MediaTek.",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "mobile-chips"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": "a1",
+      "title": "Qualcomm Introduces Snapdragon 6 Gen 5 and 4 Gen 5 Chips for Mid-Range Smartphones",
+      "url": "https://propakistani.pk/2026/07/01/snapdragon-6-gen-5-and-4-gen-5-chips-launched/",
+      "description": "Qualcomm has introduced the Snapdragon 6 Gen 5 and Snapdragon 4 Gen 5 processors for mid-range and budget smartphones. The new chips bring improved AI processing capabilities, better power efficiency, and enhanced camera features to the mid-tier market segment.",
+      "source": "ProPakistani",
+      "sourceId": "propakistani",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-07-01T08:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [
+        "mediatek"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm launches Snapdragon 6 Gen 5 and Snapdragon 4 Gen 5 processors for mid-range smartphones. The new chips deliver enhanced AI processing, improved power efficiency, and upgraded camera capabilities. The launch strengthens Qualcomm's position against MediaTek in the mid-tier mobile SoC segment. These chips bring premium-tier features to more affordable devices."
+    },
+    {
+      "id": "a5",
+      "title": "Stellantis Expands Qualcomm Partnership for AI-Powered Vehicle Platforms Across Global Portfolio",
+      "url": "https://roboticsandautomationnews.com/2026/05/22/stellantis-expands-qualcomm-partnership-for-ai-powered-vehicle-platforms/101840/",
+      "description": "Stellantis and Qualcomm announced an expanded multi-year collaboration to integrate Snapdragon Digital Chassis SoCs across next-generation Stellantis vehicles. The deal covers cockpit, connectivity, and ADAS with the STLA Brain platform. Includes Snapdragon Ride Pilot for scalable Level 2+ autonomy. Stellantis-owned aiMotive may join Qualcomm under a letter of intent.",
+      "source": "Robotics & Automation News",
+      "sourceId": "robotics-automation",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-05-22T12:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "subLabel": "Automotive",
+      "competitors": [
+        "nvidia",
+        "intel"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Stellantis deepens Qualcomm partnership to deploy Snapdragon Digital Chassis across its global vehicle portfolio. Integration spans cockpit, connectivity, and ADAS through the STLA Brain platform. Snapdragon Ride Pilot enables scalable Level 2+ hands-free autonomy. Stellantis-owned aiMotive may be acquired by Qualcomm. This represents one of the largest automotive semiconductor partnerships, spanning millions of vehicles across multiple brands."
+    },
+    {
+      "id": "a3",
+      "title": "Qualcomm X105 5G Modem Debuts at MWC 2026: First 3GPP Release 19-Ready Platform",
+      "url": "https://k.sina.com.cn/article_7879848900_1d5acf3c401902wmms.html",
+      "description": "At MWC 2026, Qualcomm introduced the X105 5G Modem-RF, the world's first 5G Advanced platform ready for 3GPP Release 19. Features include a 6nm RF transceiver, quad-band GNSS support, and integrated NR-NTN for satellite video, data, and voice communication. The platform sets the foundation for 6G development and testing.",
+      "source": "Sina Tech",
+      "sourceId": "sina-tech",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-03-03T09:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless",
+      "competitors": [
+        "huawei",
+        "samsung"
+      ],
+      "stakeholders": [
+        "3gpp",
+        "etsi"
+      ],
+      "summary": "Qualcomm unveils X105 5G Modem-RF at MWC 2026 — the industry's first Release 19-ready 5G Advanced platform. Features 6nm RF transceiver for improved power efficiency and smaller footprint. Integrates NR-NTN for satellite-based video, data, and voice communications. The platform is designed as a bridge toward 6G development. Quad-band GNSS support enhances location accuracy for automotive and IoT applications."
+    },
+    {
+      "id": "a2",
+      "title": "Qualcomm Unveils Snapdragon X2 Plus at CES 2026: 80 TOPS NPU Targets Mainstream AI PCs",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_289695dc0c139852",
+      "description": "Qualcomm introduced the Snapdragon X2 Plus at CES 2026, a more affordable variant of the X2 Elite. The chip features an 80 TOPS NPU AI accelerator (up from 45 TOPS), improved graphics, and \"multi-day\" battery life. The X2 Plus shares the same architecture as the Elite series with FP8 data type support. Expected in laptops by end of March 2026.",
+      "source": "Tencent News",
+      "sourceId": "tencent-news",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-01-07T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "core-businesses",
+      "subCategory": "pc-chips-computing",
+      "subLabel": "PC Chips & Computing",
+      "competitors": [
+        "apple",
+        "intel",
+        "amd",
+        "nvidia"
+      ],
+      "stakeholders": [
+        "platform-partner",
+        "oem"
+      ],
+      "summary": "Qualcomm launches Snapdragon X2 Plus at CES 2026 as a mainstream AI PC chip. Features 80 TOPS NPU, nearly double the previous 45 TOPS. Shares X2 Elite architecture with FP8 support and significantly improved graphics. Promises \"multi-day\" battery life for Windows laptops. Positions Qualcomm aggressively against Intel Lunar Lake, AMD Strix Halo, and Apple M-series in the AI PC race."
+    },
+    {
+      "id": "a4",
+      "title": "Qualcomm Drives Future of Mobility: Snapdragon Digital Chassis Gains Global Adoption at CES 2026",
+      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-drives-the-future-of-mobility-with-strong-snapdragon-di",
+      "description": "At CES 2026, Qualcomm announced expanded automotive collaborations including Google, Toyota, Li Auto, NIO, Leapmotor, ZF, and Stellantis. Snapdragon Ride and Cockpit Elite platforms now power 10+ design wins. Snapdragon Ride Flex — the first commercialized mixed-criticality SoC — is deployed in 8 global programs. Qualcomm introduced the A10 5G RedCap modem for automotive connectivity. Over 75 million vehicles worldwide now use Snapdragon Cockpit Platforms.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-01-05T14:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "core-businesses",
+      "subCategory": "automotive",
+      "subLabel": "Automotive",
+      "competitors": [
+        "nvidia",
+        "intel"
+      ],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Qualcomm reveals massive automotive momentum at CES 2026. Snapdragon Ride and Cockpit Elite platforms achieve 10+ design wins with automakers including Toyota (RAV4), Li Auto, NIO, and Leapmotor. Snapdragon Ride Flex — the industry's first mixed-criticality SoC unifying cockpit and ADAS — now deployed in 8 global production programs. New A10 5G RedCap modem introduced for mission-critical automotive connectivity. Over 75M vehicles worldwide run Snapdragon Cockpit Platforms."
+    }
+  ]
+}

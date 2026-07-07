@@ -1,0 +1,107 @@
+[
+  {
+    "id": "qualcomm",
+    "name": "Qualcomm Newsroom",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": false
+  },
+  {
+    "id": "ieee-comsoc",
+    "name": "IEEE ComSoc Technology Blog",
+    "group": "telecom",
+    "groupLabel": "Telecom / Industry",
+    "hasRss": false
+  },
+  {
+    "id": "insight-tech-daily",
+    "name": "InsightTechDaily",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "macrumors",
+    "name": "MacRumors",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": true
+  },
+  {
+    "id": "sesame-disk",
+    "name": "Sesame Disk",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": false
+  },
+  {
+    "id": "robotics-automation",
+    "name": "Robotics & Automation News",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "ic-future",
+    "name": "IC Future",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": false
+  },
+  {
+    "id": "nextgen",
+    "name": "NextGen News",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "youngju",
+    "name": "Youngju.dev",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "ai-master",
+    "name": "AI Master",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "propakistani",
+    "name": "ProPakistani",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "companies-history",
+    "name": "Companies History",
+    "group": "finance",
+    "groupLabel": "Finance / Mainstream",
+    "hasRss": false
+  },
+  {
+    "id": "tencent-news",
+    "name": "Tencent News",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "sina-tech",
+    "name": "Sina Tech",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  },
+  {
+    "id": "zhihu",
+    "name": "Zhihu",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": false
+  }
+]

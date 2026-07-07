@@ -1,0 +1,107 @@
+{
+  "generatedAt": "2026-07-07T09:50:00.000Z",
+  "date": "2026-07-07",
+  "section": "growth-areas",
+  "sectionTitle": "Growth Areas",
+  "briefing": {
+    "summary": "Qualcomm's growth areas are centered on AI PC expansion, automotive agentic AI, and next-gen connectivity. The Snapdragon X2 series positions Qualcomm strongly in the AI PC race, while partnerships with Google and automakers bring on-device AI to vehicles. MWC 2026 showcased Qualcomm's vision for AI-native networks in the 6G era.",
+    "keyTakeaways": [
+      {
+        "text": "AI PC: Snapdragon X2 Elite leads multi-core performance; five-way chip war (Qualcomm, Apple, Nvidia, Intel, AMD) reshapes PC market.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "ai-pc"
+      },
+      {
+        "text": "Automotive AI: Qualcomm-Google partnership brings agentic AI personalization to vehicles; Toyota RAV4 is first deployment.",
+        "articleIds": [
+          "a10"
+        ],
+        "subCategory": "on-device-ai"
+      },
+      {
+        "text": "6G Connectivity: AI-native Wi-Fi 8 and agentic RAN management position Qualcomm for decade-long intelligent connectivity roadmap.",
+        "articleIds": [
+          "a11"
+        ],
+        "subCategory": "on-device-ai"
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": "a11",
+      "title": "Qualcomm at MWC 2026: AI-Native Wi-Fi 8 and Agentic RAN Management for 6G Era",
+      "url": "https://so.html5.qq.com/page/real/search_news?docid=70000021_17369a91c6c69752",
+      "description": "At MWC 2026, Qualcomm showcased next-generation connectivity technologies including new wearable platforms, 5G Advanced modems, AI-native Wi-Fi 8 product portfolio, and agentic RAN management services. The demonstrations outlined Qualcomm's vision for intelligent connectivity over the next decade, positioning the company at the center of the 6G commercialization roadmap.",
+      "source": "Tencent News",
+      "sourceId": "tencent-news",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-03-03T09:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI",
+      "competitors": [
+        "huawei",
+        "samsung"
+      ],
+      "stakeholders": [
+        "3gpp",
+        "wi-fi-alliance",
+        "o-ran"
+      ],
+      "summary": "Qualcomm presents AI-driven connectivity vision at MWC 2026. Key announcements: AI-native Wi-Fi 8 portfolio, agentic RAN management services, and new wearable platforms. The technology roadmap positions Qualcomm for 6G era where AI manages network resources autonomously. Demonstrates convergence of on-device AI with network infrastructure. O-RAN and Wi-Fi Alliance standards alignment signals broad ecosystem engagement."
+    },
+    {
+      "id": "a9",
+      "title": "The 2026 Five-Way Chip War: Nvidia, Apple, and Qualcomm Challenge the x86 Duopoly",
+      "url": "https://insighttechdaily.com/2026-five-way-chip-war-nvidia-apple-qualcomm-x86/",
+      "description": "The PC processor market has evolved from an Intel-vs-AMD duopoly to a five-way battle including Qualcomm, Apple, and Nvidia. Qualcomm's Snapdragon X2 Elite achieves 1,432 in multi-core Cinebench 2024, ahead of Apple M5 in multi-core. Nvidia's N1X platform with MediaTek targets 180-200 TOPs AI performance. The battle is no longer about raw speed but platform control — AI acceleration, efficiency, and integrated design.",
+      "source": "InsightTechDaily",
+      "sourceId": "insight-tech-daily",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-02-25T10:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "growth-areas",
+      "subCategory": "ai-pc",
+      "subLabel": "AI PC",
+      "competitors": [
+        "apple",
+        "intel",
+        "amd",
+        "nvidia"
+      ],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "The 2026 PC chip market has become a five-way battle: Qualcomm, Apple, Nvidia, Intel, and AMD. Qualcomm's Snapdragon X2 Elite scores 1,432 in Cinebench 2024 multi-core, surpassing Apple M5. Nvidia enters PC CPU space with N1X (MediaTek partnership) targeting 180-200 TOPs. Intel's Panther Lake (18A process) and AMD's Strix Halo defend x86. The war is shifting from raw performance to integrated AI platform control. Arm-based designs are increasingly competitive in efficiency and AI acceleration."
+    },
+    {
+      "id": "a10",
+      "title": "Qualcomm and Google Lead Next Era of Intelligent Mobility Powered by Agentic AI",
+      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-drives-the-future-of-mobility-with-strong-snapdragon-di",
+      "description": "Qualcomm and Google announced an expanded collaboration to combine Snapdragon Digital Chassis with Google's automotive software for agentic AI-driven personalization. The partnership aims to simplify deployment of next-generation AI experiences through voice, touch, and visual interfaces. Toyota selected Snapdragon Cockpit Platform for the new RAV4 with AI features that anticipate driver needs.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-01-05T14:00:00.000Z",
+      "fetchedAt": "2026-07-07T09:50:00.000Z",
+      "fetchStrategy": "web-research",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI",
+      "competitors": [
+        "nvidia"
+      ],
+      "stakeholders": [
+        "platform-partner",
+        "oem"
+      ],
+      "summary": "Qualcomm and Google deepen automotive AI partnership, combining Snapdragon Digital Chassis with Google's automotive software. The collaboration targets agentic AI personalization — vehicles that anticipate driver needs in real time. Toyota RAV4 becomes first major model to deploy next-gen AI-powered Snapdragon Cockpit. The partnership aims to simplify OEM deployment of voice, touch, and visual AI interfaces. Represents convergence of on-device AI and automotive."
+    }
+  ]
+}

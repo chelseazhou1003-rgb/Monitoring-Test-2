@@ -1,0 +1,21 @@
+{
+  "name": "qualcomm-news-monitor",
+  "version": "1.0.0",
+  "description": "Daily Qualcomm news monitoring aggregator from foreign media sources. Updated at 07:00 CST daily.",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build.js",
+    "serve": "npx serve site",
+    "dev": "npx serve site"
+  },
+  "dependencies": {
+    "rss-parser": "^3.13.0"
+  },
+  "devDependencies": {
+    "serve": "^14.2.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
