@@ -1,6 +1,8 @@
 name: Daily News Build & Deploy
 
 on:
+  push:
+    branches: [main]
   schedule:
     # Runs at 23:00 UTC every day = 07:00 Beijing time (UTC+8)
     - cron: '0 23 * * *'
