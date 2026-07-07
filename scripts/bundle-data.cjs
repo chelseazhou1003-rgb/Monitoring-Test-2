@@ -21,7 +21,6 @@ for (const f of files) {
 }
 
 const js = `// Auto-generated data bundle — do not edit manually
-// Generated at: ${new Date().toISOString()}
 
 export const NEWS_DATA = ${JSON.stringify(data, null, 2)};
 

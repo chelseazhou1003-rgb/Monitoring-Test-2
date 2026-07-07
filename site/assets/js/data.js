@@ -1,5 +1,4 @@
 // Auto-generated data bundle — do not edit manually
-// Generated at: 2026-07-07T10:43:26.462Z
 
 export const NEWS_DATA = {
   "competitors": {
