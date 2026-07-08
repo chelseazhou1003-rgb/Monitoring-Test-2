@@ -1,18 +1,22 @@
 // Fetch RSS feeds from native RSS sources using rss-parser
+// Each request is wrapped in a hard timeout to avoid hangs in CI
 
 import Parser from 'rss-parser';
 
 const parser = new Parser({
-  timeout: 15000,
+  timeout: 10000,
   headers: {
     'User-Agent': 'QualcommNewsMonitor/1.0 (RSS aggregator; news-monitor@example.com)',
     'Accept': 'application/rss+xml, application/xml, text/xml, application/atom+xml'
   }
 });
 
+const REQUEST_TIMEOUT_MS = 12000;
+
 export async function fetchNativeRss(feed) {
+  console.log(`  [${feed.name}] RSS: fetching ${feed.url}`);
   try {
-    const parsed = await parser.parseURL(feed.url);
+    const parsed = await withTimeout(parser.parseURL(feed.url), REQUEST_TIMEOUT_MS, `RSS fetch for ${feed.name}`);
     const items = (parsed.items || []).map(item => ({
       title: item.title?.trim() || '',
       url: item.link?.trim() || '',
@@ -24,12 +28,25 @@ export async function fetchNativeRss(feed) {
       fetchedAt: new Date().toISOString(),
       fetchStrategy: 'rss'
     }));
-    console.log(`  [${feed.name}] RSS: ${items.length} items`);
+    console.log(`  [${feed.name}] RSS: ${items.length} items fetched`);
     return items;
   } catch (err) {
     console.warn(`  [${feed.name}] RSS fetch failed: ${err.message}`);
     return [];
   }
+}
+
+function withTimeout(promise, ms, label) {
+  return Promise.race([
+    promise,
+    new Promise((_, reject) => {
+      const timer = setTimeout(() => {
+        reject(new Error(`${label} timed out after ${ms}ms`));
+      }, ms);
+      // Clean up timer if promise resolves first to avoid dangling timers
+      promise.then(() => clearTimeout(timer)).catch(() => clearTimeout(timer));
+    })
+  ]);
 }
 
 function cleanHtml(html) {

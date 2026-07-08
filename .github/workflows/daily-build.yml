@@ -39,6 +39,7 @@ jobs:
 
       - name: Fetch latest articles from all RSS sources
         run: npm run build
+        timeout-minutes: 5
 
       - name: Bundle fresh data into JS module
         run: node scripts/bundle-data.cjs

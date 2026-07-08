@@ -1,17 +1,14 @@
 // Google News RSS fallback for premium sources without public RSS
 // Uses news.google.com/rss/search — public, legal aggregation
 
+const GOOGLE_NEWS_TIMEOUT_MS = 10000;
+
 async function fetchGoogleNewsRss(query, hl = 'en', gl = 'US', ceid = 'US:en') {
   const encodedQuery = encodeURIComponent(`${query} when:1d`);
   const url = `https://news.google.com/rss/search?q=${encodedQuery}&hl=${hl}&gl=${gl}&ceid=${ceid}`;
 
   try {
-    const response = await fetch(url, {
-      headers: {
-        'User-Agent': 'QualcommNewsMonitor/1.0 (RSS aggregator)'
-      },
-      signal: AbortSignal.timeout(15000)
-    });
+    const response = await fetchWithTimeout(url, GOOGLE_NEWS_TIMEOUT_MS, `Google News: ${query}`);
 
     if (!response.ok) {
       throw new Error(`HTTP ${response.status}`);
@@ -23,6 +20,20 @@ async function fetchGoogleNewsRss(query, hl = 'en', gl = 'US', ceid = 'US:en') {
     console.warn(`  Google News fetch failed for "${query}": ${err.message}`);
     return [];
   }
+}
+
+async function fetchWithTimeout(url, ms, label) {
+  return Promise.race([
+    fetch(url, {
+      headers: {
+        'User-Agent': 'QualcommNewsMonitor/1.0 (RSS aggregator)'
+      },
+      signal: AbortSignal.timeout(ms)
+    }),
+    new Promise((_, reject) =>
+      setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms)
+    )
+  ]);
 }
 
 function parseGoogleNewsRss(xml) {
@@ -134,24 +145,45 @@ export async function fetchAllGoogleNews(feeds) {
   const gnFeeds = feeds.filter(f => f.strategy === 'google-news');
   const results = [];
 
-  // Sequential to avoid rate-limiting
-  for (const feed of gnFeeds) {
-    console.log(`  [${feed.name}] Google News: "${feed.googleQuery}"`);
-    const items = await fetchGoogleNewsRss(feed.googleQuery);
-    // Annotate with expected source info
-    const annotated = items.map(item => {
-      item.source = feed.name;
-      item.sourceId = feed.id;
-      item.sourceGroup = feed.group;
-      return item;
-    });
-    console.log(`  [${feed.name}] Google News: ${annotated.length} items`);
-    results.push(...annotated);
-    // Small delay between requests
-    await sleep(1000);
+  // Process in batches of 3 to balance speed and rate-limiting
+  const BATCH_SIZE = 3;
+  const BATCH_DELAY_MS = 800;
+
+  for (let i = 0; i < gnFeeds.length; i += BATCH_SIZE) {
+    const batch = gnFeeds.slice(i, i + BATCH_SIZE);
+    console.log(`  [Google News] Starting batch ${Math.floor(i / BATCH_SIZE) + 1}/${Math.ceil(gnFeeds.length / BATCH_SIZE)}: ${batch.map(f => f.name).join(', ')}`);
+
+    const batchResults = await Promise.allSettled(
+      batch.map(feed => fetchOneGoogleNews(feed))
+    );
+
+    for (const result of batchResults) {
+      if (result.status === 'fulfilled') {
+        results.push(...result.value);
+      }
+    }
+
+    // Small delay between batches to avoid rate-limiting
+    if (i + BATCH_SIZE < gnFeeds.length) {
+      await sleep(BATCH_DELAY_MS);
+    }
   }
 
+  console.log(`  [Google News] Total fetched: ${results.length} items`);
   return results;
+}
+
+async function fetchOneGoogleNews(feed) {
+  console.log(`  [${feed.name}] Google News: "${feed.googleQuery}"`);
+  const items = await fetchGoogleNewsRss(feed.googleQuery);
+  const annotated = items.map(item => {
+    item.source = feed.name;
+    item.sourceId = feed.id;
+    item.sourceGroup = feed.group;
+    return item;
+  });
+  console.log(`  [${feed.name}] Google News: ${annotated.length} items`);
+  return annotated;
 }
 
 function sleep(ms) {
