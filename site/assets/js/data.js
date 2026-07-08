@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-07-08T03:38:11.883Z",
+    "generatedAt": "2026-07-08T03:49:40.245Z",
     "date": "2026-07-08",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -59,7 +59,7 @@ export const NEWS_DATA = {
           "subCategory": "intel"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.883Z",
+      "generatedAt": "2026-07-08T03:49:40.244Z",
       "dateScope": "latest-available",
       "articleCount": 7,
       "totalArticles": 7
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "the-information",
         "sourceGroup": "tech",
         "publishedAt": "2026-06-16T12:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "nvidia",
@@ -89,7 +89,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T15:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "nvidia",
@@ -104,7 +104,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-06T15:21:51.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "nvidia",
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T12:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "broadcom",
@@ -134,7 +134,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-28T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "mediatek",
@@ -149,7 +149,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-07T15:19:07.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "other",
@@ -164,7 +164,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-06-03T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.883Z",
+        "fetchedAt": "2026-07-08T03:49:40.244Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "intel",
@@ -173,12 +173,12 @@ export const NEWS_DATA = {
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-07-08T03:38:11.871Z",
+    "generatedAt": "2026-07-08T03:49:40.237Z",
     "date": "2026-07-08",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "As of 2026-06-25, 11 article(s) from EE Times, CNBC, Qualcomm Newsroom, Mobile World Live, Fierce Wireless, Yahoo Finance cover core businesses: \"Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions\"; \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM's Q3 2026 Earnings: What to Expect\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
+      "summary": "As of 2026-06-25, 13 article(s) from EE Times, CNBC, Qualcomm Newsroom, Mobile World Live, Fierce Wireless, Bloomberg, Yahoo Finance cover core businesses: \"Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions\"; \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Qualcomm to Buy Modular for $3.9 Billion to Help AI Push\"; \"Qualcomm Nearing Deal for AI Chip Startup Modular at $4 Billion, Bloomberg Reports\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM's Q3 2026 Earnings: What to Expect\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
       "keyTakeaways": [
         {
           "text": "Qualcomm takes the data center by storm with Dragonfly C1000 CPUs (250 Oryon cores at 5GHz), AI250 accelerators, and High-Bandwidth Compute memory. Projected...",
@@ -237,6 +237,20 @@ export const NEWS_DATA = {
           "subCategory": "automotive"
         },
         {
+          "text": "Qualcomm confirmed the acquisition of AI infrastructure software company Modular in an all-stock transaction valued at $3.9 billion. The deal, first reported...",
+          "articleIds": [
+            "cb-bb1"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported, citing ...",
+          "articleIds": [
+            "cb-bb2"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
           "text": "Qualcomm's share price has climbed over the past few years, yet the valuation picture is more balanced. Excitement around Qualcomm's push into AI-related chi...",
           "articleIds": [
             "cb-yf1"
@@ -258,10 +272,10 @@ export const NEWS_DATA = {
           "subCategory": "semiconductors"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.871Z",
+      "generatedAt": "2026-07-08T03:49:40.237Z",
       "dateScope": "latest-available",
-      "articleCount": 11,
-      "totalArticles": 11
+      "articleCount": 13,
+      "totalArticles": 13
     },
     "articles": [
       {
@@ -273,7 +287,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -288,7 +302,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T19:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -303,7 +317,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-06-24T14:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -318,7 +332,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-05-07T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -333,7 +347,7 @@ export const NEWS_DATA = {
         "sourceId": "fierce-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2026-03-02T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -348,7 +362,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-05-21T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -363,7 +377,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-03-01T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -378,11 +392,41 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-03-19T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "automotive",
         "subLabel": "Automotive"
+      },
+      {
+        "id": "cb-bb1",
+        "title": "Qualcomm to Buy Modular for $3.9 Billion to Help AI Push",
+        "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/qualcomm-confirms-buying-modular-to-help-ai-market-push",
+        "description": "Qualcomm confirmed the acquisition of AI infrastructure software company Modular in an all-stock transaction valued at $3.9 billion. The deal, first reported by Bloomberg, gives Modular's owners 19.2 million Qualcomm shares and is expected to close in H2 2026. Modular's Mojo language and MAX engine challenge NVIDIA's CUDA dominance.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-06-24T08:00:00.000Z",
+        "fetchedAt": "2026-07-08T03:49:40.235Z",
+        "fetchStrategy": "approved-source",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors"
+      },
+      {
+        "id": "cb-bb2",
+        "title": "Qualcomm Nearing Deal for AI Chip Startup Modular at $4 Billion, Bloomberg Reports",
+        "url": "https://money.usnews.com/investing/news/articles/2026-06-22/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports",
+        "description": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported, citing people familiar with the matter. The scoop broke two days before Qualcomm's Investor Day, where the Dragonfly data center platform was unveiled.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-06-22T18:00:00.000Z",
+        "fetchedAt": "2026-07-08T03:49:40.236Z",
+        "fetchStrategy": "approved-source",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors"
       },
       {
         "id": "cb-yf1",
@@ -393,7 +437,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-07T22:09:57.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.236Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "market-performance",
@@ -408,7 +452,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-07T14:16:48.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.236Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "market-performance",
@@ -423,7 +467,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-30T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.870Z",
+        "fetchedAt": "2026-07-08T03:49:40.236Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -432,7 +476,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-07-08T03:38:11.886Z",
+    "generatedAt": "2026-07-08T03:49:40.247Z",
     "date": "2026-07-08",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -482,7 +526,7 @@ export const NEWS_DATA = {
           "subCategory": "on-device-ai"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.886Z",
+      "generatedAt": "2026-07-08T03:49:40.247Z",
       "dateScope": "latest-available",
       "articleCount": 6,
       "totalArticles": 6
@@ -497,7 +541,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-03-02T14:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "xr-spatial-computing",
@@ -512,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-06-16T18:22:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "xr-spatial-computing",
@@ -527,7 +571,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-10T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "xr-spatial-computing",
@@ -542,7 +586,7 @@ export const NEWS_DATA = {
         "sourceId": "rcr-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2025-10-09T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -557,7 +601,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-01-05T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -572,7 +616,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.886Z",
+        "fetchedAt": "2026-07-08T03:49:40.247Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -581,7 +625,7 @@ export const NEWS_DATA = {
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-07-08T03:38:11.889Z",
+    "generatedAt": "2026-07-08T03:49:40.254Z",
     "date": "2026-07-08",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -645,7 +689,7 @@ export const NEWS_DATA = {
           "subCategory": "ip"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.889Z",
+      "generatedAt": "2026-07-08T03:49:40.254Z",
       "dateScope": "latest-available",
       "articleCount": 8,
       "totalArticles": 8
@@ -660,7 +704,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-01-28T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "sep",
@@ -675,7 +719,7 @@ export const NEWS_DATA = {
         "sourceId": "ieee-comsoc",
         "sourceGroup": "telecom",
         "publishedAt": "2026-01-30T12:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "sep",
@@ -690,7 +734,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-03-11T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -705,7 +749,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-04-30T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -720,7 +764,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-02-13T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -735,7 +779,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-02-17T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "regulatory-antitrust",
@@ -750,7 +794,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-06-23T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.253Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -765,7 +809,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-24T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.888Z",
+        "fetchedAt": "2026-07-08T03:49:40.254Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -774,13 +818,27 @@ export const NEWS_DATA = {
     ]
   },
   "macro-environment": {
-    "generatedAt": "2026-07-08T03:38:11.907Z",
+    "generatedAt": "2026-07-08T03:49:40.270Z",
     "date": "2026-07-08",
     "section": "macro-environment",
     "sectionTitle": "Macro Environment",
     "briefing": {
-      "summary": "As of 2026-07-07, 6 article(s) from Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm plans China AI chip push with export-control-compliant custom chips\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
+      "summary": "As of 2026-03-17, 8 article(s) from Bloomberg, Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm Unveils $20 Billion Stock Buyback Program\"; \"Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek\"; \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm plans China AI chip push with export-control-compliant custom chips\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
       "keyTakeaways": [
+        {
+          "text": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025....",
+          "articleIds": [
+            "me-bb1"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
+          "text": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's ...",
+          "articleIds": [
+            "me-bb2"
+          ],
+          "subCategory": "market-performance"
+        },
         {
           "text": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed ...",
           "articleIds": [
@@ -824,12 +882,42 @@ export const NEWS_DATA = {
           "subCategory": "customers-partners"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.907Z",
+      "generatedAt": "2026-07-08T03:49:40.270Z",
       "dateScope": "latest-available",
-      "articleCount": 6,
-      "totalArticles": 6
+      "articleCount": 8,
+      "totalArticles": 8
     },
     "articles": [
+      {
+        "id": "me-bb1",
+        "title": "Qualcomm Unveils $20 Billion Stock Buyback Program",
+        "url": "https://www.bnnbloomberg.ca/business/2026/03/17/qualcomm-unveils-us20-billion-stock-buyback-program/",
+        "description": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025. The aggressive capital return signals confidence in long-term growth, particularly in automotive, IoT and data center segments, Bloomberg reported.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-03-17T10:00:00.000Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
+        "fetchStrategy": "approved-source",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "Market Performance"
+      },
+      {
+        "id": "me-bb2",
+        "title": "Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek",
+        "url": "https://www.startuphub.ai/ai-news/semiconductors/2026/micron-qualcomm-rally-on-ai-boom-businessweek-reports",
+        "description": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's Dragonfly data center platform and Modular acquisition have attracted renewed investor interest, positioning the company as an emerging AI infrastructure play.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-06-25T10:00:00.000Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
+        "fetchStrategy": "approved-source",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "Market Performance"
+      },
       {
         "id": "me-yf1",
         "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -839,7 +927,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-07T21:45:04.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -854,7 +942,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-07-07T21:16:04.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -869,7 +957,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-30T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -884,7 +972,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T12:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -899,7 +987,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -914,7 +1002,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-01-07T08:13:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.907Z",
+        "fetchedAt": "2026-07-08T03:49:40.269Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -923,7 +1011,7 @@ export const NEWS_DATA = {
     ]
   },
   "stakeholders": {
-    "generatedAt": "2026-07-08T03:38:11.916Z",
+    "generatedAt": "2026-07-08T03:49:40.275Z",
     "date": "2026-07-08",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -959,7 +1047,7 @@ export const NEWS_DATA = {
           "subCategory": "3gpp"
         }
       ],
-      "generatedAt": "2026-07-08T03:38:11.916Z",
+      "generatedAt": "2026-07-08T03:49:40.275Z",
       "dateScope": "latest-available",
       "articleCount": 4,
       "totalArticles": 4
@@ -974,7 +1062,7 @@ export const NEWS_DATA = {
         "sourceId": "ieee-comsoc",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-16T12:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.916Z",
+        "fetchedAt": "2026-07-08T03:49:40.274Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "3gpp",
@@ -989,7 +1077,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.916Z",
+        "fetchedAt": "2026-07-08T03:49:40.275Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "3gpp",
@@ -1004,7 +1092,7 @@ export const NEWS_DATA = {
         "sourceId": "fierce-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2026-02-17T11:49:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.916Z",
+        "fetchedAt": "2026-07-08T03:49:40.275Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "etsi",
@@ -1019,7 +1107,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-03-02T10:00:00.000Z",
-        "fetchedAt": "2026-07-08T03:38:11.916Z",
+        "fetchedAt": "2026-07-08T03:49:40.275Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "3gpp",

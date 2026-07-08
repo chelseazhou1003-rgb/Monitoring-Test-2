@@ -104,6 +104,19 @@ const RAW_ARTICLES = {
       description: 'Qualcomm reached $1.1B in automotive revenue with $45B in design-win pipeline. Snapdragon Digital Chassis enables AI-powered software-defined vehicles across major global automakers. Over 75M vehicles worldwide now use Snapdragon Cockpit Platforms.',
       sourceId: 'qualcomm-newsroom', publishedAt: '2026-03-19T10:00:00.000Z', subCategory: 'automotive',
     },
+    // --- Bloomberg exclusives ---
+    {
+      id: 'cb-bb1', title: 'Qualcomm to Buy Modular for $3.9 Billion to Help AI Push',
+      url: 'https://news.bloomberglaw.com/mergers-and-acquisitions/qualcomm-confirms-buying-modular-to-help-ai-market-push',
+      description: 'Qualcomm confirmed the acquisition of AI infrastructure software company Modular in an all-stock transaction valued at $3.9 billion. The deal, first reported by Bloomberg, gives Modular\'s owners 19.2 million Qualcomm shares and is expected to close in H2 2026. Modular\'s Mojo language and MAX engine challenge NVIDIA\'s CUDA dominance.',
+      sourceId: 'bloomberg', publishedAt: '2026-06-24T08:00:00.000Z', subCategory: 'semiconductors',
+    },
+    {
+      id: 'cb-bb2', title: 'Qualcomm Nearing Deal for AI Chip Startup Modular at $4 Billion, Bloomberg Reports',
+      url: 'https://money.usnews.com/investing/news/articles/2026-06-22/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports',
+      description: 'Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported, citing people familiar with the matter. The scoop broke two days before Qualcomm\'s Investor Day, where the Dragonfly data center platform was unveiled.',
+      sourceId: 'bloomberg', publishedAt: '2026-06-22T18:00:00.000Z', subCategory: 'semiconductors',
+    },
     // --- Financial / Market ---
     {
       id: 'cb-yf1', title: 'Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News',
@@ -278,6 +291,18 @@ const RAW_ARTICLES = {
   // ═══ MACRO ENVIRONMENT ═══ (Customers, Supply Chain, Geopolitics, Market)
   'macro-environment': [
     // --- Market Performance ---
+    {
+      id: 'me-bb1', title: 'Qualcomm Unveils $20 Billion Stock Buyback Program',
+      url: 'https://www.bnnbloomberg.ca/business/2026/03/17/qualcomm-unveils-us20-billion-stock-buyback-program/',
+      description: 'Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025. The aggressive capital return signals confidence in long-term growth, particularly in automotive, IoT and data center segments, Bloomberg reported.',
+      sourceId: 'bloomberg', publishedAt: '2026-03-17T10:00:00.000Z', subCategory: 'market-performance',
+    },
+    {
+      id: 'me-bb2', title: 'Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek',
+      url: 'https://www.startuphub.ai/ai-news/semiconductors/2026/micron-qualcomm-rally-on-ai-boom-businessweek-reports',
+      description: 'Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm\'s Dragonfly data center platform and Modular acquisition have attracted renewed investor interest, positioning the company as an emerging AI infrastructure play.',
+      sourceId: 'bloomberg', publishedAt: '2026-06-25T10:00:00.000Z', subCategory: 'market-performance',
+    },
     {
       id: 'me-yf1', title: 'Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know',
       url: 'https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html',

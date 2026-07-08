@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-07-08T03:38:11.907Z",
+  "generatedAt": "2026-07-08T03:49:40.270Z",
   "date": "2026-07-08",
   "section": "macro-environment",
   "sectionTitle": "Macro Environment",
   "briefing": {
-    "summary": "As of 2026-07-07, 6 article(s) from Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm plans China AI chip push with export-control-compliant custom chips\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
+    "summary": "As of 2026-03-17, 8 article(s) from Bloomberg, Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm Unveils $20 Billion Stock Buyback Program\"; \"Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek\"; \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm plans China AI chip push with export-control-compliant custom chips\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
     "keyTakeaways": [
+      {
+        "text": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025....",
+        "articleIds": [
+          "me-bb1"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's ...",
+        "articleIds": [
+          "me-bb2"
+        ],
+        "subCategory": "market-performance"
+      },
       {
         "text": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed ...",
         "articleIds": [
@@ -49,12 +63,42 @@
         "subCategory": "customers-partners"
       }
     ],
-    "generatedAt": "2026-07-08T03:38:11.907Z",
+    "generatedAt": "2026-07-08T03:49:40.270Z",
     "dateScope": "latest-available",
-    "articleCount": 6,
-    "totalArticles": 6
+    "articleCount": 8,
+    "totalArticles": 8
   },
   "articles": [
+    {
+      "id": "me-bb1",
+      "title": "Qualcomm Unveils $20 Billion Stock Buyback Program",
+      "url": "https://www.bnnbloomberg.ca/business/2026/03/17/qualcomm-unveils-us20-billion-stock-buyback-program/",
+      "description": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025. The aggressive capital return signals confidence in long-term growth, particularly in automotive, IoT and data center segments, Bloomberg reported.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-03-17T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
+      "fetchStrategy": "approved-source",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
+    },
+    {
+      "id": "me-bb2",
+      "title": "Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek",
+      "url": "https://www.startuphub.ai/ai-news/semiconductors/2026/micron-qualcomm-rally-on-ai-boom-businessweek-reports",
+      "description": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's Dragonfly data center platform and Modular acquisition have attracted renewed investor interest, positioning the company as an emerging AI infrastructure play.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-25T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
+      "fetchStrategy": "approved-source",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
+    },
     {
       "id": "me-yf1",
       "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
@@ -64,7 +108,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T21:45:04.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -79,7 +123,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T21:16:04.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -94,7 +138,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -109,7 +153,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -124,7 +168,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -139,7 +183,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-01-07T08:13:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.907Z",
+      "fetchedAt": "2026-07-08T03:49:40.269Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "customers-partners",

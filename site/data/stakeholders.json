@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-07-08T03:38:11.916Z",
+  "generatedAt": "2026-07-08T03:49:40.275Z",
   "date": "2026-07-08",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -35,7 +35,7 @@
         "subCategory": "3gpp"
       }
     ],
-    "generatedAt": "2026-07-08T03:38:11.916Z",
+    "generatedAt": "2026-07-08T03:49:40.275Z",
     "dateScope": "latest-available",
     "articleCount": 4,
     "totalArticles": 4
@@ -50,7 +50,7 @@
       "sourceId": "ieee-comsoc",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-16T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.916Z",
+      "fetchedAt": "2026-07-08T03:49:40.274Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",
@@ -65,7 +65,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.916Z",
+      "fetchedAt": "2026-07-08T03:49:40.275Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",
@@ -80,7 +80,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-02-17T11:49:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.916Z",
+      "fetchedAt": "2026-07-08T03:49:40.275Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "etsi",
@@ -95,7 +95,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-03-02T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.916Z",
+      "fetchedAt": "2026-07-08T03:49:40.275Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",

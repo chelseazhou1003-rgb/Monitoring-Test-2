@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-08T03:38:11.871Z",
+  "generatedAt": "2026-07-08T03:49:40.237Z",
   "date": "2026-07-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "As of 2026-06-25, 11 article(s) from EE Times, CNBC, Qualcomm Newsroom, Mobile World Live, Fierce Wireless, Yahoo Finance cover core businesses: \"Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions\"; \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM's Q3 2026 Earnings: What to Expect\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
+    "summary": "As of 2026-06-25, 13 article(s) from EE Times, CNBC, Qualcomm Newsroom, Mobile World Live, Fierce Wireless, Bloomberg, Yahoo Finance cover core businesses: \"Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions\"; \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Qualcomm to Buy Modular for $3.9 Billion to Help AI Push\"; \"Qualcomm Nearing Deal for AI Chip Startup Modular at $4 Billion, Bloomberg Reports\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM's Q3 2026 Earnings: What to Expect\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
     "keyTakeaways": [
       {
         "text": "Qualcomm takes the data center by storm with Dragonfly C1000 CPUs (250 Oryon cores at 5GHz), AI250 accelerators, and High-Bandwidth Compute memory. Projected...",
@@ -63,6 +63,20 @@
         "subCategory": "automotive"
       },
       {
+        "text": "Qualcomm confirmed the acquisition of AI infrastructure software company Modular in an all-stock transaction valued at $3.9 billion. The deal, first reported...",
+        "articleIds": [
+          "cb-bb1"
+        ],
+        "subCategory": "semiconductors"
+      },
+      {
+        "text": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported, citing ...",
+        "articleIds": [
+          "cb-bb2"
+        ],
+        "subCategory": "semiconductors"
+      },
+      {
         "text": "Qualcomm's share price has climbed over the past few years, yet the valuation picture is more balanced. Excitement around Qualcomm's push into AI-related chi...",
         "articleIds": [
           "cb-yf1"
@@ -84,10 +98,10 @@
         "subCategory": "semiconductors"
       }
     ],
-    "generatedAt": "2026-07-08T03:38:11.871Z",
+    "generatedAt": "2026-07-08T03:49:40.237Z",
     "dateScope": "latest-available",
-    "articleCount": 11,
-    "totalArticles": 11
+    "articleCount": 13,
+    "totalArticles": 13
   },
   "articles": [
     {
@@ -99,7 +113,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -114,7 +128,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T19:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -129,7 +143,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-06-24T14:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -144,7 +158,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-07T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -159,7 +173,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-03-02T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -174,7 +188,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-21T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -189,7 +203,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-03-01T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -204,11 +218,41 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-03-19T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "automotive",
       "subLabel": "Automotive"
+    },
+    {
+      "id": "cb-bb1",
+      "title": "Qualcomm to Buy Modular for $3.9 Billion to Help AI Push",
+      "url": "https://news.bloomberglaw.com/mergers-and-acquisitions/qualcomm-confirms-buying-modular-to-help-ai-market-push",
+      "description": "Qualcomm confirmed the acquisition of AI infrastructure software company Modular in an all-stock transaction valued at $3.9 billion. The deal, first reported by Bloomberg, gives Modular's owners 19.2 million Qualcomm shares and is expected to close in H2 2026. Modular's Mojo language and MAX engine challenge NVIDIA's CUDA dominance.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-24T08:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:49:40.235Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors"
+    },
+    {
+      "id": "cb-bb2",
+      "title": "Qualcomm Nearing Deal for AI Chip Startup Modular at $4 Billion, Bloomberg Reports",
+      "url": "https://money.usnews.com/investing/news/articles/2026-06-22/qualcomm-nearing-deal-for-ai-chip-startup-modular-bloomberg-news-reports",
+      "description": "Qualcomm is in advanced discussions to acquire Modular Inc in a transaction valuing the AI chip company at about $4 billion, Bloomberg News reported, citing people familiar with the matter. The scoop broke two days before Qualcomm's Investor Day, where the Dragonfly data center platform was unveiled.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-06-22T18:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:49:40.236Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors"
     },
     {
       "id": "cb-yf1",
@@ -219,7 +263,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T22:09:57.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.236Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "market-performance",
@@ -234,7 +278,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T14:16:48.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.236Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "market-performance",
@@ -249,7 +293,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchedAt": "2026-07-08T03:49:40.236Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",

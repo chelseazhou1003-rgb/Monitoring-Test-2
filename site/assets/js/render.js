@@ -119,7 +119,11 @@ export function renderArticleList(articles) {
 
 // Render the full section page (briefing + articles)
 export function renderSectionPage(data) {
-  const articles = data.articles || [];
+  const articles = (data.articles || []).slice().sort((a, b) => {
+    const dateA = new Date(a.publishedAt || '1970-01-01');
+    const dateB = new Date(b.publishedAt || '1970-01-01');
+    return dateB - dateA; // newest first
+  });
   const articleMap = {};
   for (const a of articles) {
     articleMap[a.id] = a;
