@@ -1,11 +1,18 @@
 {
-  "generatedAt": "2026-07-08T03:22:15.697Z",
+  "generatedAt": "2026-07-08T03:38:11.871Z",
   "date": "2026-07-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "As of 2026-06-24, 7 article(s) from CNBC, Yahoo Finance, Mobile World Live, Qualcomm Newsroom cover core businesses: \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM’s Q3 2026 Earnings: What to Expect\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
+    "summary": "As of 2026-06-25, 11 article(s) from EE Times, CNBC, Qualcomm Newsroom, Mobile World Live, Fierce Wireless, Yahoo Finance cover core businesses: \"Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions\"; \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM's Q3 2026 Earnings: What to Expect\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
     "keyTakeaways": [
+      {
+        "text": "Qualcomm takes the data center by storm with Dragonfly C1000 CPUs (250 Oryon cores at 5GHz), AI250 accelerators, and High-Bandwidth Compute memory. Projected...",
+        "articleIds": [
+          "cb-ee1"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Qualcomm revealed Dragonfly C1000 CPU for data centers at Investor Day 2026, with Meta as anchor customer starting production in 2028. Stock popped 15% as co...",
         "articleIds": [
@@ -14,18 +21,11 @@
         "subCategory": "semiconductors"
       },
       {
-        "text": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the...",
+        "text": "Qualcomm Dragonfly extends system-level leadership end-to-end, joining Snapdragon for consumer and Dragonwing for industrial solutions. The new brand unifies...",
         "articleIds": [
-          "cb-yf1"
+          "cb-qc2"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for han...",
-        "articleIds": [
-          "cb-yf2"
-        ],
-        "subCategory": "market-performance"
       },
       {
         "text": "Qualcomm unveiled two new mobile chips targeting mid-range and budget Android devices. Snapdragon 6 Gen 5 features 20% faster app launches; Snapdragon 4 Gen ...",
@@ -35,9 +35,23 @@
         "subCategory": "mobile-chips"
       },
       {
+        "text": "Qualcomm unveiled the X105 5G Modem-RF at MWC 2026, the world's first Release 19-capable modem. Features agentic AI support, quad-frequency GNSS, and integra...",
+        "articleIds": [
+          "cb-fw1"
+        ],
+        "subCategory": "wireless"
+      },
+      {
         "text": "Qualcomm unveiled Dragonwing MBM range of broadband chips built around rich multimedia experiences, advanced connectivity and on-device AI. The family target...",
         "articleIds": [
           "cb3"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Qualcomm unveiled its Wi-Fi 8 portfolio at MWC 2026, delivering a new connectivity foundation for AI-era performance across mobile devices, PCs, XR and netwo...",
+        "articleIds": [
+          "cb-qc1"
         ],
         "subCategory": "wireless"
       },
@@ -49,6 +63,20 @@
         "subCategory": "automotive"
       },
       {
+        "text": "Qualcomm's share price has climbed over the past few years, yet the valuation picture is more balanced. Excitement around Qualcomm's push into AI-related chi...",
+        "articleIds": [
+          "cb-yf1"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "Qualcomm is set to release its fiscal Q3 earnings this month. The report will be closely watched for handset, automotive and IoT segment guidance amid memory...",
+        "articleIds": [
+          "cb-yf2"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
         "text": "Qualcomm reported mixed fiscal Q2 2026 results. Revenue slightly declined while net profit surged 162% due to one-time gains. Memory supply constraints weigh...",
         "articleIds": [
           "cb5"
@@ -56,12 +84,27 @@
         "subCategory": "semiconductors"
       }
     ],
-    "generatedAt": "2026-07-08T03:22:15.697Z",
+    "generatedAt": "2026-07-08T03:38:11.871Z",
     "dateScope": "latest-available",
-    "articleCount": 7,
-    "totalArticles": 7
+    "articleCount": 11,
+    "totalArticles": 11
   },
   "articles": [
+    {
+      "id": "cb-ee1",
+      "title": "Qualcomm Forecasts Billions in Additional Revenue from New Data Center Solutions",
+      "url": "https://www.eetimes.com/qualcomm-forecasts-billions-in-additional-revenue-from-new-data-center-solutions/",
+      "description": "Qualcomm takes the data center by storm with Dragonfly C1000 CPUs (250 Oryon cores at 5GHz), AI250 accelerators, and High-Bandwidth Compute memory. Projected: $5B data center revenue in 2027, $15B in 2029. Non-handset revenue target raised to $40B by FY2029. Rack-scale solutions position Qualcomm against AMD, Intel and NVIDIA.",
+      "source": "EE Times",
+      "sourceId": "eetimes",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-06-25T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors"
+    },
     {
       "id": "cb1",
       "title": "Qualcomm rolls out AI data center CPU, signs Meta as major customer",
@@ -71,41 +114,26 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T19:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors"
     },
     {
-      "id": "cb-yf1",
-      "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html",
-      "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the stock is roughly in line with intrinsic value while earnings-based multiples screen it as undervalued. Excitement around QUALCOMM’s push into AI related chips and partnerships can support the next leg.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-07-07T22:09:57.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "id": "cb-qc2",
+      "title": "Introducing Qualcomm Dragonfly — Data Center Platform Unifies CPU, AI and Networking",
+      "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-introduces-dragonfly-data-center-platform",
+      "description": "Qualcomm Dragonfly extends system-level leadership end-to-end, joining Snapdragon for consumer and Dragonwing for industrial solutions. The new brand unifies custom Oryon CPUs, AI accelerators and Alphawave networking into a cohesive rack-scale data center platform.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm-newsroom",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-06-24T14:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors"
-    },
-    {
-      "id": "cb-yf2",
-      "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
-      "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
-      "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-07-07T14:16:48.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
-      "fetchStrategy": "approved-source",
-      "section": "core-businesses",
-      "subCategory": "market-performance",
-      "subLabel": "Market Performance"
     },
     {
       "id": "cb2",
@@ -116,11 +144,26 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-07T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "subLabel": "Mobile Chips"
+    },
+    {
+      "id": "cb-fw1",
+      "title": "MWC 2026: Qualcomm unveils X105 5G Modem with AI — all in prep for 6G",
+      "url": "https://www.fierce-network.com/wireless/qualcomm-unveils-x105-5g-modem-ai-and-gunning-6g",
+      "description": "Qualcomm unveiled the X105 5G Modem-RF at MWC 2026, the world's first Release 19-capable modem. Features agentic AI support, quad-frequency GNSS, and integrated 5G-over-satellite. 25% power improvement over X80. Sampling now, commercial devices expected H2 2026.",
+      "source": "Fierce Wireless",
+      "sourceId": "fierce-wireless",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-03-02T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication"
     },
     {
       "id": "cb3",
@@ -131,7 +174,22 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-21T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication"
+    },
+    {
+      "id": "cb-qc1",
+      "title": "Qualcomm Debuts AI-Native Wi-Fi 8 Portfolio Unifying Client and Network Connectivity",
+      "url": "https://www.qualcomm.com/news/releases/2026/03/qualcomm-debuts-ai-native-wifi-8-portfolio-unifying-client-and-n",
+      "description": "Qualcomm unveiled its Wi-Fi 8 portfolio at MWC 2026, delivering a new connectivity foundation for AI-era performance across mobile devices, PCs, XR and networking infrastructure. AI-native features optimize spectrum usage and reduce latency for real-time AI workloads.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm-newsroom",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-03-01T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -146,11 +204,41 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-03-19T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "automotive",
       "subLabel": "Automotive"
+    },
+    {
+      "id": "cb-yf1",
+      "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html",
+      "description": "Qualcomm's share price has climbed over the past few years, yet the valuation picture is more balanced. Excitement around Qualcomm's push into AI-related chips and partnerships can support the next leg of growth.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T22:09:57.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
+    },
+    {
+      "id": "cb-yf2",
+      "title": "QUALCOMM's Q3 2026 Earnings: What to Expect",
+      "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
+      "description": "Qualcomm is set to release its fiscal Q3 earnings this month. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T14:16:48.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
     },
     {
       "id": "cb5",
@@ -161,7 +249,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchedAt": "2026-07-08T03:38:11.870Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",

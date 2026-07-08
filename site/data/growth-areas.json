@@ -1,13 +1,20 @@
 {
-  "generatedAt": "2026-07-08T03:22:15.714Z",
+  "generatedAt": "2026-07-08T03:38:11.886Z",
   "date": "2026-07-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "As of 2026-06-16, 3 article(s) from TechCrunch, Mobile World Live cover growth areas: \"Qualcomm wants to be the chip inside whatever replaces your smartphone\"; \"Snap snaps up Snapdragon XR for eyewear push in multi-year deal\"; \"Qualcomm expects AI-boosting 6G devices in 2029\".",
+    "summary": "As of 2026-03-02, 6 article(s) from The Verge, TechCrunch, Mobile World Live, RCR Wireless News, Qualcomm Newsroom cover growth areas: \"Qualcomm's new Snapdragon Wear Elite chip is geared toward wearable AI gadgets\"; \"Qualcomm wants to be the chip inside whatever replaces your smartphone\"; \"Snap snaps up Snapdragon XR for eyewear push in multi-year deal\"; \"Qualcomm is taking a full-stack approach to edge AI\"; \"Qualcomm IE-IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises and OEMs\"; \"Qualcomm expects AI-boosting 6G devices in 2029\".",
     "keyTakeaways": [
       {
-        "text": "Qualcomm CEO Cristiano Amon revealed the company is working on 40+ AI wearable designs. Announced Snapdragon Reality Elite XR platform (60% GPU boost, 160% N...",
+        "text": "Qualcomm announced Snapdragon Wear Elite, a \"wrist plus\" chip on 3nm process with integrated eNPU and Hexagon NPU handling 2B parameters on-device. Supports ...",
+        "articleIds": [
+          "ga-tv1"
+        ],
+        "subCategory": "xr-spatial-computing"
+      },
+      {
+        "text": "Qualcomm CEO Cristiano Amon revealed 40+ AI wearable designs in development. Announced Snapdragon Reality Elite XR platform (60% GPU boost, 160% NPU boost) a...",
         "articleIds": [
           "ga1"
         ],
@@ -21,6 +28,20 @@
         "subCategory": "xr-spatial-computing"
       },
       {
+        "text": "Qualcomm built a full-stack edge AI platform through acquisitions of Foundries.io (Linux IoT), Edge Impulse (AI/ML development with 170K+ developers), Advant...",
+        "articleIds": [
+          "ga-rcr1"
+        ],
+        "subCategory": "on-device-ai"
+      },
+      {
+        "text": "Qualcomm completed its acquisition of Augentix, a leader in mass-market image processors, extending its ability to provide SoCs for smart cameras and industr...",
+        "articleIds": [
+          "ga-qc3"
+        ],
+        "subCategory": "on-device-ai"
+      },
+      {
         "text": "At MWC Shanghai 2026, Qualcomm SVP John Smee said pre-commercial 6G devices could arrive by 2028 with commercial shipments in 2029. Positioned 6G as the firs...",
         "articleIds": [
           "ga3"
@@ -28,22 +49,37 @@
         "subCategory": "on-device-ai"
       }
     ],
-    "generatedAt": "2026-07-08T03:22:15.714Z",
+    "generatedAt": "2026-07-08T03:38:11.886Z",
     "dateScope": "latest-available",
-    "articleCount": 3,
-    "totalArticles": 3
+    "articleCount": 6,
+    "totalArticles": 6
   },
   "articles": [
+    {
+      "id": "ga-tv1",
+      "title": "Qualcomm's new Snapdragon Wear Elite chip is geared toward wearable AI gadgets",
+      "url": "https://www.theverge.com/tech/886434/qualcomm-snapdragon-wear-elite-wearables",
+      "description": "Qualcomm announced Snapdragon Wear Elite, a \"wrist plus\" chip on 3nm process with integrated eNPU and Hexagon NPU handling 2B parameters on-device. Supports satellite connectivity, 5G, UWB and Bluetooth 6.0. Designed for AI pendants, pins and display-free smart glasses beyond traditional smartwatches. Linux support added for startup flexibility.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-03-02T14:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
+      "fetchStrategy": "approved-source",
+      "section": "growth-areas",
+      "subCategory": "xr-spatial-computing",
+      "subLabel": "XR / Spatial Computing"
+    },
     {
       "id": "ga1",
       "title": "Qualcomm wants to be the chip inside whatever replaces your smartphone",
       "url": "https://techcrunch.com/2026/06/16/qualcomm-wants-to-be-the-chip-inside-whatever-replaces-your-smartphone-and-it-just-announced-two-products-toward-that-end/",
-      "description": "Qualcomm CEO Cristiano Amon revealed the company is working on 40+ AI wearable designs. Announced Snapdragon Reality Elite XR platform (60% GPU boost, 160% NPU boost) and START toolkit for smart glasses. XREAL Project Aura will be first to market. Positioning Qualcomm as the silicon layer for the post-smartphone era.",
+      "description": "Qualcomm CEO Cristiano Amon revealed 40+ AI wearable designs in development. Announced Snapdragon Reality Elite XR platform (60% GPU boost, 160% NPU boost) and START toolkit for smart glasses. XREAL Project Aura will be first to market.",
       "source": "TechCrunch",
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-06-16T18:22:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.714Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "xr-spatial-computing",
@@ -53,16 +89,46 @@
       "id": "ga2",
       "title": "Snap snaps up Snapdragon XR for eyewear push in multi-year deal",
       "url": "https://www.mobileworldlive.com/devices/snap-snaps-up-snapdragon-xr-for-eyewear-push/",
-      "description": "Snap subsidiary Specs struck a multi-year agreement with Qualcomm to use Snapdragon XR platform in smart glasses. The deal positions Qualcomm as the primary silicon provider for Snap's next-generation AR devices launching later this year.",
+      "description": "Snap subsidiary Specs struck a multi-year agreement with Qualcomm to use Snapdragon XR platform in smart glasses. The deal positions Qualcomm as the primary silicon provider for Snap's next-generation AR devices.",
       "source": "Mobile World Live",
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-10T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.714Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "xr-spatial-computing",
       "subLabel": "XR / Spatial Computing"
+    },
+    {
+      "id": "ga-rcr1",
+      "title": "Qualcomm is taking a full-stack approach to edge AI",
+      "url": "https://www.rcrwireless.com/20251009/chips/bookmarks-qualcomm-edge",
+      "description": "Qualcomm built a full-stack edge AI platform through acquisitions of Foundries.io (Linux IoT), Edge Impulse (AI/ML development with 170K+ developers), Advantech partnership (industrial edge) and Arduino (open-source hardware/software). Strategy fuses hardware, software and community from hobbyists to enterprises.",
+      "source": "RCR Wireless News",
+      "sourceId": "rcr-wireless",
+      "sourceGroup": "telecom",
+      "publishedAt": "2025-10-09T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
+      "fetchStrategy": "approved-source",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI"
+    },
+    {
+      "id": "ga-qc3",
+      "title": "Qualcomm IE-IoT Expansion Is Complete: Edge AI Unleashed for Developers, Enterprises and OEMs",
+      "url": "https://www.qualcomm.com/news/releases/2026/01/qualcomm-s-ie_iot-expansion-is-complete--edge-ai-unleashed-for-d",
+      "description": "Qualcomm completed its acquisition of Augentix, a leader in mass-market image processors, extending its ability to provide SoCs for smart cameras and industrial IoT. Combined with Edge Impulse and Foundries.io, this completes Qualcomm's end-to-end vision for security-focused, power-efficient edge AI.",
+      "source": "Qualcomm Newsroom",
+      "sourceId": "qualcomm-newsroom",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-01-05T10:00:00.000Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
+      "fetchStrategy": "approved-source",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI"
     },
     {
       "id": "ga3",
@@ -73,7 +139,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:22:15.714Z",
+      "fetchedAt": "2026-07-08T03:38:11.886Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
