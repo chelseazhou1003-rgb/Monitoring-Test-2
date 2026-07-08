@@ -440,28 +440,6 @@ export const NEWS_DATA = {
             "publishedAt": "2026-06-24T18:30:00.000Z",
             "section": "core-businesses",
             "subCategory": "semiconductors"
-          },
-          {
-            "title": "Qualcomm Investor Day 2026: Dragonfly C1000 CPU, HBC, AI Accelerators and More",
-            "url": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
-            "description": "At its 2026 Investor Day in NYC, Qualcomm unveiled a comprehensive data center portfolio: Dragonfly C1000 CPU with 250+ cores, High Bandwidth Compute (HBC) technology stacking memory on compute, AI accelerators, and custom silicon offerings. Meta CEO Mark Zuckerberg confirmed a multi-generational deal to use Qualcomm processors.",
-            "source": "ServeTheHome",
-            "sourceId": "servethehome",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-24T22:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          },
-          {
-            "title": "Qualcomm Accelerates Diversification with Comprehensive Data Center Strategy",
-            "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-accelerates-diversification-with-comprehensive-strategy",
-            "description": "Qualcomm is accelerating diversification with a comprehensive data center strategy targeting multiple growth inflection points over the next 3–5 years, including Dragonfly C1000 CPU, AI accelerators, and connectivity solutions for hyperscalers.",
-            "source": "Qualcomm Newsroom",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-24T18:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
           }
         ]
       },
@@ -545,7 +523,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 6
+    "totalArticles": 4
   },
   "archive-2026-06-25": {
     "generatedAt": "2026-06-25T07:00:00.000Z",
@@ -560,19 +538,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Darts into AI Data Centers with New Dragonfly Chips, Meta and Microsoft as Partners",
-            "url": "https://www.androidheadlines.com/2026/06/qualcomm-dragonfly-ai-data-center-chips-meta-microsoft.html",
-            "description": "At its June 2026 Investor Day, Qualcomm announced a major expansion into the AI data center segment with the Dragonfly chip ecosystem. Meta and Microsoft CEOs endorsed Qualcomm's technology, with Meta signing a multi-generational agreement for Qualcomm processors.",
-            "source": "Android Headlines",
-            "sourceId": "android-headlines",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-06-25T16:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          }
-        ]
+        "articles": []
       },
       "competitors": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -627,17 +593,6 @@ export const NEWS_DATA = {
             "publishedAt": "2026-06-25T15:58:00.000Z",
             "section": "macro-environment",
             "subCategory": "market-performance"
-          },
-          {
-            "title": "Qualcomm Plans China AI Chip Push with Export-Control Compliant Custom Chips",
-            "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
-            "description": "Qualcomm unveiled a comprehensive data center portfolio and said it will develop export-control-compliant versions of its data center chips for the Chinese market. CEO Amon confirmed Qualcomm can serve China without triggering US export restrictions.",
-            "source": "TrendForce",
-            "sourceId": "trendforce",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-25T12:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "geopolitics-trade"
           }
         ]
       },
@@ -653,7 +608,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 3
+    "totalArticles": 1
   },
   "archive-2026-06-26": {
     "generatedAt": "2026-06-26T07:00:00.000Z",
@@ -679,19 +634,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm vs Nvidia: Can the Smartphone King Conquer the Data Center?",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Analysis of Qualcomm's ambitious plans to challenge Nvidia in data center AI chips. While the $15B target is bold, Qualcomm faces significant hurdles: Nvidia's entrenched CUDA ecosystem, Broadcom's custom silicon dominance, and the 2-year gap before Dragonfly C1000 production.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T14:30:00.000Z",
-            "section": "competitors",
-            "subCategory": "nvidia"
-          }
-        ]
+        "articles": []
       },
       "growth-areas": {
         "generatedAt": "2026-06-26T15:00:00.000Z",
@@ -702,19 +645,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm's Data Center Ambitions Signal Major AI Infrastructure Play",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Qualcomm's data center push represents a major expansion beyond mobile chips. With Dragonfly C1000 CPU, HBC memory-on-compute technology, AI accelerators, and the Modular software acquisition, Qualcomm is building a full-stack AI data center platform targeting a $200B CPU TAM and $1T+ AI infrastructure market.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T15:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
+        "articles": []
       },
       "ip-legal": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -736,19 +667,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Just Promised $15 Billion in AI Chip Sales, but There's a Catch — The Chips Don't Exist Yet",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Qualcomm promised over $15 billion in annual data center AI chip sales by fiscal 2029, alongside a $40 billion non-handset revenue target and adjusted EPS above $18. However, the Dragonfly C1000 CPU won't enter production until 2028, raising questions about execution risk.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T14:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "articles": []
       },
       "stakeholders": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -762,7 +681,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 3
+    "totalArticles": 0
   },
   "archive-2026-06-27": {
     "generatedAt": "2026-06-27T07:00:00.000Z",
@@ -788,19 +707,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm's big AI gamble: Breaking Nvidia's chips stronghold",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "Fortune profiles CEO Cristiano Amon's five-year plan to challenge Nvidia's dominance in AI data center chips. With endorsements from Meta's Zuckerberg and Microsoft's Nadella, Qualcomm unveiled its Dragonfly C1000 CPU and AI accelerators. Amon dismisses concerns about being late: \"It's never too late for Qualcomm.\"",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T12:00:00.000Z",
-            "section": "competitors",
-            "subCategory": "nvidia"
-          }
-        ]
+        "articles": []
       },
       "growth-areas": {
         "generatedAt": "2026-06-27T13:00:00.000Z",
@@ -811,19 +718,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm's Modular Acquisition: Building an Alternative to Nvidia CUDA",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "The $3.9B Modular acquisition gives Qualcomm a software platform to compete with Nvidia's CUDA. Modular's technology allows AI applications to run across heterogeneous chip architectures, potentially weakening Nvidia's software ecosystem lock-in.",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T13:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
+        "articles": []
       },
       "ip-legal": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -845,19 +740,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm's $40 Billion Diversification Bet: Beyond Smartphones",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "Qualcomm projects $40 billion in non-handset revenue by FY29, doubling its prior forecast. The ambitious plan spans data center CPUs, AI accelerators, automotive chips ($10B target), and IoT. The strategy marks Qualcomm's biggest pivot since entering the mobile chip market.",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T12:30:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "articles": []
       },
       "stakeholders": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -871,7 +754,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 3
+    "totalArticles": 0
   },
   "archive-2026-06-28": {
     "generatedAt": "2026-06-28T07:00:00.000Z",
@@ -930,19 +813,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm's Investor Day Reshapes Wall Street Expectations: Analysts Raise Price Targets",
-            "url": "https://www.marketbeat.com/stocks/NASDAQ/QCOM/",
-            "description": "Following Qualcomm's Investor Day, multiple Wall Street analysts raised price targets citing the $40B non-handset revenue target and data center roadmap. Baird analyst called Qualcomm \"firmly entrenched on revenue diversification\" with a \"full line of AI offerings.\"",
-            "source": "MarketBeat",
-            "sourceId": "marketbeat",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-28T10:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "articles": []
       },
       "stakeholders": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -956,7 +827,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 1
+    "totalArticles": 0
   },
   "archive-2026-06-29": {
     "generatedAt": "2026-06-29T07:00:00.000Z",
@@ -1015,19 +886,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Price Prediction: The Forecast Is Far More Bullish Than Analysts",
-            "url": "https://247wallst.com/investing/2026/06/29/qualcomm-price-prediction-the-forecast-is-far-more-bullish-than-analysts/",
-            "description": "The 24/7 Wall St. price target for Qualcomm is $257.53, pointing to roughly 25.69% upside over the next 12 months with a 90% confidence read. The recommendation is buy, driven by the data center expansion and automotive pipeline.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-29T16:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "articles": []
       },
       "stakeholders": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1041,7 +900,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 1
+    "totalArticles": 0
   },
   "archive-2026-06-30": {
     "generatedAt": "2026-06-30T07:00:00.000Z",
@@ -1056,19 +915,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Building the 6G Standard: What 3GPP's June 2026 Plenary Decisions Mean for Device Makers",
-            "url": "https://www.publicnow.com/view/BAC26992E37D84D81D0B7E7772702B78C189C8AE",
-            "description": "Qualcomm outlines what 3GPP's June 2026 plenary decisions mean for device makers as the industry moves toward 6G standardization. The decisions set the foundation for next-generation wireless technology with AI-native architecture.",
-            "source": "Qualcomm Newsroom",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-29T20:41:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "wireless"
-          }
-        ]
+        "articles": []
       },
       "competitors": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1126,7 +973,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 1
+    "totalArticles": 0
   },
   "archive-2026-07-01": {
     "generatedAt": "2026-07-01T07:00:00.000Z",
@@ -1163,19 +1010,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Signs Two Hyperscaler Deals for Custom Data Center Silicon",
-            "url": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-two-hyperscaler-deals-for-custom-data-center-silicon/",
-            "description": "Qualcomm confirmed it has secured two deals to make custom silicon chips for major hyperscale cloud providers, expanding beyond the previously announced Meta partnership. The deals represent a significant validation of Qualcomm's data center strategy.",
-            "source": "Data Center Dynamics",
-            "sourceId": "datacenter-dynamics",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-07-01T14:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
+        "articles": []
       },
       "ip-legal": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1197,19 +1032,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Q3 2026 Earnings Preview: Data Center Pivot in Focus",
-            "url": "https://www.marketbeat.com/earnings/reports/2026-7-29-qualcomm-incorporated-stock/",
-            "description": "Investors look ahead to Qualcomm's Q3 FY2026 earnings on July 29. Key focus areas include data center revenue trajectory, automotive design-win pipeline ($65B), and impact of memory chip shortages on handset segment margins.",
-            "source": "MarketBeat",
-            "sourceId": "marketbeat",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-07-01T10:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "articles": []
       },
       "stakeholders": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1223,7 +1046,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 2
+    "totalArticles": 0
   },
   "archive-2026-07-02": {
     "generatedAt": "2026-07-02T07:00:00.000Z",
@@ -1334,19 +1157,7 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "MediaTek and Qualcomm Lose Smartphone Chip Market Share as Apple Gains in Q1 2026",
-            "url": "https://www.androidheadlines.com/2026/06/mediatek-qualcomm-lose-market-share-q1-2026-apple-closing-in.html",
-            "description": "Counterpoint data shows chip shipments in Q1 2026 dropped for both MediaTek and Qualcomm year-over-year, while Apple gained share. The memory crisis and slowing smartphone demand are reshaping the mobile processor competitive landscape.",
-            "source": "Android Headlines",
-            "sourceId": "android-headlines",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-07-03T10:00:00.000Z",
-            "section": "competitors",
-            "subCategory": "mediatek"
-          }
-        ]
+        "articles": []
       },
       "growth-areas": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1393,7 +1204,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 1
+    "totalArticles": 0
   },
   "archive-2026-07-04": {
     "generatedAt": "2026-07-04T07:00:00.000Z",

@@ -11,19 +11,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm Darts into AI Data Centers with New Dragonfly Chips, Meta and Microsoft as Partners",
-          "url": "https://www.androidheadlines.com/2026/06/qualcomm-dragonfly-ai-data-center-chips-meta-microsoft.html",
-          "description": "At its June 2026 Investor Day, Qualcomm announced a major expansion into the AI data center segment with the Dragonfly chip ecosystem. Meta and Microsoft CEOs endorsed Qualcomm's technology, with Meta signing a multi-generational agreement for Qualcomm processors.",
-          "source": "Android Headlines",
-          "sourceId": "android-headlines",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-06-25T16:00:00.000Z",
-          "section": "core-businesses",
-          "subCategory": "semiconductors"
-        }
-      ]
+      "articles": []
     },
     "competitors": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -78,17 +66,6 @@
           "publishedAt": "2026-06-25T15:58:00.000Z",
           "section": "macro-environment",
           "subCategory": "market-performance"
-        },
-        {
-          "title": "Qualcomm Plans China AI Chip Push with Export-Control Compliant Custom Chips",
-          "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
-          "description": "Qualcomm unveiled a comprehensive data center portfolio and said it will develop export-control-compliant versions of its data center chips for the Chinese market. CEO Amon confirmed Qualcomm can serve China without triggering US export restrictions.",
-          "source": "TrendForce",
-          "sourceId": "trendforce",
-          "sourceGroup": "semiconductor",
-          "publishedAt": "2026-06-25T12:00:00.000Z",
-          "section": "macro-environment",
-          "subCategory": "geopolitics-trade"
         }
       ]
     },
@@ -104,5 +81,5 @@
       "articles": []
     }
   },
-  "totalArticles": 3
+  "totalArticles": 1
 }

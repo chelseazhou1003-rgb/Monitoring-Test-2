@@ -22,19 +22,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "MediaTek and Qualcomm Lose Smartphone Chip Market Share as Apple Gains in Q1 2026",
-          "url": "https://www.androidheadlines.com/2026/06/mediatek-qualcomm-lose-market-share-q1-2026-apple-closing-in.html",
-          "description": "Counterpoint data shows chip shipments in Q1 2026 dropped for both MediaTek and Qualcomm year-over-year, while Apple gained share. The memory crisis and slowing smartphone demand are reshaping the mobile processor competitive landscape.",
-          "source": "Android Headlines",
-          "sourceId": "android-headlines",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-07-03T10:00:00.000Z",
-          "section": "competitors",
-          "subCategory": "mediatek"
-        }
-      ]
+      "articles": []
     },
     "growth-areas": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -81,5 +69,5 @@
       "articles": []
     }
   },
-  "totalArticles": 1
+  "totalArticles": 0
 }

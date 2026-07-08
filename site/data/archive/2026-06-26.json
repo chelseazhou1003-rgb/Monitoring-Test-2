@@ -22,19 +22,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm vs Nvidia: Can the Smartphone King Conquer the Data Center?",
-          "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-          "description": "Analysis of Qualcomm's ambitious plans to challenge Nvidia in data center AI chips. While the $15B target is bold, Qualcomm faces significant hurdles: Nvidia's entrenched CUDA ecosystem, Broadcom's custom silicon dominance, and the 2-year gap before Dragonfly C1000 production.",
-          "source": "24/7 Wall St",
-          "sourceId": "247wallst",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-06-26T14:30:00.000Z",
-          "section": "competitors",
-          "subCategory": "nvidia"
-        }
-      ]
+      "articles": []
     },
     "growth-areas": {
       "generatedAt": "2026-06-26T15:00:00.000Z",
@@ -45,19 +33,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm's Data Center Ambitions Signal Major AI Infrastructure Play",
-          "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-          "description": "Qualcomm's data center push represents a major expansion beyond mobile chips. With Dragonfly C1000 CPU, HBC memory-on-compute technology, AI accelerators, and the Modular software acquisition, Qualcomm is building a full-stack AI data center platform targeting a $200B CPU TAM and $1T+ AI infrastructure market.",
-          "source": "24/7 Wall St",
-          "sourceId": "247wallst",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-06-26T15:00:00.000Z",
-          "section": "growth-areas",
-          "subCategory": "data-center"
-        }
-      ]
+      "articles": []
     },
     "ip-legal": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -79,19 +55,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm Just Promised $15 Billion in AI Chip Sales, but There's a Catch — The Chips Don't Exist Yet",
-          "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-          "description": "Qualcomm promised over $15 billion in annual data center AI chip sales by fiscal 2029, alongside a $40 billion non-handset revenue target and adjusted EPS above $18. However, the Dragonfly C1000 CPU won't enter production until 2028, raising questions about execution risk.",
-          "source": "24/7 Wall St",
-          "sourceId": "247wallst",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-06-26T14:00:00.000Z",
-          "section": "macro-environment",
-          "subCategory": "market-performance"
-        }
-      ]
+      "articles": []
     },
     "stakeholders": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -105,5 +69,5 @@
       "articles": []
     }
   },
-  "totalArticles": 3
+  "totalArticles": 0
 }

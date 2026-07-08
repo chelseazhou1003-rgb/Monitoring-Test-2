@@ -55,19 +55,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm's Investor Day Reshapes Wall Street Expectations: Analysts Raise Price Targets",
-          "url": "https://www.marketbeat.com/stocks/NASDAQ/QCOM/",
-          "description": "Following Qualcomm's Investor Day, multiple Wall Street analysts raised price targets citing the $40B non-handset revenue target and data center roadmap. Baird analyst called Qualcomm \"firmly entrenched on revenue diversification\" with a \"full line of AI offerings.\"",
-          "source": "MarketBeat",
-          "sourceId": "marketbeat",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-06-28T10:00:00.000Z",
-          "section": "macro-environment",
-          "subCategory": "market-performance"
-        }
-      ]
+      "articles": []
     },
     "stakeholders": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -81,5 +69,5 @@
       "articles": []
     }
   },
-  "totalArticles": 1
+  "totalArticles": 0
 }

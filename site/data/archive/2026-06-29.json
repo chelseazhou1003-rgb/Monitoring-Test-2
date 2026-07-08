@@ -55,19 +55,7 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm Price Prediction: The Forecast Is Far More Bullish Than Analysts",
-          "url": "https://247wallst.com/investing/2026/06/29/qualcomm-price-prediction-the-forecast-is-far-more-bullish-than-analysts/",
-          "description": "The 24/7 Wall St. price target for Qualcomm is $257.53, pointing to roughly 25.69% upside over the next 12 months with a 90% confidence read. The recommendation is buy, driven by the data center expansion and automotive pipeline.",
-          "source": "24/7 Wall St",
-          "sourceId": "247wallst",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-06-29T16:00:00.000Z",
-          "section": "macro-environment",
-          "subCategory": "market-performance"
-        }
-      ]
+      "articles": []
     },
     "stakeholders": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -81,5 +69,5 @@
       "articles": []
     }
   },
-  "totalArticles": 1
+  "totalArticles": 0
 }
