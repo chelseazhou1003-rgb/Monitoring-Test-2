@@ -2,6 +2,7 @@
 // Each request is wrapped in a hard timeout to avoid hangs in CI
 
 import Parser from 'rss-parser';
+import { resolveArticleSource } from '../config/feeds.js';
 
 const parser = new Parser({
   timeout: 8000,
@@ -17,17 +18,21 @@ export async function fetchNativeRss(feed) {
   console.log(`  [${feed.name}] RSS: fetching ${feed.url}`);
   try {
     const parsed = await withTimeout(parser.parseURL(feed.url), REQUEST_TIMEOUT_MS, `RSS fetch for ${feed.name}`);
-    const items = (parsed.items || []).map(item => ({
-      title: item.title?.trim() || '',
-      url: item.link?.trim() || '',
-      description: cleanHtml(item.contentSnippet || item.content || item.description || ''),
-      source: feed.name,
-      sourceId: feed.id,
-      sourceGroup: feed.group,
-      publishedAt: item.isoDate || item.pubDate ? new Date(item.isoDate || item.pubDate).toISOString() : null,
-      fetchedAt: new Date().toISOString(),
-      fetchStrategy: 'rss'
-    }));
+    const items = (parsed.items || []).map(item => {
+      const url = item.link?.trim() || '';
+      const resolved = resolveArticleSource(url, feed);
+      return {
+        title: item.title?.trim() || '',
+        url,
+        description: cleanHtml(item.contentSnippet || item.content || item.description || ''),
+        source: resolved.source,
+        sourceId: resolved.sourceId,
+        sourceGroup: resolved.sourceGroup,
+        publishedAt: item.isoDate || item.pubDate ? new Date(item.isoDate || item.pubDate).toISOString() : null,
+        fetchedAt: new Date().toISOString(),
+        fetchStrategy: 'rss'
+      };
+    });
     console.log(`  [${feed.name}] RSS: ${items.length} items fetched`);
     return items;
   } catch (err) {

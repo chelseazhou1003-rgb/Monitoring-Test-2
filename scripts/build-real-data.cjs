@@ -36,6 +36,17 @@ const APPROVED_SOURCES = {
   'fierce-wireless': { name: 'Fierce Wireless', group: 'telecom' },
   'ieee-comsoc': { name: 'IEEE ComSoc', group: 'telecom' },
   'qualcomm-newsroom': { name: 'Qualcomm Newsroom', group: 'semiconductor' },
+  'syndicated:barchart.com': { name: 'Barchart', group: 'finance' },
+  'syndicated:simplywall.st': { name: 'Simply Wall St', group: 'finance' },
+  'syndicated:fool.com': { name: 'Motley Fool', group: 'finance' },
+  'syndicated:seekingalpha.com': { name: 'Seeking Alpha', group: 'finance' },
+  'syndicated:zacks.com': { name: 'Zacks', group: 'finance' },
+  'syndicated:investorplace.com': { name: 'InvestorPlace', group: 'finance' },
+  'syndicated:marketbeat.com': { name: 'MarketBeat', group: 'finance' },
+  'syndicated:barrons.com': { name: "Barron's", group: 'finance' },
+  'syndicated:marketwatch.com': { name: 'MarketWatch', group: 'finance' },
+  'syndicated:benzinga.com': { name: 'Benzinga', group: 'finance' },
+  'syndicated:tipranks.com': { name: 'TipRanks', group: 'finance' },
 };
 
 function getSourceInfo(sourceId) {
@@ -128,7 +139,7 @@ const RAW_ARTICLES = {
       id: 'cb-yf2', title: 'QUALCOMM\'s Q3 2026 Earnings: What to Expect',
       url: 'https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect',
       description: 'Qualcomm is set to release its fiscal Q3 earnings this month. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.',
-      sourceId: 'yahoo-finance', publishedAt: '2026-07-07T14:16:48.000Z', subCategory: 'market-performance',
+      sourceId: 'syndicated:barchart.com', publishedAt: '2026-07-07T14:16:48.000Z', subCategory: 'market-performance',
     },
     {
       id: 'cb5', title: 'Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations',
@@ -178,7 +189,7 @@ const RAW_ARTICLES = {
       id: 'co-yf2', title: 'Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock\'s Outlook Is Not Particularly Strong',
       url: 'https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong',
       description: 'High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market softness and competitive pressure from MediaTek, Apple and Samsung as near-term headwinds.',
-      sourceId: 'yahoo-finance', publishedAt: '2026-07-07T15:19:07.000Z', subCategory: 'other',
+      sourceId: 'syndicated:barchart.com', publishedAt: '2026-07-07T15:19:07.000Z', subCategory: 'other',
     },
     // --- Computex / PC Competition ---
     {
