@@ -17,8 +17,14 @@ export function tagArticles(articles) {
         let score = 0;
         for (const kw of keywords) {
           const kwLower = kw.toLowerCase();
-          // Count occurrences (case-insensitive)
-          const regex = new RegExp(kwLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&'), 'gi');
+          // Escape special regex characters
+          const escaped = kwLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          // Short keywords (<=3 chars) need word-boundary matching to avoid
+          // false positives: e.g. "AR" matching "bROArder", "AI" matching "agAIn"
+          const pattern = kwLower.length <= 3
+            ? `\\b${escaped}\\b`
+            : escaped;
+          const regex = new RegExp(pattern, 'gi');
           const matches = text.match(regex);
           if (matches) score += matches.length;
         }
