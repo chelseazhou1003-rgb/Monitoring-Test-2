@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.559Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.717Z",
+  "date": "2026-07-08",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
@@ -21,7 +21,7 @@
         "subCategory": "ip"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.559Z",
+    "generatedAt": "2026-07-08T03:22:15.717Z",
     "dateScope": "latest-available",
     "articleCount": 2,
     "totalArticles": 2
@@ -36,7 +36,7 @@
       "sourceId": "ieee-comsoc",
       "sourceGroup": "telecom",
       "publishedAt": "2026-01-30T12:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.559Z",
+      "fetchedAt": "2026-07-08T03:22:15.717Z",
       "fetchStrategy": "approved-source",
       "section": "ip-legal",
       "subCategory": "sep",
@@ -51,7 +51,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-24T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.559Z",
+      "fetchedAt": "2026-07-08T03:22:15.717Z",
       "fetchStrategy": "approved-source",
       "section": "ip-legal",
       "subCategory": "ip",

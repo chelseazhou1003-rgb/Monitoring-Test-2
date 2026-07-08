@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.551Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.697Z",
+  "date": "2026-07-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "As of 2026-06-24, 5 article(s) from CNBC, Mobile World Live, Qualcomm Newsroom cover core businesses: \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
+    "summary": "As of 2026-06-24, 7 article(s) from CNBC, Yahoo Finance, Mobile World Live, Qualcomm Newsroom cover core businesses: \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM’s Q3 2026 Earnings: What to Expect\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
     "keyTakeaways": [
       {
         "text": "Qualcomm revealed Dragonfly C1000 CPU for data centers at Investor Day 2026, with Meta as anchor customer starting production in 2028. Stock popped 15% as co...",
@@ -12,6 +12,20 @@
           "cb1"
         ],
         "subCategory": "semiconductors"
+      },
+      {
+        "text": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the...",
+        "articleIds": [
+          "cb-yf1"
+        ],
+        "subCategory": "semiconductors"
+      },
+      {
+        "text": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for han...",
+        "articleIds": [
+          "cb-yf2"
+        ],
+        "subCategory": "market-performance"
       },
       {
         "text": "Qualcomm unveiled two new mobile chips targeting mid-range and budget Android devices. Snapdragon 6 Gen 5 features 20% faster app launches; Snapdragon 4 Gen ...",
@@ -42,10 +56,10 @@
         "subCategory": "semiconductors"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.551Z",
+    "generatedAt": "2026-07-08T03:22:15.697Z",
     "dateScope": "latest-available",
-    "articleCount": 5,
-    "totalArticles": 5
+    "articleCount": 7,
+    "totalArticles": 7
   },
   "articles": [
     {
@@ -57,11 +71,41 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T19:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.551Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors"
+    },
+    {
+      "id": "cb-yf1",
+      "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html",
+      "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the stock is roughly in line with intrinsic value while earnings-based multiples screen it as undervalued. Excitement around QUALCOMM’s push into AI related chips and partnerships can support the next leg.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T22:09:57.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors"
+    },
+    {
+      "id": "cb-yf2",
+      "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
+      "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
+      "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T14:16:48.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
+      "fetchStrategy": "approved-source",
+      "section": "core-businesses",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
     },
     {
       "id": "cb2",
@@ -72,7 +116,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-07T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.551Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -87,7 +131,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-05-21T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.551Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -102,7 +146,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-03-19T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.551Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "automotive",
@@ -117,7 +161,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.551Z",
+      "fetchedAt": "2026-07-08T03:22:15.696Z",
       "fetchStrategy": "approved-source",
       "section": "core-businesses",
       "subCategory": "semiconductors",

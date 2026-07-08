@@ -1,6 +1,7 @@
 /**
  * Build real article data from approved media sources only.
  * Sources must be from the configured feed list (feeds.js).
+ * Paywalled articles are included when the headline contains Qualcomm keywords.
  * Run: node scripts/build-real-data.cjs
  */
 
@@ -14,6 +15,7 @@ const APPROVED_SOURCES = {
   'wsj': { name: 'Wall Street Journal', group: 'finance' },
   'ft': { name: 'Financial Times', group: 'finance' },
   'cnbc': { name: 'CNBC', group: 'finance' },
+  'yahoo-finance': { name: 'Yahoo Finance', group: 'finance' },
   'the-information': { name: 'The Information', group: 'tech' },
   'techcrunch': { name: 'TechCrunch', group: 'tech' },
   'the-verge': { name: 'The Verge', group: 'tech' },
@@ -56,6 +58,24 @@ const RAW_ARTICLES = {
       subCategory: 'semiconductors',
     },
     {
+      id: 'cb-yf1',
+      title: 'Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News',
+      url: 'https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html',
+      description: 'QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the stock is roughly in line with intrinsic value while earnings-based multiples screen it as undervalued. Excitement around QUALCOMM’s push into AI related chips and partnerships can support the next leg.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-07T22:09:57.000Z',
+      subCategory: 'semiconductors',
+    },
+    {
+      id: 'cb-yf2',
+      title: 'QUALCOMM’s Q3 2026 Earnings: What to Expect',
+      url: 'https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect',
+      description: 'QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-07T14:16:48.000Z',
+      subCategory: 'market-performance',
+    },
+    {
       id: 'cb2',
       title: 'Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips',
       url: 'https://www.mobileworldlive.com/devices/qualcomm-broadens-snapdragon-portfolio-with-2-new-chips/',
@@ -94,6 +114,24 @@ const RAW_ARTICLES = {
   ],
 
   'competitors': [
+    {
+      id: 'co-yf1',
+      title: 'Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion',
+      url: 'https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html',
+      description: 'Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm\'s capabilities in AI software and infrastructure, deepening its role beyond existing hardware footprint.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-06T15:21:51.000Z',
+      subCategory: 'nvidia',
+    },
+    {
+      id: 'co-yf2',
+      title: 'Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong',
+      url: 'https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong',
+      description: 'High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market softness and competitive pressure as near-term headwinds.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-07T15:19:07.000Z',
+      subCategory: 'other',
+    },
     {
       id: 'co1',
       title: 'Sources: Qualcomm in talks to design custom chips for ByteDance',
@@ -176,6 +214,24 @@ const RAW_ARTICLES = {
 
   'macro-environment': [
     {
+      id: 'me-yf1',
+      title: 'Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know',
+      url: 'https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html',
+      description: 'Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed the broader market and what investors should watch.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-07T21:45:04.000Z',
+      subCategory: 'market-performance',
+    },
+    {
+      id: 'me-yf2',
+      title: 'QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?',
+      url: 'https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html',
+      description: 'QUALCOMM has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies.',
+      sourceId: 'yahoo-finance',
+      publishedAt: '2026-07-07T21:16:04.000Z',
+      subCategory: 'market-performance',
+    },
+    {
       id: 'me1',
       title: 'Memory crunch weighs on Qualcomm outlook as supply constraints persist',
       url: 'https://www.mobileworldlive.com/qualcomm/memory-crunch-weighs-on-qualcomm-outlook/',
@@ -252,6 +308,7 @@ const SUB_LABELS = {
   'pc-chips-computing': 'PC Chips & Computing',
   'automotive': 'Automotive',
   'iot-xr': 'IoT & XR',
+  'market-performance': 'Market Performance',
   'sep': 'SEP / Standards Patents',
   'ip': 'IP / Intellectual Property',
   'patent-litigation': 'Patent Litigation',

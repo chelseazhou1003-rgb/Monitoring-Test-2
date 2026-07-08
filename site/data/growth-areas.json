@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.558Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.714Z",
+  "date": "2026-07-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
@@ -28,7 +28,7 @@
         "subCategory": "on-device-ai"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.558Z",
+    "generatedAt": "2026-07-08T03:22:15.714Z",
     "dateScope": "latest-available",
     "articleCount": 3,
     "totalArticles": 3
@@ -43,7 +43,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-06-16T18:22:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.558Z",
+      "fetchedAt": "2026-07-08T03:22:15.714Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "xr-spatial-computing",
@@ -58,7 +58,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-10T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.558Z",
+      "fetchedAt": "2026-07-08T03:22:15.714Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "xr-spatial-computing",
@@ -73,7 +73,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.558Z",
+      "fetchedAt": "2026-07-08T03:22:15.714Z",
       "fetchStrategy": "approved-source",
       "section": "growth-areas",
       "subCategory": "on-device-ai",

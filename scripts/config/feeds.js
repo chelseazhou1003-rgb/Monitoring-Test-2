@@ -46,6 +46,13 @@ export const FEEDS = [
     strategy: 'google-news',
     googleQuery: 'Qualcomm site:cnbc.com'
   },
+  {
+    id: 'yahoo-finance',
+    name: 'Yahoo Finance',
+    group: 'finance',
+    strategy: 'rss',
+    url: 'https://feeds.finance.yahoo.com/rss/2.0/headline?s=QCOM&region=US&lang=en-US'
+  },
 
   // --- Technology ---
   {

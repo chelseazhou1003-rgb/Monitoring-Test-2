@@ -2,13 +2,27 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-07-07T10:58:33.556Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.712Z",
+    "date": "2026-07-08",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "As of 2026-06-24, 3 article(s) from Reuters, Mobile World Live, CNBC cover competitors: \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\".",
+      "summary": "As of 2026-07-06, 5 article(s) from Yahoo Finance, Reuters, Mobile World Live, CNBC cover competitors: \"Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion\"; \"Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong\"; \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\".",
       "keyTakeaways": [
+        {
+          "text": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal ...",
+          "articleIds": [
+            "co-yf1"
+          ],
+          "subCategory": "nvidia"
+        },
+        {
+          "text": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market soft...",
+          "articleIds": [
+            "co-yf2"
+          ],
+          "subCategory": "other"
+        },
         {
           "text": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to fo...",
           "articleIds": [
@@ -31,12 +45,42 @@ export const NEWS_DATA = {
           "subCategory": "nvidia"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.556Z",
+      "generatedAt": "2026-07-08T03:22:15.712Z",
       "dateScope": "latest-available",
-      "articleCount": 3,
-      "totalArticles": 3
+      "articleCount": 5,
+      "totalArticles": 5
     },
     "articles": [
+      {
+        "id": "co-yf1",
+        "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html",
+        "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in AI software and infrastructure, deepening its role beyond existing hardware footprint.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-06T15:21:51.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.712Z",
+        "fetchStrategy": "approved-source",
+        "section": "competitors",
+        "subCategory": "nvidia",
+        "subLabel": "NVIDIA"
+      },
+      {
+        "id": "co-yf2",
+        "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
+        "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong",
+        "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market softness and competitive pressure as near-term headwinds.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-07T15:19:07.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.712Z",
+        "fetchStrategy": "approved-source",
+        "section": "competitors",
+        "subCategory": "other",
+        "subLabel": "Other Competitors"
+      },
       {
         "id": "co1",
         "title": "Sources: Qualcomm in talks to design custom chips for ByteDance",
@@ -46,7 +90,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T12:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.555Z",
+        "fetchedAt": "2026-07-08T03:22:15.712Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "broadcom",
@@ -61,7 +105,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-28T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.556Z",
+        "fetchedAt": "2026-07-08T03:22:15.712Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "mediatek",
@@ -76,7 +120,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T15:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.556Z",
+        "fetchedAt": "2026-07-08T03:22:15.712Z",
         "fetchStrategy": "approved-source",
         "section": "competitors",
         "subCategory": "nvidia",
@@ -85,12 +129,12 @@ export const NEWS_DATA = {
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-07-07T10:58:33.551Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.697Z",
+    "date": "2026-07-08",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "As of 2026-06-24, 5 article(s) from CNBC, Mobile World Live, Qualcomm Newsroom cover core businesses: \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
+      "summary": "As of 2026-06-24, 7 article(s) from CNBC, Yahoo Finance, Mobile World Live, Qualcomm Newsroom cover core businesses: \"Qualcomm rolls out AI data center CPU, signs Meta as major customer\"; \"Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News\"; \"QUALCOMM’s Q3 2026 Earnings: What to Expect\"; \"Qualcomm broadens Snapdragon portfolio with Snapdragon 6 Gen 5 and 4 Gen 5 chips\"; \"Qualcomm debuts Dragonwing Mobile Broadband Multimedia family\"; \"Qualcomm Automotive Business Reaches $1.1B Revenue with $45B Design Wins\"; \"Memory crunch weighs on Qualcomm outlook as Q2 FY2026 results miss expectations\".",
       "keyTakeaways": [
         {
           "text": "Qualcomm revealed Dragonfly C1000 CPU for data centers at Investor Day 2026, with Meta as anchor customer starting production in 2028. Stock popped 15% as co...",
@@ -98,6 +142,20 @@ export const NEWS_DATA = {
             "cb1"
           ],
           "subCategory": "semiconductors"
+        },
+        {
+          "text": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the...",
+          "articleIds": [
+            "cb-yf1"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for han...",
+          "articleIds": [
+            "cb-yf2"
+          ],
+          "subCategory": "market-performance"
         },
         {
           "text": "Qualcomm unveiled two new mobile chips targeting mid-range and budget Android devices. Snapdragon 6 Gen 5 features 20% faster app launches; Snapdragon 4 Gen ...",
@@ -128,10 +186,10 @@ export const NEWS_DATA = {
           "subCategory": "semiconductors"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.551Z",
+      "generatedAt": "2026-07-08T03:22:15.697Z",
       "dateScope": "latest-available",
-      "articleCount": 5,
-      "totalArticles": 5
+      "articleCount": 7,
+      "totalArticles": 7
     },
     "articles": [
       {
@@ -143,11 +201,41 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T19:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.551Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors"
+      },
+      {
+        "id": "cb-yf1",
+        "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html",
+        "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow estimate suggesting the stock is roughly in line with intrinsic value while earnings-based multiples screen it as undervalued. Excitement around QUALCOMM’s push into AI related chips and partnerships can support the next leg.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-07T22:09:57.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
+        "fetchStrategy": "approved-source",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors"
+      },
+      {
+        "id": "cb-yf2",
+        "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
+        "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
+        "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-07T14:16:48.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
+        "fetchStrategy": "approved-source",
+        "section": "core-businesses",
+        "subCategory": "market-performance",
+        "subLabel": "Market Performance"
       },
       {
         "id": "cb2",
@@ -158,7 +246,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-05-07T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.551Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -173,7 +261,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-05-21T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.551Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -188,7 +276,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-03-19T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.551Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "automotive",
@@ -203,7 +291,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-30T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.551Z",
+        "fetchedAt": "2026-07-08T03:22:15.696Z",
         "fetchStrategy": "approved-source",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -212,8 +300,8 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-07-07T10:58:33.558Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.714Z",
+    "date": "2026-07-08",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -241,7 +329,7 @@ export const NEWS_DATA = {
           "subCategory": "on-device-ai"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.558Z",
+      "generatedAt": "2026-07-08T03:22:15.714Z",
       "dateScope": "latest-available",
       "articleCount": 3,
       "totalArticles": 3
@@ -256,7 +344,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-06-16T18:22:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.558Z",
+        "fetchedAt": "2026-07-08T03:22:15.714Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "xr-spatial-computing",
@@ -271,7 +359,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-10T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.558Z",
+        "fetchedAt": "2026-07-08T03:22:15.714Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "xr-spatial-computing",
@@ -286,7 +374,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.558Z",
+        "fetchedAt": "2026-07-08T03:22:15.714Z",
         "fetchStrategy": "approved-source",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -295,8 +383,8 @@ export const NEWS_DATA = {
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-07-07T10:58:33.559Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.717Z",
+    "date": "2026-07-08",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -317,7 +405,7 @@ export const NEWS_DATA = {
           "subCategory": "ip"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.559Z",
+      "generatedAt": "2026-07-08T03:22:15.717Z",
       "dateScope": "latest-available",
       "articleCount": 2,
       "totalArticles": 2
@@ -332,7 +420,7 @@ export const NEWS_DATA = {
         "sourceId": "ieee-comsoc",
         "sourceGroup": "telecom",
         "publishedAt": "2026-01-30T12:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.559Z",
+        "fetchedAt": "2026-07-08T03:22:15.717Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "sep",
@@ -347,7 +435,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-24T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.559Z",
+        "fetchedAt": "2026-07-08T03:22:15.717Z",
         "fetchStrategy": "approved-source",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -356,13 +444,27 @@ export const NEWS_DATA = {
     ]
   },
   "macro-environment": {
-    "generatedAt": "2026-07-07T10:58:33.561Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.735Z",
+    "date": "2026-07-08",
     "section": "macro-environment",
     "sectionTitle": "Macro Environment",
     "briefing": {
-      "summary": "As of 2026-04-30, 3 article(s) from Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
+      "summary": "As of 2026-07-07, 5 article(s) from Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
       "keyTakeaways": [
+        {
+          "text": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed ...",
+          "articleIds": [
+            "me-yf1"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
+          "text": "QUALCOMM has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is group...",
+          "articleIds": [
+            "me-yf2"
+          ],
+          "subCategory": "market-performance"
+        },
         {
           "text": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit...",
           "articleIds": [
@@ -385,12 +487,42 @@ export const NEWS_DATA = {
           "subCategory": "customers-partners"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.561Z",
+      "generatedAt": "2026-07-08T03:22:15.735Z",
       "dateScope": "latest-available",
-      "articleCount": 3,
-      "totalArticles": 3
+      "articleCount": 5,
+      "totalArticles": 5
     },
     "articles": [
+      {
+        "id": "me-yf1",
+        "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
+        "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed the broader market and what investors should watch.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-07T21:45:04.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.735Z",
+        "fetchStrategy": "approved-source",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "Market Performance"
+      },
+      {
+        "id": "me-yf2",
+        "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html",
+        "description": "QUALCOMM has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-07-07T21:16:04.000Z",
+        "fetchedAt": "2026-07-08T03:22:15.735Z",
+        "fetchStrategy": "approved-source",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "Market Performance"
+      },
       {
         "id": "me1",
         "title": "Memory crunch weighs on Qualcomm outlook as supply constraints persist",
@@ -400,7 +532,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-04-30T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.561Z",
+        "fetchedAt": "2026-07-08T03:22:15.735Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -415,7 +547,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-06-24T12:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.561Z",
+        "fetchedAt": "2026-07-08T03:22:15.735Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -430,7 +562,7 @@ export const NEWS_DATA = {
         "sourceId": "qualcomm-newsroom",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-01-07T08:13:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.561Z",
+        "fetchedAt": "2026-07-08T03:22:15.735Z",
         "fetchStrategy": "approved-source",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -439,8 +571,8 @@ export const NEWS_DATA = {
     ]
   },
   "stakeholders": {
-    "generatedAt": "2026-07-07T10:58:33.564Z",
-    "date": "2026-07-07",
+    "generatedAt": "2026-07-08T03:22:15.746Z",
+    "date": "2026-07-08",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
@@ -468,7 +600,7 @@ export const NEWS_DATA = {
           "subCategory": "3gpp"
         }
       ],
-      "generatedAt": "2026-07-07T10:58:33.564Z",
+      "generatedAt": "2026-07-08T03:22:15.746Z",
       "dateScope": "latest-available",
       "articleCount": 3,
       "totalArticles": 3
@@ -483,7 +615,7 @@ export const NEWS_DATA = {
         "sourceId": "ieee-comsoc",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-16T12:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.564Z",
+        "fetchedAt": "2026-07-08T03:22:15.745Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "3gpp",
@@ -498,7 +630,7 @@ export const NEWS_DATA = {
         "sourceId": "fierce-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2026-02-17T11:49:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.564Z",
+        "fetchedAt": "2026-07-08T03:22:15.745Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "etsi",
@@ -513,7 +645,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-06-25T10:00:00.000Z",
-        "fetchedAt": "2026-07-07T10:58:33.564Z",
+        "fetchedAt": "2026-07-08T03:22:15.745Z",
         "fetchStrategy": "approved-source",
         "section": "stakeholders",
         "subCategory": "3gpp",

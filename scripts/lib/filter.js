@@ -1,4 +1,6 @@
-// Qualcomm-relevance filter: only keep articles mentioning Qualcomm-related keywords
+// Qualcomm-relevance filter: keep articles that mention Qualcomm-related keywords.
+// IMPORTANT: Paywalled articles are still included if the title contains "Qualcomm"
+// or related keywords. We do NOT require full article text / description.
 
 import { QUALCOMM_KEYWORDS, CONDITIONAL_KEYWORDS } from '../config/keywords.js';
 
@@ -7,7 +9,12 @@ export function filterQualcommRelevant(articles) {
   const rejected = [];
 
   for (const article of articles) {
-    const text = `${article.title} ${article.description}`.toLowerCase();
+    // Use title alone if description is missing, empty, or only a paywall/subscription notice.
+    const desc = article.description || '';
+    const isPaywallNotice = /\b(subscrib|subscription|paywall|premium|membership|sign in|log in|register to read)\b/i.test(desc);
+    const text = isPaywallNotice
+      ? (article.title || '').toLowerCase()
+      : `${article.title || ''} ${desc}`.toLowerCase();
 
     // Check primary keywords
     const hasPrimary = QUALCOMM_KEYWORDS.some(kw =>
@@ -16,7 +23,6 @@ export function filterQualcommRelevant(articles) {
 
     // If no primary keyword, check conditional keywords (need co-occurrence)
     if (!hasPrimary) {
-      // Check if text has both a conditional keyword AND any Qualcomm brand term
       const hasConditional = CONDITIONAL_KEYWORDS.some(kw =>
         text.includes(kw.toLowerCase())
       );

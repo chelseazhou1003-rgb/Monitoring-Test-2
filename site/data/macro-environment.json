@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.561Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.735Z",
+  "date": "2026-07-08",
   "section": "macro-environment",
   "sectionTitle": "Macro Environment",
   "briefing": {
-    "summary": "As of 2026-04-30, 3 article(s) from Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
+    "summary": "As of 2026-07-07, 5 article(s) from Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
     "keyTakeaways": [
+      {
+        "text": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed ...",
+        "articleIds": [
+          "me-yf1"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "QUALCOMM has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is group...",
+        "articleIds": [
+          "me-yf2"
+        ],
+        "subCategory": "market-performance"
+      },
       {
         "text": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit...",
         "articleIds": [
@@ -28,12 +42,42 @@
         "subCategory": "customers-partners"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.561Z",
+    "generatedAt": "2026-07-08T03:22:15.735Z",
     "dateScope": "latest-available",
-    "articleCount": 3,
-    "totalArticles": 3
+    "articleCount": 5,
+    "totalArticles": 5
   },
   "articles": [
+    {
+      "id": "me-yf1",
+      "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
+      "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed the broader market and what investors should watch.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T21:45:04.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.735Z",
+      "fetchStrategy": "approved-source",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
+    },
+    {
+      "id": "me-yf2",
+      "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html",
+      "description": "QUALCOMM has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T21:16:04.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.735Z",
+      "fetchStrategy": "approved-source",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "Market Performance"
+    },
     {
       "id": "me1",
       "title": "Memory crunch weighs on Qualcomm outlook as supply constraints persist",
@@ -43,7 +87,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchedAt": "2026-07-08T03:22:15.735Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -58,7 +102,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T12:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchedAt": "2026-07-08T03:22:15.735Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -73,7 +117,7 @@
       "sourceId": "qualcomm-newsroom",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-01-07T08:13:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.561Z",
+      "fetchedAt": "2026-07-08T03:22:15.735Z",
       "fetchStrategy": "approved-source",
       "section": "macro-environment",
       "subCategory": "customers-partners",

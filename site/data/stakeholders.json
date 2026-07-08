@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.564Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.746Z",
+  "date": "2026-07-08",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
@@ -28,7 +28,7 @@
         "subCategory": "3gpp"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.564Z",
+    "generatedAt": "2026-07-08T03:22:15.746Z",
     "dateScope": "latest-available",
     "articleCount": 3,
     "totalArticles": 3
@@ -43,7 +43,7 @@
       "sourceId": "ieee-comsoc",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-16T12:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchedAt": "2026-07-08T03:22:15.745Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",
@@ -58,7 +58,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-02-17T11:49:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchedAt": "2026-07-08T03:22:15.745Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "etsi",
@@ -73,7 +73,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.564Z",
+      "fetchedAt": "2026-07-08T03:22:15.745Z",
       "fetchStrategy": "approved-source",
       "section": "stakeholders",
       "subCategory": "3gpp",

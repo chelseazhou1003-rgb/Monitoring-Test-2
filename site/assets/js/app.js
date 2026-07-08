@@ -46,10 +46,11 @@ const SECTION_META = {
   },
   'macro-environment': {
     title: 'Macro Environment',
-    desc: 'Customers and partners, supply chain, geopolitics and export controls.',
+    desc: 'Customers and partners, supply chain, market performance, and geopolitics / export controls.',
     subs: [
       { id: 'customers-partners', label: 'Customers & Partners' },
       { id: 'supply-chain', label: 'Supply Chain' },
+      { id: 'market-performance', label: 'Market Performance' },
       { id: 'geopolitics-export-controls', label: 'Geopolitics & Export Controls' }
     ]
   },
@@ -371,7 +372,7 @@ async function renderAboutView(main, latest) {
 
       <div class="about-section">
         <h3>Limitations</h3>
-        <p>Some premium sources (Bloomberg, WSJ, FT) do not offer public RSS feeds and are sourced via Google News headlines, which may not capture the full depth of their coverage. Paywalled content is linked to but may not be fully accessible without a subscription.</p>
+        <p>Some premium sources (Bloomberg, WSJ, FT, etc.) do not offer public RSS feeds and are sourced via Google News or Yahoo Finance headlines. Paywalled articles are still listed when their headline contains "Qualcomm" or related keywords, even if the full text is not publicly accessible.</p>
         <p>This is an automated news aggregation tool. It is not affiliated with Qualcomm Incorporated or any of the listed media sources. All content remains the property of the original publishers.</p>
       </div>
     </div>

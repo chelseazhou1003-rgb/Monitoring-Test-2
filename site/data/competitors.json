@@ -1,11 +1,25 @@
 {
-  "generatedAt": "2026-07-07T10:58:33.556Z",
-  "date": "2026-07-07",
+  "generatedAt": "2026-07-08T03:22:15.712Z",
+  "date": "2026-07-08",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "As of 2026-06-24, 3 article(s) from Reuters, Mobile World Live, CNBC cover competitors: \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\".",
+    "summary": "As of 2026-07-06, 5 article(s) from Yahoo Finance, Reuters, Mobile World Live, CNBC cover competitors: \"Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion\"; \"Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong\"; \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\".",
     "keyTakeaways": [
+      {
+        "text": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal ...",
+        "articleIds": [
+          "co-yf1"
+        ],
+        "subCategory": "nvidia"
+      },
+      {
+        "text": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market soft...",
+        "articleIds": [
+          "co-yf2"
+        ],
+        "subCategory": "other"
+      },
       {
         "text": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to fo...",
         "articleIds": [
@@ -28,12 +42,42 @@
         "subCategory": "nvidia"
       }
     ],
-    "generatedAt": "2026-07-07T10:58:33.556Z",
+    "generatedAt": "2026-07-08T03:22:15.712Z",
     "dateScope": "latest-available",
-    "articleCount": 3,
-    "totalArticles": 3
+    "articleCount": 5,
+    "totalArticles": 5
   },
   "articles": [
+    {
+      "id": "co-yf1",
+      "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html",
+      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in AI software and infrastructure, deepening its role beyond existing hardware footprint.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-06T15:21:51.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.712Z",
+      "fetchStrategy": "approved-source",
+      "section": "competitors",
+      "subCategory": "nvidia",
+      "subLabel": "NVIDIA"
+    },
+    {
+      "id": "co-yf2",
+      "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
+      "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong",
+      "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market softness and competitive pressure as near-term headwinds.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-07T15:19:07.000Z",
+      "fetchedAt": "2026-07-08T03:22:15.712Z",
+      "fetchStrategy": "approved-source",
+      "section": "competitors",
+      "subCategory": "other",
+      "subLabel": "Other Competitors"
+    },
     {
       "id": "co1",
       "title": "Sources: Qualcomm in talks to design custom chips for ByteDance",
@@ -43,7 +87,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T12:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.555Z",
+      "fetchedAt": "2026-07-08T03:22:15.712Z",
       "fetchStrategy": "approved-source",
       "section": "competitors",
       "subCategory": "broadcom",
@@ -58,7 +102,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-04-28T10:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.556Z",
+      "fetchedAt": "2026-07-08T03:22:15.712Z",
       "fetchStrategy": "approved-source",
       "section": "competitors",
       "subCategory": "mediatek",
@@ -73,7 +117,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-06-24T15:00:00.000Z",
-      "fetchedAt": "2026-07-07T10:58:33.556Z",
+      "fetchedAt": "2026-07-08T03:22:15.712Z",
       "fetchStrategy": "approved-source",
       "section": "competitors",
       "subCategory": "nvidia",
