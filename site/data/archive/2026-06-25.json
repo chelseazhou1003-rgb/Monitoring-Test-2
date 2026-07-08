@@ -77,6 +77,28 @@
           "publishedAt": "2026-06-25T12:00:00.000Z",
           "section": "macro-environment",
           "subCategory": "geopolitics-trade"
+        },
+        {
+          "title": "Wall St ends mixed as tech megacap declines outweigh upbeat chip outlook",
+          "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
+          "description": "The Nasdaq closed lower on Thursday, dragged down by losses in Big Tech shares, while the S&P 500 closed near flat and the Dow closed higher. Strong forecasts from Micron and Qualcomm had initially boosted chip stocks before broader market caution took hold.",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-25T22:00:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        },
+        {
+          "title": "Global chip stocks jump as blowout Micron results reignite AI rally",
+          "url": "https://www.reuters.com/world/asia-pacific/south-korean-chip-shares-rally-after-microns-upbeat-earnings-2026-06-25/",
+          "description": "Global chip stocks surged on Thursday after Micron Technology's blockbuster results reignited the AI-driven rally. Qualcomm also benefited from the positive sentiment following its Investor Day data center announcements and raised revenue targets.",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-25T21:00:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
         }
       ]
     },
@@ -92,5 +114,5 @@
       "articles": []
     }
   },
-  "totalArticles": 2
+  "totalArticles": 4
 }
