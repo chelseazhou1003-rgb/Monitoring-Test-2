@@ -11,7 +11,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Building the 6G Standard: What 3GPP's June 2026 Plenary Decisions Mean for Device Makers",
+          "url": "https://www.publicnow.com/view/BAC26992E37D84D81D0B7E7772702B78C189C8AE",
+          "description": "Qualcomm outlines what 3GPP's June 2026 plenary decisions mean for device makers as the industry moves toward 6G standardization. The decisions set the foundation for next-generation wireless technology with AI-native architecture.",
+          "source": "Qualcomm Newsroom",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-29T20:41:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "wireless"
+        }
+      ]
     },
     "competitors": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -69,5 +81,5 @@
       "articles": []
     }
   },
-  "totalArticles": 0
+  "totalArticles": 1
 }

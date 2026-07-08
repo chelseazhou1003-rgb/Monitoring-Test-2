@@ -22,7 +22,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm's big AI gamble: Breaking Nvidia's chips stronghold",
+          "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
+          "description": "Fortune profiles CEO Cristiano Amon's five-year plan to challenge Nvidia's dominance in AI data center chips. With endorsements from Meta's Zuckerberg and Microsoft's Nadella, Qualcomm unveiled its Dragonfly C1000 CPU and AI accelerators. Amon dismisses concerns about being late: \"It's never too late for Qualcomm.\"",
+          "source": "Fortune",
+          "sourceId": "fortune",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-27T12:00:00.000Z",
+          "section": "competitors",
+          "subCategory": "nvidia"
+        }
+      ]
     },
     "growth-areas": {
       "generatedAt": "2026-06-27T13:00:00.000Z",
@@ -33,7 +45,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm's Modular Acquisition: Building an Alternative to Nvidia CUDA",
+          "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
+          "description": "The $3.9B Modular acquisition gives Qualcomm a software platform to compete with Nvidia's CUDA. Modular's technology allows AI applications to run across heterogeneous chip architectures, potentially weakening Nvidia's software ecosystem lock-in.",
+          "source": "Fortune",
+          "sourceId": "fortune",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-27T13:00:00.000Z",
+          "section": "growth-areas",
+          "subCategory": "data-center"
+        }
+      ]
     },
     "ip-legal": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -55,7 +79,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm's $40 Billion Diversification Bet: Beyond Smartphones",
+          "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
+          "description": "Qualcomm projects $40 billion in non-handset revenue by FY29, doubling its prior forecast. The ambitious plan spans data center CPUs, AI accelerators, automotive chips ($10B target), and IoT. The strategy marks Qualcomm's biggest pivot since entering the mobile chip market.",
+          "source": "Fortune",
+          "sourceId": "fortune",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-27T12:30:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        }
+      ]
     },
     "stakeholders": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -69,5 +105,5 @@
       "articles": []
     }
   },
-  "totalArticles": 0
+  "totalArticles": 3
 }

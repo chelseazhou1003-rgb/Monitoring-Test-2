@@ -66,6 +66,17 @@
           "publishedAt": "2026-06-25T15:58:00.000Z",
           "section": "macro-environment",
           "subCategory": "market-performance"
+        },
+        {
+          "title": "Qualcomm Plans China AI Chip Push with Export-Control Compliant Custom Chips",
+          "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
+          "description": "Qualcomm unveiled a comprehensive data center portfolio and said it will develop export-control-compliant versions of its data center chips for the Chinese market. CEO Amon confirmed Qualcomm can serve China without triggering US export restrictions.",
+          "source": "TrendForce",
+          "sourceId": "trendforce",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-25T12:00:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "geopolitics-trade"
         }
       ]
     },
@@ -81,5 +92,5 @@
       "articles": []
     }
   },
-  "totalArticles": 1
+  "totalArticles": 2
 }

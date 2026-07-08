@@ -33,6 +33,17 @@
           "publishedAt": "2026-06-24T18:30:00.000Z",
           "section": "core-businesses",
           "subCategory": "semiconductors"
+        },
+        {
+          "title": "Qualcomm Accelerates Diversification with Comprehensive Data Center Strategy",
+          "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-accelerates-diversification-with-comprehensive-strategy",
+          "description": "Qualcomm is accelerating diversification with a comprehensive data center strategy targeting multiple growth inflection points over the next 3–5 years, including Dragonfly C1000 CPU, AI accelerators, and connectivity solutions for hyperscalers.",
+          "source": "Qualcomm Newsroom",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-24T18:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
         }
       ]
     },
@@ -116,5 +127,5 @@
       "articles": []
     }
   },
-  "totalArticles": 4
+  "totalArticles": 5
 }

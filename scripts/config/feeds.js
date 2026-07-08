@@ -55,6 +55,13 @@ export const FEEDS = [
     strategy: 'rss',
     url: 'https://feeds.finance.yahoo.com/rss/2.0/headline?s=QCOM&region=US&lang=en-US'
   },
+  {
+    id: 'fortune',
+    name: 'Fortune',
+    group: 'finance',
+    strategy: 'google-news',
+    googleQuery: 'Qualcomm site:fortune.com'
+  },
 
   // --- Technology ---
   {
@@ -85,6 +92,13 @@ export const FEEDS = [
     strategy: 'rss',
     url: 'https://venturebeat.com/feed/'
   },
+  {
+    id: 'datacenter-dynamics',
+    name: 'Data Center Dynamics',
+    group: 'tech',
+    strategy: 'rss',
+    url: 'https://www.datacenterdynamics.com/feed/'
+  },
 
   // --- Semiconductor ---
   {
@@ -114,6 +128,13 @@ export const FEEDS = [
     group: 'semiconductor',
     strategy: 'rss',
     url: 'https://www.siliconsemiconductor.net/rss.xml'
+  },
+  {
+    id: 'qualcomm-newsroom',
+    name: 'Qualcomm Newsroom',
+    group: 'semiconductor',
+    strategy: 'rss',
+    url: 'https://www.qualcomm.com/news/rss'
   },
 
   // --- IP / Legal ---

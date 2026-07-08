@@ -33,7 +33,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm Signs Two Hyperscaler Deals for Custom Data Center Silicon",
+          "url": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-two-hyperscaler-deals-for-custom-data-center-silicon/",
+          "description": "Qualcomm confirmed it has secured two deals to make custom silicon chips for major hyperscale cloud providers, expanding beyond the previously announced Meta partnership. The deals represent a significant validation of Qualcomm's data center strategy.",
+          "source": "Data Center Dynamics",
+          "sourceId": "datacenter-dynamics",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-07-01T14:00:00.000Z",
+          "section": "growth-areas",
+          "subCategory": "data-center"
+        }
+      ]
     },
     "ip-legal": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -69,5 +81,5 @@
       "articles": []
     }
   },
-  "totalArticles": 0
+  "totalArticles": 1
 }
