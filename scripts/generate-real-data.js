@@ -422,7 +422,7 @@ const SECTION_META = {
   'ip-legal': { title: 'IP & Legal', desc: 'Standard-essential patents, intellectual property, patent litigation, FRAND and licensing disputes, regulatory and antitrust matters.' },
   'growth-areas': { title: 'Growth Areas', desc: 'On-device AI and edge AI, AI PC, embodied AI and robotics, in-vehicle infotainment and ADAS, XR and spatial computing.' },
   competitors: { title: 'Competitors', desc: 'Apple, MediaTek, Intel, NVIDIA, AMD, Samsung, Broadcom, Huawei and other relevant competitive coverage.' },
-  'macro-environment': { title: 'Macro Environment', desc: 'Customers and partners, supply chain dynamics, geopolitics and export controls.' },
+  'macro-environment': { title: 'Macro', desc: 'Customers and partners, supply chain dynamics, geopolitics and export controls.' },
   stakeholders: { title: 'Key Stakeholders', desc: '3GPP, ETSI, IEEE, Wi-Fi Alliance, Bluetooth SIG, USB-IF, O-RAN Alliance, regulators, industry associations, OEMs, foundries, platform partners.' }
 };
 

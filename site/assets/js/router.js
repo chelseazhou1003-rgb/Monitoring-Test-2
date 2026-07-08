@@ -7,7 +7,7 @@ const ROUTES = {
   '/core-businesses': { type: 'section',   id: 'core-businesses',   title: 'Core Businesses' },
   '/ip-legal':        { type: 'section',   id: 'ip-legal',          title: 'IP & Legal' },
   '/growth-areas':    { type: 'section',   id: 'growth-areas',      title: 'Growth Areas' },
-  '/macro-environment':{ type: 'section',  id: 'macro-environment', title: 'Macro Environment' },
+  '/macro-environment':{ type: 'section',  id: 'macro-environment', title: 'Macro' },
   '/competitors':     { type: 'section',   id: 'competitors',       title: 'Competitors' },
   '/stakeholders':    { type: 'section',   id: 'stakeholders',      title: 'Key Stakeholders' },
   '/about':           { type: 'about',     title: 'About & Methodology' }

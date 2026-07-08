@@ -46,7 +46,7 @@ const SECTION_META = {
     ]
   },
   'macro-environment': {
-    title: 'Macro Environment',
+    title: 'Macro',
     desc: 'Customers and partners, supply chain, market performance, and geopolitics / export controls.',
     subs: [
       { id: 'customers-partners', label: 'Customers & Partners' },

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-07-08T06:45:00.935Z",
+  "generatedAt": "2026-07-08T07:21:42.228Z",
   "date": "2026-07-08",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+      "topHeadlineId": "a6",
+      "briefingSummary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia"
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -24,18 +24,18 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
-      "title": "Macro Environment",
-      "articleCount": 6,
+      "title": "Macro",
+      "articleCount": 5,
       "topHeadline": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (6 articles). A total of 6 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-      "topHeadlineId": "a6",
-      "briefingSummary": "One article today covering market-performance. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 7
+  "totalArticles": 6
 }

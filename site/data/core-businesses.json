@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-07-08T06:45:00.914Z",
+  "generatedAt": "2026-07-08T07:21:42.191Z",
   "date": "2026-07-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
+    "keyTakeaways": [
+      {
+        "text": "Semiconductors: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "semiconductors"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
+      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-06T15:21:51.000Z",
+      "fetchedAt": "2026-07-08T07:21:18.335Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "id": "a6"
+    }
+  ]
 }

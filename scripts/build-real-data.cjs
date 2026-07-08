@@ -382,7 +382,7 @@ const SECTIONS = {
   'competitors': { title: 'Competitors', description: 'Apple, MediaTek, Intel, NVIDIA, AMD, Samsung, Broadcom, Huawei' },
   'growth-areas': { title: 'Growth Areas', description: 'On-device AI, AI PC, robotics, infotainment/ADAS, XR/spatial computing' },
   'ip-legal': { title: 'IP & Legal', description: 'SEP, patent litigation, FRAND, licensing, regulatory, antitrust' },
-  'macro-environment': { title: 'Macro Environment', description: 'Customers, partners, supply chain, geopolitics, export controls, market' },
+  'macro-environment': { title: 'Macro', description: 'Customers, partners, supply chain, geopolitics, export controls, market' },
   'stakeholders': { title: 'Key Stakeholders', description: '3GPP, ETSI, IEEE, Wi-Fi Alliance, O-RAN, regulators, OEMs, foundries' },
 };
 

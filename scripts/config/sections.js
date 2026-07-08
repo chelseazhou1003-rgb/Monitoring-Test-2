@@ -24,7 +24,7 @@ export const SECTIONS = [
   },
   {
     id: 'macro-environment',
-    title: 'Macro Environment',
+    title: 'Macro',
     slug: 'macro-environment',
     description: 'Customers and partners, supply chain, geopolitics and export controls.',
     page: 'macro-environment.html'
