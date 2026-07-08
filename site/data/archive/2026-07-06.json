@@ -1,0 +1,96 @@
+{
+  "generatedAt": "2026-07-06T07:00:00.000Z",
+  "date": "2026-07-06",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "competitors": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-07-06T21:45:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm Stock Dips as Tech Sell-Off Weighs on Semiconductor Sector",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
+          "description": "Qualcomm (QCOM) closed lower amid a broader tech sell-off as investors rotated out of semiconductor stocks. The stock has depreciated 14.37% over the past month, underperforming the S&P 500. Attention turns to the upcoming Q3 earnings release.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-06T21:45:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        },
+        {
+          "title": "Qualcomm's Q3 2026 Earnings: What to Expect",
+          "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
+          "description": "Qualcomm is set to release its fiscal Q3 earnings this month. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds and the company's ambitious data center expansion plans.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-06T14:16:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 2
+}

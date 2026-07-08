@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-07-03T07:00:00.000Z",
+  "date": "2026-07-03",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "competitors": {
+      "generatedAt": "2026-07-03T10:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "MediaTek and Qualcomm Lose Smartphone Chip Market Share as Apple Gains in Q1 2026",
+          "url": "https://www.androidheadlines.com/2026/06/mediatek-qualcomm-lose-market-share-q1-2026-apple-closing-in.html",
+          "description": "Counterpoint data shows chip shipments in Q1 2026 dropped for both MediaTek and Qualcomm year-over-year, while Apple gained share. The memory crisis and slowing smartphone demand are reshaping the mobile processor competitive landscape.",
+          "source": "Android Headlines",
+          "sourceId": "android-headlines",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-07-03T10:00:00.000Z",
+          "section": "competitors",
+          "subCategory": "mediatek"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 1
+}

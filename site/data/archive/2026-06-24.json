@@ -1,0 +1,142 @@
+{
+  "generatedAt": "2026-06-24T07:00:00.000Z",
+  "date": "2026-06-24",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-06-24T19:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm rolls out AI data center CPU Dragonfly C1000, signs Meta as major customer",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+          "description": "Qualcomm revealed a CPU for data centers called Dragonfly C1000, and said Meta would use it when it starts production in 2028. The company also raised its non-handset revenue forecast to $40 billion by fiscal 2029, nearly doubling a prior estimate. Qualcomm stock popped 15% after the announcement.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-24T19:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
+        },
+        {
+          "title": "Qualcomm to Acquire Modular AI Software Company for $3.9 Billion",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
+          "description": "Qualcomm announced the acquisition of Modular Inc. for approximately $3.9 billion in stock. The startup makes software enabling AI applications to run on a broad range of chip architectures, positioning Qualcomm to compete with Nvidia's CUDA platform.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-24T18:30:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
+        },
+        {
+          "title": "Qualcomm Investor Day 2026: Dragonfly C1000 CPU, HBC, AI Accelerators and More",
+          "url": "https://www.servethehome.com/qualcomm-investor-day-2026-data-center-announcements-cpus-ai-accelerators-and-more/",
+          "description": "At its 2026 Investor Day in NYC, Qualcomm unveiled a comprehensive data center portfolio: Dragonfly C1000 CPU with 250+ cores, High Bandwidth Compute (HBC) technology stacking memory on compute, AI accelerators, and custom silicon offerings. Meta CEO Mark Zuckerberg confirmed a multi-generational deal to use Qualcomm processors.",
+          "source": "ServeTheHome",
+          "sourceId": "servethehome",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-24T22:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
+        },
+        {
+          "title": "Qualcomm Accelerates Diversification with Comprehensive Data Center Strategy",
+          "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-accelerates-diversification-with-comprehensive-strategy",
+          "description": "Qualcomm is accelerating diversification with a comprehensive data center strategy targeting multiple growth inflection points over the next 3–5 years, including Dragonfly C1000 CPU, AI accelerators, and connectivity solutions for hyperscalers.",
+          "source": "Qualcomm Newsroom",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-24T18:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-06-24T20:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm Takes Aim at Nvidia with Data Center AI Push and Modular Acquisition",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+          "description": "Qualcomm announced its Dragonfly data center portfolio, directly challenging Nvidia's dominance in AI infrastructure. The $3.9B Modular acquisition provides a CUDA alternative. CEO Cristiano Amon said: \"It's never too late for Qualcomm\" in the data center market.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-24T20:00:00.000Z",
+          "section": "competitors",
+          "subCategory": "nvidia"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-06-24T20:44:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
+          "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
+          "description": "Qualcomm shares jumped 15% in extended trading after the chipmaker said non-handset revenue in fiscal 2029 will be $40 billion, up from a prior forecast of $22 billion. The company targets $15 billion in data center sales and over $18 adjusted EPS by 2029.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-24T20:44:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 6
+}

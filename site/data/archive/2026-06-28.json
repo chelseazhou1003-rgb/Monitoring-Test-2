@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-28T07:00:00.000Z",
+  "date": "2026-06-28",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "competitors": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-06-28T10:00:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm's Investor Day Reshapes Wall Street Expectations: Analysts Raise Price Targets",
+          "url": "https://www.marketbeat.com/stocks/NASDAQ/QCOM/",
+          "description": "Following Qualcomm's Investor Day, multiple Wall Street analysts raised price targets citing the $40B non-handset revenue target and data center roadmap. Baird analyst called Qualcomm \"firmly entrenched on revenue diversification\" with a \"full line of AI offerings.\"",
+          "source": "MarketBeat",
+          "sourceId": "marketbeat",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-28T10:00:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 1
+}

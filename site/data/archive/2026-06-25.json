@@ -1,0 +1,108 @@
+{
+  "generatedAt": "2026-06-25T07:00:00.000Z",
+  "date": "2026-06-25",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-06-25T16:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm Darts into AI Data Centers with New Dragonfly Chips, Meta and Microsoft as Partners",
+          "url": "https://www.androidheadlines.com/2026/06/qualcomm-dragonfly-ai-data-center-chips-meta-microsoft.html",
+          "description": "At its June 2026 Investor Day, Qualcomm announced a major expansion into the AI data center segment with the Dragonfly chip ecosystem. Meta and Microsoft CEOs endorsed Qualcomm's technology, with Meta signing a multi-generational agreement for Qualcomm processors.",
+          "source": "Android Headlines",
+          "sourceId": "android-headlines",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-06-25T16:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "semiconductors"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-06-25T15:58:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Qualcomm jumps on $15 billion data center sales projection",
+          "url": "https://www.mercurynews.com/2026/06/25/qualcomm-jumps-on-15-billion-data-center-sales-projection/",
+          "description": "Qualcomm shares gained as much as 11% after forecasting $15 billion in AI data center sales by fiscal 2029. CEO Cristiano Amon said the shift to AI agents provides an opening for Qualcomm's low-power technology. The company projects $10 billion in automotive chip sales by FY29.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-06-25T15:58:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "market-performance"
+        },
+        {
+          "title": "Qualcomm Plans China AI Chip Push with Export-Control Compliant Custom Chips",
+          "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
+          "description": "Qualcomm unveiled a comprehensive data center portfolio and said it will develop export-control-compliant versions of its data center chips for the Chinese market. CEO Amon confirmed Qualcomm can serve China without triggering US export restrictions.",
+          "source": "TrendForce",
+          "sourceId": "trendforce",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-25T12:00:00.000Z",
+          "section": "macro-environment",
+          "subCategory": "geopolitics-trade"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 3
+}

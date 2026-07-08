@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-07-02T07:00:00.000Z",
+  "date": "2026-07-02",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-07-02T12:00:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Smartphone Chip Market Faces Headwinds as Memory Shortages Persist into H2 2026",
+          "url": "https://www.cnbc.com/2026/02/27/smartphone-market-poised-for-sharpest-decline-on-record-in-2026.html",
+          "description": "The global smartphone chip market continues to face pressure from memory component shortages and declining unit shipments. Qualcomm's diversification into data center and automotive is increasingly seen as a necessary hedge against handset market weakness.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-02T12:00:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "mobile-chips"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 1
+}

@@ -1,0 +1,85 @@
+{
+  "generatedAt": "2026-06-30T07:00:00.000Z",
+  "date": "2026-06-30",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-06-29T20:41:00.000Z",
+      "date": "",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": [
+        {
+          "title": "Building the 6G Standard: What 3GPP's June 2026 Plenary Decisions Mean for Device Makers",
+          "url": "https://www.publicnow.com/view/BAC26992E37D84D81D0B7E7772702B78C189C8AE",
+          "description": "Qualcomm outlines what 3GPP's June 2026 plenary decisions mean for device makers as the industry moves toward 6G standardization. The decisions set the foundation for next-generation wireless technology with AI-native architecture.",
+          "source": "Qualcomm Newsroom",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-29T20:41:00.000Z",
+          "section": "core-businesses",
+          "subCategory": "wireless"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "growth-areas": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "ip-legal": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "stakeholders": {
+      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "date": "",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 1
+}
