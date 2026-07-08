@@ -27,9 +27,12 @@ export async function loadLatest() {
     };
   }
 
+  const totalArticles = Object.values(sections).reduce((sum, s) => sum + s.articleCount, 0);
+
   _latestCache = {
     date: today,
     sections,
+    totalArticles,
   };
   return _latestCache;
 }

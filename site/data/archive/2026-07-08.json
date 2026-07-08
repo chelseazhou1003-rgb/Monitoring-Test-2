@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T07:21:42.231Z",
+  "generatedAt": "2026-07-08T08:11:16.725Z",
   "date": "2026-07-08",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-07-08T07:21:42.191Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
@@ -28,7 +28,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-06T15:21:51.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.335Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -41,7 +41,7 @@
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-07-08T07:21:42.191Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -52,7 +52,7 @@
       "articles": []
     },
     "growth-areas": {
-      "generatedAt": "2026-07-08T07:21:42.192Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -63,7 +63,7 @@
       "articles": []
     },
     "macro-environment": {
-      "generatedAt": "2026-07-08T07:21:42.192Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "macro-environment",
       "sectionTitle": "Macro",
@@ -88,7 +88,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T22:09:57.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.334Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -106,7 +106,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:45:04.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.334Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -124,7 +124,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:16:04.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.334Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -142,7 +142,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T15:19:07.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.335Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -160,7 +160,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T14:16:48.000Z",
-          "fetchedAt": "2026-07-08T07:21:18.335Z",
+          "fetchedAt": "2026-07-08T08:10:53.993Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -173,7 +173,7 @@
       ]
     },
     "competitors": {
-      "generatedAt": "2026-07-08T07:21:42.192Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -184,7 +184,7 @@
       "articles": []
     },
     "stakeholders": {
-      "generatedAt": "2026-07-08T07:21:42.192Z",
+      "generatedAt": "2026-07-08T08:11:16.708Z",
       "date": "2026-07-08",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
