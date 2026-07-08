@@ -32,8 +32,15 @@ jobs:
         uses: actions/setup-node@v4
         with:
           node-version: '20'
+          cache: 'npm'
 
-      - name: Bundle data into JS module
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Fetch latest articles from all RSS sources
+        run: npm run build
+
+      - name: Bundle fresh data into JS module
         run: node scripts/bundle-data.cjs
 
       - name: Setup Pages
