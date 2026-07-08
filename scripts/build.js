@@ -65,6 +65,21 @@ async function main() {
     };
   }
 
+  // Also include stakeholder-tagged articles in the stakeholders section
+  const stakeholderArticles = articles.filter(a =>
+    a.stakeholders && a.stakeholders.length > 0
+  );
+  const existingStakeIds = new Set(sectionsData.stakeholders.articles.map(a => a.id));
+  const newStakeholderArticles = stakeholderArticles.filter(a => !existingStakeIds.has(a.id));
+  sectionsData.stakeholders.articles = [
+    ...sectionsData.stakeholders.articles,
+    ...newStakeholderArticles
+  ];
+  sectionsData.stakeholders.articles.sort((a, b) => {
+    const da = a.publishedAt ? new Date(a.publishedAt).getTime() : 0;
+    const db = b.publishedAt ? new Date(b.publishedAt).getTime() : 0;
+    return db - da;
+  });
   // Also include competitor-tagged articles in the competitors section
   const competitorArticles = articles.filter(a =>
     a.competitors && a.competitors.length > 0

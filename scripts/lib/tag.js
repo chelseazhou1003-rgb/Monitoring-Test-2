@@ -44,7 +44,14 @@ export function tagArticles(articles) {
     const competitors = [];
     for (const [compId, keywords] of Object.entries(COMPETITOR_KEYWORDS)) {
       for (const kw of keywords) {
-        if (text.includes(kw.toLowerCase())) {
+        // Use word-boundary matching for short/acronym keywords to prevent
+        // false positives (e.g. "M1" matching "ARM1", "SIA" matching "ASIA")
+        const kwLower = kw.toLowerCase();
+        const escaped = kwLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const pattern = kwLower.length <= 4
+          ? `\\b${escaped}\\b`
+          : escaped;
+        if (new RegExp(pattern, 'i').test(text)) {
           if (!competitors.includes(compId)) {
             competitors.push(compId);
           }
@@ -58,7 +65,14 @@ export function tagArticles(articles) {
     const stakeholders = [];
     for (const [stakeId, keywords] of Object.entries(STAKEHOLDER_KEYWORDS)) {
       for (const kw of keywords) {
-        if (text.includes(kw.toLowerCase())) {
+        // Use word-boundary matching for short/acronym keywords to prevent
+        // false positives (e.g. "SEMI" matching "semiconductor", "SIA" matching "ASIA")
+        const kwLower = kw.toLowerCase();
+        const escaped = kwLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+        const pattern = kwLower.length <= 4
+          ? `\\b${escaped}\\b`
+          : escaped;
+        if (new RegExp(pattern, 'i').test(text)) {
           if (!stakeholders.includes(stakeId)) {
             stakeholders.push(stakeId);
           }

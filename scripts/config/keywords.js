@@ -80,9 +80,9 @@ export const SECTION_KEYWORDS = {
       semiconductors: ['chip', 'foundry', 'wafer', 'semiconductor', 'process node', 'nanometer', 'nm process', 'finfet', 'gate-all-around', 'GAA', 'chiplet', 'advanced packaging', '3D packaging', 'die', 'transistor', 'silicon'],
       wireless: ['5G', '6G', 'modem', 'RF', 'radio frequency', 'mmWave', 'sub-6', 'cellular', 'baseband', 'antenna', 'carrier aggregation', 'MIMO', 'beamforming'],
       'mobile-chips': ['Snapdragon 8', 'Snapdragon 7', 'mobile platform', 'smartphone chip', 'mobile processor', 'mobile SoC', 'premium tier', 'flagship'],
-      'pc-chips-computing': ['X Elite', 'X Plus', 'Windows on Arm', 'WoA', 'PC chip', 'laptop chip', 'notebook', 'Copilot+', 'AI PC', 'PC processor', 'desktop'],
-      automotive: ['Snapdragon Ride', 'Digital Chassis', 'ADAS', 'autonomous driving', 'autonomous vehicle', 'infotainment', 'cockpit', 'telematics', 'V2X', 'C-V2X', 'vehicle-to-everything', 'car chip', 'auto grade', 'ASIL'],
-      'iot-xr': ['IoT', 'Internet of Things', 'XR', 'AR', 'VR', 'mixed reality', 'Snapdragon AR', 'Snapdragon XR', 'XR2', 'AR2', 'wearable', 'smartwatch', 'embedded', 'edge device']
+      'pc-chips-computing': ['X Elite', 'X Plus', 'Windows on Arm', 'WoA', 'PC chip', 'laptop chip', 'PC processor', 'desktop'],
+      automotive: ['Snapdragon Ride', 'Digital Chassis', 'cockpit', 'telematics', 'V2X', 'C-V2X', 'vehicle-to-everything', 'car chip', 'auto grade', 'ASIL', 'autonomous vehicle'],
+      'iot-xr': ['IoT', 'Internet of Things', 'Snapdragon AR', 'Snapdragon XR', 'XR2', 'AR2', 'wearable', 'smartwatch', 'embedded', 'edge device']
     }
   },
   'ip-legal': {
@@ -92,7 +92,7 @@ export const SECTION_KEYWORDS = {
       ip: ['patent', 'IP portfolio', 'intellectual property', 'patent filing', 'patent application', 'IPR', 'trade secret', 'patent grant'],
       'patent-litigation': ['patent suit', 'patent infringement', 'lawsuit', 'litigation', 'court', 'district court', 'ITC', 'International Trade Commission', 'patent trial', 'appeal', 'injunction', 'damages', 'jury'],
       'frand-licensing': ['FRAND', 'fair reasonable', 'licensing', 'royalty', 'license agreement', 'cross-license', 'patent pool', 'Avanci', 'licensing revenue'],
-      'regulatory-antitrust': ['antitrust', 'anti-trust', 'competition law', 'FTC', 'European Commission', 'monopoly', 'market dominance', 'consent decree', 'consent order']
+      'regulatory-antitrust': ['antitrust', 'anti-trust', 'competition law', 'monopoly', 'market dominance', 'consent decree', 'consent order']
     }
   },
   'growth-areas': {
@@ -102,14 +102,15 @@ export const SECTION_KEYWORDS = {
       'ai-pc': ['AI PC', 'Copilot+', 'AI laptop', 'NPU TOPS', 'AI TOPS', 'AI computing', 'local AI'],
       'embodied-ai-robotics': ['embodied AI', 'robotics', 'robot platform', 'humanoid', 'autonomous machine', 'robotics chip', 'robot vision', 'SLAM'],
       'in-vehicle-infotainment-adas': ['in-vehicle', 'infotainment', 'digital cockpit', 'ADAS', 'autonomous driving', 'driver assistance', 'driver monitoring', 'surround view', 'parking assist'],
-      'xr-spatial-computing': ['spatial computing', 'XR', 'AR glasses', 'VR headset', 'mixed reality', 'extended reality', 'Meta Quest', 'Apple Vision', 'Snapdragon Spaces', 'hand tracking', 'passthrough', 'spatial', 'MR headset']
+      'xr-spatial-computing': ['spatial computing', 'XR', 'AR glasses', 'VR headset', 'mixed reality', 'extended reality', 'Meta Quest', 'Apple Vision', 'Snapdragon Spaces', 'hand tracking', 'passthrough', 'spatial', 'MR headset'],
+      'data-center': ['data center', 'data centre', 'AI server', 'cloud server', 'server chip', 'server CPU', 'hyperscaler', 'cloud infrastructure', 'server processor', 'rack server', 'edge server']
     }
   },
   'macro-environment': {
     name: 'Macro Environment',
     subs: {
       'customers-partners': ['OEM', 'partner', 'partnership', 'collaboration', 'customer', 'design win', 'supply agreement', 'multi-year agreement', 'joint development', 'co-engineering'],
-      'supply-chain': ['supply chain', 'TSMC', 'foundry', 'fabrication', 'capacity', 'yield', 'wafer', 'shortage', 'lead time', 'inventory', 'procurement', 'dual source'],
+      'supply-chain': ['supply chain', 'fabrication', 'capacity', 'yield', 'wafer', 'shortage', 'lead time', 'inventory', 'procurement', 'dual source'],
       'geopolitics-export-controls': ['export control', 'sanction', 'trade war', 'tariff', 'CHIPS Act', 'entity list', 'BIS', 'Commerce Department', 'national security', 'CFIUS', 'technology transfer', 'decoupling', 'China', 'US-China', 'export license', 'restriction'],
       'market-performance': ['stock price', 'share price', 'valuation', 'earnings', 'market cap', 'index', 'Russell', 'S&P', 'NASDAQ', 'QCOM stock', 'stock outlook', 'investor']
     }

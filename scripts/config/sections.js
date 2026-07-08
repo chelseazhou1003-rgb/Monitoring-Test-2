@@ -66,6 +66,7 @@ export const SUB_LABELS = {
   'embodied-ai-robotics': 'Embodied AI & Robotics',
   'in-vehicle-infotainment-adas': 'Infotainment & ADAS',
   'xr-spatial-computing': 'XR / Spatial Computing',
+  'data-center': 'Data Center',
   'customers-partners': 'Customers & Partners',
   'supply-chain': 'Supply Chain',
   'geopolitics-export-controls': 'Geopolitics & Export Controls',
