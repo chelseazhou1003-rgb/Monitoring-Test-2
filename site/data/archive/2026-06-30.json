@@ -48,7 +48,7 @@
       "articles": []
     },
     "ip-legal": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-30T16:00:00.000Z",
       "date": "",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -56,7 +56,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "哪些6G专利价值更高？高通总法律顾问：关键在于能否成为技术标准的基础创新",
+          "url": "https://www.ithome.com/0/970/702.htm",
+          "description": "高通总法律顾问卓安琳在IPBC Global 2026大会上表示，当前正是6G标准制定的关键时刻。3GPP Rel-21作为首个6G标准版本，其时间表的确定为产业链提供了研发锚点。她认为6G专利的真正价值将取决于其是否是标准的基础创新，而非纳入标准的专利数量多少。",
+          "source": "IT之家",
+          "sourceId": "ithome",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-30T09:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        }
+      ]
     },
     "macro-environment": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -81,5 +93,5 @@
       "articles": []
     }
   },
-  "totalArticles": 1
+  "totalArticles": 2
 }

@@ -36,7 +36,7 @@
       "articles": []
     },
     "ip-legal": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-07-04T16:00:00.000Z",
       "date": "",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -44,7 +44,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "IPBC Global 2026: IAM's photo highlights from San Diego",
+          "url": "https://www.iam-media.com/article/ipbc-global-2026-iams-photo-highlights",
+          "description": "IAM publishes photo highlights from IPBC Global 2026 in San Diego, featuring keynote speakers including USPTO Director John Squires and Qualcomm GC Ann Chaplin. The record-breaking event brought together the world's top IP leaders to discuss the future of patent value creation.",
+          "source": "IAM",
+          "sourceId": "iam-media",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-07-04T10:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        }
+      ]
     },
     "macro-environment": {
       "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -69,5 +81,5 @@
       "articles": []
     }
   },
-  "totalArticles": 0
+  "totalArticles": 1
 }

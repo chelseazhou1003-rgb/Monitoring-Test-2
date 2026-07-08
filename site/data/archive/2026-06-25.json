@@ -36,7 +36,7 @@
       "articles": []
     },
     "ip-legal": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-25T16:00:00.000Z",
       "date": "",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -44,7 +44,30 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "IAM Sunday Digest: IPBC Global wraps in San Diego; Qualcomm's Ann Chaplin on 6G SEP value; Oppo bags Asus injunction",
+          "url": "https://www.iam-media.com/article/iam-sunday-digest-ipbc-global-oppo-bags-asus-injunction-may-us-patent-transactions-nokia-lenovo-patent-licence-pct-data-dive-plus-much-more",
+          "description": "IPBC Global 2026 concluded in San Diego with record attendance. Qualcomm General Counsel Ann Chaplin argued that 6G SEP value will hinge on foundational innovation, not raw patent counts. The digest also covers Huawei's Wi-Fi 7 licensing rates, Oppo's injunction against Asus, and Nokia-Lenovo patent renewal.",
+          "source": "IAM",
+          "sourceId": "iam-media",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-25T12:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        },
+        {
+          "title": "Qualcomm Hit With Second Redstone Patent Suit Over Core Design",
+          "url": "https://news.bloomberglaw.com/litigation/qualcomm-hit-with-second-redstone-patent-suit-over-core-design",
+          "description": "Redstone Logics filed a second federal lawsuit against Qualcomm in the Western District of Texas, alleging the chipmaker's new Oryon architecture infringes patents covering inter-core communication methods. This follows a prior suit and adds to Qualcomm's growing patent defense docket.",
+          "source": "Bloomberg Law",
+          "sourceId": "bloomberg-law",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-25T14:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        }
+      ]
     },
     "macro-environment": {
       "generatedAt": "2026-06-25T15:58:00.000Z",
@@ -103,7 +126,7 @@
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-25T16:00:00.000Z",
       "date": "",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
@@ -111,8 +134,20 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs",
+          "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-",
+          "description": "Qualcomm and Meta announced a multi-generation strategic agreement for Qualcomm's Dragonfly C1000 data center CPU to power Meta's next-generation server fleet. CEO Cristiano Amon described Meta as a foundational data center customer, marking one of the largest hyperscaler wins for Qualcomm's ambitions beyond mobile.",
+          "source": "Qualcomm Newsroom",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-25T15:00:00.000Z",
+          "section": "stakeholders",
+          "subCategory": "csp-partners"
+        }
+      ]
     }
   },
-  "totalArticles": 4
+  "totalArticles": 7
 }

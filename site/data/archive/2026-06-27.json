@@ -94,7 +94,7 @@
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-27T16:00:00.000Z",
       "date": "",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
@@ -102,8 +102,20 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Stellantis and Qualcomm Expand Partnership to Adopt Snapdragon Digital Chassis Across 14 Brands",
+          "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-and-qualcomm-expand-partnership-to-adopt-snapdragon-digital-chassis-driver-assistance-cockpit-and-connectivity-platforms-across-next-generation-vehicle-architectures",
+          "description": "Stellantis and Qualcomm expanded their multi-year technology collaboration to deploy Snapdragon Digital Chassis — including driver assistance, cockpit, and connectivity platforms — across Stellantis's 14-vehicle-brand portfolio. The deal positions Qualcomm as a key automotive silicon partner for one of the world's largest automakers.",
+          "source": "Stellantis / Qualcomm",
+          "sourceId": "qualcomm-newsroom",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-27T10:00:00.000Z",
+          "section": "stakeholders",
+          "subCategory": "automotive-partners"
+        }
+      ]
     }
   },
-  "totalArticles": 3
+  "totalArticles": 4
 }

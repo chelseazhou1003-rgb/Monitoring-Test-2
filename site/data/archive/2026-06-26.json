@@ -60,7 +60,7 @@
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-26T16:00:00.000Z",
       "date": "",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -68,7 +68,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "高通总法律顾问卓安琳：6G SEP价值取决于基础创新，而非专利组合规模",
+          "url": "https://www.ipeconomy.cn/yuanchuang/10976.html",
+          "description": "IPBC Global 2026大会上，高通总法律顾问卓安琳（Ann Chaplin）发表主题演讲，指出6G标准必要专利的价值将取决于长期研发投入和在标准制定中的实质性贡献，而非专利数量本身。她强调高通30多年持续投入6G研发，推动基础技术创新。",
+          "source": "知产财经",
+          "sourceId": "ipeconomy",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-26T10:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        }
+      ]
     },
     "macro-environment": {
       "generatedAt": "2026-06-26T14:00:00.000Z",
@@ -94,7 +106,7 @@
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-26T16:00:00.000Z",
       "date": "",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
@@ -102,8 +114,20 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm and Huawei End Long-Running Licensing Spat with Renewed Patent Agreement",
+          "url": "https://www.techbloat.com/qualcomm-and-huawei-end-licensing-spat.html",
+          "description": "Qualcomm and Huawei resolved their long-running licensing dispute through a renewed patent agreement that allows Huawei to continue using Qualcomm's cellular technology portfolio. The deal, announced in late May 2026, restores a key licensing relationship amid ongoing US-China technology tensions.",
+          "source": "TechBloat",
+          "sourceId": "techbloat",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-06-26T12:00:00.000Z",
+          "section": "stakeholders",
+          "subCategory": "oem-partners"
+        }
+      ]
     }
   },
-  "totalArticles": 3
+  "totalArticles": 5
 }

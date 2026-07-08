@@ -70,7 +70,7 @@
       "articles": []
     },
     "stakeholders": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-07-01T16:00:00.000Z",
       "date": "",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
@@ -78,8 +78,20 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm Plans Export-Control-Compliant Custom Chips for Chinese Market",
+          "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
+          "description": "Following its Investor Day announcements, Qualcomm confirmed it will develop export-control-compliant data center chips for the Chinese market. CEO Cristiano Amon said Qualcomm can serve China without triggering US export restrictions, positioning the company to capitalize on China's AI infrastructure buildout while navigating geopolitical constraints.",
+          "source": "TrendForce",
+          "sourceId": "trendforce",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-07-01T10:00:00.000Z",
+          "section": "stakeholders",
+          "subCategory": "csp-partners"
+        }
+      ]
     }
   },
-  "totalArticles": 1
+  "totalArticles": 2
 }

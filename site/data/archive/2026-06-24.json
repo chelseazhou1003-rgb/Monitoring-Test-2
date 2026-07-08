@@ -93,7 +93,7 @@
       "articles": []
     },
     "ip-legal": {
-      "generatedAt": "2026-01-01T00:00:00.000Z",
+      "generatedAt": "2026-06-24T19:00:00.000Z",
       "date": "",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -101,7 +101,19 @@
         "summary": "",
         "keyTakeaways": []
       },
-      "articles": []
+      "articles": [
+        {
+          "title": "Qualcomm's Ann Chaplin says 6G SEP value will hinge on foundational innovation, not portfolio size",
+          "url": "https://www.iam-media.com/article/qualcomms-ann-chaplin-says-6g-sep-value-will-hinge-foundational-innovation-not-portfolio-size",
+          "description": "Speaking at IPBC Global 2026 in San Diego, Qualcomm General Counsel Ann Cathcart Chaplin delivered a keynote arguing that 6G standard-essential patent value will be determined by foundational R&D and standards participation rather than sheer patent volume. Her remarks come as the 3GPP Rel-21 timeline sets the stage for the first 6G standard.",
+          "source": "IAM",
+          "sourceId": "iam-media",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-24T14:00:00.000Z",
+          "section": "ip-legal",
+          "subCategory": "qualcomm-ip"
+        }
+      ]
     },
     "macro-environment": {
       "generatedAt": "2026-06-24T20:44:00.000Z",
@@ -172,5 +184,5 @@
       ]
     }
   },
-  "totalArticles": 9
+  "totalArticles": 10
 }
