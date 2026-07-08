@@ -99,7 +99,7 @@ export const SECTION_KEYWORDS = {
     name: 'Growth Areas',
     subs: {
       'on-device-ai': ['edge AI', 'on-device AI', 'on-device ML', 'Hexagon NPU', 'AI engine', 'on-device inference', 'tinyML', 'edge computing', 'federated learning', 'AI acceleration', 'neural processing', 'NPU'],
-      'ai-pc': ['AI PC', 'Copilot+', 'AI laptop', 'NPU TOPS', 'AI TOPS', 'AI computing', 'local AI'],
+      'ai-pc': ['AI PC', 'Copilot', 'AI laptop', 'NPU TOPS', 'AI TOPS', 'AI computing', 'local AI'],
       'embodied-ai-robotics': ['embodied AI', 'robotics', 'robot platform', 'humanoid', 'autonomous machine', 'robotics chip', 'robot vision', 'SLAM'],
       'in-vehicle-infotainment-adas': ['in-vehicle', 'infotainment', 'digital cockpit', 'ADAS', 'autonomous driving', 'driver assistance', 'driver monitoring', 'surround view', 'parking assist'],
       'xr-spatial-computing': ['spatial computing', 'XR', 'AR glasses', 'VR headset', 'mixed reality', 'extended reality', 'Meta Quest', 'Apple Vision', 'Snapdragon Spaces', 'hand tracking', 'passthrough', 'spatial', 'MR headset'],
