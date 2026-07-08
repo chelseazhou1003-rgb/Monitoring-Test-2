@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-07-08T08:03:44.984Z",
+  "generatedAt": "2026-07-08T07:21:42.231Z",
   "date": "2026-07-08",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.191Z",
       "date": "2026-07-08",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
@@ -28,7 +28,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-06T15:21:51.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.132Z",
+          "fetchedAt": "2026-07-08T07:21:18.335Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -41,7 +41,7 @@
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.191Z",
       "date": "2026-07-08",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -52,7 +52,7 @@
       "articles": []
     },
     "growth-areas": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.192Z",
       "date": "2026-07-08",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -63,7 +63,7 @@
       "articles": []
     },
     "macro-environment": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.192Z",
       "date": "2026-07-08",
       "section": "macro-environment",
       "sectionTitle": "Macro",
@@ -88,7 +88,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T22:09:57.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.131Z",
+          "fetchedAt": "2026-07-08T07:21:18.334Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -106,7 +106,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:45:04.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.131Z",
+          "fetchedAt": "2026-07-08T07:21:18.334Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -124,7 +124,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:16:04.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.131Z",
+          "fetchedAt": "2026-07-08T07:21:18.334Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -138,11 +138,11 @@
           "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
           "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong?.tsrc=rss",
           "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
-          "source": "Barchart",
-          "sourceId": "syndicated:barchart.com",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T15:19:07.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.131Z",
+          "fetchedAt": "2026-07-08T07:21:18.335Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -156,11 +156,11 @@
           "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
           "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect?.tsrc=rss",
           "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
-          "source": "Barchart",
-          "sourceId": "syndicated:barchart.com",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T14:16:48.000Z",
-          "fetchedAt": "2026-07-08T08:03:21.131Z",
+          "fetchedAt": "2026-07-08T07:21:18.335Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -173,7 +173,7 @@
       ]
     },
     "competitors": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.192Z",
       "date": "2026-07-08",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -184,7 +184,7 @@
       "articles": []
     },
     "stakeholders": {
-      "generatedAt": "2026-07-08T08:03:44.955Z",
+      "generatedAt": "2026-07-08T07:21:42.192Z",
       "date": "2026-07-08",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",

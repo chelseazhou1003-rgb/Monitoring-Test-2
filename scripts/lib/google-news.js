@@ -1,8 +1,6 @@
 // Google News RSS fallback for premium sources without public RSS
 // Uses news.google.com/rss/search — public, legal aggregation
 
-import { resolveArticleSource } from '../config/feeds.js';
-
 const GOOGLE_NEWS_TIMEOUT_MS = 8000;
 
 async function fetchGoogleNewsRss(query, hl = 'en', gl = 'US', ceid = 'US:en') {
@@ -189,10 +187,9 @@ async function fetchOneGoogleNews(feed) {
   console.log(`  [${feed.name}] Google News: "${feed.googleQuery}"`);
   const items = await fetchGoogleNewsRss(feed.googleQuery);
   const annotated = items.map(item => {
-    const resolved = resolveArticleSource(item.url, feed);
-    item.source = resolved.source;
-    item.sourceId = resolved.sourceId;
-    item.sourceGroup = resolved.sourceGroup;
+    item.source = feed.name;
+    item.sourceId = feed.id;
+    item.sourceGroup = feed.group;
     return item;
   });
   console.log(`  [${feed.name}] Google News: ${annotated.length} items`);
