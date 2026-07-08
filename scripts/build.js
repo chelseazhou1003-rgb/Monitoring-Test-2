@@ -100,6 +100,8 @@ async function main() {
     console.log(`  ${info.title}: ${info.articleCount} articles`);
   }
   console.log(`Finished: ${isoNow()}`);
+  // Force exit to prevent any lingering network sockets/timers from keeping the process alive in CI
+  process.exit(0);
 }
 
 main().catch(err => {

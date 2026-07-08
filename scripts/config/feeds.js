@@ -11,6 +11,8 @@ export const FEED_GROUPS = {
 
 export const FEEDS = [
   // --- Finance / Mainstream ---
+  // Note: premium sources without public RSS use Google News site-query fallback.
+  // Google News RSS can be blocked from some networks; direct RSS is preferred when available.
   {
     id: 'reuters',
     name: 'Reuters',
@@ -22,8 +24,8 @@ export const FEEDS = [
     id: 'bloomberg',
     name: 'Bloomberg',
     group: 'finance',
-    strategy: 'google-news',
-    googleQuery: 'Qualcomm site:bloomberg.com'
+    strategy: 'rss',
+    url: 'https://feeds.bloomberg.com/technology/news.rss'
   },
   {
     id: 'wsj',
@@ -36,15 +38,15 @@ export const FEEDS = [
     id: 'ft',
     name: 'Financial Times',
     group: 'finance',
-    strategy: 'google-news',
-    googleQuery: 'Qualcomm site:ft.com'
+    strategy: 'rss',
+    url: 'https://www.ft.com/rss/home'
   },
   {
     id: 'cnbc',
     name: 'CNBC',
     group: 'finance',
-    strategy: 'google-news',
-    googleQuery: 'Qualcomm site:cnbc.com'
+    strategy: 'rss',
+    url: 'https://www.cnbc.com/id/100003114/device/rss/rss.html'
   },
   {
     id: 'yahoo-finance',
@@ -119,8 +121,8 @@ export const FEEDS = [
     id: 'iam',
     name: 'IAM',
     group: 'ip',
-    strategy: 'google-news',
-    googleQuery: 'Qualcomm site:iam-media.com'
+    strategy: 'rss',
+    url: 'https://www.iam-media.com/rss'
   },
   {
     id: 'ipwatchdog',
@@ -147,8 +149,8 @@ export const FEEDS = [
     id: 'ip-fray',
     name: 'IP Fray',
     group: 'ip',
-    strategy: 'google-news',
-    googleQuery: 'Qualcomm site:ipfray.com'
+    strategy: 'rss',
+    url: 'https://ipfray.com/feed/'
   },
 
   // --- Telecom / Industry ---

@@ -4,14 +4,14 @@
 import Parser from 'rss-parser';
 
 const parser = new Parser({
-  timeout: 10000,
+  timeout: 8000,
   headers: {
-    'User-Agent': 'QualcommNewsMonitor/1.0 (RSS aggregator; news-monitor@example.com)',
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
     'Accept': 'application/rss+xml, application/xml, text/xml, application/atom+xml'
   }
 });
 
-const REQUEST_TIMEOUT_MS = 12000;
+const REQUEST_TIMEOUT_MS = 10000;
 
 export async function fetchNativeRss(feed) {
   console.log(`  [${feed.name}] RSS: fetching ${feed.url}`);

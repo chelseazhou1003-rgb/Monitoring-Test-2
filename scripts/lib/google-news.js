@@ -1,7 +1,7 @@
 // Google News RSS fallback for premium sources without public RSS
 // Uses news.google.com/rss/search — public, legal aggregation
 
-const GOOGLE_NEWS_TIMEOUT_MS = 10000;
+const GOOGLE_NEWS_TIMEOUT_MS = 8000;
 
 async function fetchGoogleNewsRss(query, hl = 'en', gl = 'US', ceid = 'US:en') {
   const encodedQuery = encodeURIComponent(`${query} when:1d`);
@@ -23,17 +23,27 @@ async function fetchGoogleNewsRss(query, hl = 'en', gl = 'US', ceid = 'US:en') {
 }
 
 async function fetchWithTimeout(url, ms, label) {
-  return Promise.race([
-    fetch(url, {
+  const controller = new AbortController();
+  const timeoutId = setTimeout(() => controller.abort(), ms);
+
+  try {
+    const response = await fetch(url, {
       headers: {
-        'User-Agent': 'QualcommNewsMonitor/1.0 (RSS aggregator)'
+        'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36',
+        'Accept': 'application/rss+xml, application/xml, text/xml, */*',
+        'Accept-Language': 'en-US,en;q=0.9'
       },
-      signal: AbortSignal.timeout(ms)
-    }),
-    new Promise((_, reject) =>
-      setTimeout(() => reject(new Error(`${label} timed out after ${ms}ms`)), ms)
-    )
-  ]);
+      signal: controller.signal
+    });
+    clearTimeout(timeoutId);
+    return response;
+  } catch (err) {
+    clearTimeout(timeoutId);
+    if (err.name === 'AbortError') {
+      throw new Error(`${label} timed out after ${ms}ms`);
+    }
+    throw err;
+  }
 }
 
 function parseGoogleNewsRss(xml) {
