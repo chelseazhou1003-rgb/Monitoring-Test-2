@@ -1,0 +1,275 @@
+{
+  "generatedAt": "2026-07-08T06:34:48.879Z",
+  "date": "2026-07-08",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "One article today covering Semiconductors. Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software fo",
+        "keyTakeaways": [
+          {
+            "text": "Semiconductors: Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data",
+            "articleIds": [
+              "a7"
+            ],
+            "subCategory": "semiconductors"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm to Acquire Modular",
+          "url": "https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-to-acquire-modular",
+          "description": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
+          "source": "Semiconductor Digest",
+          "sourceId": "semiconductor-digest",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-06-24T21:13:55.000Z",
+          "fetchedAt": "2026-07-08T06:34:29.096Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
+          "id": "a7"
+        }
+      ]
+    },
+    "ip-legal": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "One article today covering IP / Intellectual Property. At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
+        "keyTakeaways": [
+          {
+            "text": "IP / Intellectual Property: At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
+            "articleIds": [
+              "a8"
+            ],
+            "subCategory": "ip"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm’s Ann Chaplin says 6G SEP value will hinge on foundational innovation, not portfolio size",
+          "url": "https://www.iam-media.com/article/qualcomms-ann-chaplin-says-6g-sep-value-will-hinge-foundational-innovation-not-portfolio-size",
+          "description": "At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-06-18T07:00:00.000Z",
+          "fetchedAt": "2026-07-08T06:34:30.118Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "ip",
+          "subLabel": "IP / Intellectual Property",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
+          "id": "a8"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "macro-environment",
+      "sectionTitle": "Macro Environment",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans market-performance (6 articles). A total of 6 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "market-performance: QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its in",
+            "articleIds": [
+              "a1"
+            ],
+            "subCategory": "market-performance"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html?.tsrc=rss",
+          "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-07T22:09:57.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+          "id": "a1"
+        },
+        {
+          "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html?.tsrc=rss",
+          "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-07T21:45:04.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
+          "id": "a2"
+        },
+        {
+          "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html?.tsrc=rss",
+          "description": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-07T21:16:04.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
+          "id": "a3"
+        },
+        {
+          "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
+          "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong?.tsrc=rss",
+          "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-07T15:19:07.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+          "id": "a4"
+        },
+        {
+          "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
+          "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect?.tsrc=rss",
+          "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-07T14:16:48.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+          "id": "a5"
+        },
+        {
+          "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
+          "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-06T15:21:51.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [
+            "intel"
+          ],
+          "stakeholders": [],
+          "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+          "id": "a6"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "One article today covering market-performance. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
+        "keyTakeaways": [
+          {
+            "text": "market-performance: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
+            "articleIds": [
+              "a6"
+            ],
+            "subCategory": "market-performance"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
+          "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-07-06T15:21:51.000Z",
+          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [
+            "intel"
+          ],
+          "stakeholders": [],
+          "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+          "id": "a6"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "date": "2026-07-08",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
+      },
+      "articles": []
+    }
+  },
+  "totalArticles": 9
+}

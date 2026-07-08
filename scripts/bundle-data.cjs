@@ -20,6 +20,19 @@ for (const f of files) {
   data[key] = content;
 }
 
+// Also bundle archive files (subdirectory)
+const archiveDir = path.join(dataDir, 'archive');
+if (fs.existsSync(archiveDir)) {
+  const archiveFiles = fs.readdirSync(archiveDir).filter(f => f.endsWith('.json'));
+  for (const f of archiveFiles) {
+    const dateStr = f.replace('.json', '');
+    const key = `archive-${dateStr}`;
+    const content = JSON.parse(fs.readFileSync(path.join(archiveDir, f), 'utf8'));
+    data[key] = content;
+  }
+  console.log(`  Archives bundled: ${archiveFiles.length} days`);
+}
+
 const js = `// Auto-generated data bundle — do not edit manually
 
 export const NEWS_DATA = ${JSON.stringify(data, null, 2)};

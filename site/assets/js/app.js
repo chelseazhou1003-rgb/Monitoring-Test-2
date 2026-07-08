@@ -1,7 +1,7 @@
 // app.js — SPA bootstrap with dynamic view rendering
 
 import { initRouter, navigate, getCurrentRoute } from './router.js';
-import { loadSection, loadLatest, loadSources } from './data-loader.js';
+import { loadSection, loadLatest, loadSources, loadSectionHistory } from './data-loader.js';
 import {
   renderArticleList, renderDashboard, buildSourceOptions, updateMasthead
 } from './render.js';
@@ -41,7 +41,8 @@ const SECTION_META = {
       { id: 'ai-pc', label: 'AI PC' },
       { id: 'embodied-ai-robotics', label: 'Embodied AI & Robotics' },
       { id: 'in-vehicle-infotainment-adas', label: 'Infotainment & ADAS' },
-      { id: 'xr-spatial-computing', label: 'XR / Spatial Computing' }
+      { id: 'xr-spatial-computing', label: 'XR / Spatial Computing' },
+      { id: 'data-center', label: 'Data Center' }
     ]
   },
   'macro-environment': {
@@ -174,6 +175,7 @@ async function renderSectionView(main, sectionId, params) {
       <div>
         <div id="briefing-container">${data ? renderBriefingHtml(data) : '<div class="briefing-block skeleton" style="height:200px;"></div>'}</div>
         <div id="articles-container">${data ? renderArticleList(data.articles || []) : '<div class="skeleton-card"><div class="skeleton skeleton-line-lg" style="width:80%;"></div><div class="skeleton skeleton-line" style="width:100%;"></div></div>'}</div>
+        <div id="history-container"></div>
       </div>
       <aside class="sticky-sidebar" id="filter-sidebar">
         ${renderFilterSidebar(meta, params)}
@@ -212,6 +214,9 @@ async function renderSectionView(main, sectionId, params) {
   initFilters(data.articles || [], (filtered) => {
     document.getElementById('articles-container').innerHTML = renderArticleList(filtered);
   });
+
+  // Load and render past 14 days history (async, won't block page)
+  loadAndRenderHistory(sectionId);
 
   // Mobile filter toggle
   const filterToggle = document.getElementById('filter-toggle');
@@ -327,7 +332,98 @@ function renderFilterSidebar(meta, params) {
   `;
 }
 
-// ===== About View =====
+// ===== Past 14 Days History =====
+async function loadAndRenderHistory(sectionId) {
+  const container = document.getElementById('history-container');
+  if (!container) return;
+
+  // Show loading skeleton
+  container.innerHTML = `
+    <div class="history-divider"></div>
+    <div class="date-section">
+      <h3 class="date-section-heading">Past 14 Days</h3>
+      <div class="skeleton skeleton-line" style="width:60%;margin-bottom:var(--space-3);"></div>
+      <div class="skeleton skeleton-line" style="width:80%;"></div>
+    </div>
+  `;
+
+  try {
+    const history = await loadSectionHistory(sectionId, 14);
+    renderHistorySection(container, history);
+  } catch (err) {
+    console.warn('Failed to load history:', err);
+    container.innerHTML = '';
+  }
+}
+
+function renderHistorySection(container, history) {
+  if (!history || history.length === 0) {
+    container.innerHTML = `
+      <div class="history-divider"></div>
+      <div class="date-section">
+        <h3 class="date-section-heading">Past 14 Days</h3>
+        <p class="body-xs" style="color:var(--ink-faint);">No articles from the past 14 days in this section.</p>
+      </div>
+    `;
+    return;
+  }
+
+  const today = new Date();
+  today.setHours(today.getHours() + 8);
+  const todayStr = today.toISOString().slice(0, 10);
+
+  // Flatten and deduplicate across days
+  const seenUrls = new Set();
+  const allArticles = [];
+  for (const day of history) {
+    for (const article of (day.articles || [])) {
+      // Skip today's articles (already shown above)
+      const pubDate = (article.publishedAt || '').split('T')[0];
+      if (pubDate === todayStr) continue;
+
+      const key = article.url || article.title;
+      if (seenUrls.has(key)) continue;
+      seenUrls.add(key);
+
+      allArticles.push({ ...article, archiveDate: day.date });
+    }
+  }
+
+  if (allArticles.length === 0) {
+    container.innerHTML = `
+      <div class="history-divider"></div>
+      <div class="date-section">
+        <h3 class="date-section-heading">Past 14 Days</h3>
+        <p class="body-xs" style="color:var(--ink-faint);">No articles from the past 14 days in this section.</p>
+      </div>
+    `;
+    return;
+  }
+
+  // Group by archive date
+  const byDate = {};
+  for (const a of allArticles) {
+    const d = a.archiveDate;
+    if (!byDate[d]) byDate[d] = [];
+    byDate[d].push(a);
+  }
+
+  // Sort dates descending
+  const dates = Object.keys(byDate).sort((a, b) => b.localeCompare(a));
+
+  let html = '<div class="history-divider"></div>';
+  html += '<h3 class="history-section-title">Past 14 Days</h3>';
+
+  for (const dateStr of dates) {
+    const arts = byDate[dateStr];
+    html += `<div class="date-section">`;
+    html += `<h4 class="date-section-heading">${formatShortDate(dateStr)} <span class="date-section-count">${arts.length} article${arts.length > 1 ? 's' : ''}</span></h4>`;
+    html += renderArticleList(arts);
+    html += `</div>`;
+  }
+
+  container.innerHTML = html;
+}
 async function renderAboutView(main, latest) {
   const sources = await loadSources();
 

@@ -68,6 +68,34 @@ export async function loadArchive(dateStr) {
   return NEWS_DATA[key] || null;
 }
 
+// Load past N days of articles for a specific section (excludes today)
+// Returns array of { date, articles[] } sorted newest-first
+export async function loadSectionHistory(sectionId, days = 14) {
+  const result = [];
+  const today = todayBeijingDate();
+
+  for (let i = 1; i <= days; i++) {
+    const d = new Date();
+    d.setDate(d.getDate() - i);
+    const bj = new Date(d.getTime() + 8 * 60 * 60 * 1000);
+    const dateStr = bj.toISOString().slice(0, 10);
+
+    // Skip today (already shown in the main section)
+    if (dateStr === today) continue;
+
+    const archive = await loadArchive(dateStr);
+    if (!archive || !archive.sections || !archive.sections[sectionId]) continue;
+
+    const sectionData = archive.sections[sectionId];
+    const articles = (sectionData.articles || []);
+    if (articles.length === 0) continue;
+
+    result.push({ date: dateStr, articles });
+  }
+
+  return result;
+}
+
 // Build date options for filter: today, yesterday, last 7 days (from archives)
 export function getDateOptions() {
   const options = [
