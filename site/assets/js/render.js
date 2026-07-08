@@ -166,7 +166,6 @@ export function renderDashboard(latest) {
 
   return Object.entries(latest.sections).map(([id, info]) => {
     const topHeadline = info.topHeadline || 'No articles today';
-    const count = info.articleCount || 0;
     const todayCount = info.todayCount || 0;
     const date = latest.date || '';
 
@@ -174,7 +173,7 @@ export function renderDashboard(latest) {
       <a href="#/${id}" class="dashboard-card">
         <h3 class="dashboard-card-title">${escapeHtml(info.title || id)}</h3>
         <div class="dashboard-card-count">
-          ${todayCount} today <span class="dashboard-card-total">/ ${count} total</span>
+          ${todayCount} Today
         </div>
         <p class="dashboard-card-headline">${escapeHtml(topHeadline)}</p>
         <span class="dashboard-card-link">View section →</span>
