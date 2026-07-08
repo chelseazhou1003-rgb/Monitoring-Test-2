@@ -1,105 +1,11 @@
 {
-  "generatedAt": "2026-07-08T03:49:40.275Z",
+  "generatedAt": "2026-07-08T06:45:00.914Z",
   "date": "2026-07-08",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "As of 2026-06-16, 4 article(s) from IEEE ComSoc, Mobile World Live, Fierce Wireless, Qualcomm Newsroom cover key stakeholders: \"3GPP approves timelines for Release 21: 6G specs set for early 2029\"; \"Qualcomm expects AI-boosting 6G devices in 2029, positioning 6G as AI-native\"; \"Q&A: 6G is coming — Qualcomm's John Smee on AI, connectivity and the future of everything\"; \"Qualcomm accelerates 6G with AI-native device-to-data-center transformation\".",
-    "keyTakeaways": [
-      {
-        "text": "3GPP TSG RAN #112 in Singapore approved Release 21 timeline. First 6G specs functional freeze March 2027, final freeze December 2028, code freeze March 2029....",
-        "articleIds": [
-          "st1"
-        ],
-        "subCategory": "3gpp"
-      },
-      {
-        "text": "At MWC Shanghai 2026, Qualcomm SVP John Smee framed 6G as the wireless technology for the age of AI. \"AI is the new UI\" — context-aware agents delivered thro...",
-        "articleIds": [
-          "st3"
-        ],
-        "subCategory": "3gpp"
-      },
-      {
-        "text": "Qualcomm SVP John Smee outlines 6G strategy: AI-native networks, predictive analytics, integrated sensing. 6G to deliver QoS that Wi-Fi cannot match. WRC-27 ...",
-        "articleIds": [
-          "st2"
-        ],
-        "subCategory": "etsi"
-      },
-      {
-        "text": "Qualcomm is advancing 6G with AI-native platforms that unify connectivity, sensing and compute from devices to the data center. The transformation extends be...",
-        "articleIds": [
-          "st-qc1"
-        ],
-        "subCategory": "3gpp"
-      }
-    ],
-    "generatedAt": "2026-07-08T03:49:40.275Z",
-    "dateScope": "latest-available",
-    "articleCount": 4,
-    "totalArticles": 4
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "id": "st1",
-      "title": "3GPP approves timelines for Release 21: 6G specs set for early 2029",
-      "url": "https://techblog.comsoc.org/2026/06/16/3gpp-approves-timelines-for-release-21-which-will-specify-6g-ran-and-5g-advanced/",
-      "description": "3GPP TSG RAN #112 in Singapore approved Release 21 timeline. First 6G specs functional freeze March 2027, final freeze December 2028, code freeze March 2029. CP-OFDM confirmed as 6G downlink waveform.",
-      "source": "IEEE ComSoc",
-      "sourceId": "ieee-comsoc",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.274Z",
-      "fetchStrategy": "approved-source",
-      "section": "stakeholders",
-      "subCategory": "3gpp",
-      "subLabel": "3GPP"
-    },
-    {
-      "id": "st3",
-      "title": "Qualcomm expects AI-boosting 6G devices in 2029, positioning 6G as AI-native",
-      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-looks-to-6g-support-for-ai-from-2029/",
-      "description": "At MWC Shanghai 2026, Qualcomm SVP John Smee framed 6G as the wireless technology for the age of AI. \"AI is the new UI\" — context-aware agents delivered through voice, glasses, and watches. Pre-commercial devices expected 2028, commercial 2029.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.275Z",
-      "fetchStrategy": "approved-source",
-      "section": "stakeholders",
-      "subCategory": "3gpp",
-      "subLabel": "3GPP"
-    },
-    {
-      "id": "st2",
-      "title": "Q&A: 6G is coming — Qualcomm's John Smee on AI, connectivity and the future of everything",
-      "url": "https://www.fierce-network.com/wireless/qa-6g-coming-qualcomms-john-smee-ai-connectivity-and-future-everything",
-      "description": "Qualcomm SVP John Smee outlines 6G strategy: AI-native networks, predictive analytics, integrated sensing. 6G to deliver QoS that Wi-Fi cannot match. WRC-27 and LA 2028 Olympics seen as key milestones toward 2029 commercial deployment.",
-      "source": "Fierce Wireless",
-      "sourceId": "fierce-wireless",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-02-17T11:49:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.275Z",
-      "fetchStrategy": "approved-source",
-      "section": "stakeholders",
-      "subCategory": "etsi",
-      "subLabel": "ETSI"
-    },
-    {
-      "id": "st-qc1",
-      "title": "Qualcomm accelerates 6G with AI-native device-to-data-center transformation",
-      "url": "https://www.qualcomm.com/news/onq/2026/03/qualcomm-6g-device-to-data-center-transformation",
-      "description": "Qualcomm is advancing 6G with AI-native platforms that unify connectivity, sensing and compute from devices to the data center. The transformation extends beyond traditional wireless to create an integrated AI-native fabric spanning the entire technology stack.",
-      "source": "Qualcomm Newsroom",
-      "sourceId": "qualcomm-newsroom",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-03-02T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.275Z",
-      "fetchStrategy": "approved-source",
-      "section": "stakeholders",
-      "subCategory": "3gpp",
-      "subLabel": "3GPP"
-    }
-  ]
+  "articles": []
 }

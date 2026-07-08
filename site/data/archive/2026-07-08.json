@@ -1,85 +1,31 @@
 {
-  "generatedAt": "2026-07-08T06:34:48.879Z",
+  "generatedAt": "2026-07-08T06:45:00.937Z",
   "date": "2026-07-08",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
       "briefing": {
-        "summary": "One article today covering Semiconductors. Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software fo",
-        "keyTakeaways": [
-          {
-            "text": "Semiconductors: Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data",
-            "articleIds": [
-              "a7"
-            ],
-            "subCategory": "semiconductors"
-          }
-        ]
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm to Acquire Modular",
-          "url": "https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-to-acquire-modular",
-          "description": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
-          "source": "Semiconductor Digest",
-          "sourceId": "semiconductor-digest",
-          "sourceGroup": "semiconductor",
-          "publishedAt": "2026-06-24T21:13:55.000Z",
-          "fetchedAt": "2026-07-08T06:34:29.096Z",
-          "fetchStrategy": "rss",
-          "section": "core-businesses",
-          "subCategory": "semiconductors",
-          "subLabel": "Semiconductors",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
-          "id": "a7"
-        }
-      ]
+      "articles": []
     },
     "ip-legal": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
       "briefing": {
-        "summary": "One article today covering IP / Intellectual Property. At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
-        "keyTakeaways": [
-          {
-            "text": "IP / Intellectual Property: At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
-            "articleIds": [
-              "a8"
-            ],
-            "subCategory": "ip"
-          }
-        ]
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
       },
-      "articles": [
-        {
-          "title": "Qualcomm’s Ann Chaplin says 6G SEP value will hinge on foundational innovation, not portfolio size",
-          "url": "https://www.iam-media.com/article/qualcomms-ann-chaplin-says-6g-sep-value-will-hinge-foundational-innovation-not-portfolio-size",
-          "description": "At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
-          "source": "IAM",
-          "sourceId": "iam",
-          "sourceGroup": "ip",
-          "publishedAt": "2026-06-18T07:00:00.000Z",
-          "fetchedAt": "2026-07-08T06:34:30.118Z",
-          "fetchStrategy": "rss",
-          "section": "ip-legal",
-          "subCategory": "ip",
-          "subLabel": "IP / Intellectual Property",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "At IPBC Global 2026, she argues that long-term R&D and standards participation, rather than raw patent counts, will shape future wireless patent value",
-          "id": "a8"
-        }
-      ]
+      "articles": []
     },
     "growth-areas": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -90,7 +36,7 @@
       "articles": []
     },
     "macro-environment": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "macro-environment",
       "sectionTitle": "Macro Environment",
@@ -115,7 +61,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T22:09:57.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -133,7 +79,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:45:04.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -151,7 +97,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T21:16:04.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -169,7 +115,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T15:19:07.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -187,7 +133,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-07T14:16:48.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -205,7 +151,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-06T15:21:51.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -220,7 +166,7 @@
       ]
     },
     "competitors": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -245,7 +191,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-07-06T15:21:51.000Z",
-          "fetchedAt": "2026-07-08T06:34:24.157Z",
+          "fetchedAt": "2026-07-08T06:44:36.816Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -260,7 +206,7 @@
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-07-08T06:34:48.865Z",
+      "generatedAt": "2026-07-08T06:45:00.914Z",
       "date": "2026-07-08",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
@@ -271,5 +217,5 @@
       "articles": []
     }
   },
-  "totalArticles": 9
+  "totalArticles": 7
 }

@@ -1,0 +1,49 @@
+{
+  "generatedAt": "2026-07-08T06:45:00.935Z",
+  "date": "2026-07-08",
+  "sections": {
+    "core-businesses": {
+      "title": "Core Businesses",
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+    },
+    "ip-legal": {
+      "title": "IP & Legal",
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+    },
+    "growth-areas": {
+      "title": "Growth Areas",
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+    },
+    "macro-environment": {
+      "title": "Macro Environment",
+      "articleCount": 6,
+      "topHeadline": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (6 articles). A total of 6 articles were aggregated from monitored sources."
+    },
+    "competitors": {
+      "title": "Competitors",
+      "articleCount": 1,
+      "topHeadline": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+      "topHeadlineId": "a6",
+      "briefingSummary": "One article today covering market-performance. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia"
+    },
+    "stakeholders": {
+      "title": "Key Stakeholders",
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+    }
+  },
+  "totalArticles": 7
+}

@@ -1,193 +1,130 @@
 {
-  "generatedAt": "2026-07-08T03:49:40.270Z",
+  "generatedAt": "2026-07-08T06:45:00.914Z",
   "date": "2026-07-08",
   "section": "macro-environment",
   "sectionTitle": "Macro Environment",
   "briefing": {
-    "summary": "As of 2026-03-17, 8 article(s) from Bloomberg, Yahoo Finance, Mobile World Live, Reuters, Qualcomm Newsroom cover macro environment: \"Qualcomm Unveils $20 Billion Stock Buyback Program\"; \"Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek\"; \"Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know\"; \"QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?\"; \"Memory crunch weighs on Qualcomm outlook as supply constraints persist\"; \"Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions\"; \"Qualcomm plans China AI chip push with export-control-compliant custom chips\"; \"Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026\".",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (6 articles). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025....",
+        "text": "market-performance: QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its in",
         "articleIds": [
-          "me-bb1"
+          "a1"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's ...",
-        "articleIds": [
-          "me-bb2"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed ...",
-        "articleIds": [
-          "me-yf1"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "Qualcomm has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is group...",
-        "articleIds": [
-          "me-yf2"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit...",
-        "articleIds": [
-          "me1"
-        ],
-        "subCategory": "supply-chain"
-      },
-      {
-        "text": "Qualcomm's ByteDance custom chip talks highlight the complex geopolitics of semiconductor design. The deal leverages Alphawave Semi technology (acquired June...",
-        "articleIds": [
-          "me2"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "Qualcomm disclosed that Microsoft and Meta will adopt its newly launched AI chips, while two additional hyperscale customers have signed on. The company is d...",
-        "articleIds": [
-          "me-re1"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "At CES 2026, Qualcomm expanded automotive collaborations with Google, Toyota, Li Auto, NIO, Leapmotor, ZF, and Stellantis. Snapdragon Ride Flex — first mixed...",
-        "articleIds": [
-          "me3"
-        ],
-        "subCategory": "customers-partners"
       }
-    ],
-    "generatedAt": "2026-07-08T03:49:40.270Z",
-    "dateScope": "latest-available",
-    "articleCount": 8,
-    "totalArticles": 8
+    ]
   },
   "articles": [
     {
-      "id": "me-bb1",
-      "title": "Qualcomm Unveils $20 Billion Stock Buyback Program",
-      "url": "https://www.bnnbloomberg.ca/business/2026/03/17/qualcomm-unveils-us20-billion-stock-buyback-program/",
-      "description": "Smartphone chip designer Qualcomm unveiled a US$20 billion stock buyback program as it looks to take advantage of a steep decline in its share price in 2025. The aggressive capital return signals confidence in long-term growth, particularly in automotive, IoT and data center segments, Bloomberg reported.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html?.tsrc=rss",
+      "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-03-17T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "publishedAt": "2026-07-07T22:09:57.000Z",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
-      "subLabel": "Market Performance"
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+      "id": "a1"
     },
     {
-      "id": "me-bb2",
-      "title": "Micron, Qualcomm Rally on AI Boom — Bloomberg Businessweek",
-      "url": "https://www.startuphub.ai/ai-news/semiconductors/2026/micron-qualcomm-rally-on-ai-boom-businessweek-reports",
-      "description": "Micron and Qualcomm stocks are surging as AI demand drives forecasts for memory and data center chips, according to Bloomberg Businessweek Daily. Qualcomm's Dragonfly data center platform and Modular acquisition have attracted renewed investor interest, positioning the company as an emerging AI infrastructure play.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "Market Performance"
-    },
-    {
-      "id": "me-yf1",
       "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
-      "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day. The article explores why the stock underperformed the broader market and what investors should watch.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html?.tsrc=rss",
+      "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T21:45:04.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
-      "subLabel": "Market Performance"
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
+      "id": "a2"
     },
     {
-      "id": "me-yf2",
       "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html",
-      "description": "Qualcomm has been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies.",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html?.tsrc=rss",
+      "description": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-07T21:16:04.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
-      "subLabel": "Market Performance"
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
+      "id": "a3"
     },
     {
-      "id": "me1",
-      "title": "Memory crunch weighs on Qualcomm outlook as supply constraints persist",
-      "url": "https://www.mobileworldlive.com/qualcomm/memory-crunch-weighs-on-qualcomm-outlook/",
-      "description": "Qualcomm's fiscal Q2 2026 outlook lowered due to memory supply constraints affecting the broader semiconductor industry. Despite revenue pressure, net profit surged 162%. The company cited memory pricing and availability as key near-term risks.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-04-30T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "subLabel": "Supply Chain"
-    },
-    {
-      "id": "me2",
-      "title": "Qualcomm in talks to design custom chips for ByteDance amid US-China tech tensions",
-      "url": "https://www.reuters.com/technology/qualcomm-talks-design-custom-chips-bytedance-2026-06-24/",
-      "description": "Qualcomm's ByteDance custom chip talks highlight the complex geopolitics of semiconductor design. The deal leverages Alphawave Semi technology (acquired June 2025) to serve a major Chinese tech client, navigating US export controls while expanding custom ASIC business.",
-      "source": "Reuters",
-      "sourceId": "reuters",
+      "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
+      "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong?.tsrc=rss",
+      "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "publishedAt": "2026-07-07T15:19:07.000Z",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls"
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+      "id": "a4"
     },
     {
-      "id": "me-re1",
-      "title": "Qualcomm plans China AI chip push with export-control-compliant custom chips",
-      "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
-      "description": "Qualcomm disclosed that Microsoft and Meta will adopt its newly launched AI chips, while two additional hyperscale customers have signed on. The company is designing export-control-compliant custom chips for the Chinese market, balancing US regulations with access to China's massive AI demand.",
-      "source": "Reuters",
-      "sourceId": "reuters",
+      "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
+      "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect?.tsrc=rss",
+      "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-06-25T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "publishedAt": "2026-07-07T14:16:48.000Z",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls"
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+      "id": "a5"
     },
     {
-      "id": "me3",
-      "title": "Qualcomm drives future of mobility with expanded automotive partnerships at CES 2026",
-      "url": "https://autotechinsight.spglobal.com/news/5285964/ces-2026-qualcomm-extends-automotive-partnerships-for-snapdragon-digital-chassis-and-agentic-ai",
-      "description": "At CES 2026, Qualcomm expanded automotive collaborations with Google, Toyota, Li Auto, NIO, Leapmotor, ZF, and Stellantis. Snapdragon Ride Flex — first mixed-criticality SoC — deployed in 8 global programs. $65B automotive design-win pipeline updated.",
-      "source": "Qualcomm Newsroom",
-      "sourceId": "qualcomm-newsroom",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-01-07T08:13:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.269Z",
-      "fetchStrategy": "approved-source",
+      "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
+      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-07-06T15:21:51.000Z",
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
       "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners"
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [
+        "intel"
+      ],
+      "stakeholders": [],
+      "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "id": "a6"
     }
   ]
 }

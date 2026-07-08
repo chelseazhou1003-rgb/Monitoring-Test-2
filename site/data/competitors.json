@@ -1,171 +1,40 @@
 {
-  "generatedAt": "2026-07-08T03:49:40.245Z",
+  "generatedAt": "2026-07-08T06:45:00.914Z",
   "date": "2026-07-08",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "As of 2026-06-16, 7 article(s) from The Information, CNBC, Yahoo Finance, Reuters, Mobile World Live, Qualcomm Newsroom cover competitors: \"Qualcomm in Talks to Buy Tenstorrent to Expand AI Chip Capabilities\"; \"Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition\"; \"Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion\"; \"Sources: Qualcomm in talks to design custom chips for ByteDance\"; \"Qualcomm teams with OpenAI and MediaTek on AI smartphone chip\"; \"Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock's Outlook Is Not Particularly Strong\"; \"COMPUTEX 2026: Qualcomm declares \"Year of AI Agents\" with Snapdragon X2 Elite and Snapdragon C\".",
+    "summary": "One article today covering market-performance. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
     "keyTakeaways": [
       {
-        "text": "Qualcomm has been in discussions to acquire AI chip startup Tenstorrent in a transaction that could value the company between $8B and $10B, according to The ...",
+        "text": "market-performance: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
         "articleIds": [
-          "co-ti1"
+          "a6"
         ],
-        "subCategory": "nvidia"
-      },
-      {
-        "text": "Qualcomm acquired AI software startup Modular for $3.9B in an all-stock deal. The Mojo language and MAX inference engine aim to break NVIDIA's CUDA software ...",
-        "articleIds": [
-          "co3"
-        ],
-        "subCategory": "nvidia"
-      },
-      {
-        "text": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4B. The potential deal ...",
-        "articleIds": [
-          "co-yf1"
-        ],
-        "subCategory": "nvidia"
-      },
-      {
-        "text": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to fo...",
-        "articleIds": [
-          "co1"
-        ],
-        "subCategory": "broadcom"
-      },
-      {
-        "text": "OpenAI partnered with Qualcomm and MediaTek to co-develop smartphone processors optimized for on-device AI. The project could redefine the high-end handset m...",
-        "articleIds": [
-          "co2"
-        ],
-        "subCategory": "mediatek"
-      },
-      {
-        "text": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market soft...",
-        "articleIds": [
-          "co-yf2"
-        ],
-        "subCategory": "other"
-      },
-      {
-        "text": "At COMPUTEX 2026, Qualcomm CEO Cristiano Amon declared 2026 the \"Year of AI Agents.\" Unveiled Snapdragon C for budget AI PCs ($499+) and Snapdragon X2 Elite ...",
-        "articleIds": [
-          "co-qc1"
-        ],
-        "subCategory": "intel"
+        "subCategory": "market-performance"
       }
-    ],
-    "generatedAt": "2026-07-08T03:49:40.244Z",
-    "dateScope": "latest-available",
-    "articleCount": 7,
-    "totalArticles": 7
+    ]
   },
   "articles": [
     {
-      "id": "co-ti1",
-      "title": "Qualcomm in Talks to Buy Tenstorrent to Expand AI Chip Capabilities",
-      "url": "https://www.theinformation.com/articles/qualcomm-talks-buy-tenstorrent-expand-ai-chip-capabilities",
-      "description": "Qualcomm has been in discussions to acquire AI chip startup Tenstorrent in a transaction that could value the company between $8B and $10B, according to The Information. Led by legendary chip architect Jim Keller, Tenstorrent would give Qualcomm a significant boost in AI data center capabilities. Talks are ongoing and the price could change.",
-      "source": "The Information",
-      "sourceId": "the-information",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-06-16T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "nvidia",
-      "subLabel": "NVIDIA"
-    },
-    {
-      "id": "co3",
-      "title": "Qualcomm bets $14 billion on cracking NVIDIA AI monopoly with Modular acquisition",
-      "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-      "description": "Qualcomm acquired AI software startup Modular for $3.9B in an all-stock deal. The Mojo language and MAX inference engine aim to break NVIDIA's CUDA software moat. Combined with Dragonfly C1000 and Tenstorrent pursuit, this represents a ~$14B bet on the AI data center market.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-06-24T15:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "nvidia",
-      "subLabel": "NVIDIA"
-    },
-    {
-      "id": "co-yf1",
       "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html",
-      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4B. The potential deal would expand Qualcomm's capabilities in AI software and infrastructure.",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
+      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-07-06T15:21:51.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "nvidia",
-      "subLabel": "NVIDIA"
-    },
-    {
-      "id": "co1",
-      "title": "Sources: Qualcomm in talks to design custom chips for ByteDance",
-      "url": "https://www.reuters.com/technology/qualcomm-talks-design-custom-chips-bytedance-2026-06-24/",
-      "description": "Qualcomm is in advanced talks with ByteDance to design custom chips, partly based on connectivity tech from recently acquired Alphawave Semi, according to four sources. The deal signals Qualcomm's push into custom ASIC design against Broadcom and Marvell.",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-06-24T12:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "broadcom",
-      "subLabel": "Broadcom"
-    },
-    {
-      "id": "co2",
-      "title": "Qualcomm teams with OpenAI and MediaTek on AI smartphone chip",
-      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-teams-with-openai-mediatek-on-ai-chip/",
-      "description": "OpenAI partnered with Qualcomm and MediaTek to co-develop smartphone processors optimized for on-device AI. The project could redefine the high-end handset market, challenging Apple's A-series and Samsung's Exynos in AI processing capabilities.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-04-28T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "mediatek",
-      "subLabel": "MediaTek"
-    },
-    {
-      "id": "co-yf2",
-      "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock's Outlook Is Not Particularly Strong",
-      "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong",
-      "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors. The analysis flags smartphone market softness and competitive pressure from MediaTek, Apple and Samsung as near-term headwinds.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-07-07T15:19:07.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "other",
-      "subLabel": "Other Competitors"
-    },
-    {
-      "id": "co-qc1",
-      "title": "COMPUTEX 2026: Qualcomm declares \"Year of AI Agents\" with Snapdragon X2 Elite and Snapdragon C",
-      "url": "https://www.qualcomm.com/snapdragon/news/computex-2026--the--year-of-agents---big--and-mini--pc-announcem",
-      "description": "At COMPUTEX 2026, Qualcomm CEO Cristiano Amon declared 2026 the \"Year of AI Agents.\" Unveiled Snapdragon C for budget AI PCs ($499+) and Snapdragon X2 Elite for premium Copilot+ PCs with up to 80 TOPs NPU. Acer Swift Spin 14 AI among first devices, directly challenging Intel and AMD in the Windows PC market.",
-      "source": "Qualcomm Newsroom",
-      "sourceId": "qualcomm-newsroom",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-06-03T10:00:00.000Z",
-      "fetchedAt": "2026-07-08T03:49:40.244Z",
-      "fetchStrategy": "approved-source",
-      "section": "competitors",
-      "subCategory": "intel",
-      "subLabel": "Intel"
+      "fetchedAt": "2026-07-08T06:44:36.816Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [
+        "intel"
+      ],
+      "stakeholders": [],
+      "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "id": "a6"
     }
   ]
 }
