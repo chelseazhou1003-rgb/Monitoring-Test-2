@@ -17,7 +17,13 @@ export async function loadLatest() {
     if (!data) continue;
 
     const articles = data.articles || [];
-    const todayArticles = articles.filter(a => (a.publishedAt || '').split('T')[0] === today);
+    // Convert publishedAt to Beijing time for date comparison (UTC→CST +8h),
+    // otherwise articles published 16:00–23:59 UTC are actually "tomorrow" in Beijing
+    const todayArticles = articles.filter(a => {
+      if (!a.publishedAt) return false;
+      const bj = new Date(new Date(a.publishedAt).getTime() + 8 * 60 * 60 * 1000);
+      return bj.toISOString().slice(0, 10) === today;
+    });
 
     sections[id] = {
       title: data.sectionTitle || id,
