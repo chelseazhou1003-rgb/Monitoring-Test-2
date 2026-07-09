@@ -1,6 +1,6 @@
 // Article tagging: assign section, sub-category, and competitor tags
 
-import { SECTION_KEYWORDS, COMPETITOR_KEYWORDS, STAKEHOLDER_KEYWORDS } from '../config/keywords.js';
+import { SECTION_KEYWORDS, COMPETITOR_KEYWORDS, COMPETITOR_CONDITIONS, STAKEHOLDER_KEYWORDS } from '../config/keywords.js';
 import { SUB_LABELS } from '../config/sections.js';
 
 export function tagArticles(articles) {
@@ -14,6 +14,17 @@ export function tagArticles(articles) {
 
     for (const [sectionId, sectionData] of Object.entries(SECTION_KEYWORDS)) {
       for (const [subId, keywords] of Object.entries(sectionData.subs)) {
+        // For competitor subs with co-occurrence conditions (e.g. apple, huawei),
+        // skip scoring entirely unless the article also contains IP/patent/SEP terms
+        if (sectionId === 'competitors' && COMPETITOR_CONDITIONS[subId]) {
+          const hasCondition = COMPETITOR_CONDITIONS[subId].some(condKw => {
+            const condLower = condKw.toLowerCase();
+            const condEscaped = condLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+            return new RegExp(`\\b${condEscaped}\\b`, 'i').test(text);
+          });
+          if (!hasCondition) continue;
+        }
+
         let score = 0;
         for (const kw of keywords) {
           const kwLower = kw.toLowerCase();
@@ -41,6 +52,7 @@ export function tagArticles(articles) {
     // --- Competitor cross-tagging ---
     const competitors = [];
     for (const [compId, keywords] of Object.entries(COMPETITOR_KEYWORDS)) {
+      let matched = false;
       for (const kw of keywords) {
         // Always use word-boundary matching to prevent false positives
         // (e.g. "M1" matching "ARM1", "Intel" matching "intelligence")
@@ -48,11 +60,26 @@ export function tagArticles(articles) {
         const escaped = kwLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
         const pattern = `\\b${escaped}\\b`;
         if (new RegExp(pattern, 'i').test(text)) {
-          if (!competitors.includes(compId)) {
-            competitors.push(compId);
-          }
+          matched = true;
           break;
         }
+      }
+
+      // For competitors with co-occurrence conditions (e.g. apple, huawei),
+      // require the article to also contain at least one IP/patent/SEP term
+      if (matched && COMPETITOR_CONDITIONS[compId]) {
+        const hasCondition = COMPETITOR_CONDITIONS[compId].some(condKw => {
+          const condLower = condKw.toLowerCase();
+          const condEscaped = condLower.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+          return new RegExp(`\\b${condEscaped}\\b`, 'i').test(text);
+        });
+        if (!hasCondition) {
+          matched = false;
+        }
+      }
+
+      if (matched && !competitors.includes(compId)) {
+        competitors.push(compId);
       }
     }
     article.competitors = competitors;

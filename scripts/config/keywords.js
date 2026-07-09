@@ -56,6 +56,14 @@ export const COMPETITOR_KEYWORDS = {
   other: ['UNISOC', '紫光展锐', 'Google Tensor', 'Amazon Graviton', 'Marvell']
 };
 
+// Co-occurrence conditions for specific competitors
+// Article must contain BOTH a competitor keyword AND at least one condition keyword
+// to be tagged with that competitor and scored into the Competitors section
+export const COMPETITOR_CONDITIONS = {
+  apple: ['IP', 'patent', 'SEP'],
+  huawei: ['IP', 'patent', 'SEP'],
+};
+
 // Stakeholder keyword patterns
 export const STAKEHOLDER_KEYWORDS = {
   '3gpp': ['3GPP', '3rd Generation Partnership Project'],
