@@ -57,17 +57,10 @@ const SECTION_META = {
   },
   'competitors': {
     title: 'Competitors',
-    desc: 'Apple, MediaTek, Intel, NVIDIA, AMD, Samsung, Broadcom, Huawei and other relevant competitors.',
+    desc: 'Apple and Huawei competitive IP, patent, and SEP dynamics.',
     subs: [
       { id: 'apple', label: 'Apple' },
-      { id: 'mediatek', label: 'MediaTek' },
-      { id: 'intel', label: 'Intel' },
-      { id: 'nvidia', label: 'NVIDIA' },
-      { id: 'amd', label: 'AMD' },
-      { id: 'samsung', label: 'Samsung' },
-      { id: 'broadcom', label: 'Broadcom' },
-      { id: 'huawei', label: 'Huawei' },
-      { id: 'other', label: 'Other' }
+      { id: 'huawei', label: 'Huawei' }
     ]
   },
   'stakeholders': {

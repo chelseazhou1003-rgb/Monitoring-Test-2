@@ -33,7 +33,7 @@ export const SECTIONS = [
     id: 'competitors',
     title: 'Competitors',
     slug: 'competitors',
-    description: 'Apple, MediaTek, Intel, NVIDIA, AMD, Samsung, Broadcom, Huawei and other relevant competitors.',
+    description: 'Apple and Huawei competitive IP, patent, and SEP dynamics.',
     page: 'competitors.html'
   },
   {
@@ -71,14 +71,7 @@ export const SUB_LABELS = {
   'supply-chain': 'Supply Chain',
   'geopolitics-export-controls': 'Geopolitics & Export Controls',
   apple: 'Apple',
-  mediatek: 'MediaTek',
-  intel: 'Intel',
-  nvidia: 'NVIDIA',
-  amd: 'AMD',
-  samsung: 'Samsung',
-  broadcom: 'Broadcom',
   huawei: 'Huawei',
-  other: 'Other Competitors',
   '3gpp': '3GPP',
   etsi: 'ETSI',
   ieee: 'IEEE',

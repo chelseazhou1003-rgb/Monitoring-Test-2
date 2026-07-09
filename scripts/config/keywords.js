@@ -44,16 +44,11 @@ export const CONDITIONAL_KEYWORDS = [
 ];
 
 // Competitor name patterns for cross-tagging
+// Only Apple and Huawei are monitored, both require co-occurrence with IP/Patent/SEP
+// (see COMPETITOR_CONDITIONS below)
 export const COMPETITOR_KEYWORDS = {
   apple: ['Apple', 'iPhone', 'iPad', 'MacBook', 'A-series', 'M-series', 'Apple Silicon', 'M1', 'M2', 'M3', 'M4', 'M5'],
-  mediatek: ['MediaTek', 'Dimensity', 'Helio', 'Kompanio'],
-  intel: ['Intel', 'Core Ultra', 'Lunar Lake', 'Arrow Lake', 'Meteor Lake', 'Panther Lake', 'x86', '18A'],
-  nvidia: ['NVIDIA', 'Tegra', 'Orin', 'Thor', 'Drive', 'Grace', 'Hopper', 'Blackwell'],
-  amd: ['AMD', 'Ryzen', 'EPYC', 'Radeon', 'Zen'],
-  samsung: ['Samsung', 'Exynos', 'Galaxy', 'LSI'],
-  broadcom: ['Broadcom', 'VMware'],
-  huawei: ['Huawei', 'Kirin', 'HiSilicon', 'HarmonyOS', 'Ascend'],
-  other: ['UNISOC', '紫光展锐', 'Google Tensor', 'Amazon Graviton', 'Marvell']
+  huawei: ['Huawei', 'Kirin', 'HiSilicon', 'HarmonyOS', 'Ascend']
 };
 
 // Co-occurrence conditions for specific competitors
@@ -127,14 +122,7 @@ export const SECTION_KEYWORDS = {
     name: 'Competitors',
     subs: {
       apple: ['Apple', 'iPhone', 'A-series', 'M-series', 'Apple Silicon'],
-      mediatek: ['MediaTek', 'Dimensity'],
-      intel: ['Intel', 'Lunar Lake', 'Core Ultra', 'x86'],
-      nvidia: ['NVIDIA', 'Tegra', 'Orin', 'Thor', 'Blackwell'],
-      amd: ['AMD', 'Ryzen', 'EPYC', 'Zen'],
-      samsung: ['Samsung', 'Exynos', 'Galaxy chip'],
-      broadcom: ['Broadcom'],
-      huawei: ['Huawei', 'Kirin', 'HiSilicon'],
-      other: ['UNISOC', '紫光展锐', 'Google Tensor']
+      huawei: ['Huawei', 'Kirin', 'HiSilicon']
     }
   },
   stakeholders: {
