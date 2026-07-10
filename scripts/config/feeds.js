@@ -62,6 +62,15 @@ export const FEEDS = [
     strategy: 'google-news',
     googleQuery: 'Qualcomm site:fortune.com'
   },
+  // Geopolitical chip policy feed — no "Qualcomm" requirement,
+  // captures articles about US-China chip export controls, sanctions, etc.
+  {
+    id: 'geopolitics',
+    name: 'Geopolitics',
+    group: 'finance',
+    strategy: 'google-news',
+    googleQuery: '("export control" OR "chip ban" OR "CHIPS Act" OR "entity list" OR MOFCOM OR "national security" OR decoupling) (chip OR semiconductor)'
+  },
 
   // --- Technology ---
   {
