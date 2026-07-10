@@ -114,7 +114,7 @@ export const SECTION_KEYWORDS = {
     subs: {
       'customers-partners': ['OEM', 'partner', 'partnership', 'collaboration', 'customer', 'design win', 'supply agreement', 'multi-year agreement', 'joint development', 'co-engineering'],
       'supply-chain': ['supply chain', 'fabrication', 'capacity', 'yield', 'wafer', 'shortage', 'lead time', 'inventory', 'procurement', 'dual source'],
-      'geopolitics-export-controls': ['export control', 'sanction', 'trade war', 'tariff', 'CHIPS Act', 'entity list', 'BIS', 'Commerce Department', 'national security', 'CFIUS', 'technology transfer', 'decoupling', 'China', 'US-China', 'export license', 'restriction'],
+      'geopolitics-export-controls': ['export control', 'sanction', 'trade war', 'tariff', 'CHIPS Act', 'entity list', 'BIS', 'Commerce Department', 'U.S. Department of Commerce', 'Bureau of Industry and Security', 'MOFCOM', 'Dual-use', 'Chip ban', 'national security', 'CFIUS', 'technology transfer', 'decoupling', 'China', 'US-China', 'Sino-US', 'tech rivalry', 'tech cold war', 'export license', 'restriction', 'section 301', 'import ban', 'CHIPS and Science Act'],
       'market-performance': ['stock price', 'share price', 'valuation', 'earnings', 'market cap', 'index', 'Russell', 'S&P', 'NASDAQ', 'QCOM stock', 'stock outlook', 'investor', 'investors', 'stocks', 'shares', 'closed at', 'trading session', 'broader market', 'stock market']
     }
   },
