@@ -57,6 +57,8 @@ export function filterQualcommRelevant(articles) {
           keywordRejected.push(article);
           continue;
         }
+        // Mark article as geopolitical bypass — tag.js restricts to Macro section only
+        article.geopoliticalBypass = true;
       }
     }
 

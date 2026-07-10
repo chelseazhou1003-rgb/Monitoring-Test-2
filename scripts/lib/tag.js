@@ -13,6 +13,9 @@ export function tagArticles(articles) {
     let bestScore = 0;
 
     for (const [sectionId, sectionData] of Object.entries(SECTION_KEYWORDS)) {
+      // Geopolitical bypass articles (no Qualcomm mention) can only be tagged into Macro
+      if (article.geopoliticalBypass && sectionId !== 'macro-environment') continue;
+
       for (const [subId, keywords] of Object.entries(sectionData.subs)) {
         // For competitor subs with co-occurrence conditions (e.g. apple, huawei),
         // skip scoring entirely unless the article also contains IP/patent/SEP terms
@@ -43,6 +46,12 @@ export function tagArticles(articles) {
           bestSub = subId;
         }
       }
+    }
+
+    // Geopolitical bypass articles default to Macro / Geopolitics if no sub matched
+    if (article.geopoliticalBypass && !bestSection) {
+      bestSection = 'macro-environment';
+      bestSub = 'geopolitics-export-controls';
     }
 
     article.section = bestSection || 'core-businesses';
