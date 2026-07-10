@@ -7,7 +7,10 @@
 // still serves. Google News already has `when:1d` built into the query, but
 // direct RSS feeds return everything in the feed regardless of date.
 
-import { QUALCOMM_KEYWORDS, CONDITIONAL_KEYWORDS } from '../config/keywords.js';
+import { QUALCOMM_KEYWORDS, CONDITIONAL_KEYWORDS, SECTION_KEYWORDS } from '../config/keywords.js';
+
+// Geopolitical keywords: articles matching these pass through even without Qualcomm mention
+const GEOPOLITICAL_KEYWORDS = SECTION_KEYWORDS['macro-environment'].subs['geopolitics-export-controls'];
 
 const MAX_ARTICLE_AGE_DAYS = 3;
 
@@ -46,8 +49,14 @@ export function filterQualcommRelevant(articles) {
         text.includes('qcom');
 
       if (!hasConditional || !hasQualcommBrand) {
-        keywordRejected.push(article);
-        continue;
+        // Exception: geopolitical articles pass through even without Qualcomm mention
+        const hasGeopolitical = GEOPOLITICAL_KEYWORDS.some(kw =>
+          text.includes(kw.toLowerCase())
+        );
+        if (!hasGeopolitical) {
+          keywordRejected.push(article);
+          continue;
+        }
       }
     }
 
