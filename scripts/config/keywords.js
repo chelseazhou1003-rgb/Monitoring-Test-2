@@ -47,8 +47,8 @@ export const CONDITIONAL_KEYWORDS = [
 // Only Apple and Huawei are monitored, both require co-occurrence with IP/Patent/SEP
 // (see COMPETITOR_CONDITIONS below)
 export const COMPETITOR_KEYWORDS = {
-  apple: ['Apple', 'iPhone', 'iPad', 'MacBook', 'A-series', 'M-series', 'Apple Silicon', 'M1', 'M2', 'M3', 'M4', 'M5'],
-  huawei: ['Huawei', 'Kirin', 'HiSilicon', 'HarmonyOS', 'Ascend']
+  apple: ['Apple'],
+  huawei: ['Huawei']
 };
 
 // Co-occurrence conditions for specific competitors
@@ -121,8 +121,8 @@ export const SECTION_KEYWORDS = {
   competitors: {
     name: 'Competitors',
     subs: {
-      apple: ['Apple', 'iPhone', 'A-series', 'M-series', 'Apple Silicon'],
-      huawei: ['Huawei', 'Kirin', 'HiSilicon']
+      apple: ['Apple'],
+      huawei: ['Huawei']
     }
   },
   stakeholders: {

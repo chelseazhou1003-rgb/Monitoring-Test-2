@@ -451,6 +451,17 @@ export const NEWS_DATA = {
             "publishedAt": "2026-06-24T18:00:00.000Z",
             "section": "core-businesses",
             "subCategory": "semiconductors"
+          },
+          {
+            "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
+            "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
+            "description": "Qualcomm said it would buy AI startup Modular in an all-stock deal valued at nearly $4 billion, gaining access to software that runs AI models across chips without having to write code for each processor. The acquisition strengthens Qualcomm's position against Nvidia's CUDA ecosystem.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-24T18:00:00.000Z",
+            "section": "core-businesses",
+            "subCategory": "semiconductors"
           }
         ]
       },
@@ -489,7 +500,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-24T19:00:00.000Z",
         "date": "",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -497,7 +508,19 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm's Ann Chaplin says 6G SEP value will hinge on foundational innovation, not portfolio size",
+            "url": "https://www.iam-media.com/article/qualcomms-ann-chaplin-says-6g-sep-value-will-hinge-foundational-innovation-not-portfolio-size",
+            "description": "Speaking at IPBC Global 2026 in San Diego, Qualcomm General Counsel Ann Cathcart Chaplin delivered a keynote arguing that 6G standard-essential patent value will be determined by foundational R&D and standards participation rather than sheer patent volume. Her remarks come as the 3GPP Rel-21 timeline sets the stage for the first 6G standard.",
+            "source": "IAM",
+            "sourceId": "iam-media",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-06-24T14:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          }
+        ]
       },
       "macro-environment": {
         "generatedAt": "2026-06-24T20:44:00.000Z",
@@ -519,6 +542,28 @@ export const NEWS_DATA = {
             "publishedAt": "2026-06-24T20:44:00.000Z",
             "section": "macro-environment",
             "subCategory": "market-performance"
+          },
+          {
+            "title": "Qualcomm forecasts $15 billion data center chip sales by 2029, shares soar",
+            "url": "https://www.reuters.com/business/retail-consumer/qualcomm-bets-ai-chips-break-smartphone-reliance-faces-crowded-race-2026-06-24/",
+            "description": "Qualcomm said it expects to generate $15 billion in sales from its data center business by 2029 as it moves beyond its core smartphone chips, sending shares more than 12% higher in after-hours trading. The company also raised its non-handset revenue target to $40 billion.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-24T19:30:00.000Z",
+            "section": "macro-environment",
+            "subCategory": "market-performance"
+          },
+          {
+            "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
+            "url": "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/",
+            "description": "Shares of chipmakers surged late on Wednesday, adding over $400 billion in market value after strong forecasts from Micron Technology and Qualcomm breathed fresh life into Wall Street's recently waning AI stock rally.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-24T20:00:00.000Z",
+            "section": "macro-environment",
+            "subCategory": "market-performance"
           }
         ]
       },
@@ -531,10 +576,22 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
+            "url": "https://www.reuters.com/world/china/qualcomm-talks-provide-custom-chip-design-services-bytedance-sources-say-2026-06-24/",
+            "description": "Qualcomm is in talks to provide chip-design services to China's ByteDance, four people familiar with the matter said, as the U.S. company seeks to reduce dependence on the smartphone market. The deal would mark a significant expansion of Qualcomm's custom silicon business.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-24T20:30:00.000Z",
+            "section": "stakeholders",
+            "subCategory": "csp-partners"
+          }
+        ]
       }
     },
-    "totalArticles": 5
+    "totalArticles": 10
   },
   "archive-2026-06-25": {
     "generatedAt": "2026-06-25T07:00:00.000Z",
@@ -574,7 +631,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-25T16:00:00.000Z",
         "date": "",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -582,7 +639,30 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "IAM Sunday Digest: IPBC Global wraps in San Diego; Qualcomm's Ann Chaplin on 6G SEP value; Oppo bags Asus injunction",
+            "url": "https://www.iam-media.com/article/iam-sunday-digest-ipbc-global-oppo-bags-asus-injunction-may-us-patent-transactions-nokia-lenovo-patent-licence-pct-data-dive-plus-much-more",
+            "description": "IPBC Global 2026 concluded in San Diego with record attendance. Qualcomm General Counsel Ann Chaplin argued that 6G SEP value will hinge on foundational innovation, not raw patent counts. The digest also covers Huawei's Wi-Fi 7 licensing rates, Oppo's injunction against Asus, and Nokia-Lenovo patent renewal.",
+            "source": "IAM",
+            "sourceId": "iam-media",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-06-25T12:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          },
+          {
+            "title": "Qualcomm Hit With Second Redstone Patent Suit Over Core Design",
+            "url": "https://news.bloomberglaw.com/litigation/qualcomm-hit-with-second-redstone-patent-suit-over-core-design",
+            "description": "Redstone Logics filed a second federal lawsuit against Qualcomm in the Western District of Texas, alleging the chipmaker's new Oryon architecture infringes patents covering inter-core communication methods. This follows a prior suit and adds to Qualcomm's growing patent defense docket.",
+            "source": "Bloomberg Law",
+            "sourceId": "bloomberg-law",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-06-25T14:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          }
+        ]
       },
       "macro-environment": {
         "generatedAt": "2026-06-25T15:58:00.000Z",
@@ -615,11 +695,33 @@ export const NEWS_DATA = {
             "publishedAt": "2026-06-25T12:00:00.000Z",
             "section": "macro-environment",
             "subCategory": "geopolitics-trade"
+          },
+          {
+            "title": "Wall St ends mixed as tech megacap declines outweigh upbeat chip outlook",
+            "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
+            "description": "The Nasdaq closed lower on Thursday, dragged down by losses in Big Tech shares, while the S&P 500 closed near flat and the Dow closed higher. Strong forecasts from Micron and Qualcomm had initially boosted chip stocks before broader market caution took hold.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-25T22:00:00.000Z",
+            "section": "macro-environment",
+            "subCategory": "market-performance"
+          },
+          {
+            "title": "Global chip stocks jump as blowout Micron results reignite AI rally",
+            "url": "https://www.reuters.com/world/asia-pacific/south-korean-chip-shares-rally-after-microns-upbeat-earnings-2026-06-25/",
+            "description": "Global chip stocks surged on Thursday after Micron Technology's blockbuster results reignited the AI-driven rally. Qualcomm also benefited from the positive sentiment following its Investor Day data center announcements and raised revenue targets.",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-06-25T21:00:00.000Z",
+            "section": "macro-environment",
+            "subCategory": "market-performance"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-25T16:00:00.000Z",
         "date": "",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -627,10 +729,22 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs",
+            "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-",
+            "description": "Qualcomm and Meta announced a multi-generation strategic agreement for Qualcomm's Dragonfly C1000 data center CPU to power Meta's next-generation server fleet. CEO Cristiano Amon described Meta as a foundational data center customer, marking one of the largest hyperscaler wins for Qualcomm's ambitions beyond mobile.",
+            "source": "Qualcomm Newsroom",
+            "sourceId": "qualcomm-newsroom",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-06-25T15:00:00.000Z",
+            "section": "stakeholders",
+            "subCategory": "csp-partners"
+          }
+        ]
       }
     },
-    "totalArticles": 2
+    "totalArticles": 7
   },
   "archive-2026-06-26": {
     "generatedAt": "2026-06-26T07:00:00.000Z",
@@ -694,7 +808,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-26T16:00:00.000Z",
         "date": "",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -702,7 +816,19 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "高通总法律顾问卓安琳：6G SEP价值取决于基础创新，而非专利组合规模",
+            "url": "https://www.ipeconomy.cn/yuanchuang/10976.html",
+            "description": "IPBC Global 2026大会上，高通总法律顾问卓安琳（Ann Chaplin）发表主题演讲，指出6G标准必要专利的价值将取决于长期研发投入和在标准制定中的实质性贡献，而非专利数量本身。她强调高通30多年持续投入6G研发，推动基础技术创新。",
+            "source": "知产财经",
+            "sourceId": "ipeconomy",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-06-26T10:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          }
+        ]
       },
       "macro-environment": {
         "generatedAt": "2026-06-26T14:00:00.000Z",
@@ -728,7 +854,7 @@ export const NEWS_DATA = {
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-26T16:00:00.000Z",
         "date": "",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -736,10 +862,22 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm and Huawei End Long-Running Licensing Spat with Renewed Patent Agreement",
+            "url": "https://www.techbloat.com/qualcomm-and-huawei-end-licensing-spat.html",
+            "description": "Qualcomm and Huawei resolved their long-running licensing dispute through a renewed patent agreement that allows Huawei to continue using Qualcomm's cellular technology portfolio. The deal, announced in late May 2026, restores a key licensing relationship amid ongoing US-China technology tensions.",
+            "source": "TechBloat",
+            "sourceId": "techbloat",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-06-26T12:00:00.000Z",
+            "section": "stakeholders",
+            "subCategory": "oem-partners"
+          }
+        ]
       }
     },
-    "totalArticles": 3
+    "totalArticles": 5
   },
   "archive-2026-06-27": {
     "generatedAt": "2026-06-27T07:00:00.000Z",
@@ -837,7 +975,7 @@ export const NEWS_DATA = {
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-27T16:00:00.000Z",
         "date": "",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -845,10 +983,22 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Stellantis and Qualcomm Expand Partnership to Adopt Snapdragon Digital Chassis Across 14 Brands",
+            "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-and-qualcomm-expand-partnership-to-adopt-snapdragon-digital-chassis-driver-assistance-cockpit-and-connectivity-platforms-across-next-generation-vehicle-architectures",
+            "description": "Stellantis and Qualcomm expanded their multi-year technology collaboration to deploy Snapdragon Digital Chassis — including driver assistance, cockpit, and connectivity platforms — across Stellantis's 14-vehicle-brand portfolio. The deal positions Qualcomm as a key automotive silicon partner for one of the world's largest automakers.",
+            "source": "Stellantis / Qualcomm",
+            "sourceId": "qualcomm-newsroom",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-06-27T10:00:00.000Z",
+            "section": "stakeholders",
+            "subCategory": "automotive-partners"
+          }
+        ]
       }
     },
-    "totalArticles": 3
+    "totalArticles": 4
   },
   "archive-2026-06-28": {
     "generatedAt": "2026-06-28T07:00:00.000Z",
@@ -1058,7 +1208,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-06-30T16:00:00.000Z",
         "date": "",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -1066,7 +1216,19 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "哪些6G专利价值更高？高通总法律顾问：关键在于能否成为技术标准的基础创新",
+            "url": "https://www.ithome.com/0/970/702.htm",
+            "description": "高通总法律顾问卓安琳在IPBC Global 2026大会上表示，当前正是6G标准制定的关键时刻。3GPP Rel-21作为首个6G标准版本，其时间表的确定为产业链提供了研发锚点。她认为6G专利的真正价值将取决于其是否是标准的基础创新，而非纳入标准的专利数量多少。",
+            "source": "IT之家",
+            "sourceId": "ithome",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-06-30T09:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          }
+        ]
       },
       "macro-environment": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1091,7 +1253,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 1
+    "totalArticles": 2
   },
   "archive-2026-07-01": {
     "generatedAt": "2026-07-01T07:00:00.000Z",
@@ -1165,7 +1327,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-07-01T16:00:00.000Z",
         "date": "",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -1173,10 +1335,22 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm Plans Export-Control-Compliant Custom Chips for Chinese Market",
+            "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
+            "description": "Following its Investor Day announcements, Qualcomm confirmed it will develop export-control-compliant data center chips for the Chinese market. CEO Cristiano Amon said Qualcomm can serve China without triggering US export restrictions, positioning the company to capitalize on China's AI infrastructure buildout while navigating geopolitical constraints.",
+            "source": "TrendForce",
+            "sourceId": "trendforce",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-07-01T10:00:00.000Z",
+            "section": "stakeholders",
+            "subCategory": "csp-partners"
+          }
+        ]
       }
     },
-    "totalArticles": 1
+    "totalArticles": 2
   },
   "archive-2026-07-02": {
     "generatedAt": "2026-07-02T07:00:00.000Z",
@@ -1374,7 +1548,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
+        "generatedAt": "2026-07-04T16:00:00.000Z",
         "date": "",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -1382,7 +1556,19 @@ export const NEWS_DATA = {
           "summary": "",
           "keyTakeaways": []
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "IPBC Global 2026: IAM's photo highlights from San Diego",
+            "url": "https://www.iam-media.com/article/ipbc-global-2026-iams-photo-highlights",
+            "description": "IAM publishes photo highlights from IPBC Global 2026 in San Diego, featuring keynote speakers including USPTO Director John Squires and Qualcomm GC Ann Chaplin. The record-breaking event brought together the world's top IP leaders to discuss the future of patent value creation.",
+            "source": "IAM",
+            "sourceId": "iam-media",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-07-04T10:00:00.000Z",
+            "section": "ip-legal",
+            "subCategory": "qualcomm-ip"
+          }
+        ]
       },
       "macro-environment": {
         "generatedAt": "2026-01-01T00:00:00.000Z",
@@ -1407,7 +1593,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 0
+    "totalArticles": 1
   },
   "archive-2026-07-05": {
     "generatedAt": "2026-07-05T07:00:00.000Z",
