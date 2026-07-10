@@ -2,36 +2,10 @@
 // Articles must match at least one primary keyword
 
 export const QUALCOMM_KEYWORDS = [
-  // Brand & company
   'Qualcomm',
   'QCOM',
-
-  // Leadership
   'Cristiano Amon',
-
-  // Snapdragon family
   'Snapdragon',
-  'Snapdragon X',
-  'X Elite',
-  'X Plus',
-
-  // GPU / NPU / Connectivity
-  'Adreno',
-  'Hexagon',
-  'FastConnect',
-
-  // Automotive
-  'Snapdragon Ride',
-  'Digital Chassis',
-
-  // RF / Modem
-  'RF360',
-
-  // Chinese name
-  '高通',
-
-  // Conditional: these only count when Qualcomm is also mentioned
-  // (handled by the co-occurrence check in filter.js)
 ];
 
 // Keywords that only count as Qualcomm-relevant when appearing alongside Qualcomm/Snapdragon
@@ -80,22 +54,22 @@ export const SECTION_KEYWORDS = {
   'core-businesses': {
     name: 'Core Businesses',
     subs: {
-      semiconductors: ['chip', 'foundry', 'wafer', 'semiconductor', 'process node', 'nanometer', 'nm process', 'finfet', 'gate-all-around', 'GAA', 'chiplet', 'advanced packaging', '3D packaging', 'die', 'transistor', 'silicon'],
-      wireless: ['5G', '6G', 'modem', 'RF', 'radio frequency', 'mmWave', 'sub-6', 'cellular', 'baseband', 'antenna', 'carrier aggregation', 'MIMO', 'beamforming'],
-      'mobile-chips': ['Snapdragon 8', 'Snapdragon 7', 'mobile platform', 'smartphone chip', 'mobile processor', 'mobile SoC', 'premium tier', 'flagship'],
-      'pc-chips-computing': ['X Elite', 'X Plus', 'Windows on Arm', 'WoA', 'PC chip', 'laptop chip', 'PC processor', 'desktop'],
-      automotive: ['Snapdragon Ride', 'Digital Chassis', 'cockpit', 'telematics', 'V2X', 'C-V2X', 'vehicle-to-everything', 'car chip', 'auto grade', 'ASIL', 'autonomous vehicle'],
-      'iot-xr': ['IoT', 'Internet of Things', 'Snapdragon AR', 'Snapdragon XR', 'XR2', 'AR2', 'wearable', 'smartwatch', 'embedded', 'edge device']
+      semiconductors: ['chip', 'foundry', 'wafer', 'semiconductor', 'process node', 'nanometer', 'finfet', 'GAA', 'chiplet', 'advanced packaging', '3D packaging', 'die', 'transistor', 'silicon'],
+      wireless: ['5G', '6G', 'ranking', 'leadership', 'IPLytics', '3GPP', 'Wi-Fi', 'WiFi', 'Dragonfly'],
+      'mobile-chips': ['Snapdragon', 'Snapdragon 8', 'Snapdragon 7', 'mobile platform', 'smartphone chip', 'flagship', 'handset', 'mobile', 'phone'],
+      'pc-chips-computing': ['X Elite', 'X Plus', 'Windows on Arm', 'WoA', 'PC chip', 'laptop chip', 'PC'],
+      automotive: ['Snapdragon Ride', 'Digital Chassis', 'cockpit', 'telematics', 'V2X', 'C-V2X', 'auto grade', 'autonomous vehicle', 'auto'],
+      'iot-xr': ['IoT', 'Snapdragon AR', 'Snapdragon XR', 'XR2', 'AR2', 'wearable', 'smartwatch', 'embedded', 'edge device', 'Dragonwing', 'XR']
     }
   },
   'ip-legal': {
     name: 'Intellectual Property and Legal',
     subs: {
-      sep: ['SEP', 'standard-essential patent', 'standard essential patent', 'essential patent'],
-      ip: ['patent', 'IP portfolio', 'intellectual property', 'patent filing', 'patent application', 'IPR', 'trade secret', 'patent grant'],
-      'patent-litigation': ['patent suit', 'patent infringement', 'lawsuit', 'litigation', 'court', 'district court', 'ITC', 'International Trade Commission', 'patent trial', 'appeal', 'injunction', 'damages', 'jury'],
-      'frand-licensing': ['FRAND', 'fair reasonable', 'licensing', 'royalty', 'license agreement', 'cross-license', 'patent pool', 'Avanci', 'licensing revenue'],
-      'regulatory-antitrust': ['antitrust', 'anti-trust', 'competition law', 'monopoly', 'market dominance', 'consent decree', 'consent order']
+      sep: ['SEP', 'standard-essential patent', 'essential patent'],
+      ip: ['patent', 'IP portfolio', 'intellectual property', 'patent filing'],
+      'patent-litigation': ['suit', 'infringement', 'lawsuit', 'litigation', 'court', 'ITC', 'injunction', 'damages', 'jury'],
+      'frand-licensing': ['FRAND', 'licensing', 'royalty', 'license', 'cross-license', 'patent pool', 'Avanci', 'HEVC', 'VVC'],
+      'regulatory-antitrust': ['antitrust', 'competition law', 'monopoly', 'market dominance', 'consent decree', 'FTC']
     }
   },
   'growth-areas': {
