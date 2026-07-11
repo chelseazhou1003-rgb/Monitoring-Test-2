@@ -2,8 +2,8 @@ name: Daily News Build & Deploy
 
 on:
   schedule:
-    # Runs at 23:00 UTC every day = 07:00 Beijing time (UTC+8)
-    - cron: '0 23 * * *'
+    # Runs every hour (public repo = unlimited Actions minutes)
+    - cron: '0 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 # Prevent concurrent runs — cancel old ones when new one starts
