@@ -2,8 +2,8 @@ name: Daily News Build & Deploy
 
 on:
   schedule:
-    # Runs every hour (public repo = unlimited Actions minutes)
-    - cron: '0 * * * *'
+    # Runs every hour at :15 to avoid peak (backup, external cron is primary)
+    - cron: '15 * * * *'
   workflow_dispatch:  # Allow manual trigger
 
 # Prevent concurrent runs — cancel old ones when new one starts
