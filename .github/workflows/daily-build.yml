@@ -12,7 +12,7 @@ concurrency:
   cancel-in-progress: true
 
 permissions:
-  contents: read
+  contents: write
   pages: write
   id-token: write
 
@@ -43,6 +43,20 @@ jobs:
 
       - name: Bundle fresh data into JS module
         run: node scripts/bundle-data.cjs
+
+      # Commit data back to repo — keeps repo active so GitHub never
+      # auto-disables this workflow after 60 days of inactivity
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add site/
+          if git diff --cached --quiet; then
+            echo "No data changes to commit"
+          else
+            git commit -m "auto: update news data $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
