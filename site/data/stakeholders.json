@@ -1,42 +1,82 @@
 {
-  "generatedAt": "2026-09-16T17:18:22.155Z",
+  "generatedAt": "2026-09-16T20:26:53.594Z",
   "date": "2026-09-17",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), market-performance (2 articles). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,",
+        "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a7"
+          "a1"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "supply-chain"
       },
       {
-        "text": "Platform & Ecosystem Partners: Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+        "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
         "articleIds": [
-          "a17"
+          "a6"
         ],
         "subCategory": "platform-partner"
       },
       {
-        "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "text": "Geopolitics & Export Controls: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,",
         "articleIds": [
-          "a21"
+          "a13"
         ],
-        "subCategory": "market-performance"
+        "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Customers & Partners: Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, a",
+        "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
         "articleIds": [
-          "a27"
+          "a26"
         ],
-        "subCategory": "customers-partners"
+        "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+      "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
+      "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T19:30:04.000Z",
+      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+      "id": "a1"
+    },
+    {
+      "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-edged-higher-amazon-opens-171713925.html?.tsrc=rss",
+      "description": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T17:17:13.000Z",
+      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+      "id": "a6"
+    },
     {
       "title": "A brief history of AI executives calling for regulation",
       "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
@@ -45,7 +85,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-16T12:00:00.000Z",
-      "fetchedAt": "2026-09-16T17:18:16.073Z",
+      "fetchedAt": "2026-09-16T20:26:48.208Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +96,7 @@
         "platform-partner"
       ],
       "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -66,7 +106,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T19:35:04.000Z",
-      "fetchedAt": "2026-09-16T17:18:10.412Z",
+      "fetchedAt": "2026-09-16T20:26:47.741Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -76,7 +116,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-      "id": "a17"
+      "id": "a22"
     },
     {
       "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
@@ -86,7 +126,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T16:55:33.000Z",
-      "fetchedAt": "2026-09-16T17:18:10.412Z",
+      "fetchedAt": "2026-09-16T20:26:47.741Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -97,7 +137,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-      "id": "a19"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -107,7 +147,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T14:11:10.000Z",
-      "fetchedAt": "2026-09-16T17:18:10.412Z",
+      "fetchedAt": "2026-09-16T20:26:47.741Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -117,48 +157,7 @@
         "platform-partner"
       ],
       "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-      "id": "a21"
-    },
-    {
-      "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
-      "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-15T04:11:25.000Z",
-      "fetchedAt": "2026-09-16T17:18:10.412Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
       "id": "a26"
-    },
-    {
-      "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
-      "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-15T02:09:16.000Z",
-      "fetchedAt": "2026-09-16T17:18:10.413Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
-      "id": "a27"
     },
     {
       "title": "When R&D Counts as a Domestic Industry",
@@ -168,7 +167,7 @@
       "sourceId": "patently-o",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T16:11:06.000Z",
-      "fetchedAt": "2026-09-16T17:18:19.487Z",
+      "fetchedAt": "2026-09-16T20:26:51.411Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -179,7 +178,7 @@
         "oem"
       ],
       "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-      "id": "a28"
+      "id": "a29"
     }
   ]
 }
