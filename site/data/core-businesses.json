@@ -1,15 +1,22 @@
 {
-  "generatedAt": "2026-07-08T08:11:16.708Z",
-  "date": "2026-07-08",
+  "generatedAt": "2026-09-16T12:08:56.363Z",
+  "date": "2026-09-16",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
+        "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
         "articleIds": [
-          "a6"
+          "a17"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something ",
+        "articleIds": [
+          "a20"
         ],
         "subCategory": "semiconductors"
       }
@@ -17,22 +24,40 @@
   },
   "articles": [
     {
-      "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
-      "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+      "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-over-3-mediatek-192722326.html?.tsrc=rss",
+      "description": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-07-06T15:21:51.000Z",
-      "fetchedAt": "2026-07-08T08:10:53.993Z",
+      "publishedAt": "2026-09-15T19:27:22.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
+      "id": "a17"
+    },
+    {
+      "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
+      "url": "https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/?.tsrc=rss",
+      "description": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T15:55:13.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
-      "id": "a6"
+      "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+      "id": "a20"
     }
   ]
 }

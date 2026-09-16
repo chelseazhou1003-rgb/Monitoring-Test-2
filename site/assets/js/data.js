@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,17 +13,24 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
+          "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
           "articleIds": [
-            "a6"
+            "a17"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something ",
+          "articleIds": [
+            "a20"
           ],
           "subCategory": "semiconductors"
         }
@@ -31,39 +38,120 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
-        "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+        "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-over-3-mediatek-192722326.html?.tsrc=rss",
+        "description": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-06T15:21:51.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
+        "publishedAt": "2026-09-15T19:27:22.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
+        "id": "a17"
+      },
+      {
+        "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
+        "url": "https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/?.tsrc=rss",
+        "description": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T15:55:13.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
-        "id": "a6"
+        "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+        "id": "a20"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+          "articleIds": [
+            "a9"
+          ],
+          "subCategory": "data-center"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+        "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
+        "description": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T03:18:41.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+        "id": "a9"
+      },
+      {
+        "title": "What Was Qualcomm Stock Telling You Before It Ran?",
+        "url": "https://www.trefis.com/articles/615363/what-was-qualcomm-stock-telling-you-before-it-ran/2026-09-15?.tsrc=rss",
+        "description": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T20:26:37.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.136Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+        "id": "a14"
+      },
+      {
+        "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html?.tsrc=rss",
+        "description": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture. On September […]",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T11:43:40.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture.",
+        "id": "a25"
+      }
+    ]
   },
   "ip-legal": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -73,15 +161,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-07-08T08:11:16.720Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.365Z",
+    "date": "2026-09-16",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 1,
-        "topHeadline": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-        "topHeadlineId": "a6",
-        "briefingSummary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia"
+        "articleCount": 2,
+        "topHeadline": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
+        "topHeadlineId": "a17",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -92,17 +180,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 3,
+        "topHeadline": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+        "topHeadlineId": "a9",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 5,
-        "topHeadline": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
+        "articleCount": 33,
+        "topHeadline": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (5 articles). A total of 5 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (4 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -113,121 +201,693 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 9,
+        "topHeadline": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
+        "topHeadlineId": "a16",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Customers & Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 6
+    "totalArticles": 47
   },
   "macro-environment": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans market-performance (5 articles). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (4 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "market-performance: QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its in",
+          "text": "Geopolitics & Export Controls: EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
           "articleIds": [
             "a1"
           ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "Customers & Partners: Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's ec",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "customers-partners"
+        },
+        {
+          "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage ",
+          "articleIds": [
+            "a12"
+          ],
           "subCategory": "market-performance"
+        },
+        {
+          "text": "Supply Chain: China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not ",
+          "articleIds": [
+            "a40"
+          ],
+          "subCategory": "supply-chain"
         }
       ]
     },
     "articles": [
       {
-        "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html?.tsrc=rss",
-        "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+        "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+        "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-07T22:09:57.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
+        "publishedAt": "2026-09-16T10:49:12.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
         "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+        "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
         "id": "a1"
       },
       {
-        "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html?.tsrc=rss",
-        "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+        "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+        "description": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-07T21:45:04.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
+        "publishedAt": "2026-09-16T08:00:27.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
         "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
+        "summary": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
         "id": "a2"
       },
       {
-        "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html?.tsrc=rss",
-        "description": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Trump has few good options to slow China’s rise as AI superpower - The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm1NQzYzaHBqVTVqNzlGTTN3WlJYcE9yLVNiY2g3alhNb0taWDdjS3I3YUg1UGlDNWZBaW9rYnEtV1FqTW9ndURxVVB4eWhoX00xRDdpeGJrWFM5eTlGSEVtRkRMVTZXZGhPbkNKNlBfbTV3SmsxV2VUTm5CTlZMRG1CRW10bExlM1Z1RUVucEc2MHkxTXc?oc=5",
+        "description": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-07T21:16:04.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-09-16T07:52:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Japan Times",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
+        "summary": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
         "id": "a3"
       },
       {
-        "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
-        "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong?.tsrc=rss",
-        "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Hong Kong Sets Five-Year Tech Goals",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-16/hong-kong-sets-five-year-tech-goals-video",
+        "description": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-07T15:19:07.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
+        "publishedAt": "2026-09-16T06:21:59.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.183Z",
         "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+        "summary": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy.",
         "id": "a4"
       },
       {
-        "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
-        "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect?.tsrc=rss",
-        "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+        "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTA3MzNFNW43RE1Tdk1GdEs3b1JJYWZoVFR3aTdxaDYwb2NtWnBENDRRcWFKa25QY243TmhjRi1YZTBPVDNUSXp4NUNNMktCLWNIdTVCTW9LU0k1UUVPS2ZBTW1KejNMS3BOTEd1dC1RdzVtektyTmlQY2JBbWJRdnlxaWs0Wnd1cVZoRHlwVk9MNG4zaHVxUVVJbDF5ZHE0V2tRRS0wQ3J1YUZYcVFIeEQtZk5CYnpLaVM4RFNRazF1LWxwcVhNNFMtQm8?oc=5",
+        "description": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T06:17:23.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "streamlinefeed.co.ke",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
+        "id": "a5"
+      },
+      {
+        "title": "Full Vision Capital on HK Five-Year Plan",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-16/full-vision-capital-on-hk-five-year-plan-video",
+        "description": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T05:58:43.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.183Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\".",
+        "id": "a6"
+      },
+      {
+        "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+        "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+        "description": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T04:01:59.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+        "id": "a7"
+      },
+      {
+        "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
+        "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNV0tXTW5GTm43Vm5mS0oyOW04cjgxdzlFbWFERi1sZk5KWmc1bk5wWUJ2ZTlKVlhQZkZMMTRtQmU0V21nT3FORmhtR29qMUdleHgwbHZTWWoyMWFRZHkzZnVjZVFXbllsVWpMamFqVi03M1RiLWNOZTE5d0RqVDNmZjIzc3hhMnVQOHZIOEV4QTNoNUx4dk5XU1I4Q0JQcnJISTRtOEZuamIwVFBDLVQ0X2V2a3lqXzRlS3dxQ3JaX1E4ZzNJNTZNQUx1MWZSTGo1R2wzTjFKM3BnTVprWXlTeEhTZUJCUm5wenAzZlV5dzBUcmZfLXNHUmkxTjctVG1MenBueVZmZ2VNU0ZDNzZ3eFdvT1A3WjZUUkw0TGlVNWhvbVQ4TUxXOHVSYWpUUHZfOHdzcg?oc=5",
+        "description": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday GK Today",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T03:42:04.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "GK Today",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
+        "id": "a8"
+      },
+      {
+        "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+        "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+        "description": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T22:06:16.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+        "id": "a10"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - cryptobriefing.com",
+        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkZlY0dVTXdUVWU2c0J0bmJjQ01FRXo0S3lIRjYzSDViME50S1duUjUyU1E1ZE1ZYUhwZW94M3F6NVNmRlRzSnF2Ti1NX3dCcU9hX2VuSGJTNy01TE4wVjBfek1ocUtSY3BpTUE2QQ?oc=5",
+        "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T21:40:11.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "cryptobriefing.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
+        "id": "a11"
+      },
+      {
+        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-213531687.html?.tsrc=rss",
+        "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-07-07T14:16:48.000Z",
-        "fetchedAt": "2026-07-08T08:10:53.993Z",
+        "publishedAt": "2026-09-15T21:35:31.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
         "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [],
-        "summary": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
-        "id": "a5"
+        "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+        "id": "a12"
+      },
+      {
+        "title": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. - The Daily Signal",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdoTlBTZU9FQTl5aVh0cGtZejM1MDNQaDY4dFRFeVVpTHFtbjhqaHo0RldzaWxyaGZqU0o4Y3V3S3IxZGczWnV0dzR4T2NsMFF1cHg4OXg2a0RmdXo0dzI2cm1mSXo5WXpnMWJaQTAtdERMVUFkV0VyWHRBR0IyNm5rZkNlRllLQ0d4X0loT0VJZw?oc=5",
+        "description": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. The Daily Signal",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T21:30:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Daily Signal",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right.",
+        "id": "a13"
+      },
+      {
+        "title": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect - The Eastern Herald",
+        "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaF9zR3FqdHBJS3Z4M3NwZjVGaWVZZ0pESkpJazQ0a2JvbUxvNHROWHhwQWVmZUFBTm4tX3dlM181Vnh5STBESTQ0QVFfclJVT1V4LTV4TERmaG8zRnNFUWJYX19qamRLbFVodlhwR2JmX2JOWWR0cHFvRFM1YmtQaGNoWDNtN3REdUpLR3ZUNnFVRER3a3M5aw?oc=5",
+        "description": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect The Eastern Herald",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T19:57:58.000Z",
+        "fetchedAt": "2026-09-16T12:08:56.332Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Eastern Herald",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect The Eastern Herald",
+        "id": "a15"
+      },
+      {
+        "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+        "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+        "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T19:13:30.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+        "id": "a18"
+      },
+      {
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-15T15:47:03.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.132Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "id": "a21"
+      },
+      {
+        "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
+        "url": "https://www.barchart.com/story/news/4613132/qualcomm-just-got-a-foothold-in-the-ai-data-center-race-how-to-play-qcom-stock-here?.tsrc=rss",
+        "description": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T14:11:10.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "id": "a22"
+      },
+      {
+        "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
+        "url": "https://www.eetimes.com/fcc-rule-on-optical-connectivity-could-slow-ai-race/",
+        "description": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
+        "source": "EE Times",
+        "sourceId": "eetimes",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-09-15T12:32:10.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.895Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
+        "id": "a23"
+      },
+      {
+        "title": "Applied Materials vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
+        "url": "https://www.fool.com/coverage/better-buy/2026/09/15/applied-materials-vs-qualcomm-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+        "description": "Applied Materials trades at a steep valuation premium, while Qualcomm's cheaper multiple masks exposure to customer concentration and geopolitical risk.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T12:05:01.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Applied Materials trades at a steep valuation premium, while Qualcomm's cheaper multiple masks exposure to customer concentration and geopolitical risk.",
+        "id": "a24"
+      },
+      {
+        "title": "Telenor faces charges over former Myanmar unit",
+        "url": "https://www.mobileworldlive.com/telenor/telenor-faces-charges-over-former-myanmar-unit/",
+        "description": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-09-15T10:50:10.000Z",
+        "fetchedAt": "2026-09-16T12:08:54.365Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
+        "id": "a26"
+      },
+      {
+        "title": "India Hardens Its Cyber Defenses",
+        "url": "https://www.eetimes.com/india-hardens-its-cyber-defenses/",
+        "description": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
+        "source": "EE Times",
+        "sourceId": "eetimes",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-09-15T07:11:27.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.895Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
+        "id": "a27"
+      },
+      {
+        "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+        "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T04:11:25.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
+        "id": "a28"
+      },
+      {
+        "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
+        "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T02:09:16.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+        "id": "a29"
+      },
+      {
+        "title": "When R&D Counts as a Domestic Industry",
+        "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
+        "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "source": "Patently-O",
+        "sourceId": "patently-o",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T16:11:06.000Z",
+        "fetchedAt": "2026-09-16T12:08:53.914Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "id": "a31"
+      },
+      {
+        "title": "AI chiefs support frontier slowdown; Trump, China push back",
+        "url": "https://www.mobileworldlive.com/ai-cloud/ai-chiefs-back-frontier-slowdown-trump-china-push-back/",
+        "description": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-09-14T11:06:27.000Z",
+        "fetchedAt": "2026-09-16T12:08:54.365Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
+        "id": "a32"
+      },
+      {
+        "title": "China’s maturing GI regime raises the stakes for foreign brands",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-maturing-gi-regime-raises-the-stakes-foreign-brands",
+        "description": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:01.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
+        "id": "a33"
+      },
+      {
+        "title": "Securing patent protection for generative-AI inventions amid unprecedented global investment and newly implemented reform to examination guidelines",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/securing-patent-protection-generative-ai-inventions-amid-unprecedented-global-investment-and-newly-implemented-reform-examination-guidelines",
+        "description": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:01.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
+        "id": "a34"
+      },
+      {
+        "title": "China's use-based trademark reforms overhaul foreign brand protection",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-use-based-trademark-reforms-overhaul-foreign-brand-protection",
+        "description": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:01.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
+        "id": "a35"
+      },
+      {
+        "title": "China draws the line between lawful product repair and trademark infringement",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/china-draws-the-line-between-lawful-product-repair-and-trademark-infringement",
+        "description": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
+        "id": "a36"
+      },
+      {
+        "title": "China makes drug trial data protection a commercial lever",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/china-makes-drug-trial-data-protection-commercial-lever",
+        "description": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
+        "id": "a37"
+      },
+      {
+        "title": "China’s e-commerce boom drives fresh urgency for online brand protection",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-e-commerce-boom-drives-fresh-urgency-online-brand-protection",
+        "description": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
+        "id": "a38"
+      },
+      {
+        "title": "From volume to value: China’s patent pivot rewards quality over filing volume",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/volume-value-chinas-patent-pivot-rewards-quality-over-filing-volume",
+        "description": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
+        "id": "a39"
+      },
+      {
+        "title": "Managing infringement risks across the supply chain",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/managing-infringement-risks-across-the-supply-chain",
+        "description": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T07:00:00.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
+        "id": "a40"
+      },
+      {
+        "title": "How royalty determination is evolving in China and key takeaways for litigants",
+        "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/how-royalty-determination-evolving-in-china-and-key-takeaways-litigants",
+        "description": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T06:10:44.000Z",
+        "fetchedAt": "2026-09-16T12:08:52.560Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
+        "id": "a41"
       }
     ]
   },
@@ -275,6 +935,20 @@ export const NEWS_DATA = {
       "hasRss": true
     },
     {
+      "id": "fortune",
+      "name": "Fortune",
+      "group": "finance",
+      "groupLabel": "Finance / Mainstream",
+      "hasRss": false
+    },
+    {
+      "id": "geopolitics",
+      "name": "Geopolitics",
+      "group": "finance",
+      "groupLabel": "Finance / Mainstream",
+      "hasRss": false
+    },
+    {
       "id": "the-information",
       "name": "The Information",
       "group": "tech",
@@ -303,6 +977,13 @@ export const NEWS_DATA = {
       "hasRss": true
     },
     {
+      "id": "datacenter-dynamics",
+      "name": "Data Center Dynamics",
+      "group": "tech",
+      "groupLabel": "Technology",
+      "hasRss": true
+    },
+    {
       "id": "eetimes",
       "name": "EE Times",
       "group": "semiconductor",
@@ -326,6 +1007,13 @@ export const NEWS_DATA = {
     {
       "id": "silicon-semiconductor",
       "name": "Silicon Semiconductor",
+      "group": "semiconductor",
+      "groupLabel": "Semiconductor",
+      "hasRss": true
+    },
+    {
+      "id": "qualcomm-newsroom",
+      "name": "Qualcomm Newsroom",
       "group": "semiconductor",
       "groupLabel": "Semiconductor",
       "hasRss": true
@@ -395,1493 +1083,254 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-07-08T08:11:16.708Z",
-    "date": "2026-07-08",
+    "generatedAt": "2026-09-16T12:08:56.363Z",
+    "date": "2026-09-16",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Customers & Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "Platform & Ecosystem Partners: Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+          "articleIds": [
+            "a16"
+          ],
+          "subCategory": "platform-partner"
+        },
+        {
+          "text": "Customers & Partners: Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+          "articleIds": [
+            "a18"
+          ],
+          "subCategory": "customers-partners"
+        },
+        {
+          "text": "Geopolitics & Export Controls: OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+          "articleIds": [
+            "a21"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+          "articleIds": [
+            "a22"
+          ],
+          "subCategory": "market-performance"
+        }
+      ]
     },
-    "articles": []
-  },
-  "archive-2026-06-24": {
-    "generatedAt": "2026-06-24T07:00:00.000Z",
-    "date": "2026-06-24",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-06-24T19:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm rolls out AI data center CPU Dragonfly C1000, signs Meta as major customer",
-            "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-            "description": "Qualcomm revealed a CPU for data centers called Dragonfly C1000, and said Meta would use it when it starts production in 2028. The company also raised its non-handset revenue forecast to $40 billion by fiscal 2029, nearly doubling a prior estimate. Qualcomm stock popped 15% after the announcement.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T19:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          },
-          {
-            "title": "Qualcomm to Acquire Modular AI Software Company for $3.9 Billion",
-            "url": "https://www.cnbc.com/2026/06/24/qualcomm-ai-chip-modular-software.html",
-            "description": "Qualcomm announced the acquisition of Modular Inc. for approximately $3.9 billion in stock. The startup makes software enabling AI applications to run on a broad range of chip architectures, positioning Qualcomm to compete with Nvidia's CUDA platform.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T18:30:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          },
-          {
-            "title": "Qualcomm Accelerates Diversification with Comprehensive Data Center Strategy",
-            "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-accelerates-diversification-with-comprehensive-strategy",
-            "description": "Qualcomm is accelerating diversification with a comprehensive data center strategy targeting multiple growth inflection points over the next 3–5 years, including Dragonfly C1000 CPU, AI accelerators, and connectivity solutions for hyperscalers.",
-            "source": "Qualcomm Newsroom",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-24T18:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          },
-          {
-            "title": "Qualcomm to buy startup Modular for $4 billion in AI software push",
-            "url": "https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/",
-            "description": "Qualcomm said it would buy AI startup Modular in an all-stock deal valued at nearly $4 billion, gaining access to software that runs AI models across chips without having to write code for each processor. The acquisition strengthens Qualcomm's position against Nvidia's CUDA ecosystem.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T18:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "semiconductors"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-06-24T20:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Takes Aim at Nvidia with Data Center AI Push and Modular Acquisition",
-            "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-            "description": "Qualcomm announced its Dragonfly data center portfolio, directly challenging Nvidia's dominance in AI infrastructure. The $3.9B Modular acquisition provides a CUDA alternative. CEO Cristiano Amon said: \"It's never too late for Qualcomm\" in the data center market.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T20:00:00.000Z",
-            "section": "competitors",
-            "subCategory": "nvidia"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-06-24T19:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm's Ann Chaplin says 6G SEP value will hinge on foundational innovation, not portfolio size",
-            "url": "https://www.iam-media.com/article/qualcomms-ann-chaplin-says-6g-sep-value-will-hinge-foundational-innovation-not-portfolio-size",
-            "description": "Speaking at IPBC Global 2026 in San Diego, Qualcomm General Counsel Ann Cathcart Chaplin delivered a keynote arguing that 6G standard-essential patent value will be determined by foundational R&D and standards participation rather than sheer patent volume. Her remarks come as the 3GPP Rel-21 timeline sets the stage for the first 6G standard.",
-            "source": "IAM",
-            "sourceId": "iam-media",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-06-24T14:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-24T20:44:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm stock pops 15% after chipmaker almost doubles projection for 2029 non-handset revenue",
-            "url": "https://www.cnbc.com/2026/06/24/qualcomm-data-center-cpu-meta.html",
-            "description": "Qualcomm shares jumped 15% in extended trading after the chipmaker said non-handset revenue in fiscal 2029 will be $40 billion, up from a prior forecast of $22 billion. The company targets $15 billion in data center sales and over $18 adjusted EPS by 2029.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T20:44:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          },
-          {
-            "title": "Qualcomm forecasts $15 billion data center chip sales by 2029, shares soar",
-            "url": "https://www.reuters.com/business/retail-consumer/qualcomm-bets-ai-chips-break-smartphone-reliance-faces-crowded-race-2026-06-24/",
-            "description": "Qualcomm said it expects to generate $15 billion in sales from its data center business by 2029 as it moves beyond its core smartphone chips, sending shares more than 12% higher in after-hours trading. The company also raised its non-handset revenue target to $40 billion.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T19:30:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          },
-          {
-            "title": "Micron and Qualcomm forecasts ignite $400 billion AI chip stock rally",
-            "url": "https://www.reuters.com/business/micron-qualcomm-forecasts-ignite-400-billion-ai-chip-stock-rally-2026-06-24/",
-            "description": "Shares of chipmakers surged late on Wednesday, adding over $400 billion in market value after strong forecasts from Micron Technology and Qualcomm breathed fresh life into Wall Street's recently waning AI stock rally.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T20:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
+    "articles": [
+      {
+        "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumps-amazon-ai-193504527.html?.tsrc=rss",
+        "description": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T19:35:04.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm in talks to provide custom chip-design services to ByteDance, sources say",
-            "url": "https://www.reuters.com/world/china/qualcomm-talks-provide-custom-chip-design-services-bytedance-sources-say-2026-06-24/",
-            "description": "Qualcomm is in talks to provide chip-design services to China's ByteDance, four people familiar with the matter said, as the U.S. company seeks to reduce dependence on the smartphone market. The deal would mark a significant expansion of Qualcomm's custom silicon business.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-24T20:30:00.000Z",
-            "section": "stakeholders",
-            "subCategory": "csp-partners"
-          }
-        ]
-      }
-    },
-    "totalArticles": 10
-  },
-  "archive-2026-06-25": {
-    "generatedAt": "2026-06-25T07:00:00.000Z",
-    "date": "2026-06-25",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-06-25T16:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+        "id": "a16"
       },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-06-25T16:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "IAM Sunday Digest: IPBC Global wraps in San Diego; Qualcomm's Ann Chaplin on 6G SEP value; Oppo bags Asus injunction",
-            "url": "https://www.iam-media.com/article/iam-sunday-digest-ipbc-global-oppo-bags-asus-injunction-may-us-patent-transactions-nokia-lenovo-patent-licence-pct-data-dive-plus-much-more",
-            "description": "IPBC Global 2026 concluded in San Diego with record attendance. Qualcomm General Counsel Ann Chaplin argued that 6G SEP value will hinge on foundational innovation, not raw patent counts. The digest also covers Huawei's Wi-Fi 7 licensing rates, Oppo's injunction against Asus, and Nokia-Lenovo patent renewal.",
-            "source": "IAM",
-            "sourceId": "iam-media",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-06-25T12:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          },
-          {
-            "title": "Qualcomm Hit With Second Redstone Patent Suit Over Core Design",
-            "url": "https://news.bloomberglaw.com/litigation/qualcomm-hit-with-second-redstone-patent-suit-over-core-design",
-            "description": "Redstone Logics filed a second federal lawsuit against Qualcomm in the Western District of Texas, alleging the chipmaker's new Oryon architecture infringes patents covering inter-core communication methods. This follows a prior suit and adds to Qualcomm's growing patent defense docket.",
-            "source": "Bloomberg Law",
-            "sourceId": "bloomberg-law",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-06-25T14:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-25T15:58:00.000Z",
-        "date": "",
+      {
+        "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+        "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+        "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T19:13:30.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.058Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm jumps on $15 billion data center sales projection",
-            "url": "https://www.mercurynews.com/2026/06/25/qualcomm-jumps-on-15-billion-data-center-sales-projection/",
-            "description": "Qualcomm shares gained as much as 11% after forecasting $15 billion in AI data center sales by fiscal 2029. CEO Cristiano Amon said the shift to AI agents provides an opening for Qualcomm's low-power technology. The company projects $10 billion in automotive chip sales by FY29.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-25T15:58:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          },
-          {
-            "title": "Qualcomm Plans China AI Chip Push with Export-Control Compliant Custom Chips",
-            "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
-            "description": "Qualcomm unveiled a comprehensive data center portfolio and said it will develop export-control-compliant versions of its data center chips for the Chinese market. CEO Amon confirmed Qualcomm can serve China without triggering US export restrictions.",
-            "source": "TrendForce",
-            "sourceId": "trendforce",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-25T12:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "geopolitics-trade"
-          },
-          {
-            "title": "Wall St ends mixed as tech megacap declines outweigh upbeat chip outlook",
-            "url": "https://www.reuters.com/business/nasdaq-futures-jump-2-micron-qualcomm-forecasts-relieve-investors-2026-06-25/",
-            "description": "The Nasdaq closed lower on Thursday, dragged down by losses in Big Tech shares, while the S&P 500 closed near flat and the Dow closed higher. Strong forecasts from Micron and Qualcomm had initially boosted chip stocks before broader market caution took hold.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-25T22:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          },
-          {
-            "title": "Global chip stocks jump as blowout Micron results reignite AI rally",
-            "url": "https://www.reuters.com/world/asia-pacific/south-korean-chip-shares-rally-after-microns-upbeat-earnings-2026-06-25/",
-            "description": "Global chip stocks surged on Thursday after Micron Technology's blockbuster results reignited the AI-driven rally. Qualcomm also benefited from the positive sentiment following its Investor Day data center announcements and raised revenue targets.",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-25T21:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+        "id": "a18"
       },
-      "stakeholders": {
-        "generatedAt": "2026-06-25T16:00:00.000Z",
-        "date": "",
+      {
+        "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
+        "url": "https://247wallst.com/investing/2026/09/15/ive-started-accumulating-qualcomm-and-it-isnt-because-of-amazon-and-meta/?.tsrc=rss",
+        "description": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T16:55:33.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm and Meta Announce Strategic Multi-Generation Agreement on Data Center CPUs",
-            "url": "https://www.qualcomm.com/news/releases/2026/06/qualcomm-and-meta-announce-strategic-multi-generation-agreement-",
-            "description": "Qualcomm and Meta announced a multi-generation strategic agreement for Qualcomm's Dragonfly C1000 data center CPU to power Meta's next-generation server fleet. CEO Cristiano Amon described Meta as a foundational data center customer, marking one of the largest hyperscaler wins for Qualcomm's ambitions beyond mobile.",
-            "source": "Qualcomm Newsroom",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-25T15:00:00.000Z",
-            "section": "stakeholders",
-            "subCategory": "csp-partners"
-          }
-        ]
-      }
-    },
-    "totalArticles": 7
-  },
-  "archive-2026-06-26": {
-    "generatedAt": "2026-06-26T07:00:00.000Z",
-    "date": "2026-06-26",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+        "id": "a19"
       },
-      "competitors": {
-        "generatedAt": "2026-06-26T14:30:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm vs Nvidia: Can the Smartphone King Conquer the Data Center?",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Analysis of Qualcomm's ambitious plans to challenge Nvidia in data center AI chips. While the $15B target is bold, Qualcomm faces significant hurdles: Nvidia's entrenched CUDA ecosystem, Broadcom's custom silicon dominance, and the 2-year gap before Dragonfly C1000 production.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T14:30:00.000Z",
-            "section": "competitors",
-            "subCategory": "nvidia"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-06-26T15:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm's Data Center Ambitions Signal Major AI Infrastructure Play",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Qualcomm's data center push represents a major expansion beyond mobile chips. With Dragonfly C1000 CPU, HBC memory-on-compute technology, AI accelerators, and the Modular software acquisition, Qualcomm is building a full-stack AI data center platform targeting a $200B CPU TAM and $1T+ AI infrastructure market.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T15:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-06-26T16:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "高通总法律顾问卓安琳：6G SEP价值取决于基础创新，而非专利组合规模",
-            "url": "https://www.ipeconomy.cn/yuanchuang/10976.html",
-            "description": "IPBC Global 2026大会上，高通总法律顾问卓安琳（Ann Chaplin）发表主题演讲，指出6G标准必要专利的价值将取决于长期研发投入和在标准制定中的实质性贡献，而非专利数量本身。她强调高通30多年持续投入6G研发，推动基础技术创新。",
-            "source": "知产财经",
-            "sourceId": "ipeconomy",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-06-26T10:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-26T14:00:00.000Z",
-        "date": "",
+      {
+        "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+        "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+        "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-15T15:47:03.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.132Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Just Promised $15 Billion in AI Chip Sales, but There's a Catch — The Chips Don't Exist Yet",
-            "url": "https://247wallst.com/investing/2026/06/26/qualcomm-just-promised-15-billion-in-ai-chip-sales-but-theres-a-catch-the-chips-dont-exist-yet/",
-            "description": "Qualcomm promised over $15 billion in annual data center AI chip sales by fiscal 2029, alongside a $40 billion non-handset revenue target and adjusted EPS above $18. However, the Dragonfly C1000 CPU won't enter production until 2028, raising questions about execution risk.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-26T14:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "id": "a21"
       },
-      "stakeholders": {
-        "generatedAt": "2026-06-26T16:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm and Huawei End Long-Running Licensing Spat with Renewed Patent Agreement",
-            "url": "https://www.techbloat.com/qualcomm-and-huawei-end-licensing-spat.html",
-            "description": "Qualcomm and Huawei resolved their long-running licensing dispute through a renewed patent agreement that allows Huawei to continue using Qualcomm's cellular technology portfolio. The deal, announced in late May 2026, restores a key licensing relationship amid ongoing US-China technology tensions.",
-            "source": "TechBloat",
-            "sourceId": "techbloat",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-06-26T12:00:00.000Z",
-            "section": "stakeholders",
-            "subCategory": "oem-partners"
-          }
-        ]
-      }
-    },
-    "totalArticles": 5
-  },
-  "archive-2026-06-27": {
-    "generatedAt": "2026-06-27T07:00:00.000Z",
-    "date": "2026-06-27",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-06-27T12:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm's big AI gamble: Breaking Nvidia's chips stronghold",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "Fortune profiles CEO Cristiano Amon's five-year plan to challenge Nvidia's dominance in AI data center chips. With endorsements from Meta's Zuckerberg and Microsoft's Nadella, Qualcomm unveiled its Dragonfly C1000 CPU and AI accelerators. Amon dismisses concerns about being late: \"It's never too late for Qualcomm.\"",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T12:00:00.000Z",
-            "section": "competitors",
-            "subCategory": "nvidia"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-06-27T13:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm's Modular Acquisition: Building an Alternative to Nvidia CUDA",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "The $3.9B Modular acquisition gives Qualcomm a software platform to compete with Nvidia's CUDA. Modular's technology allows AI applications to run across heterogeneous chip architectures, potentially weakening Nvidia's software ecosystem lock-in.",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T13:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-27T12:30:00.000Z",
-        "date": "",
+      {
+        "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
+        "url": "https://www.barchart.com/story/news/4613132/qualcomm-just-got-a-foothold-in-the-ai-data-center-race-how-to-play-qcom-stock-here?.tsrc=rss",
+        "description": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T14:11:10.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm's $40 Billion Diversification Bet: Beyond Smartphones",
-            "url": "https://fortune.com/2026/06/27/qualcomm-nvidia-ai-data-center-chips/",
-            "description": "Qualcomm projects $40 billion in non-handset revenue by FY29, doubling its prior forecast. The ambitious plan spans data center CPUs, AI accelerators, automotive chips ($10B target), and IoT. The strategy marks Qualcomm's biggest pivot since entering the mobile chip market.",
-            "source": "Fortune",
-            "sourceId": "fortune",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-27T12:30:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "id": "a22"
       },
-      "stakeholders": {
-        "generatedAt": "2026-06-27T16:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Stellantis and Qualcomm Expand Partnership to Adopt Snapdragon Digital Chassis Across 14 Brands",
-            "url": "https://www.stellantis.com/en/news/press-releases/2026/may/stellantis-and-qualcomm-expand-partnership-to-adopt-snapdragon-digital-chassis-driver-assistance-cockpit-and-connectivity-platforms-across-next-generation-vehicle-architectures",
-            "description": "Stellantis and Qualcomm expanded their multi-year technology collaboration to deploy Snapdragon Digital Chassis — including driver assistance, cockpit, and connectivity platforms — across Stellantis's 14-vehicle-brand portfolio. The deal positions Qualcomm as a key automotive silicon partner for one of the world's largest automakers.",
-            "source": "Stellantis / Qualcomm",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-27T10:00:00.000Z",
-            "section": "stakeholders",
-            "subCategory": "automotive-partners"
-          }
-        ]
-      }
-    },
-    "totalArticles": 4
-  },
-  "archive-2026-06-28": {
-    "generatedAt": "2026-06-28T07:00:00.000Z",
-    "date": "2026-06-28",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-28T10:00:00.000Z",
-        "date": "",
+      {
+        "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+        "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T04:11:25.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
+        "id": "a28"
       },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 0
-  },
-  "archive-2026-06-29": {
-    "generatedAt": "2026-06-29T07:00:00.000Z",
-    "date": "2026-06-29",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-06-29T16:00:00.000Z",
-        "date": "",
+      {
+        "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
+        "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T02:09:16.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Price Prediction: The Forecast Is Far More Bullish Than Analysts",
-            "url": "https://247wallst.com/investing/2026/06/29/qualcomm-price-prediction-the-forecast-is-far-more-bullish-than-analysts/",
-            "description": "The 24/7 Wall St. price target for Qualcomm is $257.53, pointing to roughly 25.69% upside over the next 12 months with a 90% confidence read. The recommendation is buy, driven by the data center expansion and automotive pipeline.",
-            "source": "24/7 Wall St",
-            "sourceId": "247wallst",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-06-29T16:00:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+        "id": "a29"
       },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
+      {
+        "title": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
+        "url": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-6-8-231928896.html?.tsrc=rss",
+        "description": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-14T23:19:28.000Z",
+        "fetchedAt": "2026-09-16T12:08:50.135Z",
+        "fetchStrategy": "rss",
         "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 1
-  },
-  "archive-2026-06-30": {
-    "generatedAt": "2026-06-30T07:00:00.000Z",
-    "date": "2026-06-30",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-06-29T20:41:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Building the 6G Standard: What 3GPP's June 2026 Plenary Decisions Mean for Device Makers",
-            "url": "https://www.publicnow.com/view/BAC26992E37D84D81D0B7E7772702B78C189C8AE",
-            "description": "Qualcomm outlines what 3GPP's June 2026 plenary decisions mean for device makers as the industry moves toward 6G standardization. The decisions set the foundation for next-generation wireless technology with AI-native architecture.",
-            "source": "Qualcomm Newsroom",
-            "sourceId": "qualcomm-newsroom",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-29T20:41:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "wireless"
-          }
-        ]
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+        "id": "a30"
       },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-06-30T16:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "哪些6G专利价值更高？高通总法律顾问：关键在于能否成为技术标准的基础创新",
-            "url": "https://www.ithome.com/0/970/702.htm",
-            "description": "高通总法律顾问卓安琳在IPBC Global 2026大会上表示，当前正是6G标准制定的关键时刻。3GPP Rel-21作为首个6G标准版本，其时间表的确定为产业链提供了研发锚点。她认为6G专利的真正价值将取决于其是否是标准的基础创新，而非纳入标准的专利数量多少。",
-            "source": "IT之家",
-            "sourceId": "ithome",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-06-30T09:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
+      {
+        "title": "When R&D Counts as a Domestic Industry",
+        "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
+        "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "source": "Patently-O",
+        "sourceId": "patently-o",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-14T16:11:06.000Z",
+        "fetchedAt": "2026-09-16T12:08:53.914Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "id": "a31"
       }
-    },
-    "totalArticles": 2
+    ]
   },
-  "archive-2026-07-01": {
-    "generatedAt": "2026-07-01T07:00:00.000Z",
-    "date": "2026-07-01",
+  "archive-2026-09-16": {
+    "generatedAt": "2026-09-16T12:08:56.365Z",
+    "date": "2026-09-16",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-07-01T14:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Signs Two Hyperscaler Deals for Custom Data Center Silicon",
-            "url": "https://www.datacenterdynamics.com/en/news/qualcomm-signs-two-hyperscaler-deals-for-custom-data-center-silicon/",
-            "description": "Qualcomm confirmed it has secured two deals to make custom silicon chips for major hyperscale cloud providers, expanding beyond the previously announced Meta partnership. The deals represent a significant validation of Qualcomm's data center strategy.",
-            "source": "Data Center Dynamics",
-            "sourceId": "datacenter-dynamics",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-07-01T14:00:00.000Z",
-            "section": "growth-areas",
-            "subCategory": "data-center"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-07-01T10:00:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-07-01T16:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Plans Export-Control-Compliant Custom Chips for Chinese Market",
-            "url": "https://www.trendforce.com/news/2026/06/25/news-qualcomm-reportedly-plans-china-ai-chip-push-with-export-control-compliant-custom-chips/",
-            "description": "Following its Investor Day announcements, Qualcomm confirmed it will develop export-control-compliant data center chips for the Chinese market. CEO Cristiano Amon said Qualcomm can serve China without triggering US export restrictions, positioning the company to capitalize on China's AI infrastructure buildout while navigating geopolitical constraints.",
-            "source": "TrendForce",
-            "sourceId": "trendforce",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-07-01T10:00:00.000Z",
-            "section": "stakeholders",
-            "subCategory": "csp-partners"
-          }
-        ]
-      }
-    },
-    "totalArticles": 2
-  },
-  "archive-2026-07-02": {
-    "generatedAt": "2026-07-02T07:00:00.000Z",
-    "date": "2026-07-02",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-07-02T12:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Smartphone Chip Market Faces Headwinds as Memory Shortages Persist into H2 2026",
-            "url": "https://www.cnbc.com/2026/02/27/smartphone-market-poised-for-sharpest-decline-on-record-in-2026.html",
-            "description": "The global smartphone chip market continues to face pressure from memory component shortages and declining unit shipments. Qualcomm's diversification into data center and automotive is increasingly seen as a necessary hedge against handset market weakness.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-07-02T12:00:00.000Z",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 1
-  },
-  "archive-2026-07-03": {
-    "generatedAt": "2026-07-03T07:00:00.000Z",
-    "date": "2026-07-03",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-07-03T10:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 0
-  },
-  "archive-2026-07-04": {
-    "generatedAt": "2026-07-04T07:00:00.000Z",
-    "date": "2026-07-04",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-07-04T16:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "IPBC Global 2026: IAM's photo highlights from San Diego",
-            "url": "https://www.iam-media.com/article/ipbc-global-2026-iams-photo-highlights",
-            "description": "IAM publishes photo highlights from IPBC Global 2026 in San Diego, featuring keynote speakers including USPTO Director John Squires and Qualcomm GC Ann Chaplin. The record-breaking event brought together the world's top IP leaders to discuss the future of patent value creation.",
-            "source": "IAM",
-            "sourceId": "iam-media",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-07-04T10:00:00.000Z",
-            "section": "ip-legal",
-            "subCategory": "qualcomm-ip"
-          }
-        ]
-      },
-      "macro-environment": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 1
-  },
-  "archive-2026-07-05": {
-    "generatedAt": "2026-07-05T07:00:00.000Z",
-    "date": "2026-07-05",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 0
-  },
-  "archive-2026-07-06": {
-    "generatedAt": "2026-07-06T07:00:00.000Z",
-    "date": "2026-07-06",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "ip-legal": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-07-06T21:45:00.000Z",
-        "date": "",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Stock Dips as Tech Sell-Off Weighs on Semiconductor Sector",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html",
-            "description": "Qualcomm (QCOM) closed lower amid a broader tech sell-off as investors rotated out of semiconductor stocks. The stock has depreciated 14.37% over the past month, underperforming the S&P 500. Attention turns to the upcoming Q3 earnings release.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-07-06T21:45:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          },
-          {
-            "title": "Qualcomm's Q3 2026 Earnings: What to Expect",
-            "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect",
-            "description": "Qualcomm is set to release its fiscal Q3 earnings this month. The report will be closely watched for handset, automotive and IoT segment guidance amid memory supply headwinds and the company's ambitious data center expansion plans.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-07-06T14:16:00.000Z",
-            "section": "macro-environment",
-            "subCategory": "market-performance"
-          }
-        ]
-      },
-      "stakeholders": {
-        "generatedAt": "2026-01-01T00:00:00.000Z",
-        "date": "",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 2
-  },
-  "archive-2026-07-07": {
-    "generatedAt": "2026-07-07T10:19:16.360Z",
-    "date": "2026-07-07",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "One article today covering IoT & XR. Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software fo",
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "IoT & XR: Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data",
+              "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
               "articleIds": [
-                "a1"
+                "a17"
               ],
-              "subCategory": "iot-xr"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm to Acquire Modular",
-            "url": "https://www.semiconductor-digest.com/qualcomm-to-acquire-modular/?utm_source=rss&utm_medium=rss&utm_campaign=qualcomm-to-acquire-modular",
-            "description": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
-            "source": "Semiconductor Digest",
-            "sourceId": "semiconductor-digest",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-06-24T21:13:55.000Z",
-            "fetchedAt": "2026-07-07T10:19:05.173Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "iot-xr",
-            "subLabel": "IoT & XR",
-            "competitors": [],
-            "stakeholders": [
-              "industry-assoc"
-            ],
-            "summary": "Qualcomm Incorporated today announced that it has reached an agreement to acquire Modular Inc, strengthening Qualcomm Technologies, Inc.’s software foundation for generative and agentic AI across data center and edge environments. The post Qualcomm to Acquire Modular appeared first on Semiconductor Digest.",
-            "id": "a1"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "macro-environment",
-        "sectionTitle": "Macro Environment",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "competitors": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-07-07T10:19:16.358Z",
-        "date": "2026-07-07",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      }
-    },
-    "totalArticles": 1
-  },
-  "archive-2026-07-08": {
-    "generatedAt": "2026-07-08T08:11:16.725Z",
-    "date": "2026-07-08",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "One article today covering Semiconductors. Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potentia",
-          "keyTakeaways": [
+              "subCategory": "mobile-chips"
+            },
             {
-              "text": "Semiconductors: Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in art",
+              "text": "Semiconductors: Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something ",
               "articleIds": [
-                "a6"
+                "a20"
               ],
               "subCategory": "semiconductors"
             }
@@ -1889,28 +1338,46 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Qualcomm (QCOM) Is In Talks To Buy Modular For $4 Billion",
-            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-talks-buy-modular-152151822.html?.tsrc=rss",
-            "description": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
+            "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-over-3-mediatek-192722326.html?.tsrc=rss",
+            "description": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-06T15:21:51.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
+            "publishedAt": "2026-09-15T19:27:22.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
+            "id": "a17"
+          },
+          {
+            "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
+            "url": "https://247wallst.com/investing/2026/09/15/smartphone-chip-stocks-rally-while-large-cap-technology-slips-skyworks-jumps-11-qorvo-rises-7-qualcomm-climbs-4/?.tsrc=rss",
+            "description": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T15:55:13.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
             "subLabel": "Semiconductors",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Qualcomm is reportedly in advanced talks to acquire AI infrastructure software company Modular Inc. in a transaction valued at about $4b. The potential deal would expand Qualcomm's capabilities in artificial intelligence software and infrastructure. The transaction, if completed, would mark a major move by Qualcomm to deepen its role in AI beyond its existing hardware footprint. QUALCOMM (NasdaqGS:QCOM) is drawing fresh attention as it considers a roughly $4b acquisition of Modular Inc., a...",
-            "id": "a6"
+            "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
+            "id": "a20"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
@@ -1920,129 +1387,764 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans market-performance (5 articles). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "market-performance: QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its in",
+              "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
               "articleIds": [
-                "a1"
+                "a9"
               ],
-              "subCategory": "market-performance"
+              "subCategory": "data-center"
             }
           ]
         },
         "articles": [
           {
-            "title": "Qualcomm (QCOM) Stock Looks Fairly Valued After Fresh AI Demand News",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-220957120.html?.tsrc=rss",
-            "description": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+            "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+            "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
+            "description": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-07T22:09:57.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
+            "publishedAt": "2026-09-16T03:18:41.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
             "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
             "competitors": [],
             "stakeholders": [],
-            "summary": "QUALCOMM’s share price has climbed over the past few years, yet the valuation picture is more balanced, with the Discounted Cash Flow (DCF) estimate suggesting the stock is roughly in line with its intrinsic value while earnings-based multiples screen it as undervalued. QUALCOMM has returned 67.1% over the last 3 years, which puts recent weakness into context for investors looking at the longer trend. Excitement around QUALCOMM’s push into AI related chips and partnerships can support...",
+            "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+            "id": "a9"
+          },
+          {
+            "title": "What Was Qualcomm Stock Telling You Before It Ran?",
+            "url": "https://www.trefis.com/articles/615363/what-was-qualcomm-stock-telling-you-before-it-ran/2026-09-15?.tsrc=rss",
+            "description": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T20:26:37.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.136Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+            "id": "a14"
+          },
+          {
+            "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html?.tsrc=rss",
+            "description": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture. On September […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T11:43:40.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture.",
+            "id": "a25"
+          }
+        ]
+      },
+      "macro-environment": {
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (4 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Customers & Partners: Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's ec",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage ",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Supply Chain: China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not ",
+              "articleIds": [
+                "a40"
+              ],
+              "subCategory": "supply-chain"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+            "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
+            "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T10:49:12.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
             "id": "a1"
           },
           {
-            "title": "Qualcomm (QCOM) Falls More Steeply Than Broader Market: What Investors Need to Know",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-falls-more-steeply-214504109.html?.tsrc=rss",
-            "description": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
+            "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
+            "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
+            "description": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-07T21:45:04.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
+            "publishedAt": "2026-09-16T08:00:27.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
             "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Qualcomm (QCOM) closed at $182.97 in the latest trading session, marking a -1.88% move from the prior day.",
+            "summary": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
             "id": "a2"
           },
           {
-            "title": "QUALCOMM (QCOM) Leaves Russell Growth Indexes, Is The Stock Cheap Or Pricey?",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-leaves-russell-growth-211604841.html?.tsrc=rss",
-            "description": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
+            "title": "Trump has few good options to slow China’s rise as AI superpower - The Japan Times",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm1NQzYzaHBqVTVqNzlGTTN3WlJYcE9yLVNiY2g3alhNb0taWDdjS3I3YUg1UGlDNWZBaW9rYnEtV1FqTW9ndURxVVB4eWhoX00xRDdpeGJrWFM5eTlGSEVtRkRMVTZXZGhPbkNKNlBfbTV3SmsxV2VUTm5CTlZMRG1CRW10bExlM1Z1RUVucEc2MHkxTXc?oc=5",
+            "description": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-07T21:16:04.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-09-16T07:52:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Japan Times",
+            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "QUALCOMM (QCOM) has just been removed from several Russell growth and defensive indices, a mechanical shift that can affect passive fund flows and how the stock is grouped alongside other semiconductor and AI companies. See our latest analysis for QUALCOMM. QUALCOMM’s latest index removals come after a strong run, with the stock posting a 50.30% 90 day share price return but giving back some ground with a 13.64% 30 day share price decline, while the 1 year total shareholder return stands at...",
+            "summary": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
             "id": "a3"
           },
           {
-            "title": "Facing Potential Smartphone Weakness and Tough Competition, Qualcomm Stock’s Outlook Is Not Particularly Strong",
-            "url": "https://www.barchart.com/story/news/3165922/facing-potential-smartphone-weakness-and-tough-competition-qualcomm-stocks-outlook-is-not-particularly-strong?.tsrc=rss",
-            "description": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
+            "title": "Hong Kong Sets Five-Year Tech Goals",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-16/hong-kong-sets-five-year-tech-goals-video",
+            "description": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-07T15:19:07.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
+            "publishedAt": "2026-09-16T06:21:59.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.183Z",
             "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "High flash-memory prices and tough competition could prevent QCOM stock from generating good returns for investors.",
+            "summary": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy.",
             "id": "a4"
           },
           {
-            "title": "QUALCOMM’s Q3 2026 Earnings: What to Expect",
-            "url": "https://www.barchart.com/story/news/3164893/qualcomms-q3-2026-earnings-what-to-expect?.tsrc=rss",
-            "description": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
+            "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeTA3MzNFNW43RE1Tdk1GdEs3b1JJYWZoVFR3aTdxaDYwb2NtWnBENDRRcWFKa25QY243TmhjRi1YZTBPVDNUSXp4NUNNMktCLWNIdTVCTW9LU0k1UUVPS2ZBTW1KejNMS3BOTEd1dC1RdzVtektyTmlQY2JBbWJRdnlxaWs0Wnd1cVZoRHlwVk9MNG4zaHVxUVVJbDF5ZHE0V2tRRS0wQ3J1YUZYcVFIeEQtZk5CYnpLaVM4RFNRazF1LWxwcVhNNFMtQm8?oc=5",
+            "description": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T06:17:23.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "streamlinefeed.co.ke",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
+            "id": "a5"
+          },
+          {
+            "title": "Full Vision Capital on HK Five-Year Plan",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-16/full-vision-capital-on-hk-five-year-plan-video",
+            "description": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T05:58:43.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.183Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\".",
+            "id": "a6"
+          },
+          {
+            "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
+            "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
+            "description": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T04:01:59.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
+            "id": "a7"
+          },
+          {
+            "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
+            "url": "https://news.google.com/rss/articles/CBMitAJBVV95cUxNV0tXTW5GTm43Vm5mS0oyOW04cjgxdzlFbWFERi1sZk5KWmc1bk5wWUJ2ZTlKVlhQZkZMMTRtQmU0V21nT3FORmhtR29qMUdleHgwbHZTWWoyMWFRZHkzZnVjZVFXbllsVWpMamFqVi03M1RiLWNOZTE5d0RqVDNmZjIzc3hhMnVQOHZIOEV4QTNoNUx4dk5XU1I4Q0JQcnJISTRtOEZuamIwVFBDLVQ0X2V2a3lqXzRlS3dxQ3JaX1E4ZzNJNTZNQUx1MWZSTGo1R2wzTjFKM3BnTVprWXlTeEhTZUJCUm5wenAzZlV5dzBUcmZfLXNHUmkxTjctVG1MenBueVZmZ2VNU0ZDNzZ3eFdvT1A3WjZUUkw0TGlVNWhvbVQ4TUxXOHVSYWpUUHZfOHdzcg?oc=5",
+            "description": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday GK Today",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T03:42:04.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "GK Today",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
+            "id": "a8"
+          },
+          {
+            "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
+            "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
+            "description": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T22:06:16.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
+            "id": "a10"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - cryptobriefing.com",
+            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkZlY0dVTXdUVWU2c0J0bmJjQ01FRXo0S3lIRjYzSDViME50S1duUjUyU1E1ZE1ZYUhwZW94M3F6NVNmRlRzSnF2Ti1NX3dCcU9hX2VuSGJTNy01TE4wVjBfek1ocUtSY3BpTUE2QQ?oc=5",
+            "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T21:40:11.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "cryptobriefing.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
+            "id": "a11"
+          },
+          {
+            "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-213531687.html?.tsrc=rss",
+            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-07-07T14:16:48.000Z",
-            "fetchedAt": "2026-07-08T08:10:53.993Z",
+            "publishedAt": "2026-09-15T21:35:31.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
             "subLabel": "market-performance",
             "competitors": [],
             "stakeholders": [],
-            "summary": "QUALCOMM is set to release its fiscal Q3 earnings this month, while analysts project a significant decline in EPS.",
-            "id": "a5"
+            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+            "id": "a12"
+          },
+          {
+            "title": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. - The Daily Signal",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdoTlBTZU9FQTl5aVh0cGtZejM1MDNQaDY4dFRFeVVpTHFtbjhqaHo0RldzaWxyaGZqU0o4Y3V3S3IxZGczWnV0dzR4T2NsMFF1cHg4OXg2a0RmdXo0dzI2cm1mSXo5WXpnMWJaQTAtdERMVUFkV0VyWHRBR0IyNm5rZkNlRllLQ0d4X0loT0VJZw?oc=5",
+            "description": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. The Daily Signal",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T21:30:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Daily Signal",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right.",
+            "id": "a13"
+          },
+          {
+            "title": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect - The Eastern Herald",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNaF9zR3FqdHBJS3Z4M3NwZjVGaWVZZ0pESkpJazQ0a2JvbUxvNHROWHhwQWVmZUFBTm4tX3dlM181Vnh5STBESTQ0QVFfclJVT1V4LTV4TERmaG8zRnNFUWJYX19qamRLbFVodlhwR2JmX2JOWWR0cHFvRFM1YmtQaGNoWDNtN3REdUpLR3ZUNnFVRER3a3M5aw?oc=5",
+            "description": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect The Eastern Herald",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T19:57:58.000Z",
+            "fetchedAt": "2026-09-16T12:08:56.332Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Eastern Herald",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect The Eastern Herald",
+            "id": "a15"
+          },
+          {
+            "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+            "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+            "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T19:13:30.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+            "id": "a18"
+          },
+          {
+            "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+            "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+            "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-15T15:47:03.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.132Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+            "id": "a21"
+          },
+          {
+            "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
+            "url": "https://www.barchart.com/story/news/4613132/qualcomm-just-got-a-foothold-in-the-ai-data-center-race-how-to-play-qcom-stock-here?.tsrc=rss",
+            "description": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T14:11:10.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+            "id": "a22"
+          },
+          {
+            "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
+            "url": "https://www.eetimes.com/fcc-rule-on-optical-connectivity-could-slow-ai-race/",
+            "description": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-09-15T12:32:10.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.895Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
+            "id": "a23"
+          },
+          {
+            "title": "Applied Materials vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
+            "url": "https://www.fool.com/coverage/better-buy/2026/09/15/applied-materials-vs-qualcomm-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+            "description": "Applied Materials trades at a steep valuation premium, while Qualcomm's cheaper multiple masks exposure to customer concentration and geopolitical risk.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T12:05:01.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Applied Materials trades at a steep valuation premium, while Qualcomm's cheaper multiple masks exposure to customer concentration and geopolitical risk.",
+            "id": "a24"
+          },
+          {
+            "title": "Telenor faces charges over former Myanmar unit",
+            "url": "https://www.mobileworldlive.com/telenor/telenor-faces-charges-over-former-myanmar-unit/",
+            "description": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-15T10:50:10.000Z",
+            "fetchedAt": "2026-09-16T12:08:54.365Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
+            "id": "a26"
+          },
+          {
+            "title": "India Hardens Its Cyber Defenses",
+            "url": "https://www.eetimes.com/india-hardens-its-cyber-defenses/",
+            "description": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-09-15T07:11:27.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.895Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
+            "id": "a27"
+          },
+          {
+            "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T04:11:25.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
+            "id": "a28"
+          },
+          {
+            "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
+            "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T02:09:16.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+            "id": "a29"
+          },
+          {
+            "title": "When R&D Counts as a Domestic Industry",
+            "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
+            "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+            "source": "Patently-O",
+            "sourceId": "patently-o",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T16:11:06.000Z",
+            "fetchedAt": "2026-09-16T12:08:53.914Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+            "id": "a31"
+          },
+          {
+            "title": "AI chiefs support frontier slowdown; Trump, China push back",
+            "url": "https://www.mobileworldlive.com/ai-cloud/ai-chiefs-back-frontier-slowdown-trump-china-push-back/",
+            "description": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-14T11:06:27.000Z",
+            "fetchedAt": "2026-09-16T12:08:54.365Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
+            "id": "a32"
+          },
+          {
+            "title": "China’s maturing GI regime raises the stakes for foreign brands",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-maturing-gi-regime-raises-the-stakes-foreign-brands",
+            "description": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:01.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
+            "id": "a33"
+          },
+          {
+            "title": "Securing patent protection for generative-AI inventions amid unprecedented global investment and newly implemented reform to examination guidelines",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/securing-patent-protection-generative-ai-inventions-amid-unprecedented-global-investment-and-newly-implemented-reform-examination-guidelines",
+            "description": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:01.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
+            "id": "a34"
+          },
+          {
+            "title": "China's use-based trademark reforms overhaul foreign brand protection",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-use-based-trademark-reforms-overhaul-foreign-brand-protection",
+            "description": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:01.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
+            "id": "a35"
+          },
+          {
+            "title": "China draws the line between lawful product repair and trademark infringement",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/china-draws-the-line-between-lawful-product-repair-and-trademark-infringement",
+            "description": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
+            "id": "a36"
+          },
+          {
+            "title": "China makes drug trial data protection a commercial lever",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/china-makes-drug-trial-data-protection-commercial-lever",
+            "description": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
+            "id": "a37"
+          },
+          {
+            "title": "China’s e-commerce boom drives fresh urgency for online brand protection",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/chinas-e-commerce-boom-drives-fresh-urgency-online-brand-protection",
+            "description": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
+            "id": "a38"
+          },
+          {
+            "title": "From volume to value: China’s patent pivot rewards quality over filing volume",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/volume-value-chinas-patent-pivot-rewards-quality-over-filing-volume",
+            "description": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
+            "id": "a39"
+          },
+          {
+            "title": "Managing infringement risks across the supply chain",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/managing-infringement-risks-across-the-supply-chain",
+            "description": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T07:00:00.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
+            "id": "a40"
+          },
+          {
+            "title": "How royalty determination is evolving in China and key takeaways for litigants",
+            "url": "https://www.iam-media.com/guide/china-managing-the-ip-lifecycle/2027/article/how-royalty-determination-evolving-in-china-and-key-takeaways-litigants",
+            "description": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T06:10:44.000Z",
+            "fetchedAt": "2026-09-16T12:08:52.560Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
+            "id": "a41"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
         "section": "competitors",
         "sectionTitle": "Competitors",
         "briefing": {
@@ -2052,18 +2154,233 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-07-08T08:11:16.708Z",
-        "date": "2026-07-08",
+        "generatedAt": "2026-09-16T12:08:56.363Z",
+        "date": "2026-09-16",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Customers & Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Platform & Ecosystem Partners: Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "platform-partner"
+            },
+            {
+              "text": "Customers & Partners: Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "Geopolitics & Export Controls: OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+              "articleIds": [
+                "a21"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+              "articleIds": [
+                "a22"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumps-amazon-ai-193504527.html?.tsrc=rss",
+            "description": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T19:35:04.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+            "id": "a16"
+          },
+          {
+            "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+            "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+            "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T19:13:30.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.058Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+            "id": "a18"
+          },
+          {
+            "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
+            "url": "https://247wallst.com/investing/2026/09/15/ive-started-accumulating-qualcomm-and-it-isnt-because-of-amazon-and-meta/?.tsrc=rss",
+            "description": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T16:55:33.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+            "id": "a19"
+          },
+          {
+            "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+            "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+            "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-15T15:47:03.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.132Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+            "id": "a21"
+          },
+          {
+            "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
+            "url": "https://www.barchart.com/story/news/4613132/qualcomm-just-got-a-foothold-in-the-ai-data-center-race-how-to-play-qcom-stock-here?.tsrc=rss",
+            "description": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T14:11:10.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+            "id": "a22"
+          },
+          {
+            "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T04:11:25.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
+            "id": "a28"
+          },
+          {
+            "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
+            "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T02:09:16.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+            "id": "a29"
+          },
+          {
+            "title": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
+            "url": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-6-8-231928896.html?.tsrc=rss",
+            "description": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-14T23:19:28.000Z",
+            "fetchedAt": "2026-09-16T12:08:50.135Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+            "id": "a30"
+          },
+          {
+            "title": "When R&D Counts as a Domestic Industry",
+            "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
+            "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+            "source": "Patently-O",
+            "sourceId": "patently-o",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-14T16:11:06.000Z",
+            "fetchedAt": "2026-09-16T12:08:53.914Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+            "id": "a31"
+          }
+        ]
       }
     },
-    "totalArticles": 6
+    "totalArticles": 47
   }
 };
 

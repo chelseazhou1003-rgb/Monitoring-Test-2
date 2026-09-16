@@ -1,11 +1,74 @@
 {
-  "generatedAt": "2026-07-08T08:11:16.708Z",
-  "date": "2026-07-08",
+  "generatedAt": "2026-09-16T12:08:56.363Z",
+  "date": "2026-09-16",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+      "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
+      "description": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T03:18:41.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+      "id": "a9"
+    },
+    {
+      "title": "What Was Qualcomm Stock Telling You Before It Ran?",
+      "url": "https://www.trefis.com/articles/615363/what-was-qualcomm-stock-telling-you-before-it-ran/2026-09-15?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T20:26:37.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.136Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
+      "id": "a14"
+    },
+    {
+      "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-datacenter-pivot-real-market-114340853.html?.tsrc=rss",
+      "description": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture. On September […]",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T11:43:40.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture.",
+      "id": "a25"
+    }
+  ]
 }

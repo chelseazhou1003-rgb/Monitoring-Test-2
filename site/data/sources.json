@@ -42,6 +42,20 @@
     "hasRss": true
   },
   {
+    "id": "fortune",
+    "name": "Fortune",
+    "group": "finance",
+    "groupLabel": "Finance / Mainstream",
+    "hasRss": false
+  },
+  {
+    "id": "geopolitics",
+    "name": "Geopolitics",
+    "group": "finance",
+    "groupLabel": "Finance / Mainstream",
+    "hasRss": false
+  },
+  {
     "id": "the-information",
     "name": "The Information",
     "group": "tech",
@@ -70,6 +84,13 @@
     "hasRss": true
   },
   {
+    "id": "datacenter-dynamics",
+    "name": "Data Center Dynamics",
+    "group": "tech",
+    "groupLabel": "Technology",
+    "hasRss": true
+  },
+  {
     "id": "eetimes",
     "name": "EE Times",
     "group": "semiconductor",
@@ -93,6 +114,13 @@
   {
     "id": "silicon-semiconductor",
     "name": "Silicon Semiconductor",
+    "group": "semiconductor",
+    "groupLabel": "Semiconductor",
+    "hasRss": true
+  },
+  {
+    "id": "qualcomm-newsroom",
+    "name": "Qualcomm Newsroom",
     "group": "semiconductor",
     "groupLabel": "Semiconductor",
     "hasRss": true

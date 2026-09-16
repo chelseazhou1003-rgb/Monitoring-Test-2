@@ -1,11 +1,226 @@
 {
-  "generatedAt": "2026-07-08T08:11:16.708Z",
-  "date": "2026-07-08",
+  "generatedAt": "2026-09-16T12:08:56.363Z",
+  "date": "2026-09-16",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Customers & Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "Platform & Ecosystem Partners: Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+        "articleIds": [
+          "a16"
+        ],
+        "subCategory": "platform-partner"
+      },
+      {
+        "text": "Customers & Partners: Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+        "articleIds": [
+          "a18"
+        ],
+        "subCategory": "customers-partners"
+      },
+      {
+        "text": "Geopolitics & Export Controls: OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+        "articleIds": [
+          "a21"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+        "articleIds": [
+          "a22"
+        ],
+        "subCategory": "market-performance"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumps-amazon-ai-193504527.html?.tsrc=rss",
+      "description": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T19:35:04.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
+      "id": "a16"
+    },
+    {
+      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
+      "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
+      "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T19:13:30.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.058Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
+      "id": "a18"
+    },
+    {
+      "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
+      "url": "https://247wallst.com/investing/2026/09/15/ive-started-accumulating-qualcomm-and-it-isnt-because-of-amazon-and-meta/?.tsrc=rss",
+      "description": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T16:55:33.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
+      "id": "a19"
+    },
+    {
+      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
+      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
+      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-15T15:47:03.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.132Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
+      "id": "a21"
+    },
+    {
+      "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
+      "url": "https://www.barchart.com/story/news/4613132/qualcomm-just-got-a-foothold-in-the-ai-data-center-race-how-to-play-qcom-stock-here?.tsrc=rss",
+      "description": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T14:11:10.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
+      "id": "a22"
+    },
+    {
+      "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/amazon-could-buy-60-billion-041125286.html?.tsrc=rss",
+      "description": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion. That […]",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T04:11:25.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
+      "id": "a28"
+    },
+    {
+      "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-expands-ai-data-020916602.html?.tsrc=rss",
+      "description": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-15T02:09:16.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
+      "id": "a29"
+    },
+    {
+      "title": "Why QUALCOMM (QCOM) Is Up 6.8% After New Amazon AI Chip Deal And What's Next",
+      "url": "https://finance.yahoo.com/technology/ai/articles/why-qualcomm-qcom-6-8-231928896.html?.tsrc=rss",
+      "description": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-14T23:19:28.000Z",
+      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Earlier this month, Qualcomm Technologies announced a multi-generation collaboration with Amazon to develop customized AI data center silicon and high-performance optical connectivity solutions, while also deepening its use of Amazon’s AI infrastructure for chip design workloads. A distinctive feature of the agreement is the combination of large-scale AI chip supply potential with Amazon warrants for up to US$4.00 billion of Qualcomm stock, tying Qualcomm’s AI progress directly to Amazon’s...",
+      "id": "a30"
+    },
+    {
+      "title": "When R&D Counts as a Domestic Industry",
+      "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
+      "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+      "source": "Patently-O",
+      "sourceId": "patently-o",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-09-14T16:11:06.000Z",
+      "fetchedAt": "2026-09-16T12:08:53.914Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+      "id": "a31"
+    }
+  ]
 }
