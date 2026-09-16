@@ -1,36 +1,36 @@
 {
-  "generatedAt": "2026-09-16T12:08:56.363Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T17:18:22.155Z",
+  "date": "2026-09-17",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (4 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), Customers & Partners (3 articles), market-performance (3 articles). A total of 29 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
+        "text": "Geopolitics & Export Controls: The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Customers & Partners: Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's ec",
+        "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
         "articleIds": [
-          "a6"
+          "a5"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage ",
         "articleIds": [
-          "a12"
+          "a13"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Supply Chain: China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not ",
         "articleIds": [
-          "a40"
+          "a36"
         ],
         "subCategory": "supply-chain"
       }
@@ -38,14 +38,33 @@
   },
   "articles": [
     {
+      "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
+      "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+      "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T16:08:39.000Z",
+      "fetchedAt": "2026-09-16T17:18:10.408Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+      "id": "a1"
+    },
+    {
       "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
       "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
       "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T10:49:12.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.058Z",
+      "publishedAt": "2026-09-16T14:43:09.000Z",
+      "fetchedAt": "2026-09-16T17:18:10.409Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -54,56 +73,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-      "id": "a1"
-    },
-    {
-      "title": "Ukraine's message to Asian nations: your chips are turning up in Russian missiles",
-      "url": "https://www.cnbc.com/2026/09/16/russia-ukraine-war-sanction-oil-missile-weapons-.html",
-      "description": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T08:00:27.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.058Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Ukraine's sanctions envoy said Russia could be forced to retreat from the war within six months if its oil revenues are halved.",
-      "id": "a2"
-    },
-    {
-      "title": "Trump has few good options to slow China’s rise as AI superpower - The Japan Times",
-      "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNMm1NQzYzaHBqVTVqNzlGTTN3WlJYcE9yLVNiY2g3alhNb0taWDdjS3I3YUg1UGlDNWZBaW9rYnEtV1FqTW9ndURxVVB4eWhoX00xRDdpeGJrWFM5eTlGSEVtRkRMVTZXZGhPbkNKNlBfbTV3SmsxV2VUTm5CTlZMRG1CRW10bExlM1Z1RUVucEc2MHkxTXc?oc=5",
-      "description": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T07:52:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Japan Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Trump has few good options to slow China’s rise as AI superpower The Japan Times",
       "id": "a3"
     },
     {
-      "title": "Hong Kong Sets Five-Year Tech Goals",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/hong-kong-sets-five-year-tech-goals-video",
-      "description": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
+      "url": "https://finance.yahoo.com/technology/ai/articles/brad-gerstner-says-latest-negativity-141757194.html?.tsrc=rss",
+      "description": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T06:21:59.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.183Z",
+      "publishedAt": "2026-09-16T14:17:57.000Z",
+      "fetchedAt": "2026-09-16T17:18:10.413Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -111,8 +91,69 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Hong Kong leader John Lee has unveiled the city's first five-year plan, a blueprint his administration has crafted as it seeks to align the city's priorities with China’s national strategy.",
+      "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
       "id": "a4"
+    },
+    {
+      "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
+      "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T13:25:00.000Z",
+      "fetchedAt": "2026-09-16T17:18:22.112Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Newswise",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+      "id": "a5"
+    },
+    {
+      "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1EwMHB2Tkd3bGwxRVdiUmU1TFFGNFF0Y25wNk9ITElQUjFtc0p0TkFmTjd2cVZHVk9MOU5qcGQxNGgzeG4yWkViOThRcEkyYk9RcVFSU0I2czQ2ak02QjE5d3JRNWRTQTlJT2w0dHdUSzBOWFBJNEJKV2FWMDZUZzlmT3RpSXQ3XzBtSmJfYzg4MGJPTVRSbzA0NEZfb1lHSExCR2Eta0l5TURLS0tOVElGXzRUVklmajV1UjlMc1I?oc=5",
+      "description": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-16T12:57:54.000Z",
+      "fetchedAt": "2026-09-16T17:18:22.112Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "ad-hoc-news.de",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
+      "id": "a6"
+    },
+    {
+      "title": "A brief history of AI executives calling for regulation",
+      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
+      "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-16T12:00:00.000Z",
+      "fetchedAt": "2026-09-16T17:18:16.073Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
+      "id": "a7"
     },
     {
       "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
@@ -122,7 +163,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T06:17:23.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
+      "fetchedAt": "2026-09-16T17:18:22.113Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "streamlinefeed.co.ke",
       "geopoliticalBypass": true,
@@ -132,45 +173,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
-      "id": "a5"
-    },
-    {
-      "title": "Full Vision Capital on HK Five-Year Plan",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-16/full-vision-capital-on-hk-five-year-plan-video",
-      "description": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T05:58:43.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.183Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Alan Chan, Managing Partner at the Hong Kong-based family office Full Vision Capital, discusses his vision for investment opportunities for Hong Kong, and the city's move to align closer to China's economic plans with its own five-year plan. The firm focuses on investments that support Hong Kong's green transition and innovation development. He speaks with David Ingles on \"Bloomberg: The Asia Trade\".",
-      "id": "a6"
-    },
-    {
-      "title": "China's AI leaders keep quiet despite U.S. 'publicity' on tech risks",
-      "url": "https://www.cnbc.com/2026/09/16/chinas-ai-leaders-keep-quiet-despite-us-publicity-on-tech-risks.html",
-      "description": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T04:01:59.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.058Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Z.ai, Moonshot, MiniMax, Alibaba and Tencent did not provide any statements when contacted by CNBC about the warnings on AI from Silicon Valley.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
@@ -180,7 +183,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T03:42:04.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
+      "fetchedAt": "2026-09-16T17:18:22.112Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "GK Today",
       "geopoliticalBypass": true,
@@ -190,46 +193,47 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
-      "id": "a8"
+      "id": "a9"
     },
     {
-      "title": "Nvidia CEO Huang attending Trump's state dinner for China's Xi: Source",
-      "url": "https://www.cnbc.com/2026/09/15/nvidia-jensen-huang-trump-xi.html",
-      "description": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
+      "title": "Trump has few good options to slow China’s rise as AI superpower - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPZ0ZxelRramhQeTFWTXJ6cVQtc3VyWWFyc0xXMUhRY0J2d0JGanZDMnZNbnJvTXZvazBLa0hZNHMtVUQzTXMydXlNR3Qwc1lTaHR4SjdjaUR1bjNXZC1zVWNUT2dVM0tlZDFQZXhaajE5WGpOcXgxYnNDOHE1aE5WU1huWnMxd2NRenJOa1AxNl9wRXYxQ0hiWTRaU1M0eE9UTURDeW51VFlncUJrTlhPY0VRckh2cGEwcnVNT2d30gHDAUFVX3lxTE9WcF80X05ReGRTbnItRHRSWklzT005ZDhRY25zcGRvLXJEdTFQOVU3ZmViTktzeFk1SWh5VXkxTFhyQ044bExoVVN5b3FVWk4zcU9WOUhnWExBejg5MmZrblNMcWlEQTBEX0VzS1VwT3F6Rml0cXNxMlZDTDZPTlppaUx2c09ENDI1SVVaWHhrYVdzTzU0N3FsbzRtVVNtTjVVNGltS19FcnpkMFc3OGxPTU5fclczU1QyMEdWZEVTdUFxbw?oc=5",
+      "description": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-15T22:06:16.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.058Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-09-16T03:13:58.000Z",
+      "fetchedAt": "2026-09-16T17:18:22.112Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Moneycontrol.com",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Jensen Huang appeared to side with Trump as the president pushed back on tech CEOs' warnings about the risks of rapid AI advancement.",
-      "id": "a10"
+      "summary": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
+      "id": "a11"
     },
     {
-      "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - cryptobriefing.com",
+      "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - Crypto Briefing",
       "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkZlY0dVTXdUVWU2c0J0bmJjQ01FRXo0S3lIRjYzSDViME50S1duUjUyU1E1ZE1ZYUhwZW94M3F6NVNmRlRzSnF2Ti1NX3dCcU9hX2VuSGJTNy01TE4wVjBfek1ocUtSY3BpTUE2QQ?oc=5",
-      "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
+      "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T21:40:11.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
+      "fetchedAt": "2026-09-16T17:18:22.113Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "cryptobriefing.com",
+      "googleNewsSource": "Crypto Briefing",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market cryptobriefing.com",
-      "id": "a11"
+      "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
+      "id": "a12"
     },
     {
       "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
@@ -239,7 +243,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T21:35:31.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.413Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -247,7 +251,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. - The Daily Signal",
@@ -257,7 +261,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T21:30:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
+      "fetchedAt": "2026-09-16T17:18:22.112Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Daily Signal",
       "geopoliticalBypass": true,
@@ -267,7 +271,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right.",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect - The Eastern Herald",
@@ -277,7 +281,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T19:57:58.000Z",
-      "fetchedAt": "2026-09-16T12:08:56.332Z",
+      "fetchedAt": "2026-09-16T17:18:22.113Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Eastern Herald",
       "geopoliticalBypass": true,
@@ -287,49 +291,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Activates Exit Bans for Tech Engineers as Decree 841 Takes Effect The Eastern Herald",
-      "id": "a15"
-    },
-    {
-      "title": "OpenAI, Google, Anthropic discussing collaboration on AI safety issues",
-      "url": "https://www.cnbc.com/2026/09/15/open-ai-google-anthropic-safety.html",
-      "description": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-15T19:13:30.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.058Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Discussions have been ongoing since Google's Demis Hassabis released a proposal in July calling for a U.S.-led \"Standards Body,\" the spokesperson said.",
-      "id": "a18"
-    },
-    {
-      "title": "OpenAI, Anthropic, Google have been in talks on AI safety for weeks",
-      "url": "https://techcrunch.com/2026/09/15/openai-anthropic-google-have-been-in-talks-on-ai-safety-for-weeks/",
-      "description": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-15T15:47:03.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.132Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "OpenAI confirms weeks of AI safety talks with Anthropic and Google DeepMind, as Trump's team dismisses safety concerns and pushes to keep pace with China.",
-      "id": "a21"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -339,7 +301,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T14:11:10.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.412Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -349,7 +311,7 @@
         "platform-partner"
       ],
       "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-      "id": "a22"
+      "id": "a21"
     },
     {
       "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
@@ -359,7 +321,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-15T12:32:10.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.895Z",
+      "fetchedAt": "2026-09-16T17:18:16.243Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -368,7 +330,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "Applied Materials vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -378,7 +340,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T12:05:01.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.412Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -386,7 +348,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Applied Materials trades at a steep valuation premium, while Qualcomm's cheaper multiple masks exposure to customer concentration and geopolitical risk.",
-      "id": "a24"
+      "id": "a23"
     },
     {
       "title": "Telenor faces charges over former Myanmar unit",
@@ -396,7 +358,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-15T10:50:10.000Z",
-      "fetchedAt": "2026-09-16T12:08:54.365Z",
+      "fetchedAt": "2026-09-16T17:18:19.447Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -405,26 +367,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
-      "id": "a26"
-    },
-    {
-      "title": "India Hardens Its Cyber Defenses",
-      "url": "https://www.eetimes.com/india-hardens-its-cyber-defenses/",
-      "description": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
-      "source": "EE Times",
-      "sourceId": "eetimes",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-09-15T07:11:27.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.895Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "As cyberthreats target critical infrastructure, and India’s online population tops 1 billion, digital resilience is now a national security priority. The post India Hardens Its Cyber Defenses appeared first on EE Times.",
-      "id": "a27"
+      "id": "a25"
     },
     {
       "title": "Amazon Could Buy Up to $60 Billion From Qualcomm Just as Apple Brings Modems In-House. Is the AI Pivot Real?",
@@ -434,7 +377,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T04:11:25.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.412Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -445,7 +388,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) is trying to replace part of a fading smartphone dependency with AI infrastructure, and Amazon.com, Inc. (NASDAQ:AMZN) just gave investors a large number to measure it against. Qualcomm’s September 8 SEC filing ties Amazon warrants to commercial arrangements, binding orders and actual purchases that can reach a maximum of $60 billion.",
-      "id": "a28"
+      "id": "a26"
     },
     {
       "title": "Qualcomm (QCOM) Expands AI Data Center Push With New Compute Fabric Partnership",
@@ -455,7 +398,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T02:09:16.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.413Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -465,7 +408,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm (NasdaqGS:QCOM) is collaborating with Cornelis Networks on new AI data center networking and programmable compute infrastructure. Cornelis Networks has introduced its Active Compute Fabric, an open architecture focused on scale-up and scale-out AI networking with embedded compute. The partnership extends Qualcomm Technologies' recent AI infrastructure work beyond its collaboration with Amazon into broader data center networking projects. This new Active Compute Fabric collaboration...",
-      "id": "a29"
+      "id": "a27"
     },
     {
       "title": "When R&D Counts as a Domestic Industry",
@@ -475,7 +418,7 @@
       "sourceId": "patently-o",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T16:11:06.000Z",
-      "fetchedAt": "2026-09-16T12:08:53.914Z",
+      "fetchedAt": "2026-09-16T17:18:19.487Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -486,26 +429,7 @@
         "oem"
       ],
       "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-      "id": "a31"
-    },
-    {
-      "title": "AI chiefs support frontier slowdown; Trump, China push back",
-      "url": "https://www.mobileworldlive.com/ai-cloud/ai-chiefs-back-frontier-slowdown-trump-china-push-back/",
-      "description": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-09-14T11:06:27.000Z",
-      "fetchedAt": "2026-09-16T12:08:54.365Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Anthropic CEO Dario Amodei and OpenAI CEO Sam Altman issued calls to slow the pace of frontier AI development, arguing safety measures must keep up with increasingly capable models. The post AI chiefs support frontier slowdown; Trump, China push back appeared first on Mobile World Live.",
-      "id": "a32"
+      "id": "a28"
     },
     {
       "title": "China’s maturing GI regime raises the stakes for foreign brands",
@@ -515,7 +439,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:01.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -524,7 +448,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
-      "id": "a33"
+      "id": "a29"
     },
     {
       "title": "Securing patent protection for generative-AI inventions amid unprecedented global investment and newly implemented reform to examination guidelines",
@@ -534,7 +458,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:01.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -543,7 +467,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
-      "id": "a34"
+      "id": "a30"
     },
     {
       "title": "China's use-based trademark reforms overhaul foreign brand protection",
@@ -553,7 +477,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:01.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -562,7 +486,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
-      "id": "a35"
+      "id": "a31"
     },
     {
       "title": "China draws the line between lawful product repair and trademark infringement",
@@ -572,7 +496,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -581,7 +505,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
-      "id": "a36"
+      "id": "a32"
     },
     {
       "title": "China makes drug trial data protection a commercial lever",
@@ -591,7 +515,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -600,7 +524,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
-      "id": "a37"
+      "id": "a33"
     },
     {
       "title": "China’s e-commerce boom drives fresh urgency for online brand protection",
@@ -610,7 +534,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -619,7 +543,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
-      "id": "a38"
+      "id": "a34"
     },
     {
       "title": "From volume to value: China’s patent pivot rewards quality over filing volume",
@@ -629,7 +553,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -638,7 +562,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
-      "id": "a39"
+      "id": "a35"
     },
     {
       "title": "Managing infringement risks across the supply chain",
@@ -648,7 +572,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T07:00:00.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -657,7 +581,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
-      "id": "a40"
+      "id": "a36"
     },
     {
       "title": "How royalty determination is evolving in China and key takeaways for litigants",
@@ -667,7 +591,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T06:10:44.000Z",
-      "fetchedAt": "2026-09-16T12:08:52.560Z",
+      "fetchedAt": "2026-09-16T17:18:18.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -676,7 +600,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
-      "id": "a41"
+      "id": "a37"
     }
   ]
 }

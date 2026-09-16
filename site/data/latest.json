@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-16T12:08:56.365Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T17:18:22.157Z",
+  "date": "2026-09-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 2,
-      "topHeadline": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
-      "topHeadlineId": "a17",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 33,
-      "topHeadline": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
+      "articleCount": 29,
+      "topHeadline": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (4 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), Customers & Partners (3 articles), market-performance (3 articles). A total of 29 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 9,
-      "topHeadline": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
-      "topHeadlineId": "a16",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Customers & Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "A brief history of AI executives calling for regulation",
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), market-performance (2 articles). A total of 7 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 47
+  "totalArticles": 42
 }

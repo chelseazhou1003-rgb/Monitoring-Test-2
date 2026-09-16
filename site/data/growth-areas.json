@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-16T12:08:56.363Z",
-  "date": "2026-09-16",
+  "generatedAt": "2026-09-16T17:18:22.155Z",
+  "date": "2026-09-17",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T03:18:41.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.412Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T20:26:37.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.136Z",
+      "fetchedAt": "2026-09-16T17:18:10.413Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "Qualcomm’s Datacenter Pivot Is Real, but The Market Already Knows This",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T11:43:40.000Z",
-      "fetchedAt": "2026-09-16T12:08:50.135Z",
+      "fetchedAt": "2026-09-16T17:18:10.412Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -68,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Despite being late to the Data center party, QUALCOMM Incorporated (NASDAQ: QCOM) may finally have found the path to becoming a meaningful data center chip supplier. The problem, however, is that Wall Street may already be giving it credit for much of an opportunity the company has yet to prove it can capture.",
-      "id": "a25"
+      "id": "a24"
     }
   ]
 }
