@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
           "articleIds": [
-            "a8"
+            "a11"
           ],
           "subCategory": "semiconductors"
         },
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-16T15:53:12.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.516Z",
+        "fetchedAt": "2026-09-16T23:16:29.733Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T19:27:22.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T15:55:13.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -94,7 +94,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -104,7 +104,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
           "articleIds": [
-            "a16"
+            "a18"
           ],
           "subCategory": "data-center"
         }
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:18:41.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -127,7 +127,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-        "id": "a16"
+        "id": "a18"
       },
       {
         "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -137,7 +137,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T20:26:37.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -150,7 +150,7 @@ export const NEWS_DATA = {
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -161,14 +161,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-16T20:26:53.597Z",
+    "generatedAt": "2026-09-16T23:16:34.823Z",
     "date": "2026-09-17",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
-        "topHeadlineId": "a8",
+        "topHeadlineId": "a11",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -182,15 +182,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 2,
         "topHeadline": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-        "topHeadlineId": "a16",
+        "topHeadlineId": "a18",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
         "articleCount": 30,
-        "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+        "topHeadline": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (24 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 30 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -201,53 +201,111 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 7,
+        "articleCount": 6,
         "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources."
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 42
+    "totalArticles": 41
   },
   "macro-environment": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (24 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 30 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a1"
+            "a4"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "market-performance: Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
           "articleIds": [
-            "a2"
+            "a5"
           ],
           "subCategory": "market-performance"
         },
         {
-          "text": "Geopolitics & Export Controls: Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen H",
+          "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
           "articleIds": [
-            "a3"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-          "articleIds": [
-            "a11"
+            "a14"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+        "description": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T23:00:00.000Z",
+        "fetchedAt": "2026-09-16T23:16:29.311Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+        "id": "a1"
+      },
+      {
+        "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ?oc=5",
+        "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T23:00:00.000Z",
+        "fetchedAt": "2026-09-16T23:16:34.773Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Bloomberg.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+        "id": "a2"
+      },
+      {
+        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+        "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+        "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T22:32:18.000Z",
+        "fetchedAt": "2026-09-16T23:16:29.075Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+        "id": "a3"
+      },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
         "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
@@ -256,7 +314,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -266,7 +324,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a1"
+        "id": "a4"
       },
       {
         "title": "Qualcomm now faces rival with bigger market cap",
@@ -276,7 +334,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:33:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -284,7 +342,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-        "id": "a2"
+        "id": "a5"
       },
       {
         "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings",
@@ -294,7 +352,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:32:03.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.965Z",
+        "fetchedAt": "2026-09-16T23:16:29.312Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -303,7 +361,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen Huang who recently pushed back on fears about AI safety. Shepard said that President Trump is also looking to his meeting with China's President Xi and wants no obstacles around AI heading into that conversation.",
-        "id": "a3"
+        "id": "a6"
       },
       {
         "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - Traders Union",
@@ -313,7 +371,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:19:30.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
+        "fetchedAt": "2026-09-16T23:16:34.774Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Traders Union",
         "geopoliticalBypass": true,
@@ -323,7 +381,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "quantum funding expands under CHIPS Act as startup investment surges Traders Union",
-        "id": "a4"
+        "id": "a7"
       },
       {
         "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
@@ -333,7 +391,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:18:09.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.147Z",
+        "fetchedAt": "2026-09-16T23:16:29.075Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -342,26 +400,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-        "id": "a5"
+        "id": "a8"
       },
       {
-        "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
-        "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-        "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFo4d2FVbFk0My1SVGVwRlR0bWV3RkZYNi0yYXdkczhtTExVUXVYNGRhQlByN3JKdFZUbmhpLUgtSzBjNXYyWmZnWVJhelhFT2ZVNC1na3g3STZBZXhvRlBXUGpLa3I5U09HdUpuY3lYX29oWEE5VU1qNGt3OWl0WFVrTEdpcnRIejNiR1dFRWg2N1hyTDJpVlNGUDNjU0JoTW1YQk1zXzRmVzQ0cC1jVDQ5eDNNOWo2UThUYnlET2l2djRV0gHKAUFVX3lxTE9aVVBiMGRBdUFPX1F1cTFxb2lKQ0U1Rk9GR29uNTMwQkVEdWJvcHl4T0hFTTFQSUpfdlBhQjM1RlZiMkJOSEo3bEc1aWN5QmlvVWk1TUxLVW1XQl8xWVlMLUlBTlE3TDR2MExvVGpGTnRyZkNqLW4yOXdDWFhCdEczRXVGQkk3cjljM2xPT0t2elVScC1hRDlQMEgyTG9uUTkyVjIwZ3NLcjItT1Zod2RPMkMwSWFuVXNsTGg2bWRPZWRhZmNsTjFTLXc?oc=5",
+        "description": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T16:08:39.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.147Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-09-16T18:14:34.000Z",
+        "fetchedAt": "2026-09-16T23:16:34.773Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-        "id": "a7"
+        "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+        "id": "a9"
       },
       {
         "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
@@ -371,7 +430,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T14:43:09.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.147Z",
+        "fetchedAt": "2026-09-16T23:16:29.075Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -380,7 +439,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
@@ -390,7 +449,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T14:17:57.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -399,27 +458,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
-        "id": "a10"
+        "id": "a13"
       },
       {
-        "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
+        "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - newswise.com",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
-        "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+        "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T13:25:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.542Z",
+        "fetchedAt": "2026-09-16T23:16:34.773Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Newswise",
+        "googleNewsSource": "newswise.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "customers-partners",
         "subLabel": "Customers & Partners",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-        "id": "a11"
+        "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+        "id": "a14"
       },
       {
         "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
@@ -429,7 +488,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T12:57:54.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
+        "fetchedAt": "2026-09-16T23:16:34.774Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "ad-hoc-news.de",
         "geopoliticalBypass": true,
@@ -439,28 +498,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-        "id": "a12"
-      },
-      {
-        "title": "A brief history of AI executives calling for regulation",
-        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-16T12:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.208Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
@@ -470,7 +508,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T06:17:23.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
+        "fetchedAt": "2026-09-16T23:16:34.774Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "streamlinefeed.co.ke",
         "geopoliticalBypass": true,
@@ -480,7 +518,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
@@ -490,7 +528,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:42:04.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
+        "fetchedAt": "2026-09-16T23:16:34.774Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "GK Today",
         "geopoliticalBypass": true,
@@ -500,7 +538,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
-        "id": "a15"
+        "id": "a17"
       },
       {
         "title": "Trump has few good options to slow China’s rise as AI superpower - Moneycontrol.com",
@@ -510,7 +548,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:13:58.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
+        "fetchedAt": "2026-09-16T23:16:34.774Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Moneycontrol.com",
         "geopoliticalBypass": true,
@@ -520,27 +558,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
-        "id": "a17"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - Crypto Briefing",
-        "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkZlY0dVTXdUVWU2c0J0bmJjQ01FRXo0S3lIRjYzSDViME50S1duUjUyU1E1ZE1ZYUhwZW94M3F6NVNmRlRzSnF2Ti1NX3dCcU9hX2VuSGJTNy01TE4wVjBfek1ocUtSY3BpTUE2QQ?oc=5",
-        "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T21:40:11.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Crypto Briefing",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
@@ -550,7 +568,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T21:35:31.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -558,26 +576,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-        "id": "a19"
-      },
-      {
-        "title": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. - The Daily Signal",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdoTlBTZU9FQTl5aVh0cGtZejM1MDNQaDY4dFRFeVVpTHFtbjhqaHo0RldzaWxyaGZqU0o4Y3V3S3IxZGczWnV0dzR4T2NsMFF1cHg4OXg2a0RmdXo0dzI2cm1mSXo5WXpnMWJaQTAtdERMVUFkV0VyWHRBR0IyNm5rZkNlRllLQ0d4X0loT0VJZw?oc=5",
-        "description": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. The Daily Signal",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T21:30:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:53.543Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Daily Signal",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right.",
         "id": "a20"
       },
       {
@@ -588,7 +586,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T14:11:10.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -608,7 +606,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-15T12:32:10.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.516Z",
+        "fetchedAt": "2026-09-16T23:16:29.733Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -627,7 +625,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-15T10:50:10.000Z",
-        "fetchedAt": "2026-09-16T20:26:51.719Z",
+        "fetchedAt": "2026-09-16T23:16:32.978Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -646,7 +644,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-16T20:26:51.411Z",
+        "fetchedAt": "2026-09-16T23:16:32.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -667,7 +665,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.375Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -686,7 +684,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.375Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -705,7 +703,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.375Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -724,7 +722,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.375Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -743,7 +741,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.376Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -762,7 +760,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.376Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -781,7 +779,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.802Z",
+        "fetchedAt": "2026-09-16T23:16:31.376Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -800,7 +798,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.803Z",
+        "fetchedAt": "2026-09-16T23:16:31.376Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -819,7 +817,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T06:10:44.000Z",
-        "fetchedAt": "2026-09-16T20:26:49.803Z",
+        "fetchedAt": "2026-09-16T23:16:31.376Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1024,33 +1022,26 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-16T20:26:53.594Z",
+    "generatedAt": "2026-09-16T23:16:34.821Z",
     "date": "2026-09-17",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a1"
+            "a4"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
           "articleIds": [
-            "a6"
+            "a10"
           ],
           "subCategory": "platform-partner"
-        },
-        {
-          "text": "Geopolitics & Export Controls: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,",
-          "articleIds": [
-            "a13"
-          ],
-          "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
@@ -1058,6 +1049,13 @@ export const NEWS_DATA = {
             "a26"
           ],
           "subCategory": "market-performance"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+          "articleIds": [
+            "a29"
+          ],
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
@@ -1070,7 +1068,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -1080,7 +1078,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a1"
+        "id": "a4"
       },
       {
         "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -1090,7 +1088,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T17:17:13.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1100,28 +1098,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-        "id": "a6"
-      },
-      {
-        "title": "A brief history of AI executives calling for regulation",
-        "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-        "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-16T12:00:00.000Z",
-        "fetchedAt": "2026-09-16T20:26:48.208Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-        "id": "a13"
+        "id": "a10"
       },
       {
         "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -1131,7 +1108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T19:35:04.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1151,7 +1128,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T16:55:33.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1172,7 +1149,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T14:11:10.000Z",
-        "fetchedAt": "2026-09-16T20:26:47.741Z",
+        "fetchedAt": "2026-09-16T23:16:29.163Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1192,7 +1169,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-16T20:26:51.411Z",
+        "fetchedAt": "2026-09-16T23:16:32.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -2282,11 +2259,11 @@ export const NEWS_DATA = {
     "totalArticles": 47
   },
   "archive-2026-09-17": {
-    "generatedAt": "2026-09-16T20:26:53.597Z",
+    "generatedAt": "2026-09-16T23:16:34.824Z",
     "date": "2026-09-17",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -2296,7 +2273,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
               "articleIds": [
-                "a8"
+                "a11"
               ],
               "subCategory": "semiconductors"
             },
@@ -2318,7 +2295,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-16T15:53:12.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.516Z",
+            "fetchedAt": "2026-09-16T23:16:29.733Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -2326,7 +2303,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-            "id": "a8"
+            "id": "a11"
           },
           {
             "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
@@ -2336,7 +2313,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T19:27:22.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -2354,7 +2331,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T15:55:13.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -2367,7 +2344,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -2378,7 +2355,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -2388,7 +2365,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
               "articleIds": [
-                "a16"
+                "a18"
               ],
               "subCategory": "data-center"
             }
@@ -2403,7 +2380,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:18:41.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -2411,7 +2388,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-            "id": "a16"
+            "id": "a18"
           },
           {
             "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -2421,7 +2398,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T20:26:37.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -2434,44 +2411,102 @@ export const NEWS_DATA = {
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (24 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 30 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a1"
+                "a4"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "market-performance: Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
               "articleIds": [
-                "a2"
+                "a5"
               ],
               "subCategory": "market-performance"
             },
             {
-              "text": "Geopolitics & Export Controls: Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen H",
+              "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
               "articleIds": [
-                "a3"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-              "articleIds": [
-                "a11"
+                "a14"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
+            "description": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T23:00:00.000Z",
+            "fetchedAt": "2026-09-16T23:16:29.311Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+            "id": "a1"
+          },
+          {
+            "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ?oc=5",
+            "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T23:00:00.000Z",
+            "fetchedAt": "2026-09-16T23:16:34.773Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bloomberg.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+            "id": "a2"
+          },
+          {
+            "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
+            "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
+            "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T22:32:18.000Z",
+            "fetchedAt": "2026-09-16T23:16:29.075Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
+            "id": "a3"
+          },
           {
             "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
             "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
@@ -2480,7 +2515,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -2490,7 +2525,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a1"
+            "id": "a4"
           },
           {
             "title": "Qualcomm now faces rival with bigger market cap",
@@ -2500,7 +2535,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:33:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2508,7 +2543,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-            "id": "a2"
+            "id": "a5"
           },
           {
             "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings",
@@ -2518,7 +2553,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:32:03.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.965Z",
+            "fetchedAt": "2026-09-16T23:16:29.312Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2527,7 +2562,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen Huang who recently pushed back on fears about AI safety. Shepard said that President Trump is also looking to his meeting with China's President Xi and wants no obstacles around AI heading into that conversation.",
-            "id": "a3"
+            "id": "a6"
           },
           {
             "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - Traders Union",
@@ -2537,7 +2572,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:19:30.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
+            "fetchedAt": "2026-09-16T23:16:34.774Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Traders Union",
             "geopoliticalBypass": true,
@@ -2547,7 +2582,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "quantum funding expands under CHIPS Act as startup investment surges Traders Union",
-            "id": "a4"
+            "id": "a7"
           },
           {
             "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
@@ -2557,7 +2592,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:18:09.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.147Z",
+            "fetchedAt": "2026-09-16T23:16:29.075Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2566,26 +2601,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-            "id": "a5"
+            "id": "a8"
           },
           {
-            "title": "House set to pass sweeping Russia sanctions bill honoring Lindsey Graham",
-            "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-            "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFo4d2FVbFk0My1SVGVwRlR0bWV3RkZYNi0yYXdkczhtTExVUXVYNGRhQlByN3JKdFZUbmhpLUgtSzBjNXYyWmZnWVJhelhFT2ZVNC1na3g3STZBZXhvRlBXUGpLa3I5U09HdUpuY3lYX29oWEE5VU1qNGt3OWl0WFVrTEdpcnRIejNiR1dFRWg2N1hyTDJpVlNGUDNjU0JoTW1YQk1zXzRmVzQ0cC1jVDQ5eDNNOWo2UThUYnlET2l2djRV0gHKAUFVX3lxTE9aVVBiMGRBdUFPX1F1cTFxb2lKQ0U1Rk9GR29uNTMwQkVEdWJvcHl4T0hFTTFQSUpfdlBhQjM1RlZiMkJOSEo3bEc1aWN5QmlvVWk1TUxLVW1XQl8xWVlMLUlBTlE3TDR2MExvVGpGTnRyZkNqLW4yOXdDWFhCdEczRXVGQkk3cjljM2xPT0t2elVScC1hRDlQMEgyTG9uUTkyVjIwZ3NLcjItT1Zod2RPMkMwSWFuVXNsTGg2bWRPZWRhZmNsTjFTLXc?oc=5",
+            "description": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-16T16:08:39.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.147Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-09-16T18:14:34.000Z",
+            "fetchedAt": "2026-09-16T23:16:34.773Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
             "competitors": [],
             "stakeholders": [],
-            "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-            "id": "a7"
+            "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+            "id": "a9"
           },
           {
             "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
@@ -2595,7 +2631,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T14:43:09.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.147Z",
+            "fetchedAt": "2026-09-16T23:16:29.075Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2604,7 +2640,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-            "id": "a9"
+            "id": "a12"
           },
           {
             "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
@@ -2614,7 +2650,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T14:17:57.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2623,27 +2659,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
-            "id": "a10"
+            "id": "a13"
           },
           {
-            "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
+            "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - newswise.com",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
-            "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+            "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T13:25:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.542Z",
+            "fetchedAt": "2026-09-16T23:16:34.773Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Newswise",
+            "googleNewsSource": "newswise.com",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "customers-partners",
             "subLabel": "Customers & Partners",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-            "id": "a11"
+            "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+            "id": "a14"
           },
           {
             "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
@@ -2653,7 +2689,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T12:57:54.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
+            "fetchedAt": "2026-09-16T23:16:34.774Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "ad-hoc-news.de",
             "geopoliticalBypass": true,
@@ -2663,28 +2699,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-            "id": "a12"
-          },
-          {
-            "title": "A brief history of AI executives calling for regulation",
-            "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-            "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-16T12:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.208Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-            "id": "a13"
+            "id": "a15"
           },
           {
             "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
@@ -2694,7 +2709,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T06:17:23.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
+            "fetchedAt": "2026-09-16T23:16:34.774Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "streamlinefeed.co.ke",
             "geopoliticalBypass": true,
@@ -2704,7 +2719,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
-            "id": "a14"
+            "id": "a16"
           },
           {
             "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
@@ -2714,7 +2729,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:42:04.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
+            "fetchedAt": "2026-09-16T23:16:34.774Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "GK Today",
             "geopoliticalBypass": true,
@@ -2724,7 +2739,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
-            "id": "a15"
+            "id": "a17"
           },
           {
             "title": "Trump has few good options to slow China’s rise as AI superpower - Moneycontrol.com",
@@ -2734,7 +2749,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:13:58.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
+            "fetchedAt": "2026-09-16T23:16:34.774Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Moneycontrol.com",
             "geopoliticalBypass": true,
@@ -2744,27 +2759,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
-            "id": "a17"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market - Crypto Briefing",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBSTkZlY0dVTXdUVWU2c0J0bmJjQ01FRXo0S3lIRjYzSDViME50S1duUjUyU1E1ZE1ZYUhwZW94M3F6NVNmRlRzSnF2Ti1NX3dCcU9hX2VuSGJTNy01TE4wVjBfek1ocUtSY3BpTUE2QQ?oc=5",
-            "description": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-15T21:40:11.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Crypto Briefing",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia CEO Jensen Huang joins state dinner for China’s Xi, eyeing $50B chip market Crypto Briefing",
-            "id": "a18"
+            "id": "a19"
           },
           {
             "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
@@ -2774,7 +2769,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T21:35:31.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2782,26 +2777,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-            "id": "a19"
-          },
-          {
-            "title": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. - The Daily Signal",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQNWdoTlBTZU9FQTl5aVh0cGtZejM1MDNQaDY4dFRFeVVpTHFtbjhqaHo0RldzaWxyaGZqU0o4Y3V3S3IxZGczWnV0dzR4T2NsMFF1cHg4OXg2a0RmdXo0dzI2cm1mSXo5WXpnMWJaQTAtdERMVUFkV0VyWHRBR0IyNm5rZkNlRllLQ0d4X0loT0VJZw?oc=5",
-            "description": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right. The Daily Signal",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-15T21:30:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:53.543Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Daily Signal",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "High Tariffs Could Harm American Semiconductor Industry. Here's How to Get the Policy Right.",
             "id": "a20"
           },
           {
@@ -2812,7 +2787,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T14:11:10.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2832,7 +2807,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-15T12:32:10.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.516Z",
+            "fetchedAt": "2026-09-16T23:16:29.733Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2851,7 +2826,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-15T10:50:10.000Z",
-            "fetchedAt": "2026-09-16T20:26:51.719Z",
+            "fetchedAt": "2026-09-16T23:16:32.978Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2870,7 +2845,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T16:11:06.000Z",
-            "fetchedAt": "2026-09-16T20:26:51.411Z",
+            "fetchedAt": "2026-09-16T23:16:32.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2891,7 +2866,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.375Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2910,7 +2885,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.375Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2929,7 +2904,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.375Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2948,7 +2923,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.375Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2967,7 +2942,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.376Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2986,7 +2961,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.376Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3005,7 +2980,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.802Z",
+            "fetchedAt": "2026-09-16T23:16:31.376Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3024,7 +2999,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.803Z",
+            "fetchedAt": "2026-09-16T23:16:31.376Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3043,7 +3018,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T06:10:44.000Z",
-            "fetchedAt": "2026-09-16T20:26:49.803Z",
+            "fetchedAt": "2026-09-16T23:16:31.376Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3057,7 +3032,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -3068,33 +3043,26 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-16T20:26:53.594Z",
+        "generatedAt": "2026-09-16T23:16:34.821Z",
         "date": "2026-09-17",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a1"
+                "a4"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
               "articleIds": [
-                "a6"
+                "a10"
               ],
               "subCategory": "platform-partner"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,",
-              "articleIds": [
-                "a13"
-              ],
-              "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
@@ -3102,6 +3070,13 @@ export const NEWS_DATA = {
                 "a26"
               ],
               "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+              "articleIds": [
+                "a29"
+              ],
+              "subCategory": "geopolitics-export-controls"
             }
           ]
         },
@@ -3114,7 +3089,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -3124,7 +3099,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a1"
+            "id": "a4"
           },
           {
             "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -3134,7 +3109,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T17:17:13.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3144,28 +3119,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-            "id": "a6"
-          },
-          {
-            "title": "A brief history of AI executives calling for regulation",
-            "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-            "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-16T12:00:00.000Z",
-            "fetchedAt": "2026-09-16T20:26:48.208Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-            "id": "a13"
+            "id": "a10"
           },
           {
             "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -3175,7 +3129,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T19:35:04.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3195,7 +3149,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T16:55:33.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3216,7 +3170,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T14:11:10.000Z",
-            "fetchedAt": "2026-09-16T20:26:47.741Z",
+            "fetchedAt": "2026-09-16T23:16:29.163Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -3236,7 +3190,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T16:11:06.000Z",
-            "fetchedAt": "2026-09-16T20:26:51.411Z",
+            "fetchedAt": "2026-09-16T23:16:32.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3252,7 +3206,7 @@ export const NEWS_DATA = {
         ]
       }
     },
-    "totalArticles": 42
+    "totalArticles": 41
   }
 };
 

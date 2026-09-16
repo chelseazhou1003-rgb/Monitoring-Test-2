@@ -1,31 +1,24 @@
 {
-  "generatedAt": "2026-09-16T20:26:53.594Z",
+  "generatedAt": "2026-09-16T23:16:34.821Z",
   "date": "2026-09-17",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a1"
+          "a4"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
         "articleIds": [
-          "a6"
+          "a10"
         ],
         "subCategory": "platform-partner"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman,",
-        "articleIds": [
-          "a13"
-        ],
-        "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
@@ -33,6 +26,13 @@
           "a26"
         ],
         "subCategory": "market-performance"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "articleIds": [
+          "a29"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
@@ -45,7 +45,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchedAt": "2026-09-16T23:16:29.163Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -55,7 +55,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -65,7 +65,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T17:17:13.000Z",
-      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchedAt": "2026-09-16T23:16:29.163Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -75,28 +75,7 @@
         "platform-partner"
       ],
       "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-      "id": "a6"
-    },
-    {
-      "title": "A brief history of AI executives calling for regulation",
-      "url": "https://www.theverge.com/policy/995534/a-brief-history-of-ai-executives-calling-for-regulation",
-      "description": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-16T12:00:00.000Z",
-      "fetchedAt": "2026-09-16T20:26:48.208Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Over the past few days, a lot of people who stand to make a lot of money from AI all publicly agreed that it's time to make everyone slow down before we lose control - including OpenAI CEO Sam Altman, Anthropic CEO Dario Amodei, Google DeepMind cofounder Demis Hassabis, Microsoft CEO Satya Nadella, and X CEO Elon Musk. When people who profit from something declare that it's dangerous and needs to be regulated, there's always reason to be skeptical. But whatever their reason, this is far from the first time AI thought leaders have sounded the alarm. Charles Darwin's theory of evolution prompted author Samuel Butler to warn about intelligen … Read the full story at The Verge.",
-      "id": "a13"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -106,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T19:35:04.000Z",
-      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchedAt": "2026-09-16T23:16:29.163Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -126,7 +105,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T16:55:33.000Z",
-      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchedAt": "2026-09-16T23:16:29.163Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -147,7 +126,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T14:11:10.000Z",
-      "fetchedAt": "2026-09-16T20:26:47.741Z",
+      "fetchedAt": "2026-09-16T23:16:29.163Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -167,7 +146,7 @@
       "sourceId": "patently-o",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T16:11:06.000Z",
-      "fetchedAt": "2026-09-16T20:26:51.411Z",
+      "fetchedAt": "2026-09-16T23:16:32.681Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

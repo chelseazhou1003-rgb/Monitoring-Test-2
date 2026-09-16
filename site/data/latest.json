@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-16T20:26:53.597Z",
+  "generatedAt": "2026-09-16T23:16:34.823Z",
   "date": "2026-09-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
-      "topHeadlineId": "a8",
+      "topHeadlineId": "a11",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 2,
       "topHeadline": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-      "topHeadlineId": "a16",
+      "topHeadlineId": "a18",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 30,
-      "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+      "topHeadline": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (24 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 30 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 7,
+      "articleCount": 6,
       "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources."
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 42
+  "totalArticles": 41
 }
