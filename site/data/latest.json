@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-17T01:44:20.188Z",
+  "generatedAt": "2026-09-17T06:45:49.463Z",
   "date": "2026-09-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
-      "topHeadlineId": "a15",
+      "topHeadlineId": "a17",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 33,
-      "topHeadline": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+      "articleCount": 30,
+      "topHeadline": "Port of LA Foiled Around 120 Million Cyberattacks Last Month",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), market-performance (3 articles), Supply Chain (3 articles). A total of 30 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 7,
+      "articleCount": 6,
       "topHeadline": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
       "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 45
+  "totalArticles": 41
 }

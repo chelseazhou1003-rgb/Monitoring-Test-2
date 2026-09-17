@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-17T01:44:20.186Z",
+  "generatedAt": "2026-09-17T06:45:49.461Z",
   "date": "2026-09-17",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T03:18:41.000Z",
-      "fetchedAt": "2026-09-17T01:44:12.273Z",
+      "fetchedAt": "2026-09-17T06:45:42.952Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T20:26:37.000Z",
-      "fetchedAt": "2026-09-17T01:44:12.273Z",
+      "fetchedAt": "2026-09-17T06:45:42.952Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-      "id": "a24"
+      "id": "a23"
     }
   ]
 }
