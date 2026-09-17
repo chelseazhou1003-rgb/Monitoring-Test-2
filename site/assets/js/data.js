@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
           "articleIds": [
-            "a11"
+            "a15"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
           "articleIds": [
-            "a23"
+            "a26"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-16T15:53:12.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.733Z",
+        "fetchedAt": "2026-09-17T01:44:13.430Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-        "id": "a11"
+        "id": "a15"
       },
       {
         "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T19:27:22.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-        "id": "a23"
+        "id": "a26"
       },
       {
         "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T15:55:13.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -89,12 +89,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
-        "id": "a25"
+        "id": "a28"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -104,7 +104,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
           "articleIds": [
-            "a18"
+            "a21"
           ],
           "subCategory": "data-center"
         }
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:18:41.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -127,7 +127,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-        "id": "a18"
+        "id": "a21"
       },
       {
         "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -137,7 +137,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T20:26:37.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -145,12 +145,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-        "id": "a21"
+        "id": "a24"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -161,14 +161,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-16T23:16:34.823Z",
+    "generatedAt": "2026-09-17T01:44:20.188Z",
     "date": "2026-09-17",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
-        "topHeadlineId": "a11",
+        "topHeadlineId": "a15",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -182,15 +182,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 2,
         "topHeadline": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-        "topHeadlineId": "a18",
+        "topHeadlineId": "a21",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 30,
-        "topHeadline": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
+        "articleCount": 33,
+        "topHeadline": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -201,24 +201,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 6,
-        "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "topHeadlineId": "a4",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 41
+    "totalArticles": 45
   },
   "macro-environment": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+          "text": "Geopolitics & Export Controls: Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
           "articleIds": [
             "a1"
           ],
@@ -227,27 +227,107 @@ export const NEWS_DATA = {
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a4"
+            "a8"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "market-performance: Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
           "articleIds": [
-            "a5"
+            "a9"
           ],
           "subCategory": "market-performance"
         },
         {
-          "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+          "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
           "articleIds": [
-            "a14"
+            "a17"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
+        "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T01:29:00.000Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Japan Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+        "id": "a1"
+      },
+      {
+        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+        "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+        "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T00:55:35.000Z",
+        "fetchedAt": "2026-09-17T01:44:12.203Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "id": "a2"
+      },
+      {
+        "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Business Times",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzNvanVNaGUwNy1kUGtGOEl2QUt4YnFXVTM5TVdNSjRGQnNVRjN1dHRRdXpPOFdBX0dUT2NUdXJEeGhTR3gwM1VYYm1yTy1SZWJWMTBGS0NEQ3QwTC1zVjlSMWdjUFZPM3JzYkc3THdGNmhLWE1KSURnRE1tQmxxTmE3aFZWQmtObFF0clI4eGQxUHAxVm9Qa0ZLZC1RQVJlWHJ5Wi1JVXowUkUt?oc=5",
+        "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Business Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T00:44:00.000Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Business Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Business Times",
+        "id": "a3"
+      },
+      {
+        "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+        "url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+        "description": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T00:30:30.000Z",
+        "fetchedAt": "2026-09-17T01:44:13.162Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+        "id": "a4"
+      },
       {
         "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
         "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
@@ -256,7 +336,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T23:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.311Z",
+        "fetchedAt": "2026-09-17T01:44:12.536Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -265,27 +345,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
-        "id": "a1"
+        "id": "a5"
       },
       {
-        "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg.com",
+        "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg",
         "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ?oc=5",
-        "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+        "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T23:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.773Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Bloomberg.com",
+        "googleNewsSource": "Bloomberg",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
-        "id": "a2"
+        "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg",
+        "id": "a6"
       },
       {
         "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
@@ -295,7 +375,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T22:32:18.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.075Z",
+        "fetchedAt": "2026-09-17T01:44:12.203Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -304,7 +384,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -314,7 +394,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -324,7 +404,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Qualcomm now faces rival with bigger market cap",
@@ -334,7 +414,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:33:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -342,7 +422,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-        "id": "a5"
+        "id": "a9"
       },
       {
         "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings",
@@ -352,7 +432,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:32:03.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.312Z",
+        "fetchedAt": "2026-09-17T01:44:12.536Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -361,7 +441,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen Huang who recently pushed back on fears about AI safety. Shepard said that President Trump is also looking to his meeting with China's President Xi and wants no obstacles around AI heading into that conversation.",
-        "id": "a6"
+        "id": "a10"
       },
       {
         "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - Traders Union",
@@ -371,7 +451,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:19:30.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.774Z",
+        "fetchedAt": "2026-09-17T01:44:20.137Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Traders Union",
         "geopoliticalBypass": true,
@@ -381,7 +461,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "quantum funding expands under CHIPS Act as startup investment surges Traders Union",
-        "id": "a7"
+        "id": "a11"
       },
       {
         "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
@@ -391,7 +471,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:18:09.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.075Z",
+        "fetchedAt": "2026-09-17T01:44:12.203Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -400,7 +480,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-        "id": "a8"
+        "id": "a12"
       },
       {
         "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
@@ -410,7 +490,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:14:34.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.773Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -420,26 +500,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
-        "id": "a9"
-      },
-      {
-        "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-        "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-        "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T14:43:09.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.075Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-        "id": "a12"
+        "id": "a13"
       },
       {
         "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
@@ -449,7 +510,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T14:17:57.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -458,27 +519,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
-        "id": "a13"
+        "id": "a16"
       },
       {
-        "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - newswise.com",
+        "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
         "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
-        "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+        "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T13:25:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.773Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "newswise.com",
+        "googleNewsSource": "Newswise",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "customers-partners",
         "subLabel": "Customers & Partners",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
-        "id": "a14"
+        "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+        "id": "a17"
       },
       {
         "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
@@ -488,7 +549,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T12:57:54.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.774Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "ad-hoc-news.de",
         "geopoliticalBypass": true,
@@ -498,7 +559,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-        "id": "a15"
+        "id": "a18"
       },
       {
         "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
@@ -508,7 +569,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T06:17:23.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.774Z",
+        "fetchedAt": "2026-09-17T01:44:20.137Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "streamlinefeed.co.ke",
         "geopoliticalBypass": true,
@@ -518,7 +579,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
-        "id": "a16"
+        "id": "a19"
       },
       {
         "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
@@ -528,7 +589,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:42:04.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.774Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "GK Today",
         "geopoliticalBypass": true,
@@ -538,7 +599,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "Trump has few good options to slow China’s rise as AI superpower - Moneycontrol.com",
@@ -548,7 +609,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:13:58.000Z",
-        "fetchedAt": "2026-09-16T23:16:34.774Z",
+        "fetchedAt": "2026-09-17T01:44:20.136Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Moneycontrol.com",
         "geopoliticalBypass": true,
@@ -558,7 +619,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
-        "id": "a19"
+        "id": "a22"
       },
       {
         "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
@@ -568,7 +629,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T21:35:31.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -576,7 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-        "id": "a20"
+        "id": "a23"
       },
       {
         "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -586,7 +647,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T14:11:10.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -596,7 +657,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
@@ -606,7 +667,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-15T12:32:10.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.733Z",
+        "fetchedAt": "2026-09-17T01:44:13.430Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -615,7 +676,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
-        "id": "a27"
+        "id": "a30"
       },
       {
         "title": "Telenor faces charges over former Myanmar unit",
@@ -625,7 +686,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-15T10:50:10.000Z",
-        "fetchedAt": "2026-09-16T23:16:32.978Z",
+        "fetchedAt": "2026-09-17T01:44:18.069Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -634,7 +695,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
-        "id": "a28"
+        "id": "a31"
       },
       {
         "title": "When R&D Counts as a Domestic Industry",
@@ -644,7 +705,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-16T23:16:32.681Z",
+        "fetchedAt": "2026-09-17T01:44:17.735Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -655,7 +716,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "id": "a29"
+        "id": "a32"
       },
       {
         "title": "China’s maturing GI regime raises the stakes for foreign brands",
@@ -665,7 +726,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.375Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -674,7 +735,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
-        "id": "a30"
+        "id": "a33"
       },
       {
         "title": "Securing patent protection for generative-AI inventions amid unprecedented global investment and newly implemented reform to examination guidelines",
@@ -684,7 +745,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.375Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -693,7 +754,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
-        "id": "a31"
+        "id": "a34"
       },
       {
         "title": "China's use-based trademark reforms overhaul foreign brand protection",
@@ -703,7 +764,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:01.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.375Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -712,7 +773,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
-        "id": "a32"
+        "id": "a35"
       },
       {
         "title": "China draws the line between lawful product repair and trademark infringement",
@@ -722,7 +783,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.375Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -731,7 +792,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
-        "id": "a33"
+        "id": "a36"
       },
       {
         "title": "China makes drug trial data protection a commercial lever",
@@ -741,7 +802,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.376Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -750,7 +811,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
-        "id": "a34"
+        "id": "a37"
       },
       {
         "title": "China’s e-commerce boom drives fresh urgency for online brand protection",
@@ -760,7 +821,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.376Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -769,7 +830,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
-        "id": "a35"
+        "id": "a38"
       },
       {
         "title": "From volume to value: China’s patent pivot rewards quality over filing volume",
@@ -779,7 +840,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.376Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -788,7 +849,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
-        "id": "a36"
+        "id": "a39"
       },
       {
         "title": "Managing infringement risks across the supply chain",
@@ -798,7 +859,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T07:00:00.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.376Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -807,7 +868,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
-        "id": "a37"
+        "id": "a40"
       },
       {
         "title": "How royalty determination is evolving in China and key takeaways for litigants",
@@ -817,7 +878,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T06:10:44.000Z",
-        "fetchedAt": "2026-09-16T23:16:31.376Z",
+        "fetchedAt": "2026-09-17T01:44:14.943Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -826,7 +887,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
-        "id": "a38"
+        "id": "a41"
       }
     ]
   },
@@ -1022,44 +1083,65 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-16T23:16:34.821Z",
+    "generatedAt": "2026-09-17T01:44:20.186Z",
     "date": "2026-09-17",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a4"
+            "a8"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
           "articleIds": [
-            "a10"
+            "a14"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
           "articleIds": [
-            "a26"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-          "articleIds": [
             "a29"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+        "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+        "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T00:55:35.000Z",
+        "fetchedAt": "2026-09-17T01:44:12.203Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "id": "a2"
+      },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
         "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
@@ -1068,7 +1150,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -1078,7 +1160,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -1088,7 +1170,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T17:17:13.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1098,7 +1180,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-        "id": "a10"
+        "id": "a14"
       },
       {
         "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -1108,7 +1190,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T19:35:04.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1118,7 +1200,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-        "id": "a22"
+        "id": "a25"
       },
       {
         "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
@@ -1128,7 +1210,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T16:55:33.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1139,7 +1221,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-        "id": "a24"
+        "id": "a27"
       },
       {
         "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -1149,7 +1231,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-15T14:11:10.000Z",
-        "fetchedAt": "2026-09-16T23:16:29.163Z",
+        "fetchedAt": "2026-09-17T01:44:12.273Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1159,7 +1241,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "When R&D Counts as a Domestic Industry",
@@ -1169,7 +1251,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-16T23:16:32.681Z",
+        "fetchedAt": "2026-09-17T01:44:17.735Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1180,7 +1262,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "id": "a29"
+        "id": "a32"
       }
     ]
   },
@@ -2259,11 +2341,11 @@ export const NEWS_DATA = {
     "totalArticles": 47
   },
   "archive-2026-09-17": {
-    "generatedAt": "2026-09-16T23:16:34.824Z",
+    "generatedAt": "2026-09-17T01:44:20.189Z",
     "date": "2026-09-17",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -2273,14 +2355,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
               "articleIds": [
-                "a11"
+                "a15"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
               "articleIds": [
-                "a23"
+                "a26"
               ],
               "subCategory": "mobile-chips"
             }
@@ -2295,7 +2377,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-16T15:53:12.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.733Z",
+            "fetchedAt": "2026-09-17T01:44:13.430Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -2303,7 +2385,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-            "id": "a11"
+            "id": "a15"
           },
           {
             "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
@@ -2313,7 +2395,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T19:27:22.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -2321,7 +2403,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-            "id": "a23"
+            "id": "a26"
           },
           {
             "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
@@ -2331,7 +2413,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T15:55:13.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -2339,12 +2421,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
-            "id": "a25"
+            "id": "a28"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -2355,7 +2437,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -2365,7 +2447,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
               "articleIds": [
-                "a18"
+                "a21"
               ],
               "subCategory": "data-center"
             }
@@ -2380,7 +2462,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:18:41.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -2388,7 +2470,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-            "id": "a18"
+            "id": "a21"
           },
           {
             "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -2398,7 +2480,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T20:26:37.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -2406,20 +2488,20 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-            "id": "a21"
+            "id": "a24"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (23 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 30 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (3 articles), market-performance (3 articles). A total of 33 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
+              "text": "Geopolitics & Export Controls: Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
               "articleIds": [
                 "a1"
               ],
@@ -2428,27 +2510,107 @@ export const NEWS_DATA = {
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a4"
+                "a8"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "market-performance: Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
               "articleIds": [
-                "a5"
+                "a9"
               ],
               "subCategory": "market-performance"
             },
             {
-              "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+              "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
               "articleIds": [
-                "a14"
+                "a17"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
+            "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T01:29:00.000Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Japan Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+            "id": "a1"
+          },
+          {
+            "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+            "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+            "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T00:55:35.000Z",
+            "fetchedAt": "2026-09-17T01:44:12.203Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "id": "a2"
+          },
+          {
+            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Business Times",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZzNvanVNaGUwNy1kUGtGOEl2QUt4YnFXVTM5TVdNSjRGQnNVRjN1dHRRdXpPOFdBX0dUT2NUdXJEeGhTR3gwM1VYYm1yTy1SZWJWMTBGS0NEQ3QwTC1zVjlSMWdjUFZPM3JzYkc3THdGNmhLWE1KSURnRE1tQmxxTmE3aFZWQmtObFF0clI4eGQxUHAxVm9Qa0ZLZC1RQVJlWHJ5Wi1JVXowUkUt?oc=5",
+            "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Business Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T00:44:00.000Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Business Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Business Times",
+            "id": "a3"
+          },
+          {
+            "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+            "url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+            "description": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T00:30:30.000Z",
+            "fetchedAt": "2026-09-17T01:44:13.162Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+            "id": "a4"
+          },
           {
             "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign",
             "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
@@ -2457,7 +2619,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T23:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.311Z",
+            "fetchedAt": "2026-09-17T01:44:12.536Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2466,27 +2628,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Huawei Technologies Co. is set to unveil new AI technology this week in defiance of US export control curbs, advancing its ambition to replace Nvidia Corp. in China and compete on the global stage.",
-            "id": "a1"
+            "id": "a5"
           },
           {
-            "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg.com",
+            "title": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign - Bloomberg",
             "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOcHJ3Q0EwbFRwV2xZcHF0XzNtMVV2X0U1cVZ2bU1SRHBwRm51RlA1cGc2UmxST0JNbThJcUoxclFZTTVzeGlfcEREbjI3TjR3MGFYU1M4ZnpfbFgya2ltY3JxYk0zdXNFUXBNQURsODIzanFJa05UbzJJYmVwbF95MGRKajVCSTJfekM5QmNmRTRQajNFbmlEMFRoblBXVUtXSWFwNUNkMXU1WVhLWGE3QmFnaFVsUQ?oc=5",
-            "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
+            "description": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T23:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.773Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Bloomberg.com",
+            "googleNewsSource": "Bloomberg",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg.com",
-            "id": "a2"
+            "summary": "Huawei Set to Unveil China’s Best Answer to Nvidia AI Chip Reign Bloomberg",
+            "id": "a6"
           },
           {
             "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
@@ -2496,7 +2658,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T22:32:18.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.075Z",
+            "fetchedAt": "2026-09-17T01:44:12.203Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2505,7 +2667,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -2515,7 +2677,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -2525,7 +2687,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Qualcomm now faces rival with bigger market cap",
@@ -2535,7 +2697,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:33:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2543,7 +2705,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-            "id": "a5"
+            "id": "a9"
           },
           {
             "title": "Zuckerberg, Huang Break With Industry Leaders on AI Warnings",
@@ -2553,7 +2715,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:32:03.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.312Z",
+            "fetchedAt": "2026-09-17T01:44:12.536Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2562,7 +2724,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bloomberg's Mike Shepard said President Trump's opposition to AI guardrails is another instance of his anti-regulation position across all industries, as well as his closeness with Nvidia CEO Jensen Huang who recently pushed back on fears about AI safety. Shepard said that President Trump is also looking to his meeting with China's President Xi and wants no obstacles around AI heading into that conversation.",
-            "id": "a6"
+            "id": "a10"
           },
           {
             "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - Traders Union",
@@ -2572,7 +2734,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:19:30.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.774Z",
+            "fetchedAt": "2026-09-17T01:44:20.137Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Traders Union",
             "geopoliticalBypass": true,
@@ -2582,7 +2744,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "quantum funding expands under CHIPS Act as startup investment surges Traders Union",
-            "id": "a7"
+            "id": "a11"
           },
           {
             "title": "Sen. Blumenthal urges AI oversight: 'We're on the verge of losing control'",
@@ -2592,7 +2754,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:18:09.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.075Z",
+            "fetchedAt": "2026-09-17T01:44:12.203Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2601,7 +2763,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Trump administration argues that beating China in the race to AI dominance is an all-important goal.",
-            "id": "a8"
+            "id": "a12"
           },
           {
             "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
@@ -2611,7 +2773,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T18:14:34.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.773Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
@@ -2621,26 +2783,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
-            "id": "a9"
-          },
-          {
-            "title": "Canada invited to become EU’s first ‘associate member’ as Trump trade war intensifies",
-            "url": "https://www.cnbc.com/2026/09/16/canada-eu-associate-member-von-der-leyen.html",
-            "description": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-16T14:43:09.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.075Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "EU chief Ursula von der Leyen said the bloc wants to open the door for Canada to become its first associate member, signaling a major deepening of ties.",
-            "id": "a12"
+            "id": "a13"
           },
           {
             "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
@@ -2650,7 +2793,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T14:17:57.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2659,27 +2802,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
-            "id": "a13"
+            "id": "a16"
           },
           {
-            "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - newswise.com",
+            "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
             "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
-            "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
+            "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T13:25:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.773Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "newswise.com",
+            "googleNewsSource": "Newswise",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "customers-partners",
             "subLabel": "Customers & Partners",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise newswise.com",
-            "id": "a14"
+            "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
+            "id": "a17"
           },
           {
             "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
@@ -2689,7 +2832,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T12:57:54.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.774Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "ad-hoc-news.de",
             "geopoliticalBypass": true,
@@ -2699,7 +2842,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-            "id": "a15"
+            "id": "a18"
           },
           {
             "title": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage - streamlinefeed.co.ke",
@@ -2709,7 +2852,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T06:17:23.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.774Z",
+            "fetchedAt": "2026-09-17T01:44:20.137Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "streamlinefeed.co.ke",
             "geopoliticalBypass": true,
@@ -2719,7 +2862,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US Struggles to Contain China's AI Advancement Amid Export Control Dilemmas and Rare Earth Leverage streamlinefeed.co.ke",
-            "id": "a16"
+            "id": "a19"
           },
           {
             "title": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies. – GKToday - GK Today",
@@ -2729,7 +2872,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:42:04.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.774Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "GK Today",
             "geopoliticalBypass": true,
@@ -2739,7 +2882,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Critically examine how extreme import dependence on critical minerals for semiconductor manufacturing impacts India’s national security. Suggest robust mitigation strategies.",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "Trump has few good options to slow China’s rise as AI superpower - Moneycontrol.com",
@@ -2749,7 +2892,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T03:13:58.000Z",
-            "fetchedAt": "2026-09-16T23:16:34.774Z",
+            "fetchedAt": "2026-09-17T01:44:20.136Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Moneycontrol.com",
             "geopoliticalBypass": true,
@@ -2759,7 +2902,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump has few good options to slow China’s rise as AI superpower Moneycontrol.com",
-            "id": "a19"
+            "id": "a22"
           },
           {
             "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
@@ -2769,7 +2912,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T21:35:31.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2777,7 +2920,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-            "id": "a20"
+            "id": "a23"
           },
           {
             "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -2787,7 +2930,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T14:11:10.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -2797,7 +2940,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "FCC Rule on Optical Connectivity Could Slow AI Race",
@@ -2807,7 +2950,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-15T12:32:10.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.733Z",
+            "fetchedAt": "2026-09-17T01:44:13.430Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2816,7 +2959,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Escalating tech war between the U.S. and China and a potential FCC ban on importing optical network equipment could force hyperscalers to navigate critical shortages. The post FCC Rule on Optical Connectivity Could Slow AI Race appeared first on EE Times.",
-            "id": "a27"
+            "id": "a30"
           },
           {
             "title": "Telenor faces charges over former Myanmar unit",
@@ -2826,7 +2969,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-15T10:50:10.000Z",
-            "fetchedAt": "2026-09-16T23:16:32.978Z",
+            "fetchedAt": "2026-09-17T01:44:18.069Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2835,7 +2978,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
-            "id": "a28"
+            "id": "a31"
           },
           {
             "title": "When R&D Counts as a Domestic Industry",
@@ -2845,7 +2988,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T16:11:06.000Z",
-            "fetchedAt": "2026-09-16T23:16:32.681Z",
+            "fetchedAt": "2026-09-17T01:44:17.735Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2856,7 +2999,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-            "id": "a29"
+            "id": "a32"
           },
           {
             "title": "China’s maturing GI regime raises the stakes for foreign brands",
@@ -2866,7 +3009,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.375Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2875,7 +3018,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s geographical indication regime is becoming a more important part of international brand protection, particularly for right holders seeking to defend origin-linked names through collective or certification trademarks. Foreign applicants must plan around home-country evidence, CNIPA filing requirements, genericness risks and Chinese-language naming, while the EU–China GI agreement offers a v...",
-            "id": "a30"
+            "id": "a33"
           },
           {
             "title": "Securing patent protection for generative-AI inventions amid unprecedented global investment and newly implemented reform to examination guidelines",
@@ -2885,7 +3028,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.375Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2894,7 +3037,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s GenAI boom is reshaping patent strategy as fast-moving innovation, broader applicant participation and newly amended examination guidelines create fresh challenges for securing protection. Effective filings must be tailored to the distinct risks of model, intermediate and application-layer inventions, with careful attention to eligibility, enablement, detectability, flexible claim drafting...",
-            "id": "a31"
+            "id": "a34"
           },
           {
             "title": "China's use-based trademark reforms overhaul foreign brand protection",
@@ -2904,7 +3047,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:01.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.375Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2913,7 +3056,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s 2026 Trademark Law revisions mark a decisive shift away from registration-led brand protection towards a regime built around bona fide commercial use. Foreign enterprises stand to benefit from stronger tools against squatting, hoarding and misleading use, but must also rethink defensive filing strategies, improve evidence-gathering and ensure their China trademark portfolios can withstand ...",
-            "id": "a32"
+            "id": "a35"
           },
           {
             "title": "China draws the line between lawful product repair and trademark infringement",
@@ -2923,7 +3066,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.375Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2932,7 +3075,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "As China’s circular economy expands, courts are drawing finer lines between lawful resale and the unauthorised exploitation of brand goodwill. Clear labelling, removal of original marks and licensing become critical where repairs move beyond maintenance into remanufacturing, reconstructive refurbishment or repackaging.",
-            "id": "a33"
+            "id": "a36"
           },
           {
             "title": "China makes drug trial data protection a commercial lever",
@@ -2942,7 +3085,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.376Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2951,7 +3094,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s long-awaited drug trial data protection regime has moved from principle to practice, giving pharmaceutical companies enforceable exclusivity periods of up to six years and reshaping market-entry strategy for both originators and generics. The new framework clarifies protection terms by drug class, introduces a valuable “global new indication” route and creates practical filing opportunitie...",
-            "id": "a34"
+            "id": "a37"
           },
           {
             "title": "China’s e-commerce boom drives fresh urgency for online brand protection",
@@ -2961,7 +3104,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.376Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2970,7 +3113,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s vast e-commerce market offers major opportunities for foreign brands, but counterfeit goods remain a persistent threat across domestic and cross-border platforms. Brand owners can strengthen online protection by securing Chinese trademark rights early, preserving digital evidence, using platform complaint portals and 12315 administrative channels strategically, and tracking fast-evolving r...",
-            "id": "a35"
+            "id": "a38"
           },
           {
             "title": "From volume to value: China’s patent pivot rewards quality over filing volume",
@@ -2980,7 +3123,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.376Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -2989,7 +3132,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s patent system is moving away from filing volume and towards patents that demonstrate clear technical contribution, measurable effect and real enforceability. International businesses must adapt China filings to local examination practice, rethink filing metrics and focus investment on patents that protect core technology, withstand challenge and create leverage in licensing or enforcement....",
-            "id": "a36"
+            "id": "a39"
           },
           {
             "title": "Managing infringement risks across the supply chain",
@@ -2999,7 +3142,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T07:00:00.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.376Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3008,7 +3151,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s revised trademark framework, recent Supreme People’s Court decisions and updated trade secret rules are pushing companies to treat IP protection as an operational supply-chain discipline, not a filing exercise. Brand owners using Chinese manufacturers, franchisees, suppliers or logistics channels need evidence-led systems covering trademark use, Class 35 strategy, NNN agreements, patent ow...",
-            "id": "a37"
+            "id": "a40"
           },
           {
             "title": "How royalty determination is evolving in China and key takeaways for litigants",
@@ -3018,7 +3161,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T06:10:44.000Z",
-            "fetchedAt": "2026-09-16T23:16:31.376Z",
+            "fetchedAt": "2026-09-17T01:44:14.943Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3027,12 +3170,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Royalty determination proceedings play a distinct and strategically significant role in SEP-related disputes, and China is one jurisdiction in which courts may proactively determine licensing terms solely upon one party’s request. Gaining a deeper understanding of the development of royalty-setting cases can help parties build more flexible strategies and achieve greater predictability in resolvin...",
-            "id": "a38"
+            "id": "a41"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -3043,44 +3186,65 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-16T23:16:34.821Z",
+        "generatedAt": "2026-09-17T01:44:20.186Z",
         "date": "2026-09-17",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a4"
+                "a8"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
               "articleIds": [
-                "a10"
+                "a14"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "market-performance: RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
               "articleIds": [
-                "a26"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-              "articleIds": [
                 "a29"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
+            "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+            "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T00:55:35.000Z",
+            "fetchedAt": "2026-09-17T01:44:12.203Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "id": "a2"
+          },
           {
             "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
             "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
@@ -3089,7 +3253,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -3099,7 +3263,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -3109,7 +3273,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T17:17:13.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3119,7 +3283,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-            "id": "a10"
+            "id": "a14"
           },
           {
             "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -3129,7 +3293,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T19:35:04.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3139,7 +3303,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-            "id": "a22"
+            "id": "a25"
           },
           {
             "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
@@ -3149,7 +3313,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T16:55:33.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -3160,7 +3324,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-            "id": "a24"
+            "id": "a27"
           },
           {
             "title": "Qualcomm Just Got a ‘Foothold’ in the AI Data Center Race. How to Play QCOM Stock Here.",
@@ -3170,7 +3334,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-15T14:11:10.000Z",
-            "fetchedAt": "2026-09-16T23:16:29.163Z",
+            "fetchedAt": "2026-09-17T01:44:12.273Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -3180,7 +3344,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "RBC is bullish on Qualcomm after its Amazon AI deal. But with QCOM stock still below its 52-week high, is this the opportunity investors have been waiting for?",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "When R&D Counts as a Domestic Industry",
@@ -3190,7 +3354,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-14T16:11:06.000Z",
-            "fetchedAt": "2026-09-16T23:16:32.681Z",
+            "fetchedAt": "2026-09-17T01:44:17.735Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -3201,12 +3365,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-            "id": "a29"
+            "id": "a32"
           }
         ]
       }
     },
-    "totalArticles": 41
+    "totalArticles": 45
   }
 };
 

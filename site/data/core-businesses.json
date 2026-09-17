@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-16T23:16:34.821Z",
+  "generatedAt": "2026-09-17T01:44:20.186Z",
   "date": "2026-09-17",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
         "articleIds": [
-          "a11"
+          "a15"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
         "articleIds": [
-          "a23"
+          "a26"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-16T15:53:12.000Z",
-      "fetchedAt": "2026-09-16T23:16:29.733Z",
+      "fetchedAt": "2026-09-17T01:44:13.430Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T19:27:22.000Z",
-      "fetchedAt": "2026-09-16T23:16:29.163Z",
+      "fetchedAt": "2026-09-17T01:44:12.273Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-      "id": "a23"
+      "id": "a26"
     },
     {
       "title": "Smartphone Chip Stocks Rally While Large-Cap Technology Slips: Skyworks Jumps 11%, Qorvo Rises 7%, Qualcomm Climbs 4%",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T15:55:13.000Z",
-      "fetchedAt": "2026-09-16T23:16:29.163Z",
+      "fetchedAt": "2026-09-17T01:44:12.273Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Three handset chip names are surging while the rest of large-cap tech slides lower, and no earnings release or analyst note explains the divergence. The reason behind the rotation tells you something important about where semiconductor money is quietly moving.",
-      "id": "a25"
+      "id": "a28"
     }
   ]
 }
