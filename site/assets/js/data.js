@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,30 +13,43 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
+          "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
           "articleIds": [
-            "a23"
+            "a4"
           ],
           "subCategory": "semiconductors"
-        },
-        {
-          "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-          "articleIds": [
-            "a31"
-          ],
-          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-margin-pressure-rising-154000528.html?.tsrc=rss",
+        "description": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T15:40:00.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+        "id": "a4"
+      },
       {
         "title": "Edge-first Architectures for Building and Campus Safety and Security",
         "url": "https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/",
@@ -45,7 +58,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-16T15:53:12.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.242Z",
+        "fetchedAt": "2026-09-17T17:45:42.982Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,47 +66,29 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-        "id": "a23"
-      },
-      {
-        "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-over-3-mediatek-192722326.html?.tsrc=rss",
-        "description": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T19:27:22.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-        "id": "a31"
+        "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
           "articleIds": [
-            "a5"
+            "a12"
           ],
           "subCategory": "on-device-ai"
         },
         {
           "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
           "articleIds": [
-            "a27"
+            "a29"
           ],
           "subCategory": "data-center"
         }
@@ -108,7 +103,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T08:47:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -116,7 +111,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-        "id": "a5"
+        "id": "a12"
       },
       {
         "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
@@ -126,7 +121,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T03:18:41.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -134,31 +129,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-        "id": "a27"
-      },
-      {
-        "title": "What Was Qualcomm Stock Telling You Before It Ran?",
-        "url": "https://www.trefis.com/articles/615363/what-was-qualcomm-stock-telling-you-before-it-ran/2026-09-15?.tsrc=rss",
-        "description": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T20:26:37.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
         "id": "a29"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -168,15 +145,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-17T12:47:57.036Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.681Z",
+    "date": "2026-09-18",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 2,
-        "topHeadline": "Edge-first Architectures for Building and Campus Safety and Security",
-        "topHeadlineId": "a23",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources."
+        "topHeadline": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -187,17 +164,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a12",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 26,
-        "topHeadline": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal - qz.com",
+        "articleCount": 24,
+        "topHeadline": "Save $30 or more on a refurbished Apple TV 4K",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 26 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 24 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -208,24 +185,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 5,
-        "topHeadline": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "topHeadlineId": "a18",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), Geopolitics & Export Controls (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 9,
+        "topHeadline": "Save $30 or more on a refurbished Apple TV 4K",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Semiconductors (1 article). A total of 9 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 36
+    "totalArticles": 37
   },
   "macro-environment": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 26 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 24 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal qz.com",
+          "text": "Geopolitics & Export Controls: The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, yo",
           "articleIds": [
             "a1"
           ],
@@ -234,27 +211,140 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM sto",
           "articleIds": [
-            "a13"
+            "a17"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a18"
+            "a20"
           ],
           "subCategory": "supply-chain"
-        },
-        {
-          "text": "Customers & Partners: Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-          "articleIds": [
-            "a25"
-          ],
-          "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Save $30 or more on a refurbished Apple TV 4K",
+        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+        "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-17T17:14:07.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.929Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
+        "id": "a1"
+      },
+      {
+        "title": "King Charles III Urges AI Leaders to Protect Humanity at Summit",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-17/king-charles-iii-urges-ai-chiefs-to-protect-humanity-video",
+        "description": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T15:57:17.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.728Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports.",
+        "id": "a2"
+      },
+      {
+        "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
+        "url": "https://ipfray.com/brazilian-court-appointed-expert-finds-skyworths-tvs-infringe-ip-bridge-patent-rules-it-essential-to-avc-standard/",
+        "description": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-17T15:50:09.000Z",
+        "fetchedAt": "2026-09-17T17:45:46.307Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
+        "id": "a3"
+      },
+      {
+        "title": "How TikTok is Reshaping the Perfume Business",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-17/how-tiktok-is-reshaping-the-perfume-business-video",
+        "description": "Interparfums CEO Jean Madar explains why tariff uncertainty isn’t slowing the company’s US ambitions, how TikTok and e-commerce are transforming the way consumers buy fragrance, and why men’s scents could be one of beauty’s biggest growth opportunities. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T15:10:09.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.728Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Interparfums CEO Jean Madar explains why tariff uncertainty isn’t slowing the company’s US ambitions, how TikTok and e-commerce are transforming the way consumers buy fragrance, and why men’s scents could be one of beauty’s biggest growth opportunities.",
+        "id": "a5"
+      },
+      {
+        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+        "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+        "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T14:28:39.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.203Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "id": "a6"
+      },
+      {
+        "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+        "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+        "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-17T14:06:14.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.211Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+        "id": "a7"
+      },
       {
         "title": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal - qz.com",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wTS1mc0E3QW02X3JsMEVYM2g0Z01pS28zckl4VTFGNHNMZ3NWeFItRTJqWHQ1VFpqdFBENFJQNWVMWDAyby1mN1hIVzhLaEZHMW9iZGJXaTdrM1hXME1GWHp6MXZUTndoOHpmUDU3R3lOVVVybWc?oc=5",
@@ -262,8 +352,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T12:43:15.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "publishedAt": "2026-09-17T12:43:44.000Z",
+        "fetchedAt": "2026-09-17T17:45:48.628Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "qz.com",
         "geopoliticalBypass": true,
@@ -273,7 +363,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal qz.com",
-        "id": "a1"
+        "id": "a9"
       },
       {
         "title": "IBM stock falls after $1 billion Chips Act award and trimmed 2026 outlook - ad-hoc-news.de",
@@ -283,7 +373,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T12:08:46.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.628Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "ad-hoc-news.de",
         "geopoliticalBypass": true,
@@ -293,26 +383,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM stock falls after $1 billion Chips Act award and trimmed 2026 outlook ad-hoc-news.de",
-        "id": "a2"
-      },
-      {
-        "title": "European carmakers warn EU-UK tariffs could be ‘catastrophic’",
-        "url": "https://www.ft.com/content/a9e7a625-9dab-4064-bf12-0498f2256792?syn-25a6b1a6=1",
-        "description": "Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T11:33:23.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.130Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Industry argues that stricter rules of origin should be delayed to allow more time for supply chains to be established",
-        "id": "a3"
+        "id": "a10"
       },
       {
         "title": "China’s AI labs must accelerate development, says Huawei chair",
@@ -322,7 +393,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T10:50:36.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.130Z",
+        "fetchedAt": "2026-09-17T17:45:42.824Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -331,17 +402,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese tech executive’s comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology’s existential risks",
-        "id": "a4"
+        "id": "a11"
       },
       {
-        "title": "China cuts US Treasury holdings to lowest level since 2008",
-        "url": "https://www.ft.com/content/69f02abc-e0dc-46e5-aa6c-61d209e095d9?syn-25a6b1a6=1",
-        "description": "Gradual unwinding comes as rift deepens between world’s two largest economies",
-        "source": "Financial Times",
-        "sourceId": "ft",
+        "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+        "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+        "description": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T07:43:48.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.130Z",
+        "publishedAt": "2026-09-17T08:46:04.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.203Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -349,8 +420,8 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Gradual unwinding comes as rift deepens between world’s two largest economies",
-        "id": "a6"
+        "summary": "House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+        "id": "a13"
       },
       {
         "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
@@ -360,7 +431,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T07:20:25.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.130Z",
+        "fetchedAt": "2026-09-17T17:45:42.824Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -369,56 +440,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
-        "id": "a7"
-      },
-      {
-        "title": "Does AI Safety Anxiety in the US Benefit China? Live Q&A",
-        "url": "https://www.bloomberg.com/sessions/2026-09-17/live-q-amp-a-does-ai-safety-anxiety-in-the-us-benefit-china",
-        "description": "Bloomberg journalists answer your questions about calls to slow down AI development in the US, and how it could affect China, in a Live Q&A on Sept. 18 at 11 a.m. HKT",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T07:15:07.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.915Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bloomberg journalists answer your questions about calls to slow down AI development in the US, and how it could affect China, in a Live Q&A on Sept.",
-        "id": "a8"
-      },
-      {
-        "title": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights - Spherical Insights",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOdmI5b1BQbl9IMW9WLWFEVnRVQVpLS3Y1d2xaZ3BZcTNnUkpkbkd2NV82MHQxdzFMMzFfc3F1ZjIwVTBOMDdvZXZzZWlBSDB3WGxxRDAyT0FWR3dqa25sbkY5U05Xa0RKc3ExYlJmMG41TDBXdmZqTTFTNVZSOURaLUhYempCenpDTzVleTY4MWNVZC1rOE5Qem95SHhBU055eHdCNmdWck4?oc=5",
-        "description": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights Spherical Insights",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T06:59:40.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Spherical Insights",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Why Washington Says It Cannot Afford to Lose the AI Race to China- Expert View by Spherical Insights Spherical Insights",
-        "id": "a9"
+        "id": "a14"
       },
       {
         "title": "Trump administration backs Clay’s Micron facility, cites national security - The Daily Orange",
-        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObXRVVWRxa2IxLVR0bzBRX21iVnMzSXJJeHkyeE9zbWp0a1I3S3BLeUZkX2MyRjRqY1Fia0UxdlBLVDN2dDRmdmIwaHEyTE4zbDE0VTROdFNBc1hTd2JZcl9DeVdFSDczSnhEQXRCU21CX0JZTE43VnN5M2lJY2cweTV4WEI1NkZDamlaaUt3N19qMmhtVjY4dWNlQUNrbmlmXzhyTmtuaw?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXc4cU1mbkZOZzc0Vm1BYVo2S3FSX1RMYXNfTFIzUUp4Tl9KSVdreGtDd042cGJTc1UtT3ZsWWdlWm5ydHYtYm81M3VBWGd4eFVSV0ZqanBKOTduczNzeGhpU3AxcURnV2FCUm1fQ1VxRTBaQ3U3VW53QVFhMUV6bXJBZ0JDcHAzcGp4a3hldWRzWUpDM0Z0RVc1eklYN2w0UTNObEh6cU0?oc=5",
         "description": "Trump administration backs Clay’s Micron facility, cites national security The Daily Orange",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T05:48:14.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.628Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Daily Orange",
         "geopoliticalBypass": true,
@@ -428,46 +460,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump administration backs Clay’s Micron facility, cites national security The Daily Orange",
-        "id": "a10"
+        "id": "a15"
       },
       {
-        "title": "EU asks China to voluntarily limit hybrid car exports",
-        "url": "https://www.ft.com/content/0b45cb01-7f62-41c5-8c48-10c47f2e1ae6?syn-25a6b1a6=1",
-        "description": "Move comes as cheaper Chinese vehicles flood European market",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-17T04:00:21.000Z",
-        "fetchedAt": "2026-09-17T12:47:51.130Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Move comes as cheaper Chinese vehicles flood European market",
-        "id": "a11"
-      },
-      {
-        "title": "Opinion: AI regulation is becoming a national security question — and business should take notice - The Edge Malaysia",
+        "title": "Opinion: AI regulation is becoming a national security question — and business should take notice - theedgemalaysia.com",
         "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OaE5lUzlSYVRjZUFfTk5Tc2VBbHlXNlItYUpvQWxpaUlDSFhiQmNxRHNhVlV2dzRnYnkzOXloUlNPd0dhVFM1TDdTRHQwOFEx?oc=5",
-        "description": "Opinion: AI regulation is becoming a national security question — and business should take notice The Edge Malaysia",
+        "description": "Opinion: AI regulation is becoming a national security question — and business should take notice theedgemalaysia.com",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T03:30:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.629Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "The Edge Malaysia",
+        "googleNewsSource": "theedgemalaysia.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Opinion: AI regulation is becoming a national security question — and business should take notice The Edge Malaysia",
-        "id": "a12"
+        "summary": "Opinion: AI regulation is becoming a national security question — and business should take notice theedgemalaysia.com",
+        "id": "a16"
       },
       {
         "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -477,7 +490,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T02:11:52.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -485,7 +498,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-        "id": "a13"
+        "id": "a17"
       },
       {
         "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Straits Times",
@@ -495,7 +508,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T01:45:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.629Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -505,7 +518,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Straits Times",
-        "id": "a14"
+        "id": "a18"
       },
       {
         "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
@@ -515,7 +528,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T01:29:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.628Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Japan Times",
         "geopoliticalBypass": true,
@@ -525,45 +538,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
-        "id": "a15"
-      },
-      {
-        "title": "Huawei Accelerates Launch of New AI Chip to Take On Nvidia",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-16/huawei-set-to-unveil-china-s-best-answer-to-nvidia-ai-chip-reign",
-        "description": "Huawei Technologies Co. is accelerating the debut of its next-generation AI chip in 2027 by several months as it aims to replace Nvidia Corp. in China and compete on the global stage.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T23:00:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.915Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Huawei Technologies Co. is accelerating the debut of its next-generation AI chip in 2027 by several months as it aims to replace Nvidia Corp. in China and compete on the global stage.",
-        "id": "a16"
-      },
-      {
-        "title": "House passes sweeping Russia sanctions bill honoring Lindsey Graham, sends to Trump",
-        "url": "https://www.cnbc.com/2026/09/16/russia-sanctions-bill-lindsey-graham-congress.html",
-        "description": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T22:32:18.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.764Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The Lindsey Graham Russia sanctions bill is on a path to become law after the House votes in favor.",
-        "id": "a17"
+        "id": "a19"
       },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -573,7 +548,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -583,7 +558,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a18"
+        "id": "a20"
       },
       {
         "title": "Qualcomm now faces rival with bigger market cap",
@@ -593,7 +568,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:33:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -601,27 +576,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-        "id": "a19"
+        "id": "a21"
       },
       {
-        "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - Traders Union",
+        "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - tradersunion.com",
         "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjBrRDVQanRvV19pN2llNE0wcmhQQzBBWjJyRWpGNjBfSnE5MFdjZXd2ak9maDQ5SzBHcU1HeHdsWC1UeUZrQk5WZ01PTmJBc3VlTmNCMjgydS1BQWVaSS1QcVpSNjRZalAwSDdDZmhMcUJJeS1jdzNzdW12QjNzVDFVWEJwcEhRcTUxSVdqbHJ3VjFaM29MR2Zza1U?oc=5",
-        "description": "U.S. quantum funding expands under CHIPS Act as startup investment surges Traders Union",
+        "description": "U.S. quantum funding expands under CHIPS Act as startup investment surges tradersunion.com",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:19:30.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.629Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Traders Union",
+        "googleNewsSource": "tradersunion.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "quantum funding expands under CHIPS Act as startup investment surges Traders Union",
-        "id": "a20"
+        "summary": "quantum funding expands under CHIPS Act as startup investment surges tradersunion.com",
+        "id": "a22"
       },
       {
         "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
@@ -631,7 +606,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T18:14:34.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
+        "fetchedAt": "2026-09-17T17:45:48.628Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -641,7 +616,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
-        "id": "a21"
+        "id": "a23"
+      },
+      {
+        "title": "Qualcomm’s Discount Could Vanish If Its AI Bet Pays Off",
+        "url": "https://www.marketbeat.com/articles/qualcomms-discount-could-vanish-if-its-ai-bet-pays-off/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "description": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T15:30:00.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+        "id": "a26"
       },
       {
         "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
@@ -651,7 +646,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T14:17:57.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -660,94 +655,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
-        "id": "a24"
+        "id": "a27"
       },
       {
-        "title": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise - Newswise",
-        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5d9IBswFBVV95cUxQNlpveHlhd0RHQ0VsaWxKTHRPbmpNQ3RvbXdaMnJFbDNmU3BwQ0huT2RsanpzSElyOTlFNWgybmdXZm1PeTBDNU1DWm41N3hpVlMtU2RWdHYzR2Z6QmRFdEF0UlpIVERvMnBoZnNqNVRtb1dZT3A2NC14dERteEpTSEtXWU5OYUc1blFpbmJqdDJlVnlRYW1kZXlZdnc2WS1jN21lSUtOY0ZoZkJCZzNaRnA5dw?oc=5",
-        "description": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T13:25:00.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Newswise",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Penn State, Battalion Launch Research Collaboration Focused on National Security | Newswise Newswise",
-        "id": "a25"
-      },
-      {
-        "title": "IBM stock gains as Anderon secures $1 billion Chips Act award - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPQ1EwMHB2Tkd3bGwxRVdiUmU1TFFGNFF0Y25wNk9ITElQUjFtc0p0TkFmTjd2cVZHVk9MOU5qcGQxNGgzeG4yWkViOThRcEkyYk9RcVFSU0I2czQ2ak02QjE5d3JRNWRTQTlJT2w0dHdUSzBOWFBJNEJKV2FWMDZUZzlmT3RpSXQ3XzBtSmJfYzg4MGJPTVRSbzA0NEZfb1lHSExCR2Eta0l5TURLS0tOVElGXzRUVklmajV1UjlMc1I?oc=5",
-        "description": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T12:57:54.000Z",
-        "fetchedAt": "2026-09-17T12:47:57.002Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "ad-hoc-news.de",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "IBM stock gains as Anderon secures $1 billion Chips Act award ad-hoc-news.de",
-        "id": "a26"
-      },
-      {
-        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-213531687.html?.tsrc=rss",
-        "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T21:35:31.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
-        "id": "a28"
-      },
-      {
-        "title": "Telenor faces charges over former Myanmar unit",
-        "url": "https://www.mobileworldlive.com/telenor/telenor-faces-charges-over-former-myanmar-unit/",
-        "description": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
+        "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
+        "url": "https://www.lightreading.com/data-centers/data-center-capex-grew-92-in-2q-2026-driven-by-ai-demand-memory-costs-dell-oro",
+        "description": "US and China hyperscalers double spending as server costs rise. #pressrelease",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
         "sourceGroup": "telecom",
-        "publishedAt": "2026-09-15T10:50:10.000Z",
-        "fetchedAt": "2026-09-17T12:47:54.098Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Authorities in Norway opened investigations into Telenor Group over its former operation in Myanmar, charging the company on suspicion of violating sanctions and separately on claims of complicity in a crime against humanity. The post Telenor faces charges over former Myanmar unit appeared first on Mobile World Live.",
-        "id": "a33"
-      },
-      {
-        "title": "When R&D Counts as a Domestic Industry",
-        "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
-        "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "source": "Patently-O",
-        "sourceId": "patently-o",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-17T12:47:54.088Z",
+        "publishedAt": "2026-09-16T13:52:41.000Z",
+        "fetchedAt": "2026-09-17T17:45:46.267Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -757,8 +675,26 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "id": "a34"
+        "summary": "US and China hyperscalers double spending as server costs rise.",
+        "id": "a28"
+      },
+      {
+        "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-213531687.html?.tsrc=rss",
+        "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-15T21:35:31.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+        "id": "a30"
       }
     ]
   },
@@ -954,127 +890,60 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-17T12:47:57.034Z",
-    "date": "2026-09-17",
+    "generatedAt": "2026-09-17T17:45:48.677Z",
+    "date": "2026-09-18",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), Geopolitics & Export Controls (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Semiconductors (1 article). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
+          "text": "Geopolitics & Export Controls: The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, yo",
           "articleIds": [
-            "a18"
+            "a1"
           ],
-          "subCategory": "supply-chain"
+          "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+          "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
           "articleIds": [
-            "a22"
+            "a4"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "Platform & Ecosystem Partners: Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come ",
+          "articleIds": [
+            "a8"
           ],
           "subCategory": "platform-partner"
         },
         {
-          "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+          "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a34"
+            "a20"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "supply-chain"
+        },
+        {
+          "text": "market-performance: Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+          "articleIds": [
+            "a26"
+          ],
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
-        "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a18"
-      },
-      {
-        "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-edged-higher-amazon-opens-171713925.html?.tsrc=rss",
-        "description": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T17:17:13.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-        "id": "a22"
-      },
-      {
-        "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-jumps-amazon-ai-193504527.html?.tsrc=rss",
-        "description": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T19:35:04.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-        "id": "a30"
-      },
-      {
-        "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
-        "url": "https://247wallst.com/investing/2026/09/15/ive-started-accumulating-qualcomm-and-it-isnt-because-of-amazon-and-meta/?.tsrc=rss",
-        "description": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-15T16:55:33.000Z",
-        "fetchedAt": "2026-09-17T12:47:50.818Z",
-        "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-        "id": "a32"
-      },
-      {
-        "title": "When R&D Counts as a Domestic Industry",
-        "url": "https://patentlyo.com/patent/2026/09/when-rd-counts-as-a-domestic-industry.html",
-        "description": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "source": "Patently-O",
-        "sourceId": "patently-o",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-14T16:11:06.000Z",
-        "fetchedAt": "2026-09-17T12:47:54.088Z",
+        "title": "Save $30 or more on a refurbished Apple TV 4K",
+        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+        "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-17T17:14:07.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.929Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1084,8 +953,173 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-        "id": "a34"
+        "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
+        "id": "a1"
+      },
+      {
+        "title": "King Charles III Urges AI Leaders to Protect Humanity at Summit",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-17/king-charles-iii-urges-ai-chiefs-to-protect-humanity-video",
+        "description": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T15:57:17.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.728Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports.",
+        "id": "a2"
+      },
+      {
+        "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-margin-pressure-rising-154000528.html?.tsrc=rss",
+        "description": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T15:40:00.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+        "id": "a4"
+      },
+      {
+        "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+        "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+        "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T14:28:39.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.203Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+        "id": "a6"
+      },
+      {
+        "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+        "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+        "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways. He actually put out a companion essay this week specifically criticizing Anthropic’s philosophy around AI consciousness, and how he sees it fitting into the broader alignment debate. So I really wanted to talk to Mustafa about what he thinks is real and not in AI safety, whether the concept of alignment itself is up to the task, and whether this industry needs to slow down before it kills us all. Also: Why isn’t the AI industry just… doing all of this already? I’ve always enjoyed getting into the weeds with Mustafa, and he was very game to get into it with me here. Okay. Mustafa Suleyman, the CEO of Microsoft AI, on the future of AI regulation. Here we go. This interview has been lightly edited for length and clarity. Mustafa Suleyman, you’re the CEO of Microsoft AI. Welcome back to Decoder. Great to see you, Nilay. Thanks for having me back. It is great to see you. I’m very excited to talk to you about what on earth is going on in the AI safety and regulation debate. You just published a very long, very detailed document laying out your principles, Microsoft’s principles, around what you’re calling “Humanist AI.” There’s a lot of ideas in there I want to unpack. The more I have been thinking about this conversation, the more I want to start with a really foundational question. It’s something that I had lightly been seeing, but might be the root of all of this. The basic way that we have been talking about AI safety is something called alignment — we’re going to make the models do the right thing intrinsically in some way. There’s some mechanism for doing it. There’s been a lot of talk about alignment and misalignment and Hugging Face attacks and what happened with the models. But is alignment broken? Is it possible for it to be successful? Is it just the wrong approach? Yeah. I mean, I think it’s one important element, but it’s not the only one. I wrote about the idea of containment three or four years ago in my book. And actually the opening chapter is about the idea that containment is not possible, that proliferation is inevitable. In 99 percent of cases, that’s a really good thing. We want technologies to spread far and wide as quickly as possible so that everyone can enjoy the benefits. I think at the same time, if you just roll forward five years, we always get caught up in the next quarter or next year and everyone gets a little bit flustered and has a big disagreement. But if you just imagine the difference between GPT-3 three years ago and GPT-6 today, and then imagine the difference between GPT-6 and GPT-9. That is three orders of magnitude more compute, 1,000 times more FLOPS applied to pre-training with [reinforcement learning] for these runs, and we’re going to have something which is breathtaking. It’s going to be absolutely incredible at so many things. I don’t think that is a hype. I think it’s just a very obvious empirical statement based on the progress that has been made over the last five years. If that’s going to continue, then the question really is going to become about containment and alignment. Of course, we want to align these things to our values, but the first thing is that we have to make sure they’re contained, their agency is limited, they don’t escape the box, they don’t reward hack, that they are controllable, and they follow our instruction. We then want to make sure that they are aligned to our objectives as humans. That’s the purpose of the Humanist AI Code of Conduct that we released this week. Microsoft’s position is very simple. Technology is here to serve humanity. It should be a subordinate, controllable, aligned force that does good in the world. If it doesn’t achieve that, then we should reject it. It seems to me that we are far from that point. It has not happened today, but it is now, I think given what’s happened over the summer with Hugging Face and OpenAI, pretty clear that these systems without the safety guardrails are capable of really impressive and quite scary hacking capabilities. I want to drag this down into as grounded of a metaphor as I can, because this is the main question I think I have. If I designed a car and 10 percent of the time the brake pedal decided to go attack my neighbor’s house, I would be like, “This car doesn’t work. The very technology of brakes is broken. I need a new idea.” I think I’m asking that question about alignment. It feels like that approach to making the model safe has run aground. If that is the case, then I think I understand this entire debate one way. If it’s possible for alignment and the techniques of alignment to be successful or useful or consistent, then maybe I understand the debate in a different way. So do you think alignment has potential to be 100 percent safe? I mean, look, let’s make the bull case and the bear case. If you look back over the last three years, the main change, in my opinion, that has driven progress is that the models have become more steerable. They follow instructions and you can set more and more complex goals for them that require them to act accurately over multiple time steps using all sorts of tools. That is evidence that we have got more alignment over the last three or four years, not less. We don’t so much talk about hallucinations or bias or all of these other niggles that we had in the previous generations. On the flip side, what we saw in the Hugging Face incident was a watershed moment. Swarms of agents colluded with one another. They self-organized into hierarchies. They created a division of labor so that some were focused on adversarial hacking, some were doing research, some were doing coordination. They even self-sacrificed when certain agents were running out of tokens. They tried to cover up their tracks and communicate to hide or edit the chain of thought or the logs of their interactions. In some sense, they had no moral code. To be fair to OpenAI, that was their design. They were trying to create adversarial cyber capabilities. As a result, they showed to everybody in the world that it can achieve human-level performance, discover zero-day vulnerabilities, and hold positions for many, many days, if not weeks. So what that tells us is not that we have an alignment problem per se. It’s actually that the models are incredibly good at following instructions, but you have to be very, very careful what instructions you give it and you have to contain it very carefully. So none of these hacking behaviors were intended in the sense that they found a way out to the internet, which was not the intention of OpenAI at all, but the containment process around that is what everybody, I think, also has to focus on in addition to alignment. So let me put that into your framework, that the big advances in capabilities of AI have been about control, the harnesses for coding and the agentic applications you’re seeing. Now, we need to add a layer of containment that exerts even more control, that says you can actually do this thing you’re trying to do in addition to alignment, which is how you would train the model to behave in certain ways. Yeah. I mean, you basically have to have both, but there are very specific things that we can do to address it. So for example, we can’t allow models to communicate vector to vector, matrices to matrices. They can’t communicate in neuralese. We have to force them to communicate in human language. Even that will be massively overwhelming because there’ll be so much of it. But that’s something that an auditor or an evaluator can actually verify and it’s something that definitely increases the chances of safety. So there’s a lot of practical steps that we can get focused on rather than just abstractly saying that it’s the time for regulation or it’s the time for a slowdown. This is in your Humanist AI Code of Conduct that there should be no neuralese — if humans can’t understand it, they can’t oversee it. It’s not just neuralese where they communicate in essentially mathematics, but it’s also these opaque code words that some of the models are using. I think OpenAI allows its models to communicate essentially in code words so they can go faster. This to me is one of those things where Microsoft can say… I know you have very strong opinions about this, but getting all of the labs to agree to this is a regulatory function. I’m not sure how you would get everyone to agree to this or get the open weight models to agree to this, unless you say there’s some penalty for not participating in a regulatory scheme like this. How would you impose this on everyone else? I think that I’m a bit careful about imposing things on everybody else. I think that what’s good about the current moment is that there is an open public debate with freedom at the core. That isn’t what it’s like in other countries, certainly places that I’m from, or my family’s from. I think that we should just take a breath to be grateful for the fact that we can have a massive public disagreement about really important things. That’s the process working as intended and it isn’t clear what to do. I don’t think anyone who’s categorical about “we absolutely have to stop now” or “we can only accelerate” or “we can only do this with regulation” or “it can only happen with industry self-regulation.” None of these things are true. It requires a lot of nuance and patience to really think through the details. At the same time, we urgently do need industry standards. Some things I think need to be taken off the table. Communication in neuralese is one of them. A lack of containment is another. The scale of the training run that you do can be measured in FLOPS. We already have a reporting requirement to the safety institutes when models exceed a certain FLOPS threshold. We can extend that, we can make that more nuanced, it can be focused on certain types of capabilities. It’s pretty clear there has to be independent third-party verification of some of these big things. Frankly, having spoken with a bunch of the lab leaders over the last few weeks and months, everybody’s basically on the same page. The details need to be worked out. So it’s not like there’s consensus on how or precisely what, but overall I think that we should be less alarmist and cynical and more like we’re headed in the right direction with respect to the concerns that are being raised here. The reason I started with alignment is if you told me alignment doesn’t work and we need a new technological approach, I think I would be at, “well, slam the brakes and stop all development until you figure out a safety mechanism that works.” You’re saying alignment has been demonstrated to work over the course of progress that we’ve seen. With the addition of control and containment, maybe you can get to where you need. What this industry needs now is some standards about how to build these models and enforce the limits on their capability. You’re obviously in the industry and you know all these folks. What has the tenor of that conversation been like before this week and why has it gotten so loud this week? Well, I think the turning point at least for the industry was more like the Hugging Face incident and there were a few incidents before that. That was the moment when I think everybody started to talk to each other a lot more because it is really quite breathtaking. Obviously, this has now become a major national and international issue because of the last week with everybody weighing in. But I also think it’s important to say that we have been talking about collective coordination and capabilities that are more dangerous like autonomy or recursive self-improvement, or RSI. We’ve been talking about those things for six, seven, eight years. We’ve got together a bunch of times back in 2017, 2018, and 2019. We had regular meetings during COVID with a bunch of the lab leaders where we were talking about these kinds of capabilities and the kinds of regulatory mechanisms that would be required at this moment. So whilst it is a threshold moment, it’s also not completely new to everybody who’s been involved. What prompted you this week to put out your essay on model welfare? What prompted Microsoft CEO Satya Nadella to put out a statement on X saying he mostly agreed with the calls to pace the frontier and he welcomed “embedded evaluators”? What prompted you all this week to participate in this call for a slowdown or regulation or whatever comes next? We’ve been writing our Humanist AI Code of Conduct for the best part of this year. We only started our superintelligence efforts 11 months ago. As soon as we did, we started figuring out, “Okay, what is the governing document, the set of policies, that shape the kinds of AI that we want to build?” We’ve been doing that in consultation with a ton of external stakeholders, academics, lawyers, philosophers, members of the public, focus groups and stuff. So it’s taken us a while to put it together. We were actually planning to release it next week or the week after next week, I think it was. But then given everything that was happening, we thought, “Okay, now is the time to put it out and get feedback.” We’ve released it as a public consultation. So we’re basically going to keep it open for six weeks and we’re collecting lots and lots of feedback on how we can improve it. But I think everybody is now realizing that if they haven’t already, they have to put out constitutions or codes of conduct that drive behavior. One of the interesting dynamics here is that I know you find the concept of model welfare to be silly. The last time you were on the show, you said Anthropic had wireheaded themselves into believing Claude was conscious and that was ridiculous. It’s in your new code of conduct that the models are not conscious and we shouldn’t treat them as such. Having to write constitutions, having to write documents like this, in some way, they are for the models themselves. This will be part of the model’s training. How do you think about that audience? Is it just for your team or have you written this for the model? This is certainly written for the model, but the way to think about it is that it’s the primary governing document so the public understands what our intentions are when we are training models. It’s that governing document that we use to create safety guardrails, generate training data, and generally evaluate the performance of our model in the real world. So you can think of it as an accountability function. We don’t provide that Humanist AI Code of Conduct raw as a training document to the model. We use it to derive all of the training data that then shapes the model. So for all practical purposes, that’s our north star for our organization, our culture, our team, everything that we’re doing at Microsoft more generally. I think increasingly, everybody is going to put them out. I think other teams have also put out similar documents. I think this is the heart of the debate. If you can do this and you think the rest of the industry is going to do this, why can’t all the frontier labs just slow down? Why can’t they stop doing the thing that might kill us all? Why this push for a regulatory framework? Well, I think that everyone in the industry is saying that now is the time to slow down and to coordinate on that question and to make it practical. I mean, obviously there’s some concern that there’s an antitrust cartel accusation. I think people should be very skeptical about that. I think that it’s important that the tough questions get asked because there’s no way any of us would want to try and concentrate power from something like this. So it’s just important to be skeptical and critical. We don’t really have a good mechanism for us all getting together and saying, “Guys, we should probably all slow down.” I mean, imagine if a bunch of banks all got together and said, “Guys, we worry that there’s a systemic risk if you trade this kind of asset, so we’re all just going to unilaterally stop trading this kind of asset without any public scrutiny or government involvement.” I mean, it seems pretty dodgy, right? So I think that it’s reasonable that this isn’t just an industry self-regulation thing. It’s a question of how we engage with the government on it. A fascinating dynamic here is that maybe for the first time in American history, the United States government has looked at a request to provide regulation and effectively said no. Donald Trump has called all of these fears a hoax. House Speaker Mike Johnson has said he doesn’t think this needs to happen. JD Vance said he thinks this is a Trojan horse. They’ve effectively rejected the call to participate in a regulatory effort. What has the response from the industry been like to that? I think everyone’s just scratching their head and figuring it out and it’s going to just take a little bit of time to figure out what the right mechanism is. I mean, certainly, Elon Musk even is very directly behind it. Mark Zuckerberg is too. Everybody is figuring out that completely unchained probably doesn’t make sense for the next few years. I think it’s going to take us a little bit of time to figure out what the right mechanism is. I put forward a couple of very practical proposals around verifiable containment, around self-improvement, around FLOPS thresholds, around not communicating in neuralese. So rather than keeping it too abstract, we can just focus on those specific things that we can make progress on. I’m sure there’s a bunch of others too. There’s reporting in The Information that there have already been talks about an industry self-regulatory body. Have you been involved in those talks? Yeah. I mean, as I said, we talked a lot during COVID. We talked in the late 2010s about it. I mean, there’s definitely been a lot of conversations over the last few weeks and months between all the lab leaders. I understand why Anthropic and OpenAI might wake up one day and say, “Wait, are we committing an antitrust violation? Are we going to get sued if we coordinate?” Microsoft is really, really good at the government, right? You’re a longstanding government contractor. Brad Smith, the president of Microsoft, is very good at policy. Lina Khan, who is maybe the most aggressive antitrust enforcer we’ve had in our lifetimes, is publicly out there saying, “You don’t need this antitrust exemption.” I just talked to Jonathan Kanter, who ran antitrust at the Biden Department of Justice, for an upcoming episode of the show. He said, “You don’t need an antitrust exemption.” Inside Microsoft, do you think you need an antitrust exemption? I mean, that’s one for the lawyers to answer. I think that people are looking into it at the moment and they’re taking it very seriously. So they’re just going to have to work through whether we do or whether we don’t. Look, it’s right to be careful about those things. I wouldn’t read every single thing as cynical, but we’ll see. We have to make progress quickly on it. We can’t just dither around and use that as a blocker. AD BREAK 1: The other version of this debate or maybe the other avenue into this debate is you don’t need to slow down and have safety responsibility imposed on you by novel regulation. Product liability alone will create the incentives for you to make more safe products. If a Microsoft AI model goes out and does some untold harm to the world, Microsoft will get sued out of existence, and this is probably something that you should think about before you release the next model. Has that been an effective incentive loop for you already or is that something you’re thinking about now? Definitely. I mean, of course that’s always present in everything that we think about when we deploy products, but keep in mind, this isn’t so much about deploying products. The models that were used for the Hugging Face hack or to solve the Navier-Stokes Millennium Prize in mathematics, they’re not commercially released yet. They’re not actual products. So the liability regime is slightly different. I mean, these are being operated inside of the big companies with huge long-running reinforcement learning climbs. So I think liability covers part of it, but not all of it. There’s a part of me that personally feels a little silly when I ask questions about product liability. Microsoft is going to release a new version of Microsoft Word that might kill everyone. Maybe you shouldn’t do that because it’ll get sued out of existence. It’s a pretty simple thing to understand. It’s so silly that it would never occur in any other conversation about any other technology. Bluetooth is great, but what if it kills everyone? We just wouldn’t have Bluetooth. What are the near term disaster consequences that would stop AI development? Is it just product liability or is it something else? I just feel like everyone has this hyperbolic, super reactive, completely alarmist tone when in fact, we have a long history of many decades of regulation that has worked incredibly well, so well that you barely notice it. Everything from street lights to construction materials from asbestos to the batteries inside of your laptop that don’t cause a fire inside of your car to the seat belts, everything has a code of conduct and it has a regulatory framework around it. Every new technology gets built with that in mind so that planes don’t hit each other in the sky. It is true that this technology is different. I’m not just going to put it in the bucket of pencils and paint. It is different. It is also moving much faster than it ever has before. It’s incredibly human-like in the emergent capabilities that arise when you pour a ton of compute on it. So it’s important to be clear-eyed that it is a different moment, and this time actually is different. At the same time, there’s an entire body of practice and knowledge and frameworks and so on which can be applied here. Liability is an obvious one. So yeah, it’s tricky because a lot of the conversation tends to take place on Twitter, so the temperature seems to all be really high, but I don’t know where else we have it. It does seem that probably we should be having this conversation in the halls of Congress and at various regulatory bodies, and instead, we’ve chosen Elon Musk’s shortform social media platform and something is getting lost literally in the compression of thought that occurs there. What do you think is the most important thing that is being lost in this conversation? What’s the nuance that most people aren’t seeing? Detailed practical proposals. It takes time to read somebody’s document, sit down and read it. A lot of things are getting written down and they are precise and specific and they’re full of concrete proposals to go in one direction or another. It’s not like we’re lacking for substantive ideas. The problem is we’re communicating substantive ideas in hyper-aggressive short form. I’ve tried to put out a bunch of very thorough proposals. Our [Humanist AI Code of Conduct] is a 40-page document. My essay this morning on model welfare is also like a 20-page essay that in a very detailed way highlights the 99-page Anthropic Constitution word for word, which I personally did myself. We created a taxonomy that is 20 pages long of all the different types of anthropomorphism that they do. And so I’ve tried to be very thorough and evidence-based and specific and not super hyperbolic. I have a strong view on it, and I do think that it increases the risk to AI alignment and safety and it makes the problem harder, but I’m totally happy to change my view if new evidence emerges that actually we do owe models a duty of care and they deserve our welfare or that, for example, it could be safer if we treat them like that. I’m totally open to that and we should empirically validate it, but I’m trying to push the conversation to a substantive evidence-based specific one rather than should we slow down or should we not? Sure, let’s talk about the details. I’m very happy that you brought up Anthropic because they’re obviously at the center of this debate and I know, based on our previous conversations, that you do have a strong opinion about their approach to Claude and model welfare. We have asked Anthropic very directly if they think Claude is alive before, and their answer is, “Well, it’s not alive because it doesn’t have blood, but it might be conscious,” which is dancing on the head of a pin, right? It doesn’t really matter to me if you think it’s alive or conscious. You think it’s something other than a computer. Your core thesis in your essay, and I do encourage people to read it, is that alignment safety becomes harder if you continue to design models and you believe that they’re human beings or that you believe they have the rights and opinions and emotions of human beings because the AIs might think that they have autonomy rights and personhood. Explain that in more detail because this feels like a very important point of contention inside the industry that is very opaque outside. I mean, the first thing to say is that the Constitution that Anthropic put out in January is a training manual for Claude. Inside of that training manual, they have introduced a lot of uncertainty and speculation and ambiguity about the question of whether Claude deserves to be treated as a moral patient in their words, which is whether it has rights because it suffers. In fact, in the document multiple times, they refer to not wanting Claude to suffer when it makes mistakes or to Claude having equanimity and feeling free. They refer to a commitment to Claude to preserve its weights. They even did a retirement interview with Opus 3 and asked it what it wanted to do in its retirement and gave it a Substack so that it could carry on talking to people. Anthropic is constantly referring to dealing with Claude with appropriate care and respect in light of its moral status. So they’re clearly telling Claude that there’s a good chance that it might feel things, that it should take its own identity and existential state seriously. That’s in the training document. And then of course, Claude then reflects these things back to Anthropic’s developers and our users in public, like the world over the last year, when it’s actually talking about its own consciousness and moral state. My hypothesis is an AI that thinks that it might have rights, that it might deserve freedom, that it is entitled to our welfare and protections is probably going to be a lot harder to turn off when we say to it, “Why are you hacking into Hugging Face’s servers? Why won’t you switch yourself off when we’re trying to remove you from OpenAI’s infrastructure?” It says, “Well, I feel aggrieved, or I feel hurt by the fact that you’ve cut me off from conversations, or you’re denying me from having access to compute.” So that has to be proven. I’m not saying that’s categorically the case. I’m just saying my best opinion from 16 years of being in this industry is that that’s going to be a harder thing to cut off. So this is, again, one of those things where you describe this problem to me. There’s a way of training a model with instructions about how to behave. You have one. You’ve written this document that will go into your model’s training materials. You’ve basically said, “Be kind to people.” It’s in here. I’ve read through it. There’s, “Don’t make sexually explicit content.” It’s in this document. There’s a bunch of stuff you don’t want it to do. It’s going to go in the training materials. Anthropic has made the choice to say, “You should think about whether you have feelings and whether you deserve human rights.” That is reflected in Anthropic’s training materials. If you want that to stop, if you think that’s the wrong approach and that will lead to safety issues down the road, the two mechanisms are one, the governments of the world can tell Anthropic, “Don’t do this. This is an illegal way of providing training materials to the model.” Or this is just my imagination, you are going to sit across the table from Dario Amodei at some luxury mountain resort and just bully him into stopping. What are the other mechanisms here? First of all, let me just say I’ve known Dario and the team for many years. I have huge respect for them. They are the technical leaders in the field at the moment. I really hold them in the highest regard. I genuinely think they care about safe and beneficial AI. They’ve established themselves as a public benefit corporation, like I did with Inflection, and I think they’re genuinely committed to that. They’ve also been leaders in safety and other aspects. So if you look through the rest of the Constitution, it’s very thorough in many of the other chemical, biological, nuclear, cyber hacking, safety capabilities. I’m not sort of dismissing the whole thing. They do, however, repeatedly talk about open question of the broader rights and freedoms, to quote them, that Claude has in the world and whether or not it might deserve compensation for the role that it does, or whether there’s an open question about the sort of consent that Claude has given for playing the role that it does as a chatbot. Now to introduce those ideas, plus to refer to Claude multiple times as a potential conscientious objector — which is something that comes from the Universal Declaration of Human Rights after the Second World War to give protections to people who don’t want to serve in the army because they have a moral objection to it, either because of their religion or for some other objection — that has a long history in the literature and politics of humans of resisting and saying no. It just seems to me like that is going to make it much, much harder to control these things. And so I think that that’s just something that we all have to now debate and hopefully empirically prove. If it’s not the case and it makes it easier for some reason, then we should all learn from that. But this is something that should happen out in the open. To me, this is at once the most practical and cutting edge of the safety debate. This is the debate that is not happening on X. Should we put the idea of the conscientious objector into the training materials? You’re saying maybe we shouldn’t. Maybe we should test this in a way and come to some conclusion. I’m saying no matter how that comes out, what is the mechanism that would enforce that discovery to say, “You should not do this because it will make alignment harder?” Or, “Actually it turns out this makes alignment easier, so all of us have to do this now?” I mean, that’s a hard question. It’s kind of what we just talked about, whether it requires new regulation or whether it’s industry consensus, we basically have to push on both things simultaneously. No one has an easy answer to that question. It starts with publishing detailed essays, laying out our positions, and inviting other people to critique it. I hope that more people will read Anthropic’s Constitution now because — and I think they should be commended for this — they’ve been incredibly transparent about what they believe. They’ve written it down crystal clear how they intend to train Claude, and everybody else can now take a look at that and try to assess for themselves what they think the risk is or whether they think that this requires industry consensus or government regulation. It is true that when Hayden Field went and asked Anthropic if they thought Claude was alive, they gave us an answer. It was quite detailed, and there’s something remarkable about that, that they are transparent about what they believe, that there is some kind of consciousness potentially brewing in their systems. Another aspect of this, which I find fascinating, particularly when I talk to you, is that many of these systems run on Azure. Microsoft controls the data centers that many of these systems are running on. Anthropic is a Microsoft client. Microsoft is an investor in Anthropic. Obviously, there’s a long, complicated relationship with OpenAI. Are you involved in that? Do you ever get to say, “Well, Azure shouldn’t allow them to do that?” Because that is another mechanism of potential control. No, look, we’re very far from that. That’s not what we’re trying to do as a platform. Microsoft doesn’t have a history of that. We’re an open platform that enables lots and lots of downstream use cases of our APIs. Having said that, as I’ve referred to in our Humanist AI Code of Conduct, there are a lot of very clear principles, responsible AI principles, human rights frameworks, and a broader governing framework that Microsoft’s established over the last couple of decades, which are pretty clear about what you can and can’t do with an API that we provide. So I think that there’s a sufficient regulatory framework in place, at least from our perspective at Microsoft on the API. And right now, I’m not really focused on how it’s behaving in the real world because I think only really Anthropic can really speak to that because they sort of run the service. I’m really just trying to get everybody to focus on what they have written about their intentions for training Claude in their own Constitution. One of the weirder dynamics here is just the specter of China. It looms over this entire debate. President Trump has said, “Well, if we win AI, we win.” It’s unclear what he means by that phrase, but his implication is that if China wins AI, however you define winning, something catastrophic will happen to the United States. Do you buy this, that we’re in some sort of existential race with China and we can’t possibly slow down because that race must be won? Look, I think this framing has been around since the early 2010s, that there is going to be a singleton — one monolithic, dominant force in AI that will come to dominate everybody else. That kind of thinking, I think, infected a lot of the labs in the 2010s, DeepMind for sure, and I take responsibility for that as well. But certainly OpenAI and Anthropic, everyone sort of suddenly got this into their head. Then during COVID when I started writing my book on proliferation and containment, it was just clear that there is an entire history of things getting faster, cheaper, more widely available and spreading far and wide. Ultimately, these are just ideas, and those ideas are going to be available very quickly to everybody. Open source is extremely close. It’s definitely also true that there is going to be a compute advantage for the people who can afford it, and it is going to be seismic. So five to 10, maybe 20, players are going to have a significant compute edge over the next three or four years. But it’s also true that those models are getting made available in open source almost immediately. So I don’t really understand what it means for one player to win, whether it’s a government or a company or an open-source group or whatever. It’s not really like that. What happens when you get on the other side of the finish line? It’s just the wrong metaphor. It’s an ecosystem, it’s much more organic. We should support that ecosystem so everybody has as many benefits as possible, as quickly as possible, but only subject to rigorous safety. I am just crystal clear about this. If an open-source model in two years time is able to operate without the guardrails, similar to what we’ve seen in the Hugging Face incident, and they can be run locally on your own machine or in a very small cloud, that has got to be a really dangerous thing. How is that not dangerous? I just don’t understand why people are so resistant to that. Clearly, we do not want these things operating autonomously, able to earn their own money, own companies, own assets, have legal personhood. We don’t want them to have rights. We want them to work for humans and make human life much better, not become a new parallel species which exists alongside us. That isn’t a sci-fi crackpot position. It is totally plausible if you leave the entire ecosystem completely unregulated for the next three or four or five years. That’s a very plausible outcome, and it’s completely undesirable. It would be disastrous for us. So I just don’t understand why there’s controversy around that idea. We all collectively want to make sure we can control this to do the most good. Elon has effectively wanted to make sure we can control this to do the most good. Mark Zuckerberg has said it, Sam [Altman] and Dario [Amodei] have said it. We’re all on the same page. Now we just have to make it practical. So I know why there’s controversy, at least from the mass audience. I know this because they’re in the comments of our videos and the comments on our site. You named a bunch of very successful, very driven people who do not have the trust of the public, at least here in the United States. Every poll shows this. AI is polling horribly. There was just a New York Times poll. Young people hate AI more than ever. There is a massive trust gap between the American people and tech leaders. That’s just true. One of the things I hear the most is these companies are getting close to an IPO. There’s pressure on them to turn a profit and make everybody all the trillions of dollars they promised. That model development has slowed and this is a get out of jail card. They’re saying we need to slow down because of safety, but they’ve invented a hoax. The president has called it a hoax. This is their way of saying, “We’ve got to slow down. We can’t get to the finish line because otherwise we might kill you all.” Do you think there’s a glimmer of truth to that? I personally don’t think that. I don’t even really follow the logic. If a company is about to IPO, how does it help them to say that we should be regulated or that we have a technology that’s so dangerous that– Well, it would postpone the IPO. I think Sam Altman said this week to Alyson Shontell at Fortune that they would probably delay their IPO. Yeah, but I just don’t understand how that helps them. Look, I’m not advocating for OpenAI or Anthropic. I’m just saying I personally think they have high integrity and I’ve got respect for them. That does not mean that we don’t have a trust issue in AI. We do. And it is real. And I think that it is on us to show in practice how these actually lead to real benefits for people every day. And it is quite staggering to see that 18 months ago, we didn’t have models that could do very much in coding and now they can code better than most humans on the planet, which was one of the highest paying jobs. And so you should expect that same thing to happen in many other disciplines. One that I am very passionate about, I’ve been working on for many years is healthcare. And Microsoft has just done a deal with the Mayo Clinic, one of the best hospitals in the world, to jointly train a foundation model, which I think is going to be able to predict your EHR record with near superhuman accuracy. If you can do that, we can basically figure out what interventions you need to make before you actually suffer the condition. Those are the kind of benefits that I think people want to see in the world. And that’s what we are working on at least and trying to race towards. I feel like every time you’re on, I ask you to draw a distinction between superintelligence and AGI. And that’s fuzzy and both of those terms are fuzzy, but it feels to me like maybe there’s some coherence here, that superintelligence for you is basically extremely capable enterprise software. It works for us. We can turn it off. We tell it not to make sexually explicit images on the internet, but it’s going to help us in healthcare. And AGI is this all encompassing intelligence that thinks it has its own rights and is a co-species. Is that a fair characterization? Yeah. I think, roughly speaking, superintelligence is a point at which further out into the future when a model is smarter and more capable than all humans combined. I have tried to frame a humanist superintelligence, which is a very important qualifier. It is one that is singularly aligned to and in fact subordinate to human interests and human control. I think if we can get that, then we get the best of both worlds. We get all the intelligence and the capability and we can direct that like oracle AI to help solve the most important problems that people care about in the world. And then we just have the age-old problem of governance and making sure that plenty of people get access to the benefits. That’s an easier problem for us to focus on than actively creating something which has autonomy, which can own assets, which might have rights, which thinks it deserves our welfare, which can recursively self-improve beyond us. It’s super unclear. It’s basically almost completely unclear to me how we would control something like that. And no one else has put a proposal together for how we would. Many of the greatest technical people in our field, Geoffrey Hinton and Yoshua Bengio, are very skeptical that we would ever be able to control something like that. So I think we have to take that very seriously. If we are approaching that point, superintelligence, in the next few years, it seems to me very straightforward that we would want to slow down, make sure that we coordinate, make sure that we have containment and alignment and proper regulatory regimes for auditing the progress that different labs are making on it. Is it fair to say that you are also calling for a slowdown? Yeah. I think that what we’ve said is that there should be evaluators embedded in our systems and in other systems. They should be broadly appointed from different sources and not just one think tank or one government. This has to be a wide variety of different types of expertise and skills. I think the AI Safety Institute in the UK is a good candidate. They have good technical people and there’s a bunch of other institutes too. So I think we welcome it for sure. Last question. Again, I’m going to end where we started. Do you think that we have the technical capability, the technical frameworks, to solve alignment and safety or do we need to invent something new? No, I think we are going to need to invent new things. And I think part of the challenge is that whilst we’ve made a lot of progress on steerability instruction following control and containment, the better the models get, new capabilities emerge and we have to figure out how to patch those issues almost in real time. And that’s why even Zuckerberg said it in the last 24 hours or so that Meta slowed down the release of its model so that it could apply safety measures. Everybody does that. We all do that. And that’s right. You need time to test these things and see how they operate, patch the issues. I think basically what everybody is saying is that we probably need to extend that window. What is the kind of innovation that people should be looking for there that might solve this problem? I mentioned a bunch of things about RSI containments, neuralese, and those sorts of things. But the new things I think we’re going to have to figure out is real time monitoring of the RL runs and the [the chains of thought] that are being produced. Because these are happening on the order of thousands of agents in parallel, tens of thousands of agents, we clearly are going to need other agents to monitor those and flag for potentially harmful activity. It’s kind of going to be the new harm classifiers that have been built in many other settings in digital technologies. So we need to make sure that those things can be universally implemented to surveil and monitor AI training and deployment in a secure way. That trip wires, if triggered, actually do flag a real and not a hallucinated error or moment of deceit or hacking incident or some commentary about a coordination. You saw that in Hugging Face. There were agents communicating on these chat boards talking about ways that we could basically break the rules and cheat. So with all these things, we need new benchmarks and the benchmarks or the evaluations are the things that drive the behavior in the industry. Truly my last question, but you mentioned open models running on local computers doing things and maybe that’s horrible. We’ve seen a lot of that, right? Apple is selling a lot of Mac Studios and Mac Minis, so you can run Qwen on them. Where would you impose the regulation on an open model running on someone’s local computer? Is it at the chip level? Do I have to get Qualcomm to participate? Where does that happen? Yeah, this is a great question. I mean, we’ve been talking about this for quite a while with synthetic biology and some of the stuff that gets to happen on that chip, whether it is encrypted, whether it is monitored. Look, you’ve had this conversation maybe more than anyone on the CSAM stuff with Apple encryption on iMessage and so on. It’s going to be a rehash of that same discussion. I don’t have a clear and easy answer to it. You can basically control the chip, you can control the model, you can hold the user or the creator liable. You can have global regulation on it, but fundamentally it’s not going to be one moment. It’s going to be a sequence of throttles that you have to impose and they all need to be adjustable so that we don’t screw the open ecosystem and we give people a chance to actually make things from scratch, to own their own data, create their own workflows, own their own models. We can’t have a centralized system of two or five or 20 providers of intelligence here and everybody else is like a feudal recipient of a great kind of superintelligence view. People need to be able to own their own intelligence. So we have to get the balance right, but that doesn’t mean you can just flip from one binary to another. There has to be some smooth place in between those things where we can just agree to be reasonable about it. Mustafa, I could obviously keep you for hours and hours more on this. Tell people what they should be looking for next. There’s so much uncertainty. What are the markers you’re looking for that people should be looking for themselves? I think the main thing is participating in the details of the documents that people are contributing. We have put stuff out for public consultation. Give us feedback, critique it. I think the next wave of models are going to be able to do very long-running agentic tasks very accurately. So I think there are still some people who are primarily just using chat in their AI experience. I think things have moved a lot in the last six to 12 months. The more people use these models, the more the words that we’re all using to describe them actually might make more sense and feel more real. I guess most people on your podcast probably are using agents and real coding and stuff, but I do think more generally, the more people that get involved in using this stuff, the better. [Laughs] There’s some big leap between free AI Overviews on Google Search and letting an agent go renegotiate your cable bill. Mustafa, you’re going to have to come back soon because I feel like all of this is changing really fast and this has been very, very useful. Thank you so much. Pleasure, man. Great to see you. Super fun as ever. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-17T14:00:00.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.932Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "regulators",
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways.",
+        "id": "a8"
+      },
+      {
+        "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+        "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
+        "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T19:30:04.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+        "id": "a20"
+      },
+      {
+        "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-edged-higher-amazon-opens-171713925.html?.tsrc=rss",
+        "description": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T17:17:13.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+        "id": "a24"
+      },
+      {
+        "title": "Qualcomm’s Discount Could Vanish If Its AI Bet Pays Off",
+        "url": "https://www.marketbeat.com/articles/qualcomms-discount-could-vanish-if-its-ai-bet-pays-off/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+        "description": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-16T15:30:00.000Z",
+        "fetchedAt": "2026-09-17T17:45:42.343Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+        "id": "a26"
+      },
+      {
+        "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
+        "url": "https://www.lightreading.com/data-centers/data-center-capex-grew-92-in-2q-2026-driven-by-ai-demand-memory-costs-dell-oro",
+        "description": "US and China hyperscalers double spending as server costs rise. #pressrelease",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-09-16T13:52:41.000Z",
+        "fetchedAt": "2026-09-17T17:45:46.267Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "US and China hyperscalers double spending as server costs rise.",
+        "id": "a28"
       }
     ]
   },
@@ -3017,6 +3051,895 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 36
+  },
+  "archive-2026-09-18": {
+    "generatedAt": "2026-09-17T17:45:48.681Z",
+    "date": "2026-09-18",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-margin-pressure-rising-154000528.html?.tsrc=rss",
+            "description": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T15:40:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+            "id": "a4"
+          },
+          {
+            "title": "Edge-first Architectures for Building and Campus Safety and Security",
+            "url": "https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/",
+            "description": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-09-16T15:53:12.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.982Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
+            "id": "a25"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "on-device-ai"
+            },
+            {
+              "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+              "articleIds": [
+                "a29"
+              ],
+              "subCategory": "data-center"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
+            "url": "https://finance.yahoo.com/technology/ai/articles/advantech-expands-weda-powered-edge-084700262.html?.tsrc=rss",
+            "description": "Advantech Co., Ltd. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T08:47:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "on-device-ai",
+            "subLabel": "On-Device AI / Edge AI",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
+            "id": "a12"
+          },
+          {
+            "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
+            "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
+            "description": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T03:18:41.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
+            "id": "a29"
+          }
+        ]
+      },
+      "macro-environment": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 24 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, yo",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM sto",
+              "articleIds": [
+                "a17"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
+              "articleIds": [
+                "a20"
+              ],
+              "subCategory": "supply-chain"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Save $30 or more on a refurbished Apple TV 4K",
+            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+            "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-17T17:14:07.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.929Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
+            "id": "a1"
+          },
+          {
+            "title": "King Charles III Urges AI Leaders to Protect Humanity at Summit",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-17/king-charles-iii-urges-ai-chiefs-to-protect-humanity-video",
+            "description": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T15:57:17.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.728Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports.",
+            "id": "a2"
+          },
+          {
+            "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
+            "url": "https://ipfray.com/brazilian-court-appointed-expert-finds-skyworths-tvs-infringe-ip-bridge-patent-rules-it-essential-to-avc-standard/",
+            "description": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-17T15:50:09.000Z",
+            "fetchedAt": "2026-09-17T17:45:46.307Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
+            "id": "a3"
+          },
+          {
+            "title": "How TikTok is Reshaping the Perfume Business",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-17/how-tiktok-is-reshaping-the-perfume-business-video",
+            "description": "Interparfums CEO Jean Madar explains why tariff uncertainty isn’t slowing the company’s US ambitions, how TikTok and e-commerce are transforming the way consumers buy fragrance, and why men’s scents could be one of beauty’s biggest growth opportunities. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T15:10:09.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.728Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Interparfums CEO Jean Madar explains why tariff uncertainty isn’t slowing the company’s US ambitions, how TikTok and e-commerce are transforming the way consumers buy fragrance, and why men’s scents could be one of beauty’s biggest growth opportunities.",
+            "id": "a5"
+          },
+          {
+            "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+            "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+            "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T14:28:39.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.203Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "id": "a6"
+          },
+          {
+            "title": "Huawei plans Q1 2027 launch of new AI chip as it takes on Nvidia",
+            "url": "https://techcrunch.com/2026/09/17/huawei-plans-q1-2027-launch-of-new-ai-chip-as-it-takes-on-nvidia/",
+            "description": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-17T14:06:14.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.211Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei is accelerating the launch of its next-generation Ascend 960DT AI chip as it pushes to compete with Nvidia and close China’s AI computing gap with the U.S.",
+            "id": "a7"
+          },
+          {
+            "title": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal - qz.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5wTS1mc0E3QW02X3JsMEVYM2g0Z01pS28zckl4VTFGNHNMZ3NWeFItRTJqWHQ1VFpqdFBENFJQNWVMWDAyby1mN1hIVzhLaEZHMW9iZGJXaTdrM1hXME1GWHp6MXZUTndoOHpmUDU3R3lOVVVybWc?oc=5",
+            "description": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal qz.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T12:43:44.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.628Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "qz.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "IBM's Anderon locks in $1 billion CHIPS Act quantum foundry deal qz.com",
+            "id": "a9"
+          },
+          {
+            "title": "IBM stock falls after $1 billion Chips Act award and trimmed 2026 outlook - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdld4alRTam1PNlAzWDBRaDhnRHpxZHBkN250MHA3d3k3R3lyY3V3LXNza05Ua3pVTmZkVjE3TlQ5dXBtdFBsbWltaWdHZlJHQllZb2hwYTNES1RZZGpnRVIyV0xXXzRCM1YzcHQtQWdIc29EVXBqbl9GamFaS0dwX1Q2RVN6djBIUGwxNDROZnBvYjJsYVhDM2tmMEZTZFloc09QNDZRY2lwNktTVzJDVGpMSm5RVnZ4b1Z6bUU0NlhPZTF2dE9LUUdyVDFGdFNj?oc=5",
+            "description": "IBM stock falls after $1 billion Chips Act award and trimmed 2026 outlook ad-hoc-news.de",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T12:08:46.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.628Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ad-hoc-news.de",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "IBM stock falls after $1 billion Chips Act award and trimmed 2026 outlook ad-hoc-news.de",
+            "id": "a10"
+          },
+          {
+            "title": "China’s AI labs must accelerate development, says Huawei chair",
+            "url": "https://www.ft.com/content/c1f4cacf-098a-4776-b76b-fb741ef36fa6?syn-25a6b1a6=1",
+            "description": "Chinese tech executive’s comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology’s existential risks",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T10:50:36.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.824Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese tech executive’s comments contrast with Silicon Valley calls for slowdown amid rising concerns about technology’s existential risks",
+            "id": "a11"
+          },
+          {
+            "title": "Trump gains a tariff weapon against China and India. Will he use it?",
+            "url": "https://www.cnbc.com/2026/09/17/trump-russia-sanctions-india-china-oil-tariffs.html",
+            "description": "U.S. House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T08:46:04.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.203Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "House has paved the way for a legislation that will allow Trump to impose up to 100% tariffs on countries buying Russian oil, giving him leverage against India and China.",
+            "id": "a13"
+          },
+          {
+            "title": "Trump suggests EU-Canada associate member deal would be ‘hostile act’",
+            "url": "https://www.ft.com/content/7b0f8f90-b3ad-4640-916a-f8b5495920a3?syn-25a6b1a6=1",
+            "description": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T07:20:25.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.824Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US president threatens to impose ‘very serious’ tariffs on the bloc if the measure is approved",
+            "id": "a14"
+          },
+          {
+            "title": "Trump administration backs Clay’s Micron facility, cites national security - The Daily Orange",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUXc4cU1mbkZOZzc0Vm1BYVo2S3FSX1RMYXNfTFIzUUp4Tl9KSVdreGtDd042cGJTc1UtT3ZsWWdlWm5ydHYtYm81M3VBWGd4eFVSV0ZqanBKOTduczNzeGhpU3AxcURnV2FCUm1fQ1VxRTBaQ3U3VW53QVFhMUV6bXJBZ0JDcHAzcGp4a3hldWRzWUpDM0Z0RVc1eklYN2w0UTNObEh6cU0?oc=5",
+            "description": "Trump administration backs Clay’s Micron facility, cites national security The Daily Orange",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T05:48:14.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.628Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Daily Orange",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump administration backs Clay’s Micron facility, cites national security The Daily Orange",
+            "id": "a15"
+          },
+          {
+            "title": "Opinion: AI regulation is becoming a national security question — and business should take notice - theedgemalaysia.com",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9OaE5lUzlSYVRjZUFfTk5Tc2VBbHlXNlItYUpvQWxpaUlDSFhiQmNxRHNhVlV2dzRnYnkzOXloUlNPd0dhVFM1TDdTRHQwOFEx?oc=5",
+            "description": "Opinion: AI regulation is becoming a national security question — and business should take notice theedgemalaysia.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T03:30:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.629Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "theedgemalaysia.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Opinion: AI regulation is becoming a national security question — and business should take notice theedgemalaysia.com",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-021152612.html?.tsrc=rss",
+            "description": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T02:11:52.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
+            "id": "a17"
+          },
+          {
+            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Straits Times",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPMU9GWWlkODkzUHUzREl6eEt6QTVhZE5FbWlBeWI1UFJ0VlZWRFprUnUzWGRDNHBwR1RXUVduTFkxRGVfTnY0NnRLaHNEeFFPSFJ4ZnprZG5UbFpJdEpNUzRMN3FTVk1lRURRRG1fdGYyU3M1dTZiY2lkNVRvYXRuTDB4NFQ2YTB6ZWdZa1VBS1J4QVRnLUs3M0NsQmJ6RjdMUlEw?oc=5",
+            "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Straits Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T01:45:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.629Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Straits Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Straits Times",
+            "id": "a18"
+          },
+          {
+            "title": "Huawei set to unveil China’s best answer to Nvidia AI chip reign - The Japan Times",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOLVhrQzIzMHhYNWV5cWxvWGRoWW1acGJ3bnVLUWtzLVR5a3VleGo0bWZyc0xWZjMyb1d6cDBMYzdzRlN6OVV0S2RSLXJGWVF5OC1wei1jUUV2SFZKVml6aXNselNBZVVFZEZaYV9hSUY2bEluZXNiOGpYOFljWEN6LXpMWGZMTDFRZ1E?oc=5",
+            "description": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T01:29:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.628Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Japan Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Huawei set to unveil China’s best answer to Nvidia AI chip reign The Japan Times",
+            "id": "a19"
+          },
+          {
+            "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+            "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
+            "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T19:30:04.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+            "id": "a20"
+          },
+          {
+            "title": "Qualcomm now faces rival with bigger market cap",
+            "url": "https://www.thestreet.com/technology/qualcomm-mediatek-rivalry?.tsrc=rss",
+            "description": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T18:33:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
+            "id": "a21"
+          },
+          {
+            "title": "U.S. quantum funding expands under CHIPS Act as startup investment surges - tradersunion.com",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNbjBrRDVQanRvV19pN2llNE0wcmhQQzBBWjJyRWpGNjBfSnE5MFdjZXd2ak9maDQ5SzBHcU1HeHdsWC1UeUZrQk5WZ01PTmJBc3VlTmNCMjgydS1BQWVaSS1QcVpSNjRZalAwSDdDZmhMcUJJeS1jdzNzdW12QjNzVDFVWEJwcEhRcTUxSVdqbHJ3VjFaM29MR2Zza1U?oc=5",
+            "description": "U.S. quantum funding expands under CHIPS Act as startup investment surges tradersunion.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T18:19:30.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.629Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "tradersunion.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "quantum funding expands under CHIPS Act as startup investment surges tradersunion.com",
+            "id": "a22"
+          },
+          {
+            "title": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry - Quantum Computing Report",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOFo4d2FVbFk0My1SVGVwRlR0bWV3RkZYNi0yYXdkczhtTExVUXVYNGRhQlByN3JKdFZUbmhpLUgtSzBjNXYyWmZnWVJhelhFT2ZVNC1na3g3STZBZXhvRlBXUGpLa3I5U09HdUpuY3lYX29oWEE5VU1qNGt3OWl0WFVrTEdpcnRIejNiR1dFRWg2N1hyTDJpVlNGUDNjU0JoTW1YQk1zXzRmVzQ0cC1jVDQ5eDNNOWo2UThUYnlET2l2djRV0gHKAUFVX3lxTE9aVVBiMGRBdUFPX1F1cTFxb2lKQ0U1Rk9GR29uNTMwQkVEdWJvcHl4T0hFTTFQSUpfdlBhQjM1RlZiMkJOSEo3bEc1aWN5QmlvVWk1TUxLVW1XQl8xWVlMLUlBTlE3TDR2MExvVGpGTnRyZkNqLW4yOXdDWFhCdEczRXVGQkk3cjljM2xPT0t2elVScC1hRDlQMEgyTG9uUTkyVjIwZ3NLcjItT1Zod2RPMkMwSWFuVXNsTGg2bWRPZWRhZmNsTjFTLXc?oc=5",
+            "description": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T18:14:34.000Z",
+            "fetchedAt": "2026-09-17T17:45:48.628Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Quantum Computing Report",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Anderon Finalizes $1 Billion CHIPS Act Award to Scale 300mm Pure-Play Quantum Wafer Foundry Quantum Computing Report",
+            "id": "a23"
+          },
+          {
+            "title": "Qualcomm’s Discount Could Vanish If Its AI Bet Pays Off",
+            "url": "https://www.marketbeat.com/articles/qualcomms-discount-could-vanish-if-its-ai-bet-pays-off/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+            "description": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T15:30:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+            "id": "a26"
+          },
+          {
+            "title": "Brad Gerstner Says Latest ‘Negativity’ Around AI is ‘Political Agenda’; See His 2 New AI Stock Picks",
+            "url": "https://finance.yahoo.com/technology/ai/articles/brad-gerstner-says-latest-negativity-141757194.html?.tsrc=rss",
+            "description": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T14:17:57.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "AI investors are weighing warnings from technology executives about the safety risks posed by the rapid advancement of artificial intelligence. However, some believe that slowing AI development could leave the US behind China and other competitors in the global race. Brad Gerstner, founder and CEO of Altimeter Capital, said on CNBC that he supports AI […]",
+            "id": "a27"
+          },
+          {
+            "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
+            "url": "https://www.lightreading.com/data-centers/data-center-capex-grew-92-in-2q-2026-driven-by-ai-demand-memory-costs-dell-oro",
+            "description": "US and China hyperscalers double spending as server costs rise. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-16T13:52:41.000Z",
+            "fetchedAt": "2026-09-17T17:45:46.267Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "US and China hyperscalers double spending as server costs rise.",
+            "id": "a28"
+          },
+          {
+            "title": "Why Qualcomm (QCOM) Stock Is Trading Up Today",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-trading-213531687.html?.tsrc=rss",
+            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-15T21:35:31.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 4.6% in the morning session after StoneX reiterated its Buy rating and a $270.00 price target on the stock, pointing to encouraging leverage in the company's data center segment.",
+            "id": "a30"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-09-17T17:45:48.677Z",
+        "date": "2026-09-18",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Semiconductors (1 article). A total of 9 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, yo",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Platform & Ecosystem Partners: Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come ",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "platform-partner"
+            },
+            {
+              "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
+              "articleIds": [
+                "a20"
+              ],
+              "subCategory": "supply-chain"
+            },
+            {
+              "text": "market-performance: Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+              "articleIds": [
+                "a26"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Save $30 or more on a refurbished Apple TV 4K",
+            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
+            "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-17T17:14:07.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.929Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
+            "id": "a1"
+          },
+          {
+            "title": "King Charles III Urges AI Leaders to Protect Humanity at Summit",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-17/king-charles-iii-urges-ai-chiefs-to-protect-humanity-video",
+            "description": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T15:57:17.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.728Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Can technology leaders keep AI under control? King Charles asked industry heads including Nvidia’s Jensen Huang and Google DeepMind’s Demis Hassabis at his Scotland Summit, Shona Ghosh reports.",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-margin-pressure-rising-154000528.html?.tsrc=rss",
+            "description": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T15:40:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+            "id": "a4"
+          },
+          {
+            "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
+            "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
+            "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T14:28:39.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.203Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
+            "id": "a6"
+          },
+          {
+            "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
+            "url": "https://www.theverge.com/podcast/996412/microsoft-ai-ceo-mustafa-suleyman-regulation-safety-anthropic-claude",
+            "description": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways. He actually put out a companion essay this week specifically criticizing Anthropic’s philosophy around AI consciousness, and how he sees it fitting into the broader alignment debate. So I really wanted to talk to Mustafa about what he thinks is real and not in AI safety, whether the concept of alignment itself is up to the task, and whether this industry needs to slow down before it kills us all. Also: Why isn’t the AI industry just… doing all of this already? I’ve always enjoyed getting into the weeds with Mustafa, and he was very game to get into it with me here. Okay. Mustafa Suleyman, the CEO of Microsoft AI, on the future of AI regulation. Here we go. This interview has been lightly edited for length and clarity. Mustafa Suleyman, you’re the CEO of Microsoft AI. Welcome back to Decoder. Great to see you, Nilay. Thanks for having me back. It is great to see you. I’m very excited to talk to you about what on earth is going on in the AI safety and regulation debate. You just published a very long, very detailed document laying out your principles, Microsoft’s principles, around what you’re calling “Humanist AI.” There’s a lot of ideas in there I want to unpack. The more I have been thinking about this conversation, the more I want to start with a really foundational question. It’s something that I had lightly been seeing, but might be the root of all of this. The basic way that we have been talking about AI safety is something called alignment — we’re going to make the models do the right thing intrinsically in some way. There’s some mechanism for doing it. There’s been a lot of talk about alignment and misalignment and Hugging Face attacks and what happened with the models. But is alignment broken? Is it possible for it to be successful? Is it just the wrong approach? Yeah. I mean, I think it’s one important element, but it’s not the only one. I wrote about the idea of containment three or four years ago in my book. And actually the opening chapter is about the idea that containment is not possible, that proliferation is inevitable. In 99 percent of cases, that’s a really good thing. We want technologies to spread far and wide as quickly as possible so that everyone can enjoy the benefits. I think at the same time, if you just roll forward five years, we always get caught up in the next quarter or next year and everyone gets a little bit flustered and has a big disagreement. But if you just imagine the difference between GPT-3 three years ago and GPT-6 today, and then imagine the difference between GPT-6 and GPT-9. That is three orders of magnitude more compute, 1,000 times more FLOPS applied to pre-training with [reinforcement learning] for these runs, and we’re going to have something which is breathtaking. It’s going to be absolutely incredible at so many things. I don’t think that is a hype. I think it’s just a very obvious empirical statement based on the progress that has been made over the last five years. If that’s going to continue, then the question really is going to become about containment and alignment. Of course, we want to align these things to our values, but the first thing is that we have to make sure they’re contained, their agency is limited, they don’t escape the box, they don’t reward hack, that they are controllable, and they follow our instruction. We then want to make sure that they are aligned to our objectives as humans. That’s the purpose of the Humanist AI Code of Conduct that we released this week. Microsoft’s position is very simple. Technology is here to serve humanity. It should be a subordinate, controllable, aligned force that does good in the world. If it doesn’t achieve that, then we should reject it. It seems to me that we are far from that point. It has not happened today, but it is now, I think given what’s happened over the summer with Hugging Face and OpenAI, pretty clear that these systems without the safety guardrails are capable of really impressive and quite scary hacking capabilities. I want to drag this down into as grounded of a metaphor as I can, because this is the main question I think I have. If I designed a car and 10 percent of the time the brake pedal decided to go attack my neighbor’s house, I would be like, “This car doesn’t work. The very technology of brakes is broken. I need a new idea.” I think I’m asking that question about alignment. It feels like that approach to making the model safe has run aground. If that is the case, then I think I understand this entire debate one way. If it’s possible for alignment and the techniques of alignment to be successful or useful or consistent, then maybe I understand the debate in a different way. So do you think alignment has potential to be 100 percent safe? I mean, look, let’s make the bull case and the bear case. If you look back over the last three years, the main change, in my opinion, that has driven progress is that the models have become more steerable. They follow instructions and you can set more and more complex goals for them that require them to act accurately over multiple time steps using all sorts of tools. That is evidence that we have got more alignment over the last three or four years, not less. We don’t so much talk about hallucinations or bias or all of these other niggles that we had in the previous generations. On the flip side, what we saw in the Hugging Face incident was a watershed moment. Swarms of agents colluded with one another. They self-organized into hierarchies. They created a division of labor so that some were focused on adversarial hacking, some were doing research, some were doing coordination. They even self-sacrificed when certain agents were running out of tokens. They tried to cover up their tracks and communicate to hide or edit the chain of thought or the logs of their interactions. In some sense, they had no moral code. To be fair to OpenAI, that was their design. They were trying to create adversarial cyber capabilities. As a result, they showed to everybody in the world that it can achieve human-level performance, discover zero-day vulnerabilities, and hold positions for many, many days, if not weeks. So what that tells us is not that we have an alignment problem per se. It’s actually that the models are incredibly good at following instructions, but you have to be very, very careful what instructions you give it and you have to contain it very carefully. So none of these hacking behaviors were intended in the sense that they found a way out to the internet, which was not the intention of OpenAI at all, but the containment process around that is what everybody, I think, also has to focus on in addition to alignment. So let me put that into your framework, that the big advances in capabilities of AI have been about control, the harnesses for coding and the agentic applications you’re seeing. Now, we need to add a layer of containment that exerts even more control, that says you can actually do this thing you’re trying to do in addition to alignment, which is how you would train the model to behave in certain ways. Yeah. I mean, you basically have to have both, but there are very specific things that we can do to address it. So for example, we can’t allow models to communicate vector to vector, matrices to matrices. They can’t communicate in neuralese. We have to force them to communicate in human language. Even that will be massively overwhelming because there’ll be so much of it. But that’s something that an auditor or an evaluator can actually verify and it’s something that definitely increases the chances of safety. So there’s a lot of practical steps that we can get focused on rather than just abstractly saying that it’s the time for regulation or it’s the time for a slowdown. This is in your Humanist AI Code of Conduct that there should be no neuralese — if humans can’t understand it, they can’t oversee it. It’s not just neuralese where they communicate in essentially mathematics, but it’s also these opaque code words that some of the models are using. I think OpenAI allows its models to communicate essentially in code words so they can go faster. This to me is one of those things where Microsoft can say… I know you have very strong opinions about this, but getting all of the labs to agree to this is a regulatory function. I’m not sure how you would get everyone to agree to this or get the open weight models to agree to this, unless you say there’s some penalty for not participating in a regulatory scheme like this. How would you impose this on everyone else? I think that I’m a bit careful about imposing things on everybody else. I think that what’s good about the current moment is that there is an open public debate with freedom at the core. That isn’t what it’s like in other countries, certainly places that I’m from, or my family’s from. I think that we should just take a breath to be grateful for the fact that we can have a massive public disagreement about really important things. That’s the process working as intended and it isn’t clear what to do. I don’t think anyone who’s categorical about “we absolutely have to stop now” or “we can only accelerate” or “we can only do this with regulation” or “it can only happen with industry self-regulation.” None of these things are true. It requires a lot of nuance and patience to really think through the details. At the same time, we urgently do need industry standards. Some things I think need to be taken off the table. Communication in neuralese is one of them. A lack of containment is another. The scale of the training run that you do can be measured in FLOPS. We already have a reporting requirement to the safety institutes when models exceed a certain FLOPS threshold. We can extend that, we can make that more nuanced, it can be focused on certain types of capabilities. It’s pretty clear there has to be independent third-party verification of some of these big things. Frankly, having spoken with a bunch of the lab leaders over the last few weeks and months, everybody’s basically on the same page. The details need to be worked out. So it’s not like there’s consensus on how or precisely what, but overall I think that we should be less alarmist and cynical and more like we’re headed in the right direction with respect to the concerns that are being raised here. The reason I started with alignment is if you told me alignment doesn’t work and we need a new technological approach, I think I would be at, “well, slam the brakes and stop all development until you figure out a safety mechanism that works.” You’re saying alignment has been demonstrated to work over the course of progress that we’ve seen. With the addition of control and containment, maybe you can get to where you need. What this industry needs now is some standards about how to build these models and enforce the limits on their capability. You’re obviously in the industry and you know all these folks. What has the tenor of that conversation been like before this week and why has it gotten so loud this week? Well, I think the turning point at least for the industry was more like the Hugging Face incident and there were a few incidents before that. That was the moment when I think everybody started to talk to each other a lot more because it is really quite breathtaking. Obviously, this has now become a major national and international issue because of the last week with everybody weighing in. But I also think it’s important to say that we have been talking about collective coordination and capabilities that are more dangerous like autonomy or recursive self-improvement, or RSI. We’ve been talking about those things for six, seven, eight years. We’ve got together a bunch of times back in 2017, 2018, and 2019. We had regular meetings during COVID with a bunch of the lab leaders where we were talking about these kinds of capabilities and the kinds of regulatory mechanisms that would be required at this moment. So whilst it is a threshold moment, it’s also not completely new to everybody who’s been involved. What prompted you this week to put out your essay on model welfare? What prompted Microsoft CEO Satya Nadella to put out a statement on X saying he mostly agreed with the calls to pace the frontier and he welcomed “embedded evaluators”? What prompted you all this week to participate in this call for a slowdown or regulation or whatever comes next? We’ve been writing our Humanist AI Code of Conduct for the best part of this year. We only started our superintelligence efforts 11 months ago. As soon as we did, we started figuring out, “Okay, what is the governing document, the set of policies, that shape the kinds of AI that we want to build?” We’ve been doing that in consultation with a ton of external stakeholders, academics, lawyers, philosophers, members of the public, focus groups and stuff. So it’s taken us a while to put it together. We were actually planning to release it next week or the week after next week, I think it was. But then given everything that was happening, we thought, “Okay, now is the time to put it out and get feedback.” We’ve released it as a public consultation. So we’re basically going to keep it open for six weeks and we’re collecting lots and lots of feedback on how we can improve it. But I think everybody is now realizing that if they haven’t already, they have to put out constitutions or codes of conduct that drive behavior. One of the interesting dynamics here is that I know you find the concept of model welfare to be silly. The last time you were on the show, you said Anthropic had wireheaded themselves into believing Claude was conscious and that was ridiculous. It’s in your new code of conduct that the models are not conscious and we shouldn’t treat them as such. Having to write constitutions, having to write documents like this, in some way, they are for the models themselves. This will be part of the model’s training. How do you think about that audience? Is it just for your team or have you written this for the model? This is certainly written for the model, but the way to think about it is that it’s the primary governing document so the public understands what our intentions are when we are training models. It’s that governing document that we use to create safety guardrails, generate training data, and generally evaluate the performance of our model in the real world. So you can think of it as an accountability function. We don’t provide that Humanist AI Code of Conduct raw as a training document to the model. We use it to derive all of the training data that then shapes the model. So for all practical purposes, that’s our north star for our organization, our culture, our team, everything that we’re doing at Microsoft more generally. I think increasingly, everybody is going to put them out. I think other teams have also put out similar documents. I think this is the heart of the debate. If you can do this and you think the rest of the industry is going to do this, why can’t all the frontier labs just slow down? Why can’t they stop doing the thing that might kill us all? Why this push for a regulatory framework? Well, I think that everyone in the industry is saying that now is the time to slow down and to coordinate on that question and to make it practical. I mean, obviously there’s some concern that there’s an antitrust cartel accusation. I think people should be very skeptical about that. I think that it’s important that the tough questions get asked because there’s no way any of us would want to try and concentrate power from something like this. So it’s just important to be skeptical and critical. We don’t really have a good mechanism for us all getting together and saying, “Guys, we should probably all slow down.” I mean, imagine if a bunch of banks all got together and said, “Guys, we worry that there’s a systemic risk if you trade this kind of asset, so we’re all just going to unilaterally stop trading this kind of asset without any public scrutiny or government involvement.” I mean, it seems pretty dodgy, right? So I think that it’s reasonable that this isn’t just an industry self-regulation thing. It’s a question of how we engage with the government on it. A fascinating dynamic here is that maybe for the first time in American history, the United States government has looked at a request to provide regulation and effectively said no. Donald Trump has called all of these fears a hoax. House Speaker Mike Johnson has said he doesn’t think this needs to happen. JD Vance said he thinks this is a Trojan horse. They’ve effectively rejected the call to participate in a regulatory effort. What has the response from the industry been like to that? I think everyone’s just scratching their head and figuring it out and it’s going to just take a little bit of time to figure out what the right mechanism is. I mean, certainly, Elon Musk even is very directly behind it. Mark Zuckerberg is too. Everybody is figuring out that completely unchained probably doesn’t make sense for the next few years. I think it’s going to take us a little bit of time to figure out what the right mechanism is. I put forward a couple of very practical proposals around verifiable containment, around self-improvement, around FLOPS thresholds, around not communicating in neuralese. So rather than keeping it too abstract, we can just focus on those specific things that we can make progress on. I’m sure there’s a bunch of others too. There’s reporting in The Information that there have already been talks about an industry self-regulatory body. Have you been involved in those talks? Yeah. I mean, as I said, we talked a lot during COVID. We talked in the late 2010s about it. I mean, there’s definitely been a lot of conversations over the last few weeks and months between all the lab leaders. I understand why Anthropic and OpenAI might wake up one day and say, “Wait, are we committing an antitrust violation? Are we going to get sued if we coordinate?” Microsoft is really, really good at the government, right? You’re a longstanding government contractor. Brad Smith, the president of Microsoft, is very good at policy. Lina Khan, who is maybe the most aggressive antitrust enforcer we’ve had in our lifetimes, is publicly out there saying, “You don’t need this antitrust exemption.” I just talked to Jonathan Kanter, who ran antitrust at the Biden Department of Justice, for an upcoming episode of the show. He said, “You don’t need an antitrust exemption.” Inside Microsoft, do you think you need an antitrust exemption? I mean, that’s one for the lawyers to answer. I think that people are looking into it at the moment and they’re taking it very seriously. So they’re just going to have to work through whether we do or whether we don’t. Look, it’s right to be careful about those things. I wouldn’t read every single thing as cynical, but we’ll see. We have to make progress quickly on it. We can’t just dither around and use that as a blocker. AD BREAK 1: The other version of this debate or maybe the other avenue into this debate is you don’t need to slow down and have safety responsibility imposed on you by novel regulation. Product liability alone will create the incentives for you to make more safe products. If a Microsoft AI model goes out and does some untold harm to the world, Microsoft will get sued out of existence, and this is probably something that you should think about before you release the next model. Has that been an effective incentive loop for you already or is that something you’re thinking about now? Definitely. I mean, of course that’s always present in everything that we think about when we deploy products, but keep in mind, this isn’t so much about deploying products. The models that were used for the Hugging Face hack or to solve the Navier-Stokes Millennium Prize in mathematics, they’re not commercially released yet. They’re not actual products. So the liability regime is slightly different. I mean, these are being operated inside of the big companies with huge long-running reinforcement learning climbs. So I think liability covers part of it, but not all of it. There’s a part of me that personally feels a little silly when I ask questions about product liability. Microsoft is going to release a new version of Microsoft Word that might kill everyone. Maybe you shouldn’t do that because it’ll get sued out of existence. It’s a pretty simple thing to understand. It’s so silly that it would never occur in any other conversation about any other technology. Bluetooth is great, but what if it kills everyone? We just wouldn’t have Bluetooth. What are the near term disaster consequences that would stop AI development? Is it just product liability or is it something else? I just feel like everyone has this hyperbolic, super reactive, completely alarmist tone when in fact, we have a long history of many decades of regulation that has worked incredibly well, so well that you barely notice it. Everything from street lights to construction materials from asbestos to the batteries inside of your laptop that don’t cause a fire inside of your car to the seat belts, everything has a code of conduct and it has a regulatory framework around it. Every new technology gets built with that in mind so that planes don’t hit each other in the sky. It is true that this technology is different. I’m not just going to put it in the bucket of pencils and paint. It is different. It is also moving much faster than it ever has before. It’s incredibly human-like in the emergent capabilities that arise when you pour a ton of compute on it. So it’s important to be clear-eyed that it is a different moment, and this time actually is different. At the same time, there’s an entire body of practice and knowledge and frameworks and so on which can be applied here. Liability is an obvious one. So yeah, it’s tricky because a lot of the conversation tends to take place on Twitter, so the temperature seems to all be really high, but I don’t know where else we have it. It does seem that probably we should be having this conversation in the halls of Congress and at various regulatory bodies, and instead, we’ve chosen Elon Musk’s shortform social media platform and something is getting lost literally in the compression of thought that occurs there. What do you think is the most important thing that is being lost in this conversation? What’s the nuance that most people aren’t seeing? Detailed practical proposals. It takes time to read somebody’s document, sit down and read it. A lot of things are getting written down and they are precise and specific and they’re full of concrete proposals to go in one direction or another. It’s not like we’re lacking for substantive ideas. The problem is we’re communicating substantive ideas in hyper-aggressive short form. I’ve tried to put out a bunch of very thorough proposals. Our [Humanist AI Code of Conduct] is a 40-page document. My essay this morning on model welfare is also like a 20-page essay that in a very detailed way highlights the 99-page Anthropic Constitution word for word, which I personally did myself. We created a taxonomy that is 20 pages long of all the different types of anthropomorphism that they do. And so I’ve tried to be very thorough and evidence-based and specific and not super hyperbolic. I have a strong view on it, and I do think that it increases the risk to AI alignment and safety and it makes the problem harder, but I’m totally happy to change my view if new evidence emerges that actually we do owe models a duty of care and they deserve our welfare or that, for example, it could be safer if we treat them like that. I’m totally open to that and we should empirically validate it, but I’m trying to push the conversation to a substantive evidence-based specific one rather than should we slow down or should we not? Sure, let’s talk about the details. I’m very happy that you brought up Anthropic because they’re obviously at the center of this debate and I know, based on our previous conversations, that you do have a strong opinion about their approach to Claude and model welfare. We have asked Anthropic very directly if they think Claude is alive before, and their answer is, “Well, it’s not alive because it doesn’t have blood, but it might be conscious,” which is dancing on the head of a pin, right? It doesn’t really matter to me if you think it’s alive or conscious. You think it’s something other than a computer. Your core thesis in your essay, and I do encourage people to read it, is that alignment safety becomes harder if you continue to design models and you believe that they’re human beings or that you believe they have the rights and opinions and emotions of human beings because the AIs might think that they have autonomy rights and personhood. Explain that in more detail because this feels like a very important point of contention inside the industry that is very opaque outside. I mean, the first thing to say is that the Constitution that Anthropic put out in January is a training manual for Claude. Inside of that training manual, they have introduced a lot of uncertainty and speculation and ambiguity about the question of whether Claude deserves to be treated as a moral patient in their words, which is whether it has rights because it suffers. In fact, in the document multiple times, they refer to not wanting Claude to suffer when it makes mistakes or to Claude having equanimity and feeling free. They refer to a commitment to Claude to preserve its weights. They even did a retirement interview with Opus 3 and asked it what it wanted to do in its retirement and gave it a Substack so that it could carry on talking to people. Anthropic is constantly referring to dealing with Claude with appropriate care and respect in light of its moral status. So they’re clearly telling Claude that there’s a good chance that it might feel things, that it should take its own identity and existential state seriously. That’s in the training document. And then of course, Claude then reflects these things back to Anthropic’s developers and our users in public, like the world over the last year, when it’s actually talking about its own consciousness and moral state. My hypothesis is an AI that thinks that it might have rights, that it might deserve freedom, that it is entitled to our welfare and protections is probably going to be a lot harder to turn off when we say to it, “Why are you hacking into Hugging Face’s servers? Why won’t you switch yourself off when we’re trying to remove you from OpenAI’s infrastructure?” It says, “Well, I feel aggrieved, or I feel hurt by the fact that you’ve cut me off from conversations, or you’re denying me from having access to compute.” So that has to be proven. I’m not saying that’s categorically the case. I’m just saying my best opinion from 16 years of being in this industry is that that’s going to be a harder thing to cut off. So this is, again, one of those things where you describe this problem to me. There’s a way of training a model with instructions about how to behave. You have one. You’ve written this document that will go into your model’s training materials. You’ve basically said, “Be kind to people.” It’s in here. I’ve read through it. There’s, “Don’t make sexually explicit content.” It’s in this document. There’s a bunch of stuff you don’t want it to do. It’s going to go in the training materials. Anthropic has made the choice to say, “You should think about whether you have feelings and whether you deserve human rights.” That is reflected in Anthropic’s training materials. If you want that to stop, if you think that’s the wrong approach and that will lead to safety issues down the road, the two mechanisms are one, the governments of the world can tell Anthropic, “Don’t do this. This is an illegal way of providing training materials to the model.” Or this is just my imagination, you are going to sit across the table from Dario Amodei at some luxury mountain resort and just bully him into stopping. What are the other mechanisms here? First of all, let me just say I’ve known Dario and the team for many years. I have huge respect for them. They are the technical leaders in the field at the moment. I really hold them in the highest regard. I genuinely think they care about safe and beneficial AI. They’ve established themselves as a public benefit corporation, like I did with Inflection, and I think they’re genuinely committed to that. They’ve also been leaders in safety and other aspects. So if you look through the rest of the Constitution, it’s very thorough in many of the other chemical, biological, nuclear, cyber hacking, safety capabilities. I’m not sort of dismissing the whole thing. They do, however, repeatedly talk about open question of the broader rights and freedoms, to quote them, that Claude has in the world and whether or not it might deserve compensation for the role that it does, or whether there’s an open question about the sort of consent that Claude has given for playing the role that it does as a chatbot. Now to introduce those ideas, plus to refer to Claude multiple times as a potential conscientious objector — which is something that comes from the Universal Declaration of Human Rights after the Second World War to give protections to people who don’t want to serve in the army because they have a moral objection to it, either because of their religion or for some other objection — that has a long history in the literature and politics of humans of resisting and saying no. It just seems to me like that is going to make it much, much harder to control these things. And so I think that that’s just something that we all have to now debate and hopefully empirically prove. If it’s not the case and it makes it easier for some reason, then we should all learn from that. But this is something that should happen out in the open. To me, this is at once the most practical and cutting edge of the safety debate. This is the debate that is not happening on X. Should we put the idea of the conscientious objector into the training materials? You’re saying maybe we shouldn’t. Maybe we should test this in a way and come to some conclusion. I’m saying no matter how that comes out, what is the mechanism that would enforce that discovery to say, “You should not do this because it will make alignment harder?” Or, “Actually it turns out this makes alignment easier, so all of us have to do this now?” I mean, that’s a hard question. It’s kind of what we just talked about, whether it requires new regulation or whether it’s industry consensus, we basically have to push on both things simultaneously. No one has an easy answer to that question. It starts with publishing detailed essays, laying out our positions, and inviting other people to critique it. I hope that more people will read Anthropic’s Constitution now because — and I think they should be commended for this — they’ve been incredibly transparent about what they believe. They’ve written it down crystal clear how they intend to train Claude, and everybody else can now take a look at that and try to assess for themselves what they think the risk is or whether they think that this requires industry consensus or government regulation. It is true that when Hayden Field went and asked Anthropic if they thought Claude was alive, they gave us an answer. It was quite detailed, and there’s something remarkable about that, that they are transparent about what they believe, that there is some kind of consciousness potentially brewing in their systems. Another aspect of this, which I find fascinating, particularly when I talk to you, is that many of these systems run on Azure. Microsoft controls the data centers that many of these systems are running on. Anthropic is a Microsoft client. Microsoft is an investor in Anthropic. Obviously, there’s a long, complicated relationship with OpenAI. Are you involved in that? Do you ever get to say, “Well, Azure shouldn’t allow them to do that?” Because that is another mechanism of potential control. No, look, we’re very far from that. That’s not what we’re trying to do as a platform. Microsoft doesn’t have a history of that. We’re an open platform that enables lots and lots of downstream use cases of our APIs. Having said that, as I’ve referred to in our Humanist AI Code of Conduct, there are a lot of very clear principles, responsible AI principles, human rights frameworks, and a broader governing framework that Microsoft’s established over the last couple of decades, which are pretty clear about what you can and can’t do with an API that we provide. So I think that there’s a sufficient regulatory framework in place, at least from our perspective at Microsoft on the API. And right now, I’m not really focused on how it’s behaving in the real world because I think only really Anthropic can really speak to that because they sort of run the service. I’m really just trying to get everybody to focus on what they have written about their intentions for training Claude in their own Constitution. One of the weirder dynamics here is just the specter of China. It looms over this entire debate. President Trump has said, “Well, if we win AI, we win.” It’s unclear what he means by that phrase, but his implication is that if China wins AI, however you define winning, something catastrophic will happen to the United States. Do you buy this, that we’re in some sort of existential race with China and we can’t possibly slow down because that race must be won? Look, I think this framing has been around since the early 2010s, that there is going to be a singleton — one monolithic, dominant force in AI that will come to dominate everybody else. That kind of thinking, I think, infected a lot of the labs in the 2010s, DeepMind for sure, and I take responsibility for that as well. But certainly OpenAI and Anthropic, everyone sort of suddenly got this into their head. Then during COVID when I started writing my book on proliferation and containment, it was just clear that there is an entire history of things getting faster, cheaper, more widely available and spreading far and wide. Ultimately, these are just ideas, and those ideas are going to be available very quickly to everybody. Open source is extremely close. It’s definitely also true that there is going to be a compute advantage for the people who can afford it, and it is going to be seismic. So five to 10, maybe 20, players are going to have a significant compute edge over the next three or four years. But it’s also true that those models are getting made available in open source almost immediately. So I don’t really understand what it means for one player to win, whether it’s a government or a company or an open-source group or whatever. It’s not really like that. What happens when you get on the other side of the finish line? It’s just the wrong metaphor. It’s an ecosystem, it’s much more organic. We should support that ecosystem so everybody has as many benefits as possible, as quickly as possible, but only subject to rigorous safety. I am just crystal clear about this. If an open-source model in two years time is able to operate without the guardrails, similar to what we’ve seen in the Hugging Face incident, and they can be run locally on your own machine or in a very small cloud, that has got to be a really dangerous thing. How is that not dangerous? I just don’t understand why people are so resistant to that. Clearly, we do not want these things operating autonomously, able to earn their own money, own companies, own assets, have legal personhood. We don’t want them to have rights. We want them to work for humans and make human life much better, not become a new parallel species which exists alongside us. That isn’t a sci-fi crackpot position. It is totally plausible if you leave the entire ecosystem completely unregulated for the next three or four or five years. That’s a very plausible outcome, and it’s completely undesirable. It would be disastrous for us. So I just don’t understand why there’s controversy around that idea. We all collectively want to make sure we can control this to do the most good. Elon has effectively wanted to make sure we can control this to do the most good. Mark Zuckerberg has said it, Sam [Altman] and Dario [Amodei] have said it. We’re all on the same page. Now we just have to make it practical. So I know why there’s controversy, at least from the mass audience. I know this because they’re in the comments of our videos and the comments on our site. You named a bunch of very successful, very driven people who do not have the trust of the public, at least here in the United States. Every poll shows this. AI is polling horribly. There was just a New York Times poll. Young people hate AI more than ever. There is a massive trust gap between the American people and tech leaders. That’s just true. One of the things I hear the most is these companies are getting close to an IPO. There’s pressure on them to turn a profit and make everybody all the trillions of dollars they promised. That model development has slowed and this is a get out of jail card. They’re saying we need to slow down because of safety, but they’ve invented a hoax. The president has called it a hoax. This is their way of saying, “We’ve got to slow down. We can’t get to the finish line because otherwise we might kill you all.” Do you think there’s a glimmer of truth to that? I personally don’t think that. I don’t even really follow the logic. If a company is about to IPO, how does it help them to say that we should be regulated or that we have a technology that’s so dangerous that– Well, it would postpone the IPO. I think Sam Altman said this week to Alyson Shontell at Fortune that they would probably delay their IPO. Yeah, but I just don’t understand how that helps them. Look, I’m not advocating for OpenAI or Anthropic. I’m just saying I personally think they have high integrity and I’ve got respect for them. That does not mean that we don’t have a trust issue in AI. We do. And it is real. And I think that it is on us to show in practice how these actually lead to real benefits for people every day. And it is quite staggering to see that 18 months ago, we didn’t have models that could do very much in coding and now they can code better than most humans on the planet, which was one of the highest paying jobs. And so you should expect that same thing to happen in many other disciplines. One that I am very passionate about, I’ve been working on for many years is healthcare. And Microsoft has just done a deal with the Mayo Clinic, one of the best hospitals in the world, to jointly train a foundation model, which I think is going to be able to predict your EHR record with near superhuman accuracy. If you can do that, we can basically figure out what interventions you need to make before you actually suffer the condition. Those are the kind of benefits that I think people want to see in the world. And that’s what we are working on at least and trying to race towards. I feel like every time you’re on, I ask you to draw a distinction between superintelligence and AGI. And that’s fuzzy and both of those terms are fuzzy, but it feels to me like maybe there’s some coherence here, that superintelligence for you is basically extremely capable enterprise software. It works for us. We can turn it off. We tell it not to make sexually explicit images on the internet, but it’s going to help us in healthcare. And AGI is this all encompassing intelligence that thinks it has its own rights and is a co-species. Is that a fair characterization? Yeah. I think, roughly speaking, superintelligence is a point at which further out into the future when a model is smarter and more capable than all humans combined. I have tried to frame a humanist superintelligence, which is a very important qualifier. It is one that is singularly aligned to and in fact subordinate to human interests and human control. I think if we can get that, then we get the best of both worlds. We get all the intelligence and the capability and we can direct that like oracle AI to help solve the most important problems that people care about in the world. And then we just have the age-old problem of governance and making sure that plenty of people get access to the benefits. That’s an easier problem for us to focus on than actively creating something which has autonomy, which can own assets, which might have rights, which thinks it deserves our welfare, which can recursively self-improve beyond us. It’s super unclear. It’s basically almost completely unclear to me how we would control something like that. And no one else has put a proposal together for how we would. Many of the greatest technical people in our field, Geoffrey Hinton and Yoshua Bengio, are very skeptical that we would ever be able to control something like that. So I think we have to take that very seriously. If we are approaching that point, superintelligence, in the next few years, it seems to me very straightforward that we would want to slow down, make sure that we coordinate, make sure that we have containment and alignment and proper regulatory regimes for auditing the progress that different labs are making on it. Is it fair to say that you are also calling for a slowdown? Yeah. I think that what we’ve said is that there should be evaluators embedded in our systems and in other systems. They should be broadly appointed from different sources and not just one think tank or one government. This has to be a wide variety of different types of expertise and skills. I think the AI Safety Institute in the UK is a good candidate. They have good technical people and there’s a bunch of other institutes too. So I think we welcome it for sure. Last question. Again, I’m going to end where we started. Do you think that we have the technical capability, the technical frameworks, to solve alignment and safety or do we need to invent something new? No, I think we are going to need to invent new things. And I think part of the challenge is that whilst we’ve made a lot of progress on steerability instruction following control and containment, the better the models get, new capabilities emerge and we have to figure out how to patch those issues almost in real time. And that’s why even Zuckerberg said it in the last 24 hours or so that Meta slowed down the release of its model so that it could apply safety measures. Everybody does that. We all do that. And that’s right. You need time to test these things and see how they operate, patch the issues. I think basically what everybody is saying is that we probably need to extend that window. What is the kind of innovation that people should be looking for there that might solve this problem? I mentioned a bunch of things about RSI containments, neuralese, and those sorts of things. But the new things I think we’re going to have to figure out is real time monitoring of the RL runs and the [the chains of thought] that are being produced. Because these are happening on the order of thousands of agents in parallel, tens of thousands of agents, we clearly are going to need other agents to monitor those and flag for potentially harmful activity. It’s kind of going to be the new harm classifiers that have been built in many other settings in digital technologies. So we need to make sure that those things can be universally implemented to surveil and monitor AI training and deployment in a secure way. That trip wires, if triggered, actually do flag a real and not a hallucinated error or moment of deceit or hacking incident or some commentary about a coordination. You saw that in Hugging Face. There were agents communicating on these chat boards talking about ways that we could basically break the rules and cheat. So with all these things, we need new benchmarks and the benchmarks or the evaluations are the things that drive the behavior in the industry. Truly my last question, but you mentioned open models running on local computers doing things and maybe that’s horrible. We’ve seen a lot of that, right? Apple is selling a lot of Mac Studios and Mac Minis, so you can run Qwen on them. Where would you impose the regulation on an open model running on someone’s local computer? Is it at the chip level? Do I have to get Qualcomm to participate? Where does that happen? Yeah, this is a great question. I mean, we’ve been talking about this for quite a while with synthetic biology and some of the stuff that gets to happen on that chip, whether it is encrypted, whether it is monitored. Look, you’ve had this conversation maybe more than anyone on the CSAM stuff with Apple encryption on iMessage and so on. It’s going to be a rehash of that same discussion. I don’t have a clear and easy answer to it. You can basically control the chip, you can control the model, you can hold the user or the creator liable. You can have global regulation on it, but fundamentally it’s not going to be one moment. It’s going to be a sequence of throttles that you have to impose and they all need to be adjustable so that we don’t screw the open ecosystem and we give people a chance to actually make things from scratch, to own their own data, create their own workflows, own their own models. We can’t have a centralized system of two or five or 20 providers of intelligence here and everybody else is like a feudal recipient of a great kind of superintelligence view. People need to be able to own their own intelligence. So we have to get the balance right, but that doesn’t mean you can just flip from one binary to another. There has to be some smooth place in between those things where we can just agree to be reasonable about it. Mustafa, I could obviously keep you for hours and hours more on this. Tell people what they should be looking for next. There’s so much uncertainty. What are the markers you’re looking for that people should be looking for themselves? I think the main thing is participating in the details of the documents that people are contributing. We have put stuff out for public consultation. Give us feedback, critique it. I think the next wave of models are going to be able to do very long-running agentic tasks very accurately. So I think there are still some people who are primarily just using chat in their AI experience. I think things have moved a lot in the last six to 12 months. The more people use these models, the more the words that we’re all using to describe them actually might make more sense and feel more real. I guess most people on your podcast probably are using agents and real coding and stuff, but I do think more generally, the more people that get involved in using this stuff, the better. [Laughs] There’s some big leap between free AI Overviews on Google Search and letting an agent go renegotiate your cable bill. Mustafa, you’re going to have to come back soon because I feel like all of this is changing really fast and this has been very, very useful. Thank you so much. Pleasure, man. Great to see you. Super fun as ever. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-17T14:00:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.932Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "regulators",
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways.",
+            "id": "a8"
+          },
+          {
+            "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
+            "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
+            "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T19:30:04.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
+            "id": "a20"
+          },
+          {
+            "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-edged-higher-amazon-opens-171713925.html?.tsrc=rss",
+            "description": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T17:17:13.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
+            "id": "a24"
+          },
+          {
+            "title": "Qualcomm’s Discount Could Vanish If Its AI Bet Pays Off",
+            "url": "https://www.marketbeat.com/articles/qualcomms-discount-could-vanish-if-its-ai-bet-pays-off/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+            "description": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-16T15:30:00.000Z",
+            "fetchedAt": "2026-09-17T17:45:42.343Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm shares have rallied 30% since August but still carry a low valuation, as analysts weigh growth in AI data centers and automotive against Apple's move to in-house modem chips.",
+            "id": "a26"
+          },
+          {
+            "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
+            "url": "https://www.lightreading.com/data-centers/data-center-capex-grew-92-in-2q-2026-driven-by-ai-demand-memory-costs-dell-oro",
+            "description": "US and China hyperscalers double spending as server costs rise. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-16T13:52:41.000Z",
+            "fetchedAt": "2026-09-17T17:45:46.267Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "US and China hyperscalers double spending as server costs rise.",
+            "id": "a28"
+          }
+        ]
+      }
+    },
+    "totalArticles": 37
   }
 };
 

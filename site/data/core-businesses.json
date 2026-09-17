@@ -1,28 +1,41 @@
 {
-  "generatedAt": "2026-09-17T12:47:57.034Z",
-  "date": "2026-09-17",
+  "generatedAt": "2026-09-17T17:45:48.677Z",
+  "date": "2026-09-18",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Build",
+        "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a23"
+          "a4"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Mobile Chips: The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-        "articleIds": [
-          "a31"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-faces-margin-pressure-rising-154000528.html?.tsrc=rss",
+      "description": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-17T15:40:00.000Z",
+      "fetchedAt": "2026-09-17T17:45:42.343Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
+      "id": "a4"
+    },
     {
       "title": "Edge-first Architectures for Building and Campus Safety and Security",
       "url": "https://www.eetimes.com/edge-first-architectures-for-building-and-campus-safety-and-security/",
@@ -31,7 +44,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-16T15:53:12.000Z",
-      "fetchedAt": "2026-09-17T12:47:51.242Z",
+      "fetchedAt": "2026-09-17T17:45:42.982Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,25 +52,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-      "id": "a23"
-    },
-    {
-      "title": "Qualcomm Jumps Over 3% as MediaTek Fires a 2nm Warning Shot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-jumps-over-3-mediatek-192722326.html?.tsrc=rss",
-      "description": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-15T19:27:22.000Z",
-      "fetchedAt": "2026-09-17T12:47:50.818Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The rally defies a new flagship rival--but Qualcomm still derives more than half its quarterly revenue from handsets.",
-      "id": "a31"
+      "id": "a25"
     }
   ]
 }
