@@ -1,21 +1,46 @@
 {
-  "generatedAt": "2026-09-17T06:45:49.461Z",
+  "generatedAt": "2026-09-17T12:47:57.034Z",
   "date": "2026-09-17",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "on-device-ai"
+      },
       {
         "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
         "articleIds": [
-          "a21"
+          "a27"
         ],
         "subCategory": "data-center"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
+      "url": "https://finance.yahoo.com/technology/ai/articles/advantech-expands-weda-powered-edge-084700262.html?.tsrc=rss",
+      "description": "Advantech Co., Ltd. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-17T08:47:00.000Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
+      "id": "a5"
+    },
     {
       "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
       "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
@@ -24,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T03:18:41.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-      "id": "a21"
+      "id": "a27"
     },
     {
       "title": "What Was Qualcomm Stock Telling You Before It Ran?",
@@ -42,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T20:26:37.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock rose 40% between mid-March and mid-September 2026, from near the bottom of its 52-week range, while the S&P 500 gained 15.5%. The market was paying for a data center business moving from talks to purchase orders. That timeline had already been public and had moved earlier, across three quarterly reports.",
-      "id": "a23"
+      "id": "a29"
     }
   ]
 }

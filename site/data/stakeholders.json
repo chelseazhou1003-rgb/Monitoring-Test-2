@@ -1,56 +1,35 @@
 {
-  "generatedAt": "2026-09-17T06:45:49.461Z",
+  "generatedAt": "2026-09-17T12:47:57.034Z",
   "date": "2026-09-17",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (3 articles), Supply Chain (1 article), Geopolitics & Export Controls (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-        "articleIds": [
-          "a2"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a12"
+          "a18"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Platform & Ecosystem Partners: Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
         "articleIds": [
-          "a16"
+          "a22"
         ],
         "subCategory": "platform-partner"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
+        "articleIds": [
+          "a34"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
-    {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate-membership proposal",
-      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-17T05:42:46.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.746Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-      "id": "a2"
-    },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
       "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
@@ -59,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -69,7 +48,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a12"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -79,7 +58,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T17:17:13.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -89,7 +68,7 @@
         "platform-partner"
       ],
       "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-      "id": "a16"
+      "id": "a22"
     },
     {
       "title": "Qualcomm Stock Jumps. Amazon AI Chip Deal Opens New Growth Avenue",
@@ -99,7 +78,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T19:35:04.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -109,7 +88,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm Stock Gets Bullish $270 Target as Amazon AI Deal Fuels Data Center Growth",
-      "id": "a24"
+      "id": "a30"
     },
     {
       "title": "I’ve Started Accumulating Qualcomm and It Isn’t Because of Amazon and Meta",
@@ -119,7 +98,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-15T16:55:33.000Z",
-      "fetchedAt": "2026-09-17T06:45:42.952Z",
+      "fetchedAt": "2026-09-17T12:47:50.818Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -130,7 +109,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm's automotive and data center businesses are quietly rewriting the company's story while everyone debates the Apple modem loss, and that tension is exactly why the buy button keeps getting hit.",
-      "id": "a26"
+      "id": "a32"
     },
     {
       "title": "When R&D Counts as a Domestic Industry",
@@ -140,7 +119,7 @@
       "sourceId": "patently-o",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-14T16:11:06.000Z",
-      "fetchedAt": "2026-09-17T06:45:47.146Z",
+      "fetchedAt": "2026-09-17T12:47:54.088Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -151,7 +130,7 @@
         "oem"
       ],
       "summary": "Apple asks the Supreme Court whether R&D counts as labor or capital under the ITC's domestic industry test, plus the ITC's tariff-era origins. Continue reading this post on Patently-O.",
-      "id": "a30"
+      "id": "a34"
     }
   ]
 }
