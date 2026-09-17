@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-09-17T17:45:48.677Z",
+  "generatedAt": "2026-09-17T21:47:53.929Z",
   "date": "2026-09-18",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel",
     "keyTakeaways": [
       {
         "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
         "articleIds": [
-          "a12"
+          "a17"
         ],
         "subCategory": "on-device-ai"
-      },
-      {
-        "text": "Data Center: Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-        "articleIds": [
-          "a29"
-        ],
-        "subCategory": "data-center"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T08:47:00.000Z",
-      "fetchedAt": "2026-09-17T17:45:42.343Z",
+      "fetchedAt": "2026-09-17T21:47:48.218Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -39,25 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-      "id": "a12"
-    },
-    {
-      "title": "QCOM Stock Climbs To 2-Month High As AI Data Center Push Gains Momentum",
-      "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-climbs-to-2-month-high-as-ai-data-center-push-gains-momentum/cZtYcyeRB25?.tsrc=rss",
-      "description": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T03:18:41.000Z",
-      "fetchedAt": "2026-09-17T17:45:42.343Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm’s diversification beyond smartphones is gaining traction as investors assess its potential role in hyperscaler AI infrastructure.",
-      "id": "a29"
+      "id": "a17"
     }
   ]
 }
