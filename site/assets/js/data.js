@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,48 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "semiconductors"
+        },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a5"
+            "a7"
           ],
           "subCategory": "mobile-chips"
-        },
-        {
-          "text": "Semiconductors: Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-          "articleIds": [
-            "a14"
-          ],
-          "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+        "url": "https://247wallst.com/investing/2026/09/18/qualcomm-drops-6-as-past-months-rally-unwinds-skyworks-and-qorvo-slip/?.tsrc=rss",
+        "description": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-18T17:58:45.000Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+        "id": "a1"
+      },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
         "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
@@ -45,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -55,7 +73,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -65,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:42.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -73,7 +91,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-        "id": "a14"
+        "id": "a18"
       },
       {
         "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -83,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T19:22:33.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +109,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-        "id": "a20"
+        "id": "a24"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -101,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -111,7 +129,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a24"
+        "id": "a27"
       },
       {
         "title": "Edge-first Architectures for Building and Campus Safety and Security",
@@ -121,7 +139,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-16T15:53:12.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.784Z",
+        "fetchedAt": "2026-09-18T19:15:14.724Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -129,12 +147,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-        "id": "a30"
+        "id": "a32"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -144,7 +162,7 @@ export const NEWS_DATA = {
         {
           "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
           "articleIds": [
-            "a25"
+            "a28"
           ],
           "subCategory": "on-device-ai"
         }
@@ -159,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T08:47:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -167,12 +185,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-        "id": "a25"
+        "id": "a28"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -183,15 +201,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-18T16:44:41.826Z",
+    "generatedAt": "2026-09-18T19:15:20.309Z",
     "date": "2026-09-19",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "What Needs To Be True To Buy Qualcomm Stock Now?",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -204,15 +222,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
-        "topHeadlineId": "a25",
+        "topHeadlineId": "a28",
         "briefingSummary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 23,
-        "topHeadline": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources."
+        "articleCount": 24,
+        "topHeadline": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -223,40 +241,40 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 9,
+        "articleCount": 7,
         "topHeadline": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 9 articles were aggregated from monitored sources."
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 38
   },
   "macro-environment": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
+          "text": "Geopolitics & Export Controls: Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
+          "text": "market-performance: Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lowe",
           "articleIds": [
-            "a16"
+            "a3"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a28"
+            "a31"
           ],
           "subCategory": "supply-chain"
         }
@@ -264,34 +282,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmpoNEJlSGxhSjZlWGREdnJ3bnVHZlRZeXNpVUlmU2doczRmSXB5dFdTQUJOV1BnSFQ3Wm5EVXJrd0lLdklnVVNwNlphNTdmTnQyeGJLVGEyeGFiYldsZjF6M0xoc0tFOWtxQmlWcXktTG5CRklPVWtCbnpuSlR1MnpZTExtY0JXMXQxVHNZWmRndw?oc=5",
-        "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T16:29:55.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.784Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Organization for World Peace",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-        "id": "a1"
-      },
-      {
-        "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+        "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
         "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-        "description": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+        "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T16:21:20.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.513Z",
+        "publishedAt": "2026-09-18T17:34:49.000Z",
+        "fetchedAt": "2026-09-18T19:15:13.641Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -299,8 +297,47 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+        "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
         "id": "a2"
+      },
+      {
+        "title": "Buffett Steps Down at Berkshire",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-18/open-interest-9-18-2026-video",
+        "description": "Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lower and Brent crude extends its decline. Plus, China tariffs reportedly on hold ahead of the Trump-Xi summit, a changing of the guard at Berkshire, PwC CEO Paul Griggs on AI reshaping jobs, Mbappé’s stunning Nike exit, and new scrutiny of the Fed over SVB. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-18T17:05:25.000Z",
+        "fetchedAt": "2026-09-18T19:15:13.981Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lower and Brent crude extends its decline. Plus, China tariffs reportedly on hold ahead of the Trump-Xi summit, a changing of the guard at Berkshire, PwC CEO Paul Griggs on AI reshaping jobs, Mbappé’s stunning Nike exit, and new scrutiny of the Fed over SVB.",
+        "id": "a3"
+      },
+      {
+        "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - theowp.org",
+        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmpoNEJlSGxhSjZlWGREdnJ3bnVHZlRZeXNpVUlmU2doczRmSXB5dFdTQUJOV1BnSFQ3Wm5EVXJrd0lLdklnVVNwNlphNTdmTnQyeGJLVGEyeGFiYldsZjF6M0xoc0tFOWtxQmlWcXktTG5CRklPVWtCbnpuSlR1MnpZTExtY0JXMXQxVHNZWmRndw?oc=5",
+        "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-18T16:29:55.000Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "theowp.org",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+        "id": "a4"
       },
       {
         "title": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers",
@@ -310,7 +347,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T15:02:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.097Z",
+        "fetchedAt": "2026-09-18T19:15:13.981Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -321,7 +358,27 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-        "id": "a3"
+        "id": "a5"
+      },
+      {
+        "title": "The AI revolution could become a national security disaster if we aren’t careful - 930 WFMD Free Talk",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjhpbWZ4eXFLbnJBZUxDY2xudjlRVjJqeGNwTG9mY1JMbHV0amJUTGZIVWtnOUE4cWFsUENnWS1tWGFlTnlJTERFMWdEbndxeHZVOU1qaU9uTHJyYkREZ3MtS2RXZlZxam5PX2R4akh1WnA4ZEQ2TWZQV25ZeUFsOFNCalA0UzY4NUYxd0NSZkNFSEZjQTNwdVlVUGJraEZ6T1VMTUtsM2ZTbWlLa0JvN2RR?oc=5",
+        "description": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-18T13:29:52.000Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "930 WFMD Free Talk",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
+        "id": "a8"
       },
       {
         "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
@@ -331,7 +388,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T13:10:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.784Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -341,7 +398,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-        "id": "a6"
+        "id": "a9"
+      },
+      {
+        "title": "Xi’s edge over Trump on AI",
+        "url": "https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1",
+        "description": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-18T13:00:02.000Z",
+        "fetchedAt": "2026-09-18T19:15:14.185Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
+        "id": "a10"
       },
       {
         "title": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report - jharkhandstatenews.com",
@@ -351,7 +427,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T09:16:29.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.783Z",
+        "fetchedAt": "2026-09-18T19:15:20.269Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "jharkhandstatenews.com",
         "geopoliticalBypass": true,
@@ -361,7 +437,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
-        "id": "a7"
+        "id": "a11"
       },
       {
         "title": "China-based AI models trail US rivals on revenue",
@@ -371,7 +447,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.382Z",
+        "fetchedAt": "2026-09-18T19:15:18.001Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -380,7 +456,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-        "id": "a8"
+        "id": "a12"
       },
       {
         "title": "Schumer urges Trump to block advanced AI chip sales to China - Fingerlakes1.com",
@@ -390,7 +466,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T06:05:07.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.784Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fingerlakes1.com",
         "geopoliticalBypass": true,
@@ -400,7 +476,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Schumer urges Trump to block advanced AI chip sales to China Fingerlakes1.com",
-        "id": "a9"
+        "id": "a13"
       },
       {
         "title": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" - Moomoo",
@@ -410,7 +486,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T01:52:31.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.783Z",
+        "fetchedAt": "2026-09-18T19:15:20.269Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Moomoo",
         "geopoliticalBypass": true,
@@ -420,27 +496,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" Moomoo",
-        "id": "a10"
+        "id": "a14"
       },
       {
-        "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - 아시아경제",
+        "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - asiae.co.kr",
         "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dkFKR2Zzd0IybFV6NWhKazhrM2Y2RnJJX0FnMHlNcFdpY1A4SmhVbzV1NDVCVHRXZWVRdlNQZC1ZeTEtRnp6QVI3QS1mQlpNdElScVZoRWMyZjZDMDBzbjN2ME4?oc=5",
-        "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
+        "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T01:22:26.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.784Z",
+        "fetchedAt": "2026-09-18T19:15:20.269Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "아시아경제",
+        "googleNewsSource": "asiae.co.kr",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
-        "id": "a11"
+        "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
+        "id": "a15"
       },
       {
         "title": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ - Chosunbiz",
@@ -450,7 +526,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T00:19:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.783Z",
+        "fetchedAt": "2026-09-18T19:15:20.269Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Chosunbiz",
         "geopoliticalBypass": true,
@@ -460,7 +536,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ Chosunbiz",
-        "id": "a12"
+        "id": "a16"
       },
       {
         "title": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting - Newsweek",
@@ -470,7 +546,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:42:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.784Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Newsweek",
         "geopoliticalBypass": true,
@@ -480,7 +556,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting Newsweek",
-        "id": "a13"
+        "id": "a17"
       },
       {
         "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Clifford Chance",
@@ -490,7 +566,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:39.000Z",
-        "fetchedAt": "2026-09-18T16:44:41.783Z",
+        "fetchedAt": "2026-09-18T19:15:20.269Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Clifford Chance",
         "geopoliticalBypass": true,
@@ -500,7 +576,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Clifford Chance",
-        "id": "a15"
+        "id": "a19"
+      },
+      {
+        "title": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China - Center for a New American Security | CNAS",
+        "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVktjNG1fVTNrRXBvOERoRHpRQVNRaG5sQzliQ2dWQzlWTGw0Q2xWVUtqYnVYa2VTdWEzazdCbHFxZ2tKS3VlekpEdE1Ma2l3OGdqTFh6SUhxWFRWQnFkY19pRm9YVHhrQUV4amRtUXR3RHpSdnBlekxick0zN1FkUGdqZDRlRHhhclc2RGRVUGlWTC1lTkRBclEwaWUwbEtzUl9sdVZqTUFYT3FHOXhTSGEyQzlBZUxmTm1obHhyR2hVbnhvM003UTI3b0U4OXdVUm1fRFdyZw?oc=5",
+        "description": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China Center for a New American Security | CNAS",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-17T21:57:56.000Z",
+        "fetchedAt": "2026-09-18T19:15:20.270Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Center for a New American Security | CNAS",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China Center for a New American Security | CNAS",
+        "id": "a20"
       },
       {
         "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -510,7 +606,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:45:06.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -518,7 +614,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-        "id": "a16"
+        "id": "a21"
       },
       {
         "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -528,7 +624,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-17T21:33:42.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.084Z",
+        "fetchedAt": "2026-09-18T19:15:17.440Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -537,7 +633,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-        "id": "a17"
+        "id": "a22"
       },
       {
         "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -547,7 +643,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:14:17.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -555,49 +651,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-        "id": "a18"
-      },
-      {
-        "title": "The AI Superintelligence Slowdown",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowing down AI development Microsoft says ‘people matter more than AI’ following safety concerns China: AI CEOs are “fear mongering.” Sam Altman: Let’s slow down. Is it time for AI companies to press pause? Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ Anthropic CEO says it’s time to pump the brakes on AI",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-17T19:28:24.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.683Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-        "id": "a19"
-      },
-      {
-        "title": "Save $30 or more on a refurbished Apple TV 4K",
-        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-        "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-17T17:14:07.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.683Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-        "id": "a22"
+        "id": "a23"
       },
       {
         "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -607,7 +661,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-17T15:50:09.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.695Z",
+        "fetchedAt": "2026-09-18T19:15:18.262Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -616,7 +670,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-        "id": "a23"
+        "id": "a26"
       },
       {
         "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -626,7 +680,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-17T07:58:24.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.382Z",
+        "fetchedAt": "2026-09-18T19:15:18.001Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -635,7 +689,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -645,7 +699,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T02:11:52.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -653,7 +707,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-        "id": "a27"
+        "id": "a30"
       },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -663,7 +717,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -673,25 +727,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a28"
-      },
-      {
-        "title": "Qualcomm now faces rival with bigger market cap",
-        "url": "https://www.thestreet.com/technology/qualcomm-mediatek-rivalry?.tsrc=rss",
-        "description": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T18:33:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-        "id": "a29"
+        "id": "a31"
       },
       {
         "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -701,7 +737,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-16T13:52:41.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.597Z",
+        "fetchedAt": "2026-09-18T19:15:18.148Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -712,7 +748,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "US and China hyperscalers double spending as server costs rise.",
-        "id": "a31"
+        "id": "a33"
       }
     ]
   },
@@ -908,45 +944,45 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-18T16:44:41.824Z",
+    "generatedAt": "2026-09-18T19:15:20.307Z",
     "date": "2026-09-19",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 9 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
           "articleIds": [
-            "a3"
+            "a5"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
           "articleIds": [
-            "a4"
+            "a6"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a5"
+            "a7"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
           "articleIds": [
-            "a24"
+            "a27"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
           "articleIds": [
-            "a28"
+            "a31"
           ],
           "subCategory": "supply-chain"
         }
@@ -961,7 +997,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T15:02:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.097Z",
+        "fetchedAt": "2026-09-18T19:15:13.981Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -972,7 +1008,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
@@ -982,7 +1018,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-18T14:51:26.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.683Z",
+        "fetchedAt": "2026-09-18T19:15:14.385Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -993,7 +1029,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -1003,7 +1039,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1013,28 +1049,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a5"
-      },
-      {
-        "title": "The AI Superintelligence Slowdown",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-        "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowing down AI development Microsoft says ‘people matter more than AI’ following safety concerns China: AI CEOs are “fear mongering.” Sam Altman: Let’s slow down. Is it time for AI companies to press pause? Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ Anthropic CEO says it’s time to pump the brakes on AI",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-17T19:28:24.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.683Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-        "id": "a19"
+        "id": "a7"
       },
       {
         "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -1044,7 +1059,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T18:43:02.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1054,28 +1069,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-        "id": "a21"
-      },
-      {
-        "title": "Save $30 or more on a refurbished Apple TV 4K",
-        "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-        "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-17T17:14:07.000Z",
-        "fetchedAt": "2026-09-18T16:44:35.683Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-        "id": "a22"
+        "id": "a25"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -1085,7 +1079,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1095,7 +1089,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a24"
+        "id": "a27"
       },
       {
         "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -1105,7 +1099,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-18T16:44:34.942Z",
+        "fetchedAt": "2026-09-18T19:15:13.820Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -1115,7 +1109,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a28"
+        "id": "a31"
       },
       {
         "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -1125,7 +1119,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-16T13:52:41.000Z",
-        "fetchedAt": "2026-09-18T16:44:39.597Z",
+        "fetchedAt": "2026-09-18T19:15:18.148Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1136,7 +1130,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "US and China hyperscalers double spending as server costs rise.",
-        "id": "a31"
+        "id": "a33"
       }
     ]
   },
@@ -4002,34 +3996,52 @@ export const NEWS_DATA = {
     "totalArticles": 40
   },
   "archive-2026-09-19": {
-    "generatedAt": "2026-09-18T16:44:41.826Z",
+    "generatedAt": "2026-09-18T19:15:20.309Z",
     "date": "2026-09-19",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "semiconductors"
+            },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a5"
+                "a7"
               ],
               "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Semiconductors: Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-              "articleIds": [
-                "a14"
-              ],
-              "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+            "url": "https://247wallst.com/investing/2026/09/18/qualcomm-drops-6-as-past-months-rally-unwinds-skyworks-and-qorvo-slip/?.tsrc=rss",
+            "description": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T17:58:45.000Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+            "id": "a1"
+          },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
             "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
@@ -4038,7 +4050,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4048,7 +4060,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a5"
+            "id": "a7"
           },
           {
             "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -4058,7 +4070,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:42.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4066,7 +4078,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-            "id": "a14"
+            "id": "a18"
           },
           {
             "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -4076,7 +4088,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T19:22:33.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4084,7 +4096,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-            "id": "a20"
+            "id": "a24"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -4094,7 +4106,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4104,7 +4116,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a24"
+            "id": "a27"
           },
           {
             "title": "Edge-first Architectures for Building and Campus Safety and Security",
@@ -4114,7 +4126,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-16T15:53:12.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.784Z",
+            "fetchedAt": "2026-09-18T19:15:14.724Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4122,12 +4134,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-            "id": "a30"
+            "id": "a32"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -4138,7 +4150,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -4148,7 +4160,7 @@ export const NEWS_DATA = {
             {
               "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
               "articleIds": [
-                "a25"
+                "a28"
               ],
               "subCategory": "on-device-ai"
             }
@@ -4163,7 +4175,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T08:47:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4171,36 +4183,36 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-            "id": "a25"
+            "id": "a28"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
+              "text": "Geopolitics & Export Controls: Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
               "articleIds": [
-                "a1"
+                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
+              "text": "market-performance: Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lowe",
               "articleIds": [
-                "a16"
+                "a3"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a28"
+                "a31"
               ],
               "subCategory": "supply-chain"
             }
@@ -4208,34 +4220,14 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmpoNEJlSGxhSjZlWGREdnJ3bnVHZlRZeXNpVUlmU2doczRmSXB5dFdTQUJOV1BnSFQ3Wm5EVXJrd0lLdklnVVNwNlphNTdmTnQyeGJLVGEyeGFiYldsZjF6M0xoc0tFOWtxQmlWcXktTG5CRklPVWtCbnpuSlR1MnpZTExtY0JXMXQxVHNZWmRndw?oc=5",
-            "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T16:29:55.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.784Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Organization for World Peace",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-            "id": "a1"
-          },
-          {
-            "title": "JPMorgan CEO Jamie Dimon attending Trump's state dinner for China's Xi: Source",
+            "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
             "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
-            "description": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+            "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
             "source": "CNBC",
             "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T16:21:20.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.513Z",
+            "publishedAt": "2026-09-18T17:34:49.000Z",
+            "fetchedAt": "2026-09-18T19:15:13.641Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4243,8 +4235,47 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Dimon joins OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
+            "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
             "id": "a2"
+          },
+          {
+            "title": "Buffett Steps Down at Berkshire",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-18/open-interest-9-18-2026-video",
+            "description": "Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lower and Brent crude extends its decline. Plus, China tariffs reportedly on hold ahead of the Trump-Xi summit, a changing of the guard at Berkshire, PwC CEO Paul Griggs on AI reshaping jobs, Mbappé’s stunning Nike exit, and new scrutiny of the Fed over SVB. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T17:05:25.000Z",
+            "fetchedAt": "2026-09-18T19:15:13.981Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Get a jump start on the US trading day with David Gura on \"Bloomberg Open Interest.\" Tech stocks pare morning gains as the sector’s recovery from a rocky week loses steam, while the S&P 500 turns lower and Brent crude extends its decline. Plus, China tariffs reportedly on hold ahead of the Trump-Xi summit, a changing of the guard at Berkshire, PwC CEO Paul Griggs on AI reshaping jobs, Mbappé’s stunning Nike exit, and new scrutiny of the Fed over SVB.",
+            "id": "a3"
+          },
+          {
+            "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - theowp.org",
+            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmpoNEJlSGxhSjZlWGREdnJ3bnVHZlRZeXNpVUlmU2doczRmSXB5dFdTQUJOV1BnSFQ3Wm5EVXJrd0lLdklnVVNwNlphNTdmTnQyeGJLVGEyeGFiYldsZjF6M0xoc0tFOWtxQmlWcXktTG5CRklPVWtCbnpuSlR1MnpZTExtY0JXMXQxVHNZWmRndw?oc=5",
+            "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T16:29:55.000Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "theowp.org",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+            "id": "a4"
           },
           {
             "title": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers",
@@ -4254,7 +4285,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T15:02:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.097Z",
+            "fetchedAt": "2026-09-18T19:15:13.981Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4265,7 +4296,27 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-            "id": "a3"
+            "id": "a5"
+          },
+          {
+            "title": "The AI revolution could become a national security disaster if we aren’t careful - 930 WFMD Free Talk",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjhpbWZ4eXFLbnJBZUxDY2xudjlRVjJqeGNwTG9mY1JMbHV0amJUTGZIVWtnOUE4cWFsUENnWS1tWGFlTnlJTERFMWdEbndxeHZVOU1qaU9uTHJyYkREZ3MtS2RXZlZxam5PX2R4akh1WnA4ZEQ2TWZQV25ZeUFsOFNCalA0UzY4NUYxd0NSZkNFSEZjQTNwdVlVUGJraEZ6T1VMTUtsM2ZTbWlLa0JvN2RR?oc=5",
+            "description": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T13:29:52.000Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "930 WFMD Free Talk",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
+            "id": "a8"
           },
           {
             "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
@@ -4275,7 +4326,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T13:10:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.784Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -4285,7 +4336,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-            "id": "a6"
+            "id": "a9"
+          },
+          {
+            "title": "Xi’s edge over Trump on AI",
+            "url": "https://www.ft.com/content/a528adc7-3a8c-4a00-826f-1fdde748efb5?syn-25a6b1a6=1",
+            "description": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T13:00:02.000Z",
+            "fetchedAt": "2026-09-18T19:15:14.185Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
+            "id": "a10"
           },
           {
             "title": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report - jharkhandstatenews.com",
@@ -4295,7 +4365,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T09:16:29.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.783Z",
+            "fetchedAt": "2026-09-18T19:15:20.269Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "jharkhandstatenews.com",
             "geopoliticalBypass": true,
@@ -4305,7 +4375,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
-            "id": "a7"
+            "id": "a11"
           },
           {
             "title": "China-based AI models trail US rivals on revenue",
@@ -4315,7 +4385,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.382Z",
+            "fetchedAt": "2026-09-18T19:15:18.001Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4324,7 +4394,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-            "id": "a8"
+            "id": "a12"
           },
           {
             "title": "Schumer urges Trump to block advanced AI chip sales to China - Fingerlakes1.com",
@@ -4334,7 +4404,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T06:05:07.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.784Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fingerlakes1.com",
             "geopoliticalBypass": true,
@@ -4344,7 +4414,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Schumer urges Trump to block advanced AI chip sales to China Fingerlakes1.com",
-            "id": "a9"
+            "id": "a13"
           },
           {
             "title": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" - Moomoo",
@@ -4354,7 +4424,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T01:52:31.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.783Z",
+            "fetchedAt": "2026-09-18T19:15:20.269Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Moomoo",
             "geopoliticalBypass": true,
@@ -4364,27 +4434,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" Moomoo",
-            "id": "a10"
+            "id": "a14"
           },
           {
-            "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - 아시아경제",
+            "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - asiae.co.kr",
             "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dkFKR2Zzd0IybFV6NWhKazhrM2Y2RnJJX0FnMHlNcFdpY1A4SmhVbzV1NDVCVHRXZWVRdlNQZC1ZeTEtRnp6QVI3QS1mQlpNdElScVZoRWMyZjZDMDBzbjN2ME4?oc=5",
-            "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
+            "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T01:22:26.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.784Z",
+            "fetchedAt": "2026-09-18T19:15:20.269Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "아시아경제",
+            "googleNewsSource": "asiae.co.kr",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
-            "id": "a11"
+            "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
+            "id": "a15"
           },
           {
             "title": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ - Chosunbiz",
@@ -4394,7 +4464,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T00:19:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.783Z",
+            "fetchedAt": "2026-09-18T19:15:20.269Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Chosunbiz",
             "geopoliticalBypass": true,
@@ -4404,7 +4474,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ Chosunbiz",
-            "id": "a12"
+            "id": "a16"
           },
           {
             "title": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting - Newsweek",
@@ -4414,7 +4484,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:42:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.784Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Newsweek",
             "geopoliticalBypass": true,
@@ -4424,7 +4494,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting Newsweek",
-            "id": "a13"
+            "id": "a17"
           },
           {
             "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Clifford Chance",
@@ -4434,7 +4504,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:39.000Z",
-            "fetchedAt": "2026-09-18T16:44:41.783Z",
+            "fetchedAt": "2026-09-18T19:15:20.269Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Clifford Chance",
             "geopoliticalBypass": true,
@@ -4444,7 +4514,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Clifford Chance",
-            "id": "a15"
+            "id": "a19"
+          },
+          {
+            "title": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China - Center for a New American Security | CNAS",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVktjNG1fVTNrRXBvOERoRHpRQVNRaG5sQzliQ2dWQzlWTGw0Q2xWVUtqYnVYa2VTdWEzazdCbHFxZ2tKS3VlekpEdE1Ma2l3OGdqTFh6SUhxWFRWQnFkY19pRm9YVHhrQUV4amRtUXR3RHpSdnBlekxick0zN1FkUGdqZDRlRHhhclc2RGRVUGlWTC1lTkRBclEwaWUwbEtzUl9sdVZqTUFYT3FHOXhTSGEyQzlBZUxmTm1obHhyR2hVbnhvM003UTI3b0U4OXdVUm1fRFdyZw?oc=5",
+            "description": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China Center for a New American Security | CNAS",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-17T21:57:56.000Z",
+            "fetchedAt": "2026-09-18T19:15:20.270Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Center for a New American Security | CNAS",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China Center for a New American Security | CNAS",
+            "id": "a20"
           },
           {
             "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -4454,7 +4544,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:45:06.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4462,7 +4552,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-            "id": "a16"
+            "id": "a21"
           },
           {
             "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -4472,7 +4562,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-17T21:33:42.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.084Z",
+            "fetchedAt": "2026-09-18T19:15:17.440Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4481,7 +4571,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-            "id": "a17"
+            "id": "a22"
           },
           {
             "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -4491,7 +4581,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:14:17.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4499,49 +4589,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-            "id": "a18"
-          },
-          {
-            "title": "The AI Superintelligence Slowdown",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-            "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowing down AI development Microsoft says ‘people matter more than AI’ following safety concerns China: AI CEOs are “fear mongering.” Sam Altman: Let’s slow down. Is it time for AI companies to press pause? Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ Anthropic CEO says it’s time to pump the brakes on AI",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-17T19:28:24.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.683Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-            "id": "a19"
-          },
-          {
-            "title": "Save $30 or more on a refurbished Apple TV 4K",
-            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-            "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-17T17:14:07.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.683Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-            "id": "a22"
+            "id": "a23"
           },
           {
             "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -4551,7 +4599,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-17T15:50:09.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.695Z",
+            "fetchedAt": "2026-09-18T19:15:18.262Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4560,7 +4608,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-            "id": "a23"
+            "id": "a26"
           },
           {
             "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -4570,7 +4618,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-17T07:58:24.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.382Z",
+            "fetchedAt": "2026-09-18T19:15:18.001Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4579,7 +4627,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -4589,7 +4637,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T02:11:52.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4597,7 +4645,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-            "id": "a27"
+            "id": "a30"
           },
           {
             "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -4607,7 +4655,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -4617,25 +4665,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a28"
-          },
-          {
-            "title": "Qualcomm now faces rival with bigger market cap",
-            "url": "https://www.thestreet.com/technology/qualcomm-mediatek-rivalry?.tsrc=rss",
-            "description": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-16T18:33:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Another chipmaker’s newest processor claims faster AI and stronger gaming performance.",
-            "id": "a29"
+            "id": "a31"
           },
           {
             "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -4645,7 +4675,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-16T13:52:41.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.597Z",
+            "fetchedAt": "2026-09-18T19:15:18.148Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4656,12 +4686,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "US and China hyperscalers double spending as server costs rise.",
-            "id": "a31"
+            "id": "a33"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -4672,45 +4702,45 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-18T16:44:41.824Z",
+        "generatedAt": "2026-09-18T19:15:20.307Z",
         "date": "2026-09-19",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 9 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
               "articleIds": [
-                "a3"
+                "a5"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
               "articleIds": [
-                "a4"
+                "a6"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a5"
+                "a7"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
               "articleIds": [
-                "a24"
+                "a27"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
               "articleIds": [
-                "a28"
+                "a31"
               ],
               "subCategory": "supply-chain"
             }
@@ -4725,7 +4755,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T15:02:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.097Z",
+            "fetchedAt": "2026-09-18T19:15:13.981Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4736,7 +4766,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
@@ -4746,7 +4776,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-18T14:51:26.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.683Z",
+            "fetchedAt": "2026-09-18T19:15:14.385Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -4757,7 +4787,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -4767,7 +4797,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4777,28 +4807,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a5"
-          },
-          {
-            "title": "The AI Superintelligence Slowdown",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
-            "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowing down AI development Microsoft says ‘people matter more than AI’ following safety concerns China: AI CEOs are “fear mongering.” Sam Altman: Let’s slow down. Is it time for AI companies to press pause? Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ Anthropic CEO says it’s time to pump the brakes on AI",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-17T19:28:24.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.683Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-            "id": "a19"
+            "id": "a7"
           },
           {
             "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -4808,7 +4817,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T18:43:02.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -4818,28 +4827,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-            "id": "a21"
-          },
-          {
-            "title": "Save $30 or more on a refurbished Apple TV 4K",
-            "url": "https://www.theverge.com/gadgets/997009/refurbished-apple-tv-4k-ring-doorbell-deal-sale",
-            "description": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price. Apple refurbished products are often close to like-new condition, and are covered by the same one year warranty as new products. Apple TV 4K (third-gen) If you subscribe to Apple Arcade, an Apple TV 4K can effectively double as both a mini gaming console and one of the best streaming devices you can buy. With it, you can connect a Bluetooth controller like the PlayStation 5’s DualSense, thus allowing games that were initially developed for PC / consoles to be played on the big screen for which they were designed. Where to Buy: $199 $169 at Apple (refurbished) We reviewed the third-generation Apple TV 4K when it launched back in 2022, and were impressed by the performance and seamless integration with some streaming services, although others are still in their own dedicated apps. The device supports Dolby Vision and HDR10 Plus for excellent contrast (surpassing the quality you’ll get from a cheaper streamer, or even something like a PS5), and Siri for quickly finding your favorite shows and movies. Both the 64GB and 128GB models can work as a HomeKit hub for your other smart devices, but only the Ethernet model supports Thread. Read our Apple TV 4K review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/alienware-15-laptop.jpg?crop=0%2C0%2C100%2C100&quality=90&strip=all&w=2400\", productImageAlt: \"Alienware 15 Gaming Laptop\", productTitle: \"Alienware 15 Gaming Laptop\", shortDescription: \"Real gaming performance, finally at a real starting price.\", longDescription: \"Alienware's cheapest gaming laptop ever finally breaks $1,000. Configurable with up to NVIDIA GeForce RTX 5060 graphics, the Alienware 15 pairs a fast 15.3-inch, 165Hz, 16:10 display with a genuinely portable 4.85-pound build, no more bulky thermal shelf on the back. Upgradeable memory and 100W USB-C charging round it out, making it just as reasonable for class or travel as it is for gaming.\", purchaseUrl: \"https://www.kqzyfj.com/click-8836598-12839518?url=https%3A%2F%2Fwww.dell.com%2Fen-us%2Fshop%2Fdell-laptops%2Falienware-15-gaming-laptop%2Fspd%2Falienware-da15260-gaming-laptop\", purchaseLinkText: \"Shop At Dell\" }; Other deals to consider This Energizer 3-in-1 15W magnetic charger is half off at Best Buy, bringing the cost down to just $20. With 15W for your phone, 5W for earbuds, and 2.5W for the Apple Watch, this single device can keep all of your devices charged up, and folds up neatly for storage or travel. Keep an eye on your front door and another room with a discount on this Ring Doorbell 2K and Indoor Cam bundle, which is currently $60 (usually $140) at Best Buy. The doorbell is the battery-powered model, so no need for drilling or wires, and it has live view and two-way communication, as well as night vision for looking at evening visitors or delivery people. Built-in TV speakers tend to be unimpressive, and even an inexpensive sound system like this Vizio 4.1 soundbar, currently discounted to $100.80 (usually $168) at Walmart, can make a huge difference in immersion. The kit includes a 30-inch soundbar, a pair of wireless surround speakers, and a wireless subwoofer, with Dolby Atmos support for spatial audio, a rarity at this price point.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-17T17:14:07.000Z",
-            "fetchedAt": "2026-09-18T16:44:35.683Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-            "id": "a22"
+            "id": "a25"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -4849,7 +4837,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4859,7 +4847,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a24"
+            "id": "a27"
           },
           {
             "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -4869,7 +4857,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-18T16:44:34.942Z",
+            "fetchedAt": "2026-09-18T19:15:13.820Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -4879,7 +4867,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a28"
+            "id": "a31"
           },
           {
             "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -4889,7 +4877,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-16T13:52:41.000Z",
-            "fetchedAt": "2026-09-18T16:44:39.597Z",
+            "fetchedAt": "2026-09-18T19:15:18.148Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4900,7 +4888,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "US and China hyperscalers double spending as server costs rise.",
-            "id": "a31"
+            "id": "a33"
           }
         ]
       }
