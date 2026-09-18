@@ -1,70 +1,49 @@
 {
-  "generatedAt": "2026-09-18T19:15:20.307Z",
+  "generatedAt": "2026-09-18T21:54:12.903Z",
   "date": "2026-09-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-        "articleIds": [
-          "a5"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
         "articleIds": [
-          "a6"
+          "a5"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a7"
+          "a6"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a27"
+          "a26"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a31"
+          "a30"
         ],
         "subCategory": "supply-chain"
+      },
+      {
+        "text": "Geopolitics & Export Controls: US and China hyperscalers double spending as server costs rise.",
+        "articleIds": [
+          "a32"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/amazon-in-eu-crosshairs-over-suspected-price-curbs-on-sellers",
-      "description": "Amazon.com Inc. is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T15:02:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.981Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-      "id": "a5"
-    },
     {
       "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
       "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
@@ -73,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-18T14:51:26.000Z",
-      "fetchedAt": "2026-09-18T19:15:14.385Z",
+      "fetchedAt": "2026-09-18T21:54:07.544Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -84,7 +63,7 @@
         "platform-partner"
       ],
       "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-      "id": "a6"
+      "id": "a5"
     },
     {
       "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -94,7 +73,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -104,7 +83,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a7"
+      "id": "a6"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -114,7 +93,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -124,7 +103,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a25"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -134,7 +113,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -144,7 +123,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a27"
+      "id": "a26"
     },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -154,7 +133,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -164,7 +143,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a31"
+      "id": "a30"
     },
     {
       "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -174,7 +153,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-18T19:15:18.148Z",
+      "fetchedAt": "2026-09-18T21:54:10.817Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -185,7 +164,7 @@
         "oem"
       ],
       "summary": "US and China hyperscalers double spending as server costs rise.",
-      "id": "a33"
+      "id": "a32"
     }
   ]
 }

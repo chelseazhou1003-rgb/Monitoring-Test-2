@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-18T19:15:20.307Z",
+  "generatedAt": "2026-09-18T21:54:12.902Z",
   "date": "2026-09-19",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
@@ -23,7 +23,7 @@
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a31"
+          "a30"
         ],
         "subCategory": "supply-chain"
       }
@@ -38,7 +38,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:34:49.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.641Z",
+      "fetchedAt": "2026-09-18T21:54:07.134Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -57,7 +57,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:05:25.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.981Z",
+      "fetchedAt": "2026-09-18T21:54:07.277Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -69,65 +69,24 @@
       "id": "a3"
     },
     {
-      "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - theowp.org",
+      "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
       "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPSmpoNEJlSGxhSjZlWGREdnJ3bnVHZlRZeXNpVUlmU2doczRmSXB5dFdTQUJOV1BnSFQ3Wm5EVXJrd0lLdklnVVNwNlphNTdmTnQyeGJLVGEyeGFiYldsZjF6M0xoc0tFOWtxQmlWcXktTG5CRklPVWtCbnpuSlR1MnpZTExtY0JXMXQxVHNZWmRndw?oc=5",
-      "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+      "description": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T16:29:55.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
+      "publishedAt": "2026-09-18T16:29:30.000Z",
+      "fetchedAt": "2026-09-18T21:54:12.859Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "theowp.org",
+      "googleNewsSource": "The Organization for World Peace",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race theowp.org",
+      "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
       "id": "a4"
-    },
-    {
-      "title": "Amazon in EU Crosshairs Over Suspected Price Curbs on Sellers",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-18/amazon-in-eu-crosshairs-over-suspected-price-curbs-on-sellers",
-      "description": "Amazon.com Inc. is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T15:02:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.981Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "is under scrutiny from the European Union for potentially imposing unfair restrictions on firms selling on its platform.",
-      "id": "a5"
-    },
-    {
-      "title": "The AI revolution could become a national security disaster if we aren’t careful - 930 WFMD Free Talk",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNMjhpbWZ4eXFLbnJBZUxDY2xudjlRVjJqeGNwTG9mY1JMbHV0amJUTGZIVWtnOUE4cWFsUENnWS1tWGFlTnlJTERFMWdEbndxeHZVOU1qaU9uTHJyYkREZ3MtS2RXZlZxam5PX2R4akh1WnA4ZEQ2TWZQV25ZeUFsOFNCalA0UzY4NUYxd0NSZkNFSEZjQTNwdVlVUGJraEZ6T1VMTUtsM2ZTbWlLa0JvN2RR?oc=5",
-      "description": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T13:29:52.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "930 WFMD Free Talk",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The AI revolution could become a national security disaster if we aren’t careful 930 WFMD Free Talk",
-      "id": "a8"
     },
     {
       "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
@@ -137,7 +96,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T13:10:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -147,7 +106,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-      "id": "a9"
+      "id": "a7"
     },
     {
       "title": "Xi’s edge over Trump on AI",
@@ -157,7 +116,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T13:00:02.000Z",
-      "fetchedAt": "2026-09-18T19:15:14.185Z",
+      "fetchedAt": "2026-09-18T21:54:07.491Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -166,17 +125,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The US president’s anti-regulatory stance fails to take into account that China is catching up",
-      "id": "a10"
+      "id": "a8"
     },
     {
       "title": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report - jharkhandstatenews.com",
-      "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOeFdWS2VkYTZSN2tncHBsT3d2S2RCcnh1SmNUb2hGZFdjMFF6V0REalRxNTRvRlZqU2xCMERULVdaWjRIdFdFamRVSDVBR0dCeW82QzVFTUlZSUhWX2thSFk4dms0b3pXa3JUTFZVRmVJZEFrMU5ZanpfQ1N5QTZnQ1loaG55cjQ2anVVbWpVdW5hcnl2Q0gtQUhyMFNIdUp2X2RXRlVwTFJyWGJseHZUM29pb0Naam5ZSUdTUng3Qy1FcWt0bEJUU01iNkkxZUxNX1BuNElxVTBkY0ZFcTk1eGJCXzcxN25PUWF4OXF6VWNjLVRtbnZRN2l1a2NuaHpuVnJTd3E0c1djOUNYWnRlN2tYLUhNVFdhYjdxNg?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaDl3NWNhUUtqSWRmZ1FEbU03NURjcHQtV1ZuT1N0Y1A2S0E5c0dBd1BjcS0wbkJYVkFmWTBWNTRLWmJGazEwRmI0UTR3bEZIX2FDaXFOX0VUNTZWUVdIYnBXRWdHaTlmSzlveHlWVTZwbFJWVGs5bkNwbTBGWWJlb2dkVXFFTEwyV3hTZW9uNkFUVmRGLUlFMHQ4UVJWc0pvLTJzLU9fNWM4akhDZ0xkVU1YaTFVLXFSR0hwSDB5UDJSLVlQQ3dfMHlEQTVFMV9KYWlOR0ZfT2Y2R1dDaUhkSWVaNExqNjZoRHFrS2hLbXRVZGgxOHpoNTlIR0RxY0FPM2prRVpDR3BZQk14TlF5UWFvYmNmdHc4d29J?oc=5",
       "description": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T09:16:29.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.269Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "jharkhandstatenews.com",
       "geopoliticalBypass": true,
@@ -186,7 +145,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
-      "id": "a11"
+      "id": "a9"
     },
     {
       "title": "China-based AI models trail US rivals on revenue",
@@ -196,7 +155,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-18T08:27:40.000Z",
-      "fetchedAt": "2026-09-18T19:15:18.001Z",
+      "fetchedAt": "2026-09-18T21:54:10.701Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -205,7 +164,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-      "id": "a12"
+      "id": "a10"
     },
     {
       "title": "Schumer urges Trump to block advanced AI chip sales to China - Fingerlakes1.com",
@@ -215,7 +174,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T06:05:07.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fingerlakes1.com",
       "geopoliticalBypass": true,
@@ -225,7 +184,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Schumer urges Trump to block advanced AI chip sales to China Fingerlakes1.com",
-      "id": "a13"
+      "id": "a11"
+    },
+    {
+      "title": "Bae, Kim & Lee and Reed Smith hold seminar on semiconductor export control strategies - 헤럴드경제",
+      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE53Tm9XdC1DTHUxQ3hhUmdaOUYwbVlRaXJzQjlQV2FqV1BXR0hueEprdEY3dGJnSXZYbXczTUw3VXk1N0s0d2NMdHdBMUwtYnBZQi1sNGIwSQ?oc=5",
+      "description": "Bae, Kim & Lee and Reed Smith hold seminar on semiconductor export control strategies 헤럴드경제",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-18T05:32:01.000Z",
+      "fetchedAt": "2026-09-18T21:54:12.859Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "헤럴드경제",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Bae, Kim & Lee and Reed Smith hold seminar on semiconductor export control strategies 헤럴드경제",
+      "id": "a12"
     },
     {
       "title": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" - Moomoo",
@@ -235,7 +214,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T01:52:31.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.269Z",
+      "fetchedAt": "2026-09-18T21:54:12.859Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Moomoo",
       "geopoliticalBypass": true,
@@ -245,27 +224,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Struggling to Break Through Memory Bottlenecks? The AI Chip Industry is Accelerating via \"Memory Decoupling\" Moomoo",
-      "id": "a14"
+      "id": "a13"
     },
     {
-      "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - asiae.co.kr",
+      "title": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources - 아시아경제",
       "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE91dkFKR2Zzd0IybFV6NWhKazhrM2Y2RnJJX0FnMHlNcFdpY1A4SmhVbzV1NDVCVHRXZWVRdlNQZC1ZeTEtRnp6QVI3QS1mQlpNdElScVZoRWMyZjZDMDBzbjN2ME4?oc=5",
-      "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
+      "description": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T01:22:26.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.269Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "asiae.co.kr",
+      "googleNewsSource": "아시아경제",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources asiae.co.kr",
-      "id": "a15"
+      "summary": "Government Considers Converting Early-Closed Coal Power Plants to SMRs... 10 Units to Be Used for National Security Power Sources 아시아경제",
+      "id": "a14"
     },
     {
       "title": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ - Chosunbiz",
@@ -275,7 +254,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T00:19:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.269Z",
+      "fetchedAt": "2026-09-18T21:54:12.859Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Chosunbiz",
       "geopoliticalBypass": true,
@@ -285,7 +264,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ Chosunbiz",
-      "id": "a16"
+      "id": "a15"
     },
     {
       "title": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting - Newsweek",
@@ -295,7 +274,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:42:00.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Newsweek",
       "geopoliticalBypass": true,
@@ -305,7 +284,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Josh Shapiro Says Donald Trump Helped China Gain Edge in AI Race Ahead of Xi Meeting Newsweek",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Clifford Chance",
@@ -315,7 +294,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:30:39.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.269Z",
+      "fetchedAt": "2026-09-18T21:54:12.859Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Clifford Chance",
       "geopoliticalBypass": true,
@@ -325,7 +304,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Clifford Chance",
-      "id": "a19"
+      "id": "a18"
     },
     {
       "title": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China - Center for a New American Security | CNAS",
@@ -335,7 +314,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:57:56.000Z",
-      "fetchedAt": "2026-09-18T19:15:20.270Z",
+      "fetchedAt": "2026-09-18T21:54:12.860Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Center for a New American Security | CNAS",
       "geopoliticalBypass": true,
@@ -345,7 +324,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CNAS Insights | America Must Expand AI Export Controls Amid Talks with China Center for a New American Security | CNAS",
-      "id": "a20"
+      "id": "a19"
     },
     {
       "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -355,7 +334,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:45:06.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -363,7 +342,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-      "id": "a21"
+      "id": "a20"
     },
     {
       "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -373,7 +352,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-17T21:33:42.000Z",
-      "fetchedAt": "2026-09-18T19:15:17.440Z",
+      "fetchedAt": "2026-09-18T21:54:10.422Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -382,7 +361,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-      "id": "a22"
+      "id": "a21"
     },
     {
       "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -392,7 +371,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:14:17.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -400,7 +379,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -410,7 +389,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-17T15:50:09.000Z",
-      "fetchedAt": "2026-09-18T19:15:18.262Z",
+      "fetchedAt": "2026-09-18T21:54:11.127Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -419,7 +398,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-      "id": "a26"
+      "id": "a25"
     },
     {
       "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -429,7 +408,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-17T07:58:24.000Z",
-      "fetchedAt": "2026-09-18T19:15:18.001Z",
+      "fetchedAt": "2026-09-18T21:54:10.701Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -438,7 +417,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-      "id": "a29"
+      "id": "a28"
     },
     {
       "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -448,7 +427,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T02:11:52.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -456,7 +435,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-      "id": "a30"
+      "id": "a29"
     },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -466,7 +445,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-18T19:15:13.820Z",
+      "fetchedAt": "2026-09-18T21:54:07.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -476,7 +455,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a31"
+      "id": "a30"
     },
     {
       "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -486,7 +465,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-18T19:15:18.148Z",
+      "fetchedAt": "2026-09-18T21:54:10.817Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -497,7 +476,7 @@
         "oem"
       ],
       "summary": "US and China hyperscalers double spending as server costs rise.",
-      "id": "a33"
+      "id": "a32"
     }
   ]
 }
