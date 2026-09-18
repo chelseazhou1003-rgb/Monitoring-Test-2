@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-17T21:47:53.932Z",
+  "generatedAt": "2026-09-18T00:48:35.559Z",
   "date": "2026-09-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
-      "topHeadline": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
-      "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
-      "topHeadlineId": "a17",
+      "topHeadlineId": "a19",
       "briefingSummary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 23,
-      "topHeadline": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
+      "articleCount": 24,
+      "topHeadline": "Bae, Kim & Lee and Reed Smith host Korea-US seminar on chip export controls - CHOSUNBIZ - biz.chosun.com",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,10 +39,10 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 12,
+      "articleCount": 10,
       "topHeadline": "The AI Superintelligence Slowdown",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Platform & Ecosystem Partners (3 articles), Semiconductors (2 articles). A total of 12 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (3 articles), Semiconductors (2 articles). A total of 10 articles were aggregated from monitored sources."
     }
   },
   "totalArticles": 40
