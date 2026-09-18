@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-18T06:42:19.011Z",
+  "generatedAt": "2026-09-18T11:53:40.846Z",
   "date": "2026-09-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a13",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
-      "topHeadlineId": "a25",
+      "topHeadlineId": "a28",
       "briefingSummary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 26,
-      "topHeadline": "Schumer urges Trump to block advanced AI chip sales to China - Fingerlakes1.com",
+      "articleCount": 27,
+      "topHeadline": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report - jharkhandstatenews.com",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (5 articles), Supply Chain (1 article). A total of 26 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), market-performance (5 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 10,
-      "topHeadline": "The AI Superintelligence Slowdown",
-      "topHeadlineId": "a14",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (3 articles), Semiconductors (2 articles). A total of 10 articles were aggregated from monitored sources."
+      "articleCount": 8,
+      "topHeadline": "EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation - Global Sanctions and Export Controls Blog",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 42
+  "totalArticles": 40
 }

@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-18T06:42:19.007Z",
+  "generatedAt": "2026-09-18T11:53:40.843Z",
   "date": "2026-09-18",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (3 articles), Semiconductors (2 articles). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Platform & Ecosystem Partners (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
+        "text": "Geopolitics & Export Controls: EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation Global Sanctions and Export Controls Blog",
         "articleIds": [
-          "a14"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
         "articleIds": [
-          "a16"
+          "a20"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a19"
+          "a23"
         ],
         "subCategory": "semiconductors"
       },
@@ -38,6 +38,28 @@
   },
   "articles": [
     {
+      "title": "EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation - Global Sanctions and Export Controls Blog",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdzZ2Q0NzSHJfNTFMLW5OdWpsY3pZT3VaNU9WR3Z1c0RtazREa25wRzVnQkZDMGpuZjlIbHp6bVd5RV90Z3gtRG00ci1hXzVxN1hrYlRQUUd3RF96eEU3Vl9jeEdYS3hpRHFja1ZIOXM1TlZEZ3RCY0ZDRkxiVE93MG9kcGNENGtKMl9VZFVhMXIzcVI2RDlxM28xczJBZmltRWV3dEUyRmFjSE1BZ1JSZHZ3bkpGR0dQWDV5WG5zX1FHd0tOQXgxUjVEeUFJZ0U?oc=5",
+      "description": "EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation Global Sanctions and Export Controls Blog",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-18T08:53:18.000Z",
+      "fetchedAt": "2026-09-18T11:53:40.798Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Global Sanctions and Export Controls Blog",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "EU Commission Adopts 2026 Delegated Regulation Updating Annex I of the EU Dual-Use Regulation Global Sanctions and Export Controls Blog",
+      "id": "a2"
+    },
+    {
       "title": "The AI Superintelligence Slowdown",
       "url": "https://www.theverge.com/ai-artificial-intelligence/996923/ai-safety-slow-openai-anthropic",
       "description": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down? Will anyone step in to regulate these companies like they claim to have wanted for years? Will they manage to convince world leaders that the US must “beat China” to superintelligence and go even faster? Read on below for the latest updates in this AI saga. Anthropic proposes three rules for measuring AI progress. King Charles says AI needs “sufficient means of control before it is all too late.” Microsoft AI CEO says AI threats are real, and Anthropic is making it worse OpenAI reveals six more “concerning” AI incidents under its new rules for reporting safety issues. Jensen Huang sure is getting cozy with Trump. A brief history of AI executives calling for regulation Two Google Deepmind researchers lend voices to the AI apocalypse. Guy getting super rich off unfettered AI development says it doesn’t need regulation. Zuck doesn’t want to press pause on AI. Barack Obama takes the middle way on AI. Is Big Tech’s AI slowdown a safety pact or a cartel? What execs and politicians are saying about slowing down AI development Microsoft says ‘people matter more than AI’ following safety concerns China: AI CEOs are “fear mongering.” Sam Altman: Let’s slow down. Is it time for AI companies to press pause? Sam Altman says OpenAI going public in 2026 would be ‘ill-advised’ Anthropic CEO says it’s time to pump the brakes on AI",
@@ -45,7 +67,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T19:28:24.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.858Z",
+      "fetchedAt": "2026-09-18T11:53:34.753Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +78,7 @@
         "platform-partner"
       ],
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-      "id": "a14"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -66,7 +88,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.214Z",
+      "fetchedAt": "2026-09-18T11:53:34.289Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -76,7 +98,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a16"
+      "id": "a20"
     },
     {
       "title": "Save $30 or more on a refurbished Apple TV 4K",
@@ -86,7 +108,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T17:14:07.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.858Z",
+      "fetchedAt": "2026-09-18T11:53:34.753Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -97,7 +119,7 @@
         "oem"
       ],
       "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-      "id": "a17"
+      "id": "a21"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -107,7 +129,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.214Z",
+      "fetchedAt": "2026-09-18T11:53:34.289Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -117,28 +139,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a19"
-    },
-    {
-      "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
-      "url": "https://www.cnbc.com/2026/09/17/trump-canada-european-union-tariffs-associate-member-ukraine-.html",
-      "description": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-17T14:28:39.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.118Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-      "id": "a20"
+      "id": "a23"
     },
     {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
@@ -148,7 +149,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T14:00:00.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.862Z",
+      "fetchedAt": "2026-09-18T11:53:34.755Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -160,27 +161,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways.",
-      "id": "a21"
-    },
-    {
-      "title": "Apple, OpenAI and Qualcomm Leaders to Attend Trump-Xi Dinner",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-16/openai-s-altman-to-attend-trump-dinner-with-chinese-president",
-      "description": "Apple Inc. Executive Chairman Tim Cook, OpenAI Chief Executive Officer Sam Altman and Qualcomm Inc. head Cristiano Amon are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T22:16:44.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.401Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Executive Chairman Tim Cook, OpenAI Chief Executive Officer Sam Altman and Qualcomm Inc. head Cristiano Amon are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
-      "id": "a30"
+      "id": "a24"
     },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -190,7 +171,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.214Z",
+      "fetchedAt": "2026-09-18T11:53:34.289Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -203,26 +184,6 @@
       "id": "a31"
     },
     {
-      "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-edged-higher-amazon-opens-171713925.html?.tsrc=rss",
-      "description": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-16T17:17:13.000Z",
-      "fetchedAt": "2026-09-18T06:42:12.214Z",
-      "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-      "id": "a33"
-    },
-    {
       "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
       "url": "https://www.lightreading.com/data-centers/data-center-capex-grew-92-in-2q-2026-driven-by-ai-demand-memory-costs-dell-oro",
       "description": "US and China hyperscalers double spending as server costs rise. #pressrelease",
@@ -230,7 +191,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-18T06:42:17.049Z",
+      "fetchedAt": "2026-09-18T11:53:38.932Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -241,7 +202,7 @@
         "oem"
       ],
       "summary": "US and China hyperscalers double spending as server costs rise.",
-      "id": "a35"
+      "id": "a34"
     }
   ]
 }
