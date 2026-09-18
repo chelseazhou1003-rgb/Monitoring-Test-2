@@ -1,21 +1,48 @@
 {
-  "generatedAt": "2026-09-18T11:53:40.843Z",
-  "date": "2026-09-18",
+  "generatedAt": "2026-09-18T16:44:41.824Z",
+  "date": "2026-09-19",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "mobile-chips"
+      },
       {
         "text": "Semiconductors: Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
         "articleIds": [
-          "a13"
+          "a14"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
+      "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
+      "description": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-18T14:03:30.000Z",
+      "fetchedAt": "2026-09-18T16:44:34.942Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
+      "id": "a5"
+    },
     {
       "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
       "url": "https://stocktwits.com/news-articles/markets/equity/trump-xi-dinner-next-week-brings-ai-titans-to-the-table-open-ai-nvda-qcom-ceos-to-attend/cZtscudRBdp?.tsrc=rss",
@@ -24,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:30:42.000Z",
-      "fetchedAt": "2026-09-18T11:53:34.289Z",
+      "fetchedAt": "2026-09-18T16:44:34.942Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +59,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -42,7 +69,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T19:22:33.000Z",
-      "fetchedAt": "2026-09-18T11:53:34.289Z",
+      "fetchedAt": "2026-09-18T16:44:34.942Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +77,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-      "id": "a19"
+      "id": "a20"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -60,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-18T11:53:34.289Z",
+      "fetchedAt": "2026-09-18T16:44:34.942Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -70,7 +97,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a23"
+      "id": "a24"
     },
     {
       "title": "Edge-first Architectures for Building and Campus Safety and Security",
@@ -80,7 +107,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-16T15:53:12.000Z",
-      "fetchedAt": "2026-09-18T11:53:34.853Z",
+      "fetchedAt": "2026-09-18T16:44:35.784Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -88,7 +115,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Join us to explore how Qualcomm Technologies edge-first architecture is built to bring AI processing directly to cameras, gateways, and on-premises systems. The post Edge-first Architectures for Building and Campus Safety and Security appeared first on EE Times.",
-      "id": "a33"
+      "id": "a30"
     }
   ]
 }
