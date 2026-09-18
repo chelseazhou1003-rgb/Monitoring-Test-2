@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-18T00:48:35.556Z",
+  "generatedAt": "2026-09-18T06:42:19.007Z",
   "date": "2026-09-18",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,28 +9,28 @@
       {
         "text": "Geopolitics & Export Controls: Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researche",
         "articleIds": [
-          "a7"
+          "a14"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
         "articleIds": [
-          "a9"
+          "a16"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a12"
+          "a19"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a29"
+          "a31"
         ],
         "subCategory": "supply-chain"
       }
@@ -45,7 +45,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T19:28:24.000Z",
-      "fetchedAt": "2026-09-18T00:48:29.792Z",
+      "fetchedAt": "2026-09-18T06:42:12.858Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +56,7 @@
         "platform-partner"
       ],
       "summary": "Remember when tech leaders would tell their employees to “move fast and break things”? It seemed that would be the way of AI too. But after a summer where rogue AI agents became reality, and researchers warned that AI could kill us all, a number of leading US AI companies are publicly suggesting it’s time to pump the brakes and “pace the frontier” of bleeding-edge AI development. Their motivations are suspect, but leaders at major AI companies — including Anthropic, OpenAI, Google, Microsoft, and X — are at least paying lip service to the idea of a superintelligence slowdown. Will these AI companies actually slow down?",
-      "id": "a7"
+      "id": "a14"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -66,7 +66,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-18T00:48:28.804Z",
+      "fetchedAt": "2026-09-18T06:42:12.214Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -76,7 +76,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a9"
+      "id": "a16"
     },
     {
       "title": "Save $30 or more on a refurbished Apple TV 4K",
@@ -86,7 +86,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T17:14:07.000Z",
-      "fetchedAt": "2026-09-18T00:48:29.792Z",
+      "fetchedAt": "2026-09-18T06:42:12.858Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -97,7 +97,7 @@
         "oem"
       ],
       "summary": "The refurbished Apple TV 4K with its voice remote. | Image: The Verge Most hardware prices have soared in 2026, and that includes a variety of Apple laptops, tablets, and smart devices. Thankfully, you can offset some of the increased costs on an Apple TV 4K by buying one refurbished through the company. The 64GB model is selling for $169, $30 lower than the new retail price. The upgraded model, with 128GB of storage and an Ethernet port, is also discounted to $209 at Apple, a $40 discount from the full price.",
-      "id": "a10"
+      "id": "a17"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -107,7 +107,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-18T00:48:28.804Z",
+      "fetchedAt": "2026-09-18T06:42:12.214Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -117,7 +117,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a12"
+      "id": "a19"
     },
     {
       "title": "'Hostile act': Trump threatens EU with tariffs over Canada associate membership proposal",
@@ -127,7 +127,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T14:28:39.000Z",
-      "fetchedAt": "2026-09-18T00:48:28.766Z",
+      "fetchedAt": "2026-09-18T06:42:12.118Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -138,7 +138,7 @@
         "regulators"
       ],
       "summary": "European Commission President Ursula von der Leyen said EU is opening the door for Canada to become the first associate member of the 27-member bloc.",
-      "id": "a14"
+      "id": "a20"
     },
     {
       "title": "Microsoft AI CEO says AI threats are real, and Anthropic is making it worse",
@@ -148,7 +148,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-17T14:00:00.000Z",
-      "fetchedAt": "2026-09-18T00:48:29.796Z",
+      "fetchedAt": "2026-09-18T06:42:12.862Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -160,7 +160,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Mustafa Suleyman, the CEO of Microsoft AI. As you’re no doubt aware, the biggest story in tech right now is the spiraling debate about AI safety and regulation. It should come as no surprise that Mustafa has strong opinions on how AI should be built and regulated. Microsoft just published a 37-page statement called the “Humanist AI Code of Conduct,” which lays out the company’s principles around AI development and even its philosophy around really thorny issues like AI consciousness. If you’ll recall from his last appearance on the show, Mustafa thinks companies like Anthropic have gotten really confused about this concept of so-called model welfare in fairly dangerous ways.",
-      "id": "a15"
+      "id": "a21"
     },
     {
       "title": "Apple, OpenAI and Qualcomm Leaders to Attend Trump-Xi Dinner",
@@ -170,7 +170,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T22:16:44.000Z",
-      "fetchedAt": "2026-09-18T00:48:29.110Z",
+      "fetchedAt": "2026-09-18T06:42:12.401Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -180,7 +180,7 @@
         "oem"
       ],
       "summary": "Executive Chairman Tim Cook, OpenAI Chief Executive Officer Sam Altman and Qualcomm Inc. head Cristiano Amon are poised to attend a White House state dinner for Chinese President Xi Jinping next week.",
-      "id": "a28"
+      "id": "a30"
     },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -190,7 +190,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-18T00:48:28.805Z",
+      "fetchedAt": "2026-09-18T06:42:12.214Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -200,7 +200,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a29"
+      "id": "a31"
     },
     {
       "title": "Qualcomm Edged Higher as Amazon Opens a $60 Billion AI Door",
@@ -210,7 +210,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T17:17:13.000Z",
-      "fetchedAt": "2026-09-18T00:48:28.804Z",
+      "fetchedAt": "2026-09-18T06:42:12.214Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -220,7 +220,7 @@
         "platform-partner"
       ],
       "summary": "Purchase-linked warrants align incentives, but the enormous ceiling is neither an order nor recognized revenue.",
-      "id": "a31"
+      "id": "a33"
     },
     {
       "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -230,7 +230,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-18T00:48:33.888Z",
+      "fetchedAt": "2026-09-18T06:42:17.049Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -241,7 +241,7 @@
         "oem"
       ],
       "summary": "US and China hyperscalers double spending as server costs rise.",
-      "id": "a33"
+      "id": "a35"
     }
   ]
 }
