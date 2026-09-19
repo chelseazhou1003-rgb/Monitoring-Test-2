@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-19T13:30:25.441Z",
-  "date": "2026-09-19",
+  "generatedAt": "2026-09-19T16:49:38.838Z",
+  "date": "2026-09-20",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-      "topHeadlineId": "a8",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,13 +20,13 @@
       "title": "Growth Areas",
       "articleCount": 2,
       "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-      "topHeadlineId": "a5",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 17,
-      "topHeadline": "The AI regulation smackdown isn’t over",
+      "topHeadline": "India’s Silicon Valley Is Straining Under Its Own Growth",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources."
     },
@@ -40,8 +40,8 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 7,
-      "topHeadline": "The AI regulation smackdown isn’t over",
-      "topHeadlineId": "a1",
+      "topHeadline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
+      "topHeadlineId": "a2",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
     }
   },
