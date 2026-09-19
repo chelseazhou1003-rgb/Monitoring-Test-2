@@ -1,24 +1,24 @@
 {
-  "generatedAt": "2026-09-19T09:44:14.627Z",
+  "generatedAt": "2026-09-19T13:30:25.439Z",
   "date": "2026-09-19",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+        "text": "Geopolitics & Export Controls: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
         "articleIds": [
           "a1"
         ],
-        "subCategory": "supply-chain"
+        "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Geopolitics & Export Controls: Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal proc",
+        "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
         "articleIds": [
-          "a2"
+          "a3"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "supply-chain"
       },
       {
         "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
@@ -31,6 +31,47 @@
   },
   "articles": [
     {
+      "title": "The AI regulation smackdown isn’t over",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+      "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-19T13:00:00.000Z",
+      "fetchedAt": "2026-09-19T13:30:19.324Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+      "id": "a1"
+    },
+    {
+      "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+      "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
+      "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T11:13:42.000Z",
+      "fetchedAt": "2026-09-19T13:30:25.408Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "India's News.Net",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+      "id": "a2"
+    },
+    {
       "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
       "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
@@ -38,7 +79,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T07:10:00.000Z",
-      "fetchedAt": "2026-09-19T09:44:14.595Z",
+      "fetchedAt": "2026-09-19T13:30:25.408Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Quantum Computing Report",
       "geopoliticalBypass": true,
@@ -50,7 +91,7 @@
         "foundry"
       ],
       "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-      "id": "a1"
+      "id": "a3"
     },
     {
       "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -60,7 +101,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T06:33:35.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.969Z",
+      "fetchedAt": "2026-09-19T13:30:19.099Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -69,7 +110,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-      "id": "a2"
+      "id": "a4"
+    },
+    {
+      "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXZpdVhTN213TFdXTVBKb25QdGVxNmNfWlRQX0xKT09IV2xReURUQnpQU3NpR3FjZHZKOXI0QkI0MzRVR2ZXSEFybmt0NEszVDlVQ2tZTGFUdkZLdnJlSW5SMzJJNlIzZTlxUEhkTUJYNjhzNEJXS2xVMi0xN3F2SkdMZ1FYRi1jaUM4NHhQazFxczl5QzRUMmtpV2FpeHk2ZnlOOEVYb1dvaDVvR05vclp4NGxsTWFEM3JUTll0YXNKb1QxdUl1SDBkNUM4UDc3S1h3LU8zUUZadlRkWlljbDhERQ?oc=5",
+      "description": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T00:00:21.000Z",
+      "fetchedAt": "2026-09-19T13:30:25.408Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "South China Morning Post",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+      "id": "a6"
     },
     {
       "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
@@ -79,7 +140,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T22:33:51.000Z",
-      "fetchedAt": "2026-09-19T09:44:14.595Z",
+      "fetchedAt": "2026-09-19T13:30:25.408Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "BIN: Black Information Network",
       "geopoliticalBypass": true,
@@ -89,7 +150,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -99,7 +160,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:34:49.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.541Z",
+      "fetchedAt": "2026-09-19T13:30:18.742Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -108,7 +169,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
@@ -118,7 +179,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T16:29:30.000Z",
-      "fetchedAt": "2026-09-19T09:44:14.595Z",
+      "fetchedAt": "2026-09-19T13:30:25.408Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Organization for World Peace",
       "geopoliticalBypass": true,
@@ -128,49 +189,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-      "id": "a7"
-    },
-    {
-      "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
-      "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNVnNyejl2VjdiVFNTdjlmaGlkb1ZCV3ZnU1JFbkh2MUR5X2lHSWxIQ0h6UTdUeWJoYXJ4M19HRUpBWG9EMzhhM0VWR0F2V21zaEM5N3k4a3pONDZkSU83N2lHbnFac1VGVG1RNnppdGExVHM1ejZkVzdSaEgwMUhWLWRaam5mcnNzTkhUNnhHNnVJN1p3cHk0V3ZtQlpWTDJiVWFiNmtIa21MY21aZk90cTAza1pZZGVUYjhhQ0R2TUliT0FxSFdvSk02SUk3ZEczR01ndzRzbWEyLUViUzFGWVZ5VFNkMTRSYmVTeFVsdmpwZmdkRS11dmdFWjhndng4TmNjbnRieWw5OGpXYVB0LTdfazZIUWRXWDB3aHc4OU9JM3NMX3lycG1BMDdRZW9xSGJBWXBicWRuRC10SkhvaElYNF9wX1BrY2FhVGF6SExqekF6Ym5JUTJOZWktM0s5UlNpLUN4X3ItRzV4dmlEYTBwUW7SAfQCQVVfeXFMTVZzcno5dlY3YlRTU3Y5ZmhpZG9WQld2Z1NSRW5IdjFEeV9pR0lsSENIelE3VHliaGFyeDNfR0VKQVhvRDM4YTNFVkdBdldtc2hDOTd5OGt6TjQ2ZElPNzdpR25xWnNVRlRtUTZ6aXRhMVRzNXo2ZFc3UmhIMDFIVi1kWmpuZnJzc05IVDZ4RzZ1STdad3B5NFd2bUJaVkwyYlVhYjZrSGttTGNtWmZPdHEwM2taWWRlVGI4YUNEdk1JYk9BcUhXb0pNNklJN2RHM0dNZ3c0c21hMi1FYlMxRllWeVRTZDE0UmJlU3hVbHZqcGZnZEUtdXZnRVo4Z3Z4OE5jY250YnlsOThqV2FQdC03X2s2SFFkV1gwd2h3ODlPSTNzTF95cnBtQTA3UWVvcUhiQVlwYnFkbkQtdEpIb2hJWDRfcF9Qa2NhYVRhekhManpBemJuSVEyTmVpLTNLOVJTaS1DeF9yLUc1eHZpRGEwcFFu?oc=5",
-      "description": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T13:10:00.000Z",
-      "fetchedAt": "2026-09-19T09:44:14.595Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Economic Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
       "id": "a10"
-    },
-    {
-      "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
-      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
-      "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T10:32:28.000Z",
-      "fetchedAt": "2026-09-19T09:44:14.595Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "scanx.trade",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-      "id": "a11"
     },
     {
       "title": "China-based AI models trail US rivals on revenue",
@@ -180,7 +199,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-18T08:27:40.000Z",
-      "fetchedAt": "2026-09-19T09:44:12.844Z",
+      "fetchedAt": "2026-09-19T13:30:23.195Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -199,7 +218,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:45:06.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.891Z",
+      "fetchedAt": "2026-09-19T13:30:18.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -217,7 +236,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-17T21:33:42.000Z",
-      "fetchedAt": "2026-09-19T09:44:12.069Z",
+      "fetchedAt": "2026-09-19T13:30:23.014Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -236,7 +255,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:14:17.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.891Z",
+      "fetchedAt": "2026-09-19T13:30:18.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -254,7 +273,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-17T15:50:09.000Z",
-      "fetchedAt": "2026-09-19T09:44:12.460Z",
+      "fetchedAt": "2026-09-19T13:30:23.403Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -273,7 +292,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-17T07:58:24.000Z",
-      "fetchedAt": "2026-09-19T09:44:12.844Z",
+      "fetchedAt": "2026-09-19T13:30:23.195Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -292,7 +311,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T02:11:52.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.891Z",
+      "fetchedAt": "2026-09-19T13:30:18.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -310,7 +329,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-19T09:44:07.892Z",
+      "fetchedAt": "2026-09-19T13:30:18.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -330,7 +349,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-19T09:44:12.794Z",
+      "fetchedAt": "2026-09-19T13:30:23.825Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

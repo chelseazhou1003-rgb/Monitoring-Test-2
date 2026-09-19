@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-19T09:44:14.627Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-19T09:44:14.626Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
           "articleIds": [
-            "a5"
+            "a8"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a9"
+            "a11"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-        "id": "a5"
+        "id": "a8"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -73,7 +73,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a9"
+        "id": "a11"
       },
       {
         "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -83,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:42.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T19:22:33.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -134,7 +134,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-19T09:44:14.626Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -144,7 +144,7 @@ export const NEWS_DATA = {
         {
           "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
           "articleIds": [
-            "a3"
+            "a5"
           ],
           "subCategory": "on-device-ai"
         }
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -167,7 +167,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
@@ -177,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T08:47:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -190,7 +190,7 @@ export const NEWS_DATA = {
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-19T09:44:14.626Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -201,14 +201,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-19T09:44:14.629Z",
+    "generatedAt": "2026-09-19T13:30:25.441Z",
     "date": "2026-09-19",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-        "topHeadlineId": "a5",
+        "topHeadlineId": "a8",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -222,15 +222,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 2,
         "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a5",
         "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 16,
-        "topHeadline": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
+        "articleCount": 17,
+        "topHeadline": "The AI regulation smackdown isn’t over",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 16 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -241,35 +241,35 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 8,
-        "topHeadline": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
+        "articleCount": 7,
+        "topHeadline": "The AI regulation smackdown isn’t over",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Supply Chain (2 articles), Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 8 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 31
   },
   "macro-environment": {
-    "generatedAt": "2026-09-19T09:44:14.627Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 16 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+          "text": "Geopolitics & Export Controls: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "supply-chain"
+          "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Geopolitics & Export Controls: Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal proc",
+          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
           "articleIds": [
-            "a2"
+            "a3"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "supply-chain"
         },
         {
           "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
@@ -282,6 +282,47 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "The AI regulation smackdown isn’t over",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-19T13:00:00.000Z",
+        "fetchedAt": "2026-09-19T13:30:19.324Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+        "id": "a1"
+      },
+      {
+        "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
+        "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-19T11:13:42.000Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "India's News.Net",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+        "id": "a2"
+      },
+      {
         "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
         "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
@@ -289,7 +330,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -301,7 +342,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -311,7 +352,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T06:33:35.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.969Z",
+        "fetchedAt": "2026-09-19T13:30:19.099Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -320,7 +361,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-        "id": "a2"
+        "id": "a4"
+      },
+      {
+        "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXZpdVhTN213TFdXTVBKb25QdGVxNmNfWlRQX0xKT09IV2xReURUQnpQU3NpR3FjZHZKOXI0QkI0MzRVR2ZXSEFybmt0NEszVDlVQ2tZTGFUdkZLdnJlSW5SMzJJNlIzZTlxUEhkTUJYNjhzNEJXS2xVMi0xN3F2SkdMZ1FYRi1jaUM4NHhQazFxczl5QzRUMmtpV2FpeHk2ZnlOOEVYb1dvaDVvR05vclp4NGxsTWFEM3JUTll0YXNKb1QxdUl1SDBkNUM4UDc3S1h3LU8zUUZadlRkWlljbDhERQ?oc=5",
+        "description": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-19T00:00:21.000Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "South China Morning Post",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+        "id": "a6"
       },
       {
         "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
@@ -330,7 +391,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T22:33:51.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BIN: Black Information Network",
         "geopoliticalBypass": true,
@@ -340,7 +401,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-        "id": "a4"
+        "id": "a7"
       },
       {
         "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -350,7 +411,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:34:49.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.541Z",
+        "fetchedAt": "2026-09-19T13:30:18.742Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -359,7 +420,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
@@ -369,7 +430,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T16:29:30.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Organization for World Peace",
         "geopoliticalBypass": true,
@@ -379,49 +440,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-        "id": "a7"
-      },
-      {
-        "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNVnNyejl2VjdiVFNTdjlmaGlkb1ZCV3ZnU1JFbkh2MUR5X2lHSWxIQ0h6UTdUeWJoYXJ4M19HRUpBWG9EMzhhM0VWR0F2V21zaEM5N3k4a3pONDZkSU83N2lHbnFac1VGVG1RNnppdGExVHM1ejZkVzdSaEgwMUhWLWRaam5mcnNzTkhUNnhHNnVJN1p3cHk0V3ZtQlpWTDJiVWFiNmtIa21MY21aZk90cTAza1pZZGVUYjhhQ0R2TUliT0FxSFdvSk02SUk3ZEczR01ndzRzbWEyLUViUzFGWVZ5VFNkMTRSYmVTeFVsdmpwZmdkRS11dmdFWjhndng4TmNjbnRieWw5OGpXYVB0LTdfazZIUWRXWDB3aHc4OU9JM3NMX3lycG1BMDdRZW9xSGJBWXBicWRuRC10SkhvaElYNF9wX1BrY2FhVGF6SExqekF6Ym5JUTJOZWktM0s5UlNpLUN4X3ItRzV4dmlEYTBwUW7SAfQCQVVfeXFMTVZzcno5dlY3YlRTU3Y5ZmhpZG9WQld2Z1NSRW5IdjFEeV9pR0lsSENIelE3VHliaGFyeDNfR0VKQVhvRDM4YTNFVkdBdldtc2hDOTd5OGt6TjQ2ZElPNzdpR25xWnNVRlRtUTZ6aXRhMVRzNXo2ZFc3UmhIMDFIVi1kWmpuZnJzc05IVDZ4RzZ1STdad3B5NFd2bUJaVkwyYlVhYjZrSGttTGNtWmZPdHEwM2taWWRlVGI4YUNEdk1JYk9BcUhXb0pNNklJN2RHM0dNZ3c0c21hMi1FYlMxRllWeVRTZDE0UmJlU3hVbHZqcGZnZEUtdXZnRVo4Z3Z4OE5jY250YnlsOThqV2FQdC03X2s2SFFkV1gwd2h3ODlPSTNzTF95cnBtQTA3UWVvcUhiQVlwYnFkbkQtdEpIb2hJWDRfcF9Qa2NhYVRhekhManpBemJuSVEyTmVpLTNLOVJTaS1DeF9yLUc1eHZpRGEwcFFu?oc=5",
-        "description": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T13:10:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Economic Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
         "id": "a10"
-      },
-      {
-        "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
-        "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T10:32:28.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "scanx.trade",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-        "id": "a11"
       },
       {
         "title": "China-based AI models trail US rivals on revenue",
@@ -431,7 +450,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.844Z",
+        "fetchedAt": "2026-09-19T13:30:23.195Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -450,7 +469,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:45:06.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -468,7 +487,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-17T21:33:42.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.069Z",
+        "fetchedAt": "2026-09-19T13:30:23.014Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -487,7 +506,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:14:17.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -505,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-17T15:50:09.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.460Z",
+        "fetchedAt": "2026-09-19T13:30:23.403Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -524,7 +543,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-17T07:58:24.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.844Z",
+        "fetchedAt": "2026-09-19T13:30:23.195Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -543,7 +562,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T02:11:52.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -561,7 +580,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.892Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -581,7 +600,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-16T13:52:41.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.794Z",
+        "fetchedAt": "2026-09-19T13:30:23.825Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -788,40 +807,40 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-19T09:44:14.627Z",
+    "generatedAt": "2026-09-19T13:30:25.439Z",
     "date": "2026-09-19",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Supply Chain (2 articles), Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 8 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
           "articleIds": [
-            "a1"
+            "a3"
           ],
           "subCategory": "supply-chain"
         },
         {
-          "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
-          "articleIds": [
-            "a8"
-          ],
-          "subCategory": "platform-partner"
-        },
-        {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a9"
+            "a11"
           ],
           "subCategory": "mobile-chips"
         },
         {
-          "text": "Geopolitics & Export Controls: Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
+          "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
           "articleIds": [
-            "a11"
+            "a18"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "platform-partner"
         },
         {
           "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
@@ -834,6 +853,27 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "The AI regulation smackdown isn’t over",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+        "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-19T13:00:00.000Z",
+        "fetchedAt": "2026-09-19T13:30:19.324Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+        "id": "a1"
+      },
+      {
         "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
         "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
@@ -841,7 +881,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
+        "fetchedAt": "2026-09-19T13:30:25.408Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -853,28 +893,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-        "id": "a1"
-      },
-      {
-        "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-        "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-        "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration. Its Arm-based processor can run most Windows apps very well, and yields superior battery life compared to laptops with x86 processors. The laptop includes three USB-C ports, and a hardware switch for disabling the webcam. It supports Wi-Fi 7 and Bluetooth 5.3. It seems like a great machine for work, watching movies, or playing some games that aren’t too graphically intensive. More great Verge-approved deals The PlayStation 5 version of Starfield hasn’t been available for as long as the Xbox and PC version, so it’s been a little slower to see major discounts. However, it recently hit $29.99 (originally $49.99) at Amazon and Best Buy, making now a good time to pick up the RPG. While Starfield didn’t have nearly as large of a cultural impact as Bethesda’s other first-person RPGs, it’s still worth playing if you love space, guns, and quests. It’s probably the studio’s most polished game yet. Buyers will be able to download the Free Lanes update that hit alongside its PS5 debut in April, and there are multiple paid expansions available if you want more. Read our review. As mentioned in a previous deal roundup, DoorDash is offering DashPass members a $25 DoorDash digital gift card when they spend $50 or more on a game (non DashPass members get $10). Fire Emblem: Fortune’s Weave just came out, and that’s a great game to use this promotion for if you have a Switch 2 and enjoy turn-based tactics gameplay. The digital title costs $69.99. Those who have had success with this deal note on Slickdeals that the gift card should arrive within a few days of making your purchase. Read our review of the game. The Baseus VD1 Pro dash cam recently dropped in price by $20, selling for $99.99 at Amazon. There are so many dash cams out there, but this one’s unique in a few ways. It includes both a 4K front- and 1080p rear-facing camera to record multiple angles, and the front camera includes a battery that can be recharged via its built-in solar panel to keep it going even when your car is off. It captures continuous footage while your car is giving it power, though it can detect incidents for up to 14 days with its built-in battery while your car is parked. A long USB-C cable connects the two cameras, so you’ll need to get clever with how you hide it in your trim. Read more about the camera’s features here.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-18T14:51:26.000Z",
-        "fetchedAt": "2026-09-19T09:44:08.384Z",
-        "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-        "id": "a8"
+        "id": "a3"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -884,7 +903,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -894,28 +913,6 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a9"
-      },
-      {
-        "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
-        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
-        "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T10:32:28.000Z",
-        "fetchedAt": "2026-09-19T09:44:14.595Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "scanx.trade",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
         "id": "a11"
       },
       {
@@ -926,7 +923,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T18:43:02.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -946,7 +943,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.891Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -966,7 +963,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-19T09:44:07.892Z",
+        "fetchedAt": "2026-09-19T13:30:18.812Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -986,7 +983,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-16T13:52:41.000Z",
-        "fetchedAt": "2026-09-19T09:44:12.794Z",
+        "fetchedAt": "2026-09-19T13:30:23.825Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -3863,11 +3860,11 @@ export const NEWS_DATA = {
     "totalArticles": 40
   },
   "archive-2026-09-19": {
-    "generatedAt": "2026-09-19T09:44:14.629Z",
+    "generatedAt": "2026-09-19T13:30:25.441Z",
     "date": "2026-09-19",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-19T09:44:14.626Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -3877,14 +3874,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
               "articleIds": [
-                "a5"
+                "a8"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a9"
+                "a11"
               ],
               "subCategory": "mobile-chips"
             }
@@ -3899,7 +3896,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:58:45.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -3907,7 +3904,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-            "id": "a5"
+            "id": "a8"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -3917,7 +3914,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -3927,7 +3924,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a9"
+            "id": "a11"
           },
           {
             "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -3937,7 +3934,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:42.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -3955,7 +3952,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T19:22:33.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -3973,7 +3970,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -3988,7 +3985,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-19T09:44:14.626Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -3999,7 +3996,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-19T09:44:14.626Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -4009,7 +4006,7 @@ export const NEWS_DATA = {
             {
               "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
               "articleIds": [
-                "a3"
+                "a5"
               ],
               "subCategory": "on-device-ai"
             }
@@ -4024,7 +4021,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T04:19:37.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4032,7 +4029,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
@@ -4042,7 +4039,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T08:47:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4055,26 +4052,26 @@ export const NEWS_DATA = {
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-19T09:44:14.627Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 16 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+              "text": "Geopolitics & Export Controls: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "supply-chain"
+              "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Geopolitics & Export Controls: Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal proc",
+              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
               "articleIds": [
-                "a2"
+                "a3"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "supply-chain"
             },
             {
               "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
@@ -4087,6 +4084,47 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "The AI regulation smackdown isn’t over",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+            "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-19T13:00:00.000Z",
+            "fetchedAt": "2026-09-19T13:30:19.324Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+            "id": "a1"
+          },
+          {
+            "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
+            "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T11:13:42.000Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "India's News.Net",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+            "id": "a2"
+          },
+          {
             "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
             "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
@@ -4094,7 +4132,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
@@ -4106,7 +4144,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -4116,7 +4154,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T06:33:35.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.969Z",
+            "fetchedAt": "2026-09-19T13:30:19.099Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4125,7 +4163,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-            "id": "a2"
+            "id": "a4"
+          },
+          {
+            "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXZpdVhTN213TFdXTVBKb25QdGVxNmNfWlRQX0xKT09IV2xReURUQnpQU3NpR3FjZHZKOXI0QkI0MzRVR2ZXSEFybmt0NEszVDlVQ2tZTGFUdkZLdnJlSW5SMzJJNlIzZTlxUEhkTUJYNjhzNEJXS2xVMi0xN3F2SkdMZ1FYRi1jaUM4NHhQazFxczl5QzRUMmtpV2FpeHk2ZnlOOEVYb1dvaDVvR05vclp4NGxsTWFEM3JUTll0YXNKb1QxdUl1SDBkNUM4UDc3S1h3LU8zUUZadlRkWlljbDhERQ?oc=5",
+            "description": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T00:00:21.000Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "South China Morning Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
+            "id": "a6"
           },
           {
             "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
@@ -4135,7 +4193,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T22:33:51.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "BIN: Black Information Network",
             "geopoliticalBypass": true,
@@ -4145,7 +4203,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-            "id": "a4"
+            "id": "a7"
           },
           {
             "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -4155,7 +4213,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:34:49.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.541Z",
+            "fetchedAt": "2026-09-19T13:30:18.742Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4164,7 +4222,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
@@ -4174,7 +4232,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T16:29:30.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Organization for World Peace",
             "geopoliticalBypass": true,
@@ -4184,49 +4242,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-            "id": "a7"
-          },
-          {
-            "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNVnNyejl2VjdiVFNTdjlmaGlkb1ZCV3ZnU1JFbkh2MUR5X2lHSWxIQ0h6UTdUeWJoYXJ4M19HRUpBWG9EMzhhM0VWR0F2V21zaEM5N3k4a3pONDZkSU83N2lHbnFac1VGVG1RNnppdGExVHM1ejZkVzdSaEgwMUhWLWRaam5mcnNzTkhUNnhHNnVJN1p3cHk0V3ZtQlpWTDJiVWFiNmtIa21MY21aZk90cTAza1pZZGVUYjhhQ0R2TUliT0FxSFdvSk02SUk3ZEczR01ndzRzbWEyLUViUzFGWVZ5VFNkMTRSYmVTeFVsdmpwZmdkRS11dmdFWjhndng4TmNjbnRieWw5OGpXYVB0LTdfazZIUWRXWDB3aHc4OU9JM3NMX3lycG1BMDdRZW9xSGJBWXBicWRuRC10SkhvaElYNF9wX1BrY2FhVGF6SExqekF6Ym5JUTJOZWktM0s5UlNpLUN4X3ItRzV4dmlEYTBwUW7SAfQCQVVfeXFMTVZzcno5dlY3YlRTU3Y5ZmhpZG9WQld2Z1NSRW5IdjFEeV9pR0lsSENIelE3VHliaGFyeDNfR0VKQVhvRDM4YTNFVkdBdldtc2hDOTd5OGt6TjQ2ZElPNzdpR25xWnNVRlRtUTZ6aXRhMVRzNXo2ZFc3UmhIMDFIVi1kWmpuZnJzc05IVDZ4RzZ1STdad3B5NFd2bUJaVkwyYlVhYjZrSGttTGNtWmZPdHEwM2taWWRlVGI4YUNEdk1JYk9BcUhXb0pNNklJN2RHM0dNZ3c0c21hMi1FYlMxRllWeVRTZDE0UmJlU3hVbHZqcGZnZEUtdXZnRVo4Z3Z4OE5jY250YnlsOThqV2FQdC03X2s2SFFkV1gwd2h3ODlPSTNzTF95cnBtQTA3UWVvcUhiQVlwYnFkbkQtdEpIb2hJWDRfcF9Qa2NhYVRhekhManpBemJuSVEyTmVpLTNLOVJTaS1DeF9yLUc1eHZpRGEwcFFu?oc=5",
-            "description": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T13:10:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Economic Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
             "id": "a10"
-          },
-          {
-            "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
-            "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T10:32:28.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "scanx.trade",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-            "id": "a11"
           },
           {
             "title": "China-based AI models trail US rivals on revenue",
@@ -4236,7 +4252,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.844Z",
+            "fetchedAt": "2026-09-19T13:30:23.195Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4255,7 +4271,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:45:06.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4273,7 +4289,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-17T21:33:42.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.069Z",
+            "fetchedAt": "2026-09-19T13:30:23.014Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4292,7 +4308,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:14:17.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4310,7 +4326,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-17T15:50:09.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.460Z",
+            "fetchedAt": "2026-09-19T13:30:23.403Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4329,7 +4345,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-17T07:58:24.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.844Z",
+            "fetchedAt": "2026-09-19T13:30:23.195Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4348,7 +4364,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T02:11:52.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -4366,7 +4382,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.892Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -4386,7 +4402,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-16T13:52:41.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.794Z",
+            "fetchedAt": "2026-09-19T13:30:23.825Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4402,7 +4418,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-19T09:44:14.627Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -4413,40 +4429,40 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-19T09:44:14.627Z",
+        "generatedAt": "2026-09-19T13:30:25.439Z",
         "date": "2026-09-19",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Supply Chain (2 articles), Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 8 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI ",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
             {
               "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
               "articleIds": [
-                "a1"
+                "a3"
               ],
               "subCategory": "supply-chain"
             },
             {
-              "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
-              "articleIds": [
-                "a8"
-              ],
-              "subCategory": "platform-partner"
-            },
-            {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a9"
+                "a11"
               ],
               "subCategory": "mobile-chips"
             },
             {
-              "text": "Geopolitics & Export Controls: Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
+              "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
               "articleIds": [
-                "a11"
+                "a18"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "platform-partner"
             },
             {
               "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
@@ -4459,6 +4475,27 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "The AI regulation smackdown isn’t over",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
+            "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-19T13:00:00.000Z",
+            "fetchedAt": "2026-09-19T13:30:19.324Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
+            "id": "a1"
+          },
+          {
             "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
             "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
@@ -4466,7 +4503,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
+            "fetchedAt": "2026-09-19T13:30:25.408Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
@@ -4478,28 +4515,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-            "id": "a1"
-          },
-          {
-            "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
-            "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
-            "description": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration. Its Arm-based processor can run most Windows apps very well, and yields superior battery life compared to laptops with x86 processors. The laptop includes three USB-C ports, and a hardware switch for disabling the webcam. It supports Wi-Fi 7 and Bluetooth 5.3. It seems like a great machine for work, watching movies, or playing some games that aren’t too graphically intensive. More great Verge-approved deals The PlayStation 5 version of Starfield hasn’t been available for as long as the Xbox and PC version, so it’s been a little slower to see major discounts. However, it recently hit $29.99 (originally $49.99) at Amazon and Best Buy, making now a good time to pick up the RPG. While Starfield didn’t have nearly as large of a cultural impact as Bethesda’s other first-person RPGs, it’s still worth playing if you love space, guns, and quests. It’s probably the studio’s most polished game yet. Buyers will be able to download the Free Lanes update that hit alongside its PS5 debut in April, and there are multiple paid expansions available if you want more. Read our review. As mentioned in a previous deal roundup, DoorDash is offering DashPass members a $25 DoorDash digital gift card when they spend $50 or more on a game (non DashPass members get $10). Fire Emblem: Fortune’s Weave just came out, and that’s a great game to use this promotion for if you have a Switch 2 and enjoy turn-based tactics gameplay. The digital title costs $69.99. Those who have had success with this deal note on Slickdeals that the gift card should arrive within a few days of making your purchase. Read our review of the game. The Baseus VD1 Pro dash cam recently dropped in price by $20, selling for $99.99 at Amazon. There are so many dash cams out there, but this one’s unique in a few ways. It includes both a 4K front- and 1080p rear-facing camera to record multiple angles, and the front camera includes a battery that can be recharged via its built-in solar panel to keep it going even when your car is off. It captures continuous footage while your car is giving it power, though it can detect incidents for up to 14 days with its built-in battery while your car is parked. A long USB-C cable connects the two cameras, so you’ll need to get clever with how you hide it in your trim. Read more about the camera’s features here.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-18T14:51:26.000Z",
-            "fetchedAt": "2026-09-19T09:44:08.384Z",
-            "fetchStrategy": "rss",
-            "section": "stakeholders",
-            "subCategory": "platform-partner",
-            "subLabel": "Platform & Ecosystem Partners",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-            "id": "a8"
+            "id": "a3"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -4509,7 +4525,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4519,28 +4535,6 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a9"
-          },
-          {
-            "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
-            "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T10:32:28.000Z",
-            "fetchedAt": "2026-09-19T09:44:14.595Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "scanx.trade",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
             "id": "a11"
           },
           {
@@ -4551,7 +4545,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T18:43:02.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -4571,7 +4565,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.891Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4591,7 +4585,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-19T09:44:07.892Z",
+            "fetchedAt": "2026-09-19T13:30:18.812Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -4611,7 +4605,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-16T13:52:41.000Z",
-            "fetchedAt": "2026-09-19T09:44:12.794Z",
+            "fetchedAt": "2026-09-19T13:30:23.825Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
