@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
           "articleIds": [
-            "a10"
+            "a11"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a12"
+            "a13"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-        "id": "a10"
+        "id": "a11"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -73,7 +73,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a12"
+        "id": "a13"
       },
       {
         "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -83,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:42.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +91,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-        "id": "a14"
+        "id": "a15"
       },
       {
         "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T19:22:33.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -109,7 +109,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -129,12 +129,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a21"
+        "id": "a22"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -144,7 +144,7 @@ export const NEWS_DATA = {
         {
           "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
           "articleIds": [
-            "a7"
+            "a8"
           ],
           "subCategory": "on-device-ai"
         }
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -167,7 +167,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-        "id": "a7"
+        "id": "a8"
       },
       {
         "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
@@ -177,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T08:47:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -185,12 +185,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-        "id": "a22"
+        "id": "a23"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -201,14 +201,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-19T16:49:38.838Z",
+    "generatedAt": "2026-09-19T19:36:49.423Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-        "topHeadlineId": "a10",
+        "topHeadlineId": "a11",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -222,15 +222,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 2,
         "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-        "topHeadlineId": "a7",
+        "topHeadlineId": "a8",
         "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
         "articleCount": 17,
-        "topHeadline": "India’s Silicon Valley Is Straining Under Its Own Growth",
+        "topHeadline": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -241,46 +241,86 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 7,
+        "articleCount": 6,
         "topHeadline": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 31
+    "totalArticles": 30
   },
   "macro-environment": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the ci",
+          "text": "Geopolitics & Export Controls: China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
           "articleIds": [
-            "a15"
+            "a16"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmRrZXphem1uejctcG9kUDZQN0lTMzhuZEFjenZ4TFJiclFvekNTanA5WnpYdmozTktEVFRoZ2RheUROeWR1RVZzblpJZS0xZ0h0TXhYTlVSV0xXa2pLaHBWQkJ3RF9abWlXbHAxYjNYM1R2ak51U05UbFA3TW1UMVk4VHNyOW9WM2pwM0tZMlk4dTlZTGVSZEpBQ3BvVmEyLUE?oc=5",
+        "description": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-19T17:32:00.000Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "bgr.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
+        "id": "a1"
+      },
+      {
+        "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
+        "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-19T16:33:00.000Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "India's News.Net",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+        "id": "a2"
+      },
       {
         "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
         "url": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
@@ -289,7 +329,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T14:03:36.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.419Z",
+        "fetchedAt": "2026-09-19T19:36:43.099Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -298,7 +338,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed.",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
@@ -308,7 +348,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.671Z",
+        "fetchedAt": "2026-09-19T19:36:43.688Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -321,7 +361,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "The AI regulation smackdown isn’t over",
@@ -331,7 +371,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.671Z",
+        "fetchedAt": "2026-09-19T19:36:43.688Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -342,39 +382,19 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-        "id": "a3"
+        "id": "a5"
       },
       {
-        "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - indiasnews.net",
-        "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
-        "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-19T11:13:42.000Z",
-        "fetchedAt": "2026-09-19T16:49:38.798Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "indiasnews.net",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
-        "id": "a4"
-      },
-      {
-        "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - quantumcomputingreport.com",
+        "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
-        "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+        "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:38.798Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "quantumcomputingreport.com",
+        "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -383,8 +403,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "foundry"
         ],
-        "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
-        "id": "a5"
+        "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+        "id": "a6"
       },
       {
         "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -394,7 +414,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T06:33:35.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.419Z",
+        "fetchedAt": "2026-09-19T19:36:43.099Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -403,7 +423,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
@@ -413,7 +433,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T00:00:21.000Z",
-        "fetchedAt": "2026-09-19T16:49:38.798Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "South China Morning Post",
         "geopoliticalBypass": true,
@@ -423,7 +443,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-        "id": "a8"
+        "id": "a9"
       },
       {
         "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
@@ -433,7 +453,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T22:33:51.000Z",
-        "fetchedAt": "2026-09-19T16:49:38.798Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BIN: Black Information Network",
         "geopoliticalBypass": true,
@@ -443,7 +463,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-        "id": "a9"
+        "id": "a10"
       },
       {
         "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -453,7 +473,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:34:49.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.978Z",
+        "fetchedAt": "2026-09-19T19:36:42.766Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -462,7 +482,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-        "id": "a11"
+        "id": "a12"
       },
       {
         "title": "China-based AI models trail US rivals on revenue",
@@ -472,7 +492,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-19T16:49:37.230Z",
+        "fetchedAt": "2026-09-19T19:36:47.130Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -481,7 +501,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-        "id": "a13"
+        "id": "a14"
       },
       {
         "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -491,7 +511,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:45:06.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -499,7 +519,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-        "id": "a15"
+        "id": "a16"
       },
       {
         "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -509,7 +529,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-17T21:33:42.000Z",
-        "fetchedAt": "2026-09-19T16:49:36.488Z",
+        "fetchedAt": "2026-09-19T19:36:46.838Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -518,7 +538,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-        "id": "a16"
+        "id": "a17"
       },
       {
         "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -528,7 +548,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:14:17.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -536,7 +556,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-        "id": "a17"
+        "id": "a18"
       },
       {
         "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -546,7 +566,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-17T15:50:09.000Z",
-        "fetchedAt": "2026-09-19T16:49:37.117Z",
+        "fetchedAt": "2026-09-19T19:36:47.185Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -555,7 +575,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-        "id": "a20"
+        "id": "a21"
       },
       {
         "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -565,7 +585,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-17T07:58:24.000Z",
-        "fetchedAt": "2026-09-19T16:49:37.230Z",
+        "fetchedAt": "2026-09-19T19:36:47.130Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -574,7 +594,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-        "id": "a23"
+        "id": "a24"
       },
       {
         "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -584,7 +604,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T02:11:52.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -592,26 +612,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-        "id": "a24"
-      },
-      {
-        "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
-        "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
         "id": "a25"
       }
     ]
@@ -808,45 +808,45 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-19T16:49:38.835Z",
+    "generatedAt": "2026-09-19T19:36:49.420Z",
     "date": "2026-09-20",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm",
           "articleIds": [
-            "a2"
+            "a4"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+          "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a12"
+            "a13"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
           "articleIds": [
-            "a19"
+            "a20"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
           "articleIds": [
-            "a21"
+            "a22"
           ],
           "subCategory": "semiconductors"
         }
@@ -861,7 +861,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.671Z",
+        "fetchedAt": "2026-09-19T19:36:43.688Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -874,7 +874,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "The AI regulation smackdown isn’t over",
@@ -884,7 +884,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:32.671Z",
+        "fetchedAt": "2026-09-19T19:36:43.688Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -895,19 +895,19 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-        "id": "a3"
+        "id": "a5"
       },
       {
-        "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - quantumcomputingreport.com",
+        "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
-        "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+        "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:38.798Z",
+        "fetchedAt": "2026-09-19T19:36:49.384Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "quantumcomputingreport.com",
+        "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -916,8 +916,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "foundry"
         ],
-        "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
-        "id": "a5"
+        "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+        "id": "a6"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -927,7 +927,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -937,7 +937,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a12"
+        "id": "a13"
       },
       {
         "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -947,7 +947,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T18:43:02.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -957,7 +957,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -967,7 +967,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
+        "fetchedAt": "2026-09-19T19:36:43.001Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -977,27 +977,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a21"
-      },
-      {
-        "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-        "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
-        "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-16T19:30:04.000Z",
-        "fetchedAt": "2026-09-19T16:49:31.982Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-        "id": "a25"
+        "id": "a22"
       }
     ]
   },
@@ -4627,11 +4607,11 @@ export const NEWS_DATA = {
     "totalArticles": 31
   },
   "archive-2026-09-20": {
-    "generatedAt": "2026-09-19T16:49:38.838Z",
+    "generatedAt": "2026-09-19T19:36:49.423Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -4641,14 +4621,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
               "articleIds": [
-                "a10"
+                "a11"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a12"
+                "a13"
               ],
               "subCategory": "mobile-chips"
             }
@@ -4663,7 +4643,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:58:45.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4671,7 +4651,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-            "id": "a10"
+            "id": "a11"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -4681,7 +4661,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4691,7 +4671,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a12"
+            "id": "a13"
           },
           {
             "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -4701,7 +4681,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:42.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4709,7 +4689,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-            "id": "a14"
+            "id": "a15"
           },
           {
             "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -4719,7 +4699,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T19:22:33.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4727,7 +4707,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-            "id": "a18"
+            "id": "a19"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -4737,7 +4717,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4747,12 +4727,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a21"
+            "id": "a22"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -4763,7 +4743,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -4773,7 +4753,7 @@ export const NEWS_DATA = {
             {
               "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
               "articleIds": [
-                "a7"
+                "a8"
               ],
               "subCategory": "on-device-ai"
             }
@@ -4788,7 +4768,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T04:19:37.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4796,7 +4776,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-            "id": "a7"
+            "id": "a8"
           },
           {
             "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
@@ -4806,7 +4786,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T08:47:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4814,42 +4794,82 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-            "id": "a22"
+            "id": "a23"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 17 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the ci",
+              "text": "Geopolitics & Export Controls: China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
               "articleIds": [
-                "a15"
+                "a16"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmRrZXphem1uejctcG9kUDZQN0lTMzhuZEFjenZ4TFJiclFvekNTanA5WnpYdmozTktEVFRoZ2RheUROeWR1RVZzblpJZS0xZ0h0TXhYTlVSV0xXa2pLaHBWQkJ3RF9abWlXbHAxYjNYM1R2ak51U05UbFA3TW1UMVk4VHNyOW9WM2pwM0tZMlk4dTlZTGVSZEpBQ3BvVmEyLUE?oc=5",
+            "description": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T17:32:00.000Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "bgr.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
+            "id": "a1"
+          },
+          {
+            "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
+            "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T16:33:00.000Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "India's News.Net",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+            "id": "a2"
+          },
           {
             "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
             "url": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
@@ -4858,7 +4878,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T14:03:36.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.419Z",
+            "fetchedAt": "2026-09-19T19:36:43.099Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4867,7 +4887,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed.",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
@@ -4877,7 +4897,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.671Z",
+            "fetchedAt": "2026-09-19T19:36:43.688Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4890,7 +4910,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "The AI regulation smackdown isn’t over",
@@ -4900,7 +4920,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.671Z",
+            "fetchedAt": "2026-09-19T19:36:43.688Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4911,39 +4931,19 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-            "id": "a3"
+            "id": "a5"
           },
           {
-            "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - indiasnews.net",
-            "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
-            "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-19T11:13:42.000Z",
-            "fetchedAt": "2026-09-19T16:49:38.798Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "indiasnews.net",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
-            "id": "a4"
-          },
-          {
-            "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - quantumcomputingreport.com",
+            "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
-            "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+            "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:38.798Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "quantumcomputingreport.com",
+            "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -4952,8 +4952,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "foundry"
             ],
-            "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
-            "id": "a5"
+            "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+            "id": "a6"
           },
           {
             "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -4963,7 +4963,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T06:33:35.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.419Z",
+            "fetchedAt": "2026-09-19T19:36:43.099Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4972,7 +4972,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-            "id": "a6"
+            "id": "a7"
           },
           {
             "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
@@ -4982,7 +4982,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T00:00:21.000Z",
-            "fetchedAt": "2026-09-19T16:49:38.798Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "South China Morning Post",
             "geopoliticalBypass": true,
@@ -4992,7 +4992,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-            "id": "a8"
+            "id": "a9"
           },
           {
             "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
@@ -5002,7 +5002,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T22:33:51.000Z",
-            "fetchedAt": "2026-09-19T16:49:38.798Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "BIN: Black Information Network",
             "geopoliticalBypass": true,
@@ -5012,7 +5012,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-            "id": "a9"
+            "id": "a10"
           },
           {
             "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -5022,7 +5022,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:34:49.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.978Z",
+            "fetchedAt": "2026-09-19T19:36:42.766Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5031,7 +5031,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-            "id": "a11"
+            "id": "a12"
           },
           {
             "title": "China-based AI models trail US rivals on revenue",
@@ -5041,7 +5041,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-19T16:49:37.230Z",
+            "fetchedAt": "2026-09-19T19:36:47.130Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5050,7 +5050,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-            "id": "a13"
+            "id": "a14"
           },
           {
             "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -5060,7 +5060,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:45:06.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5068,7 +5068,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-            "id": "a15"
+            "id": "a16"
           },
           {
             "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -5078,7 +5078,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-17T21:33:42.000Z",
-            "fetchedAt": "2026-09-19T16:49:36.488Z",
+            "fetchedAt": "2026-09-19T19:36:46.838Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5087,7 +5087,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-            "id": "a16"
+            "id": "a17"
           },
           {
             "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -5097,7 +5097,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:14:17.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5105,7 +5105,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-            "id": "a17"
+            "id": "a18"
           },
           {
             "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -5115,7 +5115,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-17T15:50:09.000Z",
-            "fetchedAt": "2026-09-19T16:49:37.117Z",
+            "fetchedAt": "2026-09-19T19:36:47.185Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5124,7 +5124,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-            "id": "a20"
+            "id": "a21"
           },
           {
             "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -5134,7 +5134,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-17T07:58:24.000Z",
-            "fetchedAt": "2026-09-19T16:49:37.230Z",
+            "fetchedAt": "2026-09-19T19:36:47.130Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5143,7 +5143,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-            "id": "a23"
+            "id": "a24"
           },
           {
             "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -5153,7 +5153,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T02:11:52.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5161,32 +5161,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-            "id": "a24"
-          },
-          {
-            "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-            "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
-            "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
             "id": "a25"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -5197,45 +5177,45 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-19T16:49:38.835Z",
+        "generatedAt": "2026-09-19T19:36:49.420Z",
         "date": "2026-09-20",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm",
               "articleIds": [
-                "a2"
+                "a4"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+              "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a12"
+                "a13"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
               "articleIds": [
-                "a19"
+                "a20"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
               "articleIds": [
-                "a21"
+                "a22"
               ],
               "subCategory": "semiconductors"
             }
@@ -5250,7 +5230,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.671Z",
+            "fetchedAt": "2026-09-19T19:36:43.688Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5263,7 +5243,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "The AI regulation smackdown isn’t over",
@@ -5273,7 +5253,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:32.671Z",
+            "fetchedAt": "2026-09-19T19:36:43.688Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5284,19 +5264,19 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-            "id": "a3"
+            "id": "a5"
           },
           {
-            "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - quantumcomputingreport.com",
+            "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
-            "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
+            "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:38.798Z",
+            "fetchedAt": "2026-09-19T19:36:49.384Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "quantumcomputingreport.com",
+            "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -5305,8 +5285,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "foundry"
             ],
-            "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication quantumcomputingreport.com",
-            "id": "a5"
+            "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+            "id": "a6"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -5316,7 +5296,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -5326,7 +5306,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a12"
+            "id": "a13"
           },
           {
             "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -5336,7 +5316,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T18:43:02.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -5346,7 +5326,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-            "id": "a19"
+            "id": "a20"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -5356,7 +5336,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
+            "fetchedAt": "2026-09-19T19:36:43.001Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5366,32 +5346,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a21"
-          },
-          {
-            "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
-            "url": "https://www.trefis.com/articles/615530/should-you-buy-qualcomm-stock-for-the-cash-as-apple-leaves/2026-09-16?.tsrc=rss",
-            "description": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-16T19:30:04.000Z",
-            "fetchedAt": "2026-09-19T16:49:31.982Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-            "id": "a25"
+            "id": "a22"
           }
         ]
       }
     },
-    "totalArticles": 31
+    "totalArticles": 30
   }
 };
 
