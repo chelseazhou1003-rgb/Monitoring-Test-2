@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:41:27.266Z",
+  "generatedAt": "2026-09-19T05:09:42.391Z",
   "date": "2026-09-19",
   "sections": {
     "core-businesses": {
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
-      "topHeadlineId": "a24",
-      "briefingSummary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel"
+      "articleCount": 2,
+      "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
+      "articleCount": 16,
+      "topHeadline": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 6,
+      "articleCount": 7,
       "topHeadline": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
       "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 32
+  "totalArticles": 30
 }

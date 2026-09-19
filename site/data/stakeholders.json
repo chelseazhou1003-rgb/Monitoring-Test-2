@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-19T00:41:27.264Z",
+  "generatedAt": "2026-09-19T05:09:42.388Z",
   "date": "2026-09-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
@@ -21,25 +21,25 @@
         "subCategory": "mobile-chips"
       },
       {
+        "text": "Geopolitics & Export Controls: Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
         "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a23"
+          "a20"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
         "articleIds": [
-          "a27"
+          "a24"
         ],
         "subCategory": "supply-chain"
-      },
-      {
-        "text": "Geopolitics & Export Controls: US and China hyperscalers double spending as server costs rise.",
-        "articleIds": [
-          "a28"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
@@ -52,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-18T14:51:26.000Z",
-      "fetchedAt": "2026-09-19T00:41:21.199Z",
+      "fetchedAt": "2026-09-19T05:09:36.461Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -73,7 +73,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -86,6 +86,28 @@
       "id": "a7"
     },
     {
+      "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPOWVsT2xqa2J2MjVnM2RzLU52RVZRdzA2SHg1MFhBb2ExVnE4NGpoNVJWZmJZNEtiNFNFWnFnVmxtMEZvNFlCb1VOOHE5bUNVV1NWYXFhTjVWNWgyNVI0NlF4MnFYSHRfcjlteUEyY0RIM1dhNEJENmE1cXI2eHZhdDRPUk9WaXdESFdiYnh1MnNIaWt0a2tha3RfQXBfMFI4WGx4U2xWeDRqcWgzbmRjcVpBa3dWUkk1eG1yNl9md2RJdw?oc=5",
+      "description": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-18T10:32:28.000Z",
+      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "scanx.trade",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
+      "id": "a9"
+    },
+    {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-gains-2-amazons-warrant-184302300.html?.tsrc=rss",
       "description": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
@@ -93,7 +115,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -103,7 +125,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a21"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -113,7 +135,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -123,7 +145,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a23"
+      "id": "a20"
     },
     {
       "title": "Should You Buy Qualcomm Stock For The Cash As Apple Leaves?",
@@ -133,7 +155,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -143,7 +165,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business the market expects to shrink. Here it is mostly the second: the cash comes from smartphone chips, and Apple is leaving.",
-      "id": "a27"
+      "id": "a24"
     },
     {
       "title": "Data center capex grew 92% in 2Q 2026, driven by AI demand, memory costs – Dell'Oro",
@@ -153,7 +175,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-19T00:41:24.076Z",
+      "fetchedAt": "2026-09-19T05:09:39.765Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -164,7 +186,7 @@
         "oem"
       ],
       "summary": "US and China hyperscalers double spending as server costs rise.",
-      "id": "a28"
+      "id": "a25"
     }
   ]
 }

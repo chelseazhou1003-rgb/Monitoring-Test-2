@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T00:41:27.264Z",
+  "generatedAt": "2026-09-19T05:09:42.388Z",
   "date": "2026-09-19",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:58:45.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -69,7 +69,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:30:42.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-      "id": "a16"
+      "id": "a13"
     },
     {
       "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -87,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T19:22:33.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -95,7 +95,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-      "id": "a20"
+      "id": "a17"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -105,7 +105,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -115,7 +115,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a23"
+      "id": "a20"
     }
   ]
 }

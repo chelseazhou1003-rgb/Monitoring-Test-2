@@ -1,21 +1,39 @@
 {
-  "generatedAt": "2026-09-19T00:41:27.264Z",
+  "generatedAt": "2026-09-19T05:09:42.388Z",
   "date": "2026-09-19",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "One article today covering On-Device AI / Edge AI. (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Devel",
+    "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "On-Device AI / Edge AI: (TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Dev",
+        "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
         "articleIds": [
-          "a24"
+          "a1"
         ],
         "subCategory": "on-device-ai"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html?.tsrc=rss",
+      "description": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T04:19:37.000Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "on-device-ai",
+      "subLabel": "On-Device AI / Edge AI",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
+      "id": "a1"
+    },
     {
       "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
       "url": "https://finance.yahoo.com/technology/ai/articles/advantech-expands-weda-powered-edge-084700262.html?.tsrc=rss",
@@ -24,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T08:47:00.000Z",
-      "fetchedAt": "2026-09-19T00:41:20.540Z",
+      "fetchedAt": "2026-09-19T05:09:35.932Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -32,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-      "id": "a24"
+      "id": "a21"
     }
   ]
 }
