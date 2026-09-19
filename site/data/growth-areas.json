@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:09:42.388Z",
+  "generatedAt": "2026-09-19T09:44:14.626Z",
   "date": "2026-09-19",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
         "articleIds": [
-          "a1"
+          "a3"
         ],
         "subCategory": "on-device-ai"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T04:19:37.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-      "id": "a1"
+      "id": "a3"
     },
     {
       "title": "Advantech Expands WEDA-Powered Edge AI Ecosystem with Intel, Qualcomm, and AMD",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T08:47:00.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",

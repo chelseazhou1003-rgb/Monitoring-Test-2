@@ -1,29 +1,36 @@
 {
-  "generatedAt": "2026-09-19T05:09:42.388Z",
+  "generatedAt": "2026-09-19T09:44:14.627Z",
   "date": "2026-09-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Supply Chain (2 articles), Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (2 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "supply-chain"
+      },
       {
         "text": "Platform & Ecosystem Partners: Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch ma",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a7"
+          "a9"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Geopolitics & Export Controls: Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
         "articleIds": [
-          "a9"
+          "a11"
         ],
         "subCategory": "geopolitics-export-controls"
       },
@@ -33,17 +40,32 @@
           "a20"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
+      "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T07:10:00.000Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Quantum Computing Report",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+      "id": "a1"
+    },
     {
       "title": "Lenovo’s Yoga Slim 7X is the most laptop that $1,000 can currently buy",
       "url": "https://www.theverge.com/gadgets/997388/lenovo-yoga-slim-7x-laptop-fire-emblem-switch-2-deal-sale",
@@ -52,7 +74,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-18T14:51:26.000Z",
-      "fetchedAt": "2026-09-19T05:09:36.461Z",
+      "fetchedAt": "2026-09-19T09:44:08.384Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -63,7 +85,7 @@
         "platform-partner"
       ],
       "summary": "Anyone shopping for a Windows laptop with a $1K budget should head to Best Buy, where for the rest of the day you can get a great deal on a capable Lenovo laptop. The Yoga Slim 7X is a slim 14-inch machine with a 2K 16:10 OLED touchscreen, Snapdragon’s high-end X2 Elite processor with 12 cores, plus 16GB of DDR5 RAM and a 1TB SSD. The specs are about the best you can get these days for $1,000, as worthwhile laptop deals are in short supply during RAMageddon. Lenovo Yoga Slim 7x Where to Buy: $1649.99 $999.99 at Best Buy The Yoga Slim 7X seems like a great alternative to spending more (and getting less) with Microsoft’s latest Surface Laptop. In fact, you’d spend $1,549 on a similar model and still get half the storage that’s in this particular Yoga Slim 7X configuration.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -73,7 +95,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -83,7 +105,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a7"
+      "id": "a9"
     },
     {
       "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
@@ -93,7 +115,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T10:32:28.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "scanx.trade",
       "geopoliticalBypass": true,
@@ -105,7 +127,7 @@
         "oem"
       ],
       "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-      "id": "a9"
+      "id": "a11"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -115,7 +137,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -135,7 +157,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -155,7 +177,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.892Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -175,7 +197,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-19T05:09:39.765Z",
+      "fetchedAt": "2026-09-19T09:44:12.794Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

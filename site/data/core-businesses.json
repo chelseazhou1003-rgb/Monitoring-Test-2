@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T05:09:42.388Z",
+  "generatedAt": "2026-09-19T09:44:14.626Z",
   "date": "2026-09-19",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
         "articleIds": [
-          "a3"
+          "a5"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a7"
+          "a9"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:58:45.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-      "id": "a3"
+      "id": "a5"
     },
     {
       "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -59,7 +59,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a7"
+      "id": "a9"
     },
     {
       "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -69,7 +69,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:30:42.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -87,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T19:22:33.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -105,7 +105,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",

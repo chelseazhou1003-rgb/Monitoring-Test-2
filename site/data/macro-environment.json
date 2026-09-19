@@ -1,13 +1,20 @@
 {
-  "generatedAt": "2026-09-19T05:09:42.388Z",
+  "generatedAt": "2026-09-19T09:44:14.627Z",
   "date": "2026-09-19",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 16 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
+        "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "supply-chain"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal proc",
         "articleIds": [
           "a2"
         ],
@@ -19,17 +26,51 @@
           "a14"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Supply Chain: Qualcomm (QCOM) throws off free cash worth 5.2% of its market value each year, against 4.4% for the median S&P 500 company. A yield above the median means one of two things: a bargain or a business th",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
+      "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T07:10:00.000Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Quantum Computing Report",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
+      "id": "a1"
+    },
+    {
+      "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-19/china-state-tv-affiliate-flags-anthropic-data-and-privacy-risks",
+      "description": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-19T06:33:35.000Z",
+      "fetchedAt": "2026-09-19T09:44:07.969Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
+      "id": "a2"
+    },
     {
       "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
       "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMd9IBtgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMdw?oc=5",
@@ -38,7 +79,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T22:33:51.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "BIN: Black Information Network",
       "geopoliticalBypass": true,
@@ -48,7 +89,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-      "id": "a2"
+      "id": "a4"
     },
     {
       "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -58,7 +99,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:34:49.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.771Z",
+      "fetchedAt": "2026-09-19T09:44:07.541Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -67,7 +108,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-      "id": "a4"
+      "id": "a6"
     },
     {
       "title": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race - The Organization for World Peace",
@@ -77,7 +118,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T16:29:30.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Organization for World Peace",
       "geopoliticalBypass": true,
@@ -87,7 +128,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Innovation Becoming A Security Dilemma: The U.S.-China AI Race The Organization for World Peace",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea - The Economic Times",
@@ -97,7 +138,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T13:10:00.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -107,7 +148,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US sanctions were meant to slow China’s tech industry. Instead, a 72% rise in science-linked patents revea The Economic Times",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure - scanx.trade",
@@ -117,7 +158,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T10:32:28.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
+      "fetchedAt": "2026-09-19T09:44:14.595Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "scanx.trade",
       "geopoliticalBypass": true,
@@ -129,27 +170,7 @@
         "oem"
       ],
       "summary": "Trump-Xi Talks Spotlight SK Hynix, Samsung China Semiconductor Exposure scanx.trade",
-      "id": "a9"
-    },
-    {
-      "title": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report - jharkhandstatenews.com",
-      "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOaDl3NWNhUUtqSWRmZ1FEbU03NURjcHQtV1ZuT1N0Y1A2S0E5c0dBd1BjcS0wbkJYVkFmWTBWNTRLWmJGazEwRmI0UTR3bEZIX2FDaXFOX0VUNTZWUVdIYnBXRWdHaTlmSzlveHlWVTZwbFJWVGs5bkNwbTBGWWJlb2dkVXFFTEwyV3hTZW9uNkFUVmRGLUlFMHQ4UVJWc0pvLTJzLU9fNWM4akhDZ0xkVU1YaTFVLXFSR0hwSDB5UDJSLVlQQ3dfMHlEQTVFMV9KYWlOR0ZfT2Y2R1dDaUhkSWVaNExqNjZoRHFrS2hLbXRVZGgxOHpoNTlIR0RxY0FPM2prRVpDR3BZQk14TlF5UWFvYmNmdHc4d29J?oc=5",
-      "description": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T09:16:29.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "jharkhandstatenews.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "India building semiconductor ecosystem to reduce import, strengthen national security and create high-value employment: A Special Report jharkhandstatenews.com",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "China-based AI models trail US rivals on revenue",
@@ -159,7 +180,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-18T08:27:40.000Z",
-      "fetchedAt": "2026-09-19T05:09:40.765Z",
+      "fetchedAt": "2026-09-19T09:44:12.844Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -168,26 +189,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-      "id": "a11"
-    },
-    {
-      "title": "Schumer urges Trump to block advanced AI chip sales to China - fingerlakes1.com",
-      "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNV1owYWNsNEJuVHhCZ3U5dnNNVEZjN19KRy1NbjZ6aFAzVldvekwxa1RmMWxtZnkxRWJiTUFrRkRzeGlMSGRWVjFFWjNKSGRGSXNueWh3TEpxcVpJVFM3RExheTdjVWVzS0s0SlViLS1vSEhkbE5lRGptbjJRT2xMTS1OY2NMakpYSXI5RkVLSVpOcjhVNDMwTjBMMGNIaGIwdWs0?oc=5",
-      "description": "Schumer urges Trump to block advanced AI chip sales to China fingerlakes1.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T06:05:07.000Z",
-      "fetchedAt": "2026-09-19T05:09:42.350Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "fingerlakes1.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Schumer urges Trump to block advanced AI chip sales to China fingerlakes1.com",
       "id": "a12"
     },
     {
@@ -198,7 +199,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:45:06.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -216,7 +217,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-17T21:33:42.000Z",
-      "fetchedAt": "2026-09-19T05:09:39.387Z",
+      "fetchedAt": "2026-09-19T09:44:12.069Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -235,7 +236,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:14:17.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -253,7 +254,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-17T15:50:09.000Z",
-      "fetchedAt": "2026-09-19T05:09:39.927Z",
+      "fetchedAt": "2026-09-19T09:44:12.460Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -272,7 +273,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-17T07:58:24.000Z",
-      "fetchedAt": "2026-09-19T05:09:40.765Z",
+      "fetchedAt": "2026-09-19T09:44:12.844Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -291,7 +292,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T02:11:52.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.891Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -309,7 +310,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-16T19:30:04.000Z",
-      "fetchedAt": "2026-09-19T05:09:35.932Z",
+      "fetchedAt": "2026-09-19T09:44:07.892Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -329,7 +330,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-16T13:52:41.000Z",
-      "fetchedAt": "2026-09-19T05:09:39.765Z",
+      "fetchedAt": "2026-09-19T09:44:12.794Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
