@@ -1,43 +1,36 @@
 {
-  "generatedAt": "2026-09-20T05:27:11.962Z",
+  "generatedAt": "2026-09-20T10:07:54.502Z",
   "date": "2026-09-20",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (2 articles), Supply Chain (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
         "articleIds": [
-          "a7"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Geopolitics & Export Controls: Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm",
         "articleIds": [
-          "a11"
+          "a12"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-        "articleIds": [
-          "a13"
-        ],
-        "subCategory": "supply-chain"
-      },
-      {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a18"
+          "a17"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
         "articleIds": [
-          "a25"
+          "a24"
         ],
         "subCategory": "platform-partner"
       }
@@ -52,7 +45,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.851Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -62,7 +55,7 @@
         "foundry"
       ],
       "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
@@ -72,7 +65,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T14:00:00.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.903Z",
+      "fetchedAt": "2026-09-20T10:07:49.419Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -85,7 +78,7 @@
         "platform-partner"
       ],
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-      "id": "a11"
+      "id": "a12"
     },
     {
       "title": "The AI regulation smackdown isn’t over",
@@ -95,7 +88,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T13:00:00.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.903Z",
+      "fetchedAt": "2026-09-20T10:07:49.419Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -106,28 +99,6 @@
         "platform-partner"
       ],
       "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-      "id": "a12"
-    },
-    {
-      "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPb3Z4S3lUejNoakNEaEViQ3JMMXJhMlJicmJFYWNSb0hVX2xYMFVmQXJnbDV1UlJwX0NlOEVSVUpLc2NteXJobWY0Qm9wV2ZoVHZrc0ZzZ1lHemJVWUxrWmxSQjVwZTZPLWNveG0xNUM1YUhfcWotNWVaY3gwZlJMcXhuS0V3ck1XMGZWOGV2d1EwZG5TZ0FaaXR4a0RYVFlFRHVOZjRRUFI2TWY3LWVySVV2QUFTOWwwSENXaXU3cVJIc1UwSXAwYTZzWkxZNWV60gHWAUFVX3lxTE9lUVo4ZE1uTTh6aHp1eEIyTXFNc3BEVjZJeTVGT1dPSFRMN1F4WXhKSWxFUHVSbEZrcjIwRFRVMTd6Y1JsdmczZU15QzlPWDFxUTZXNDN1VUFoMVpwVG9lQlIwRmk1MmdkZHh0dlhsZ1dmT0tINXpNSTd5UVhyMl8tRVBsc1JPRFRwU2hwZVV4MUFlV05SUk1IYm40cTJfT1ZLYjRMMHVKaGxUemk3cGRTaHFTbTh4M1VrV3dDNWYzTnhPZzFrSW9VUXJHcHVuS0ZVYnN5NXc?oc=5",
-      "description": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-19T07:10:00.000Z",
-      "fetchedAt": "2026-09-20T05:27:11.923Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Quantum Computing Report",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "subLabel": "Supply Chain",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
       "id": "a13"
     },
     {
@@ -138,7 +109,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -148,7 +119,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a18"
+      "id": "a17"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -158,7 +129,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -168,7 +139,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a25"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -178,7 +149,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -188,7 +159,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a27"
+      "id": "a26"
     }
   ]
 }

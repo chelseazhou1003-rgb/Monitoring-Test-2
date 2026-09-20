@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-20T05:27:11.961Z",
+  "generatedAt": "2026-09-20T10:07:54.502Z",
   "date": "2026-09-20",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
         "articleIds": [
-          "a7"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a18"
+          "a17"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.851Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +41,7 @@
         "foundry"
       ],
       "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:58:45.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.851Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -59,7 +59,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-      "id": "a16"
+      "id": "a15"
     },
     {
       "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -69,7 +69,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -79,7 +79,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a18"
+      "id": "a17"
     },
     {
       "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -89,7 +89,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T22:30:42.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -97,7 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-      "id": "a20"
+      "id": "a19"
     },
     {
       "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -107,7 +107,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T19:22:33.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -115,7 +115,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-      "id": "a24"
+      "id": "a23"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -125,7 +125,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-20T05:27:06.209Z",
+      "fetchedAt": "2026-09-20T10:07:48.852Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -135,7 +135,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a27"
+      "id": "a26"
     }
   ]
 }
