@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:47:47.642Z",
+  "generatedAt": "2026-09-20T00:26:16.435Z",
   "date": "2026-09-20",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -23,21 +23,21 @@
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a13"
+          "a11"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
         "articleIds": [
-          "a20"
+          "a18"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
         "articleIds": [
-          "a22"
+          "a20"
         ],
         "subCategory": "semiconductors"
       }
@@ -52,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T14:00:00.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.684Z",
+      "fetchedAt": "2026-09-20T00:26:10.562Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -75,7 +75,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T13:00:00.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.684Z",
+      "fetchedAt": "2026-09-20T00:26:10.562Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -96,7 +96,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T07:10:00.000Z",
-      "fetchedAt": "2026-09-19T21:47:47.616Z",
+      "fetchedAt": "2026-09-20T00:26:16.398Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Quantum Computing Report",
       "geopoliticalBypass": true,
@@ -118,7 +118,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.106Z",
+      "fetchedAt": "2026-09-20T00:26:09.823Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -128,7 +128,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a13"
+      "id": "a11"
     },
     {
       "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -138,7 +138,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T18:43:02.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.106Z",
+      "fetchedAt": "2026-09-20T00:26:09.823Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -148,7 +148,7 @@
         "platform-partner"
       ],
       "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-      "id": "a20"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -158,7 +158,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T15:40:00.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.106Z",
+      "fetchedAt": "2026-09-20T00:26:09.823Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -168,7 +168,7 @@
         "oem"
       ],
       "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-      "id": "a22"
+      "id": "a20"
     }
   ]
 }

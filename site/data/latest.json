@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-19T21:47:47.645Z",
+  "generatedAt": "2026-09-20T00:26:16.462Z",
   "date": "2026-09-20",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-      "topHeadlineId": "a11",
+      "topHeadlineId": "a9",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 17,
+      "articleCount": 15,
       "topHeadline": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 30
+  "totalArticles": 28
 }

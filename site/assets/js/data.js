@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
           "articleIds": [
-            "a11"
+            "a9"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a13"
+            "a11"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-        "id": "a11"
+        "id": "a9"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -73,7 +73,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a13"
+        "id": "a11"
       },
       {
         "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -83,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:42.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +91,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-        "id": "a15"
+        "id": "a13"
       },
       {
         "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T19:22:33.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -109,7 +109,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-        "id": "a19"
+        "id": "a17"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -129,12 +129,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a22"
+        "id": "a20"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -177,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T08:47:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -185,12 +185,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-        "id": "a23"
+        "id": "a21"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -201,14 +201,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-19T21:47:47.645Z",
+    "generatedAt": "2026-09-20T00:26:16.462Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
-        "topHeadlineId": "a11",
+        "topHeadlineId": "a9",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -227,10 +227,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 17,
+        "articleCount": 15,
         "topHeadline": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -247,15 +247,15 @@ export const NEWS_DATA = {
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Supply Chain (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 30
+    "totalArticles": 28
   },
   "macro-environment": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
@@ -274,7 +274,7 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
           "articleIds": [
-            "a16"
+            "a14"
           ],
           "subCategory": "market-performance"
         }
@@ -289,7 +289,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T17:32:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
+        "fetchedAt": "2026-09-20T00:26:16.398Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "bgr.com",
         "geopoliticalBypass": true,
@@ -309,7 +309,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T16:33:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
+        "fetchedAt": "2026-09-20T00:26:16.398Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "India's News.Net",
         "geopoliticalBypass": true,
@@ -329,7 +329,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T14:03:36.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.335Z",
+        "fetchedAt": "2026-09-20T00:26:09.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -348,7 +348,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.684Z",
+        "fetchedAt": "2026-09-20T00:26:10.562Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -371,7 +371,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.684Z",
+        "fetchedAt": "2026-09-20T00:26:10.562Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -392,7 +392,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
+        "fetchedAt": "2026-09-20T00:26:16.398Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -414,7 +414,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T06:33:35.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.335Z",
+        "fetchedAt": "2026-09-20T00:26:09.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -426,46 +426,6 @@ export const NEWS_DATA = {
         "id": "a7"
       },
       {
-        "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXZpdVhTN213TFdXTVBKb25QdGVxNmNfWlRQX0xKT09IV2xReURUQnpQU3NpR3FjZHZKOXI0QkI0MzRVR2ZXSEFybmt0NEszVDlVQ2tZTGFUdkZLdnJlSW5SMzJJNlIzZTlxUEhkTUJYNjhzNEJXS2xVMi0xN3F2SkdMZ1FYRi1jaUM4NHhQazFxczl5QzRUMmtpV2FpeHk2ZnlOOEVYb1dvaDVvR05vclp4NGxsTWFEM3JUTll0YXNKb1QxdUl1SDBkNUM4UDc3S1h3LU8zUUZadlRkWlljbDhERQ?oc=5",
-        "description": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-19T00:00:21.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-        "id": "a9"
-      },
-      {
-        "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
-        "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMd9IBtgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMdw?oc=5",
-        "description": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T22:33:51.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "BIN: Black Information Network",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-        "id": "a10"
-      },
-      {
         "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
         "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
         "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
@@ -473,7 +433,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:34:49.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.071Z",
+        "fetchedAt": "2026-09-20T00:26:09.740Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -482,7 +442,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-        "id": "a12"
+        "id": "a10"
       },
       {
         "title": "China-based AI models trail US rivals on revenue",
@@ -492,7 +452,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-19T21:47:45.714Z",
+        "fetchedAt": "2026-09-20T00:26:14.470Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -501,7 +461,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-        "id": "a14"
+        "id": "a12"
       },
       {
         "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -511,7 +471,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:45:06.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -519,7 +479,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-        "id": "a16"
+        "id": "a14"
       },
       {
         "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -529,7 +489,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-17T21:33:42.000Z",
-        "fetchedAt": "2026-09-19T21:47:43.858Z",
+        "fetchedAt": "2026-09-20T00:26:13.692Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -538,7 +498,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-        "id": "a17"
+        "id": "a15"
       },
       {
         "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -548,7 +508,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:14:17.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -556,7 +516,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-        "id": "a18"
+        "id": "a16"
       },
       {
         "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -566,7 +526,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-17T15:50:09.000Z",
-        "fetchedAt": "2026-09-19T21:47:44.585Z",
+        "fetchedAt": "2026-09-20T00:26:14.325Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -575,7 +535,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-        "id": "a21"
+        "id": "a19"
       },
       {
         "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -585,7 +545,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-17T07:58:24.000Z",
-        "fetchedAt": "2026-09-19T21:47:45.714Z",
+        "fetchedAt": "2026-09-20T00:26:14.470Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -594,7 +554,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-        "id": "a24"
+        "id": "a22"
       },
       {
         "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -604,7 +564,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T02:11:52.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -612,7 +572,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-        "id": "a25"
+        "id": "a23"
       }
     ]
   },
@@ -808,7 +768,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-19T21:47:47.642Z",
+    "generatedAt": "2026-09-20T00:26:16.435Z",
     "date": "2026-09-20",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -832,21 +792,21 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a13"
+            "a11"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
           "articleIds": [
-            "a20"
+            "a18"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
           "articleIds": [
-            "a22"
+            "a20"
           ],
           "subCategory": "semiconductors"
         }
@@ -861,7 +821,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.684Z",
+        "fetchedAt": "2026-09-20T00:26:10.562Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -884,7 +844,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.684Z",
+        "fetchedAt": "2026-09-20T00:26:10.562Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -905,7 +865,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T07:10:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:47.616Z",
+        "fetchedAt": "2026-09-20T00:26:16.398Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quantum Computing Report",
         "geopoliticalBypass": true,
@@ -927,7 +887,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -937,7 +897,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a13"
+        "id": "a11"
       },
       {
         "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -947,7 +907,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T18:43:02.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -957,7 +917,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-        "id": "a20"
+        "id": "a18"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -967,7 +927,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-19T21:47:40.106Z",
+        "fetchedAt": "2026-09-20T00:26:09.823Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -977,7 +937,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a22"
+        "id": "a20"
       }
     ]
   },
@@ -4607,11 +4567,11 @@ export const NEWS_DATA = {
     "totalArticles": 31
   },
   "archive-2026-09-20": {
-    "generatedAt": "2026-09-19T21:47:47.645Z",
+    "generatedAt": "2026-09-20T00:26:16.463Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -4621,14 +4581,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most close",
               "articleIds": [
-                "a11"
+                "a9"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a13"
+                "a11"
               ],
               "subCategory": "mobile-chips"
             }
@@ -4643,7 +4603,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:58:45.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4651,7 +4611,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-            "id": "a11"
+            "id": "a9"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -4661,7 +4621,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4671,7 +4631,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a13"
+            "id": "a11"
           },
           {
             "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -4681,7 +4641,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:42.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4689,7 +4649,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-            "id": "a15"
+            "id": "a13"
           },
           {
             "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -4699,7 +4659,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T19:22:33.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4707,7 +4667,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-            "id": "a19"
+            "id": "a17"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -4717,7 +4677,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4727,12 +4687,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a22"
+            "id": "a20"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -4743,7 +4703,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -4768,7 +4728,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T04:19:37.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4786,7 +4746,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T08:47:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4794,17 +4754,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-            "id": "a23"
+            "id": "a21"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
@@ -4823,7 +4783,7 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
               "articleIds": [
-                "a16"
+                "a14"
               ],
               "subCategory": "market-performance"
             }
@@ -4838,7 +4798,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T17:32:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
+            "fetchedAt": "2026-09-20T00:26:16.398Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "bgr.com",
             "geopoliticalBypass": true,
@@ -4858,7 +4818,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T16:33:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
+            "fetchedAt": "2026-09-20T00:26:16.398Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "India's News.Net",
             "geopoliticalBypass": true,
@@ -4878,7 +4838,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T14:03:36.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.335Z",
+            "fetchedAt": "2026-09-20T00:26:09.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4897,7 +4857,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.684Z",
+            "fetchedAt": "2026-09-20T00:26:10.562Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4920,7 +4880,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.684Z",
+            "fetchedAt": "2026-09-20T00:26:10.562Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4941,7 +4901,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
+            "fetchedAt": "2026-09-20T00:26:16.398Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
@@ -4963,7 +4923,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T06:33:35.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.335Z",
+            "fetchedAt": "2026-09-20T00:26:09.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4975,46 +4935,6 @@ export const NEWS_DATA = {
             "id": "a7"
           },
           {
-            "title": "Chinese researchers plot path to 3-nm chips using older lithography tools - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdXZpdVhTN213TFdXTVBKb25QdGVxNmNfWlRQX0xKT09IV2xReURUQnpQU3NpR3FjZHZKOXI0QkI0MzRVR2ZXSEFybmt0NEszVDlVQ2tZTGFUdkZLdnJlSW5SMzJJNlIzZTlxUEhkTUJYNjhzNEJXS2xVMi0xN3F2SkdMZ1FYRi1jaUM4NHhQazFxczl5QzRUMmtpV2FpeHk2ZnlOOEVYb1dvaDVvR05vclp4NGxsTWFEM3JUTll0YXNKb1QxdUl1SDBkNUM4UDc3S1h3LU8zUUZadlRkWlljbDhERQ?oc=5",
-            "description": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-19T00:00:21.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chinese researchers plot path to 3-nm chips using older lithography tools South China Morning Post",
-            "id": "a9"
-          },
-          {
-            "title": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security - BIN: Black Information Network",
-            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMd9IBtgFBVV95cUxQWjJLMl9BdndVb3NTeVA1VVlVcDR3VzZSVUl5cExVbkJmMTlxWlZLcTVJSFVPcUlUZENrek5LazhiRzZPZ1JZWHNFVTlyd2hJaGNiaWJ3NlE4NVZMQjB5a3o3WVFXeWVTNTRrYmlBLVU0OEdZU2tGS19INEtHZExGTFFQZ05uUEpfQVpmRElqTFpTRXMwWHNhOWpyeVBBZlBsR2pBdTdzVHYybE1vWG1IMjBNaHNMdw?oc=5",
-            "description": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-18T22:33:51.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "BIN: Black Information Network",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Asha Castleberry-Hernandez Talks Iran, AI And U.S. National Security BIN: Black Information Network",
-            "id": "a10"
-          },
-          {
             "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
             "url": "https://www.cnbc.com/2026/09/18/trump-xi-state-dinner-jpmorgan-jamie-dimon.html",
             "description": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
@@ -5022,7 +4942,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:34:49.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.071Z",
+            "fetchedAt": "2026-09-20T00:26:09.740Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5031,7 +4951,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-            "id": "a12"
+            "id": "a10"
           },
           {
             "title": "China-based AI models trail US rivals on revenue",
@@ -5041,7 +4961,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-19T21:47:45.714Z",
+            "fetchedAt": "2026-09-20T00:26:14.470Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5050,7 +4970,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-            "id": "a14"
+            "id": "a12"
           },
           {
             "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -5060,7 +4980,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:45:06.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5068,7 +4988,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-            "id": "a16"
+            "id": "a14"
           },
           {
             "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -5078,7 +4998,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-17T21:33:42.000Z",
-            "fetchedAt": "2026-09-19T21:47:43.858Z",
+            "fetchedAt": "2026-09-20T00:26:13.692Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5087,7 +5007,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-            "id": "a17"
+            "id": "a15"
           },
           {
             "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -5097,7 +5017,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:14:17.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5105,7 +5025,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-            "id": "a18"
+            "id": "a16"
           },
           {
             "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -5115,7 +5035,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-17T15:50:09.000Z",
-            "fetchedAt": "2026-09-19T21:47:44.585Z",
+            "fetchedAt": "2026-09-20T00:26:14.325Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5124,7 +5044,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-            "id": "a21"
+            "id": "a19"
           },
           {
             "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -5134,7 +5054,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-17T07:58:24.000Z",
-            "fetchedAt": "2026-09-19T21:47:45.714Z",
+            "fetchedAt": "2026-09-20T00:26:14.470Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5143,7 +5063,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-            "id": "a24"
+            "id": "a22"
           },
           {
             "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
@@ -5153,7 +5073,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T02:11:52.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5161,12 +5081,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-            "id": "a25"
+            "id": "a23"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -5177,7 +5097,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-19T21:47:47.642Z",
+        "generatedAt": "2026-09-20T00:26:16.435Z",
         "date": "2026-09-20",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -5201,21 +5121,21 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a13"
+                "a11"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
               "articleIds": [
-                "a20"
+                "a18"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Semiconductors: QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
               "articleIds": [
-                "a22"
+                "a20"
               ],
               "subCategory": "semiconductors"
             }
@@ -5230,7 +5150,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.684Z",
+            "fetchedAt": "2026-09-20T00:26:10.562Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5253,7 +5173,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.684Z",
+            "fetchedAt": "2026-09-20T00:26:10.562Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5274,7 +5194,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T07:10:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:47.616Z",
+            "fetchedAt": "2026-09-20T00:26:16.398Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quantum Computing Report",
             "geopoliticalBypass": true,
@@ -5296,7 +5216,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -5306,7 +5226,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a13"
+            "id": "a11"
           },
           {
             "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -5316,7 +5236,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T18:43:02.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -5326,7 +5246,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-            "id": "a20"
+            "id": "a18"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -5336,7 +5256,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-19T21:47:40.106Z",
+            "fetchedAt": "2026-09-20T00:26:09.823Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5346,12 +5266,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a22"
+            "id": "a20"
           }
         ]
       }
     },
-    "totalArticles": 30
+    "totalArticles": 28
   }
 };
 

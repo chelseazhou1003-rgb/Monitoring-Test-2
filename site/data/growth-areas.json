@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-19T21:47:47.642Z",
+  "generatedAt": "2026-09-20T00:26:16.435Z",
   "date": "2026-09-20",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T04:19:37.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.106Z",
+      "fetchedAt": "2026-09-20T00:26:09.823Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T08:47:00.000Z",
-      "fetchedAt": "2026-09-19T21:47:40.106Z",
+      "fetchedAt": "2026-09-20T00:26:09.823Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "(TWSE: 2395), a global leader in IoT, announced the expansion of its WEDA-Powered Edge AI ecosystem, centered on the theme \"Streamlining AI from Development to Deployment.\" Through WEDA (WISE-Edge Developer Architecture), WEDA-Ready Edge Computing, and the Advantech Container Catalog (ACC), Advantech helps developers, system integrators, and customers reduce the complexity of Edge AI development, validation, deployment, and lifecycle management.",
-      "id": "a23"
+      "id": "a21"
     }
   ]
 }
