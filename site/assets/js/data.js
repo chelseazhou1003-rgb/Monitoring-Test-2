@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
           "articleIds": [
-            "a8"
+            "a13"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a17"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.851Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -55,7 +55,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-        "id": "a8"
+        "id": "a13"
       },
       {
         "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -65,7 +65,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.851Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -73,7 +73,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-        "id": "a15"
+        "id": "a17"
       },
       {
         "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -83,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -93,7 +93,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a17"
+        "id": "a19"
       },
       {
         "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -103,7 +103,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T22:30:42.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -111,7 +111,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-        "id": "a19"
+        "id": "a21"
       },
       {
         "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -121,7 +121,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T19:22:33.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -129,7 +129,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-        "id": "a23"
+        "id": "a25"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -139,7 +139,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -149,12 +149,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a26"
+        "id": "a28"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -164,7 +164,7 @@ export const NEWS_DATA = {
         {
           "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
           "articleIds": [
-            "a14"
+            "a16"
           ],
           "subCategory": "on-device-ai"
         }
@@ -179,7 +179,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -187,12 +187,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-        "id": "a14"
+        "id": "a16"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -203,14 +203,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-20T10:07:54.505Z",
+    "generatedAt": "2026-09-20T14:21:53.793Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 6,
         "topHeadline": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "topHeadlineId": "a8",
+        "topHeadlineId": "a13",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -224,15 +224,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-        "topHeadlineId": "a14",
+        "topHeadlineId": "a16",
         "briefingSummary": "One article today covering On-Device AI / Edge AI. QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardw"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 18,
-        "topHeadline": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said - dominotheory.com",
+        "articleCount": 20,
+        "topHeadline": "Meloni Eyes More Stringent School Laws to Counter Far-Right Rise",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -243,46 +243,143 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 6,
+        "articleCount": 4,
         "topHeadline": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+        "topHeadlineId": "a13",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 31
   },
   "macro-environment": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Supply Chain: Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
+          "text": "Geopolitics & Export Controls: Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restr",
           "articleIds": [
             "a1"
-          ],
-          "subCategory": "supply-chain"
-        },
-        {
-          "text": "Geopolitics & Export Controls: Penalties against businesses on occupied Palestinian land could have far-reaching consequences",
-          "articleIds": [
-            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
+          "text": "Supply Chain: Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "supply-chain"
+        },
+        {
           "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
           "articleIds": [
-            "a20"
+            "a22"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Meloni Eyes More Stringent School Laws to Counter Far-Right Rise",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise",
+        "description": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-20T13:41:03.000Z",
+        "fetchedAt": "2026-09-20T14:21:46.377Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
+        "id": "a1"
+      },
+      {
+        "title": "AI is a powerful but problematic new collaborator in mathematics",
+        "url": "https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203",
+        "description": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-20T13:00:03.000Z",
+        "fetchedAt": "2026-09-20T14:21:46.443Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
+        "id": "a2"
+      },
+      {
+        "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-20T12:47:23.000Z",
+        "fetchedAt": "2026-09-20T14:21:45.912Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "id": "a3"
+      },
+      {
+        "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTViYnZjeGVZOTVwVjV5NmNqSmhrNU9HaGRkaDhkMS00REx0dXdta2p4d0Itd2VZTVE1bFhmc1dDWG9scEMyRnFVandkZURKdExvbi14cmwxUVRzY08tNks2WFVYUENZY0RPSm00dWE0ZW14TThGcnpDQnhNVmg3QnUzZV85V3F2YVN0T19jUllMVjk1VUZmbVFqcGZQYWZxQTVpQ05YQnpIaXJzMVVXc0VxZnROUWRfNTFOY0w3SE1XVHRhd1NYTElB?oc=5",
+        "description": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-20T12:18:52.000Z",
+        "fetchedAt": "2026-09-20T14:21:53.759Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TradingView",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
+        "id": "a4"
+      },
+      {
+        "title": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass - Tech Times",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3lKdkZXRzZOcVdjMjFycUcwUTBkR1l3U1NudVBvV0lYNmNnNnZFZUJSUnp2cFJ6ZHpNLU5HMVNIcF9OVU03V1h6eXAxbEV4cm5pM05Rcm1HZW1NS0U5MDhvbEpNSElaUWNoN1BnaXFkZ3ZFRkpQeHFsaWk2dnpYb0pLVkdNdTJ1Zjc4aHlZdkVaNUxkbkg5akNHQnBWNUZ4VERFU25WUXpwTExjcXhOV3o4WTFRbDlBMnZ5clBHZXRNbC0xZmFzOHVyUFY3QXlMU3U3ZA?oc=5",
+        "description": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass Tech Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-20T07:21:21.000Z",
+        "fetchedAt": "2026-09-20T14:21:53.759Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Tech Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass Tech Times",
+        "id": "a5"
+      },
       {
         "title": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said - dominotheory.com",
         "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZThCRzdmcTEyOVJpYWpYRllZZFR5MTlpVlVTSHRXYUpzbkJTRWJCSmVKQk4tQTVnSVEyWGkxYUR0NzF2ZVp5a1NBNzQxZkg0Yl9HVUppeEhfNjZWM05GUEVhOGVsbnhGTDRudXpxbmpCSE9VT1lqRmh6MGU1SFVNdXNTT2ZyM3Y4Y0FYTmt5VE9IRUpFZ1N0elZhdlNxY1NIWnF0ZWFIYUduSGxUYlI5SHNSM2xGdVZidVNQWFc3bktFY0k?oc=5",
@@ -291,7 +388,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T06:14:15.000Z",
-        "fetchedAt": "2026-09-20T10:07:54.464Z",
+        "fetchedAt": "2026-09-20T14:21:53.759Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "dominotheory.com",
         "geopoliticalBypass": true,
@@ -301,7 +398,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
-        "id": "a1"
+        "id": "a6"
       },
       {
         "title": "Israel’s settler economy braces for European sanctions",
@@ -311,7 +408,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T04:00:11.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.358Z",
+        "fetchedAt": "2026-09-20T14:21:46.443Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -320,7 +417,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Penalties against businesses on occupied Palestinian land could have far-reaching consequences",
-        "id": "a2"
+        "id": "a7"
       },
       {
         "title": "Saudi Arabia quits China-led cross-border currency platform",
@@ -330,7 +427,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T04:00:03.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.358Z",
+        "fetchedAt": "2026-09-20T14:21:46.443Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -339,7 +436,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Kingdom’s central bank withdrew from programme which is part of Beijing’s effort to develop an alternative system to the dollar",
-        "id": "a3"
+        "id": "a8"
       },
       {
         "title": "China to Step Up Curbs Against Malicious Price Competition",
@@ -349,7 +446,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T03:53:22.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.847Z",
+        "fetchedAt": "2026-09-20T14:21:46.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -358,7 +455,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration for Market Regulation said at a State Council Information Office briefing on Sunday.",
-        "id": "a4"
+        "id": "a9"
       },
       {
         "title": "China August Power Use Tops 1 Trillion kWh, Load Hits Record",
@@ -368,7 +465,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T03:35:37.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.847Z",
+        "fetchedAt": "2026-09-20T14:21:46.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -377,7 +474,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
-        "id": "a5"
+        "id": "a10"
       },
       {
         "title": "China’s Smart-Glasses Sales Double in First Eight Months of Year",
@@ -387,7 +484,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T02:23:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.847Z",
+        "fetchedAt": "2026-09-20T14:21:46.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -396,7 +493,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gained about 27%, the Ministry of Commerce said in a statement on Sunday.",
-        "id": "a6"
+        "id": "a11"
       },
       {
         "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
@@ -406,7 +503,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T00:39:58.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.847Z",
+        "fetchedAt": "2026-09-20T14:21:46.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -415,7 +512,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
-        "id": "a7"
+        "id": "a12"
       },
       {
         "title": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
@@ -425,7 +522,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T17:32:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:54.464Z",
+        "fetchedAt": "2026-09-20T14:21:53.759Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "bgr.com",
         "geopoliticalBypass": true,
@@ -435,7 +532,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
-        "id": "a9"
+        "id": "a14"
       },
       {
         "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
@@ -445,7 +542,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T16:33:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:54.464Z",
+        "fetchedAt": "2026-09-20T14:21:53.759Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "India's News.Net",
         "geopoliticalBypass": true,
@@ -455,70 +552,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
-        "id": "a10"
-      },
-      {
-        "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
-        "description": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-19T14:03:36.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.847Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed.",
-        "id": "a11"
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues. That is a lot of ideas, and I am especially curious about the antitrust piece, which has led to accusations that these companies are seeking regulatory capture, attempting to form a cartel, and even somehow finding a way out from investor pressure ahead of their IPOs. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So to make sense of it all, I called Jonathan Kanter. Jonathan brought huge antitrust cases against Google, Apple, and Ticketmaster during his time as antitrust chief, and along with Lina Khan, led what amounted to a full reboot of American antitrust policy. As you’ll hear him say, he won those cases against Google and Ticketmaster, and that case against Apple is still live in the Trump DOJ, surprising many. That reboot has also led to some surprising alliances in the AI debate — avowed libertarian and former Trump AI czar David Sacks has been approvingly retweeting Lina Khan saying there’s no need for an antitrust exemption. This is all a lot, and you’ll hear Jonathan and me really get into the weeds of how all this regulation might work, and how it might interact with antitrust law, competition policy, and our relationship with China. Okay: Jonathan Kanter, former DOJ antitrust chief, on AI safety and regulation. Here we go. This interview has been lightly edited for length and clarity. Jonathan Kanter, you’re the former head of the DOJ Antitrust Division in the Biden administration and a current professor of law at WashU and professor of technology policy at Carnegie Mellon. Welcome back to Decoder. Always a pleasure to be back. This is great. You’re a private citizen now. You don’t have to give me the politician answers. I can say whatever I want. I feel so free. I’m very excited about this. I plan to as well. I have a million questions about the state of AI regulation in America right now. There is a swirl of ideas about how we should or should not regulate these companies. There’s the Trump administration whose posture seems to be “no,” which is fascinating. You rarely see the federal government just decline to participate in the way that the Trump administration appears to be declining to participate. And then there’s an incredible backbone of antitrust concern floating throughout all of this. Are these companies trying to form a cartel? Are they aware that maybe their IPOs aren’t going to go the way they want to, so they’re seeking regulatory capture in some way that is good or bad? Are they trying to foreclose cheaper competition from open-weight Chinese models? Give me your sense of just the state of things right now, and then I want to dive into the specifics with you. The state of the world right now is like we’ve invented cars and trucks, but we have no lines on the road, no traffic lights and no stop signs and no speed limits. We’ve invented this incredibly powerful technology that’s transforming how we live our lives, how we conduct business, how we socialize, how we seek and generate and consume information. We need some basic rules of the road. I think about it on two fronts. What are the things that companies should be doing? And what are things the government should be doing? There are responsibilities on both ends. I’m happy to dive into both. Let’s just start with the very notion that asking for regulation necessarily forms a cartel. All the big frontier AI companies — OpenAI, Anthropic, Google DeepMind, even Elon Musk — do not necessarily like each other. These are people that do not necessarily like each other. They are saying in concert that they should slow down. The phrase that Dario Amodei from Anthropic is using is to “pace the frontier.” My read of this is that they simply do not trust each other, that they are in a prisoner’s dilemma and they need an outside force, most likely the government, to enforce some kind of policy framework on them that they have to agree with. Is that a fair read of just the basics here? Kind of. Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption. The most generous interpretation is that they’re afraid of the pace of innovation and the lack of regulation means they don’t see any lines on the road. They don’t know where to drive and they’re worried about driving off the road or hitting somebody else. They’re begging for the government to step in and do something. Probably there’s a modicum of truth to that. I believe they believe it could destroy humanity. I’m not sure that that doomsday scenario is accurate, but I believe they believe that. That’s the more generous version. The more cynical version is that they’re spending so much money, they’re hemorrhaging cash and they can’t keep this up, but if they pull back, it’s going to affect their valuation as part of the IPO. So they would like somebody to give them all permission to stop spending so much money and slow the pace of innovation so that they don’t have to compete as hard so they can figure out their economics before they go public. Does an agreement among all the top players in a field like this automatically form a cartel? On that cynical side of the interpretation, there’s a lot of, “You just want regulatory capture. You want to make a cartel. You want to foreclose competition.” That is a risk certainly of that kind of arrangement. Let’s walk through what’s necessary and what’s not. Let me just be very clear, these companies do not need to coordinate in order to deliver safe and secure products to society. Think about this: imagine Boeing and Airbus. Boeing fears doors falling off the plane. It wasn’t Airbus’s fault and they didn’t need to slow down innovation with Airbus in order to prevent those doors from flying off the plane. They needed to figure out how to build planes that were safer. If you build cars that explode while you’re driving, it’s not the other car company’s fault and you don’t need to come together and figure out how to solve those problems. You need to figure out what went wrong in your manufacturing process. If you create products that create AI agents that break into somebody else’s and hack somebody else’s technology, it is no different, in my mind, than having an employee go do that. You have a responsibility to build safe and secure products and companies should be held liable when their agents, whether those agents are digital and binary or whether those agents are AI or whether those agents are humans. If they start doing bad things, the company that employs them can and should be held responsible. Those are the basic rules of the road. There are areas where there is legitimate collaboration in the context of safety and security. For example, having a clearinghouse to properly share threats, malicious bots, or other things that you can create a repository for so that everyone can build safer products. Those are the kinds of collaboration that happen in other industries and you don’t need an antitrust exemption because the antitrust laws don’t prohibit that kind of work. If two companies say, “We’re competing too hard and we need to slow down,” yes, that could implicate the antitrust laws, but that’s not what we should be doing here. We should be innovating, but companies should have the responsibility to build safe and secure products and the government should be responsible for putting lines on the road that say, “If you don’t build a safe and secure product, here’s what the consequences are. If you don’t build a safe and secure product, here’s what liability might look like. If you don’t build a safe and secure product, then perhaps there should be robot jail for your agents and it should be taken off the market.” I want to dig into robot jail specifically. in the amount of pressure we’re putting on what feels like product liability law. There’s something there that I want to talk about more specifically, but my wife’s a lawyer. I told her I was talking to you this morning and I tried to explain that there are fault lines here and she just shot me that look and said, “This is just a nightmare law school hypothetical.” What you’re describing is, “Does tort law create a regulatory framework for these companies?” And somewhere in there is, “If my agent goes and hacks you, my directive is that Anthropic’s at fault. Are we going to create some kind of pass-through liability? Does that happen already or not? Do we need another law or clarification law?” What’s your view on this? If I direct my Meta Muse agent to go attack you and it does it, is that Meta’s fault? Both/and. Companies employ people and they build technology. When those people and those technologies do things that are problematic, including stealing or breaking into someone else’s property on behalf of their employer, there’s liability and that can be products liability, but it could be more than products liability. You’re just people doing bad things or companies creating technology that’s doing bad things. And the products liability framework actually did work most recently in the case against Meta for Facebook and Instagram and child safety and security and mental health. Wait, hold on. That is really fascinating to me. This is a thing I’m really interested in talking about, because it took a decade for it to work. That’s the problem! This is where the government needs to step in. Companies have an obligation today to build safe and secure products and the pace of innovation isn’t an excuse not to go do that. Let’s be very clear about that. At the same time, we’ve invented cars and trucks and trains and we have no crossings, we have no lights, we have no lines on the road. Congress is completely incapable of pretty much doing anything. While these tech companies are out there saying that they want regulation, they’re actively lobbying against it and have been for a very long time. The whole thing is a complete mess and it’s a symptom of our system, which is a complete mess. And frankly, if the political scientist in me would trace that back to things like gerrymandering and Citizens United where our process has gotten out of control and Congress, which should be doing its basic job of putting basic safety standards and responsibilities in place, hasn’t done that. That having been said, the lack of action by Congress is not an excuse to deliver dangerous products. If you believe your product is going to destroy humanity, then don’t build it. If you believe your product is going to break into someone else’s stuff, then go back to the drawing board and figure out how you build it in a way that’s safer. Guess what? That’s innovation. These are innovation problems, not just regulatory problems. We need to do a better job incentivizing our companies to build safer and secure products. When they do that, those products will perform better and we will see better innovation. Right now, innovation is asymmetric because it’s done without the proper regard for safety and security, just like we saw in social media. As a result, now we have products that are really good and really effective at letting people communicate, but really bad when it comes to childhood addiction and mental health. Perhaps we should learn our lesson and encourage people to build safer, more secure products from the get-go, at the outset of this technology. Let me make the comparison to social media regulation a little more tightly. We just had the big Meta case; that is a products liability case. Their products were designed in a way that caused harm to teenagers. Meta settled the case because I think Mark Zuckerberg would prefer to build AI than to care about moderating Facebook. But they did lose one to a jury. They usually lose one to a jury, and this case wasn’t going well, but fundamentally they settled. They gave up. There’s a view that if they had fought and appealed, they would have won on some first amendment grounds, that the product liability case maybe wasn’t as strong as we all thought it was. And the other reason I’m saying that is Meta gave in to the regulator and their posture at the end was a settlement. They gave in and they accepted some regulation. It took a long time for the product liability version of this to get a company like Meta to concede some regulation, to concede some controls— To get a company like Meta to concede some regulation, to concede some controls. If we’re saying today, “OpenAI, you are probably liable for what ChatGPT does. Anthropic, you are probably liable for what Claude does,” isn’t this the moment to actually tighten the screw and pass the regulation that says, “You are definitely liable”? Yes. This is the job of Congress, which is to clarify the law. But I think the environment today is noticeably different than the environment was 15–20 years ago. 15–20 years ago, we had Section 230, which actually granted massive amounts of immunity to online companies, which actually made it harder to sue them and gave them more flexibility to innovate without regard for consequences. We had — and this is not partisan because it can go back to the Obama administration — a very hands off, “Oh my goodness, our economy depends on these wonderful companies from Silicon Valley. Let’s let them do whatever they want and essentially allow them to set up camp at the White House and in Congress and tell us how to write or not write our rules.” The results of that have eroded or destroyed any trust the public has in these technology companies. One of the reasons we’re having this conversation a lot earlier in the process now is because people are saying, “Fool me once, shame on you. Fool me twice, shame on me.” The good news is there’s greater public awareness and appreciation for the problems and a desire to do something meaningful. The problem is we have a system in Congress because of things like Citizens United, because of things like gerrymandering that have a government that is not responsive to the needs of the people. That is the impasse that we’re all confronting. We’re going to have to, in the meantime, rely on things like products liability or others to help get us some semblance of structure. But the other piece is the states. The states have actually done a better job than the federal government. You can rewind back six months or a year, and we had people in Congress, without imposing any affirmative rules, saying we should put a 10-year moratorium on the ability of states to impose their own rules and regulations at a time when Congress had no affirmative solutions of its own. So, hopefully that moment has passed and the public is saying — and the companies are saying — “Let’s sit down and figure out something sensible.” The polling data is clear that the American public does not trust these companies, does not like these products, and is afraid of the consequences to come, even if those consequences are hazy in the long term. They seem not so hazy in the short term. Right. Some of this is that the companies have done a terrible job at messaging. They have effectively said, “We’re going to destroy all your jobs and potentially destroy humanity, but we’re going to IPO for a massive valuation and we’re going to set up camp in your local communities with data centers, which by the way, don’t employ people and drive up the cost of power. But, it’s okay. China.” I want to come to China in one second, because that feels like another very important piece of the puzzle. But you mentioned a cast of characters here, you mentioned Obama. There’s a political realignment inside this debate that I find confounding. David Sacks, who was Trump’s AI czar, is retweeting your former counterpart at the FTC, Lina Khan, saying, “The existing antitrust laws are fine. You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. They will make it so you can coordinate on security things and you’ll be liable for what you’re doing. And if you want to stop, just stop.” That is an absolutely shocking kind of political alignment to me. Where do you think that’s coming from? Actually, it’s a realignment of the realignment. Going back to Trump 1, we started seeing the kind of ends of the horseshoe starting to meet where folks left, right, and center were all concerned about the power of big tech. When people like Lina and I came into office, we had a mandate and a lot of public support, frankly, to be aggressive in enforcing the law against big tech. Then came the inevitable backlash and the Trump administration in the second incarnation was a lot more friendly with those companies rather than the first, and then it became cozy again. Now I think we’re seeing that break once more. But if I was to describe to you a day in which David Sacks is approvingly retweeting Lina Khan, while Bloomberg columnist Joe Weisenthal is saying “All these people are just saying Lina Khan was right about the power of cartels.” And hours later, Bernie Sanders and Steve Bannon are sharing a stage in DC calling for a dead stop of AI development. That doesn’t look like anything that we’ve seen before. No, no. Although again, I will say this. When I went up before Congress, I had support from Senator Mike Lee and Chuck Grassley and Josh Hawley and Matt Gaetz asked me if I was tired of winning at one of my oversight hearings. And then I had a bunch of Democrats, many of whom supported me, some of whom were very adherent to the big tech companies, who would criticize me. These signs of this stuff being all over the map have been around for a while. The fight between little tech and big tech — this is the part that I think a lot of folks don’t see from the outside, but the biggest antagonists of the big tech companies are the other tech companies. I did a speech before the Chamber of Commerce when I was in office and I brought a whole box of fake mustache and glasses. And I said, “I’m here to say thank you because all your members are coming in and helping us figure out how to bring our cases. And I know you don’t like the reputational hit of that. So here are some disguises, you can put them on next time you come in.” But the truth of the matter is most people hate the monopolist unless you’re the monopolist and companies want the opportunity to compete on the merits and win or lose on the merits of their own innovations and their own business acumen. A lot of this stuff actually has wide-range appeal. The politics of it get kind of weird and funky like you’re describing. But I think if you look at the data center issue, for example, it’s not left or right. It’s all of the above. Part of this is, to me, a situation in which we’re actually more in a healthier place, as unhealthy as the whole thing is, than we were during the internet and social media revolution where even criticizing those companies or saying we needed something was seen as a very fringe position. The truth of the matter is people want some lines on the road. They don’t want to stop innovation. They don’t want to stop progress. They’re not saying we have to burn the whole thing down, although Bernie kind of wants a complete stoppage. I don’t think that is realistic. We don’t want to stop innovation. We just want to have innovation result in safe and secure products that make us better as a society. That requires some correction in terms of the course as opposed to the path we’re on right now. I do think one notable difference between now and what happened with social media companies is that the people who ran Twitter and Facebook and YouTube did not run around saying they might kill everyone. They ran around with the banner of the righteous, they were going to bring democracy to the Middle East with the power of social media. These AI companies obviously think that they’re going to do something great. They’re going to cure all diseases, they’re going to make life better. We’re going to live in luxury communism or whatever that thing is. But they’re also very clear that unrestrained competition might lead to really enormous negative outcomes. One of the things they’re constantly talking about is China. They can all coordinate in the United States, but the United States needs to win because there’s the specter that Chinese models might overtake them and then the Chinese government will be in control of AGI or whatever thing that is scary on the horizon. What do you make of that? Is that just a convenient boogeyman? Is that real? Is that something competition law can address? It’s largely a convenient boogeyman. We’ve been dealing with these kinds of issues. I was thinking back to the breakup of AT&T. At the time, AT&T made the argument to the Reagan administration that it should not be broken up because in order to win the Cold War, we needed a national telecommunications network that was nice and strong. And the Reagan administration rejected that argument. The fact of the matter is the way to compete against China is to lean into what makes us great as a country. What makes us great as a country is we care about our people. Also, just let’s be very clear, China is not doing what we’re doing. China limits the way in which kids can interact with technology. China censors what people see in its borders. China actually manages and centrally controls a lot of its corporations through state owned enterprises and influenced enterprises. This idea that the only way to compete against China is to let us deliver unsafe products is kind of ridiculous. The way we win, whatever that means, against China is to make sure that we are delivering great innovations and products that benefit society, that we are protecting people from harmful uses of those products, and then we’re allowing a free market to function within those constraints. That’s how we beat China. As I was saying before with social media, the lack of rules and the lack of accountability resulted in a lack of innovation in how to build these products at the outset in a way that’s more safe and that’s more secure and better for, let’s say, mental health of people. It is not a bad thing and it’s not bad for innovation to require people to deliver safe and secure products. It is the responsibility of the country to make sure that our companies are innovating within the constraints, within the boundaries of a free market, but doing so in a way that is beneficial. Let me try to split the difference between your former role as antitrust chief and your current role as law professor. Give people a framework to understand how competition law domestically should interact with foreign policy. We are in some sort of national competition with China across a number of dimensions. There is a fear that if Chinese tech companies flood America with cheap-to-run, open-weight models, then all this collapses and the United States economy collapses. There’s a lot there, between how we might deal with China as a foreign adversary, or at least a geopolitical rival and our competition policy here. What’s the best framework to understand? The best framework is that we should promote dynamic aggressive competition inside the borders of the United States. We want companies, including foreign companies usually, but certainly domestic companies to compete hard because our system is a market-based system. It’s one where people innovate, and the opportunity to be successful encourages people to try new things, invest money and capital and make great products. All that is good. The idea that we need monopolies at home in order to compete abroad is antithetical to our way of life. The Boston Tea Party was founded as a revolution against the British monopoly over the necessities of life. This goes back to the founding of our country. Our freedom is in part in economic freedom and we need to make sure we promote that. Saying that we should tolerate monopolies domestically in order to compete abroad is wrong. There are legitimate questions, some of which this administration is raising, about how we deal with foreign nations that try to dump cheap products below cost and things like that. I was reading with my law students the other day a case from the 80s where the allegations were that companies in Japan were cartelizing television sets to sell them at a higher price so they can cross-subsidize below-cost pricing in the United States, in order to drive out the domestic US manufacturers. That was the height of the Chicago school libertarian movement. The Supreme Court actually used some cockamamie version of economics to suggest that wasn’t an antitrust violation, and set the stage for what happened next. There are legitimate questions about what we need to do to make sure that there is fair competition, and a fair playing field, that we are protecting the ability of people domestically to compete successfully. But the way to deal with that question is not to allow monopolization of our markets domestically in order to compete abroad. That’s just an excuse. That is leaning away from rather than into what makes us really special as a nation. I can already hear what our most skeptical members of the audience are saying. They are screaming, probably in their cars, that it’s already a monopoly, that Nvidia has circular financed, all of these companies are already coordinated, product liability theories of harm will just fall on their face because there’s no way OpenAI would ever sue Hugging Face, because Nvidia just bought Hugging Face and Nvidia’s the biggest investor in OpenAI. Do you need to go break that up? Do you need to go pull that all apart? Somebody should be looking at these issues. This is what we were starting to do when we were in office. We were saying, “There are some lines on the road now and you can’t go buy or invest in any company you want. We want competition to mean competition and that might be a little frustrating on some ends, but so long as you’re within those boundaries, go for it. Go compete as hard as you can.” This administration has taken the position that we’re going to allow a small number of companies to reach a level of dominance, or oligopoly, or monopoly so that we can beat China, whatever beating China means. And that’s the piece that I don’t quite understand. What does beating China mean? I get the idea that if China has these advanced bots that are violating and infiltrating our companies, and our government servers and the like, well fine, that’s a national security issue and we should deal with that. That’s a geopolitical issue. We should deal with that. That’s an international relations issue. We should deal with that. But the way to deal with that is not having monopolies domestically, especially when those monopolies are adherent to shareholders rather than the best interest of the public. This is a big debate across the United States government right now. The Trump administration has taken direct investment in a bunch of American companies. They’ve talked about setting up a sovereign wealth fund based in crypto. There’s more coordination between the government and private industry in a Republican administration than you would ever expect in history. Owning the means of production. What does that sound like to you? And then they call everyone else communists, which is great. Again, the realignment is wild stuff that’s happening out there. Compare owning a grocery store, a couple of grocery stores in New York to actually investing in some of the most significant technological infrastructure of our nation. Well, the grocery stores are a huge threat to the American way of life. There’s a piece of the puzzle here where the Trump administration’s approach is national champions. They’re just not saying it maybe as explicitly as you are. Do you think that approach can be unwound? Do you think competition law is compatible with that approach? It is harder to unwind it than it is to build it the right way from the get go. You hit the nail on the head. National champions. China is a country of national champions. The United States is not a country of national champions. The United States is a company where anyone could grow up to be a champion. That’s the American dream. Our promise, our way of life is based on a fundamentally different idea and ideal. The more we diverge and deviate from that, the worse off we are. I do think that is a bad policy, and it will be harder to undo the more it calcifies. Again, this is not anti-business or anti-market, just to be very clear. I’m a capitalist. I’m a card-carrying capitalist. I’m proud to say I am. The world that I want is one where everyone can be investing, everyone can be building a company, and that there are rules around the edges in terms of monopolizing markets. But within that, everyone should compete as hard as they can, build, grow, and do all sorts of amazing things. That is a better version of our country, one that got us to the place of economic power and dominance globally. We are more vulnerable when we have central points of failure, and we are less free when we have a small number of companies that are telling us how to live our lives. I’m for the 1,000 flowers blooming inside the borders of the United States. It is just remarkable to me. We’re weeks away from the midterm elections. That is something a traditional conservative from the 90s would have said about the power of the free markets. What do you make of this moment? If you had to describe the policy positions of conservatives, and if you had to describe the policy positions of the median Republican and the median Democrat headed into the midterms around this issue, are they compatible? Are they at war? Is it a total scramble? It’s a total scramble. I’ll take one issue. I don’t think what I articulated is that of a conservative from the 90s. I think the conservatives of the 90s were about antitrust and competition policy, and all of these ideas that were very central to the development and growth of our country, from the 40s to the 70s, should be thrown away and we should let industry consolidate. And we did, we saw industry consolidate. That is part of the reason why we have a lot of the problems that we have today, including the K-shaped economy, and the sense of opportunity not being widely available. In terms of your question, it is a scramble. The plates are shifting and where everything ends up is still unclear. We are living through the transformation of our politics and our ideals, and Republicans, Democrats, conservatives, and progressives and all these other different flavors will not mean in 15 years what they meant 15 years ago. It’s a little bit unclear how that’s all going to play out, but we are literally living through that transformation right now, which is kind of remarkable. It’s an interesting thing to observe as somebody who likes to study markets, technology, and policy. Again, not all of this is bad. We do need some realignment. We need to take an inward look at the way we’re governing our society, the way we’re encouraging our markets to structure, and think about whether there are things we should do differently. But what we are living through is two things that are happening. One is from the 80s to probably the 2010s, we were living through the Reagan era of neoliberal politics and policy. The left and right have both rebelled against that. That nail in the coffin is being hammered in as we speak. The other thing that’s happening that is even more fascinating is we have been living in the New Deal era for nearly 100 years. That era is over, and what comes next is a jump ball, but it’s over in terms of the role of government, the role of policy, the role of our international relations. All of that is being rebuilt or stripped down to the studs, including our government agencies themselves, our regulatory structure. The way this AI issue would’ve been handled 50 years ago is we would’ve created a Department for AI Safety or something, and they would’ve promulgated rules and they would had folks looking at it. And that might not have been the right approach, but that’s what would’ve been the approach. The Supreme Court has essentially thrown that out the window. It’s no longer what we have. Now we have an executive branch that basically decides on its whims what it wants to do on a daily basis. The whole thing is just completely a mess. Trump’s approach to this is, “You don’t need a regulator, you need a great president, and that’s me.” I saw that and I thought, “But what you would do is regulate them. So you should just hire some people to do it. You should just delegate, like any boss would do.” This is the irony. A good friend of mine, Dave Lawrence, wrote a piece in the New York Times a few weeks ago saying just this, which is that the Supreme Court has said, “We don’t want agencies and regulators promulgating rules and answering major questions, which is supposed to be the purview of Congress.” But instead they’ve essentially allowed the executive branch to do it without any process, without any input, and essentially with very little structure, which does lead to regulatory capture, which does lead to inadequate or inequitable outcomes. That’s what we’re confronting right now. Again, this is all consistent with what I was saying a few moments ago, which is kind of ripping down to the studs of the New Deal era. The government infrastructure that we relied on to figure out how to deal with all these things has essentially been destroyed. Now we don’t really have the resources or the structure in place to deal with these kinds of existential problems. Instead, we have Congress, and Congress is largely ineffective because of things like Citizens United and gerrymandering, which have essentially made all politics national and all politics tribal. Let me ask you two questions to wrap this up. You mentioned some eras. You, along with Lina Khan, brought forth a new era in antitrust. Some people called it hipster antitrust. The academics called it neo-Brandeisian antitrust. Just look at my hairline. I’m far from a hipster. You’re much cooler than I am. But the idea that we would bring back aggressive antitrust enforcement on theories of the law that weren’t simply related to consumer prices going up or down, that was new. That was something you brought forth. You brought a lot of cases against [companies like] Apple. Successfully. We won our cases. Our cases on the law won. We beat Google in court twice. We survived our motion to dismiss on Apple. We put together a Ticketmaster case that even when the Trump administration tried to settle it, actually won in front of a jury in court. The stuff we did worked. We brought cases on algorithmic pricing in healthcare. We fought for the public because the public wanted someone to fight for them. The settlements in the Google cases did not achieve the results you were advocating. Not the settlements, the remedies. Which I did not preside over. I presided over the victories. We handed the baton over to the next administration. The remedies were admittedly disappointing. Could we have achieved a different outcome? I don’t know. I would’ve liked the opportunity to try, but we didn’t. So that’s disappointing. But it doesn’t change the fact that we changed the game. We changed the approach, and the state of antitrust law and the state of competition policy was a heck of a lot better when we left it than when we started. Do you think that that era persists? There are some people, especially in tech policy, who would say, “This was all a failure. We should call this what it was. It was a failure. It did not result in structural change and we should move on from this”? Not at all. It’s not a failure. Did we finish the job? No. There’s a lot more to go. It relates to the challenge that we were talking about earlier, which is that it’s harder to address something after it calcifies. We were coming in after these markets had hardened, trying to figure out how to create competition. I’ve always been fond of saying that what you really want to do is you want to protect the next inflection point. Especially in technology and platforms, what comes next is likely to be highly disruptive, and competition has its greatest promise at that moment. That’s when incumbents tend to be most aggressive in trying to prevent upstarts and others from competing. I do think the conversation we’re having around competition, this conversation today, the fact that folks on the left and right are already concerned about monopolies or oligopolies is a sign that these issues are more easily discussed today than they were six or seven years ago. It’s funny. The last time that you were on, I believe we were talking about the case you brought against Apple, and you made the same point, right? Right before everything changes, that’s when the monopolist gets the most aggressive. With Apple, it’s the App Store. With Google, it’s tying all of its products together in various different ways. Here you are again, and we’re talking about what would be the challengers. We’re talking about the AI companies that might disrupt Apple’s interface. Jony Ive has gone to make hardware devices at OpenAI and Apple is suing them. There’s a lot going on here. But what strikes me is the conversation we’re having today is about the challengers, not the monopolists. The challengers of yesterday are often the monopolists of today. I’m not against the challengers, let me be very clear. This is why I’m against the antitrust exemption. I want them to keep pushing hard. I want them to keep competing. But I also would love to see thriving domestic open-source or open-weights models to compete. We want to promote more competition, not less. That’s really what we should be focused on: making sure that the lessons we learned from the last go-around don’t translate to this one. Competition is not about weakening the large player, it’s about making sure that the smaller players have an opportunity to compete as well. Do you think it’s surprising the Trump administration hasn’t settled the Apple case? That is the one that’s ongoing. Every day I think that it’s weird that they can’t buy their way out of that one. It is surprising. The guy showed up with gold bars to the White House. If that doesn’t do it, what will? Do you think it’s just because they still think there’s something there, or is it just leverage in the background? I have no idea. It’s a strong case. It’s a good case. You’re not a politician anymore. You can just say it. Say what you think. [Laughs] I told you the guy showed up with gold bars! [Laughs] I mentioned before that for every monopolist, you have dozens of other companies, if not hundreds, that are upset with the monopolist. Unless we fully have embraced national champions, there are a lot of companies that are frustrated, as we put in our complaint, with the tactics of Apple to control that market and exploit that market. There are countervailing forces on the other side, if I had to guess. I want to wrap this up with a big sweep. We’ve talked about a lot of issues. There’s a lot of directions in which you can come at how we should regulate AI at this moment. If you had to make your list of prescriptions, if you were the policymaker, how would you organize them and what would you say? I would start with clarity around consequences for bad things. If you build dangerous products, if your door flies off your plane while it’s in the air, if your AI breaks into someone else’s company, you should be held responsible. You have an obligation to build products that don’t do that. I think that is a very good logical place to start and it is an extension of the products liability style framework. That is a good place. We need to enumerate, and Congress should step in and say, “Here are the things we value as a society. We value mental health. We value competition. We value authenticity of information. We value intellectual property and copyright of content owners. These are the kinds of things we value and we need to make sure that those values are embedded in the lines on the road and the stop signs and the traffic lights so that everyone has clarity at the outset what’s okay and what’s not.” Maybe we’ll get a Congress that can do that in the next term. We’ll see. I hope so. I hope so. We’re going to have to have you back soon, Professor Kanter. Thank you so much for being on Decoder. My pleasure.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.419Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "regulators",
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-        "id": "a12"
-      },
-      {
-        "title": "The AI regulation smackdown isn’t over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.419Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -528,7 +562,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:34:49.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.940Z",
+        "fetchedAt": "2026-09-20T14:21:45.912Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -537,7 +571,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-        "id": "a16"
+        "id": "a18"
       },
       {
         "title": "China-based AI models trail US rivals on revenue",
@@ -547,7 +581,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-20T10:07:52.464Z",
+        "fetchedAt": "2026-09-20T14:21:52.222Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -556,7 +590,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-        "id": "a18"
+        "id": "a20"
       },
       {
         "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -566,7 +600,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:45:06.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -574,7 +608,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-        "id": "a20"
+        "id": "a22"
       },
       {
         "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -584,7 +618,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-17T21:33:42.000Z",
-        "fetchedAt": "2026-09-20T10:07:52.285Z",
+        "fetchedAt": "2026-09-20T14:21:50.632Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -593,7 +627,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-        "id": "a21"
+        "id": "a23"
       },
       {
         "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -603,7 +637,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T21:14:17.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -611,7 +645,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-        "id": "a22"
+        "id": "a24"
       },
       {
         "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -621,7 +655,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-17T15:50:09.000Z",
-        "fetchedAt": "2026-09-20T10:07:52.827Z",
+        "fetchedAt": "2026-09-20T14:21:51.084Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -630,7 +664,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-        "id": "a25"
+        "id": "a27"
       }
     ]
   },
@@ -826,38 +860,31 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-20T10:07:54.502Z",
+    "generatedAt": "2026-09-20T14:21:53.791Z",
     "date": "2026-09-20",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
           "articleIds": [
-            "a8"
+            "a13"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "Geopolitics & Export Controls: Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm",
-          "articleIds": [
-            "a12"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
           "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
           "articleIds": [
-            "a17"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
           "articleIds": [
-            "a24"
+            "a26"
           ],
           "subCategory": "platform-partner"
         }
@@ -872,7 +899,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.851Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -882,50 +909,6 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-        "id": "a8"
-      },
-      {
-        "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-        "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-        "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues. That is a lot of ideas, and I am especially curious about the antitrust piece, which has led to accusations that these companies are seeking regulatory capture, attempting to form a cartel, and even somehow finding a way out from investor pressure ahead of their IPOs. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So to make sense of it all, I called Jonathan Kanter. Jonathan brought huge antitrust cases against Google, Apple, and Ticketmaster during his time as antitrust chief, and along with Lina Khan, led what amounted to a full reboot of American antitrust policy. As you’ll hear him say, he won those cases against Google and Ticketmaster, and that case against Apple is still live in the Trump DOJ, surprising many. That reboot has also led to some surprising alliances in the AI debate — avowed libertarian and former Trump AI czar David Sacks has been approvingly retweeting Lina Khan saying there’s no need for an antitrust exemption. This is all a lot, and you’ll hear Jonathan and me really get into the weeds of how all this regulation might work, and how it might interact with antitrust law, competition policy, and our relationship with China. Okay: Jonathan Kanter, former DOJ antitrust chief, on AI safety and regulation. Here we go. This interview has been lightly edited for length and clarity. Jonathan Kanter, you’re the former head of the DOJ Antitrust Division in the Biden administration and a current professor of law at WashU and professor of technology policy at Carnegie Mellon. Welcome back to Decoder. Always a pleasure to be back. This is great. You’re a private citizen now. You don’t have to give me the politician answers. I can say whatever I want. I feel so free. I’m very excited about this. I plan to as well. I have a million questions about the state of AI regulation in America right now. There is a swirl of ideas about how we should or should not regulate these companies. There’s the Trump administration whose posture seems to be “no,” which is fascinating. You rarely see the federal government just decline to participate in the way that the Trump administration appears to be declining to participate. And then there’s an incredible backbone of antitrust concern floating throughout all of this. Are these companies trying to form a cartel? Are they aware that maybe their IPOs aren’t going to go the way they want to, so they’re seeking regulatory capture in some way that is good or bad? Are they trying to foreclose cheaper competition from open-weight Chinese models? Give me your sense of just the state of things right now, and then I want to dive into the specifics with you. The state of the world right now is like we’ve invented cars and trucks, but we have no lines on the road, no traffic lights and no stop signs and no speed limits. We’ve invented this incredibly powerful technology that’s transforming how we live our lives, how we conduct business, how we socialize, how we seek and generate and consume information. We need some basic rules of the road. I think about it on two fronts. What are the things that companies should be doing? And what are things the government should be doing? There are responsibilities on both ends. I’m happy to dive into both. Let’s just start with the very notion that asking for regulation necessarily forms a cartel. All the big frontier AI companies — OpenAI, Anthropic, Google DeepMind, even Elon Musk — do not necessarily like each other. These are people that do not necessarily like each other. They are saying in concert that they should slow down. The phrase that Dario Amodei from Anthropic is using is to “pace the frontier.” My read of this is that they simply do not trust each other, that they are in a prisoner’s dilemma and they need an outside force, most likely the government, to enforce some kind of policy framework on them that they have to agree with. Is that a fair read of just the basics here? Kind of. Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption. The most generous interpretation is that they’re afraid of the pace of innovation and the lack of regulation means they don’t see any lines on the road. They don’t know where to drive and they’re worried about driving off the road or hitting somebody else. They’re begging for the government to step in and do something. Probably there’s a modicum of truth to that. I believe they believe it could destroy humanity. I’m not sure that that doomsday scenario is accurate, but I believe they believe that. That’s the more generous version. The more cynical version is that they’re spending so much money, they’re hemorrhaging cash and they can’t keep this up, but if they pull back, it’s going to affect their valuation as part of the IPO. So they would like somebody to give them all permission to stop spending so much money and slow the pace of innovation so that they don’t have to compete as hard so they can figure out their economics before they go public. Does an agreement among all the top players in a field like this automatically form a cartel? On that cynical side of the interpretation, there’s a lot of, “You just want regulatory capture. You want to make a cartel. You want to foreclose competition.” That is a risk certainly of that kind of arrangement. Let’s walk through what’s necessary and what’s not. Let me just be very clear, these companies do not need to coordinate in order to deliver safe and secure products to society. Think about this: imagine Boeing and Airbus. Boeing fears doors falling off the plane. It wasn’t Airbus’s fault and they didn’t need to slow down innovation with Airbus in order to prevent those doors from flying off the plane. They needed to figure out how to build planes that were safer. If you build cars that explode while you’re driving, it’s not the other car company’s fault and you don’t need to come together and figure out how to solve those problems. You need to figure out what went wrong in your manufacturing process. If you create products that create AI agents that break into somebody else’s and hack somebody else’s technology, it is no different, in my mind, than having an employee go do that. You have a responsibility to build safe and secure products and companies should be held liable when their agents, whether those agents are digital and binary or whether those agents are AI or whether those agents are humans. If they start doing bad things, the company that employs them can and should be held responsible. Those are the basic rules of the road. There are areas where there is legitimate collaboration in the context of safety and security. For example, having a clearinghouse to properly share threats, malicious bots, or other things that you can create a repository for so that everyone can build safer products. Those are the kinds of collaboration that happen in other industries and you don’t need an antitrust exemption because the antitrust laws don’t prohibit that kind of work. If two companies say, “We’re competing too hard and we need to slow down,” yes, that could implicate the antitrust laws, but that’s not what we should be doing here. We should be innovating, but companies should have the responsibility to build safe and secure products and the government should be responsible for putting lines on the road that say, “If you don’t build a safe and secure product, here’s what the consequences are. If you don’t build a safe and secure product, here’s what liability might look like. If you don’t build a safe and secure product, then perhaps there should be robot jail for your agents and it should be taken off the market.” I want to dig into robot jail specifically. in the amount of pressure we’re putting on what feels like product liability law. There’s something there that I want to talk about more specifically, but my wife’s a lawyer. I told her I was talking to you this morning and I tried to explain that there are fault lines here and she just shot me that look and said, “This is just a nightmare law school hypothetical.” What you’re describing is, “Does tort law create a regulatory framework for these companies?” And somewhere in there is, “If my agent goes and hacks you, my directive is that Anthropic’s at fault. Are we going to create some kind of pass-through liability? Does that happen already or not? Do we need another law or clarification law?” What’s your view on this? If I direct my Meta Muse agent to go attack you and it does it, is that Meta’s fault? Both/and. Companies employ people and they build technology. When those people and those technologies do things that are problematic, including stealing or breaking into someone else’s property on behalf of their employer, there’s liability and that can be products liability, but it could be more than products liability. You’re just people doing bad things or companies creating technology that’s doing bad things. And the products liability framework actually did work most recently in the case against Meta for Facebook and Instagram and child safety and security and mental health. Wait, hold on. That is really fascinating to me. This is a thing I’m really interested in talking about, because it took a decade for it to work. That’s the problem! This is where the government needs to step in. Companies have an obligation today to build safe and secure products and the pace of innovation isn’t an excuse not to go do that. Let’s be very clear about that. At the same time, we’ve invented cars and trucks and trains and we have no crossings, we have no lights, we have no lines on the road. Congress is completely incapable of pretty much doing anything. While these tech companies are out there saying that they want regulation, they’re actively lobbying against it and have been for a very long time. The whole thing is a complete mess and it’s a symptom of our system, which is a complete mess. And frankly, if the political scientist in me would trace that back to things like gerrymandering and Citizens United where our process has gotten out of control and Congress, which should be doing its basic job of putting basic safety standards and responsibilities in place, hasn’t done that. That having been said, the lack of action by Congress is not an excuse to deliver dangerous products. If you believe your product is going to destroy humanity, then don’t build it. If you believe your product is going to break into someone else’s stuff, then go back to the drawing board and figure out how you build it in a way that’s safer. Guess what? That’s innovation. These are innovation problems, not just regulatory problems. We need to do a better job incentivizing our companies to build safer and secure products. When they do that, those products will perform better and we will see better innovation. Right now, innovation is asymmetric because it’s done without the proper regard for safety and security, just like we saw in social media. As a result, now we have products that are really good and really effective at letting people communicate, but really bad when it comes to childhood addiction and mental health. Perhaps we should learn our lesson and encourage people to build safer, more secure products from the get-go, at the outset of this technology. Let me make the comparison to social media regulation a little more tightly. We just had the big Meta case; that is a products liability case. Their products were designed in a way that caused harm to teenagers. Meta settled the case because I think Mark Zuckerberg would prefer to build AI than to care about moderating Facebook. But they did lose one to a jury. They usually lose one to a jury, and this case wasn’t going well, but fundamentally they settled. They gave up. There’s a view that if they had fought and appealed, they would have won on some first amendment grounds, that the product liability case maybe wasn’t as strong as we all thought it was. And the other reason I’m saying that is Meta gave in to the regulator and their posture at the end was a settlement. They gave in and they accepted some regulation. It took a long time for the product liability version of this to get a company like Meta to concede some regulation, to concede some controls— To get a company like Meta to concede some regulation, to concede some controls. If we’re saying today, “OpenAI, you are probably liable for what ChatGPT does. Anthropic, you are probably liable for what Claude does,” isn’t this the moment to actually tighten the screw and pass the regulation that says, “You are definitely liable”? Yes. This is the job of Congress, which is to clarify the law. But I think the environment today is noticeably different than the environment was 15–20 years ago. 15–20 years ago, we had Section 230, which actually granted massive amounts of immunity to online companies, which actually made it harder to sue them and gave them more flexibility to innovate without regard for consequences. We had — and this is not partisan because it can go back to the Obama administration — a very hands off, “Oh my goodness, our economy depends on these wonderful companies from Silicon Valley. Let’s let them do whatever they want and essentially allow them to set up camp at the White House and in Congress and tell us how to write or not write our rules.” The results of that have eroded or destroyed any trust the public has in these technology companies. One of the reasons we’re having this conversation a lot earlier in the process now is because people are saying, “Fool me once, shame on you. Fool me twice, shame on me.” The good news is there’s greater public awareness and appreciation for the problems and a desire to do something meaningful. The problem is we have a system in Congress because of things like Citizens United, because of things like gerrymandering that have a government that is not responsive to the needs of the people. That is the impasse that we’re all confronting. We’re going to have to, in the meantime, rely on things like products liability or others to help get us some semblance of structure. But the other piece is the states. The states have actually done a better job than the federal government. You can rewind back six months or a year, and we had people in Congress, without imposing any affirmative rules, saying we should put a 10-year moratorium on the ability of states to impose their own rules and regulations at a time when Congress had no affirmative solutions of its own. So, hopefully that moment has passed and the public is saying — and the companies are saying — “Let’s sit down and figure out something sensible.” The polling data is clear that the American public does not trust these companies, does not like these products, and is afraid of the consequences to come, even if those consequences are hazy in the long term. They seem not so hazy in the short term. Right. Some of this is that the companies have done a terrible job at messaging. They have effectively said, “We’re going to destroy all your jobs and potentially destroy humanity, but we’re going to IPO for a massive valuation and we’re going to set up camp in your local communities with data centers, which by the way, don’t employ people and drive up the cost of power. But, it’s okay. China.” I want to come to China in one second, because that feels like another very important piece of the puzzle. But you mentioned a cast of characters here, you mentioned Obama. There’s a political realignment inside this debate that I find confounding. David Sacks, who was Trump’s AI czar, is retweeting your former counterpart at the FTC, Lina Khan, saying, “The existing antitrust laws are fine. You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. They will make it so you can coordinate on security things and you’ll be liable for what you’re doing. And if you want to stop, just stop.” That is an absolutely shocking kind of political alignment to me. Where do you think that’s coming from? Actually, it’s a realignment of the realignment. Going back to Trump 1, we started seeing the kind of ends of the horseshoe starting to meet where folks left, right, and center were all concerned about the power of big tech. When people like Lina and I came into office, we had a mandate and a lot of public support, frankly, to be aggressive in enforcing the law against big tech. Then came the inevitable backlash and the Trump administration in the second incarnation was a lot more friendly with those companies rather than the first, and then it became cozy again. Now I think we’re seeing that break once more. But if I was to describe to you a day in which David Sacks is approvingly retweeting Lina Khan, while Bloomberg columnist Joe Weisenthal is saying “All these people are just saying Lina Khan was right about the power of cartels.” And hours later, Bernie Sanders and Steve Bannon are sharing a stage in DC calling for a dead stop of AI development. That doesn’t look like anything that we’ve seen before. No, no. Although again, I will say this. When I went up before Congress, I had support from Senator Mike Lee and Chuck Grassley and Josh Hawley and Matt Gaetz asked me if I was tired of winning at one of my oversight hearings. And then I had a bunch of Democrats, many of whom supported me, some of whom were very adherent to the big tech companies, who would criticize me. These signs of this stuff being all over the map have been around for a while. The fight between little tech and big tech — this is the part that I think a lot of folks don’t see from the outside, but the biggest antagonists of the big tech companies are the other tech companies. I did a speech before the Chamber of Commerce when I was in office and I brought a whole box of fake mustache and glasses. And I said, “I’m here to say thank you because all your members are coming in and helping us figure out how to bring our cases. And I know you don’t like the reputational hit of that. So here are some disguises, you can put them on next time you come in.” But the truth of the matter is most people hate the monopolist unless you’re the monopolist and companies want the opportunity to compete on the merits and win or lose on the merits of their own innovations and their own business acumen. A lot of this stuff actually has wide-range appeal. The politics of it get kind of weird and funky like you’re describing. But I think if you look at the data center issue, for example, it’s not left or right. It’s all of the above. Part of this is, to me, a situation in which we’re actually more in a healthier place, as unhealthy as the whole thing is, than we were during the internet and social media revolution where even criticizing those companies or saying we needed something was seen as a very fringe position. The truth of the matter is people want some lines on the road. They don’t want to stop innovation. They don’t want to stop progress. They’re not saying we have to burn the whole thing down, although Bernie kind of wants a complete stoppage. I don’t think that is realistic. We don’t want to stop innovation. We just want to have innovation result in safe and secure products that make us better as a society. That requires some correction in terms of the course as opposed to the path we’re on right now. I do think one notable difference between now and what happened with social media companies is that the people who ran Twitter and Facebook and YouTube did not run around saying they might kill everyone. They ran around with the banner of the righteous, they were going to bring democracy to the Middle East with the power of social media. These AI companies obviously think that they’re going to do something great. They’re going to cure all diseases, they’re going to make life better. We’re going to live in luxury communism or whatever that thing is. But they’re also very clear that unrestrained competition might lead to really enormous negative outcomes. One of the things they’re constantly talking about is China. They can all coordinate in the United States, but the United States needs to win because there’s the specter that Chinese models might overtake them and then the Chinese government will be in control of AGI or whatever thing that is scary on the horizon. What do you make of that? Is that just a convenient boogeyman? Is that real? Is that something competition law can address? It’s largely a convenient boogeyman. We’ve been dealing with these kinds of issues. I was thinking back to the breakup of AT&T. At the time, AT&T made the argument to the Reagan administration that it should not be broken up because in order to win the Cold War, we needed a national telecommunications network that was nice and strong. And the Reagan administration rejected that argument. The fact of the matter is the way to compete against China is to lean into what makes us great as a country. What makes us great as a country is we care about our people. Also, just let’s be very clear, China is not doing what we’re doing. China limits the way in which kids can interact with technology. China censors what people see in its borders. China actually manages and centrally controls a lot of its corporations through state owned enterprises and influenced enterprises. This idea that the only way to compete against China is to let us deliver unsafe products is kind of ridiculous. The way we win, whatever that means, against China is to make sure that we are delivering great innovations and products that benefit society, that we are protecting people from harmful uses of those products, and then we’re allowing a free market to function within those constraints. That’s how we beat China. As I was saying before with social media, the lack of rules and the lack of accountability resulted in a lack of innovation in how to build these products at the outset in a way that’s more safe and that’s more secure and better for, let’s say, mental health of people. It is not a bad thing and it’s not bad for innovation to require people to deliver safe and secure products. It is the responsibility of the country to make sure that our companies are innovating within the constraints, within the boundaries of a free market, but doing so in a way that is beneficial. Let me try to split the difference between your former role as antitrust chief and your current role as law professor. Give people a framework to understand how competition law domestically should interact with foreign policy. We are in some sort of national competition with China across a number of dimensions. There is a fear that if Chinese tech companies flood America with cheap-to-run, open-weight models, then all this collapses and the United States economy collapses. There’s a lot there, between how we might deal with China as a foreign adversary, or at least a geopolitical rival and our competition policy here. What’s the best framework to understand? The best framework is that we should promote dynamic aggressive competition inside the borders of the United States. We want companies, including foreign companies usually, but certainly domestic companies to compete hard because our system is a market-based system. It’s one where people innovate, and the opportunity to be successful encourages people to try new things, invest money and capital and make great products. All that is good. The idea that we need monopolies at home in order to compete abroad is antithetical to our way of life. The Boston Tea Party was founded as a revolution against the British monopoly over the necessities of life. This goes back to the founding of our country. Our freedom is in part in economic freedom and we need to make sure we promote that. Saying that we should tolerate monopolies domestically in order to compete abroad is wrong. There are legitimate questions, some of which this administration is raising, about how we deal with foreign nations that try to dump cheap products below cost and things like that. I was reading with my law students the other day a case from the 80s where the allegations were that companies in Japan were cartelizing television sets to sell them at a higher price so they can cross-subsidize below-cost pricing in the United States, in order to drive out the domestic US manufacturers. That was the height of the Chicago school libertarian movement. The Supreme Court actually used some cockamamie version of economics to suggest that wasn’t an antitrust violation, and set the stage for what happened next. There are legitimate questions about what we need to do to make sure that there is fair competition, and a fair playing field, that we are protecting the ability of people domestically to compete successfully. But the way to deal with that question is not to allow monopolization of our markets domestically in order to compete abroad. That’s just an excuse. That is leaning away from rather than into what makes us really special as a nation. I can already hear what our most skeptical members of the audience are saying. They are screaming, probably in their cars, that it’s already a monopoly, that Nvidia has circular financed, all of these companies are already coordinated, product liability theories of harm will just fall on their face because there’s no way OpenAI would ever sue Hugging Face, because Nvidia just bought Hugging Face and Nvidia’s the biggest investor in OpenAI. Do you need to go break that up? Do you need to go pull that all apart? Somebody should be looking at these issues. This is what we were starting to do when we were in office. We were saying, “There are some lines on the road now and you can’t go buy or invest in any company you want. We want competition to mean competition and that might be a little frustrating on some ends, but so long as you’re within those boundaries, go for it. Go compete as hard as you can.” This administration has taken the position that we’re going to allow a small number of companies to reach a level of dominance, or oligopoly, or monopoly so that we can beat China, whatever beating China means. And that’s the piece that I don’t quite understand. What does beating China mean? I get the idea that if China has these advanced bots that are violating and infiltrating our companies, and our government servers and the like, well fine, that’s a national security issue and we should deal with that. That’s a geopolitical issue. We should deal with that. That’s an international relations issue. We should deal with that. But the way to deal with that is not having monopolies domestically, especially when those monopolies are adherent to shareholders rather than the best interest of the public. This is a big debate across the United States government right now. The Trump administration has taken direct investment in a bunch of American companies. They’ve talked about setting up a sovereign wealth fund based in crypto. There’s more coordination between the government and private industry in a Republican administration than you would ever expect in history. Owning the means of production. What does that sound like to you? And then they call everyone else communists, which is great. Again, the realignment is wild stuff that’s happening out there. Compare owning a grocery store, a couple of grocery stores in New York to actually investing in some of the most significant technological infrastructure of our nation. Well, the grocery stores are a huge threat to the American way of life. There’s a piece of the puzzle here where the Trump administration’s approach is national champions. They’re just not saying it maybe as explicitly as you are. Do you think that approach can be unwound? Do you think competition law is compatible with that approach? It is harder to unwind it than it is to build it the right way from the get go. You hit the nail on the head. National champions. China is a country of national champions. The United States is not a country of national champions. The United States is a company where anyone could grow up to be a champion. That’s the American dream. Our promise, our way of life is based on a fundamentally different idea and ideal. The more we diverge and deviate from that, the worse off we are. I do think that is a bad policy, and it will be harder to undo the more it calcifies. Again, this is not anti-business or anti-market, just to be very clear. I’m a capitalist. I’m a card-carrying capitalist. I’m proud to say I am. The world that I want is one where everyone can be investing, everyone can be building a company, and that there are rules around the edges in terms of monopolizing markets. But within that, everyone should compete as hard as they can, build, grow, and do all sorts of amazing things. That is a better version of our country, one that got us to the place of economic power and dominance globally. We are more vulnerable when we have central points of failure, and we are less free when we have a small number of companies that are telling us how to live our lives. I’m for the 1,000 flowers blooming inside the borders of the United States. It is just remarkable to me. We’re weeks away from the midterm elections. That is something a traditional conservative from the 90s would have said about the power of the free markets. What do you make of this moment? If you had to describe the policy positions of conservatives, and if you had to describe the policy positions of the median Republican and the median Democrat headed into the midterms around this issue, are they compatible? Are they at war? Is it a total scramble? It’s a total scramble. I’ll take one issue. I don’t think what I articulated is that of a conservative from the 90s. I think the conservatives of the 90s were about antitrust and competition policy, and all of these ideas that were very central to the development and growth of our country, from the 40s to the 70s, should be thrown away and we should let industry consolidate. And we did, we saw industry consolidate. That is part of the reason why we have a lot of the problems that we have today, including the K-shaped economy, and the sense of opportunity not being widely available. In terms of your question, it is a scramble. The plates are shifting and where everything ends up is still unclear. We are living through the transformation of our politics and our ideals, and Republicans, Democrats, conservatives, and progressives and all these other different flavors will not mean in 15 years what they meant 15 years ago. It’s a little bit unclear how that’s all going to play out, but we are literally living through that transformation right now, which is kind of remarkable. It’s an interesting thing to observe as somebody who likes to study markets, technology, and policy. Again, not all of this is bad. We do need some realignment. We need to take an inward look at the way we’re governing our society, the way we’re encouraging our markets to structure, and think about whether there are things we should do differently. But what we are living through is two things that are happening. One is from the 80s to probably the 2010s, we were living through the Reagan era of neoliberal politics and policy. The left and right have both rebelled against that. That nail in the coffin is being hammered in as we speak. The other thing that’s happening that is even more fascinating is we have been living in the New Deal era for nearly 100 years. That era is over, and what comes next is a jump ball, but it’s over in terms of the role of government, the role of policy, the role of our international relations. All of that is being rebuilt or stripped down to the studs, including our government agencies themselves, our regulatory structure. The way this AI issue would’ve been handled 50 years ago is we would’ve created a Department for AI Safety or something, and they would’ve promulgated rules and they would had folks looking at it. And that might not have been the right approach, but that’s what would’ve been the approach. The Supreme Court has essentially thrown that out the window. It’s no longer what we have. Now we have an executive branch that basically decides on its whims what it wants to do on a daily basis. The whole thing is just completely a mess. Trump’s approach to this is, “You don’t need a regulator, you need a great president, and that’s me.” I saw that and I thought, “But what you would do is regulate them. So you should just hire some people to do it. You should just delegate, like any boss would do.” This is the irony. A good friend of mine, Dave Lawrence, wrote a piece in the New York Times a few weeks ago saying just this, which is that the Supreme Court has said, “We don’t want agencies and regulators promulgating rules and answering major questions, which is supposed to be the purview of Congress.” But instead they’ve essentially allowed the executive branch to do it without any process, without any input, and essentially with very little structure, which does lead to regulatory capture, which does lead to inadequate or inequitable outcomes. That’s what we’re confronting right now. Again, this is all consistent with what I was saying a few moments ago, which is kind of ripping down to the studs of the New Deal era. The government infrastructure that we relied on to figure out how to deal with all these things has essentially been destroyed. Now we don’t really have the resources or the structure in place to deal with these kinds of existential problems. Instead, we have Congress, and Congress is largely ineffective because of things like Citizens United and gerrymandering, which have essentially made all politics national and all politics tribal. Let me ask you two questions to wrap this up. You mentioned some eras. You, along with Lina Khan, brought forth a new era in antitrust. Some people called it hipster antitrust. The academics called it neo-Brandeisian antitrust. Just look at my hairline. I’m far from a hipster. You’re much cooler than I am. But the idea that we would bring back aggressive antitrust enforcement on theories of the law that weren’t simply related to consumer prices going up or down, that was new. That was something you brought forth. You brought a lot of cases against [companies like] Apple. Successfully. We won our cases. Our cases on the law won. We beat Google in court twice. We survived our motion to dismiss on Apple. We put together a Ticketmaster case that even when the Trump administration tried to settle it, actually won in front of a jury in court. The stuff we did worked. We brought cases on algorithmic pricing in healthcare. We fought for the public because the public wanted someone to fight for them. The settlements in the Google cases did not achieve the results you were advocating. Not the settlements, the remedies. Which I did not preside over. I presided over the victories. We handed the baton over to the next administration. The remedies were admittedly disappointing. Could we have achieved a different outcome? I don’t know. I would’ve liked the opportunity to try, but we didn’t. So that’s disappointing. But it doesn’t change the fact that we changed the game. We changed the approach, and the state of antitrust law and the state of competition policy was a heck of a lot better when we left it than when we started. Do you think that that era persists? There are some people, especially in tech policy, who would say, “This was all a failure. We should call this what it was. It was a failure. It did not result in structural change and we should move on from this”? Not at all. It’s not a failure. Did we finish the job? No. There’s a lot more to go. It relates to the challenge that we were talking about earlier, which is that it’s harder to address something after it calcifies. We were coming in after these markets had hardened, trying to figure out how to create competition. I’ve always been fond of saying that what you really want to do is you want to protect the next inflection point. Especially in technology and platforms, what comes next is likely to be highly disruptive, and competition has its greatest promise at that moment. That’s when incumbents tend to be most aggressive in trying to prevent upstarts and others from competing. I do think the conversation we’re having around competition, this conversation today, the fact that folks on the left and right are already concerned about monopolies or oligopolies is a sign that these issues are more easily discussed today than they were six or seven years ago. It’s funny. The last time that you were on, I believe we were talking about the case you brought against Apple, and you made the same point, right? Right before everything changes, that’s when the monopolist gets the most aggressive. With Apple, it’s the App Store. With Google, it’s tying all of its products together in various different ways. Here you are again, and we’re talking about what would be the challengers. We’re talking about the AI companies that might disrupt Apple’s interface. Jony Ive has gone to make hardware devices at OpenAI and Apple is suing them. There’s a lot going on here. But what strikes me is the conversation we’re having today is about the challengers, not the monopolists. The challengers of yesterday are often the monopolists of today. I’m not against the challengers, let me be very clear. This is why I’m against the antitrust exemption. I want them to keep pushing hard. I want them to keep competing. But I also would love to see thriving domestic open-source or open-weights models to compete. We want to promote more competition, not less. That’s really what we should be focused on: making sure that the lessons we learned from the last go-around don’t translate to this one. Competition is not about weakening the large player, it’s about making sure that the smaller players have an opportunity to compete as well. Do you think it’s surprising the Trump administration hasn’t settled the Apple case? That is the one that’s ongoing. Every day I think that it’s weird that they can’t buy their way out of that one. It is surprising. The guy showed up with gold bars to the White House. If that doesn’t do it, what will? Do you think it’s just because they still think there’s something there, or is it just leverage in the background? I have no idea. It’s a strong case. It’s a good case. You’re not a politician anymore. You can just say it. Say what you think. [Laughs] I told you the guy showed up with gold bars! [Laughs] I mentioned before that for every monopolist, you have dozens of other companies, if not hundreds, that are upset with the monopolist. Unless we fully have embraced national champions, there are a lot of companies that are frustrated, as we put in our complaint, with the tactics of Apple to control that market and exploit that market. There are countervailing forces on the other side, if I had to guess. I want to wrap this up with a big sweep. We’ve talked about a lot of issues. There’s a lot of directions in which you can come at how we should regulate AI at this moment. If you had to make your list of prescriptions, if you were the policymaker, how would you organize them and what would you say? I would start with clarity around consequences for bad things. If you build dangerous products, if your door flies off your plane while it’s in the air, if your AI breaks into someone else’s company, you should be held responsible. You have an obligation to build products that don’t do that. I think that is a very good logical place to start and it is an extension of the products liability style framework. That is a good place. We need to enumerate, and Congress should step in and say, “Here are the things we value as a society. We value mental health. We value competition. We value authenticity of information. We value intellectual property and copyright of content owners. These are the kinds of things we value and we need to make sure that those values are embedded in the lines on the road and the stop signs and the traffic lights so that everyone has clarity at the outset what’s okay and what’s not.” Maybe we’ll get a Congress that can do that in the next term. We’ll see. I hope so. I hope so. We’re going to have to have you back soon, Professor Kanter. Thank you so much for being on Decoder. My pleasure.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-19T14:00:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.419Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "regulators",
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-        "id": "a12"
-      },
-      {
-        "title": "The AI regulation smackdown isn’t over",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-        "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-19T13:00:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:49.419Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
         "id": "a13"
       },
       {
@@ -936,7 +919,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -946,7 +929,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a17"
+        "id": "a19"
       },
       {
         "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -956,7 +939,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T18:43:02.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -966,7 +949,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-        "id": "a24"
+        "id": "a26"
       },
       {
         "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -976,7 +959,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-17T15:40:00.000Z",
-        "fetchedAt": "2026-09-20T10:07:48.852Z",
+        "fetchedAt": "2026-09-20T14:21:46.023Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -986,7 +969,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-        "id": "a26"
+        "id": "a28"
       }
     ]
   },
@@ -4616,11 +4599,11 @@ export const NEWS_DATA = {
     "totalArticles": 31
   },
   "archive-2026-09-20": {
-    "generatedAt": "2026-09-20T10:07:54.505Z",
+    "generatedAt": "2026-09-20T14:21:53.793Z",
     "date": "2026-09-20",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -4630,14 +4613,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
               "articleIds": [
-                "a8"
+                "a13"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a17"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             }
@@ -4652,7 +4635,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T18:30:02.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.851Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4662,7 +4645,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-            "id": "a8"
+            "id": "a13"
           },
           {
             "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -4672,7 +4655,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:58:45.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.851Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4680,7 +4663,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-            "id": "a15"
+            "id": "a17"
           },
           {
             "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -4690,7 +4673,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -4700,7 +4683,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a17"
+            "id": "a19"
           },
           {
             "title": "Trump-Xi Dinner Next Week Brings AI Titans To The Table — OpenAI, NVDA, and QCOM CEOs To Attend, Says Report",
@@ -4710,7 +4693,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T22:30:42.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4718,7 +4701,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Sam Altman, Jensen Huang and Cristiano Amon are reportedly expected at the September 24 summit as AI safety, development standards and chip access emerge as potential discussion points.",
-            "id": "a19"
+            "id": "a21"
           },
           {
             "title": "Qualcomm Just Rallied 18% in a Month: Take Profits, or Buy More?",
@@ -4728,7 +4711,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T19:22:33.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4736,7 +4719,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted its best month in a while, but its two closest peers beat it handily during the same rally. Whether that gap signals a buying opportunity or a warning depends entirely on what actually drove the move.",
-            "id": "a23"
+            "id": "a25"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -4746,7 +4729,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -4756,12 +4739,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a26"
+            "id": "a28"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -4772,7 +4755,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -4782,7 +4765,7 @@ export const NEWS_DATA = {
             {
               "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
               "articleIds": [
-                "a14"
+                "a16"
               ],
               "subCategory": "on-device-ai"
             }
@@ -4797,7 +4780,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T04:19:37.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -4805,42 +4788,139 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-            "id": "a14"
+            "id": "a16"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Supply Chain: Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
+              "text": "Geopolitics & Export Controls: Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restr",
               "articleIds": [
                 "a1"
-              ],
-              "subCategory": "supply-chain"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Penalties against businesses on occupied Palestinian land could have far-reaching consequences",
-              "articleIds": [
-                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
+              "text": "Supply Chain: Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "supply-chain"
+            },
+            {
               "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
               "articleIds": [
-                "a20"
+                "a22"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Meloni Eyes More Stringent School Laws to Counter Far-Right Rise",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise",
+            "description": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T13:41:03.000Z",
+            "fetchedAt": "2026-09-20T14:21:46.377Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
+            "id": "a1"
+          },
+          {
+            "title": "AI is a powerful but problematic new collaborator in mathematics",
+            "url": "https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203",
+            "description": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T13:00:03.000Z",
+            "fetchedAt": "2026-09-20T14:21:46.443Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
+            "id": "a2"
+          },
+          {
+            "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+            "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+            "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T12:47:23.000Z",
+            "fetchedAt": "2026-09-20T14:21:45.912Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+            "id": "a3"
+          },
+          {
+            "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTViYnZjeGVZOTVwVjV5NmNqSmhrNU9HaGRkaDhkMS00REx0dXdta2p4d0Itd2VZTVE1bFhmc1dDWG9scEMyRnFVandkZURKdExvbi14cmwxUVRzY08tNks2WFVYUENZY0RPSm00dWE0ZW14TThGcnpDQnhNVmg3QnUzZV85V3F2YVN0T19jUllMVjk1VUZmbVFqcGZQYWZxQTVpQ05YQnpIaXJzMVVXc0VxZnROUWRfNTFOY0w3SE1XVHRhd1NYTElB?oc=5",
+            "description": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T12:18:52.000Z",
+            "fetchedAt": "2026-09-20T14:21:53.759Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
+            "id": "a4"
+          },
+          {
+            "title": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass - Tech Times",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNM3lKdkZXRzZOcVdjMjFycUcwUTBkR1l3U1NudVBvV0lYNmNnNnZFZUJSUnp2cFJ6ZHpNLU5HMVNIcF9OVU03V1h6eXAxbEV4cm5pM05Rcm1HZW1NS0U5MDhvbEpNSElaUWNoN1BnaXFkZ3ZFRkpQeHFsaWk2dnpYb0pLVkdNdTJ1Zjc4aHlZdkVaNUxkbkg5akNHQnBWNUZ4VERFU25WUXpwTExjcXhOV3o4WTFRbDlBMnZ5clBHZXRNbC0xZmFzOHVyUFY3QXlMU3U3ZA?oc=5",
+            "description": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass Tech Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T07:21:21.000Z",
+            "fetchedAt": "2026-09-20T14:21:53.759Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Tech Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass Tech Times",
+            "id": "a5"
+          },
           {
             "title": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said - dominotheory.com",
             "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQZThCRzdmcTEyOVJpYWpYRllZZFR5MTlpVlVTSHRXYUpzbkJTRWJCSmVKQk4tQTVnSVEyWGkxYUR0NzF2ZVp5a1NBNzQxZkg0Yl9HVUppeEhfNjZWM05GUEVhOGVsbnhGTDRudXpxbmpCSE9VT1lqRmh6MGU1SFVNdXNTT2ZyM3Y4Y0FYTmt5VE9IRUpFZ1N0elZhdlNxY1NIWnF0ZWFIYUduSGxUYlI5SHNSM2xGdVZidVNQWFc3bktFY0k?oc=5",
@@ -4849,7 +4929,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T06:14:15.000Z",
-            "fetchedAt": "2026-09-20T10:07:54.464Z",
+            "fetchedAt": "2026-09-20T14:21:53.759Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "dominotheory.com",
             "geopoliticalBypass": true,
@@ -4859,7 +4939,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
-            "id": "a1"
+            "id": "a6"
           },
           {
             "title": "Israel’s settler economy braces for European sanctions",
@@ -4869,7 +4949,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T04:00:11.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.358Z",
+            "fetchedAt": "2026-09-20T14:21:46.443Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4878,7 +4958,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Penalties against businesses on occupied Palestinian land could have far-reaching consequences",
-            "id": "a2"
+            "id": "a7"
           },
           {
             "title": "Saudi Arabia quits China-led cross-border currency platform",
@@ -4888,7 +4968,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T04:00:03.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.358Z",
+            "fetchedAt": "2026-09-20T14:21:46.443Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4897,7 +4977,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Kingdom’s central bank withdrew from programme which is part of Beijing’s effort to develop an alternative system to the dollar",
-            "id": "a3"
+            "id": "a8"
           },
           {
             "title": "China to Step Up Curbs Against Malicious Price Competition",
@@ -4907,7 +4987,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T03:53:22.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.847Z",
+            "fetchedAt": "2026-09-20T14:21:46.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4916,7 +4996,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration for Market Regulation said at a State Council Information Office briefing on Sunday.",
-            "id": "a4"
+            "id": "a9"
           },
           {
             "title": "China August Power Use Tops 1 Trillion kWh, Load Hits Record",
@@ -4926,7 +5006,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T03:35:37.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.847Z",
+            "fetchedAt": "2026-09-20T14:21:46.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4935,7 +5015,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
-            "id": "a5"
+            "id": "a10"
           },
           {
             "title": "China’s Smart-Glasses Sales Double in First Eight Months of Year",
@@ -4945,7 +5025,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T02:23:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.847Z",
+            "fetchedAt": "2026-09-20T14:21:46.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4954,7 +5034,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gained about 27%, the Ministry of Commerce said in a statement on Sunday.",
-            "id": "a6"
+            "id": "a11"
           },
           {
             "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
@@ -4964,7 +5044,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T00:39:58.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.847Z",
+            "fetchedAt": "2026-09-20T14:21:46.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -4973,7 +5053,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
-            "id": "a7"
+            "id": "a12"
           },
           {
             "title": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
@@ -4983,7 +5063,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T17:32:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:54.464Z",
+            "fetchedAt": "2026-09-20T14:21:53.759Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "bgr.com",
             "geopoliticalBypass": true,
@@ -4993,7 +5073,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
-            "id": "a9"
+            "id": "a14"
           },
           {
             "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
@@ -5003,7 +5083,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T16:33:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:54.464Z",
+            "fetchedAt": "2026-09-20T14:21:53.759Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "India's News.Net",
             "geopoliticalBypass": true,
@@ -5013,70 +5093,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
-            "id": "a10"
-          },
-          {
-            "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-19/india-s-silicon-valley-is-straining-under-its-own-growth-video",
-            "description": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-19T14:03:36.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.847Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed.",
-            "id": "a11"
-          },
-          {
-            "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-            "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-            "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues. That is a lot of ideas, and I am especially curious about the antitrust piece, which has led to accusations that these companies are seeking regulatory capture, attempting to form a cartel, and even somehow finding a way out from investor pressure ahead of their IPOs. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So to make sense of it all, I called Jonathan Kanter. Jonathan brought huge antitrust cases against Google, Apple, and Ticketmaster during his time as antitrust chief, and along with Lina Khan, led what amounted to a full reboot of American antitrust policy. As you’ll hear him say, he won those cases against Google and Ticketmaster, and that case against Apple is still live in the Trump DOJ, surprising many. That reboot has also led to some surprising alliances in the AI debate — avowed libertarian and former Trump AI czar David Sacks has been approvingly retweeting Lina Khan saying there’s no need for an antitrust exemption. This is all a lot, and you’ll hear Jonathan and me really get into the weeds of how all this regulation might work, and how it might interact with antitrust law, competition policy, and our relationship with China. Okay: Jonathan Kanter, former DOJ antitrust chief, on AI safety and regulation. Here we go. This interview has been lightly edited for length and clarity. Jonathan Kanter, you’re the former head of the DOJ Antitrust Division in the Biden administration and a current professor of law at WashU and professor of technology policy at Carnegie Mellon. Welcome back to Decoder. Always a pleasure to be back. This is great. You’re a private citizen now. You don’t have to give me the politician answers. I can say whatever I want. I feel so free. I’m very excited about this. I plan to as well. I have a million questions about the state of AI regulation in America right now. There is a swirl of ideas about how we should or should not regulate these companies. There’s the Trump administration whose posture seems to be “no,” which is fascinating. You rarely see the federal government just decline to participate in the way that the Trump administration appears to be declining to participate. And then there’s an incredible backbone of antitrust concern floating throughout all of this. Are these companies trying to form a cartel? Are they aware that maybe their IPOs aren’t going to go the way they want to, so they’re seeking regulatory capture in some way that is good or bad? Are they trying to foreclose cheaper competition from open-weight Chinese models? Give me your sense of just the state of things right now, and then I want to dive into the specifics with you. The state of the world right now is like we’ve invented cars and trucks, but we have no lines on the road, no traffic lights and no stop signs and no speed limits. We’ve invented this incredibly powerful technology that’s transforming how we live our lives, how we conduct business, how we socialize, how we seek and generate and consume information. We need some basic rules of the road. I think about it on two fronts. What are the things that companies should be doing? And what are things the government should be doing? There are responsibilities on both ends. I’m happy to dive into both. Let’s just start with the very notion that asking for regulation necessarily forms a cartel. All the big frontier AI companies — OpenAI, Anthropic, Google DeepMind, even Elon Musk — do not necessarily like each other. These are people that do not necessarily like each other. They are saying in concert that they should slow down. The phrase that Dario Amodei from Anthropic is using is to “pace the frontier.” My read of this is that they simply do not trust each other, that they are in a prisoner’s dilemma and they need an outside force, most likely the government, to enforce some kind of policy framework on them that they have to agree with. Is that a fair read of just the basics here? Kind of. Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption. The most generous interpretation is that they’re afraid of the pace of innovation and the lack of regulation means they don’t see any lines on the road. They don’t know where to drive and they’re worried about driving off the road or hitting somebody else. They’re begging for the government to step in and do something. Probably there’s a modicum of truth to that. I believe they believe it could destroy humanity. I’m not sure that that doomsday scenario is accurate, but I believe they believe that. That’s the more generous version. The more cynical version is that they’re spending so much money, they’re hemorrhaging cash and they can’t keep this up, but if they pull back, it’s going to affect their valuation as part of the IPO. So they would like somebody to give them all permission to stop spending so much money and slow the pace of innovation so that they don’t have to compete as hard so they can figure out their economics before they go public. Does an agreement among all the top players in a field like this automatically form a cartel? On that cynical side of the interpretation, there’s a lot of, “You just want regulatory capture. You want to make a cartel. You want to foreclose competition.” That is a risk certainly of that kind of arrangement. Let’s walk through what’s necessary and what’s not. Let me just be very clear, these companies do not need to coordinate in order to deliver safe and secure products to society. Think about this: imagine Boeing and Airbus. Boeing fears doors falling off the plane. It wasn’t Airbus’s fault and they didn’t need to slow down innovation with Airbus in order to prevent those doors from flying off the plane. They needed to figure out how to build planes that were safer. If you build cars that explode while you’re driving, it’s not the other car company’s fault and you don’t need to come together and figure out how to solve those problems. You need to figure out what went wrong in your manufacturing process. If you create products that create AI agents that break into somebody else’s and hack somebody else’s technology, it is no different, in my mind, than having an employee go do that. You have a responsibility to build safe and secure products and companies should be held liable when their agents, whether those agents are digital and binary or whether those agents are AI or whether those agents are humans. If they start doing bad things, the company that employs them can and should be held responsible. Those are the basic rules of the road. There are areas where there is legitimate collaboration in the context of safety and security. For example, having a clearinghouse to properly share threats, malicious bots, or other things that you can create a repository for so that everyone can build safer products. Those are the kinds of collaboration that happen in other industries and you don’t need an antitrust exemption because the antitrust laws don’t prohibit that kind of work. If two companies say, “We’re competing too hard and we need to slow down,” yes, that could implicate the antitrust laws, but that’s not what we should be doing here. We should be innovating, but companies should have the responsibility to build safe and secure products and the government should be responsible for putting lines on the road that say, “If you don’t build a safe and secure product, here’s what the consequences are. If you don’t build a safe and secure product, here’s what liability might look like. If you don’t build a safe and secure product, then perhaps there should be robot jail for your agents and it should be taken off the market.” I want to dig into robot jail specifically. in the amount of pressure we’re putting on what feels like product liability law. There’s something there that I want to talk about more specifically, but my wife’s a lawyer. I told her I was talking to you this morning and I tried to explain that there are fault lines here and she just shot me that look and said, “This is just a nightmare law school hypothetical.” What you’re describing is, “Does tort law create a regulatory framework for these companies?” And somewhere in there is, “If my agent goes and hacks you, my directive is that Anthropic’s at fault. Are we going to create some kind of pass-through liability? Does that happen already or not? Do we need another law or clarification law?” What’s your view on this? If I direct my Meta Muse agent to go attack you and it does it, is that Meta’s fault? Both/and. Companies employ people and they build technology. When those people and those technologies do things that are problematic, including stealing or breaking into someone else’s property on behalf of their employer, there’s liability and that can be products liability, but it could be more than products liability. You’re just people doing bad things or companies creating technology that’s doing bad things. And the products liability framework actually did work most recently in the case against Meta for Facebook and Instagram and child safety and security and mental health. Wait, hold on. That is really fascinating to me. This is a thing I’m really interested in talking about, because it took a decade for it to work. That’s the problem! This is where the government needs to step in. Companies have an obligation today to build safe and secure products and the pace of innovation isn’t an excuse not to go do that. Let’s be very clear about that. At the same time, we’ve invented cars and trucks and trains and we have no crossings, we have no lights, we have no lines on the road. Congress is completely incapable of pretty much doing anything. While these tech companies are out there saying that they want regulation, they’re actively lobbying against it and have been for a very long time. The whole thing is a complete mess and it’s a symptom of our system, which is a complete mess. And frankly, if the political scientist in me would trace that back to things like gerrymandering and Citizens United where our process has gotten out of control and Congress, which should be doing its basic job of putting basic safety standards and responsibilities in place, hasn’t done that. That having been said, the lack of action by Congress is not an excuse to deliver dangerous products. If you believe your product is going to destroy humanity, then don’t build it. If you believe your product is going to break into someone else’s stuff, then go back to the drawing board and figure out how you build it in a way that’s safer. Guess what? That’s innovation. These are innovation problems, not just regulatory problems. We need to do a better job incentivizing our companies to build safer and secure products. When they do that, those products will perform better and we will see better innovation. Right now, innovation is asymmetric because it’s done without the proper regard for safety and security, just like we saw in social media. As a result, now we have products that are really good and really effective at letting people communicate, but really bad when it comes to childhood addiction and mental health. Perhaps we should learn our lesson and encourage people to build safer, more secure products from the get-go, at the outset of this technology. Let me make the comparison to social media regulation a little more tightly. We just had the big Meta case; that is a products liability case. Their products were designed in a way that caused harm to teenagers. Meta settled the case because I think Mark Zuckerberg would prefer to build AI than to care about moderating Facebook. But they did lose one to a jury. They usually lose one to a jury, and this case wasn’t going well, but fundamentally they settled. They gave up. There’s a view that if they had fought and appealed, they would have won on some first amendment grounds, that the product liability case maybe wasn’t as strong as we all thought it was. And the other reason I’m saying that is Meta gave in to the regulator and their posture at the end was a settlement. They gave in and they accepted some regulation. It took a long time for the product liability version of this to get a company like Meta to concede some regulation, to concede some controls— To get a company like Meta to concede some regulation, to concede some controls. If we’re saying today, “OpenAI, you are probably liable for what ChatGPT does. Anthropic, you are probably liable for what Claude does,” isn’t this the moment to actually tighten the screw and pass the regulation that says, “You are definitely liable”? Yes. This is the job of Congress, which is to clarify the law. But I think the environment today is noticeably different than the environment was 15–20 years ago. 15–20 years ago, we had Section 230, which actually granted massive amounts of immunity to online companies, which actually made it harder to sue them and gave them more flexibility to innovate without regard for consequences. We had — and this is not partisan because it can go back to the Obama administration — a very hands off, “Oh my goodness, our economy depends on these wonderful companies from Silicon Valley. Let’s let them do whatever they want and essentially allow them to set up camp at the White House and in Congress and tell us how to write or not write our rules.” The results of that have eroded or destroyed any trust the public has in these technology companies. One of the reasons we’re having this conversation a lot earlier in the process now is because people are saying, “Fool me once, shame on you. Fool me twice, shame on me.” The good news is there’s greater public awareness and appreciation for the problems and a desire to do something meaningful. The problem is we have a system in Congress because of things like Citizens United, because of things like gerrymandering that have a government that is not responsive to the needs of the people. That is the impasse that we’re all confronting. We’re going to have to, in the meantime, rely on things like products liability or others to help get us some semblance of structure. But the other piece is the states. The states have actually done a better job than the federal government. You can rewind back six months or a year, and we had people in Congress, without imposing any affirmative rules, saying we should put a 10-year moratorium on the ability of states to impose their own rules and regulations at a time when Congress had no affirmative solutions of its own. So, hopefully that moment has passed and the public is saying — and the companies are saying — “Let’s sit down and figure out something sensible.” The polling data is clear that the American public does not trust these companies, does not like these products, and is afraid of the consequences to come, even if those consequences are hazy in the long term. They seem not so hazy in the short term. Right. Some of this is that the companies have done a terrible job at messaging. They have effectively said, “We’re going to destroy all your jobs and potentially destroy humanity, but we’re going to IPO for a massive valuation and we’re going to set up camp in your local communities with data centers, which by the way, don’t employ people and drive up the cost of power. But, it’s okay. China.” I want to come to China in one second, because that feels like another very important piece of the puzzle. But you mentioned a cast of characters here, you mentioned Obama. There’s a political realignment inside this debate that I find confounding. David Sacks, who was Trump’s AI czar, is retweeting your former counterpart at the FTC, Lina Khan, saying, “The existing antitrust laws are fine. You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. They will make it so you can coordinate on security things and you’ll be liable for what you’re doing. And if you want to stop, just stop.” That is an absolutely shocking kind of political alignment to me. Where do you think that’s coming from? Actually, it’s a realignment of the realignment. Going back to Trump 1, we started seeing the kind of ends of the horseshoe starting to meet where folks left, right, and center were all concerned about the power of big tech. When people like Lina and I came into office, we had a mandate and a lot of public support, frankly, to be aggressive in enforcing the law against big tech. Then came the inevitable backlash and the Trump administration in the second incarnation was a lot more friendly with those companies rather than the first, and then it became cozy again. Now I think we’re seeing that break once more. But if I was to describe to you a day in which David Sacks is approvingly retweeting Lina Khan, while Bloomberg columnist Joe Weisenthal is saying “All these people are just saying Lina Khan was right about the power of cartels.” And hours later, Bernie Sanders and Steve Bannon are sharing a stage in DC calling for a dead stop of AI development. That doesn’t look like anything that we’ve seen before. No, no. Although again, I will say this. When I went up before Congress, I had support from Senator Mike Lee and Chuck Grassley and Josh Hawley and Matt Gaetz asked me if I was tired of winning at one of my oversight hearings. And then I had a bunch of Democrats, many of whom supported me, some of whom were very adherent to the big tech companies, who would criticize me. These signs of this stuff being all over the map have been around for a while. The fight between little tech and big tech — this is the part that I think a lot of folks don’t see from the outside, but the biggest antagonists of the big tech companies are the other tech companies. I did a speech before the Chamber of Commerce when I was in office and I brought a whole box of fake mustache and glasses. And I said, “I’m here to say thank you because all your members are coming in and helping us figure out how to bring our cases. And I know you don’t like the reputational hit of that. So here are some disguises, you can put them on next time you come in.” But the truth of the matter is most people hate the monopolist unless you’re the monopolist and companies want the opportunity to compete on the merits and win or lose on the merits of their own innovations and their own business acumen. A lot of this stuff actually has wide-range appeal. The politics of it get kind of weird and funky like you’re describing. But I think if you look at the data center issue, for example, it’s not left or right. It’s all of the above. Part of this is, to me, a situation in which we’re actually more in a healthier place, as unhealthy as the whole thing is, than we were during the internet and social media revolution where even criticizing those companies or saying we needed something was seen as a very fringe position. The truth of the matter is people want some lines on the road. They don’t want to stop innovation. They don’t want to stop progress. They’re not saying we have to burn the whole thing down, although Bernie kind of wants a complete stoppage. I don’t think that is realistic. We don’t want to stop innovation. We just want to have innovation result in safe and secure products that make us better as a society. That requires some correction in terms of the course as opposed to the path we’re on right now. I do think one notable difference between now and what happened with social media companies is that the people who ran Twitter and Facebook and YouTube did not run around saying they might kill everyone. They ran around with the banner of the righteous, they were going to bring democracy to the Middle East with the power of social media. These AI companies obviously think that they’re going to do something great. They’re going to cure all diseases, they’re going to make life better. We’re going to live in luxury communism or whatever that thing is. But they’re also very clear that unrestrained competition might lead to really enormous negative outcomes. One of the things they’re constantly talking about is China. They can all coordinate in the United States, but the United States needs to win because there’s the specter that Chinese models might overtake them and then the Chinese government will be in control of AGI or whatever thing that is scary on the horizon. What do you make of that? Is that just a convenient boogeyman? Is that real? Is that something competition law can address? It’s largely a convenient boogeyman. We’ve been dealing with these kinds of issues. I was thinking back to the breakup of AT&T. At the time, AT&T made the argument to the Reagan administration that it should not be broken up because in order to win the Cold War, we needed a national telecommunications network that was nice and strong. And the Reagan administration rejected that argument. The fact of the matter is the way to compete against China is to lean into what makes us great as a country. What makes us great as a country is we care about our people. Also, just let’s be very clear, China is not doing what we’re doing. China limits the way in which kids can interact with technology. China censors what people see in its borders. China actually manages and centrally controls a lot of its corporations through state owned enterprises and influenced enterprises. This idea that the only way to compete against China is to let us deliver unsafe products is kind of ridiculous. The way we win, whatever that means, against China is to make sure that we are delivering great innovations and products that benefit society, that we are protecting people from harmful uses of those products, and then we’re allowing a free market to function within those constraints. That’s how we beat China. As I was saying before with social media, the lack of rules and the lack of accountability resulted in a lack of innovation in how to build these products at the outset in a way that’s more safe and that’s more secure and better for, let’s say, mental health of people. It is not a bad thing and it’s not bad for innovation to require people to deliver safe and secure products. It is the responsibility of the country to make sure that our companies are innovating within the constraints, within the boundaries of a free market, but doing so in a way that is beneficial. Let me try to split the difference between your former role as antitrust chief and your current role as law professor. Give people a framework to understand how competition law domestically should interact with foreign policy. We are in some sort of national competition with China across a number of dimensions. There is a fear that if Chinese tech companies flood America with cheap-to-run, open-weight models, then all this collapses and the United States economy collapses. There’s a lot there, between how we might deal with China as a foreign adversary, or at least a geopolitical rival and our competition policy here. What’s the best framework to understand? The best framework is that we should promote dynamic aggressive competition inside the borders of the United States. We want companies, including foreign companies usually, but certainly domestic companies to compete hard because our system is a market-based system. It’s one where people innovate, and the opportunity to be successful encourages people to try new things, invest money and capital and make great products. All that is good. The idea that we need monopolies at home in order to compete abroad is antithetical to our way of life. The Boston Tea Party was founded as a revolution against the British monopoly over the necessities of life. This goes back to the founding of our country. Our freedom is in part in economic freedom and we need to make sure we promote that. Saying that we should tolerate monopolies domestically in order to compete abroad is wrong. There are legitimate questions, some of which this administration is raising, about how we deal with foreign nations that try to dump cheap products below cost and things like that. I was reading with my law students the other day a case from the 80s where the allegations were that companies in Japan were cartelizing television sets to sell them at a higher price so they can cross-subsidize below-cost pricing in the United States, in order to drive out the domestic US manufacturers. That was the height of the Chicago school libertarian movement. The Supreme Court actually used some cockamamie version of economics to suggest that wasn’t an antitrust violation, and set the stage for what happened next. There are legitimate questions about what we need to do to make sure that there is fair competition, and a fair playing field, that we are protecting the ability of people domestically to compete successfully. But the way to deal with that question is not to allow monopolization of our markets domestically in order to compete abroad. That’s just an excuse. That is leaning away from rather than into what makes us really special as a nation. I can already hear what our most skeptical members of the audience are saying. They are screaming, probably in their cars, that it’s already a monopoly, that Nvidia has circular financed, all of these companies are already coordinated, product liability theories of harm will just fall on their face because there’s no way OpenAI would ever sue Hugging Face, because Nvidia just bought Hugging Face and Nvidia’s the biggest investor in OpenAI. Do you need to go break that up? Do you need to go pull that all apart? Somebody should be looking at these issues. This is what we were starting to do when we were in office. We were saying, “There are some lines on the road now and you can’t go buy or invest in any company you want. We want competition to mean competition and that might be a little frustrating on some ends, but so long as you’re within those boundaries, go for it. Go compete as hard as you can.” This administration has taken the position that we’re going to allow a small number of companies to reach a level of dominance, or oligopoly, or monopoly so that we can beat China, whatever beating China means. And that’s the piece that I don’t quite understand. What does beating China mean? I get the idea that if China has these advanced bots that are violating and infiltrating our companies, and our government servers and the like, well fine, that’s a national security issue and we should deal with that. That’s a geopolitical issue. We should deal with that. That’s an international relations issue. We should deal with that. But the way to deal with that is not having monopolies domestically, especially when those monopolies are adherent to shareholders rather than the best interest of the public. This is a big debate across the United States government right now. The Trump administration has taken direct investment in a bunch of American companies. They’ve talked about setting up a sovereign wealth fund based in crypto. There’s more coordination between the government and private industry in a Republican administration than you would ever expect in history. Owning the means of production. What does that sound like to you? And then they call everyone else communists, which is great. Again, the realignment is wild stuff that’s happening out there. Compare owning a grocery store, a couple of grocery stores in New York to actually investing in some of the most significant technological infrastructure of our nation. Well, the grocery stores are a huge threat to the American way of life. There’s a piece of the puzzle here where the Trump administration’s approach is national champions. They’re just not saying it maybe as explicitly as you are. Do you think that approach can be unwound? Do you think competition law is compatible with that approach? It is harder to unwind it than it is to build it the right way from the get go. You hit the nail on the head. National champions. China is a country of national champions. The United States is not a country of national champions. The United States is a company where anyone could grow up to be a champion. That’s the American dream. Our promise, our way of life is based on a fundamentally different idea and ideal. The more we diverge and deviate from that, the worse off we are. I do think that is a bad policy, and it will be harder to undo the more it calcifies. Again, this is not anti-business or anti-market, just to be very clear. I’m a capitalist. I’m a card-carrying capitalist. I’m proud to say I am. The world that I want is one where everyone can be investing, everyone can be building a company, and that there are rules around the edges in terms of monopolizing markets. But within that, everyone should compete as hard as they can, build, grow, and do all sorts of amazing things. That is a better version of our country, one that got us to the place of economic power and dominance globally. We are more vulnerable when we have central points of failure, and we are less free when we have a small number of companies that are telling us how to live our lives. I’m for the 1,000 flowers blooming inside the borders of the United States. It is just remarkable to me. We’re weeks away from the midterm elections. That is something a traditional conservative from the 90s would have said about the power of the free markets. What do you make of this moment? If you had to describe the policy positions of conservatives, and if you had to describe the policy positions of the median Republican and the median Democrat headed into the midterms around this issue, are they compatible? Are they at war? Is it a total scramble? It’s a total scramble. I’ll take one issue. I don’t think what I articulated is that of a conservative from the 90s. I think the conservatives of the 90s were about antitrust and competition policy, and all of these ideas that were very central to the development and growth of our country, from the 40s to the 70s, should be thrown away and we should let industry consolidate. And we did, we saw industry consolidate. That is part of the reason why we have a lot of the problems that we have today, including the K-shaped economy, and the sense of opportunity not being widely available. In terms of your question, it is a scramble. The plates are shifting and where everything ends up is still unclear. We are living through the transformation of our politics and our ideals, and Republicans, Democrats, conservatives, and progressives and all these other different flavors will not mean in 15 years what they meant 15 years ago. It’s a little bit unclear how that’s all going to play out, but we are literally living through that transformation right now, which is kind of remarkable. It’s an interesting thing to observe as somebody who likes to study markets, technology, and policy. Again, not all of this is bad. We do need some realignment. We need to take an inward look at the way we’re governing our society, the way we’re encouraging our markets to structure, and think about whether there are things we should do differently. But what we are living through is two things that are happening. One is from the 80s to probably the 2010s, we were living through the Reagan era of neoliberal politics and policy. The left and right have both rebelled against that. That nail in the coffin is being hammered in as we speak. The other thing that’s happening that is even more fascinating is we have been living in the New Deal era for nearly 100 years. That era is over, and what comes next is a jump ball, but it’s over in terms of the role of government, the role of policy, the role of our international relations. All of that is being rebuilt or stripped down to the studs, including our government agencies themselves, our regulatory structure. The way this AI issue would’ve been handled 50 years ago is we would’ve created a Department for AI Safety or something, and they would’ve promulgated rules and they would had folks looking at it. And that might not have been the right approach, but that’s what would’ve been the approach. The Supreme Court has essentially thrown that out the window. It’s no longer what we have. Now we have an executive branch that basically decides on its whims what it wants to do on a daily basis. The whole thing is just completely a mess. Trump’s approach to this is, “You don’t need a regulator, you need a great president, and that’s me.” I saw that and I thought, “But what you would do is regulate them. So you should just hire some people to do it. You should just delegate, like any boss would do.” This is the irony. A good friend of mine, Dave Lawrence, wrote a piece in the New York Times a few weeks ago saying just this, which is that the Supreme Court has said, “We don’t want agencies and regulators promulgating rules and answering major questions, which is supposed to be the purview of Congress.” But instead they’ve essentially allowed the executive branch to do it without any process, without any input, and essentially with very little structure, which does lead to regulatory capture, which does lead to inadequate or inequitable outcomes. That’s what we’re confronting right now. Again, this is all consistent with what I was saying a few moments ago, which is kind of ripping down to the studs of the New Deal era. The government infrastructure that we relied on to figure out how to deal with all these things has essentially been destroyed. Now we don’t really have the resources or the structure in place to deal with these kinds of existential problems. Instead, we have Congress, and Congress is largely ineffective because of things like Citizens United and gerrymandering, which have essentially made all politics national and all politics tribal. Let me ask you two questions to wrap this up. You mentioned some eras. You, along with Lina Khan, brought forth a new era in antitrust. Some people called it hipster antitrust. The academics called it neo-Brandeisian antitrust. Just look at my hairline. I’m far from a hipster. You’re much cooler than I am. But the idea that we would bring back aggressive antitrust enforcement on theories of the law that weren’t simply related to consumer prices going up or down, that was new. That was something you brought forth. You brought a lot of cases against [companies like] Apple. Successfully. We won our cases. Our cases on the law won. We beat Google in court twice. We survived our motion to dismiss on Apple. We put together a Ticketmaster case that even when the Trump administration tried to settle it, actually won in front of a jury in court. The stuff we did worked. We brought cases on algorithmic pricing in healthcare. We fought for the public because the public wanted someone to fight for them. The settlements in the Google cases did not achieve the results you were advocating. Not the settlements, the remedies. Which I did not preside over. I presided over the victories. We handed the baton over to the next administration. The remedies were admittedly disappointing. Could we have achieved a different outcome? I don’t know. I would’ve liked the opportunity to try, but we didn’t. So that’s disappointing. But it doesn’t change the fact that we changed the game. We changed the approach, and the state of antitrust law and the state of competition policy was a heck of a lot better when we left it than when we started. Do you think that that era persists? There are some people, especially in tech policy, who would say, “This was all a failure. We should call this what it was. It was a failure. It did not result in structural change and we should move on from this”? Not at all. It’s not a failure. Did we finish the job? No. There’s a lot more to go. It relates to the challenge that we were talking about earlier, which is that it’s harder to address something after it calcifies. We were coming in after these markets had hardened, trying to figure out how to create competition. I’ve always been fond of saying that what you really want to do is you want to protect the next inflection point. Especially in technology and platforms, what comes next is likely to be highly disruptive, and competition has its greatest promise at that moment. That’s when incumbents tend to be most aggressive in trying to prevent upstarts and others from competing. I do think the conversation we’re having around competition, this conversation today, the fact that folks on the left and right are already concerned about monopolies or oligopolies is a sign that these issues are more easily discussed today than they were six or seven years ago. It’s funny. The last time that you were on, I believe we were talking about the case you brought against Apple, and you made the same point, right? Right before everything changes, that’s when the monopolist gets the most aggressive. With Apple, it’s the App Store. With Google, it’s tying all of its products together in various different ways. Here you are again, and we’re talking about what would be the challengers. We’re talking about the AI companies that might disrupt Apple’s interface. Jony Ive has gone to make hardware devices at OpenAI and Apple is suing them. There’s a lot going on here. But what strikes me is the conversation we’re having today is about the challengers, not the monopolists. The challengers of yesterday are often the monopolists of today. I’m not against the challengers, let me be very clear. This is why I’m against the antitrust exemption. I want them to keep pushing hard. I want them to keep competing. But I also would love to see thriving domestic open-source or open-weights models to compete. We want to promote more competition, not less. That’s really what we should be focused on: making sure that the lessons we learned from the last go-around don’t translate to this one. Competition is not about weakening the large player, it’s about making sure that the smaller players have an opportunity to compete as well. Do you think it’s surprising the Trump administration hasn’t settled the Apple case? That is the one that’s ongoing. Every day I think that it’s weird that they can’t buy their way out of that one. It is surprising. The guy showed up with gold bars to the White House. If that doesn’t do it, what will? Do you think it’s just because they still think there’s something there, or is it just leverage in the background? I have no idea. It’s a strong case. It’s a good case. You’re not a politician anymore. You can just say it. Say what you think. [Laughs] I told you the guy showed up with gold bars! [Laughs] I mentioned before that for every monopolist, you have dozens of other companies, if not hundreds, that are upset with the monopolist. Unless we fully have embraced national champions, there are a lot of companies that are frustrated, as we put in our complaint, with the tactics of Apple to control that market and exploit that market. There are countervailing forces on the other side, if I had to guess. I want to wrap this up with a big sweep. We’ve talked about a lot of issues. There’s a lot of directions in which you can come at how we should regulate AI at this moment. If you had to make your list of prescriptions, if you were the policymaker, how would you organize them and what would you say? I would start with clarity around consequences for bad things. If you build dangerous products, if your door flies off your plane while it’s in the air, if your AI breaks into someone else’s company, you should be held responsible. You have an obligation to build products that don’t do that. I think that is a very good logical place to start and it is an extension of the products liability style framework. That is a good place. We need to enumerate, and Congress should step in and say, “Here are the things we value as a society. We value mental health. We value competition. We value authenticity of information. We value intellectual property and copyright of content owners. These are the kinds of things we value and we need to make sure that those values are embedded in the lines on the road and the stop signs and the traffic lights so that everyone has clarity at the outset what’s okay and what’s not.” Maybe we’ll get a Congress that can do that in the next term. We’ll see. I hope so. I hope so. We’re going to have to have you back soon, Professor Kanter. Thank you so much for being on Decoder. My pleasure.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.419Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators",
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-            "id": "a12"
-          },
-          {
-            "title": "The AI regulation smackdown isn’t over",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-            "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.419Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-            "id": "a13"
+            "id": "a15"
           },
           {
             "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -5086,7 +5103,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:34:49.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.940Z",
+            "fetchedAt": "2026-09-20T14:21:45.912Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5095,7 +5112,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-            "id": "a16"
+            "id": "a18"
           },
           {
             "title": "China-based AI models trail US rivals on revenue",
@@ -5105,7 +5122,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-20T10:07:52.464Z",
+            "fetchedAt": "2026-09-20T14:21:52.222Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5114,7 +5131,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-            "id": "a18"
+            "id": "a20"
           },
           {
             "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -5124,7 +5141,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:45:06.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5132,7 +5149,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-            "id": "a20"
+            "id": "a22"
           },
           {
             "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -5142,7 +5159,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-17T21:33:42.000Z",
-            "fetchedAt": "2026-09-20T10:07:52.285Z",
+            "fetchedAt": "2026-09-20T14:21:50.632Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5151,7 +5168,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-            "id": "a21"
+            "id": "a23"
           },
           {
             "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -5161,7 +5178,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T21:14:17.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -5169,7 +5186,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-            "id": "a22"
+            "id": "a24"
           },
           {
             "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -5179,7 +5196,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-17T15:50:09.000Z",
-            "fetchedAt": "2026-09-20T10:07:52.827Z",
+            "fetchedAt": "2026-09-20T14:21:51.084Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5188,12 +5205,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-            "id": "a25"
+            "id": "a27"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -5204,38 +5221,31 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-20T10:07:54.502Z",
+        "generatedAt": "2026-09-20T14:21:53.791Z",
         "date": "2026-09-20",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
               "articleIds": [
-                "a8"
+                "a13"
               ],
               "subCategory": "semiconductors"
             },
             {
-              "text": "Geopolitics & Export Controls: Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden adm",
-              "articleIds": [
-                "a12"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
               "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
               "articleIds": [
-                "a17"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Platform & Ecosystem Partners: A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
               "articleIds": [
-                "a24"
+                "a26"
               ],
               "subCategory": "platform-partner"
             }
@@ -5250,7 +5260,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T18:30:02.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.851Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5260,50 +5270,6 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-            "id": "a8"
-          },
-          {
-            "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
-            "url": "https://www.theverge.com/podcast/997382/openai-microsoft-anthropic-elon-musk-cartel-ai-competition",
-            "description": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues. That is a lot of ideas, and I am especially curious about the antitrust piece, which has led to accusations that these companies are seeking regulatory capture, attempting to form a cartel, and even somehow finding a way out from investor pressure ahead of their IPOs. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. So to make sense of it all, I called Jonathan Kanter. Jonathan brought huge antitrust cases against Google, Apple, and Ticketmaster during his time as antitrust chief, and along with Lina Khan, led what amounted to a full reboot of American antitrust policy. As you’ll hear him say, he won those cases against Google and Ticketmaster, and that case against Apple is still live in the Trump DOJ, surprising many. That reboot has also led to some surprising alliances in the AI debate — avowed libertarian and former Trump AI czar David Sacks has been approvingly retweeting Lina Khan saying there’s no need for an antitrust exemption. This is all a lot, and you’ll hear Jonathan and me really get into the weeds of how all this regulation might work, and how it might interact with antitrust law, competition policy, and our relationship with China. Okay: Jonathan Kanter, former DOJ antitrust chief, on AI safety and regulation. Here we go. This interview has been lightly edited for length and clarity. Jonathan Kanter, you’re the former head of the DOJ Antitrust Division in the Biden administration and a current professor of law at WashU and professor of technology policy at Carnegie Mellon. Welcome back to Decoder. Always a pleasure to be back. This is great. You’re a private citizen now. You don’t have to give me the politician answers. I can say whatever I want. I feel so free. I’m very excited about this. I plan to as well. I have a million questions about the state of AI regulation in America right now. There is a swirl of ideas about how we should or should not regulate these companies. There’s the Trump administration whose posture seems to be “no,” which is fascinating. You rarely see the federal government just decline to participate in the way that the Trump administration appears to be declining to participate. And then there’s an incredible backbone of antitrust concern floating throughout all of this. Are these companies trying to form a cartel? Are they aware that maybe their IPOs aren’t going to go the way they want to, so they’re seeking regulatory capture in some way that is good or bad? Are they trying to foreclose cheaper competition from open-weight Chinese models? Give me your sense of just the state of things right now, and then I want to dive into the specifics with you. The state of the world right now is like we’ve invented cars and trucks, but we have no lines on the road, no traffic lights and no stop signs and no speed limits. We’ve invented this incredibly powerful technology that’s transforming how we live our lives, how we conduct business, how we socialize, how we seek and generate and consume information. We need some basic rules of the road. I think about it on two fronts. What are the things that companies should be doing? And what are things the government should be doing? There are responsibilities on both ends. I’m happy to dive into both. Let’s just start with the very notion that asking for regulation necessarily forms a cartel. All the big frontier AI companies — OpenAI, Anthropic, Google DeepMind, even Elon Musk — do not necessarily like each other. These are people that do not necessarily like each other. They are saying in concert that they should slow down. The phrase that Dario Amodei from Anthropic is using is to “pace the frontier.” My read of this is that they simply do not trust each other, that they are in a prisoner’s dilemma and they need an outside force, most likely the government, to enforce some kind of policy framework on them that they have to agree with. Is that a fair read of just the basics here? Kind of. Let me give you my interpretation from the most generous to the most cynical, neither of which, TL;DR, should result in any sort of antitrust exemption. The most generous interpretation is that they’re afraid of the pace of innovation and the lack of regulation means they don’t see any lines on the road. They don’t know where to drive and they’re worried about driving off the road or hitting somebody else. They’re begging for the government to step in and do something. Probably there’s a modicum of truth to that. I believe they believe it could destroy humanity. I’m not sure that that doomsday scenario is accurate, but I believe they believe that. That’s the more generous version. The more cynical version is that they’re spending so much money, they’re hemorrhaging cash and they can’t keep this up, but if they pull back, it’s going to affect their valuation as part of the IPO. So they would like somebody to give them all permission to stop spending so much money and slow the pace of innovation so that they don’t have to compete as hard so they can figure out their economics before they go public. Does an agreement among all the top players in a field like this automatically form a cartel? On that cynical side of the interpretation, there’s a lot of, “You just want regulatory capture. You want to make a cartel. You want to foreclose competition.” That is a risk certainly of that kind of arrangement. Let’s walk through what’s necessary and what’s not. Let me just be very clear, these companies do not need to coordinate in order to deliver safe and secure products to society. Think about this: imagine Boeing and Airbus. Boeing fears doors falling off the plane. It wasn’t Airbus’s fault and they didn’t need to slow down innovation with Airbus in order to prevent those doors from flying off the plane. They needed to figure out how to build planes that were safer. If you build cars that explode while you’re driving, it’s not the other car company’s fault and you don’t need to come together and figure out how to solve those problems. You need to figure out what went wrong in your manufacturing process. If you create products that create AI agents that break into somebody else’s and hack somebody else’s technology, it is no different, in my mind, than having an employee go do that. You have a responsibility to build safe and secure products and companies should be held liable when their agents, whether those agents are digital and binary or whether those agents are AI or whether those agents are humans. If they start doing bad things, the company that employs them can and should be held responsible. Those are the basic rules of the road. There are areas where there is legitimate collaboration in the context of safety and security. For example, having a clearinghouse to properly share threats, malicious bots, or other things that you can create a repository for so that everyone can build safer products. Those are the kinds of collaboration that happen in other industries and you don’t need an antitrust exemption because the antitrust laws don’t prohibit that kind of work. If two companies say, “We’re competing too hard and we need to slow down,” yes, that could implicate the antitrust laws, but that’s not what we should be doing here. We should be innovating, but companies should have the responsibility to build safe and secure products and the government should be responsible for putting lines on the road that say, “If you don’t build a safe and secure product, here’s what the consequences are. If you don’t build a safe and secure product, here’s what liability might look like. If you don’t build a safe and secure product, then perhaps there should be robot jail for your agents and it should be taken off the market.” I want to dig into robot jail specifically. in the amount of pressure we’re putting on what feels like product liability law. There’s something there that I want to talk about more specifically, but my wife’s a lawyer. I told her I was talking to you this morning and I tried to explain that there are fault lines here and she just shot me that look and said, “This is just a nightmare law school hypothetical.” What you’re describing is, “Does tort law create a regulatory framework for these companies?” And somewhere in there is, “If my agent goes and hacks you, my directive is that Anthropic’s at fault. Are we going to create some kind of pass-through liability? Does that happen already or not? Do we need another law or clarification law?” What’s your view on this? If I direct my Meta Muse agent to go attack you and it does it, is that Meta’s fault? Both/and. Companies employ people and they build technology. When those people and those technologies do things that are problematic, including stealing or breaking into someone else’s property on behalf of their employer, there’s liability and that can be products liability, but it could be more than products liability. You’re just people doing bad things or companies creating technology that’s doing bad things. And the products liability framework actually did work most recently in the case against Meta for Facebook and Instagram and child safety and security and mental health. Wait, hold on. That is really fascinating to me. This is a thing I’m really interested in talking about, because it took a decade for it to work. That’s the problem! This is where the government needs to step in. Companies have an obligation today to build safe and secure products and the pace of innovation isn’t an excuse not to go do that. Let’s be very clear about that. At the same time, we’ve invented cars and trucks and trains and we have no crossings, we have no lights, we have no lines on the road. Congress is completely incapable of pretty much doing anything. While these tech companies are out there saying that they want regulation, they’re actively lobbying against it and have been for a very long time. The whole thing is a complete mess and it’s a symptom of our system, which is a complete mess. And frankly, if the political scientist in me would trace that back to things like gerrymandering and Citizens United where our process has gotten out of control and Congress, which should be doing its basic job of putting basic safety standards and responsibilities in place, hasn’t done that. That having been said, the lack of action by Congress is not an excuse to deliver dangerous products. If you believe your product is going to destroy humanity, then don’t build it. If you believe your product is going to break into someone else’s stuff, then go back to the drawing board and figure out how you build it in a way that’s safer. Guess what? That’s innovation. These are innovation problems, not just regulatory problems. We need to do a better job incentivizing our companies to build safer and secure products. When they do that, those products will perform better and we will see better innovation. Right now, innovation is asymmetric because it’s done without the proper regard for safety and security, just like we saw in social media. As a result, now we have products that are really good and really effective at letting people communicate, but really bad when it comes to childhood addiction and mental health. Perhaps we should learn our lesson and encourage people to build safer, more secure products from the get-go, at the outset of this technology. Let me make the comparison to social media regulation a little more tightly. We just had the big Meta case; that is a products liability case. Their products were designed in a way that caused harm to teenagers. Meta settled the case because I think Mark Zuckerberg would prefer to build AI than to care about moderating Facebook. But they did lose one to a jury. They usually lose one to a jury, and this case wasn’t going well, but fundamentally they settled. They gave up. There’s a view that if they had fought and appealed, they would have won on some first amendment grounds, that the product liability case maybe wasn’t as strong as we all thought it was. And the other reason I’m saying that is Meta gave in to the regulator and their posture at the end was a settlement. They gave in and they accepted some regulation. It took a long time for the product liability version of this to get a company like Meta to concede some regulation, to concede some controls— To get a company like Meta to concede some regulation, to concede some controls. If we’re saying today, “OpenAI, you are probably liable for what ChatGPT does. Anthropic, you are probably liable for what Claude does,” isn’t this the moment to actually tighten the screw and pass the regulation that says, “You are definitely liable”? Yes. This is the job of Congress, which is to clarify the law. But I think the environment today is noticeably different than the environment was 15–20 years ago. 15–20 years ago, we had Section 230, which actually granted massive amounts of immunity to online companies, which actually made it harder to sue them and gave them more flexibility to innovate without regard for consequences. We had — and this is not partisan because it can go back to the Obama administration — a very hands off, “Oh my goodness, our economy depends on these wonderful companies from Silicon Valley. Let’s let them do whatever they want and essentially allow them to set up camp at the White House and in Congress and tell us how to write or not write our rules.” The results of that have eroded or destroyed any trust the public has in these technology companies. One of the reasons we’re having this conversation a lot earlier in the process now is because people are saying, “Fool me once, shame on you. Fool me twice, shame on me.” The good news is there’s greater public awareness and appreciation for the problems and a desire to do something meaningful. The problem is we have a system in Congress because of things like Citizens United, because of things like gerrymandering that have a government that is not responsive to the needs of the people. That is the impasse that we’re all confronting. We’re going to have to, in the meantime, rely on things like products liability or others to help get us some semblance of structure. But the other piece is the states. The states have actually done a better job than the federal government. You can rewind back six months or a year, and we had people in Congress, without imposing any affirmative rules, saying we should put a 10-year moratorium on the ability of states to impose their own rules and regulations at a time when Congress had no affirmative solutions of its own. So, hopefully that moment has passed and the public is saying — and the companies are saying — “Let’s sit down and figure out something sensible.” The polling data is clear that the American public does not trust these companies, does not like these products, and is afraid of the consequences to come, even if those consequences are hazy in the long term. They seem not so hazy in the short term. Right. Some of this is that the companies have done a terrible job at messaging. They have effectively said, “We’re going to destroy all your jobs and potentially destroy humanity, but we’re going to IPO for a massive valuation and we’re going to set up camp in your local communities with data centers, which by the way, don’t employ people and drive up the cost of power. But, it’s okay. China.” I want to come to China in one second, because that feels like another very important piece of the puzzle. But you mentioned a cast of characters here, you mentioned Obama. There’s a political realignment inside this debate that I find confounding. David Sacks, who was Trump’s AI czar, is retweeting your former counterpart at the FTC, Lina Khan, saying, “The existing antitrust laws are fine. You don’t need an exemption. The existing laws” — like you’re saying — “will cover you. They will make it so you can coordinate on security things and you’ll be liable for what you’re doing. And if you want to stop, just stop.” That is an absolutely shocking kind of political alignment to me. Where do you think that’s coming from? Actually, it’s a realignment of the realignment. Going back to Trump 1, we started seeing the kind of ends of the horseshoe starting to meet where folks left, right, and center were all concerned about the power of big tech. When people like Lina and I came into office, we had a mandate and a lot of public support, frankly, to be aggressive in enforcing the law against big tech. Then came the inevitable backlash and the Trump administration in the second incarnation was a lot more friendly with those companies rather than the first, and then it became cozy again. Now I think we’re seeing that break once more. But if I was to describe to you a day in which David Sacks is approvingly retweeting Lina Khan, while Bloomberg columnist Joe Weisenthal is saying “All these people are just saying Lina Khan was right about the power of cartels.” And hours later, Bernie Sanders and Steve Bannon are sharing a stage in DC calling for a dead stop of AI development. That doesn’t look like anything that we’ve seen before. No, no. Although again, I will say this. When I went up before Congress, I had support from Senator Mike Lee and Chuck Grassley and Josh Hawley and Matt Gaetz asked me if I was tired of winning at one of my oversight hearings. And then I had a bunch of Democrats, many of whom supported me, some of whom were very adherent to the big tech companies, who would criticize me. These signs of this stuff being all over the map have been around for a while. The fight between little tech and big tech — this is the part that I think a lot of folks don’t see from the outside, but the biggest antagonists of the big tech companies are the other tech companies. I did a speech before the Chamber of Commerce when I was in office and I brought a whole box of fake mustache and glasses. And I said, “I’m here to say thank you because all your members are coming in and helping us figure out how to bring our cases. And I know you don’t like the reputational hit of that. So here are some disguises, you can put them on next time you come in.” But the truth of the matter is most people hate the monopolist unless you’re the monopolist and companies want the opportunity to compete on the merits and win or lose on the merits of their own innovations and their own business acumen. A lot of this stuff actually has wide-range appeal. The politics of it get kind of weird and funky like you’re describing. But I think if you look at the data center issue, for example, it’s not left or right. It’s all of the above. Part of this is, to me, a situation in which we’re actually more in a healthier place, as unhealthy as the whole thing is, than we were during the internet and social media revolution where even criticizing those companies or saying we needed something was seen as a very fringe position. The truth of the matter is people want some lines on the road. They don’t want to stop innovation. They don’t want to stop progress. They’re not saying we have to burn the whole thing down, although Bernie kind of wants a complete stoppage. I don’t think that is realistic. We don’t want to stop innovation. We just want to have innovation result in safe and secure products that make us better as a society. That requires some correction in terms of the course as opposed to the path we’re on right now. I do think one notable difference between now and what happened with social media companies is that the people who ran Twitter and Facebook and YouTube did not run around saying they might kill everyone. They ran around with the banner of the righteous, they were going to bring democracy to the Middle East with the power of social media. These AI companies obviously think that they’re going to do something great. They’re going to cure all diseases, they’re going to make life better. We’re going to live in luxury communism or whatever that thing is. But they’re also very clear that unrestrained competition might lead to really enormous negative outcomes. One of the things they’re constantly talking about is China. They can all coordinate in the United States, but the United States needs to win because there’s the specter that Chinese models might overtake them and then the Chinese government will be in control of AGI or whatever thing that is scary on the horizon. What do you make of that? Is that just a convenient boogeyman? Is that real? Is that something competition law can address? It’s largely a convenient boogeyman. We’ve been dealing with these kinds of issues. I was thinking back to the breakup of AT&T. At the time, AT&T made the argument to the Reagan administration that it should not be broken up because in order to win the Cold War, we needed a national telecommunications network that was nice and strong. And the Reagan administration rejected that argument. The fact of the matter is the way to compete against China is to lean into what makes us great as a country. What makes us great as a country is we care about our people. Also, just let’s be very clear, China is not doing what we’re doing. China limits the way in which kids can interact with technology. China censors what people see in its borders. China actually manages and centrally controls a lot of its corporations through state owned enterprises and influenced enterprises. This idea that the only way to compete against China is to let us deliver unsafe products is kind of ridiculous. The way we win, whatever that means, against China is to make sure that we are delivering great innovations and products that benefit society, that we are protecting people from harmful uses of those products, and then we’re allowing a free market to function within those constraints. That’s how we beat China. As I was saying before with social media, the lack of rules and the lack of accountability resulted in a lack of innovation in how to build these products at the outset in a way that’s more safe and that’s more secure and better for, let’s say, mental health of people. It is not a bad thing and it’s not bad for innovation to require people to deliver safe and secure products. It is the responsibility of the country to make sure that our companies are innovating within the constraints, within the boundaries of a free market, but doing so in a way that is beneficial. Let me try to split the difference between your former role as antitrust chief and your current role as law professor. Give people a framework to understand how competition law domestically should interact with foreign policy. We are in some sort of national competition with China across a number of dimensions. There is a fear that if Chinese tech companies flood America with cheap-to-run, open-weight models, then all this collapses and the United States economy collapses. There’s a lot there, between how we might deal with China as a foreign adversary, or at least a geopolitical rival and our competition policy here. What’s the best framework to understand? The best framework is that we should promote dynamic aggressive competition inside the borders of the United States. We want companies, including foreign companies usually, but certainly domestic companies to compete hard because our system is a market-based system. It’s one where people innovate, and the opportunity to be successful encourages people to try new things, invest money and capital and make great products. All that is good. The idea that we need monopolies at home in order to compete abroad is antithetical to our way of life. The Boston Tea Party was founded as a revolution against the British monopoly over the necessities of life. This goes back to the founding of our country. Our freedom is in part in economic freedom and we need to make sure we promote that. Saying that we should tolerate monopolies domestically in order to compete abroad is wrong. There are legitimate questions, some of which this administration is raising, about how we deal with foreign nations that try to dump cheap products below cost and things like that. I was reading with my law students the other day a case from the 80s where the allegations were that companies in Japan were cartelizing television sets to sell them at a higher price so they can cross-subsidize below-cost pricing in the United States, in order to drive out the domestic US manufacturers. That was the height of the Chicago school libertarian movement. The Supreme Court actually used some cockamamie version of economics to suggest that wasn’t an antitrust violation, and set the stage for what happened next. There are legitimate questions about what we need to do to make sure that there is fair competition, and a fair playing field, that we are protecting the ability of people domestically to compete successfully. But the way to deal with that question is not to allow monopolization of our markets domestically in order to compete abroad. That’s just an excuse. That is leaning away from rather than into what makes us really special as a nation. I can already hear what our most skeptical members of the audience are saying. They are screaming, probably in their cars, that it’s already a monopoly, that Nvidia has circular financed, all of these companies are already coordinated, product liability theories of harm will just fall on their face because there’s no way OpenAI would ever sue Hugging Face, because Nvidia just bought Hugging Face and Nvidia’s the biggest investor in OpenAI. Do you need to go break that up? Do you need to go pull that all apart? Somebody should be looking at these issues. This is what we were starting to do when we were in office. We were saying, “There are some lines on the road now and you can’t go buy or invest in any company you want. We want competition to mean competition and that might be a little frustrating on some ends, but so long as you’re within those boundaries, go for it. Go compete as hard as you can.” This administration has taken the position that we’re going to allow a small number of companies to reach a level of dominance, or oligopoly, or monopoly so that we can beat China, whatever beating China means. And that’s the piece that I don’t quite understand. What does beating China mean? I get the idea that if China has these advanced bots that are violating and infiltrating our companies, and our government servers and the like, well fine, that’s a national security issue and we should deal with that. That’s a geopolitical issue. We should deal with that. That’s an international relations issue. We should deal with that. But the way to deal with that is not having monopolies domestically, especially when those monopolies are adherent to shareholders rather than the best interest of the public. This is a big debate across the United States government right now. The Trump administration has taken direct investment in a bunch of American companies. They’ve talked about setting up a sovereign wealth fund based in crypto. There’s more coordination between the government and private industry in a Republican administration than you would ever expect in history. Owning the means of production. What does that sound like to you? And then they call everyone else communists, which is great. Again, the realignment is wild stuff that’s happening out there. Compare owning a grocery store, a couple of grocery stores in New York to actually investing in some of the most significant technological infrastructure of our nation. Well, the grocery stores are a huge threat to the American way of life. There’s a piece of the puzzle here where the Trump administration’s approach is national champions. They’re just not saying it maybe as explicitly as you are. Do you think that approach can be unwound? Do you think competition law is compatible with that approach? It is harder to unwind it than it is to build it the right way from the get go. You hit the nail on the head. National champions. China is a country of national champions. The United States is not a country of national champions. The United States is a company where anyone could grow up to be a champion. That’s the American dream. Our promise, our way of life is based on a fundamentally different idea and ideal. The more we diverge and deviate from that, the worse off we are. I do think that is a bad policy, and it will be harder to undo the more it calcifies. Again, this is not anti-business or anti-market, just to be very clear. I’m a capitalist. I’m a card-carrying capitalist. I’m proud to say I am. The world that I want is one where everyone can be investing, everyone can be building a company, and that there are rules around the edges in terms of monopolizing markets. But within that, everyone should compete as hard as they can, build, grow, and do all sorts of amazing things. That is a better version of our country, one that got us to the place of economic power and dominance globally. We are more vulnerable when we have central points of failure, and we are less free when we have a small number of companies that are telling us how to live our lives. I’m for the 1,000 flowers blooming inside the borders of the United States. It is just remarkable to me. We’re weeks away from the midterm elections. That is something a traditional conservative from the 90s would have said about the power of the free markets. What do you make of this moment? If you had to describe the policy positions of conservatives, and if you had to describe the policy positions of the median Republican and the median Democrat headed into the midterms around this issue, are they compatible? Are they at war? Is it a total scramble? It’s a total scramble. I’ll take one issue. I don’t think what I articulated is that of a conservative from the 90s. I think the conservatives of the 90s were about antitrust and competition policy, and all of these ideas that were very central to the development and growth of our country, from the 40s to the 70s, should be thrown away and we should let industry consolidate. And we did, we saw industry consolidate. That is part of the reason why we have a lot of the problems that we have today, including the K-shaped economy, and the sense of opportunity not being widely available. In terms of your question, it is a scramble. The plates are shifting and where everything ends up is still unclear. We are living through the transformation of our politics and our ideals, and Republicans, Democrats, conservatives, and progressives and all these other different flavors will not mean in 15 years what they meant 15 years ago. It’s a little bit unclear how that’s all going to play out, but we are literally living through that transformation right now, which is kind of remarkable. It’s an interesting thing to observe as somebody who likes to study markets, technology, and policy. Again, not all of this is bad. We do need some realignment. We need to take an inward look at the way we’re governing our society, the way we’re encouraging our markets to structure, and think about whether there are things we should do differently. But what we are living through is two things that are happening. One is from the 80s to probably the 2010s, we were living through the Reagan era of neoliberal politics and policy. The left and right have both rebelled against that. That nail in the coffin is being hammered in as we speak. The other thing that’s happening that is even more fascinating is we have been living in the New Deal era for nearly 100 years. That era is over, and what comes next is a jump ball, but it’s over in terms of the role of government, the role of policy, the role of our international relations. All of that is being rebuilt or stripped down to the studs, including our government agencies themselves, our regulatory structure. The way this AI issue would’ve been handled 50 years ago is we would’ve created a Department for AI Safety or something, and they would’ve promulgated rules and they would had folks looking at it. And that might not have been the right approach, but that’s what would’ve been the approach. The Supreme Court has essentially thrown that out the window. It’s no longer what we have. Now we have an executive branch that basically decides on its whims what it wants to do on a daily basis. The whole thing is just completely a mess. Trump’s approach to this is, “You don’t need a regulator, you need a great president, and that’s me.” I saw that and I thought, “But what you would do is regulate them. So you should just hire some people to do it. You should just delegate, like any boss would do.” This is the irony. A good friend of mine, Dave Lawrence, wrote a piece in the New York Times a few weeks ago saying just this, which is that the Supreme Court has said, “We don’t want agencies and regulators promulgating rules and answering major questions, which is supposed to be the purview of Congress.” But instead they’ve essentially allowed the executive branch to do it without any process, without any input, and essentially with very little structure, which does lead to regulatory capture, which does lead to inadequate or inequitable outcomes. That’s what we’re confronting right now. Again, this is all consistent with what I was saying a few moments ago, which is kind of ripping down to the studs of the New Deal era. The government infrastructure that we relied on to figure out how to deal with all these things has essentially been destroyed. Now we don’t really have the resources or the structure in place to deal with these kinds of existential problems. Instead, we have Congress, and Congress is largely ineffective because of things like Citizens United and gerrymandering, which have essentially made all politics national and all politics tribal. Let me ask you two questions to wrap this up. You mentioned some eras. You, along with Lina Khan, brought forth a new era in antitrust. Some people called it hipster antitrust. The academics called it neo-Brandeisian antitrust. Just look at my hairline. I’m far from a hipster. You’re much cooler than I am. But the idea that we would bring back aggressive antitrust enforcement on theories of the law that weren’t simply related to consumer prices going up or down, that was new. That was something you brought forth. You brought a lot of cases against [companies like] Apple. Successfully. We won our cases. Our cases on the law won. We beat Google in court twice. We survived our motion to dismiss on Apple. We put together a Ticketmaster case that even when the Trump administration tried to settle it, actually won in front of a jury in court. The stuff we did worked. We brought cases on algorithmic pricing in healthcare. We fought for the public because the public wanted someone to fight for them. The settlements in the Google cases did not achieve the results you were advocating. Not the settlements, the remedies. Which I did not preside over. I presided over the victories. We handed the baton over to the next administration. The remedies were admittedly disappointing. Could we have achieved a different outcome? I don’t know. I would’ve liked the opportunity to try, but we didn’t. So that’s disappointing. But it doesn’t change the fact that we changed the game. We changed the approach, and the state of antitrust law and the state of competition policy was a heck of a lot better when we left it than when we started. Do you think that that era persists? There are some people, especially in tech policy, who would say, “This was all a failure. We should call this what it was. It was a failure. It did not result in structural change and we should move on from this”? Not at all. It’s not a failure. Did we finish the job? No. There’s a lot more to go. It relates to the challenge that we were talking about earlier, which is that it’s harder to address something after it calcifies. We were coming in after these markets had hardened, trying to figure out how to create competition. I’ve always been fond of saying that what you really want to do is you want to protect the next inflection point. Especially in technology and platforms, what comes next is likely to be highly disruptive, and competition has its greatest promise at that moment. That’s when incumbents tend to be most aggressive in trying to prevent upstarts and others from competing. I do think the conversation we’re having around competition, this conversation today, the fact that folks on the left and right are already concerned about monopolies or oligopolies is a sign that these issues are more easily discussed today than they were six or seven years ago. It’s funny. The last time that you were on, I believe we were talking about the case you brought against Apple, and you made the same point, right? Right before everything changes, that’s when the monopolist gets the most aggressive. With Apple, it’s the App Store. With Google, it’s tying all of its products together in various different ways. Here you are again, and we’re talking about what would be the challengers. We’re talking about the AI companies that might disrupt Apple’s interface. Jony Ive has gone to make hardware devices at OpenAI and Apple is suing them. There’s a lot going on here. But what strikes me is the conversation we’re having today is about the challengers, not the monopolists. The challengers of yesterday are often the monopolists of today. I’m not against the challengers, let me be very clear. This is why I’m against the antitrust exemption. I want them to keep pushing hard. I want them to keep competing. But I also would love to see thriving domestic open-source or open-weights models to compete. We want to promote more competition, not less. That’s really what we should be focused on: making sure that the lessons we learned from the last go-around don’t translate to this one. Competition is not about weakening the large player, it’s about making sure that the smaller players have an opportunity to compete as well. Do you think it’s surprising the Trump administration hasn’t settled the Apple case? That is the one that’s ongoing. Every day I think that it’s weird that they can’t buy their way out of that one. It is surprising. The guy showed up with gold bars to the White House. If that doesn’t do it, what will? Do you think it’s just because they still think there’s something there, or is it just leverage in the background? I have no idea. It’s a strong case. It’s a good case. You’re not a politician anymore. You can just say it. Say what you think. [Laughs] I told you the guy showed up with gold bars! [Laughs] I mentioned before that for every monopolist, you have dozens of other companies, if not hundreds, that are upset with the monopolist. Unless we fully have embraced national champions, there are a lot of companies that are frustrated, as we put in our complaint, with the tactics of Apple to control that market and exploit that market. There are countervailing forces on the other side, if I had to guess. I want to wrap this up with a big sweep. We’ve talked about a lot of issues. There’s a lot of directions in which you can come at how we should regulate AI at this moment. If you had to make your list of prescriptions, if you were the policymaker, how would you organize them and what would you say? I would start with clarity around consequences for bad things. If you build dangerous products, if your door flies off your plane while it’s in the air, if your AI breaks into someone else’s company, you should be held responsible. You have an obligation to build products that don’t do that. I think that is a very good logical place to start and it is an extension of the products liability style framework. That is a good place. We need to enumerate, and Congress should step in and say, “Here are the things we value as a society. We value mental health. We value competition. We value authenticity of information. We value intellectual property and copyright of content owners. These are the kinds of things we value and we need to make sure that those values are embedded in the lines on the road and the stop signs and the traffic lights so that everyone has clarity at the outset what’s okay and what’s not.” Maybe we’ll get a Congress that can do that in the next term. We’ll see. I hope so. I hope so. We’re going to have to have you back soon, Professor Kanter. Thank you so much for being on Decoder. My pleasure.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-19T14:00:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.419Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators",
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-            "id": "a12"
-          },
-          {
-            "title": "The AI regulation smackdown isn’t over",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/997706/the-ai-regulation-smackdown-isnt-over",
-            "description": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-19T13:00:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:49.419Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
             "id": "a13"
           },
           {
@@ -5314,7 +5280,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -5324,7 +5290,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-            "id": "a17"
+            "id": "a19"
           },
           {
             "title": "Qualcomm Gains 2% as Amazon's Warrant Prices AI Commitment",
@@ -5334,7 +5300,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T18:43:02.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -5344,7 +5310,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A purchase-linked equity incentive validates Qualcomm's diversification without guaranteeing orders, timing or margins.",
-            "id": "a24"
+            "id": "a26"
           },
           {
             "title": "Qualcomm Faces Margin Pressure From Rising Costs: Can it Recover?",
@@ -5354,7 +5320,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-17T15:40:00.000Z",
-            "fetchedAt": "2026-09-20T10:07:48.852Z",
+            "fetchedAt": "2026-09-20T14:21:46.023Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5364,7 +5330,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "QCOM faces margin pressure from rising semiconductor costs, weaker handset demand and product mix, while Apple revenue is set to decline.",
-            "id": "a26"
+            "id": "a28"
           }
         ]
       }
