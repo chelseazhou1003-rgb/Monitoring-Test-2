@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-20T00:26:16.435Z",
+  "generatedAt": "2026-09-20T05:27:11.962Z",
   "date": "2026-09-20",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
+        "text": "Geopolitics & Export Controls: Penalties against businesses on occupied Palestinian land from the UK, France and others could have far-reaching consequences",
         "articleIds": [
           "a1"
         ],
@@ -16,20 +16,134 @@
       {
         "text": "Supply Chain: GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
         "articleIds": [
-          "a6"
+          "a13"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
         "articleIds": [
-          "a14"
+          "a21"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Israel’s settler economy braces for European sanctions",
+      "url": "https://www.ft.com/content/f780b2a4-13ff-44ec-8225-cf38d4f0c966?syn-25a6b1a6=1",
+      "description": "Penalties against businesses on occupied Palestinian land from the UK, France and others could have far-reaching consequences",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T04:00:11.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.456Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Penalties against businesses on occupied Palestinian land from the UK, France and others could have far-reaching consequences",
+      "id": "a1"
+    },
+    {
+      "title": "Saudi Arabia quits China-led cross-border currency platform",
+      "url": "https://www.ft.com/content/ac104987-f43d-4e7d-97b6-057d98f7e422?syn-25a6b1a6=1",
+      "description": "Kingdom’s central bank withdrew last year from programme which is part of Beijing’s effort to develop an alternative system to the dollar",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T04:00:03.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.456Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Kingdom’s central bank withdrew last year from programme which is part of Beijing’s effort to develop an alternative system to the dollar",
+      "id": "a2"
+    },
+    {
+      "title": "China to Ramp Up Enforcement Against Malicious Price Competition",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-to-ramp-up-enforcement-against-malicious-price-competition",
+      "description": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration for Market Regulation said at a State Council Information Office briefing on Sunday.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T03:53:22.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration for Market Regulation said at a State Council Information Office briefing on Sunday.",
+      "id": "a3"
+    },
+    {
+      "title": "China August Power Use Tops 1 Trillion kWh, Load Hits Record",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-august-power-use-tops-1-trillion-kwh-load-hits-record",
+      "description": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T03:35:37.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
+      "id": "a4"
+    },
+    {
+      "title": "China’s Smart-Glasses Sales Double in First Eight Months of Year",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/china-s-smart-glasses-sales-double-in-first-eight-months-of-year",
+      "description": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gained about 27%, the Ministry of Commerce said in a statement on Sunday.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T02:23:00.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gained about 27%, the Ministry of Commerce said in a statement on Sunday.",
+      "id": "a5"
+    },
+    {
+      "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-20/australia-s-albanese-urges-world-to-act-for-humanity-in-ai-race",
+      "description": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-20T00:39:58.000Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
+      "id": "a6"
+    },
     {
       "title": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing - bgr.com",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOYmRrZXphem1uejctcG9kUDZQN0lTMzhuZEFjenZ4TFJiclFvekNTanA5WnpYdmozTktEVFRoZ2RheUROeWR1RVZzblpJZS0xZ0h0TXhYTlVSV0xXa2pLaHBWQkJ3RF9abWlXbHAxYjNYM1R2ak51U05UbFA3TW1UMVk4VHNyOW9WM2pwM0tZMlk4dTlZTGVSZEpBQ3BvVmEyLUE?oc=5",
@@ -38,7 +152,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T17:32:00.000Z",
-      "fetchedAt": "2026-09-20T00:26:16.398Z",
+      "fetchedAt": "2026-09-20T05:27:11.923Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "bgr.com",
       "geopoliticalBypass": true,
@@ -48,27 +162,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Has Made Its Biggest Breakthrough Yet In Homegrown Chip Manufacturing bgr.com",
-      "id": "a1"
+      "id": "a8"
     },
     {
-      "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - India's News.Net",
+      "title": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges - indiasnews.net",
       "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQMmlsUWYxM29DTVF3U0ZBa0prVG5wcDJ3YUxaRUNQYWlKcFg4ZDhCVmNOc21YUHg3RGhWUjBtYUpJTDQ1dzNSazc4M0pQTmptN1pDRXdHZXgwTTJNc0NHTW5VVU9BZ1JXOTlIM1dteWk2Nzh3NUlIbS1seVZhWHVkRV95R1pfa01xUFZMZ0IyODZCcDAwSG4xcVVhSjI0TlRvdUdzMDEyVURwVmhfZWFMTnI2N0VUTG9Ob2pBRHh4MUVQRWlEbmxFc1Z1cExoSVZFcHMxSFZoSElDaVZ5UDBMTTZSMTVLNExZNFM0VTVzQkt4a29QVWNBa2hZUVJ3OFd0NEtZOVRvQ3Y?oc=5",
-      "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
+      "description": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T16:33:00.000Z",
-      "fetchedAt": "2026-09-20T00:26:16.398Z",
+      "fetchedAt": "2026-09-20T05:27:11.923Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "India's News.Net",
+      "googleNewsSource": "indiasnews.net",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges India's News.Net",
-      "id": "a2"
+      "summary": "National Security Advisor Ajit Doval calls graduates 'luckiest generation' during IIT Roorkee convocation; recalls early career challenges indiasnews.net",
+      "id": "a9"
     },
     {
       "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
@@ -78,7 +192,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T14:03:36.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.986Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -87,7 +201,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed.",
-      "id": "a3"
+      "id": "a10"
     },
     {
       "title": "Does AI need an antitrust exemption so it doesn&#8217;t kill everyone????",
@@ -97,7 +211,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T14:00:00.000Z",
-      "fetchedAt": "2026-09-20T00:26:10.562Z",
+      "fetchedAt": "2026-09-20T05:27:06.903Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -110,7 +224,7 @@
         "platform-partner"
       ],
       "summary": "Today on Decoder, we’ve got the first of a two-part series on the future of business, and I’m talking with Jonathan Kanter, the former antitrust chief for the US Department of Justice in the Biden administration. These days, he’s both a professor of law at WashU and professor of technology policy at Carnegie Mellon. The biggest story in tech right now is the spiraling debate about AI safety and regulation. Researchers at the big AI labs including Anthropic and Google DeepMind have quit in noisy ways, saying the models pose real threats and safety isn’t being taken seriously across the industry. Other researchers have said the chance of AI killing us all is greater than 10 percent, and the CEOs of all these companies have issued various calls to slow down development and develop regulation, including asking for antitrust exemptions so they can all coordinate on safety issues.",
-      "id": "a4"
+      "id": "a11"
     },
     {
       "title": "The AI regulation smackdown isn’t over",
@@ -120,7 +234,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-19T13:00:00.000Z",
-      "fetchedAt": "2026-09-20T00:26:10.562Z",
+      "fetchedAt": "2026-09-20T05:27:06.903Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -131,7 +245,7 @@
         "platform-partner"
       ],
       "summary": "At the start of this week, the who's-who of AI seemed - at least tentatively - on the side of AI regulation. Over the weekend, Anthropic CEO Dario Amodei had proposed a three-step plan for slowing AI development, including by embedding third-party evaluators in labs, coordinating across the domestic industry, and forging international agreements potentially with government assistance. OpenAI CEO Sam Altman, Google DeepMind co-founder Demis Hassabis, and even SpaceX CEO Elon Musk publicly seemed to agree on aspects of all three things. Anthropic and OpenAI had already been dropping hints that they and other labs were working on some kind of … Read the full story at The Verge.",
-      "id": "a5"
+      "id": "a12"
     },
     {
       "title": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication - Quantum Computing Report",
@@ -141,7 +255,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T07:10:00.000Z",
-      "fetchedAt": "2026-09-20T00:26:16.398Z",
+      "fetchedAt": "2026-09-20T05:27:11.923Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Quantum Computing Report",
       "geopoliticalBypass": true,
@@ -153,7 +267,7 @@
         "foundry"
       ],
       "summary": "GlobalFoundries Finalizes $375 Million CHIPS Act Award for Onshore Quantum Semiconductor Fabrication Quantum Computing Report",
-      "id": "a6"
+      "id": "a13"
     },
     {
       "title": "China State TV Affiliate Flags Anthropic Data and Privacy Risks",
@@ -163,7 +277,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T06:33:35.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.986Z",
+      "fetchedAt": "2026-09-20T05:27:06.205Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -172,7 +286,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anthropic PBC’s privacy-policy revisions have increased risks to user data by allowing information to be shared with US intelligence agencies when the company considers it necessary without legal procedures, a social-media account affiliated with China Central Television said in a post on Saturday.",
-      "id": "a7"
+      "id": "a14"
     },
     {
       "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -182,7 +296,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:34:49.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.740Z",
+      "fetchedAt": "2026-09-20T05:27:06.188Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -191,7 +305,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-      "id": "a10"
+      "id": "a17"
     },
     {
       "title": "China-based AI models trail US rivals on revenue",
@@ -201,7 +315,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-18T08:27:40.000Z",
-      "fetchedAt": "2026-09-20T00:26:14.470Z",
+      "fetchedAt": "2026-09-20T05:27:10.136Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -210,7 +324,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-      "id": "a12"
+      "id": "a19"
     },
     {
       "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
@@ -220,7 +334,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:45:06.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.823Z",
+      "fetchedAt": "2026-09-20T05:27:06.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -228,7 +342,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-      "id": "a14"
+      "id": "a21"
     },
     {
       "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
@@ -238,7 +352,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-17T21:33:42.000Z",
-      "fetchedAt": "2026-09-20T00:26:13.692Z",
+      "fetchedAt": "2026-09-20T05:27:09.609Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -247,7 +361,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-      "id": "a15"
+      "id": "a22"
     },
     {
       "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
@@ -257,7 +371,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-17T21:14:17.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.823Z",
+      "fetchedAt": "2026-09-20T05:27:06.209Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -265,7 +379,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-      "id": "a16"
+      "id": "a23"
     },
     {
       "title": "Brazilian court-appointed expert finds Skyworth’s TVs infringe IP Bridge patent, rules it essential to AVC standard",
@@ -275,7 +389,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-17T15:50:09.000Z",
-      "fetchedAt": "2026-09-20T00:26:14.325Z",
+      "fetchedAt": "2026-09-20T05:27:10.210Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -284,7 +398,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A court-appointed expert yesterday issued a report finding a patent asserted by Japan’s IP Bridge against China’s Skyworth in the Rio de Janeiro State Court is being infringed by the latter’s television sets and receivers, and is essential to the H.264/AVC standard.",
-      "id": "a19"
+      "id": "a26"
     },
     {
       "title": "Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes",
@@ -294,7 +408,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-17T07:58:24.000Z",
-      "fetchedAt": "2026-09-20T00:26:14.470Z",
+      "fetchedAt": "2026-09-20T05:27:10.136Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -303,25 +417,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Eric Xu, presidente de turno de Huawei, ha argumentado que los desarrolladores chinos de IA quizá deban llevar las capacidades Read more... The post Huawei pide que la IA china mantenga el ritmo pese a los riesgos crecientes appeared first on Mobile World Live.",
-      "id": "a22"
-    },
-    {
-      "title": "Qualcomm (QCOM) Stock Looks Fairly Priced On Its 80% Run",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fairly-021152612.html?.tsrc=rss",
-      "description": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-17T02:11:52.000Z",
-      "fetchedAt": "2026-09-20T00:26:09.823Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QUALCOMM has ridden a strong multi year share price run and a wave of AI headlines, which puts a sharper spotlight on a simple question for you as an investor: Is the current valuation of QUALCOMM stock adequately explained by the cash flows the business is expected to generate? Over the past 3 years the stock has delivered a total return of 80.3%, which raises the question of how much future cash generation is already reflected in the current price. The recent multi generational AI chip...",
-      "id": "a23"
+      "id": "a29"
     }
   ]
 }
