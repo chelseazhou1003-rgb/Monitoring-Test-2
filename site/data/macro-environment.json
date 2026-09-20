@@ -1,53 +1,47 @@
 {
-  "generatedAt": "2026-09-20T19:48:58.223Z",
+  "generatedAt": "2026-09-20T22:43:11.646Z",
   "date": "2026-09-21",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House",
+        "text": "Geopolitics & Export Controls: America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
         "articleIds": [
-          "a2"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Supply Chain: Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
         "articleIds": [
-          "a11"
+          "a10"
         ],
         "subCategory": "supply-chain"
-      },
-      {
-        "text": "market-performance: Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
     {
-      "title": "A UN gathering notable for its absences",
-      "url": "https://www.ft.com/content/66623b14-f679-48ad-85a5-5d75f1cc8c17?syn-25a6b1a6=1",
-      "description": "World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House",
-      "source": "Financial Times",
-      "sourceId": "ft",
+      "title": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Jxa3NaWU8zMGtSSk10Ui1SMklsTU5vVENDWGFGMmpHdEpvVXVGNndlNU9RZlFESWJjYzdxNERVeGwwNXY5ajFGQm15bkQyRHNIWFFsRlhFNHUtdHE2MjJ1R2dMLWZQa3paTjlUVEtjem84UzI1bVJmempyYUJBWHlkd2MwbWhIUXhydDItd2tvc2ZaZGhFZDF2ck5YZGE1ZlA3MGRjZEsxQXB1RzlF?oc=5",
+      "description": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-20T17:15:05.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.692Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-09-20T19:54:54.000Z",
+      "fetchedAt": "2026-09-20T22:43:11.614Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "930 WFMD Free Talk",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "World leaders convene in New York for the General Assembly, but not Germany’s Merz, while China’s Xi heads straight to the White House",
-      "id": "a2"
+      "summary": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+      "id": "a1"
     },
     {
       "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
@@ -57,7 +51,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T16:56:14.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.251Z",
+      "fetchedAt": "2026-09-20T22:43:05.332Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -76,7 +70,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T16:30:01.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -97,7 +91,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T15:43:07.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.692Z",
+      "fetchedAt": "2026-09-20T22:43:05.744Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -116,7 +110,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T13:41:03.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -128,25 +122,6 @@
       "id": "a6"
     },
     {
-      "title": "AI is a powerful but problematic new collaborator in mathematics",
-      "url": "https://www.ft.com/content/05a7292e-4931-4631-8f77-164fb727c203",
-      "description": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-20T13:00:03.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.692Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "We are already witnessing the unintended consequences of algorithms realising goals with badly defined parameters and restrictions",
-      "id": "a7"
-    },
-    {
       "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
       "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
       "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
@@ -154,7 +129,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T12:47:23.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.251Z",
+      "fetchedAt": "2026-09-20T22:43:05.332Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -163,7 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-      "id": "a8"
+      "id": "a7"
     },
     {
       "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
@@ -173,7 +148,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T12:18:52.000Z",
-      "fetchedAt": "2026-09-20T19:48:58.183Z",
+      "fetchedAt": "2026-09-20T22:43:11.614Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TradingView",
       "geopoliticalBypass": true,
@@ -183,7 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
-      "id": "a9"
+      "id": "a8"
     },
     {
       "title": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass - Tech Times",
@@ -193,7 +168,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T07:21:21.000Z",
-      "fetchedAt": "2026-09-20T19:48:58.183Z",
+      "fetchedAt": "2026-09-20T22:43:11.614Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Tech Times",
       "geopoliticalBypass": true,
@@ -203,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Chip Startup EVAS Raises $295M on RISC-V Architecture Built for Export-Control Bypass Tech Times",
-      "id": "a10"
+      "id": "a9"
     },
     {
       "title": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said - dominotheory.com",
@@ -213,7 +188,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T06:14:15.000Z",
-      "fetchedAt": "2026-09-20T19:48:58.183Z",
+      "fetchedAt": "2026-09-20T22:43:11.614Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "dominotheory.com",
       "geopoliticalBypass": true,
@@ -223,7 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump-Xi Summit Unlikely to Yield Taiwan Agreement, Former U.S. Deputy National Security Advisor Said dominotheory.com",
-      "id": "a11"
+      "id": "a10"
     },
     {
       "title": "China to Step Up Curbs Against Malicious Price Competition",
@@ -233,7 +208,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T03:53:22.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -242,7 +217,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China will step up scrutiny of malicious price competition, including cost investigations and price inspections of companies that engage in such practices, the State Administration for Market Regulation said at a State Council Information Office briefing on Sunday.",
-      "id": "a12"
+      "id": "a11"
     },
     {
       "title": "China August Power Use Tops 1 Trillion kWh, Load Hits Record",
@@ -252,7 +227,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T03:35:37.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -261,7 +236,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s electricity consumption exceeded 1 trillion kilowatt-hours in August as power demand remained robust, the National Energy Administration said on its WeChat account Sunday.",
-      "id": "a13"
+      "id": "a12"
     },
     {
       "title": "China’s Smart-Glasses Sales Double in First Eight Months of Year",
@@ -271,7 +246,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T02:23:00.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -280,7 +255,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s sales of smart glasses on key platforms more than doubled in the first eight months of the year, while those of electrocardiogram monitors rose 75% and action cameras gained about 27%, the Ministry of Commerce said in a statement on Sunday.",
-      "id": "a14"
+      "id": "a13"
     },
     {
       "title": "Australia’s Albanese Urges World to Act for Humanity in AI Race",
@@ -290,7 +265,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T00:39:58.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -299,7 +274,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Australian Prime Minister Anthony Albanese said middle powers have an important role to play in mitigating the risks posed by artificial intelligence and called for cooperation between the US and China.",
-      "id": "a15"
+      "id": "a14"
     },
     {
       "title": "India’s Silicon Valley Is Straining Under Its Own Growth",
@@ -309,7 +284,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T14:03:36.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.514Z",
+      "fetchedAt": "2026-09-20T22:43:05.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -318,7 +293,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bangalore helped turn India into a global hub for software services, tech talent and outsourcing, building an ecosystem that now supports multinational firms, domestic startups and capital. But the city’s success has also become one of its biggest weaknesses. India still lacks the depth of capital available in the US and China, while Bangalore’s physical infrastructure has struggled to keep pace with private-sector growth. At the same time, southern India’s rising economic power is colliding with demographic and political shifts that could threaten its representation in the country’s Central Government, which helps support the growth that cities like Bangalore have enjoyed. This version corrects a map of India.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "JPMorgan, Citigroup CEOs attending Trump's state dinner for China's Xi: Sources",
@@ -328,7 +303,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:34:49.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.251Z",
+      "fetchedAt": "2026-09-20T22:43:05.332Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -337,7 +312,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dimon and Fraser join OpenAI CEO Sam Altman, Nvidia chief Jensen Huang and others who are reportedly planning to attend the Trump-Xi state dinner.",
-      "id": "a20"
+      "id": "a19"
     },
     {
       "title": "China-based AI models trail US rivals on revenue",
@@ -347,7 +322,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-18T08:27:40.000Z",
-      "fetchedAt": "2026-09-20T19:48:56.228Z",
+      "fetchedAt": "2026-09-20T22:43:09.593Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -356,62 +331,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While AI models from companies based in China are gaining users they remain well behind US rivals in terms of revenue, according to estimates from Rhodium Group reported by CNBC. The post China-based AI models trail US rivals on revenue appeared first on Mobile World Live.",
-      "id": "a22"
-    },
-    {
-      "title": "Qualcomm (QCOM) Outpaces Stock Market Gains: What You Should Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-outpaces-stock-market-214506347.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-17T21:45:06.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.457Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) reached $188.94 at the closing of the latest trading day, reflecting a +2.22% change compared to its last close.",
-      "id": "a24"
-    },
-    {
-      "title": "Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper",
-      "url": "https://www.semiconductor-digest.com/parliamentary-reception-marks-launch-of-defence-and-national-security-semiconductor-paper/?utm_source=rss&utm_medium=rss&utm_campaign=parliamentary-reception-marks-launch-of-defence-and-national-security-semiconductor-paper",
-      "description": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-      "source": "Semiconductor Digest",
-      "sourceId": "semiconductor-digest",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-09-17T21:33:42.000Z",
-      "fetchedAt": "2026-09-20T19:48:55.903Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The All-Party Parliamentary Group for Semiconductors was pleased to launch its new paper, Defence and National Security: Delivering a Sovereign Semiconductor Capability, in Parliament on Tuesday 15 September 2026. The post Parliamentary Reception Marks Launch of Defence and National Security Semiconductor Paper appeared first on Semiconductor Digest.",
-      "id": "a25"
-    },
-    {
-      "title": "Micron, Qualcomm, Nova, Lattice Semiconductor, and Workday Shares Are Soaring, What You Need To Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/micron-qualcomm-nova-lattice-semiconductor-211417375.html?.tsrc=rss",
-      "description": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-17T21:14:17.000Z",
-      "fetchedAt": "2026-09-20T19:48:52.457Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "A number of stocks jumped in the afternoon session after Treasury yields retreated below 5% and oil prices declined, sparking a recovery across growth-oriented equities following the Federal Reserve's interest rate increase.",
-      "id": "a26"
+      "id": "a21"
     }
   ]
 }
