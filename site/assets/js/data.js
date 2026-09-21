@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
           "articleIds": [
-            "a2"
+            "a1"
           ],
           "subCategory": "semiconductors"
         },
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T18:56:59.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-        "id": "a2"
+        "id": "a1"
       },
       {
         "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -83,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -116,7 +116,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -141,7 +141,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -154,7 +154,7 @@ export const NEWS_DATA = {
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -165,14 +165,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-20T22:43:11.648Z",
+    "generatedAt": "2026-09-21T00:34:10.410Z",
     "date": "2026-09-21",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
-        "topHeadlineId": "a2",
+        "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -192,8 +192,8 @@ export const NEWS_DATA = {
       "macro-environment": {
         "title": "Macro",
         "articleCount": 16,
-        "topHeadline": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
-        "topHeadlineId": "a1",
+        "topHeadline": "America and China are fighting for the future of AI — chips are the battlefield - Fox News",
+        "topHeadlineId": "a2",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources."
       },
       "competitors": {
@@ -214,7 +214,7 @@ export const NEWS_DATA = {
     "totalArticles": 24
   },
   "macro-environment": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -222,9 +222,9 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+          "text": "Geopolitics & Export Controls: America and China are fighting for the future of AI — chips are the battlefield Fox News",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
@@ -239,24 +239,24 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Jxa3NaWU8zMGtSSk10Ui1SMklsTU5vVENDWGFGMmpHdEpvVXVGNndlNU9RZlFESWJjYzdxNERVeGwwNXY5ajFGQm15bkQyRHNIWFFsRlhFNHUtdHE2MjJ1R2dMLWZQa3paTjlUVEtjem84UzI1bVJmempyYUJBWHlkd2MwbWhIUXhydDItd2tvc2ZaZGhFZDF2ck5YZGE1ZlA3MGRjZEsxQXB1RzlF?oc=5",
-        "description": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+        "title": "America and China are fighting for the future of AI — chips are the battlefield - Fox News",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhKZnh1UHFmZGdwZTJkWE0wM21FYlp5WERwdmxwc1ViNDhmd3lRdHJtQUJnMlNtX1BxOWFUMjFXUHZraTFjQ21fOUFBYXF6MVRCSTkxZGNuYnM2WldBTjlDcjlQd0RnT3NGZjdkZ2VqV0J3dXJYUC0zaUZGZ1NlWV9pdHdwaWVEb3NZOTJYa9IBjwFBVV95cUxOaEhKZnh1UHFmZGdwZTJkWE0wM21FYlp5WERwdmxwc1ViNDhmd3lRdHJtQUJnMlNtX1BxOWFUMjFXUHZraTFjQ21fOUFBYXF6MVRCSTkxZGNuYnM2WldBTjlDcjlQd0RnT3NGZjdkZ2VqV0J3dXJYUC0zaUZGZ1NlWV9pdHdwaWVEb3NZOTJYaw?oc=5",
+        "description": "America and China are fighting for the future of AI — chips are the battlefield Fox News",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T19:54:54.000Z",
-        "fetchedAt": "2026-09-20T22:43:11.614Z",
+        "publishedAt": "2026-09-20T18:48:22.000Z",
+        "fetchedAt": "2026-09-21T00:34:10.377Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "930 WFMD Free Talk",
+        "googleNewsSource": "Fox News",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
-        "id": "a1"
+        "summary": "America and China are fighting for the future of AI — chips are the battlefield Fox News",
+        "id": "a2"
       },
       {
         "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
@@ -266,7 +266,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T16:56:14.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.332Z",
+        "fetchedAt": "2026-09-21T00:34:03.742Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -285,7 +285,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T16:30:01.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.006Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -306,7 +306,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T15:43:07.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.744Z",
+        "fetchedAt": "2026-09-21T00:34:04.374Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -325,7 +325,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T13:41:03.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -344,7 +344,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T12:47:23.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.332Z",
+        "fetchedAt": "2026-09-21T00:34:03.742Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -363,7 +363,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T12:18:52.000Z",
-        "fetchedAt": "2026-09-20T22:43:11.614Z",
+        "fetchedAt": "2026-09-21T00:34:10.377Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TradingView",
         "geopoliticalBypass": true,
@@ -383,7 +383,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T07:21:21.000Z",
-        "fetchedAt": "2026-09-20T22:43:11.614Z",
+        "fetchedAt": "2026-09-21T00:34:10.377Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Tech Times",
         "geopoliticalBypass": true,
@@ -403,7 +403,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T06:14:15.000Z",
-        "fetchedAt": "2026-09-20T22:43:11.614Z",
+        "fetchedAt": "2026-09-21T00:34:10.377Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "dominotheory.com",
         "geopoliticalBypass": true,
@@ -423,7 +423,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T03:53:22.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -442,7 +442,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T03:35:37.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -461,7 +461,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T02:23:00.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -480,7 +480,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T00:39:58.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -499,7 +499,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T14:03:36.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.007Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -518,7 +518,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:34:49.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.332Z",
+        "fetchedAt": "2026-09-21T00:34:03.742Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -537,7 +537,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-18T08:27:40.000Z",
-        "fetchedAt": "2026-09-20T22:43:09.593Z",
+        "fetchedAt": "2026-09-21T00:34:08.310Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -742,7 +742,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-20T22:43:11.646Z",
+    "generatedAt": "2026-09-21T00:34:10.408Z",
     "date": "2026-09-21",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -781,7 +781,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T16:30:01.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.801Z",
+        "fetchedAt": "2026-09-21T00:34:04.006Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -802,7 +802,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -822,7 +822,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-20T22:43:05.451Z",
+        "fetchedAt": "2026-09-21T00:34:03.776Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -5201,11 +5201,11 @@ export const NEWS_DATA = {
     "totalArticles": 31
   },
   "archive-2026-09-21": {
-    "generatedAt": "2026-09-20T22:43:11.648Z",
+    "generatedAt": "2026-09-21T00:34:10.410Z",
     "date": "2026-09-21",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -5215,7 +5215,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
               "articleIds": [
-                "a2"
+                "a1"
               ],
               "subCategory": "semiconductors"
             },
@@ -5237,7 +5237,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T18:56:59.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5245,7 +5245,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-            "id": "a2"
+            "id": "a1"
           },
           {
             "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -5255,7 +5255,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T18:30:02.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5275,7 +5275,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:58:45.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5293,7 +5293,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -5308,7 +5308,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -5319,7 +5319,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -5344,7 +5344,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T04:19:37.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -5357,7 +5357,7 @@ export const NEWS_DATA = {
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -5365,9 +5365,9 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+              "text": "Geopolitics & Export Controls: America and China are fighting for the future of AI — chips are the battlefield Fox News",
               "articleIds": [
-                "a1"
+                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
             },
@@ -5382,24 +5382,24 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Jxa3NaWU8zMGtSSk10Ui1SMklsTU5vVENDWGFGMmpHdEpvVXVGNndlNU9RZlFESWJjYzdxNERVeGwwNXY5ajFGQm15bkQyRHNIWFFsRlhFNHUtdHE2MjJ1R2dMLWZQa3paTjlUVEtjem84UzI1bVJmempyYUJBWHlkd2MwbWhIUXhydDItd2tvc2ZaZGhFZDF2ck5YZGE1ZlA3MGRjZEsxQXB1RzlF?oc=5",
-            "description": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+            "title": "America and China are fighting for the future of AI — chips are the battlefield - Fox News",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOaEhKZnh1UHFmZGdwZTJkWE0wM21FYlp5WERwdmxwc1ViNDhmd3lRdHJtQUJnMlNtX1BxOWFUMjFXUHZraTFjQ21fOUFBYXF6MVRCSTkxZGNuYnM2WldBTjlDcjlQd0RnT3NGZjdkZ2VqV0J3dXJYUC0zaUZGZ1NlWV9pdHdwaWVEb3NZOTJYa9IBjwFBVV95cUxOaEhKZnh1UHFmZGdwZTJkWE0wM21FYlp5WERwdmxwc1ViNDhmd3lRdHJtQUJnMlNtX1BxOWFUMjFXUHZraTFjQ21fOUFBYXF6MVRCSTkxZGNuYnM2WldBTjlDcjlQd0RnT3NGZjdkZ2VqV0J3dXJYUC0zaUZGZ1NlWV9pdHdwaWVEb3NZOTJYaw?oc=5",
+            "description": "America and China are fighting for the future of AI — chips are the battlefield Fox News",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-20T19:54:54.000Z",
-            "fetchedAt": "2026-09-20T22:43:11.614Z",
+            "publishedAt": "2026-09-20T18:48:22.000Z",
+            "fetchedAt": "2026-09-21T00:34:10.377Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "930 WFMD Free Talk",
+            "googleNewsSource": "Fox News",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
-            "id": "a1"
+            "summary": "America and China are fighting for the future of AI — chips are the battlefield Fox News",
+            "id": "a2"
           },
           {
             "title": "Bessent meets China Vice Premier He Lifeng ahead of Trump-Xi summit",
@@ -5409,7 +5409,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T16:56:14.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.332Z",
+            "fetchedAt": "2026-09-21T00:34:03.742Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5428,7 +5428,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T16:30:01.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.006Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5449,7 +5449,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T15:43:07.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.744Z",
+            "fetchedAt": "2026-09-21T00:34:04.374Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5468,7 +5468,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T13:41:03.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5487,7 +5487,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T12:47:23.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.332Z",
+            "fetchedAt": "2026-09-21T00:34:03.742Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5506,7 +5506,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T12:18:52.000Z",
-            "fetchedAt": "2026-09-20T22:43:11.614Z",
+            "fetchedAt": "2026-09-21T00:34:10.377Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TradingView",
             "geopoliticalBypass": true,
@@ -5526,7 +5526,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T07:21:21.000Z",
-            "fetchedAt": "2026-09-20T22:43:11.614Z",
+            "fetchedAt": "2026-09-21T00:34:10.377Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Tech Times",
             "geopoliticalBypass": true,
@@ -5546,7 +5546,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T06:14:15.000Z",
-            "fetchedAt": "2026-09-20T22:43:11.614Z",
+            "fetchedAt": "2026-09-21T00:34:10.377Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "dominotheory.com",
             "geopoliticalBypass": true,
@@ -5566,7 +5566,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T03:53:22.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5585,7 +5585,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T03:35:37.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5604,7 +5604,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T02:23:00.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5623,7 +5623,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T00:39:58.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5642,7 +5642,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T14:03:36.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.007Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5661,7 +5661,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T17:34:49.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.332Z",
+            "fetchedAt": "2026-09-21T00:34:03.742Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5680,7 +5680,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-18T08:27:40.000Z",
-            "fetchedAt": "2026-09-20T22:43:09.593Z",
+            "fetchedAt": "2026-09-21T00:34:08.310Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5694,7 +5694,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -5705,7 +5705,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-20T22:43:11.646Z",
+        "generatedAt": "2026-09-21T00:34:10.408Z",
         "date": "2026-09-21",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -5744,7 +5744,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-20T16:30:01.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.801Z",
+            "fetchedAt": "2026-09-21T00:34:04.006Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -5765,7 +5765,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-19T18:30:02.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -5785,7 +5785,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-18T14:03:30.000Z",
-            "fetchedAt": "2026-09-20T22:43:05.451Z",
+            "fetchedAt": "2026-09-21T00:34:03.776Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
