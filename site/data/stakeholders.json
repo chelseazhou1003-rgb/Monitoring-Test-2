@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-21T00:34:10.408Z",
+  "generatedAt": "2026-09-21T05:32:46.117Z",
   "date": "2026-09-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Geopolitics & Export Controls: artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
         "articleIds": [
-          "a4"
+          "a13"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
         "articleIds": [
-          "a15"
+          "a21"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
         "articleIds": [
-          "a20"
+          "a25"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T16:30:01.000Z",
-      "fetchedAt": "2026-09-21T00:34:04.006Z",
+      "fetchedAt": "2026-09-21T05:32:38.516Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -49,7 +49,7 @@
         "platform-partner"
       ],
       "summary": "artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-      "id": "a4"
+      "id": "a13"
     },
     {
       "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-21T00:34:03.776Z",
+      "fetchedAt": "2026-09-21T05:32:38.538Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -69,7 +69,7 @@
         "foundry"
       ],
       "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a15"
+      "id": "a21"
     },
     {
       "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
@@ -79,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-21T00:34:03.776Z",
+      "fetchedAt": "2026-09-21T05:32:38.538Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -89,7 +89,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a20"
+      "id": "a25"
     }
   ]
 }

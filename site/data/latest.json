@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-21T00:34:10.410Z",
+  "generatedAt": "2026-09-21T05:32:46.119Z",
   "date": "2026-09-21",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a11",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-      "topHeadlineId": "a17",
+      "topHeadlineId": "a23",
       "briefingSummary": "One article today covering On-Device AI / Edge AI. QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardw"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 16,
-      "topHeadline": "America and China are fighting for the future of AI — chips are the battlefield - Fox News",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources."
+      "articleCount": 21,
+      "topHeadline": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - Invezz",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), Supply Chain (2 articles). A total of 21 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 3,
       "topHeadline": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a13",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 24
+  "totalArticles": 29
 }
