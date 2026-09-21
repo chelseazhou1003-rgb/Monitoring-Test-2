@@ -1,28 +1,104 @@
 {
-  "generatedAt": "2026-09-21T11:08:26.099Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T17:12:38.591Z",
+  "date": "2026-09-22",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
+        "text": "Semiconductors: A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-        "articleIds": [
-          "a17"
+          "a1"
         ],
         "subCategory": "semiconductors"
+      },
+      {
+        "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+        "articleIds": [
+          "a14"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+      "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
+      "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T16:53:14.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+      "id": "a1"
+    },
+    {
+      "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+      "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T11:53:00.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+      "id": "a14"
+    },
+    {
+      "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-lite-quietly-rewiring-ai-111317764.html?.tsrc=rss",
+      "description": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T11:13:17.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+      "id": "a17"
+    },
+    {
+      "title": "Bear of the Day: Qualcomm (QCOM)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+      "description": "With Apple making the s\\wi",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "With Apple making the s\\wi",
+      "id": "a18"
+    },
     {
       "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
       "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-inches-higher-after-worst-drop-in-three-months-traders-eye-snapdragon-summit-for-cues/cZMRaUqRB4F?.tsrc=rss",
@@ -31,7 +107,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T09:05:15.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +115,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
-      "id": "a4"
+      "id": "a22"
     },
     {
       "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
@@ -49,7 +125,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-20T18:56:59.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +133,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-      "id": "a17"
+      "id": "a31"
     },
     {
       "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -67,7 +143,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +153,7 @@
         "foundry"
       ],
       "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a23"
+      "id": "a32"
     },
     {
       "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -87,7 +163,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-18T17:58:45.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -95,27 +171,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-      "id": "a25"
-    },
-    {
-      "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-      "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
-      "description": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a26"
+      "id": "a34"
     }
   ]
 }

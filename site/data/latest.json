@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T11:08:26.101Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T17:12:38.594Z",
+  "date": "2026-09-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
-      "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 8,
+      "topHeadline": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-      "topHeadlineId": "a24",
-      "briefingSummary": "One article today covering On-Device AI / Edge AI. QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardw"
+      "articleCount": 2,
+      "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+      "topHeadlineId": "a9",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "UN says AI safeguards can’t wait for certainty",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
+      "articleCount": 24,
+      "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-      "topHeadlineId": "a19",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 29
+  "totalArticles": 40
 }

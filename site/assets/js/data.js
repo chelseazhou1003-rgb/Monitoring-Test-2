@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,30 +13,106 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Mobile Chips: Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
+          "text": "Semiconductors: A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the",
           "articleIds": [
-            "a4"
-          ],
-          "subCategory": "mobile-chips"
-        },
-        {
-          "text": "Semiconductors: One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-          "articleIds": [
-            "a17"
+            "a1"
           ],
           "subCategory": "semiconductors"
+        },
+        {
+          "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+          "articleIds": [
+            "a14"
+          ],
+          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+        "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
+        "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T16:53:14.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+        "id": "a1"
+      },
+      {
+        "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+        "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:53:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+        "id": "a14"
+      },
+      {
+        "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-lite-quietly-rewiring-ai-111317764.html?.tsrc=rss",
+        "description": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:13:17.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+        "id": "a17"
+      },
+      {
+        "title": "Bear of the Day: Qualcomm (QCOM)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+        "description": "With Apple making the s\\wi",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:00:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "With Apple making the s\\wi",
+        "id": "a18"
+      },
       {
         "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
         "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-inches-higher-after-worst-drop-in-three-months-traders-eye-snapdragon-summit-for-cues/cZMRaUqRB4F?.tsrc=rss",
@@ -45,7 +121,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T09:05:15.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -53,7 +129,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
-        "id": "a4"
+        "id": "a22"
       },
       {
         "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
@@ -63,7 +139,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T18:56:59.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +147,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
-        "id": "a17"
+        "id": "a31"
       },
       {
         "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -81,7 +157,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +167,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-        "id": "a23"
+        "id": "a32"
       },
       {
         "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
@@ -101,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-18T17:58:45.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -109,48 +185,55 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
-        "id": "a25"
-      },
-      {
-        "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-        "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
-        "description": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a26"
+        "id": "a34"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "One article today covering On-Device AI / Edge AI. QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardw",
+      "summary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
+          "articleIds": [
+            "a9"
+          ],
+          "subCategory": "data-center"
+        },
         {
           "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
           "articleIds": [
-            "a24"
+            "a33"
           ],
           "subCategory": "on-device-ai"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+        "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
+        "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T12:43:05.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+        "id": "a9"
+      },
       {
         "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
         "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html?.tsrc=rss",
@@ -159,7 +242,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T04:19:37.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.958Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -167,13 +250,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-        "id": "a24"
+        "id": "a33"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -183,15 +266,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-21T11:08:26.101Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.594Z",
+    "date": "2026-09-22",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
-        "topHeadlineId": "a4",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 8,
+        "topHeadline": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -202,17 +285,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 1,
-        "topHeadline": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-        "topHeadlineId": "a24",
-        "briefingSummary": "One article today covering On-Device AI / Edge AI. QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardw"
+        "articleCount": 2,
+        "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+        "topHeadlineId": "a9",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 20,
-        "topHeadline": "UN says AI safeguards can’t wait for certainty",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
+        "articleCount": 24,
+        "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -223,48 +306,69 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 3,
-        "topHeadline": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-        "topHeadlineId": "a19",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 29
+    "totalArticles": 40
   },
   "macro-environment": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientif",
+          "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Supply Chain: Rowe Price fund is ramping up bets on Greater China companies lower down the AI supply chain, betting the region’s investment cycle still has room to catch up with global trends.",
+          "text": "market-performance: Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
           "articleIds": [
-            "a11"
+            "a8"
           ],
-          "subCategory": "supply-chain"
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "UN says AI safeguards can’t wait for certainty",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/998090/un-ai-panel-hugging-face-hack-precautionary-principle",
-        "description": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats posed by AI, warning that \"the world cannot afford a race to the bottom on AI safety.\" It is the first thematic brief from … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-21T10:18:06.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.689Z",
+        "title": "Trump says DOJ will rein in AI 'if we have to'",
+        "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+        "description": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T16:46:24.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.738Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+        "id": "a2"
+      },
+      {
+        "title": "How AI Could Spark the Next Copper Boom",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-21/how-ai-could-spark-the-next-copper-boom-video",
+        "description": "AI data centers and power grid upgrades are quietly reshaping global copper demand. Morgan Stanley’s Amy Gower breaks down why data centers already punch above their weight, and why US tariff decisions could move copper next. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T16:08:05.000Z",
+        "fetchedAt": "2026-09-21T17:12:32.009Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -272,8 +376,242 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The United Nations logo at the UN headquarters in New York. | Getty Images Governments need to rein in increasingly capable AI agents before their risks are fully understood, a United Nations scientific panel warned in the global organization's first major assessment of OpenAI's hack of Hugging Face earlier this year. The report cements AI's place on the global diplomatic agenda this week as leaders gather in New York for the UN General Assembly and the US and China hold talks on AI. Last week, UN secretary general António Guterres called on governments to cooperate on addressing the threats posed by AI, warning that \"the world cannot afford a race to the bottom on AI safety.\" It is the first thematic brief from … Read the full story at The Verge.",
-        "id": "a1"
+        "summary": "AI data centers and power grid upgrades are quietly reshaping global copper demand. Morgan Stanley’s Amy Gower breaks down why data centers already punch above their weight, and why US tariff decisions could move copper next.",
+        "id": "a3"
+      },
+      {
+        "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+        "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T15:04:04.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.739Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+        "id": "a4"
+      },
+      {
+        "title": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? - TRT World",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1cwYVhRTkZlUW1xSnNQR2xZell3ZUdEZTVaclB2RDFJLVhlZVRvbzJJNTlVaGxWQ0tiRUl0alA1YWloX09XYTM5dlpWS29McG5xTjVCdUpoblgwOVN5Z19tUTJYNlBJZlNaOFlFajh2blA1OFVSNnNkMEhIX1BkOGt1TnlqQ25JNTZwRmR4WGxhNTFEMjIyRzBvNVpndlNRUjFZN2w4d2FWcEpVRlBSWmRlZEs3MTdSVWVZUG1JOXg3TEJOdU56RGo1R0o1dw?oc=5",
+        "description": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? TRT World",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T14:40:50.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TRT World",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump-Xi summit: Can US and China unite to confront AI’s global risks?",
+        "id": "a5"
+      },
+      {
+        "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0RuQ1V5Tkc2NzdzVTU1aWltTTVreUtJSzRfbXhuZFRQazRGQVREWi05Mi1aa1FGS3pwTExXb3RqTndaRnBTeG9aNVBqTDAwU05QS1BlQ011bGI2YkNMblBWOHFLOVoxYlRKSDJobEpZWC1KVjU3V0RMUGg5ZHZPV1dUd0IxSlhmMjVUczFFSFlOOGFtQ3R6THhpTkM4aEZzcUxvNlFSb0dNQQ?oc=5",
+        "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T13:30:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TradingView",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+        "id": "a6"
+      },
+      {
+        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+        "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-21T13:16:25.000Z",
+        "fetchedAt": "2026-09-21T17:12:32.469Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
+        "id": "a7"
+      },
+      {
+        "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-130005250.html?.tsrc=rss",
+        "description": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T13:00:05.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+        "id": "a8"
+      },
+      {
+        "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier - The Detroit News",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFNTbTJ4NTQ3cjRGM2FWRUNOc2duUnVGOG9QU25USTNUYjJoVkFCelZ3YkNjTERNaTRfbUUtLUJWN2xTV0J1UFJOVENJeUJwdk5iZVhRZnBuNy1ncnNDZFowM2hIaWFuOUxhZEU0QUxBaWNNSWJqSFV4ZlVNdVEta3BET28xRXdmazBZaUZybUhUdnhYMEJVWldQcWs4QXp5ZzFKamItVTM3Ymt1dU1ueHFfOGlEUXlEd2pIOWM3cGRRRVozLTlpZWdFQlhOVlg4a0FXVmFR?oc=5",
+        "description": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier The Detroit News",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T12:41:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Detroit News",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier The Detroit News",
+        "id": "a10"
+      },
+      {
+        "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Legal Desire",
+        "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdjZRNl82US1VQi1JZ1B2TVk5VVQ3VWw2TWZDUUE1VVY1aEh0LWRXanNCVktnWFdLbmVwUEZybnJYUnhNbkZxblFra1dPNldTRDJLbWpQNF9PSHRQMkp4T19GYU9MNk1IQWhNTmZzcEpucFlUSUdJTVlPeDVBWmxJUWZBbm9jQm40a282LWNuUWo2VmFJbjluNzJ5amNJWFpZOG9EdS15ay1renRuYU01VS02WFQ4Zmx1TDJSSFRkQ1hXbGlJVWhDRERuVEczNTRDcG9wdmlldU1pSnRoQVRvRXgxazFYeDZ4UVlpZUt2Nnc5SS1zR1E?oc=5",
+        "description": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T12:32:14.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Legal Desire",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
+        "id": "a11"
+      },
+      {
+        "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
+        "url": "https://finance.yahoo.com/technology/ai/articles/ai-networking-bet-sends-qualcomm-121316291.html?.tsrc=rss",
+        "description": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T12:13:16.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
+        "id": "a12"
+      },
+      {
+        "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
+        "url": "https://www.eetimes.com/chinas-dram-specialist-cxmt-eyes-nand-flash-entry/",
+        "description": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+        "source": "EE Times",
+        "sourceId": "eetimes",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-09-21T11:58:25.000Z",
+        "fetchedAt": "2026-09-21T17:12:32.653Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+        "id": "a13"
+      },
+      {
+        "title": "US proposes AI warning system with China for national security threats - Straight Arrow",
+        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUd0ODNWd0RjV2FhdTZtLWw2ekZtNkU5WkYtMndWdVRJdFJyazZTZGZscTlyNUNaSzIxd2h1Q2Q3NllkMjJ6YVhBeEFNdkxaYkNtTnNiMVFqdm0tZVhHcnpXQndPUFZ5TFYxdGZ1aU5IaWp6eWN1elRsaE8zaVUyYnVUTUszY3h5MGZRbU1sdVc2bGVB?oc=5",
+        "description": "US proposes AI warning system with China for national security threats Straight Arrow",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:14:46.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Straight Arrow",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US proposes AI warning system with China for national security threats Straight Arrow",
+        "id": "a15"
+      },
+      {
+        "title": "Trump-Xi Meeting: China-US AI Rivalry Poses Questions for Summit",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-xi-meeting-china-us-ai-rivalry-poses-questions-for-summit",
+        "description": "Artificial intelligence will be high on the agenda when US President Donald Trump sits down with China’s Xi Jinping at the White House on Thursday. Both superpowers see AI as the new focal point of their economic rivalry. Trump declared on Sept. 13 that “whoever wins AI, wins.”",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:13:31.000Z",
+        "fetchedAt": "2026-09-21T17:12:32.009Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Artificial intelligence will be high on the agenda when US President Donald Trump sits down with China’s Xi Jinping at the White House on Thursday. Both superpowers see AI as the new focal point of their economic rivalry. Trump declared on Sept. 13 that “whoever wins AI, wins.”",
+        "id": "a16"
+      },
+      {
+        "title": "Researchers doubt US AI chip curbs can defeat China - streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHJSeUp3azZkaXNRdHpVTmdyM05JSlg1MjBkVGRYbEdxUk1wSnBLN1psWjlISExUX3pXbU5vN0E3MWZReDJZbFBkRll3WEt3Q1pQSjM2aDRrWXE5b2NLdUZhZVBYb2xNelFuU3VGMVcxYTZ3c3RnazRaTkl2TkhoSDZTTlZ2YUUwVUswWGln?oc=5",
+        "description": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T09:50:16.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "streamlinefeed.co.ke",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
+        "id": "a19"
       },
       {
         "title": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability - The China-Global South Project",
@@ -283,7 +621,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T09:37:35.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.558Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The China-Global South Project",
         "geopoliticalBypass": true,
@@ -293,7 +631,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
-        "id": "a2"
+        "id": "a20"
       },
       {
         "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
@@ -303,7 +641,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-21T09:17:34.000Z",
-        "fetchedAt": "2026-09-21T11:08:24.274Z",
+        "fetchedAt": "2026-09-21T17:12:36.110Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -312,7 +650,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
-        "id": "a3"
+        "id": "a21"
       },
       {
         "title": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race - Moneycontrol.com",
@@ -322,7 +660,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T08:57:49.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Moneycontrol.com",
         "geopoliticalBypass": true,
@@ -332,7 +670,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
-        "id": "a5"
+        "id": "a23"
       },
       {
         "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 - Bisinfotech",
@@ -342,7 +680,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T08:52:07.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bisinfotech",
         "geopoliticalBypass": true,
@@ -352,7 +690,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
-        "id": "a6"
+        "id": "a24"
       },
       {
         "title": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit - Technology Org",
@@ -362,7 +700,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T07:41:41.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Technology Org",
         "geopoliticalBypass": true,
@@ -372,7 +710,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
-        "id": "a7"
+        "id": "a25"
       },
       {
         "title": "The US Wants an AI-Era 'Red Phone' With China - Business Insider",
@@ -381,8 +719,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T05:41:00.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "publishedAt": "2026-09-21T05:41:47.000Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Business Insider",
         "geopoliticalBypass": true,
@@ -392,27 +730,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
-        "id": "a8"
+        "id": "a26"
       },
       {
-        "title": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - invezz.com",
+        "title": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - Invezz",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJVcEhxUzA3eE90UkloRjBzLVA0cEtMZWpSSXFsTWNEUVNEZFJpUUw5UGJRaGdrak1KQVhwZEpRWDRJbWhrR2lYSktrNndiQ3QyQlZ1MHltQ1hIQ29Ra0lsYjgtNnUzNGFrRlFPcHFreWc2bzlVQ1k5QmJyNlZrV1ZBa1NnRlp1bDVFc3lub2ljb2REMWtMOFNfM01JaU9DTHBzLWExRkZBLTQ?oc=5",
-        "description": "Hang Seng flips higher as Trump-Xi talks put China risk back in play invezz.com",
+        "description": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T05:27:50.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.063Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "invezz.com",
+        "googleNewsSource": "Invezz",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Hang Seng flips higher as Trump-Xi talks put China risk back in play invezz.com",
-        "id": "a9"
+        "summary": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
+        "id": "a27"
       },
       {
         "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
@@ -422,7 +760,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T04:11:57.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.537Z",
+        "fetchedAt": "2026-09-21T17:12:32.336Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -431,65 +769,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
-        "id": "a10"
-      },
-      {
-        "title": "T. Rowe Fund Targets Chinese Winners of Booming AI Supply Chain",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-21/t-rowe-fund-targets-chinese-winners-of-booming-ai-supply-chain",
-        "description": "A top-performing T. Rowe Price fund is ramping up bets on Greater China companies lower down the AI supply chain, betting the region’s investment cycle still has room to catch up with global trends.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T03:55:56.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Rowe Price fund is ramping up bets on Greater China companies lower down the AI supply chain, betting the region’s investment cycle still has room to catch up with global trends.",
-        "id": "a11"
-      },
-      {
-        "title": "CATL Sees Limited Impact From China’s New Battery Tax on Orders",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-21/catl-sees-limited-impact-from-china-s-new-battery-tax-on-orders",
-        "description": "Contemporary Amperex Technology Co. has seen some volatility in domestic orders since China’s consumption tax on batteries took effect this month, but overall the impact has been limited, according to a company executive.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T03:03:07.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Contemporary Amperex Technology Co. has seen some volatility in domestic orders since China’s consumption tax on batteries took effect this month, but overall the impact has been limited, according to a company executive.",
-        "id": "a12"
-      },
-      {
-        "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier - Devdiscourse",
-        "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxOUlRnc0wxSEtOamI3d0ZYb1RZejZLekZxVWt5cFlNdVVxWnpKMWMyc0puZ2dobmFkZWxYRXlneTR6cG9PRjBjcVJIMXZ2YjVkZE5ONmw0VGFGWEE1eWk0aEgxX3NkQ3NhNkxaV2dWZmtGMUdwcHNTdXBKbl9lZ3g1V3hSemNNVDVyV3RYaHRkTVZGZ2Rib0JQMk9KRDVVa29ZeEVvVFFJVUFRSldwdjM1M2dxbDN2SjBRMlcydjFtTDA3QmVBalNGMGdXV1liWk1pR09qSFhoV1VNNVdzWkFENtIB4AFBVV95cUxOUlRnc0wxSEtOamI3d0ZYb1RZejZLekZxVWt5cFlNdVVxWnpKMWMyc0puZ2dobmFkZWxYRXlneTR6cG9PRjBjcVJIMXZ2YjVkZE5ONmw0VGFGWEE1eWk0aEgxX3NkQ3NhNkxaV2dWZmtGMUdwcHNTdXBKbl9lZ3g1V3hSemNNVDVyV3RYaHRkTVZGZ2Rib0JQMk9KRDVVa29ZeEVvVFFJVUFRSldwdjM1M2dxbDN2SjBRMlcydjFtTDA3QmVBalNGMGdXV1liWk1pR09qSFhoV1VNNVdzWkFENg?oc=5",
-        "description": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier Devdiscourse",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T02:47:05.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Devdiscourse",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier Devdiscourse",
-        "id": "a13"
+        "id": "a28"
       },
       {
         "title": "The Chip Ban Backfired: Huawei Builds a 4,096-Processor AI Cluster - The Eastern Herald",
@@ -499,7 +779,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T02:22:13.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Eastern Herald",
         "geopoliticalBypass": true,
@@ -509,145 +789,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Chip Ban Backfired: Huawei Builds a 4,096-Processor AI Cluster The Eastern Herald",
-        "id": "a14"
+        "id": "a29"
       },
       {
-        "title": "Bessent Hails ‘Successful’ China Talks on AI, Trade",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-21/bessent-hails-successful-china-talks-on-ai-trade-video",
-        "description": "US Treasury Secretary Scott Bessent described talks with his Chinese counterparts that spanned artificial intelligence, trade and investment as “very successful” ahead of this week’s summit between presidents of the world’s two biggest economies. Bloomberg's Stephen Engle shares what we know. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T00:45:34.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US Treasury Secretary Scott Bessent described talks with his Chinese counterparts that spanned artificial intelligence, trade and investment as “very successful” ahead of this week’s summit between presidents of the world’s two biggest economies. Bloomberg's Stephen Engle shares what we know.",
-        "id": "a15"
-      },
-      {
-        "title": "America and China are fighting for the future of AI — chips are the battlefield - wfmd.com",
+        "title": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
         "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Jxa3NaWU8zMGtSSk10Ui1SMklsTU5vVENDWGFGMmpHdEpvVXVGNndlNU9RZlFESWJjYzdxNERVeGwwNXY5ajFGQm15bkQyRHNIWFFsRlhFNHUtdHE2MjJ1R2dMLWZQa3paTjlUVEtjem84UzI1bVJmempyYUJBWHlkd2MwbWhIUXhydDItd2tvc2ZaZGhFZDF2ck5YZGE1ZlA3MGRjZEsxQXB1RzlF?oc=5",
-        "description": "America and China are fighting for the future of AI — chips are the battlefield wfmd.com",
+        "description": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-20T19:54:54.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
+        "fetchedAt": "2026-09-21T17:12:38.559Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "wfmd.com",
+        "googleNewsSource": "930 WFMD Free Talk",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "America and China are fighting for the future of AI — chips are the battlefield wfmd.com",
-        "id": "a16"
-      },
-      {
-        "title": "U.S.-China Summit, PMI and Other Can't Miss Items this Week - inkl",
-        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMndCRlVIRkEwOWVMbm9GZHhiLXlnZFRLeDVGRHdOOEVacXN1SVNTTGZIam5LS3lSM0tUYnhYQ3NOd2praUxrVElSVkFRS1oyeHJaLTJqQjlfX1FzcHpER3phWnZXbVMzQVZGMEVNX3oxVnhMa0pkUHd4T1hBZ0J5SHlNemdKSkRlUXc?oc=5",
-        "description": "U.S.-China Summit, PMI and Other Can't Miss Items this Week inkl",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T17:00:02.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "inkl",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "U.S.-China Summit, PMI and Other Can't Miss Items this Week inkl",
-        "id": "a18"
-      },
-      {
-        "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-        "description": "Microsoft Corp. artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T16:30:01.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-        "id": "a19"
-      },
-      {
-        "title": "Meloni Eyes Hijab, Burqa Ban in Schools to Fight Far-Right Surge",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/meloni-eyes-more-stringent-school-laws-to-counter-far-right-rise",
-        "description": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T13:41:03.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Italy’s center-right coalition government moved to counter the surge of the ultranationalist National Future party, with Premier Giorgia Meloni proposing new education laws that would place more restrictions on foreigners.",
-        "id": "a20"
-      },
-      {
-        "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
-        "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
-        "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T12:47:23.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.240Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
-        "id": "a21"
-      },
-      {
-        "title": "Trump’s softer China strategy puts markets on alert before Xi visit - TradingView",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOUTViYnZjeGVZOTVwVjV5NmNqSmhrNU9HaGRkaDhkMS00REx0dXdta2p4d0Itd2VZTVE1bFhmc1dDWG9scEMyRnFVandkZURKdExvbi14cmwxUVRzY08tNks2WFVYUENZY0RPSm00dWE0ZW14TThGcnpDQnhNVmg3QnUzZV85V3F2YVN0T19jUllMVjk1VUZmbVFqcGZQYWZxQTVpQ05YQnpIaXJzMVVXc0VxZnROUWRfNTFOY0w3SE1XVHRhd1NYTElB?oc=5",
-        "description": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T12:18:52.000Z",
-        "fetchedAt": "2026-09-21T11:08:26.062Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "TradingView",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump’s softer China strategy puts markets on alert before Xi visit TradingView",
-        "id": "a22"
+        "summary": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+        "id": "a30"
       }
     ]
   },
@@ -843,46 +1005,53 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-21T11:08:26.099Z",
-    "date": "2026-09-21",
+    "generatedAt": "2026-09-21T17:12:38.591Z",
+    "date": "2026-09-22",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
+          "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
           "articleIds": [
-            "a19"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+          "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
           "articleIds": [
-            "a23"
+            "a9"
           ],
-          "subCategory": "semiconductors"
+          "subCategory": "data-center"
         },
         {
-          "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
+          "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
           "articleIds": [
-            "a26"
+            "a14"
           ],
           "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: With Apple making the s\\wi",
+          "articleIds": [
+            "a18"
+          ],
+          "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
       {
-        "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-        "description": "Microsoft Corp. artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "Trump says DOJ will rein in AI 'if we have to'",
+        "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+        "description": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-20T16:30:01.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.501Z",
+        "publishedAt": "2026-09-21T16:46:24.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.738Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -890,10 +1059,91 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [
-          "platform-partner"
+          "regulators"
         ],
-        "summary": "artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-        "id": "a19"
+        "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+        "id": "a2"
+      },
+      {
+        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+        "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-21T13:16:25.000Z",
+        "fetchedAt": "2026-09-21T17:12:32.469Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
+        "id": "a7"
+      },
+      {
+        "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+        "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
+        "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T12:43:05.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+        "id": "a9"
+      },
+      {
+        "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+        "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:53:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+        "id": "a14"
+      },
+      {
+        "title": "Bear of the Day: Qualcomm (QCOM)",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+        "description": "With Apple making the s\\wi",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T11:00:00.000Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "With Apple making the s\\wi",
+        "id": "a18"
       },
       {
         "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -903,7 +1153,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-19T18:30:02.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
+        "fetchedAt": "2026-09-21T17:12:31.957Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -913,27 +1163,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-        "id": "a23"
-      },
-      {
-        "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-        "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
-        "description": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-18T14:03:30.000Z",
-        "fetchedAt": "2026-09-21T11:08:20.372Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-        "id": "a26"
+        "id": "a32"
       }
     ]
   },
@@ -6003,6 +6233,939 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 29
+  },
+  "archive-2026-09-22": {
+    "generatedAt": "2026-09-21T17:12:38.594Z",
+    "date": "2026-09-22",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+            "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
+            "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T16:53:14.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+            "id": "a1"
+          },
+          {
+            "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+            "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:53:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+            "id": "a14"
+          },
+          {
+            "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-lite-quietly-rewiring-ai-111317764.html?.tsrc=rss",
+            "description": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:13:17.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
+            "id": "a17"
+          },
+          {
+            "title": "Bear of the Day: Qualcomm (QCOM)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+            "description": "With Apple making the s\\wi",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:00:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "With Apple making the s\\wi",
+            "id": "a18"
+          },
+          {
+            "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
+            "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-inches-higher-after-worst-drop-in-three-months-traders-eye-snapdragon-summit-for-cues/cZMRaUqRB4F?.tsrc=rss",
+            "description": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T09:05:15.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
+            "id": "a22"
+          },
+          {
+            "title": "Astera Labs vs. Qualcomm: Which Semiconductor Stock Is a Better Buy in 2026?",
+            "url": "https://www.fool.com/coverage/better-buy/2026/09/20/astera-labs-vs-qualcomm-which-semiconductor-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+            "description": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T18:56:59.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "One company is riding explosive AI connectivity demand with triple-digit growth. The other is navigating smartphone headwinds while building promising new businesses in automotive and data centers.",
+            "id": "a31"
+          },
+          {
+            "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+            "url": "https://www.barchart.com/story/news/4696893/mediatek-is-stepping-up-competition-against-qualcomm-with-a-new-2-nanometer-chip-what-this-means-for-qcom-stock?.tsrc=rss",
+            "description": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T18:30:02.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+            "id": "a32"
+          },
+          {
+            "title": "Qualcomm Drops 6% as Past Month’s Rally Unwinds; Skyworks and Qorvo Slip",
+            "url": "https://247wallst.com/investing/2026/09/18/qualcomm-drops-6-as-past-months-rally-unwinds-skyworks-and-qorvo-slip/?.tsrc=rss",
+            "description": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-18T17:58:45.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is selling off sharply on a day when the broader chip fund is climbing, and the disconnect between those two moves points to something specific happening inside one of the market's most closely watched semiconductor names.",
+            "id": "a34"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
+              "articleIds": [
+                "a9"
+              ],
+              "subCategory": "data-center"
+            },
+            {
+              "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
+              "articleIds": [
+                "a33"
+              ],
+              "subCategory": "on-device-ai"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+            "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
+            "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T12:43:05.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+            "id": "a9"
+          },
+          {
+            "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html?.tsrc=rss",
+            "description": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T04:19:37.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.958Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "on-device-ai",
+            "subLabel": "On-Device AI / Edge AI",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
+            "id": "a33"
+          }
+        ]
+      },
+      "macro-environment": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Trump says DOJ will rein in AI 'if we have to'",
+            "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+            "description": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T16:46:24.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.738Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+            "id": "a2"
+          },
+          {
+            "title": "How AI Could Spark the Next Copper Boom",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-21/how-ai-could-spark-the-next-copper-boom-video",
+            "description": "AI data centers and power grid upgrades are quietly reshaping global copper demand. Morgan Stanley’s Amy Gower breaks down why data centers already punch above their weight, and why US tariff decisions could move copper next. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T16:08:05.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.009Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "AI data centers and power grid upgrades are quietly reshaping global copper demand. Morgan Stanley’s Amy Gower breaks down why data centers already punch above their weight, and why US tariff decisions could move copper next.",
+            "id": "a3"
+          },
+          {
+            "title": "‘It's awful’: How tariffs, soaring fuel costs and higher interest rates are squeezing American companies",
+            "url": "https://www.cnbc.com/2026/09/20/tariffs-fuel-prices-and-interest-rates-squeeze-us-companies.html",
+            "description": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T15:04:04.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.739Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tariffs, fuel prices and interest rates are squeezing American companies, particularly manufacturers, auto suppliers, retailers and transportation businesses.",
+            "id": "a4"
+          },
+          {
+            "title": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? - TRT World",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNX1cwYVhRTkZlUW1xSnNQR2xZell3ZUdEZTVaclB2RDFJLVhlZVRvbzJJNTlVaGxWQ0tiRUl0alA1YWloX09XYTM5dlpWS29McG5xTjVCdUpoblgwOVN5Z19tUTJYNlBJZlNaOFlFajh2blA1OFVSNnNkMEhIX1BkOGt1TnlqQ25JNTZwRmR4WGxhNTFEMjIyRzBvNVpndlNRUjFZN2w4d2FWcEpVRlBSWmRlZEs3MTdSVWVZUG1JOXg3TEJOdU56RGo1R0o1dw?oc=5",
+            "description": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? TRT World",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T14:40:50.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TRT World",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump-Xi summit: Can US and China unite to confront AI’s global risks?",
+            "id": "a5"
+          },
+          {
+            "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0RuQ1V5Tkc2NzdzVTU1aWltTTVreUtJSzRfbXhuZFRQazRGQVREWi05Mi1aa1FGS3pwTExXb3RqTndaRnBTeG9aNVBqTDAwU05QS1BlQ011bGI2YkNMblBWOHFLOVoxYlRKSDJobEpZWC1KVjU3V0RMUGg5ZHZPV1dUd0IxSlhmMjVUczFFSFlOOGFtQ3R6THhpTkM4aEZzcUxvNlFSb0dNQQ?oc=5",
+            "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T13:30:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+            "id": "a6"
+          },
+          {
+            "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+            "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+            "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-21T13:16:25.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.469Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
+            "id": "a7"
+          },
+          {
+            "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-130005250.html?.tsrc=rss",
+            "description": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T13:00:05.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+            "id": "a8"
+          },
+          {
+            "title": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier - The Detroit News",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQdFNTbTJ4NTQ3cjRGM2FWRUNOc2duUnVGOG9QU25USTNUYjJoVkFCelZ3YkNjTERNaTRfbUUtLUJWN2xTV0J1UFJOVENJeUJwdk5iZVhRZnBuNy1ncnNDZFowM2hIaWFuOUxhZEU0QUxBaWNNSWJqSFV4ZlVNdVEta3BET28xRXdmazBZaUZybUhUdnhYMEJVWldQcWs4QXp5ZzFKamItVTM3Ymt1dU1ueHFfOGlEUXlEd2pIOWM3cGRRRVozLTlpZWdFQlhOVlg4a0FXVmFR?oc=5",
+            "description": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier The Detroit News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T12:41:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Detroit News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bessent proposes US-China AI safety notifications in talks with Chinese vice premier The Detroit News",
+            "id": "a10"
+          },
+          {
+            "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Legal Desire",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxNdjZRNl82US1VQi1JZ1B2TVk5VVQ3VWw2TWZDUUE1VVY1aEh0LWRXanNCVktnWFdLbmVwUEZybnJYUnhNbkZxblFra1dPNldTRDJLbWpQNF9PSHRQMkp4T19GYU9MNk1IQWhNTmZzcEpucFlUSUdJTVlPeDVBWmxJUWZBbm9jQm40a282LWNuUWo2VmFJbjluNzJ5amNJWFpZOG9EdS15ay1renRuYU01VS02WFQ4Zmx1TDJSSFRkQ1hXbGlJVWhDRERuVEczNTRDcG9wdmlldU1pSnRoQVRvRXgxazFYeDZ4UVlpZUt2Nnc5SS1zR1E?oc=5",
+            "description": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T12:32:14.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Legal Desire",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
+            "id": "a11"
+          },
+          {
+            "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
+            "url": "https://finance.yahoo.com/technology/ai/articles/ai-networking-bet-sends-qualcomm-121316291.html?.tsrc=rss",
+            "description": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T12:13:16.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
+            "id": "a12"
+          },
+          {
+            "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
+            "url": "https://www.eetimes.com/chinas-dram-specialist-cxmt-eyes-nand-flash-entry/",
+            "description": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-09-21T11:58:25.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.653Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+            "id": "a13"
+          },
+          {
+            "title": "US proposes AI warning system with China for national security threats - Straight Arrow",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOZUd0ODNWd0RjV2FhdTZtLWw2ekZtNkU5WkYtMndWdVRJdFJyazZTZGZscTlyNUNaSzIxd2h1Q2Q3NllkMjJ6YVhBeEFNdkxaYkNtTnNiMVFqdm0tZVhHcnpXQndPUFZ5TFYxdGZ1aU5IaWp6eWN1elRsaE8zaVUyYnVUTUszY3h5MGZRbU1sdVc2bGVB?oc=5",
+            "description": "US proposes AI warning system with China for national security threats Straight Arrow",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:14:46.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Straight Arrow",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US proposes AI warning system with China for national security threats Straight Arrow",
+            "id": "a15"
+          },
+          {
+            "title": "Trump-Xi Meeting: China-US AI Rivalry Poses Questions for Summit",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-21/trump-xi-meeting-china-us-ai-rivalry-poses-questions-for-summit",
+            "description": "Artificial intelligence will be high on the agenda when US President Donald Trump sits down with China’s Xi Jinping at the White House on Thursday. Both superpowers see AI as the new focal point of their economic rivalry. Trump declared on Sept. 13 that “whoever wins AI, wins.”",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:13:31.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.009Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Artificial intelligence will be high on the agenda when US President Donald Trump sits down with China’s Xi Jinping at the White House on Thursday. Both superpowers see AI as the new focal point of their economic rivalry. Trump declared on Sept. 13 that “whoever wins AI, wins.”",
+            "id": "a16"
+          },
+          {
+            "title": "Researchers doubt US AI chip curbs can defeat China - streamlinefeed.co.ke",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHJSeUp3azZkaXNRdHpVTmdyM05JSlg1MjBkVGRYbEdxUk1wSnBLN1psWjlISExUX3pXbU5vN0E3MWZReDJZbFBkRll3WEt3Q1pQSjM2aDRrWXE5b2NLdUZhZVBYb2xNelFuU3VGMVcxYTZ3c3RnazRaTkl2TkhoSDZTTlZ2YUUwVUswWGln?oc=5",
+            "description": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T09:50:16.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "streamlinefeed.co.ke",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
+            "id": "a19"
+          },
+          {
+            "title": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability - The China-Global South Project",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdm5rSEhDMEtKRWFleG1OY2ZiQlhDREtTZmJKWlBhYVhwMjZTdWZwc0hHaVlNbVlwZTVKaEU1VXZhWFUzTWo2dHRyMkVtV0dMQi1URC1tREFwbFN5LXY3Z1hYRkRWMDBHR0NCOC1KTFZWcld5UkpQZDNXOXV1c0djbGkwdw?oc=5",
+            "description": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T09:37:35.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.558Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The China-Global South Project",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
+            "id": "a20"
+          },
+          {
+            "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
+            "url": "https://www.mobileworldlive.com/5g/dow-flags-hurdles-in-securing-400mhz-blocks-for-6g/",
+            "description": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-21T09:17:34.000Z",
+            "fetchedAt": "2026-09-21T17:12:36.110Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
+            "id": "a21"
+          },
+          {
+            "title": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV3B5V1g3MkJra0IzT0NvUndTWVdlalIzaFFHRnZWTGtYRUxVVHR5dVJMemNnd3ZrUU1VeDBxbG8tQ3V1c19xWXphck92ekNsYm1ZWFYtMjlQM1RHVDVHTC1rM0FhSnFIY0dwZFF0RVhoc2JpbWw3RWk5OHR5TnBhU1dFQ2N1S1FKbXhoQnF5MnU2RXp5MXVJY2lrb1hkQWJHamRjZ05EME8xcmxoVjlYZlRUenoxTmRrLWhOYUxpMEZXNVR2Mkc2NGlTVmttQldCWGZvVXFOS28yaWwzUHdfUGJUX0FjTUh5WmFxQ3B0WXNnd9IB9wFBVV95cUxQOHBZYXppQ3ljVnV0QlVHSUZyR20yTXZDWnFfMEJ5c1ZnZVhCdEZ6OWVsdDVibUR5SzdLZTZKMDQwQ1NrejByZE1wM2VGZzEtS0tGUTVEZVlLNkpoMUI3OXBNSThKMmJGNUdTSndaby1rSXphZnI2VWxzWGx6Q3MzVmxaVmh4RlZOTzg0aWQzUUFNQmt4MHhsMVpBOWFDS0NaSkJ0V0Q1NzNuMHk0VFdtX0lRTkt4VFlNdE5mRHhBbXpKanR3dXB3ZGtOVmZiMUNwaTNnajREZ09uQzQ0ekpfbzNoSUNyMEk3dDJiUTB3MXV5TlQtTC1B?oc=5",
+            "description": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T08:57:49.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Moneycontrol.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
+            "id": "a23"
+          },
+          {
+            "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 - Bisinfotech",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2hyd002RXlZOHY4bGtMOTd1ZjBlN3cwSHNpWlhnN1Z3Y0FvZFZaZ0xHYk54M253VUNPMFQ4WUZsMy1Wb2tPSkNUUUtXSWxFVWVPWnUzeHdYS1ZoT2V4eGZoOGRTODZWVlB6RUZqTmg2R3NUQnc0LUt5UWxVWGN5aDZIUzJTTy0wS3kwd1lGX21FcUpYYU1DX0N2VQ?oc=5",
+            "description": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T08:52:07.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bisinfotech",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
+            "id": "a24"
+          },
+          {
+            "title": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit - Technology Org",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk5jQkRybkVPeUhvVDdNdDgxYXNSWkZ3T0gwUGJpbjlwZ25lMDE1dDAtQm00VkNZRTNrUkdCSzVIWVJnLXJsREdJMGx5cWJMcDdWYzlvMEc4eG1DZ1Vxb01fT3FXZ3N2OHU2ZFBtTHRHWXFOelI2cGNIX0hRbE92dF83QkM?oc=5",
+            "description": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T07:41:41.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Technology Org",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
+            "id": "a25"
+          },
+          {
+            "title": "The US Wants an AI-Era 'Red Phone' With China - Business Insider",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZHeUViSUplVFVLa0lmcE1wUlh2MzA3WTJORno1Z1hwcUpVNnVHa1I1RVNfcnVWVUhZN1Nkbl9UV1BmOGlPeHQ4TDNQc3dzX09IZTJhamtpZXBFeEJOTHhBR3o0TjdWWmRWbmcybjdISWktUEM5YkdMN3E3dXlzeWFoeklkci1WYmFqMkVJRWRaN3hhd1NPODZMYTg?oc=5",
+            "description": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T05:41:47.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Business Insider",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
+            "id": "a26"
+          },
+          {
+            "title": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - Invezz",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJVcEhxUzA3eE90UkloRjBzLVA0cEtMZWpSSXFsTWNEUVNEZFJpUUw5UGJRaGdrak1KQVhwZEpRWDRJbWhrR2lYSktrNndiQ3QyQlZ1MHltQ1hIQ29Ra0lsYjgtNnUzNGFrRlFPcHFreWc2bzlVQ1k5QmJyNlZrV1ZBa1NnRlp1bDVFc3lub2ljb2REMWtMOFNfM01JaU9DTHBzLWExRkZBLTQ?oc=5",
+            "description": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T05:27:50.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Invezz",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
+            "id": "a27"
+          },
+          {
+            "title": "Bessent hails US-China AI dialogue ahead of Trump-Xi meeting",
+            "url": "https://www.ft.com/content/d29d769e-039c-4d11-9152-e63ccd397b32?syn-25a6b1a6=1",
+            "description": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T04:11:57.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.336Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Treasury secretary says sides working towards ‘shared vision’ after talks with Chinese counterpart",
+            "id": "a28"
+          },
+          {
+            "title": "The Chip Ban Backfired: Huawei Builds a 4,096-Processor AI Cluster - The Eastern Herald",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOTXRRMmYxbHBTeVhnaURtZU5UQlZ4VElqRmJFdTBvcVNTYWdiVmhLeFItUXBtcDR0QjgtQmxSRjhnakRGZFZVVkcxRGMtWWRZMHRHNUxCQkNEczRPSWI1X0lSVnJjaS05aEhMcFVuTUFWcl9LX2l3WXVhb2JLX19iZUppUVdIZHc?oc=5",
+            "description": "The Chip Ban Backfired: Huawei Builds a 4,096-Processor AI Cluster The Eastern Herald",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T02:22:13.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Eastern Herald",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The Chip Ban Backfired: Huawei Builds a 4,096-Processor AI Cluster The Eastern Herald",
+            "id": "a29"
+          },
+          {
+            "title": "America and China are fighting for the future of AI — chips are the battlefield - 930 WFMD Free Talk",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQR3Jxa3NaWU8zMGtSSk10Ui1SMklsTU5vVENDWGFGMmpHdEpvVXVGNndlNU9RZlFESWJjYzdxNERVeGwwNXY5ajFGQm15bkQyRHNIWFFsRlhFNHUtdHE2MjJ1R2dMLWZQa3paTjlUVEtjem84UzI1bVJmempyYUJBWHlkd2MwbWhIUXhydDItd2tvc2ZaZGhFZDF2ck5YZGE1ZlA3MGRjZEsxQXB1RzlF?oc=5",
+            "description": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-20T19:54:54.000Z",
+            "fetchedAt": "2026-09-21T17:12:38.559Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "930 WFMD Free Talk",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "America and China are fighting for the future of AI — chips are the battlefield 930 WFMD Free Talk",
+            "id": "a30"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-09-21T17:12:38.591Z",
+        "date": "2026-09-22",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
+              "articleIds": [
+                "a9"
+              ],
+              "subCategory": "data-center"
+            },
+            {
+              "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: With Apple making the s\\wi",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Trump says DOJ will rein in AI 'if we have to'",
+            "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+            "description": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T16:46:24.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.738Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+            "id": "a2"
+          },
+          {
+            "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+            "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+            "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-21T13:16:25.000Z",
+            "fetchedAt": "2026-09-21T17:12:32.469Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
+            "id": "a7"
+          },
+          {
+            "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+            "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
+            "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T12:43:05.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+            "id": "a9"
+          },
+          {
+            "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+            "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:53:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+            "id": "a14"
+          },
+          {
+            "title": "Bear of the Day: Qualcomm (QCOM)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+            "description": "With Apple making the s\\wi",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T11:00:00.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "With Apple making the s\\wi",
+            "id": "a18"
+          },
+          {
+            "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
+            "url": "https://www.barchart.com/story/news/4696893/mediatek-is-stepping-up-competition-against-qualcomm-with-a-new-2-nanometer-chip-what-this-means-for-qcom-stock?.tsrc=rss",
+            "description": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-19T18:30:02.000Z",
+            "fetchedAt": "2026-09-21T17:12:31.957Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+            "id": "a32"
+          }
+        ]
+      }
+    },
+    "totalArticles": 40
   }
 };
 

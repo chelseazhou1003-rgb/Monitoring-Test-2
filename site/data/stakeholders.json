@@ -1,44 +1,51 @@
 {
-  "generatedAt": "2026-09-21T11:08:26.099Z",
-  "date": "2026-09-21",
+  "generatedAt": "2026-09-21T17:12:38.591Z",
+  "date": "2026-09-22",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
+        "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
         "articleIds": [
-          "a19"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Semiconductors: MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
+        "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
         "articleIds": [
-          "a23"
+          "a9"
         ],
-        "subCategory": "semiconductors"
+        "subCategory": "data-center"
       },
       {
-        "text": "Mobile Chips: Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised i",
+        "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
         "articleIds": [
-          "a26"
+          "a14"
         ],
         "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: With Apple making the s\\wi",
+        "articleIds": [
+          "a18"
+        ],
+        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
     {
-      "title": "Microsoft AI Chief Says China Isn’t Excuse to Forego Regulation",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-20/microsoft-ai-chief-says-china-isn-t-excuse-to-forego-regulation",
-      "description": "Microsoft Corp. artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Trump says DOJ will rein in AI 'if we have to'",
+      "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
+      "description": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-20T16:30:01.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.501Z",
+      "publishedAt": "2026-09-21T16:46:24.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.738Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -46,10 +53,91 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "platform-partner"
+        "regulators"
       ],
-      "summary": "artificial intelligence chief Mustafa Suleyman said concerns about China’s progress on AI shouldn’t be used as an argument against putting guardrails around the rapidly advancing technology.",
-      "id": "a19"
+      "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
+      "id": "a2"
+    },
+    {
+      "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
+      "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
+      "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-21T13:16:25.000Z",
+      "fetchedAt": "2026-09-21T17:12:32.469Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
+      "id": "a7"
+    },
+    {
+      "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
+      "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T12:43:05.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+      "id": "a9"
+    },
+    {
+      "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
+      "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T11:53:00.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
+      "id": "a14"
+    },
+    {
+      "title": "Bear of the Day: Qualcomm (QCOM)",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
+      "description": "With Apple making the s\\wi",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T11:00:00.000Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "With Apple making the s\\wi",
+      "id": "a18"
     },
     {
       "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
@@ -59,7 +147,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
+      "fetchedAt": "2026-09-21T17:12:31.957Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -69,27 +157,7 @@
         "foundry"
       ],
       "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a23"
-    },
-    {
-      "title": "What Needs To Be True To Buy Qualcomm Stock Now?",
-      "url": "https://www.trefis.com/articles/615901/what-needs-to-be-true-to-buy-qualcomm-stock-now/2026-09-18?.tsrc=rss",
-      "description": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-18T14:03:30.000Z",
-      "fetchedAt": "2026-09-21T11:08:20.372Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm (QCOM) told investors in its fiscal Q3 2026 call that its share of Apple's recent iPhone launch would be materially lower than its prior estimate of 20%. In the same call, management raised its non-handset revenue target for fiscal 2029 to $40 billion—nearly doubling its prior $22 billion goal as automotive, IoT, and data center expand. Anyone buying the stock today is deciding whether that replacement revenue arrives on schedule.",
-      "id": "a26"
+      "id": "a32"
     }
   ]
 }
