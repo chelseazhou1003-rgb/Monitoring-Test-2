@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-21T17:12:38.594Z",
+  "generatedAt": "2026-09-21T21:15:10.007Z",
   "date": "2026-09-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 8,
+      "articleCount": 6,
       "topHeadline": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a10",
+      "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 24,
+      "articleCount": 22,
       "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (2 articles). A total of 22 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 6,
-      "topHeadline": "Trump says DOJ will rein in AI 'if we have to'",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 40
+  "totalArticles": 35
 }

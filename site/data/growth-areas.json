@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-09-21T17:12:38.591Z",
+  "generatedAt": "2026-09-21T21:15:10.004Z",
   "date": "2026-09-22",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (1 article), On-Device AI / Edge AI (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph",
     "keyTakeaways": [
       {
         "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "data-center"
-      },
-      {
-        "text": "On-Device AI / Edge AI: QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying",
-        "articleIds": [
-          "a33"
-        ],
-        "subCategory": "on-device-ai"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T12:43:05.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchedAt": "2026-09-21T21:15:02.905Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -41,25 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-      "id": "a9"
-    },
-    {
-      "title": "Qualcomm (QCOM) Joins New Edge AI Ecosystem",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-edge-ai-041937210.html?.tsrc=rss",
-      "description": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-19T04:19:37.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.958Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "on-device-ai",
-      "subLabel": "On-Device AI / Edge AI",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QUALCOMM (NasdaqGS:QCOM) has joined Advantech and other partners in the new WEDA edge AI ecosystem to support scalable deployments across varied hardware. The WEDA collaboration focuses on simplifying edge AI solutions by standardising tools and reference designs for industrial and enterprise use cases. QUALCOMM is also participating in up to 29 cross sector agreements between US and Vietnamese firms announced during a recent state visit. The WEDA edge AI alliance and the US Vietnam trade...",
-      "id": "a33"
+      "id": "a10"
     }
   ]
 }

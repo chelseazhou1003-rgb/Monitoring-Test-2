@@ -1,42 +1,69 @@
 {
-  "generatedAt": "2026-09-21T17:12:38.591Z",
+  "generatedAt": "2026-09-21T21:15:10.004Z",
   "date": "2026-09-22",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "platform-partner"
+      },
       {
         "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
         "articleIds": [
-          "a14"
+          "a15"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: With Apple making the s\\wi",
         "articleIds": [
-          "a18"
+          "a17"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-surges-7-amazon-validates-190345932.html?.tsrc=rss",
+      "description": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T19:03:45.000Z",
+      "fetchedAt": "2026-09-21T21:15:02.905Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
+      "id": "a1"
+    },
     {
       "title": "Trump says DOJ will rein in AI 'if we have to'",
       "url": "https://www.cnbc.com/2026/09/21/trump-ai-doj.html",
@@ -45,7 +72,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T16:46:24.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.738Z",
+      "fetchedAt": "2026-09-21T21:15:02.839Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +83,7 @@
         "regulators"
       ],
       "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
@@ -66,7 +93,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-21T13:16:25.000Z",
-      "fetchedAt": "2026-09-21T17:12:32.469Z",
+      "fetchedAt": "2026-09-21T21:15:03.333Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,7 +104,7 @@
         "oem"
       ],
       "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
@@ -87,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T12:43:05.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchedAt": "2026-09-21T21:15:02.905Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -97,7 +124,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
@@ -107,7 +134,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T11:53:00.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchedAt": "2026-09-21T21:15:02.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -117,7 +144,7 @@
         "oem"
       ],
       "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "Bear of the Day: Qualcomm (QCOM)",
@@ -127,7 +154,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T11:00:00.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.957Z",
+      "fetchedAt": "2026-09-21T21:15:02.906Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,27 +164,7 @@
         "oem"
       ],
       "summary": "With Apple making the s\\wi",
-      "id": "a18"
-    },
-    {
-      "title": "MediaTek Is Stepping Up Competition Against Qualcomm With a New 2-Nanometer Chip. What This Means for QCOM Stock.",
-      "url": "https://www.barchart.com/story/news/4696893/mediatek-is-stepping-up-competition-against-qualcomm-with-a-new-2-nanometer-chip-what-this-means-for-qcom-stock?.tsrc=rss",
-      "description": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-19T18:30:02.000Z",
-      "fetchedAt": "2026-09-21T17:12:31.957Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "MediaTek unveiled the Dimensity 9600 Pro on Sept. 15, its first flagship smartphone chip on TSMC’s 2-nanometer process, aiming more directly at Qualcomm’s premium Android position.",
-      "id": "a32"
+      "id": "a17"
     }
   ]
 }
