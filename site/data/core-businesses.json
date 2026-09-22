@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-09-22T10:22:06.598Z",
+  "generatedAt": "2026-09-22T15:11:40.036Z",
   "date": "2026-09-22",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data cente",
         "articleIds": [
-          "a3"
+          "a10"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-        "articleIds": [
-          "a23"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T08:21:17.000Z",
-      "fetchedAt": "2026-09-22T10:21:59.975Z",
+      "fetchedAt": "2026-09-22T15:11:31.544Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,26 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-      "id": "a3"
-    },
-    {
-      "title": "About QUALCOMM Incorporated (QCI0.F) - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZVQ2cXFIaXVYQXFCRDdHRGNDSDAwcVd5MmlCSjNiN3FrbGJhVDEzWkhPT2kwQk1vSEZwdlZZTUFCalJ6MXZ5bFlrR3BXVjNwQnZ0bUhtUnpNSlhIRmdfZHlfMG8zallK?oc=5",
-      "description": "About QUALCOMM Incorporated (QCI0.F) Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T01:59:55.000Z",
-      "fetchedAt": "2026-09-22T10:22:05.256Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "About QUALCOMM Incorporated (QCI0.F) Reuters",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
@@ -68,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T16:53:14.000Z",
-      "fetchedAt": "2026-09-22T10:21:59.975Z",
+      "fetchedAt": "2026-09-22T15:11:31.544Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -76,65 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
-      "id": "a14"
-    },
-    {
-      "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cracker-barrel-old-country-store-115300760.html?.tsrc=rss",
-      "description": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T11:53:00.000Z",
-      "fetchedAt": "2026-09-22T10:21:59.975Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-      "id": "a23"
-    },
-    {
-      "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/lumentum-lite-quietly-rewiring-ai-111317764.html?.tsrc=rss",
-      "description": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T11:13:17.000Z",
-      "fetchedAt": "2026-09-22T10:21:59.975Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
-      "id": "a24"
-    },
-    {
-      "title": "Bear of the Day: Qualcomm (QCOM)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/bear-day-qualcomm-qcom-110000513.html?.tsrc=rss",
-      "description": "With Apple making the s\\wi",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T11:00:00.000Z",
-      "fetchedAt": "2026-09-22T10:21:59.975Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "With Apple making the s\\wi",
-      "id": "a25"
+      "id": "a17"
     }
   ]
 }

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T10:22:06.601Z",
+  "generatedAt": "2026-09-22T15:11:40.039Z",
   "date": "2026-09-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
+      "articleCount": 2,
       "topHeadline": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadlineId": "a10",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -26,9 +26,9 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 18,
-      "topHeadline": "Can you forget how you feel about Meta?",
+      "topHeadline": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 18 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 6,
-      "topHeadline": "Can you forget how you feel about Meta?",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "Oppo’s new phone is the first with three 200-megapixel cameras",
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 31
+  "totalArticles": 24
 }
