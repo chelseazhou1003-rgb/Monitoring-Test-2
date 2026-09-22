@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T05:26:07.081Z",
+  "generatedAt": "2026-09-22T10:22:06.598Z",
   "date": "2026-09-22",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
         "articleIds": [
-          "a15"
+          "a19"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T12:43:05.000Z",
-      "fetchedAt": "2026-09-22T05:26:00.766Z",
+      "fetchedAt": "2026-09-22T10:21:59.975Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-      "id": "a15"
+      "id": "a19"
     }
   ]
 }

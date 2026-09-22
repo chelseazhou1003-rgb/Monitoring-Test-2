@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,67 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the",
+          "text": "Semiconductors: Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data cente",
           "articleIds": [
-            "a9"
+            "a3"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
           "articleIds": [
-            "a19"
+            "a23"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+        "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
+        "description": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T08:21:17.000Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+        "id": "a3"
+      },
+      {
+        "title": "About QUALCOMM Incorporated (QCI0.F) - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZVQ2cXFIaXVYQXFCRDdHRGNDSDAwcVd5MmlCSjNiN3FrbGJhVDEzWkhPT2kwQk1vSEZwdlZZTUFCalJ6MXZ5bFlrR3BXVjNwQnZ0bUhtUnpNSlhIRmdfZHlfMG8zallK?oc=5",
+        "description": "About QUALCOMM Incorporated (QCI0.F) Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T01:59:55.000Z",
+        "fetchedAt": "2026-09-22T10:22:05.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "About QUALCOMM Incorporated (QCI0.F) Reuters",
+        "id": "a8"
+      },
       {
         "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
         "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
@@ -45,7 +82,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T16:53:14.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +90,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
-        "id": "a9"
+        "id": "a14"
       },
       {
         "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
@@ -63,7 +100,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T11:53:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -73,7 +110,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-        "id": "a19"
+        "id": "a23"
       },
       {
         "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
@@ -83,7 +120,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T11:13:17.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +128,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
-        "id": "a20"
+        "id": "a24"
       },
       {
         "title": "Bear of the Day: Qualcomm (QCOM)",
@@ -101,7 +138,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T11:00:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -111,30 +148,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "With Apple making the s\\wi",
-        "id": "a21"
-      },
-      {
-        "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
-        "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-inches-higher-after-worst-drop-in-three-months-traders-eye-snapdragon-summit-for-cues/cZMRaUqRB4F?.tsrc=rss",
-        "description": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T09:05:15.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
         "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -144,7 +163,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
           "articleIds": [
-            "a15"
+            "a19"
           ],
           "subCategory": "data-center"
         }
@@ -159,7 +178,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T12:43:05.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -169,12 +188,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-        "id": "a15"
+        "id": "a19"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -185,15 +204,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-22T05:26:07.083Z",
+    "generatedAt": "2026-09-22T10:22:06.601Z",
     "date": "2026-09-22",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
-        "topHeadlineId": "a9",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -206,15 +225,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-        "topHeadlineId": "a15",
+        "topHeadlineId": "a19",
         "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 25,
-        "topHeadline": "Geoff Raby Previews Trump-Xi Summit in DC",
+        "articleCount": 18,
+        "topHeadline": "Can you forget how you feel about Meta?",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 25 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 18 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -226,52 +245,115 @@ export const NEWS_DATA = {
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 6,
-        "topHeadline": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 6 articles were aggregated from monitored sources."
+        "topHeadline": "Can you forget how you feel about Meta?",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 6 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 37
+    "totalArticles": 31
   },
   "macro-environment": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 25 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 18 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Geoff Raby, Former Australian Ambassador to China, discusses his expectations for the summit between US President Trump and Chinese President Xi, that will focus on topics like trade and AI. He speaks",
+          "text": "market-performance: In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-bein",
           "articleIds": [
             "a1"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
+          "text": "Geopolitics & Export Controls: EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+          "articleIds": [
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Supply Chain: Alibaba is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
           "articleIds": [
-            "a2"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "Customers & Partners: Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonst",
           "articleIds": [
-            "a4"
+            "a9"
           ],
           "subCategory": "customers-partners"
-        },
-        {
-          "text": "market-performance: A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revital",
-          "articleIds": [
-            "a6"
-          ],
-          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Can you forget how you feel about Meta?",
+        "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+        "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging. “i am not saying facebook is duplicitous and evil,” they wrote. “i am saying the opposite, you have heard the chorus and will PERSONALLY make this issue over adolescents your issue.” In the privacy of the conversation, Zuckerberg was candid. “I care deeply about this and we’ll continue focusing on being industry-leading with young people,” he responded, “but I’m not going to say it’s my personal main focus when I have a number of other areas I’m more focused on like building the metaverse.” Zuckerberg later reiterated that “I personally care about this.” But he appeared ambivalent, nudging his conversation partner away from older concerns and toward his vision for the future. “How do you think this fits with our focus on promoting building the metaverse as the next major opportunity?” he asked. “That’s not at odds with safety, but it’s a much different and more innovation-focused message.” Weeks later, Zuckerberg made a huge announcement: The company was changing its name to Meta in honor of its newest, most important priority. Years after that conversation, online child safety concerns have ballooned — while if anybody’s talking about the Metaverse, it’s likely as a multibillion-dollar money sink where nobody has legs. But the exchange is a microcosm of how Zuckerberg has run Meta, a sprawling online empire worth well over a trillion dollars: by always chasing the next big opportunity. Facebook’s motto was once, famously, “Move fast and break things.” Its new one might be closer to Move fast, break things, move on. For two decades, Meta’s products have been at the center of what people do online. But Meta now finds itself besieged on all sides. Lawsuits have piled up as regulators turn on social media. A push into smart glasses has triggered a mountain of negative press and backlash — including the pejorative moniker “pervert glasses.” The company remains firmly behind in the AI race. Public perception of Zuckerberg himself has curdled. Yet Meta is far from finished. It maintains a growing, highly profitable social media business. It’s dominant in AI-powered smart glasses, what many tech leaders consider the next mobile computing platform. It’s defused potential regulatory threats. And its latest platform, a “personal AI agent” dubbed Muse, was released in early September, giving Zuckerberg his next metaverse-like project. Muse is Zuckerberg’s latest bid to reinvent the company. Early numbers for Muse are promising; an Apptopia estimate this week indicates it’s got over 600,000 daily active users in the US, shooting it to the top of the iOS App Store charts. Yet the question remains: Can a company synonymous with safety and privacy debacles become the AI-powered voice in everyone’s ear? The glasses gamble When Zuckerberg took the stage at Facebook Connect to announce that one of the most recognizable names in tech was getting a new identity, he was planting a flag. Facebook, the social media company known for its “big blue app”? That was the past. The future of the internet was the metaverse, an immersive 3D space where digital avatars could socialize, work, and collaborate, built on a virtual reality headset the company acquired in 2014. And after the covid pandemic’s mass shutdowns of physical space, Facebook believed in the metaverse so much that it would rebuild its entire identity around the niche world of virtual and augmented reality. Nearly five years later, Meta’s Reality Labs division has accumulated over $80 billion in operating losses. It kicked off this year by cutting roughly 10 percent of that division, shuttering three VR studios, discontinuing the metaverse for work, and announcing it’d be shutting down Horizon Worlds, its flagship metaverse experience, on VR headsets. Meta has since decided to keep Horizon Worlds going after public backlash, but it’s clear that Zuckerberg’s colossal gamble on VR hasn’t paid off. But to call Meta’s investment an abandoned boondoggle isn’t quite accurate either. Meta dominates the nascent but growing smart glasses market, perhaps its biggest success story in recent years. The metaverse may not be the future of computing, but its augmented reality ambitions could still pay off. Few expected the Ray-Ban Meta glasses to take off when they launched in 2023. After all, Meta’s first attempt, the Ray-Ban Stories in 2021, was a bona fide flop. Ninety percent of owners left the glasses to rot in their drawers. But improvements to cameras in the next-generation hardware helped Meta to sell roughly 2 million units — surprising even Zuckerberg. By the end of 2025, EssilorLuxottica — Meta’s partner in building these devices — had sold an additional 7 million units. All told, Meta and EssilorLuxottica reported that smart glasses sales doubled in Q2 of 2026. Few expected the Ray-Ban Meta glasses to take off — but their success has surprised even Zuckerberg Most importantly, Zuckerberg and Meta leadership view this tech as the perfect vehicle for the company’s latest, shiniest interest: its AI investments. So much so that Meta is aggressively trying to brand these as AI glasses. “I think in the future, if you don’t have glasses that have AI — or some way to interact with AI — I think you’re probably [going to] be at a pretty significant cognitive disadvantage compared to other people and who you’re working with or competing against,” Zuckerberg said in a 2025 earnings call. Meta is still funneling billions into the AR space without profit, but that’s not necessarily disastrous. “There’s no true way to tell if [Meta] is successful or not. You could measure market share, and they absolutely have that, but that still doesn’t speak to profitability or if the spending to date is justified,” says Jitesh Ubrani, research director at IDC, noting that the runway for XR — the umbrella term for virtual, augmented, and mixed reality — is a notoriously long one. VR and the metaverse also had long runways that never paid off. But right now, the smart glasses market is building momentum, making it far too early to say whether it’s doomed to the same fate. Looking at what numbers do exist, Meta is the undisputed king. According to IDC, Meta commands 69.2 percent of the smart glasses and headset market as of Q2 2026. That number jumps up to 76 percent of AI glasses without displays. That said, Ubrani argues that it’s unlikely that any company will see a return on investment in the next five years. It’s possible, he says, that could take as long as 25 years. Absent profit, the next best measure of success is often determined by who can afford to stay in the game long enough — while ignoring demanding investors — to influence the next chapter. “In the XR market, I’d say that [Meta] is the leader in every segment they play in,” says Anshel Sag, principal analyst at Moor Insights & Strategy. That can be a double-edged sword, though. “They’ve both been a steward of the XR and AR space, but they’ve also limited its potential because they control the platform, the spending, and they decided who were the winners and the losers by investing with their dollars.” Both Sag and Ubrani also agree that Meta wouldn’t currently be the leader in smart glasses or a major player in AI if not for its early, if flawed, investments in VR. Meta’s success on this front has kicked off a race among tech companies. Google is pushing its Android XR platform, working with Samsung to launch several “intelligent eyewear” products later this year. Bloomberg has reported that Apple is also working on a pair. Outside the major players, there are dozens of Ray-Ban dupes from smaller companies. Again, Ubrani says it’s difficult to put hard numbers on how much tech companies are pouring into this space — but whatever the cost, the prize is winning what Silicon Valley sees as the next big mobile computing platform. Ubrani points to the smart glasses supply chain, where “one player who’s willing to invest no matter where the market is going” has massively changed the game. He contrasts that approach with Google, which retreated after criticism of its own glasses over a decade ago. “When people didn’t like [Google Glass], they scaled back significantly, and that in a sense, hurt the entire industry. Now with Meta, we’re seeing that even if Meta’s not making money, the industry is still moving forward.” “Even if Meta’s not making money, the industry is still moving forward.” On paper, it might seem Meta’s already won the battle for the next mobile computing platform. At least, if Meta weren’t Meta. While the company gained serious momentum in 2024 and 2025, it’s attracted a public backlash largely of its own making. Meta pushed its glasses as a way to make content for Instagram and other platforms, but failed to account for how bad actors might misuse its products. Online pickup artists and pranksters have started using the devices to harass women and retail workers, resulting in the “pervert glasses” label. The resulting videos are pushed to social media, where they effectively publicize the tech’s most troubling aspects. All this stokes roughly a decade’s worth of privacy concerns stemming from indiscriminate data collection, breaches, and advertising practices. It’s not just that Meta perhaps underestimated how its products could be misused. It already built a reputation for not taking privacy seriously. In recent months, activists have launched guerrilla campaigns in major cities by “remixing” Meta’s own marketing, painting smart glasses users as privacy threats. Meta has tried to demonstrate that it cares about privacy. “If people aren’t comfortable with you wearing the glasses, not only do we personally think that’s bad, but we wouldn’t have a business anymore,” Alex Himel, Meta’s VP of wearables, recently told The Verge ahead of a mandatory update that makes it harder to disable the LED light that alerts people that the headset is recording. Instagram head Adam Mosseri has also recently said Meta will take down prank videos captured with the Ray-Ban glasses. But these have been largely reactive policies. For the public, they look more like attempts to distract from unflattering news that feeds into Meta’s notorious privacy reputation. The New York Times reported that Meta intended to launch facial recognition software during political unrest to throw off privacy advocates. That was soon followed by a Wired report that said Meta had shipped — but not activated — this facial recognition tech to millions of glasses. Rounding out the trifecta was a Financial Times report that Meta is working on “super sensing glasses” that will be able to see what you’re doing 24/7. Andrew Nazdin, director of Glasgow Actions Team, one of the groups behind the guerrilla campaigns, says it would be “foolish for us to let them police themselves instead of calling on society to reject this [tech].” It’s too soon to say if this backlash has hurt Meta’s smart glasses ambitions. Ubrani says we likely won’t see any impact on sales — if there is one — until the holiday season. Even so, analysts aren’t convinced Meta’s bad reputation is enough to derail its hopes for smart glasses. “Meta’s done a very poor job of talking about privacy and setting the right tone,” acknowledges Sag. “But it’s funny because if you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” “If you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” As for public distrust of Zuckerberg, Sag says his thorny reputation may not sit well with the public, but it’s considered part of Meta’s strength in a niche space like XR. “Meta would not be where it is today if it weren’t for Mark Zuckerberg … Even if people disagree with him, ultimately what he wants is what gets done,” Sag says. “I think his fear of losing the AI race is what sparked the whole Superintelligence Lab, and now they’re back in the competition. He has blind spots, but he’s able to correct much more quickly than any other CEO founder … every time people have counted him out or questioned his leadership, he’s been able to claw the company back.” That unilateral doggedness is why Meta seems hell-bent on barreling forward with AI glasses, privacy qualms be damned. A few months ago, it released Meta Glasses, a newer and cheaper version of the Ray-Ban glasses sans Ray-Ban branding. At a launch event, Meta CTO Andrew Bosworth told the press that Meta was contemplating audio-only glasses without cameras. It will likely launch even more new styles, collaborations, and potentially new hardware and privacy protections at Meta Connect 2026 this week. “Meta missed mobile, they missed VR when it first came out. The metaverse didn’t pan out the way they thought it would. That’s one of the reasons why we’re seeing them so determined and willing to spend to make AI glasses happen,” says Ubrani. It’s unclear whether Meta can maintain its lead in the XR space. AI wearables are only just beginning to heat up, with players big and small eager to throw their hat in the ring across multiple form factors ranging from pendants to smartwatches. Meta only has glasses — and it’s tying the glasses’ success to the overall success of the company’s AI bets. And on that side of the business, things are looking like a hot mess. An AI ‘shitshow’ Last summer, Zuckerberg attempted to lure top AI talent to supercharge his company’s lagging AI division. He offered a series of staggering pay packages, running up to $1 billion, to join Meta’s Superintelligence Labs. But more than a year later, the company doesn’t have much to show for it besides two manifestos published by Zuckerberg and the recently released Muse. Zuckerberg may have inspired confidence among investors and analysts, but sources at or close to the company told The Verge that morale is down, AI initiatives are scattered at best, and the company’s AI strategy is running largely on vibes alone. “It’s a shitshow,” says one longtime Meta employee, who works on Reality Labs and requested anonymity for fear of retaliation. Meta dipped its toes into AI around its metaverse restructuring and released a small group of models. But focused on Zuck’s VR ambitions, it missed its competitors investing in upstarts that would soon become AI giants. Its first frontier models were released in 2023 to lukewarm reception, and it wasn’t until the tepid response to Llama 4 in 2025 that the company jumped into the AI race with both feet. That’s when Zuckerberg kicked off his AI hiring strategy in earnest, even hand-delivering soup to researchers and engineers he wanted to recruit from rivals and other industry heavyweights. In June 2025, Meta invested $14.3 billion in data-labeling company Scale AI and poached its CEO, Alexandr Wang, to lead Meta’s AI efforts. But many AI engineers turned down Zuckerberg’s advances. Meta AI underwent wave after wave of reorganizations, and its superintelligence sub-team, TBD Lab, has reportedly clashed with Meta executives over opposing goals. TBD Lab has reportedly sought to think longer-term and build best-in-class models to secure the company’s place among its competitors. But executives have reportedly remained focused on more platform-specific ways to drive revenue, like companion chatbots and social media features. Some attempts to integrate AI into platforms like Instagram have drawn backlash — it briefly launched and then suspended a controversial Instagram deepfakes generator, and said it “missed the mark” on an AI tool that provided creepily detailed information about a user’s children. “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic.” Meta’s most prestigious AI team is a “total mess,” according to Wired reports that describe internal chaos and ever-changing strategy. Zuckerberg reportedly admitted to employees during an internal town hall this summer that progress on AI agents was slower than expected. On a recent Meta earnings call, an analyst told executives he had been fielding questions from investors about Meta’s amount of debt compared to capital, as the company ramped up its spending to try to get ahead in the AI race. Zuckerberg has also been criticized for slashing team sizes to reportedly replace a significant number of employees with AI systems, per Reuters. The current employee says Meta has a bad habit of jumping from hype cycle to hype cycle: “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic in order to invest and to change and to grow, to incorporate this new technology. It happened with crypto. It happened with VR and the metaverse. It’s happening now with AI. I think it stems from a lack of maturity of our founder [and] a lack of maturity of our leadership.” A former Meta employee, who also requested anonymity, echoes those thoughts: “Like most big tech, there’s just been such a big push to AI-ify everything … but it’s basically a laughingstock internally.” In a May podcast interview, Wang denied that he and Zuckerberg had been fighting a lot, saying leaders at the company know frontier model development and product integration are both important. But, he added, “like any company … we debate the points deeply.” But the current employee says Meta’s AI strategy simply isn’t based in the reality of the business or what its customers actually want. “There’s a whole different planet between what the C-suite is talking about and what’s happening on the ground,” they say, later adding, “That tension is literally at the core of the problem at Meta … building AI for the sake of having the biggest building or the biggest fucking dildo versus building a useful product.” Meta has spent an extraordinary amount on AI, but it’s made few waves in the industry Zuckerberg’s latest manifesto — in which he lays out his vision of superintelligence that people use “to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life” — didn’t make many waves in the broader AI industry. And so far, the features Meta has added to smart glasses and the products it’s rolled out haven’t broken through compared to the company’s biggest rivals. Given the early usage statistics, Muse could break this pattern — but it’s too early to know. Noah Smith, senior director of NLP research at the Allen Institute for Artificial Intelligence (Ai2), says the manifesto “reads to me a bit like PR … I also didn’t find anything particularly surprising there, or new.” Instead, Smith found himself asking what is going on behind the scenes to make Zuckerberg publicly state all this now. Zuckerberg’s manifesto also wasn’t received well internally, according to the current and former Meta employees The Verge spoke with. In particular, the current employee says it’s a typical example of putting the cart before the horse. “The manifesto did not articulate the biggest question,” he says. “What will AI do for our business as an advertising business? What is the benefit in terms of return on investment on the hundreds of billions of dollars that we’re spending? We don’t even have a product play.” He adds that even after Meta’s massive investments, he wouldn’t rank his own company in the top three of AI players — and that that’s reflected by the fact that engineers at the company don’t typically prioritize using Meta’s own AI models, instead using models from Anthropic, OpenAI, and Chinese AI companies. He says that after Meta announces a new AI model internally, people will try it out for a little bit and then typically go back to using Anthropic’s Claude models; he compares employees using MetaAI to children goaded into eating their vegetables. “I think if we actually cared about developing AI well, we would have everyone just use [our] AI and constantly give feedback,” he says. “That would be monumental. But likely we would take a productivity hit in other ways.” Overall, “morale is in the gutter,” the current employee says. “People do not trust leadership. I get a strong sense that leadership doesn’t even trust Mark in his direction.” They add that employees feel the company is spying on them and forcing AI into everything, and amid restructuring and layoffs, workers are “tired of the pizza parties” and haven’t seen any movement on top internal complaints, like problematic incentive structures, misuse of tokens, and pace of work. The former employee says that colleagues at the company feel that it’s “like the Metaverse 2.0,” and though Zuckerberg bought some of the best AI talent in the world, “still, they don’t have a thing that anybody wants.” A lot of people at Meta, the employee says, think it’s an inevitability that the company will drop its AI efforts the same way it sidelined its metaverse ones. Meta is betting on giving users free, easily packaged access to agentic AI, but its position in the industry is tenuous “It’s not going to be framed [as him] abandoning anything,” the current employee says. “They were going to turn off Horizon Worlds, and Zuck got wind of it and he said they need to keep it on even though it’s a money-suck … Zuckerberg does not want to admit defeat. But there will be a strategic pivot … away from this manic AI spending to whatever is next, maybe a derivative of AI, maybe more wearable stuff.” Muse is the next step in Zuckerberg’s plans: a move from straightforward language and image models toward more practically useful agentic AI. It’s betting on giving users free, easily packaged access to the kinds of tools that might previously have required dedicated hosting machines or cost hundreds of dollars a year. But it’s too early to tell if users will trust Meta with the keys to their digital lives. Meanwhile, Meta’s position in the industry’s top tier appears as tenuous as ever. In response to questions from The Verge, Meta spokesperson Alex Dziedzan said that “at Meta, our philosophy is simple: let our teams deliver. We encourage you to check out Connect to learn more.” Meta is still trying to convince investors — and the tech industry more broadly — that its relatively nascent AI business has legs. In the meantime, the company is fighting to retain control of its true money machines and the original business proposition: pumping users’ social media feeds, particularly on its flagship Instagram, with whatever keeps them engaged. The cash cow Four years ago, Instagram teased what would become perhaps its most reviled change to date: an “immersive” experience where photos and videos took up a user’s full screen and filled it with content from accounts a user didn’t follow. The feature was blatantly ripped from TikTok, its newer, more ruthless competitor, and to many users, the update represented a betrayal of Instagram’s core social elements. Tati Bruening saw something worth saving in Instagram’s earlier, actually social, peer-to-peer communication platform. The photographer and creative tapped into widespread resentment and frustration, posting a graphic that was simple and to the point: “MAKE INSTAGRAM INSTAGRAM AGAIN,” it read. “Stop trying to be tiktok i just want to see cute photos of my friends. Sincerely, everyone.” Kim Kardashian and Kylie Jenner, titans of attention-based online economy, reposted Bruening’s graphic. An online petition racked up hundreds of thousands of signatures. Eventually, the heat became too much to bear, and Instagram rolled back the changes. But it was only kicking the can down the road; this was the beginning of the end of an era. Several years on, watching vertical videos of strangers is a cornerstone of social media, including Instagram. And Bruening has a new perspective, having seen platforms rise and fall and upend her job. “This is going to be the most shocking thing to hear coming out of my mouth, but I think in terms of all of the creator platforms, [Instagram] is going to be the one that makes it out of this era,” Bruening says. “I think in terms of all of the creator platforms, Meta is going to be the one that makes it out of this era.” Meta (as Facebook) acquired Instagram in 2012 for approximately $1 billion, and it eclipsed the company’s then-eponymous blue app in relevance years ago. Central to the creator industry, celebrity culture, and lifestyle content, Instagram is a cash cow for Meta: eMarketer estimates it will pull in $52 billion in US ad revenue this year, compared to Facebook’s $48 billion. For the last few years, it’s been playing catch-up not only to TikTok but to a whole internet where people spend less time connecting with friends and relatives and more on an algorithmically sorted recommendation feed. Yet along with its rival YouTube, Bruening says, Instagram remains one of the few social media platforms that’s been somewhat stable. Snapchat no longer serves creators, and TikTok is too filled with slop and TikTok Shop content. Meta may have turned its photo app into a vertical video slot machine, but at least it rewards the creators who obey — if you make shortform videos, Instagram will show them to someone. Creators and brands still see Instagram as the prestige, more polished platform where most advertising spend goes, says Lia Haberman, an influencer marketing expert who writes ICYMI, a social media newsletter. Whatever lead TikTok had in shortform content a few years ago has narrowed or even closed. The threat of TikTok disappearing from the US made advertisers nervous, Haberman says; creators started to think about backup plans and diversifying their platforms and online presence. When brands ask creators for deliverables — the assets and content that they want an influencer to post — Instagram Reels and Stories are typically first on the list, in Haberman’s experience. Instagram is Meta’s cultural crown jewel, but the company is trying to diversify its revenue through other apps, too. Meta has tried to pull more creators onto Facebook with cash incentives. The company’s massive messaging platform WhatsApp remains popular, especially outside the US; executives said subscriptions and paid messaging drove record non-advertising revenue. Threads, the X competitor, reached 500 million monthly users this summer, but it still feels a bit like the black sheep — in earnings reports, Meta’s “family of apps” is defined as “Facebook, Instagram, Messenger, WhatsApp, and other services.” The company has introduced a slew of other apps, like standalone platforms for Facebook groups and Marketplace, with leadership saying AI is speeding up development. “Social media is saturated in many ways. The hyper growth days for Meta are over.” But despite Zuckerberg’s soliloquies on an AI-powered future, Meta is at its core in the business of serving ads, and that business is still booming: The company reported in July that its revenue from advertising grew 27 percent year over year. Some projections show Meta’s ads business surpassing Google’s by the end of 2026. The bigger problem is the people it shows those ads to, and the content it puts those ads in between. The average social media user is less interested than they once were in posting, and Meta’s access to a new generation of users is under threat. “There is sort of a tension brewing where we’re seeing this double-digit growth in their ad spend, but we are not seeing double-digit growth when it comes to overall usage [in the US],” Minda Smiley, senior analyst at eMarketer, says of advertisers’ spending patterns. “I think that just really speaks to the fact that social media is saturated in many ways. The hyper growth days for Meta are over.” People in general are now using social media to consume content rather than share it; a Morning Consult poll found that a third of respondents say they post less on social media compared to last year. What’s more, entire generations of young people are logging off or forcibly being logged off. The past few years have seen bipartisan, multinational, and cross-generational support for either limiting minors’ access to social media or banning them altogether. When kids can get online, Gen Z and Gen Alpha don’t want to express themselves fully on the social media sites their parents or relatives are on, and what’s more, they want in-person experiences, Haberman says. They want to touch grass. Katie Harbath, a former Meta public policy director who now runs tech policy consultancy Anchor Change, says that there’s a small point of relief for Meta here, though: Kids aren’t how they’re making their money. Data compiled by research platform BusinessStats primarily from Facebook’s Ads Manager found that about 3.2 percent of Facebook’s global audience was between the ages of 13 and 17. On Instagram, using a similar dataset, that share was slightly higher, but still just 5.8 percent of the app’s global audience, according to BusinessStats. “If all of a sudden they can’t have kids under 18 on, it’s not great, but it’s also not the vast majority of the people that are on the platform,” Harbath says. But Meta will eventually need those users — it can’t dine off the social media habits of older generations forever. What happens to Meta if its user base peters out, and advertisers follow? A reckoning could be coming in two to three years, Haberman says, if these trends continue as Gen Alpha comes of age. Teen users are a tiny part of Meta’s business — but losing the next generation is something it can’t afford “I’m not sure that we’ve really fully grasped yet how much of a big deal that this could be once audiences stop showing up or audiences age out,” Haberman says. “Essentially, it’s going to become kind of a graveyard for millennials, Gen X, and boomers.” The implications are manifold — for the social platforms themselves, naturally, but also for the advertisers, brands, and influencers who’ve taken for granted that social media is an effective way to reach people. The elephant in the room is AI — Meta’s costly buildouts and investments, of course, but also the question of how to handle AI content on the platform, and how much of it users actually want. On its second quarter earnings call, Zuckerberg said the company would soon be able to provide a “nearly infinite universe of personalized content” to users through its image and video generation tools, to supplement content from influencers, creators, and users’ friends and family. AI content is cheap, fast, and replaceable, made to be chewed up and spit out as long as the algorithms will allow it to be served up. This is what creatives like Bruening are competing against. “You would have to become an AI robot in order to keep up with a lot of the metrics and standards for what [Meta’s] best practices are,” Bruening says. “A human artist is not going to have the same level of output as an AI machine that’s going to appease the algorithm.” How far can Meta push the human creators before they decide they no longer want to compete with their automated counterparts? Much like Meta, creators are constantly chasing the next big thing, trying to weather shifting societal expectations and tastes. For individual creators, a failure to adapt can be career-ending; Meta now finds itself in similar precarious footing. But concerns about how people use social media aren’t just a matter of business. They’re the object of serious inquiry for lawmakers across the world — all bent on reining in what they see as one of the tech industry’s most dangerous players. A social reckoning Over the past decade, Meta has become one of the biggest punching bags in politics — and its CEO the face of a callous, out-of-touch, and exploitative “Big Tech.” Zuckerberg, Mosseri, and other executives have been dragged before congressional committees and juries and berated for a perceived carelessness toward kids’ safety and disinformation, a ruthless crushing of competition, and even complicity in lynching and genocide. But through each PR crisis, Meta has somehow still found its footing, and in many cases, dodged the worst-case outcomes. Meta grew to massive scale and influence in part through two key acquisitions: its purchases of Instagram in 2012 and WhatsApp in 2014. But by 2020, those deals became the focal point of a major antitrust lawsuit seeking to break up the company. Since then, Meta’s acquisitions and competitive actions have faced intense scrutiny in the US and around the world, and its dealmaking leveled off. In 2020, it closed 10 acquisitions worth a total of $1.37 billion, according to data compiled by PitchBook; as it fought monopolization claims, its deal count and value dropped each year through 2024. But for the most part, the company has weathered regulatory pressure, and Meta’s dealmaking picked up again in 2025. Meta won against the FTC’s anti-monopoly claims, and it was allowed to buy the virtual reality fitness startup Within after the FTC took it to trial (a few years later, it announced it would stop making content for Within’s flagship game, only to later spin it off). Through political crisis after political crisis, Meta has dodged the worst-case outcomes Long-standing fears about Meta’s data collection efforts also reached a boiling point in 2018, when reporters uncovered evidence that London elections consultancy Cambridge Analytica had harvested millions of Facebook profiles to analyze and target users with pro-Trump messaging in 2016. That led to a flood of calls among users to #DeleteFacebook, even from Brian Acton, cofounder of WhatsApp. But Zuckerberg later told The New York Times that the movement hadn’t resulted in any “meaningful” defection from the platform. In Europe, Meta was ordered to make changes impacting its ad-targeting practices after a $1.3 billion fine, but in the US lawmakers are still unable to agree on an industry-wide data privacy law. While President Donald Trump once threatened to throw Zuckerberg in prison for life, the CEO seems to have successfully gotten on the Trump administration’s good side after ditching the fact-checking program the president had criticized, disbanding its diversity, equity, and inclusion (DEI) team, and agreeing to a $25 million settlement over Trump’s lawsuit for suspending his account. Meanwhile, Meta’s apps benefited from the brief ban of TikTok in the US, though Trump cut that period short through repeated enforcement delays. Meta’s courting of the Trump administration may leave it ripe for scrutiny under a Democratic administration, but meaningful consequences could remain years away, if they come at all. Most recently, Meta’s most pressing policy challenge has been child safety. For the first half of the year, it appeared to be caught on its back foot. Two juries issued decisive blows to the company, resulting in close to a billion dollars in fines across an individual plaintiff’s case in Los Angeles and a case brought by New Mexico’s attorney general. But the New Mexico judge later declined to impose the most disruptive structural changes the AG had asked for. On the surface, a landmark settlement with 47 other state AGs in August looked even worse for Meta. The settlement included significant changes: new age assurance benchmarks, a two-hour daily usage limit (with exceptions for messaging and longform content), and default restrictions on nighttime and school hour notifications for teens. But it also presented Meta an opportunity to turn attention onto its rivals. The company called on TikTok, YouTube, and Snap to adopt similar limits, and it tied part of its settlement payout to their actions. This helped Meta twice over: It could put a target on its competitors’ backs while mitigating the potential negative business impact of its own deal. New child safety regulations could end up helping Meta as well. eMarketer forecasts that Snap and TikTok would feel more of a hit than Meta if a nationwide classroom cellphone ban, another popular proposal, went into effect. TikTok would lose out on more than $1.25 billion in ad revenue this year, the firm estimates, and Snap’s ad revenue would be especially vulnerable because of the high concentration of teens on the platform who use the app throughout the day. A hit on Meta’s revenue, meanwhile, would “hardly register,” eMarketer says, thanks to its scale. Meta could lose out under child safety regulations — but its competitors might lose more Even so, Meta’s legal battles over kids’ safety aren’t over. Meta and other tech companies still face thousands of lawsuits from individual plaintiffs and school districts, likely culminating in a blanket settlement. The scope of cases and potential penalties is so large that it’s difficult to understand exactly how much risk they carry. It would take quite a lot for Meta to feel the sting, but the billions in settlements and court orders are beginning to add up. Meta has already invested huge sums into fighting these cases. In the second quarter alone, it took a $2.4 billion charge over litigation expenses. Prior to Meta’s recent settlement with state AGs, Peter Chapman, deputy director of the Knight-Georgetown Institute, said that “suggests to me that they’re playing a long game” around the First Amendment and online liability shield Section 230. Following the settlement news, Chapman says he still sees it as early days amid the mountain of litigation before Meta and other tech companies, but “the long game certainly has changed.” Now it seems to include targeting industry competitors to get on board with the terms Meta already accepted, while a fight to preserve its protections under Section 230 will likely continue through appeals of the earlier cases Meta lost. Meta’s settlement may bring some solace to investors who were unsure how to price in its legal risk. After the news of the deal, its stock price shot up. “The state AGs got an okay deal. I don’t think they knocked it out of the park,” says Paul Gallant, a tech policy analyst at investment bank TD Cowen. As a result, Meta shareholders should have “confidence that the company knows how to manage the government.” The $17 billion settlement represents an “immaterial” amount for Meta, Gallant says. In the last quarterly earnings report, Meta said it made more than $60 billion. But additional cases still present some risk, and large fines may be more of a problem today than when the European Union levied them in the past. “The companies are spending so much on AI infrastructure that cashflow is a bigger focus of Meta’s stockholders, especially if the damage awards get into the tens of billions or more,” Gallant says. And unlike the tactics at its disposal to fight off impending legislation, Gallant adds, “of all of the features of the US governmental system, the least controllable by Meta is juries.” “These massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto.” State and local governments also appear ready to take on tech while federal efforts stall, including in Meta’s latest area of focus, AI. Many are looking at how they can rein in AI and deal with the energy demands it creates on their electrical grids. Data centers have become a flashpoint across the country, and a nationwide push for a slowdown could be particularly meaningful for Meta and other businesses in the AI race. “That’s the thing that could really not just slow them, but slow everybody down — having enough compute,” says Harbath. “We talk so much about what happens at the federal level, but I actually think the biggest risk to Meta and these tech companies right now is at the hyper-local level.” Zuckerberg has become the face of many of these battles, testifying for hours before policymakers and juries, and even standing up in Congress to apologize to parents who lost children after battles with online harms. The public testimonies have largely not seemed to endear him any further to his critics. “It’s almost like this bizarre disconnect where these massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto,” Smiley, the analyst at eMarketer, says. “It’s sort of like, ‘What planet are you on?’ It just feels like there’s just this big disconnect.” Whether it will matter is another unresolved question. Despite the litany of PR problems, user frustrations, legal troubles, and internal personnel conflict, Meta still feels like an immovable force. It has managed to sidestep, acquire, and pivot its way out of scandals and blowups that would have sunk most other companies. It’s spending lavishly on its new, AI-powered future. But that future remains far from certain. Smart glasses are unproven, its AI labs are behind newer upstarts, the legal landscape is hostile, and it may be hitting its ceiling in finding new users. What does seem certain is that its CEO will never stop chasing the next big thing. “Zuckerberg has this kind of monkey on his back,” says the current Meta employee. “He’s willing to experiment with the company because he controls the company.”",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-22T10:00:01.000Z",
+        "fetchedAt": "2026-09-22T10:22:00.715Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "regulators",
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging.",
+        "id": "a1"
+      },
+      {
+        "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRFVqWThGMlpsRzgtMlEzMTE4R2RadHdsWnJPX3ZXUWUwVXM5LWt0ajhWVnJTWG1ZNFZyUWJvc2dRTHMyd24yUjUyQWZlbTRYb3dYaHAwaG1sRWliVGc4clRoVG1VaThkR3FWTzhR?oc=5",
+        "description": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T08:53:06.000Z",
+        "fetchedAt": "2026-09-22T10:22:06.561Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "EU Today",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+        "id": "a2"
+      },
+      {
+        "title": "The impact of the US-China chip ban on third parties - Klement on Investing",
+        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalJqcEo5UHQ1ZWpBbG93VDNhVmJzZnpGSlJRdnFzLWRyQWFfb2l6VkEtVjhZZzJsd1ZYVDNwMWppNEZ1TjlOd2xFcFhFTmZzaUI4NTVmM0lHaVh0aGpJa0tJem1xbGpxc0libU1LTkdabjBDc3NXUUE3WTBJSFIxY0VqYw?oc=5",
+        "description": "The impact of the US-China chip ban on third parties Klement on Investing",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T06:00:17.000Z",
+        "fetchedAt": "2026-09-22T10:22:06.561Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Klement on Investing",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The impact of the US-China chip ban on third parties Klement on Investing",
+        "id": "a4"
+      },
       {
         "title": "Geoff Raby Previews Trump-Xi Summit in DC",
         "url": "https://www.bloomberg.com/news/videos/2026-09-22/geoff-raby-previews-trump-xi-summit-in-dc-video",
@@ -280,7 +362,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T03:52:55.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.818Z",
+        "fetchedAt": "2026-09-22T10:22:00.223Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -289,7 +371,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Geoff Raby, Former Australian Ambassador to China, discusses his expectations for the summit between US President Trump and Chinese President Xi, that will focus on topics like trade and AI. He speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\".",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Alibaba Shares Jump on New AI Chip",
@@ -299,7 +381,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T03:36:04.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.818Z",
+        "fetchedAt": "2026-09-22T10:22:00.223Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -308,7 +390,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Alibaba Unveils AI Chip to Drive Global Data Center Buildout",
@@ -318,7 +400,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T02:21:39.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.818Z",
+        "fetchedAt": "2026-09-22T10:22:00.223Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -327,7 +409,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Why Corning (GLW) Stock Is Trading Up Today",
@@ -337,7 +419,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T01:42:25.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -345,7 +427,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
-        "id": "a4"
+        "id": "a9"
       },
       {
         "title": "China, US Discuss AI, Investment as Trade Talks Continue",
@@ -355,7 +437,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T00:36:38.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.818Z",
+        "fetchedAt": "2026-09-22T10:22:00.223Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -364,7 +446,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chinese and US officials wrapped up their second day of talks in New York on Monday to discuss artificial intelligence, investment and trade as they sought to advance negotiations ahead of President Xi Jinping’s visit to the US this week. Bloomberg's Stephen Engle reports.",
-        "id": "a5"
+        "id": "a10"
       },
       {
         "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
@@ -374,7 +456,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T00:22:25.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -382,17 +464,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
-        "id": "a6"
+        "id": "a11"
       },
       {
-        "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-        "url": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
-        "description": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+        "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+        "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+        "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T23:18:30.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.530Z",
+        "publishedAt": "2026-09-21T22:25:33.000Z",
+        "fetchedAt": "2026-09-22T10:21:59.865Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -400,8 +482,8 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
-        "id": "a7"
+        "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+        "id": "a12"
       },
       {
         "title": "Trump says DOJ will rein in AI 'if we have to'",
@@ -411,7 +493,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T16:46:24.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.531Z",
+        "fetchedAt": "2026-09-22T10:21:59.865Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -422,7 +504,7 @@ export const NEWS_DATA = {
           "regulators"
         ],
         "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-        "id": "a10"
+        "id": "a15"
       },
       {
         "title": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? - TRT World",
@@ -432,7 +514,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T14:40:50.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
+        "fetchedAt": "2026-09-22T10:22:06.561Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TRT World",
         "geopoliticalBypass": true,
@@ -442,48 +524,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump-Xi summit: Can US and China unite to confront AI’s global risks?",
-        "id": "a11"
+        "id": "a16"
       },
       {
-        "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - TradingView",
+        "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - tradingview.com",
         "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0RuQ1V5Tkc2NzdzVTU1aWltTTVreUtJSzRfbXhuZFRQazRGQVREWi05Mi1aa1FGS3pwTExXb3RqTndaRnBTeG9aNVBqTDAwU05QS1BlQ011bGI2YkNMblBWOHFLOVoxYlRKSDJobEpZWC1KVjU3V0RMUGg5ZHZPV1dUd0IxSlhmMjVUczFFSFlOOGFtQ3R6THhpTkM4aEZzcUxvNlFSb0dNQQ?oc=5",
-        "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+        "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus tradingview.com",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T13:30:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
+        "fetchedAt": "2026-09-22T10:22:06.561Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "TradingView",
+        "googleNewsSource": "tradingview.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
-        "id": "a12"
-      },
-      {
-        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-        "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-21T13:16:25.000Z",
-        "fetchedAt": "2026-09-22T05:26:01.280Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
-        "id": "a13"
+        "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus tradingview.com",
+        "id": "a17"
       },
       {
         "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
@@ -493,7 +554,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T13:00:05.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -501,7 +562,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
-        "id": "a14"
+        "id": "a18"
       },
       {
         "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Legal Desire",
@@ -511,7 +572,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T12:32:14.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
+        "fetchedAt": "2026-09-22T10:22:06.561Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Legal Desire",
         "geopoliticalBypass": true,
@@ -521,7 +582,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
-        "id": "a16"
+        "id": "a20"
       },
       {
         "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
@@ -531,7 +592,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T12:13:16.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -539,7 +600,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
-        "id": "a17"
+        "id": "a21"
       },
       {
         "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
@@ -549,7 +610,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-21T11:58:25.000Z",
-        "fetchedAt": "2026-09-22T05:26:01.455Z",
+        "fetchedAt": "2026-09-22T10:22:00.819Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -558,47 +619,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
-        "id": "a18"
-      },
-      {
-        "title": "Researchers doubt US AI chip curbs can defeat China - streamlinefeed.co.ke",
-        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHJSeUp3azZkaXNRdHpVTmdyM05JSlg1MjBkVGRYbEdxUk1wSnBLN1psWjlISExUX3pXbU5vN0E3MWZReDJZbFBkRll3WEt3Q1pQSjM2aDRrWXE5b2NLdUZhZVBYb2xNelFuU3VGMVcxYTZ3c3RnazRaTkl2TkhoSDZTTlZ2YUUwVUswWGln?oc=5",
-        "description": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T09:50:16.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "streamlinefeed.co.ke",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
         "id": "a22"
-      },
-      {
-        "title": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability - The China-Global South Project",
-        "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdm5rSEhDMEtKRWFleG1OY2ZiQlhDREtTZmJKWlBhYVhwMjZTdWZwc0hHaVlNbVlwZTVKaEU1VXZhWFUzTWo2dHRyMkVtV0dMQi1URC1tREFwbFN5LXY3Z1hYRkRWMDBHR0NCOC1KTFZWcld5UkpQZDNXOXV1c0djbGkwdw?oc=5",
-        "description": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T09:37:35.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The China-Global South Project",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
-        "id": "a23"
       },
       {
         "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
@@ -608,7 +629,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-21T09:17:34.000Z",
-        "fetchedAt": "2026-09-22T05:26:04.764Z",
+        "fetchedAt": "2026-09-22T10:22:04.006Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -617,147 +638,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
-        "id": "a24"
-      },
-      {
-        "title": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race - Moneycontrol.com",
-        "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV3B5V1g3MkJra0IzT0NvUndTWVdlalIzaFFHRnZWTGtYRUxVVHR5dVJMemNnd3ZrUU1VeDBxbG8tQ3V1c19xWXphck92ekNsYm1ZWFYtMjlQM1RHVDVHTC1rM0FhSnFIY0dwZFF0RVhoc2JpbWw3RWk5OHR5TnBhU1dFQ2N1S1FKbXhoQnF5MnU2RXp5MXVJY2lrb1hkQWJHamRjZ05EME8xcmxoVjlYZlRUenoxTmRrLWhOYUxpMEZXNVR2Mkc2NGlTVmttQldCWGZvVXFOS28yaWwzUHdfUGJUX0FjTUh5WmFxQ3B0WXNnd9IB9wFBVV95cUxQOHBZYXppQ3ljVnV0QlVHSUZyR20yTXZDWnFfMEJ5c1ZnZVhCdEZ6OWVsdDVibUR5SzdLZTZKMDQwQ1NrejByZE1wM2VGZzEtS0tGUTVEZVlLNkpoMUI3OXBNSThKMmJGNUdTSndaby1rSXphZnI2VWxzWGx6Q3MzVmxaVmh4RlZOTzg0aWQzUUFNQmt4MHhsMVpBOWFDS0NaSkJ0V0Q1NzNuMHk0VFdtX0lRTkt4VFlNdE5mRHhBbXpKanR3dXB3ZGtOVmZiMUNwaTNnajREZ09uQzQ0ekpfbzNoSUNyMEk3dDJiUTB3MXV5TlQtTC1B?oc=5",
-        "description": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T08:57:49.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Moneycontrol.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
         "id": "a26"
-      },
-      {
-        "title": "China and the US are competing for AI dominance but have shared concerns over safety - ABC News - Breaking News, Latest News and Videos",
-        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHZJbV9hdDBBNDR2bFg1c2JxZFN6b2htY19nbllCUkRfZ3FSVGRmamxCYUh1MVY1ZkxlbUlGNDZjdGFvYXh3Q2l5WVJmNzVzZnhSSWdmVEthZzdld004WUVBejJBZHB5elYwbDZRNlhyc2JJdmJOQkE5RGRfMEZSTlpTUFZCNWU4VlpEQWgxMmxTaVNSV3ZKU1dMTzhOa1RKV0REVDZRa2HSAa4BQVVfeXFMUGZGTU5JYVlVN09saXducXRFS3B1ZGN4QlNNWmlmbDJDVDlLc2tMdGEzQUQzU1ZzNGhDalFZR0NmbS00bVhBSG1uQVJuQy1RNFhYUjlYT0hkSENIdlBESURFY0V6VGlSSTkzOW1TcHhVMERMTHFMVl85NmdzYnZkOEI0ZGpjNjdjZnMzMG9OMUlMbnRGd3FacFhXRFQtOGUyQU16anljWC1uYnAyQU53?oc=5",
-        "description": "China and the US are competing for AI dominance but have shared concerns over safety ABC News - Breaking News, Latest News and Videos",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T08:56:30.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "ABC News - Breaking News, Latest News and Videos",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China and the US are competing for AI dominance but have shared concerns over safety ABC News - Breaking News, Latest News and Videos",
-        "id": "a27"
-      },
-      {
-        "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 - Bisinfotech",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2hyd002RXlZOHY4bGtMOTd1ZjBlN3cwSHNpWlhnN1Z3Y0FvZFZaZ0xHYk54M253VUNPMFQ4WUZsMy1Wb2tPSkNUUUtXSWxFVWVPWnUzeHdYS1ZoT2V4eGZoOGRTODZWVlB6RUZqTmg2R3NUQnc0LUt5UWxVWGN5aDZIUzJTTy0wS3kwd1lGX21FcUpYYU1DX0N2VQ?oc=5",
-        "description": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T08:52:07.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Bisinfotech",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
-        "id": "a28"
-      },
-      {
-        "title": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit - Technology Org",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk5jQkRybkVPeUhvVDdNdDgxYXNSWkZ3T0gwUGJpbjlwZ25lMDE1dDAtQm00VkNZRTNrUkdCSzVIWVJnLXJsREdJMGx5cWJMcDdWYzlvMEc4eG1DZ1Vxb01fT3FXZ3N2OHU2ZFBtTHRHWXFOelI2cGNIX0hRbE92dF83QkM?oc=5",
-        "description": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T07:41:41.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Technology Org",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
-        "id": "a29"
-      },
-      {
-        "title": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World - fakti.bg",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0p2RG9Oa2V1aTJnVTlUWXdMdEhTNm5JUURqS2YxNWRpSUw0dzdhMVQzZnRpcTA5aGVORXpTckVsYUFmdkFTazgwZU5pVlhJZy1xcHIxM1FoVE1ZM3AybVZiaDNzaTd3T2VRX0JiOGJDdGg1N19RX2JNV3JDMVJxc2RabDRYbjRyYlB6cnpYSWN1ZU16TVN1UWdyaFN4QTFVRUR5REoyb1pUZVRzdFhPRFJWTGtGNW1xdWg5Zw?oc=5",
-        "description": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World fakti.bg",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T06:12:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "fakti.bg",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World fakti.bg",
-        "id": "a30"
-      },
-      {
-        "title": "The US Wants an AI-Era 'Red Phone' With China - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZHeUViSUplVFVLa0lmcE1wUlh2MzA3WTJORno1Z1hwcUpVNnVHa1I1RVNfcnVWVUhZN1Nkbl9UV1BmOGlPeHQ4TDNQc3dzX09IZTJhamtpZXBFeEJOTHhBR3o0TjdWWmRWbmcybjdISWktUEM5YkdMN3E3dXlzeWFoeklkci1WYmFqMkVJRWRaN3hhd1NPODZMYTg?oc=5",
-        "description": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T05:41:47.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Business Insider",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
-        "id": "a31"
-      },
-      {
-        "title": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - Invezz",
-        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJVcEhxUzA3eE90UkloRjBzLVA0cEtMZWpSSXFsTWNEUVNEZFJpUUw5UGJRaGdrak1KQVhwZEpRWDRJbWhrR2lYSktrNndiQ3QyQlZ1MHltQ1hIQ29Ra0lsYjgtNnUzNGFrRlFPcHFreWc2bzlVQ1k5QmJyNlZrV1ZBa1NnRlp1bDVFc3lub2ljb2REMWtMOFNfM01JaU9DTHBzLWExRkZBLTQ?oc=5",
-        "description": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T05:27:50.000Z",
-        "fetchedAt": "2026-09-22T05:26:07.048Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Invezz",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
-        "id": "a32"
       }
     ]
   },
@@ -953,51 +834,81 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-22T05:26:07.081Z",
+    "generatedAt": "2026-09-22T10:22:06.598Z",
     "date": "2026-09-22",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "market-performance: In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-bein",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "market-performance"
+        },
         {
           "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
           "articleIds": [
-            "a8"
+            "a13"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
           "articleIds": [
-            "a10"
+            "a15"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
           "articleIds": [
-            "a15"
+            "a19"
           ],
           "subCategory": "data-center"
         },
         {
           "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
           "articleIds": [
-            "a19"
+            "a23"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: With Apple making the s\\wi",
           "articleIds": [
-            "a21"
+            "a25"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Can you forget how you feel about Meta?",
+        "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+        "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging. “i am not saying facebook is duplicitous and evil,” they wrote. “i am saying the opposite, you have heard the chorus and will PERSONALLY make this issue over adolescents your issue.” In the privacy of the conversation, Zuckerberg was candid. “I care deeply about this and we’ll continue focusing on being industry-leading with young people,” he responded, “but I’m not going to say it’s my personal main focus when I have a number of other areas I’m more focused on like building the metaverse.” Zuckerberg later reiterated that “I personally care about this.” But he appeared ambivalent, nudging his conversation partner away from older concerns and toward his vision for the future. “How do you think this fits with our focus on promoting building the metaverse as the next major opportunity?” he asked. “That’s not at odds with safety, but it’s a much different and more innovation-focused message.” Weeks later, Zuckerberg made a huge announcement: The company was changing its name to Meta in honor of its newest, most important priority. Years after that conversation, online child safety concerns have ballooned — while if anybody’s talking about the Metaverse, it’s likely as a multibillion-dollar money sink where nobody has legs. But the exchange is a microcosm of how Zuckerberg has run Meta, a sprawling online empire worth well over a trillion dollars: by always chasing the next big opportunity. Facebook’s motto was once, famously, “Move fast and break things.” Its new one might be closer to Move fast, break things, move on. For two decades, Meta’s products have been at the center of what people do online. But Meta now finds itself besieged on all sides. Lawsuits have piled up as regulators turn on social media. A push into smart glasses has triggered a mountain of negative press and backlash — including the pejorative moniker “pervert glasses.” The company remains firmly behind in the AI race. Public perception of Zuckerberg himself has curdled. Yet Meta is far from finished. It maintains a growing, highly profitable social media business. It’s dominant in AI-powered smart glasses, what many tech leaders consider the next mobile computing platform. It’s defused potential regulatory threats. And its latest platform, a “personal AI agent” dubbed Muse, was released in early September, giving Zuckerberg his next metaverse-like project. Muse is Zuckerberg’s latest bid to reinvent the company. Early numbers for Muse are promising; an Apptopia estimate this week indicates it’s got over 600,000 daily active users in the US, shooting it to the top of the iOS App Store charts. Yet the question remains: Can a company synonymous with safety and privacy debacles become the AI-powered voice in everyone’s ear? The glasses gamble When Zuckerberg took the stage at Facebook Connect to announce that one of the most recognizable names in tech was getting a new identity, he was planting a flag. Facebook, the social media company known for its “big blue app”? That was the past. The future of the internet was the metaverse, an immersive 3D space where digital avatars could socialize, work, and collaborate, built on a virtual reality headset the company acquired in 2014. And after the covid pandemic’s mass shutdowns of physical space, Facebook believed in the metaverse so much that it would rebuild its entire identity around the niche world of virtual and augmented reality. Nearly five years later, Meta’s Reality Labs division has accumulated over $80 billion in operating losses. It kicked off this year by cutting roughly 10 percent of that division, shuttering three VR studios, discontinuing the metaverse for work, and announcing it’d be shutting down Horizon Worlds, its flagship metaverse experience, on VR headsets. Meta has since decided to keep Horizon Worlds going after public backlash, but it’s clear that Zuckerberg’s colossal gamble on VR hasn’t paid off. But to call Meta’s investment an abandoned boondoggle isn’t quite accurate either. Meta dominates the nascent but growing smart glasses market, perhaps its biggest success story in recent years. The metaverse may not be the future of computing, but its augmented reality ambitions could still pay off. Few expected the Ray-Ban Meta glasses to take off when they launched in 2023. After all, Meta’s first attempt, the Ray-Ban Stories in 2021, was a bona fide flop. Ninety percent of owners left the glasses to rot in their drawers. But improvements to cameras in the next-generation hardware helped Meta to sell roughly 2 million units — surprising even Zuckerberg. By the end of 2025, EssilorLuxottica — Meta’s partner in building these devices — had sold an additional 7 million units. All told, Meta and EssilorLuxottica reported that smart glasses sales doubled in Q2 of 2026. Few expected the Ray-Ban Meta glasses to take off — but their success has surprised even Zuckerberg Most importantly, Zuckerberg and Meta leadership view this tech as the perfect vehicle for the company’s latest, shiniest interest: its AI investments. So much so that Meta is aggressively trying to brand these as AI glasses. “I think in the future, if you don’t have glasses that have AI — or some way to interact with AI — I think you’re probably [going to] be at a pretty significant cognitive disadvantage compared to other people and who you’re working with or competing against,” Zuckerberg said in a 2025 earnings call. Meta is still funneling billions into the AR space without profit, but that’s not necessarily disastrous. “There’s no true way to tell if [Meta] is successful or not. You could measure market share, and they absolutely have that, but that still doesn’t speak to profitability or if the spending to date is justified,” says Jitesh Ubrani, research director at IDC, noting that the runway for XR — the umbrella term for virtual, augmented, and mixed reality — is a notoriously long one. VR and the metaverse also had long runways that never paid off. But right now, the smart glasses market is building momentum, making it far too early to say whether it’s doomed to the same fate. Looking at what numbers do exist, Meta is the undisputed king. According to IDC, Meta commands 69.2 percent of the smart glasses and headset market as of Q2 2026. That number jumps up to 76 percent of AI glasses without displays. That said, Ubrani argues that it’s unlikely that any company will see a return on investment in the next five years. It’s possible, he says, that could take as long as 25 years. Absent profit, the next best measure of success is often determined by who can afford to stay in the game long enough — while ignoring demanding investors — to influence the next chapter. “In the XR market, I’d say that [Meta] is the leader in every segment they play in,” says Anshel Sag, principal analyst at Moor Insights & Strategy. That can be a double-edged sword, though. “They’ve both been a steward of the XR and AR space, but they’ve also limited its potential because they control the platform, the spending, and they decided who were the winners and the losers by investing with their dollars.” Both Sag and Ubrani also agree that Meta wouldn’t currently be the leader in smart glasses or a major player in AI if not for its early, if flawed, investments in VR. Meta’s success on this front has kicked off a race among tech companies. Google is pushing its Android XR platform, working with Samsung to launch several “intelligent eyewear” products later this year. Bloomberg has reported that Apple is also working on a pair. Outside the major players, there are dozens of Ray-Ban dupes from smaller companies. Again, Ubrani says it’s difficult to put hard numbers on how much tech companies are pouring into this space — but whatever the cost, the prize is winning what Silicon Valley sees as the next big mobile computing platform. Ubrani points to the smart glasses supply chain, where “one player who’s willing to invest no matter where the market is going” has massively changed the game. He contrasts that approach with Google, which retreated after criticism of its own glasses over a decade ago. “When people didn’t like [Google Glass], they scaled back significantly, and that in a sense, hurt the entire industry. Now with Meta, we’re seeing that even if Meta’s not making money, the industry is still moving forward.” “Even if Meta’s not making money, the industry is still moving forward.” On paper, it might seem Meta’s already won the battle for the next mobile computing platform. At least, if Meta weren’t Meta. While the company gained serious momentum in 2024 and 2025, it’s attracted a public backlash largely of its own making. Meta pushed its glasses as a way to make content for Instagram and other platforms, but failed to account for how bad actors might misuse its products. Online pickup artists and pranksters have started using the devices to harass women and retail workers, resulting in the “pervert glasses” label. The resulting videos are pushed to social media, where they effectively publicize the tech’s most troubling aspects. All this stokes roughly a decade’s worth of privacy concerns stemming from indiscriminate data collection, breaches, and advertising practices. It’s not just that Meta perhaps underestimated how its products could be misused. It already built a reputation for not taking privacy seriously. In recent months, activists have launched guerrilla campaigns in major cities by “remixing” Meta’s own marketing, painting smart glasses users as privacy threats. Meta has tried to demonstrate that it cares about privacy. “If people aren’t comfortable with you wearing the glasses, not only do we personally think that’s bad, but we wouldn’t have a business anymore,” Alex Himel, Meta’s VP of wearables, recently told The Verge ahead of a mandatory update that makes it harder to disable the LED light that alerts people that the headset is recording. Instagram head Adam Mosseri has also recently said Meta will take down prank videos captured with the Ray-Ban glasses. But these have been largely reactive policies. For the public, they look more like attempts to distract from unflattering news that feeds into Meta’s notorious privacy reputation. The New York Times reported that Meta intended to launch facial recognition software during political unrest to throw off privacy advocates. That was soon followed by a Wired report that said Meta had shipped — but not activated — this facial recognition tech to millions of glasses. Rounding out the trifecta was a Financial Times report that Meta is working on “super sensing glasses” that will be able to see what you’re doing 24/7. Andrew Nazdin, director of Glasgow Actions Team, one of the groups behind the guerrilla campaigns, says it would be “foolish for us to let them police themselves instead of calling on society to reject this [tech].” It’s too soon to say if this backlash has hurt Meta’s smart glasses ambitions. Ubrani says we likely won’t see any impact on sales — if there is one — until the holiday season. Even so, analysts aren’t convinced Meta’s bad reputation is enough to derail its hopes for smart glasses. “Meta’s done a very poor job of talking about privacy and setting the right tone,” acknowledges Sag. “But it’s funny because if you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” “If you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” As for public distrust of Zuckerberg, Sag says his thorny reputation may not sit well with the public, but it’s considered part of Meta’s strength in a niche space like XR. “Meta would not be where it is today if it weren’t for Mark Zuckerberg … Even if people disagree with him, ultimately what he wants is what gets done,” Sag says. “I think his fear of losing the AI race is what sparked the whole Superintelligence Lab, and now they’re back in the competition. He has blind spots, but he’s able to correct much more quickly than any other CEO founder … every time people have counted him out or questioned his leadership, he’s been able to claw the company back.” That unilateral doggedness is why Meta seems hell-bent on barreling forward with AI glasses, privacy qualms be damned. A few months ago, it released Meta Glasses, a newer and cheaper version of the Ray-Ban glasses sans Ray-Ban branding. At a launch event, Meta CTO Andrew Bosworth told the press that Meta was contemplating audio-only glasses without cameras. It will likely launch even more new styles, collaborations, and potentially new hardware and privacy protections at Meta Connect 2026 this week. “Meta missed mobile, they missed VR when it first came out. The metaverse didn’t pan out the way they thought it would. That’s one of the reasons why we’re seeing them so determined and willing to spend to make AI glasses happen,” says Ubrani. It’s unclear whether Meta can maintain its lead in the XR space. AI wearables are only just beginning to heat up, with players big and small eager to throw their hat in the ring across multiple form factors ranging from pendants to smartwatches. Meta only has glasses — and it’s tying the glasses’ success to the overall success of the company’s AI bets. And on that side of the business, things are looking like a hot mess. An AI ‘shitshow’ Last summer, Zuckerberg attempted to lure top AI talent to supercharge his company’s lagging AI division. He offered a series of staggering pay packages, running up to $1 billion, to join Meta’s Superintelligence Labs. But more than a year later, the company doesn’t have much to show for it besides two manifestos published by Zuckerberg and the recently released Muse. Zuckerberg may have inspired confidence among investors and analysts, but sources at or close to the company told The Verge that morale is down, AI initiatives are scattered at best, and the company’s AI strategy is running largely on vibes alone. “It’s a shitshow,” says one longtime Meta employee, who works on Reality Labs and requested anonymity for fear of retaliation. Meta dipped its toes into AI around its metaverse restructuring and released a small group of models. But focused on Zuck’s VR ambitions, it missed its competitors investing in upstarts that would soon become AI giants. Its first frontier models were released in 2023 to lukewarm reception, and it wasn’t until the tepid response to Llama 4 in 2025 that the company jumped into the AI race with both feet. That’s when Zuckerberg kicked off his AI hiring strategy in earnest, even hand-delivering soup to researchers and engineers he wanted to recruit from rivals and other industry heavyweights. In June 2025, Meta invested $14.3 billion in data-labeling company Scale AI and poached its CEO, Alexandr Wang, to lead Meta’s AI efforts. But many AI engineers turned down Zuckerberg’s advances. Meta AI underwent wave after wave of reorganizations, and its superintelligence sub-team, TBD Lab, has reportedly clashed with Meta executives over opposing goals. TBD Lab has reportedly sought to think longer-term and build best-in-class models to secure the company’s place among its competitors. But executives have reportedly remained focused on more platform-specific ways to drive revenue, like companion chatbots and social media features. Some attempts to integrate AI into platforms like Instagram have drawn backlash — it briefly launched and then suspended a controversial Instagram deepfakes generator, and said it “missed the mark” on an AI tool that provided creepily detailed information about a user’s children. “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic.” Meta’s most prestigious AI team is a “total mess,” according to Wired reports that describe internal chaos and ever-changing strategy. Zuckerberg reportedly admitted to employees during an internal town hall this summer that progress on AI agents was slower than expected. On a recent Meta earnings call, an analyst told executives he had been fielding questions from investors about Meta’s amount of debt compared to capital, as the company ramped up its spending to try to get ahead in the AI race. Zuckerberg has also been criticized for slashing team sizes to reportedly replace a significant number of employees with AI systems, per Reuters. The current employee says Meta has a bad habit of jumping from hype cycle to hype cycle: “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic in order to invest and to change and to grow, to incorporate this new technology. It happened with crypto. It happened with VR and the metaverse. It’s happening now with AI. I think it stems from a lack of maturity of our founder [and] a lack of maturity of our leadership.” A former Meta employee, who also requested anonymity, echoes those thoughts: “Like most big tech, there’s just been such a big push to AI-ify everything … but it’s basically a laughingstock internally.” In a May podcast interview, Wang denied that he and Zuckerberg had been fighting a lot, saying leaders at the company know frontier model development and product integration are both important. But, he added, “like any company … we debate the points deeply.” But the current employee says Meta’s AI strategy simply isn’t based in the reality of the business or what its customers actually want. “There’s a whole different planet between what the C-suite is talking about and what’s happening on the ground,” they say, later adding, “That tension is literally at the core of the problem at Meta … building AI for the sake of having the biggest building or the biggest fucking dildo versus building a useful product.” Meta has spent an extraordinary amount on AI, but it’s made few waves in the industry Zuckerberg’s latest manifesto — in which he lays out his vision of superintelligence that people use “to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life” — didn’t make many waves in the broader AI industry. And so far, the features Meta has added to smart glasses and the products it’s rolled out haven’t broken through compared to the company’s biggest rivals. Given the early usage statistics, Muse could break this pattern — but it’s too early to know. Noah Smith, senior director of NLP research at the Allen Institute for Artificial Intelligence (Ai2), says the manifesto “reads to me a bit like PR … I also didn’t find anything particularly surprising there, or new.” Instead, Smith found himself asking what is going on behind the scenes to make Zuckerberg publicly state all this now. Zuckerberg’s manifesto also wasn’t received well internally, according to the current and former Meta employees The Verge spoke with. In particular, the current employee says it’s a typical example of putting the cart before the horse. “The manifesto did not articulate the biggest question,” he says. “What will AI do for our business as an advertising business? What is the benefit in terms of return on investment on the hundreds of billions of dollars that we’re spending? We don’t even have a product play.” He adds that even after Meta’s massive investments, he wouldn’t rank his own company in the top three of AI players — and that that’s reflected by the fact that engineers at the company don’t typically prioritize using Meta’s own AI models, instead using models from Anthropic, OpenAI, and Chinese AI companies. He says that after Meta announces a new AI model internally, people will try it out for a little bit and then typically go back to using Anthropic’s Claude models; he compares employees using MetaAI to children goaded into eating their vegetables. “I think if we actually cared about developing AI well, we would have everyone just use [our] AI and constantly give feedback,” he says. “That would be monumental. But likely we would take a productivity hit in other ways.” Overall, “morale is in the gutter,” the current employee says. “People do not trust leadership. I get a strong sense that leadership doesn’t even trust Mark in his direction.” They add that employees feel the company is spying on them and forcing AI into everything, and amid restructuring and layoffs, workers are “tired of the pizza parties” and haven’t seen any movement on top internal complaints, like problematic incentive structures, misuse of tokens, and pace of work. The former employee says that colleagues at the company feel that it’s “like the Metaverse 2.0,” and though Zuckerberg bought some of the best AI talent in the world, “still, they don’t have a thing that anybody wants.” A lot of people at Meta, the employee says, think it’s an inevitability that the company will drop its AI efforts the same way it sidelined its metaverse ones. Meta is betting on giving users free, easily packaged access to agentic AI, but its position in the industry is tenuous “It’s not going to be framed [as him] abandoning anything,” the current employee says. “They were going to turn off Horizon Worlds, and Zuck got wind of it and he said they need to keep it on even though it’s a money-suck … Zuckerberg does not want to admit defeat. But there will be a strategic pivot … away from this manic AI spending to whatever is next, maybe a derivative of AI, maybe more wearable stuff.” Muse is the next step in Zuckerberg’s plans: a move from straightforward language and image models toward more practically useful agentic AI. It’s betting on giving users free, easily packaged access to the kinds of tools that might previously have required dedicated hosting machines or cost hundreds of dollars a year. But it’s too early to tell if users will trust Meta with the keys to their digital lives. Meanwhile, Meta’s position in the industry’s top tier appears as tenuous as ever. In response to questions from The Verge, Meta spokesperson Alex Dziedzan said that “at Meta, our philosophy is simple: let our teams deliver. We encourage you to check out Connect to learn more.” Meta is still trying to convince investors — and the tech industry more broadly — that its relatively nascent AI business has legs. In the meantime, the company is fighting to retain control of its true money machines and the original business proposition: pumping users’ social media feeds, particularly on its flagship Instagram, with whatever keeps them engaged. The cash cow Four years ago, Instagram teased what would become perhaps its most reviled change to date: an “immersive” experience where photos and videos took up a user’s full screen and filled it with content from accounts a user didn’t follow. The feature was blatantly ripped from TikTok, its newer, more ruthless competitor, and to many users, the update represented a betrayal of Instagram’s core social elements. Tati Bruening saw something worth saving in Instagram’s earlier, actually social, peer-to-peer communication platform. The photographer and creative tapped into widespread resentment and frustration, posting a graphic that was simple and to the point: “MAKE INSTAGRAM INSTAGRAM AGAIN,” it read. “Stop trying to be tiktok i just want to see cute photos of my friends. Sincerely, everyone.” Kim Kardashian and Kylie Jenner, titans of attention-based online economy, reposted Bruening’s graphic. An online petition racked up hundreds of thousands of signatures. Eventually, the heat became too much to bear, and Instagram rolled back the changes. But it was only kicking the can down the road; this was the beginning of the end of an era. Several years on, watching vertical videos of strangers is a cornerstone of social media, including Instagram. And Bruening has a new perspective, having seen platforms rise and fall and upend her job. “This is going to be the most shocking thing to hear coming out of my mouth, but I think in terms of all of the creator platforms, [Instagram] is going to be the one that makes it out of this era,” Bruening says. “I think in terms of all of the creator platforms, Meta is going to be the one that makes it out of this era.” Meta (as Facebook) acquired Instagram in 2012 for approximately $1 billion, and it eclipsed the company’s then-eponymous blue app in relevance years ago. Central to the creator industry, celebrity culture, and lifestyle content, Instagram is a cash cow for Meta: eMarketer estimates it will pull in $52 billion in US ad revenue this year, compared to Facebook’s $48 billion. For the last few years, it’s been playing catch-up not only to TikTok but to a whole internet where people spend less time connecting with friends and relatives and more on an algorithmically sorted recommendation feed. Yet along with its rival YouTube, Bruening says, Instagram remains one of the few social media platforms that’s been somewhat stable. Snapchat no longer serves creators, and TikTok is too filled with slop and TikTok Shop content. Meta may have turned its photo app into a vertical video slot machine, but at least it rewards the creators who obey — if you make shortform videos, Instagram will show them to someone. Creators and brands still see Instagram as the prestige, more polished platform where most advertising spend goes, says Lia Haberman, an influencer marketing expert who writes ICYMI, a social media newsletter. Whatever lead TikTok had in shortform content a few years ago has narrowed or even closed. The threat of TikTok disappearing from the US made advertisers nervous, Haberman says; creators started to think about backup plans and diversifying their platforms and online presence. When brands ask creators for deliverables — the assets and content that they want an influencer to post — Instagram Reels and Stories are typically first on the list, in Haberman’s experience. Instagram is Meta’s cultural crown jewel, but the company is trying to diversify its revenue through other apps, too. Meta has tried to pull more creators onto Facebook with cash incentives. The company’s massive messaging platform WhatsApp remains popular, especially outside the US; executives said subscriptions and paid messaging drove record non-advertising revenue. Threads, the X competitor, reached 500 million monthly users this summer, but it still feels a bit like the black sheep — in earnings reports, Meta’s “family of apps” is defined as “Facebook, Instagram, Messenger, WhatsApp, and other services.” The company has introduced a slew of other apps, like standalone platforms for Facebook groups and Marketplace, with leadership saying AI is speeding up development. “Social media is saturated in many ways. The hyper growth days for Meta are over.” But despite Zuckerberg’s soliloquies on an AI-powered future, Meta is at its core in the business of serving ads, and that business is still booming: The company reported in July that its revenue from advertising grew 27 percent year over year. Some projections show Meta’s ads business surpassing Google’s by the end of 2026. The bigger problem is the people it shows those ads to, and the content it puts those ads in between. The average social media user is less interested than they once were in posting, and Meta’s access to a new generation of users is under threat. “There is sort of a tension brewing where we’re seeing this double-digit growth in their ad spend, but we are not seeing double-digit growth when it comes to overall usage [in the US],” Minda Smiley, senior analyst at eMarketer, says of advertisers’ spending patterns. “I think that just really speaks to the fact that social media is saturated in many ways. The hyper growth days for Meta are over.” People in general are now using social media to consume content rather than share it; a Morning Consult poll found that a third of respondents say they post less on social media compared to last year. What’s more, entire generations of young people are logging off or forcibly being logged off. The past few years have seen bipartisan, multinational, and cross-generational support for either limiting minors’ access to social media or banning them altogether. When kids can get online, Gen Z and Gen Alpha don’t want to express themselves fully on the social media sites their parents or relatives are on, and what’s more, they want in-person experiences, Haberman says. They want to touch grass. Katie Harbath, a former Meta public policy director who now runs tech policy consultancy Anchor Change, says that there’s a small point of relief for Meta here, though: Kids aren’t how they’re making their money. Data compiled by research platform BusinessStats primarily from Facebook’s Ads Manager found that about 3.2 percent of Facebook’s global audience was between the ages of 13 and 17. On Instagram, using a similar dataset, that share was slightly higher, but still just 5.8 percent of the app’s global audience, according to BusinessStats. “If all of a sudden they can’t have kids under 18 on, it’s not great, but it’s also not the vast majority of the people that are on the platform,” Harbath says. But Meta will eventually need those users — it can’t dine off the social media habits of older generations forever. What happens to Meta if its user base peters out, and advertisers follow? A reckoning could be coming in two to three years, Haberman says, if these trends continue as Gen Alpha comes of age. Teen users are a tiny part of Meta’s business — but losing the next generation is something it can’t afford “I’m not sure that we’ve really fully grasped yet how much of a big deal that this could be once audiences stop showing up or audiences age out,” Haberman says. “Essentially, it’s going to become kind of a graveyard for millennials, Gen X, and boomers.” The implications are manifold — for the social platforms themselves, naturally, but also for the advertisers, brands, and influencers who’ve taken for granted that social media is an effective way to reach people. The elephant in the room is AI — Meta’s costly buildouts and investments, of course, but also the question of how to handle AI content on the platform, and how much of it users actually want. On its second quarter earnings call, Zuckerberg said the company would soon be able to provide a “nearly infinite universe of personalized content” to users through its image and video generation tools, to supplement content from influencers, creators, and users’ friends and family. AI content is cheap, fast, and replaceable, made to be chewed up and spit out as long as the algorithms will allow it to be served up. This is what creatives like Bruening are competing against. “You would have to become an AI robot in order to keep up with a lot of the metrics and standards for what [Meta’s] best practices are,” Bruening says. “A human artist is not going to have the same level of output as an AI machine that’s going to appease the algorithm.” How far can Meta push the human creators before they decide they no longer want to compete with their automated counterparts? Much like Meta, creators are constantly chasing the next big thing, trying to weather shifting societal expectations and tastes. For individual creators, a failure to adapt can be career-ending; Meta now finds itself in similar precarious footing. But concerns about how people use social media aren’t just a matter of business. They’re the object of serious inquiry for lawmakers across the world — all bent on reining in what they see as one of the tech industry’s most dangerous players. A social reckoning Over the past decade, Meta has become one of the biggest punching bags in politics — and its CEO the face of a callous, out-of-touch, and exploitative “Big Tech.” Zuckerberg, Mosseri, and other executives have been dragged before congressional committees and juries and berated for a perceived carelessness toward kids’ safety and disinformation, a ruthless crushing of competition, and even complicity in lynching and genocide. But through each PR crisis, Meta has somehow still found its footing, and in many cases, dodged the worst-case outcomes. Meta grew to massive scale and influence in part through two key acquisitions: its purchases of Instagram in 2012 and WhatsApp in 2014. But by 2020, those deals became the focal point of a major antitrust lawsuit seeking to break up the company. Since then, Meta’s acquisitions and competitive actions have faced intense scrutiny in the US and around the world, and its dealmaking leveled off. In 2020, it closed 10 acquisitions worth a total of $1.37 billion, according to data compiled by PitchBook; as it fought monopolization claims, its deal count and value dropped each year through 2024. But for the most part, the company has weathered regulatory pressure, and Meta’s dealmaking picked up again in 2025. Meta won against the FTC’s anti-monopoly claims, and it was allowed to buy the virtual reality fitness startup Within after the FTC took it to trial (a few years later, it announced it would stop making content for Within’s flagship game, only to later spin it off). Through political crisis after political crisis, Meta has dodged the worst-case outcomes Long-standing fears about Meta’s data collection efforts also reached a boiling point in 2018, when reporters uncovered evidence that London elections consultancy Cambridge Analytica had harvested millions of Facebook profiles to analyze and target users with pro-Trump messaging in 2016. That led to a flood of calls among users to #DeleteFacebook, even from Brian Acton, cofounder of WhatsApp. But Zuckerberg later told The New York Times that the movement hadn’t resulted in any “meaningful” defection from the platform. In Europe, Meta was ordered to make changes impacting its ad-targeting practices after a $1.3 billion fine, but in the US lawmakers are still unable to agree on an industry-wide data privacy law. While President Donald Trump once threatened to throw Zuckerberg in prison for life, the CEO seems to have successfully gotten on the Trump administration’s good side after ditching the fact-checking program the president had criticized, disbanding its diversity, equity, and inclusion (DEI) team, and agreeing to a $25 million settlement over Trump’s lawsuit for suspending his account. Meanwhile, Meta’s apps benefited from the brief ban of TikTok in the US, though Trump cut that period short through repeated enforcement delays. Meta’s courting of the Trump administration may leave it ripe for scrutiny under a Democratic administration, but meaningful consequences could remain years away, if they come at all. Most recently, Meta’s most pressing policy challenge has been child safety. For the first half of the year, it appeared to be caught on its back foot. Two juries issued decisive blows to the company, resulting in close to a billion dollars in fines across an individual plaintiff’s case in Los Angeles and a case brought by New Mexico’s attorney general. But the New Mexico judge later declined to impose the most disruptive structural changes the AG had asked for. On the surface, a landmark settlement with 47 other state AGs in August looked even worse for Meta. The settlement included significant changes: new age assurance benchmarks, a two-hour daily usage limit (with exceptions for messaging and longform content), and default restrictions on nighttime and school hour notifications for teens. But it also presented Meta an opportunity to turn attention onto its rivals. The company called on TikTok, YouTube, and Snap to adopt similar limits, and it tied part of its settlement payout to their actions. This helped Meta twice over: It could put a target on its competitors’ backs while mitigating the potential negative business impact of its own deal. New child safety regulations could end up helping Meta as well. eMarketer forecasts that Snap and TikTok would feel more of a hit than Meta if a nationwide classroom cellphone ban, another popular proposal, went into effect. TikTok would lose out on more than $1.25 billion in ad revenue this year, the firm estimates, and Snap’s ad revenue would be especially vulnerable because of the high concentration of teens on the platform who use the app throughout the day. A hit on Meta’s revenue, meanwhile, would “hardly register,” eMarketer says, thanks to its scale. Meta could lose out under child safety regulations — but its competitors might lose more Even so, Meta’s legal battles over kids’ safety aren’t over. Meta and other tech companies still face thousands of lawsuits from individual plaintiffs and school districts, likely culminating in a blanket settlement. The scope of cases and potential penalties is so large that it’s difficult to understand exactly how much risk they carry. It would take quite a lot for Meta to feel the sting, but the billions in settlements and court orders are beginning to add up. Meta has already invested huge sums into fighting these cases. In the second quarter alone, it took a $2.4 billion charge over litigation expenses. Prior to Meta’s recent settlement with state AGs, Peter Chapman, deputy director of the Knight-Georgetown Institute, said that “suggests to me that they’re playing a long game” around the First Amendment and online liability shield Section 230. Following the settlement news, Chapman says he still sees it as early days amid the mountain of litigation before Meta and other tech companies, but “the long game certainly has changed.” Now it seems to include targeting industry competitors to get on board with the terms Meta already accepted, while a fight to preserve its protections under Section 230 will likely continue through appeals of the earlier cases Meta lost. Meta’s settlement may bring some solace to investors who were unsure how to price in its legal risk. After the news of the deal, its stock price shot up. “The state AGs got an okay deal. I don’t think they knocked it out of the park,” says Paul Gallant, a tech policy analyst at investment bank TD Cowen. As a result, Meta shareholders should have “confidence that the company knows how to manage the government.” The $17 billion settlement represents an “immaterial” amount for Meta, Gallant says. In the last quarterly earnings report, Meta said it made more than $60 billion. But additional cases still present some risk, and large fines may be more of a problem today than when the European Union levied them in the past. “The companies are spending so much on AI infrastructure that cashflow is a bigger focus of Meta’s stockholders, especially if the damage awards get into the tens of billions or more,” Gallant says. And unlike the tactics at its disposal to fight off impending legislation, Gallant adds, “of all of the features of the US governmental system, the least controllable by Meta is juries.” “These massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto.” State and local governments also appear ready to take on tech while federal efforts stall, including in Meta’s latest area of focus, AI. Many are looking at how they can rein in AI and deal with the energy demands it creates on their electrical grids. Data centers have become a flashpoint across the country, and a nationwide push for a slowdown could be particularly meaningful for Meta and other businesses in the AI race. “That’s the thing that could really not just slow them, but slow everybody down — having enough compute,” says Harbath. “We talk so much about what happens at the federal level, but I actually think the biggest risk to Meta and these tech companies right now is at the hyper-local level.” Zuckerberg has become the face of many of these battles, testifying for hours before policymakers and juries, and even standing up in Congress to apologize to parents who lost children after battles with online harms. The public testimonies have largely not seemed to endear him any further to his critics. “It’s almost like this bizarre disconnect where these massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto,” Smiley, the analyst at eMarketer, says. “It’s sort of like, ‘What planet are you on?’ It just feels like there’s just this big disconnect.” Whether it will matter is another unresolved question. Despite the litany of PR problems, user frustrations, legal troubles, and internal personnel conflict, Meta still feels like an immovable force. It has managed to sidestep, acquire, and pivot its way out of scandals and blowups that would have sunk most other companies. It’s spending lavishly on its new, AI-powered future. But that future remains far from certain. Smart glasses are unproven, its AI labs are behind newer upstarts, the legal landscape is hostile, and it may be hitting its ceiling in finding new users. What does seem certain is that its CEO will never stop chasing the next big thing. “Zuckerberg has this kind of monkey on his back,” says the current Meta employee. “He’s willing to experiment with the company because he controls the company.”",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-22T10:00:01.000Z",
+        "fetchedAt": "2026-09-22T10:22:00.715Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "regulators",
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging.",
+        "id": "a1"
+      },
       {
         "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
         "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-surges-7-amazon-validates-190345932.html?.tsrc=rss",
@@ -1006,7 +917,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T19:03:45.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1016,7 +927,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-        "id": "a8"
+        "id": "a13"
       },
       {
         "title": "Trump says DOJ will rein in AI 'if we have to'",
@@ -1026,7 +937,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T16:46:24.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.531Z",
+        "fetchedAt": "2026-09-22T10:21:59.865Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1037,28 +948,7 @@ export const NEWS_DATA = {
           "regulators"
         ],
         "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-        "id": "a10"
-      },
-      {
-        "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-        "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-        "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-21T13:16:25.000Z",
-        "fetchedAt": "2026-09-22T05:26:01.280Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
@@ -1068,7 +958,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T12:43:05.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -1078,7 +968,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-        "id": "a15"
+        "id": "a19"
       },
       {
         "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
@@ -1088,7 +978,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T11:53:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1098,7 +988,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-        "id": "a19"
+        "id": "a23"
       },
       {
         "title": "Bear of the Day: Qualcomm (QCOM)",
@@ -1108,7 +998,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T11:00:00.000Z",
-        "fetchedAt": "2026-09-22T05:26:00.766Z",
+        "fetchedAt": "2026-09-22T10:21:59.975Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1118,7 +1008,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "With Apple making the s\\wi",
-        "id": "a21"
+        "id": "a25"
       }
     ]
   },
@@ -6190,34 +6080,71 @@ export const NEWS_DATA = {
     "totalArticles": 29
   },
   "archive-2026-09-22": {
-    "generatedAt": "2026-09-22T05:26:07.083Z",
+    "generatedAt": "2026-09-22T10:22:06.601Z",
     "date": "2026-09-22",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the",
+              "text": "Semiconductors: Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data cente",
               "articleIds": [
-                "a9"
+                "a3"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
               "articleIds": [
-                "a19"
+                "a23"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+            "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T08:21:17.000Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+            "id": "a3"
+          },
+          {
+            "title": "About QUALCOMM Incorporated (QCI0.F) - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBlZVQ2cXFIaXVYQXFCRDdHRGNDSDAwcVd5MmlCSjNiN3FrbGJhVDEzWkhPT2kwQk1vSEZwdlZZTUFCalJ6MXZ5bFlrR3BXVjNwQnZ0bUhtUnpNSlhIRmdfZHlfMG8zallK?oc=5",
+            "description": "About QUALCOMM Incorporated (QCI0.F) Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T01:59:55.000Z",
+            "fetchedAt": "2026-09-22T10:22:05.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "About QUALCOMM Incorporated (QCI0.F) Reuters",
+            "id": "a8"
+          },
           {
             "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
             "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
@@ -6226,7 +6153,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T16:53:14.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -6234,7 +6161,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
-            "id": "a9"
+            "id": "a14"
           },
           {
             "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
@@ -6244,7 +6171,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T11:53:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -6254,7 +6181,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-            "id": "a19"
+            "id": "a23"
           },
           {
             "title": "Is Lumentum (LITE) Quietly Rewiring Its AI Data Center Role With New OCI Optics?",
@@ -6264,7 +6191,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T11:13:17.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -6272,7 +6199,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Lumentum Holdings recently showcased its eight-wavelength DWDM External Laser SFP module and broader AI-focused optical solutions at ECOC 2026, underscoring its role in co-packaged and near-packaged optics aligned with the OCI MSA standard. By pairing this new DWDM ELSFP with a joint die-to-die optical interconnect demo with Qualcomm and Corning, Lumentum is positioning its photonics platform at the heart of emerging AI data center architectures. We’ll now examine how Lumentum’s...",
-            "id": "a20"
+            "id": "a24"
           },
           {
             "title": "Bear of the Day: Qualcomm (QCOM)",
@@ -6282,7 +6209,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T11:00:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -6292,30 +6219,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "With Apple making the s\\wi",
-            "id": "a21"
-          },
-          {
-            "title": "QCOM Stock Inches Higher After Worst Drop In Three Months: Traders Eye Snapdragon Summit For Cues",
-            "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-inches-higher-after-worst-drop-in-three-months-traders-eye-snapdragon-summit-for-cues/cZMRaUqRB4F?.tsrc=rss",
-            "description": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T09:05:15.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm enters a pivotal product week as investors weigh its smartphone chip roadmap.",
             "id": "a25"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -6326,7 +6235,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -6336,7 +6245,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
               "articleIds": [
-                "a15"
+                "a19"
               ],
               "subCategory": "data-center"
             }
@@ -6351,7 +6260,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T12:43:05.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -6361,49 +6270,112 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-            "id": "a15"
+            "id": "a19"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 25 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 18 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Geoff Raby, Former Australian Ambassador to China, discusses his expectations for the summit between US President Trump and Chinese President Xi, that will focus on topics like trade and AI. He speaks",
+              "text": "market-performance: In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-bein",
               "articleIds": [
                 "a1"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+              "articleIds": [
+                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Supply Chain: Alibaba is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
               "articleIds": [
-                "a2"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "Customers & Partners: Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonst",
               "articleIds": [
-                "a4"
+                "a9"
               ],
               "subCategory": "customers-partners"
-            },
-            {
-              "text": "market-performance: A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revital",
-              "articleIds": [
-                "a6"
-              ],
-              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Can you forget how you feel about Meta?",
+            "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+            "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging. “i am not saying facebook is duplicitous and evil,” they wrote. “i am saying the opposite, you have heard the chorus and will PERSONALLY make this issue over adolescents your issue.” In the privacy of the conversation, Zuckerberg was candid. “I care deeply about this and we’ll continue focusing on being industry-leading with young people,” he responded, “but I’m not going to say it’s my personal main focus when I have a number of other areas I’m more focused on like building the metaverse.” Zuckerberg later reiterated that “I personally care about this.” But he appeared ambivalent, nudging his conversation partner away from older concerns and toward his vision for the future. “How do you think this fits with our focus on promoting building the metaverse as the next major opportunity?” he asked. “That’s not at odds with safety, but it’s a much different and more innovation-focused message.” Weeks later, Zuckerberg made a huge announcement: The company was changing its name to Meta in honor of its newest, most important priority. Years after that conversation, online child safety concerns have ballooned — while if anybody’s talking about the Metaverse, it’s likely as a multibillion-dollar money sink where nobody has legs. But the exchange is a microcosm of how Zuckerberg has run Meta, a sprawling online empire worth well over a trillion dollars: by always chasing the next big opportunity. Facebook’s motto was once, famously, “Move fast and break things.” Its new one might be closer to Move fast, break things, move on. For two decades, Meta’s products have been at the center of what people do online. But Meta now finds itself besieged on all sides. Lawsuits have piled up as regulators turn on social media. A push into smart glasses has triggered a mountain of negative press and backlash — including the pejorative moniker “pervert glasses.” The company remains firmly behind in the AI race. Public perception of Zuckerberg himself has curdled. Yet Meta is far from finished. It maintains a growing, highly profitable social media business. It’s dominant in AI-powered smart glasses, what many tech leaders consider the next mobile computing platform. It’s defused potential regulatory threats. And its latest platform, a “personal AI agent” dubbed Muse, was released in early September, giving Zuckerberg his next metaverse-like project. Muse is Zuckerberg’s latest bid to reinvent the company. Early numbers for Muse are promising; an Apptopia estimate this week indicates it’s got over 600,000 daily active users in the US, shooting it to the top of the iOS App Store charts. Yet the question remains: Can a company synonymous with safety and privacy debacles become the AI-powered voice in everyone’s ear? The glasses gamble When Zuckerberg took the stage at Facebook Connect to announce that one of the most recognizable names in tech was getting a new identity, he was planting a flag. Facebook, the social media company known for its “big blue app”? That was the past. The future of the internet was the metaverse, an immersive 3D space where digital avatars could socialize, work, and collaborate, built on a virtual reality headset the company acquired in 2014. And after the covid pandemic’s mass shutdowns of physical space, Facebook believed in the metaverse so much that it would rebuild its entire identity around the niche world of virtual and augmented reality. Nearly five years later, Meta’s Reality Labs division has accumulated over $80 billion in operating losses. It kicked off this year by cutting roughly 10 percent of that division, shuttering three VR studios, discontinuing the metaverse for work, and announcing it’d be shutting down Horizon Worlds, its flagship metaverse experience, on VR headsets. Meta has since decided to keep Horizon Worlds going after public backlash, but it’s clear that Zuckerberg’s colossal gamble on VR hasn’t paid off. But to call Meta’s investment an abandoned boondoggle isn’t quite accurate either. Meta dominates the nascent but growing smart glasses market, perhaps its biggest success story in recent years. The metaverse may not be the future of computing, but its augmented reality ambitions could still pay off. Few expected the Ray-Ban Meta glasses to take off when they launched in 2023. After all, Meta’s first attempt, the Ray-Ban Stories in 2021, was a bona fide flop. Ninety percent of owners left the glasses to rot in their drawers. But improvements to cameras in the next-generation hardware helped Meta to sell roughly 2 million units — surprising even Zuckerberg. By the end of 2025, EssilorLuxottica — Meta’s partner in building these devices — had sold an additional 7 million units. All told, Meta and EssilorLuxottica reported that smart glasses sales doubled in Q2 of 2026. Few expected the Ray-Ban Meta glasses to take off — but their success has surprised even Zuckerberg Most importantly, Zuckerberg and Meta leadership view this tech as the perfect vehicle for the company’s latest, shiniest interest: its AI investments. So much so that Meta is aggressively trying to brand these as AI glasses. “I think in the future, if you don’t have glasses that have AI — or some way to interact with AI — I think you’re probably [going to] be at a pretty significant cognitive disadvantage compared to other people and who you’re working with or competing against,” Zuckerberg said in a 2025 earnings call. Meta is still funneling billions into the AR space without profit, but that’s not necessarily disastrous. “There’s no true way to tell if [Meta] is successful or not. You could measure market share, and they absolutely have that, but that still doesn’t speak to profitability or if the spending to date is justified,” says Jitesh Ubrani, research director at IDC, noting that the runway for XR — the umbrella term for virtual, augmented, and mixed reality — is a notoriously long one. VR and the metaverse also had long runways that never paid off. But right now, the smart glasses market is building momentum, making it far too early to say whether it’s doomed to the same fate. Looking at what numbers do exist, Meta is the undisputed king. According to IDC, Meta commands 69.2 percent of the smart glasses and headset market as of Q2 2026. That number jumps up to 76 percent of AI glasses without displays. That said, Ubrani argues that it’s unlikely that any company will see a return on investment in the next five years. It’s possible, he says, that could take as long as 25 years. Absent profit, the next best measure of success is often determined by who can afford to stay in the game long enough — while ignoring demanding investors — to influence the next chapter. “In the XR market, I’d say that [Meta] is the leader in every segment they play in,” says Anshel Sag, principal analyst at Moor Insights & Strategy. That can be a double-edged sword, though. “They’ve both been a steward of the XR and AR space, but they’ve also limited its potential because they control the platform, the spending, and they decided who were the winners and the losers by investing with their dollars.” Both Sag and Ubrani also agree that Meta wouldn’t currently be the leader in smart glasses or a major player in AI if not for its early, if flawed, investments in VR. Meta’s success on this front has kicked off a race among tech companies. Google is pushing its Android XR platform, working with Samsung to launch several “intelligent eyewear” products later this year. Bloomberg has reported that Apple is also working on a pair. Outside the major players, there are dozens of Ray-Ban dupes from smaller companies. Again, Ubrani says it’s difficult to put hard numbers on how much tech companies are pouring into this space — but whatever the cost, the prize is winning what Silicon Valley sees as the next big mobile computing platform. Ubrani points to the smart glasses supply chain, where “one player who’s willing to invest no matter where the market is going” has massively changed the game. He contrasts that approach with Google, which retreated after criticism of its own glasses over a decade ago. “When people didn’t like [Google Glass], they scaled back significantly, and that in a sense, hurt the entire industry. Now with Meta, we’re seeing that even if Meta’s not making money, the industry is still moving forward.” “Even if Meta’s not making money, the industry is still moving forward.” On paper, it might seem Meta’s already won the battle for the next mobile computing platform. At least, if Meta weren’t Meta. While the company gained serious momentum in 2024 and 2025, it’s attracted a public backlash largely of its own making. Meta pushed its glasses as a way to make content for Instagram and other platforms, but failed to account for how bad actors might misuse its products. Online pickup artists and pranksters have started using the devices to harass women and retail workers, resulting in the “pervert glasses” label. The resulting videos are pushed to social media, where they effectively publicize the tech’s most troubling aspects. All this stokes roughly a decade’s worth of privacy concerns stemming from indiscriminate data collection, breaches, and advertising practices. It’s not just that Meta perhaps underestimated how its products could be misused. It already built a reputation for not taking privacy seriously. In recent months, activists have launched guerrilla campaigns in major cities by “remixing” Meta’s own marketing, painting smart glasses users as privacy threats. Meta has tried to demonstrate that it cares about privacy. “If people aren’t comfortable with you wearing the glasses, not only do we personally think that’s bad, but we wouldn’t have a business anymore,” Alex Himel, Meta’s VP of wearables, recently told The Verge ahead of a mandatory update that makes it harder to disable the LED light that alerts people that the headset is recording. Instagram head Adam Mosseri has also recently said Meta will take down prank videos captured with the Ray-Ban glasses. But these have been largely reactive policies. For the public, they look more like attempts to distract from unflattering news that feeds into Meta’s notorious privacy reputation. The New York Times reported that Meta intended to launch facial recognition software during political unrest to throw off privacy advocates. That was soon followed by a Wired report that said Meta had shipped — but not activated — this facial recognition tech to millions of glasses. Rounding out the trifecta was a Financial Times report that Meta is working on “super sensing glasses” that will be able to see what you’re doing 24/7. Andrew Nazdin, director of Glasgow Actions Team, one of the groups behind the guerrilla campaigns, says it would be “foolish for us to let them police themselves instead of calling on society to reject this [tech].” It’s too soon to say if this backlash has hurt Meta’s smart glasses ambitions. Ubrani says we likely won’t see any impact on sales — if there is one — until the holiday season. Even so, analysts aren’t convinced Meta’s bad reputation is enough to derail its hopes for smart glasses. “Meta’s done a very poor job of talking about privacy and setting the right tone,” acknowledges Sag. “But it’s funny because if you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” “If you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” As for public distrust of Zuckerberg, Sag says his thorny reputation may not sit well with the public, but it’s considered part of Meta’s strength in a niche space like XR. “Meta would not be where it is today if it weren’t for Mark Zuckerberg … Even if people disagree with him, ultimately what he wants is what gets done,” Sag says. “I think his fear of losing the AI race is what sparked the whole Superintelligence Lab, and now they’re back in the competition. He has blind spots, but he’s able to correct much more quickly than any other CEO founder … every time people have counted him out or questioned his leadership, he’s been able to claw the company back.” That unilateral doggedness is why Meta seems hell-bent on barreling forward with AI glasses, privacy qualms be damned. A few months ago, it released Meta Glasses, a newer and cheaper version of the Ray-Ban glasses sans Ray-Ban branding. At a launch event, Meta CTO Andrew Bosworth told the press that Meta was contemplating audio-only glasses without cameras. It will likely launch even more new styles, collaborations, and potentially new hardware and privacy protections at Meta Connect 2026 this week. “Meta missed mobile, they missed VR when it first came out. The metaverse didn’t pan out the way they thought it would. That’s one of the reasons why we’re seeing them so determined and willing to spend to make AI glasses happen,” says Ubrani. It’s unclear whether Meta can maintain its lead in the XR space. AI wearables are only just beginning to heat up, with players big and small eager to throw their hat in the ring across multiple form factors ranging from pendants to smartwatches. Meta only has glasses — and it’s tying the glasses’ success to the overall success of the company’s AI bets. And on that side of the business, things are looking like a hot mess. An AI ‘shitshow’ Last summer, Zuckerberg attempted to lure top AI talent to supercharge his company’s lagging AI division. He offered a series of staggering pay packages, running up to $1 billion, to join Meta’s Superintelligence Labs. But more than a year later, the company doesn’t have much to show for it besides two manifestos published by Zuckerberg and the recently released Muse. Zuckerberg may have inspired confidence among investors and analysts, but sources at or close to the company told The Verge that morale is down, AI initiatives are scattered at best, and the company’s AI strategy is running largely on vibes alone. “It’s a shitshow,” says one longtime Meta employee, who works on Reality Labs and requested anonymity for fear of retaliation. Meta dipped its toes into AI around its metaverse restructuring and released a small group of models. But focused on Zuck’s VR ambitions, it missed its competitors investing in upstarts that would soon become AI giants. Its first frontier models were released in 2023 to lukewarm reception, and it wasn’t until the tepid response to Llama 4 in 2025 that the company jumped into the AI race with both feet. That’s when Zuckerberg kicked off his AI hiring strategy in earnest, even hand-delivering soup to researchers and engineers he wanted to recruit from rivals and other industry heavyweights. In June 2025, Meta invested $14.3 billion in data-labeling company Scale AI and poached its CEO, Alexandr Wang, to lead Meta’s AI efforts. But many AI engineers turned down Zuckerberg’s advances. Meta AI underwent wave after wave of reorganizations, and its superintelligence sub-team, TBD Lab, has reportedly clashed with Meta executives over opposing goals. TBD Lab has reportedly sought to think longer-term and build best-in-class models to secure the company’s place among its competitors. But executives have reportedly remained focused on more platform-specific ways to drive revenue, like companion chatbots and social media features. Some attempts to integrate AI into platforms like Instagram have drawn backlash — it briefly launched and then suspended a controversial Instagram deepfakes generator, and said it “missed the mark” on an AI tool that provided creepily detailed information about a user’s children. “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic.” Meta’s most prestigious AI team is a “total mess,” according to Wired reports that describe internal chaos and ever-changing strategy. Zuckerberg reportedly admitted to employees during an internal town hall this summer that progress on AI agents was slower than expected. On a recent Meta earnings call, an analyst told executives he had been fielding questions from investors about Meta’s amount of debt compared to capital, as the company ramped up its spending to try to get ahead in the AI race. Zuckerberg has also been criticized for slashing team sizes to reportedly replace a significant number of employees with AI systems, per Reuters. The current employee says Meta has a bad habit of jumping from hype cycle to hype cycle: “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic in order to invest and to change and to grow, to incorporate this new technology. It happened with crypto. It happened with VR and the metaverse. It’s happening now with AI. I think it stems from a lack of maturity of our founder [and] a lack of maturity of our leadership.” A former Meta employee, who also requested anonymity, echoes those thoughts: “Like most big tech, there’s just been such a big push to AI-ify everything … but it’s basically a laughingstock internally.” In a May podcast interview, Wang denied that he and Zuckerberg had been fighting a lot, saying leaders at the company know frontier model development and product integration are both important. But, he added, “like any company … we debate the points deeply.” But the current employee says Meta’s AI strategy simply isn’t based in the reality of the business or what its customers actually want. “There’s a whole different planet between what the C-suite is talking about and what’s happening on the ground,” they say, later adding, “That tension is literally at the core of the problem at Meta … building AI for the sake of having the biggest building or the biggest fucking dildo versus building a useful product.” Meta has spent an extraordinary amount on AI, but it’s made few waves in the industry Zuckerberg’s latest manifesto — in which he lays out his vision of superintelligence that people use “to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life” — didn’t make many waves in the broader AI industry. And so far, the features Meta has added to smart glasses and the products it’s rolled out haven’t broken through compared to the company’s biggest rivals. Given the early usage statistics, Muse could break this pattern — but it’s too early to know. Noah Smith, senior director of NLP research at the Allen Institute for Artificial Intelligence (Ai2), says the manifesto “reads to me a bit like PR … I also didn’t find anything particularly surprising there, or new.” Instead, Smith found himself asking what is going on behind the scenes to make Zuckerberg publicly state all this now. Zuckerberg’s manifesto also wasn’t received well internally, according to the current and former Meta employees The Verge spoke with. In particular, the current employee says it’s a typical example of putting the cart before the horse. “The manifesto did not articulate the biggest question,” he says. “What will AI do for our business as an advertising business? What is the benefit in terms of return on investment on the hundreds of billions of dollars that we’re spending? We don’t even have a product play.” He adds that even after Meta’s massive investments, he wouldn’t rank his own company in the top three of AI players — and that that’s reflected by the fact that engineers at the company don’t typically prioritize using Meta’s own AI models, instead using models from Anthropic, OpenAI, and Chinese AI companies. He says that after Meta announces a new AI model internally, people will try it out for a little bit and then typically go back to using Anthropic’s Claude models; he compares employees using MetaAI to children goaded into eating their vegetables. “I think if we actually cared about developing AI well, we would have everyone just use [our] AI and constantly give feedback,” he says. “That would be monumental. But likely we would take a productivity hit in other ways.” Overall, “morale is in the gutter,” the current employee says. “People do not trust leadership. I get a strong sense that leadership doesn’t even trust Mark in his direction.” They add that employees feel the company is spying on them and forcing AI into everything, and amid restructuring and layoffs, workers are “tired of the pizza parties” and haven’t seen any movement on top internal complaints, like problematic incentive structures, misuse of tokens, and pace of work. The former employee says that colleagues at the company feel that it’s “like the Metaverse 2.0,” and though Zuckerberg bought some of the best AI talent in the world, “still, they don’t have a thing that anybody wants.” A lot of people at Meta, the employee says, think it’s an inevitability that the company will drop its AI efforts the same way it sidelined its metaverse ones. Meta is betting on giving users free, easily packaged access to agentic AI, but its position in the industry is tenuous “It’s not going to be framed [as him] abandoning anything,” the current employee says. “They were going to turn off Horizon Worlds, and Zuck got wind of it and he said they need to keep it on even though it’s a money-suck … Zuckerberg does not want to admit defeat. But there will be a strategic pivot … away from this manic AI spending to whatever is next, maybe a derivative of AI, maybe more wearable stuff.” Muse is the next step in Zuckerberg’s plans: a move from straightforward language and image models toward more practically useful agentic AI. It’s betting on giving users free, easily packaged access to the kinds of tools that might previously have required dedicated hosting machines or cost hundreds of dollars a year. But it’s too early to tell if users will trust Meta with the keys to their digital lives. Meanwhile, Meta’s position in the industry’s top tier appears as tenuous as ever. In response to questions from The Verge, Meta spokesperson Alex Dziedzan said that “at Meta, our philosophy is simple: let our teams deliver. We encourage you to check out Connect to learn more.” Meta is still trying to convince investors — and the tech industry more broadly — that its relatively nascent AI business has legs. In the meantime, the company is fighting to retain control of its true money machines and the original business proposition: pumping users’ social media feeds, particularly on its flagship Instagram, with whatever keeps them engaged. The cash cow Four years ago, Instagram teased what would become perhaps its most reviled change to date: an “immersive” experience where photos and videos took up a user’s full screen and filled it with content from accounts a user didn’t follow. The feature was blatantly ripped from TikTok, its newer, more ruthless competitor, and to many users, the update represented a betrayal of Instagram’s core social elements. Tati Bruening saw something worth saving in Instagram’s earlier, actually social, peer-to-peer communication platform. The photographer and creative tapped into widespread resentment and frustration, posting a graphic that was simple and to the point: “MAKE INSTAGRAM INSTAGRAM AGAIN,” it read. “Stop trying to be tiktok i just want to see cute photos of my friends. Sincerely, everyone.” Kim Kardashian and Kylie Jenner, titans of attention-based online economy, reposted Bruening’s graphic. An online petition racked up hundreds of thousands of signatures. Eventually, the heat became too much to bear, and Instagram rolled back the changes. But it was only kicking the can down the road; this was the beginning of the end of an era. Several years on, watching vertical videos of strangers is a cornerstone of social media, including Instagram. And Bruening has a new perspective, having seen platforms rise and fall and upend her job. “This is going to be the most shocking thing to hear coming out of my mouth, but I think in terms of all of the creator platforms, [Instagram] is going to be the one that makes it out of this era,” Bruening says. “I think in terms of all of the creator platforms, Meta is going to be the one that makes it out of this era.” Meta (as Facebook) acquired Instagram in 2012 for approximately $1 billion, and it eclipsed the company’s then-eponymous blue app in relevance years ago. Central to the creator industry, celebrity culture, and lifestyle content, Instagram is a cash cow for Meta: eMarketer estimates it will pull in $52 billion in US ad revenue this year, compared to Facebook’s $48 billion. For the last few years, it’s been playing catch-up not only to TikTok but to a whole internet where people spend less time connecting with friends and relatives and more on an algorithmically sorted recommendation feed. Yet along with its rival YouTube, Bruening says, Instagram remains one of the few social media platforms that’s been somewhat stable. Snapchat no longer serves creators, and TikTok is too filled with slop and TikTok Shop content. Meta may have turned its photo app into a vertical video slot machine, but at least it rewards the creators who obey — if you make shortform videos, Instagram will show them to someone. Creators and brands still see Instagram as the prestige, more polished platform where most advertising spend goes, says Lia Haberman, an influencer marketing expert who writes ICYMI, a social media newsletter. Whatever lead TikTok had in shortform content a few years ago has narrowed or even closed. The threat of TikTok disappearing from the US made advertisers nervous, Haberman says; creators started to think about backup plans and diversifying their platforms and online presence. When brands ask creators for deliverables — the assets and content that they want an influencer to post — Instagram Reels and Stories are typically first on the list, in Haberman’s experience. Instagram is Meta’s cultural crown jewel, but the company is trying to diversify its revenue through other apps, too. Meta has tried to pull more creators onto Facebook with cash incentives. The company’s massive messaging platform WhatsApp remains popular, especially outside the US; executives said subscriptions and paid messaging drove record non-advertising revenue. Threads, the X competitor, reached 500 million monthly users this summer, but it still feels a bit like the black sheep — in earnings reports, Meta’s “family of apps” is defined as “Facebook, Instagram, Messenger, WhatsApp, and other services.” The company has introduced a slew of other apps, like standalone platforms for Facebook groups and Marketplace, with leadership saying AI is speeding up development. “Social media is saturated in many ways. The hyper growth days for Meta are over.” But despite Zuckerberg’s soliloquies on an AI-powered future, Meta is at its core in the business of serving ads, and that business is still booming: The company reported in July that its revenue from advertising grew 27 percent year over year. Some projections show Meta’s ads business surpassing Google’s by the end of 2026. The bigger problem is the people it shows those ads to, and the content it puts those ads in between. The average social media user is less interested than they once were in posting, and Meta’s access to a new generation of users is under threat. “There is sort of a tension brewing where we’re seeing this double-digit growth in their ad spend, but we are not seeing double-digit growth when it comes to overall usage [in the US],” Minda Smiley, senior analyst at eMarketer, says of advertisers’ spending patterns. “I think that just really speaks to the fact that social media is saturated in many ways. The hyper growth days for Meta are over.” People in general are now using social media to consume content rather than share it; a Morning Consult poll found that a third of respondents say they post less on social media compared to last year. What’s more, entire generations of young people are logging off or forcibly being logged off. The past few years have seen bipartisan, multinational, and cross-generational support for either limiting minors’ access to social media or banning them altogether. When kids can get online, Gen Z and Gen Alpha don’t want to express themselves fully on the social media sites their parents or relatives are on, and what’s more, they want in-person experiences, Haberman says. They want to touch grass. Katie Harbath, a former Meta public policy director who now runs tech policy consultancy Anchor Change, says that there’s a small point of relief for Meta here, though: Kids aren’t how they’re making their money. Data compiled by research platform BusinessStats primarily from Facebook’s Ads Manager found that about 3.2 percent of Facebook’s global audience was between the ages of 13 and 17. On Instagram, using a similar dataset, that share was slightly higher, but still just 5.8 percent of the app’s global audience, according to BusinessStats. “If all of a sudden they can’t have kids under 18 on, it’s not great, but it’s also not the vast majority of the people that are on the platform,” Harbath says. But Meta will eventually need those users — it can’t dine off the social media habits of older generations forever. What happens to Meta if its user base peters out, and advertisers follow? A reckoning could be coming in two to three years, Haberman says, if these trends continue as Gen Alpha comes of age. Teen users are a tiny part of Meta’s business — but losing the next generation is something it can’t afford “I’m not sure that we’ve really fully grasped yet how much of a big deal that this could be once audiences stop showing up or audiences age out,” Haberman says. “Essentially, it’s going to become kind of a graveyard for millennials, Gen X, and boomers.” The implications are manifold — for the social platforms themselves, naturally, but also for the advertisers, brands, and influencers who’ve taken for granted that social media is an effective way to reach people. The elephant in the room is AI — Meta’s costly buildouts and investments, of course, but also the question of how to handle AI content on the platform, and how much of it users actually want. On its second quarter earnings call, Zuckerberg said the company would soon be able to provide a “nearly infinite universe of personalized content” to users through its image and video generation tools, to supplement content from influencers, creators, and users’ friends and family. AI content is cheap, fast, and replaceable, made to be chewed up and spit out as long as the algorithms will allow it to be served up. This is what creatives like Bruening are competing against. “You would have to become an AI robot in order to keep up with a lot of the metrics and standards for what [Meta’s] best practices are,” Bruening says. “A human artist is not going to have the same level of output as an AI machine that’s going to appease the algorithm.” How far can Meta push the human creators before they decide they no longer want to compete with their automated counterparts? Much like Meta, creators are constantly chasing the next big thing, trying to weather shifting societal expectations and tastes. For individual creators, a failure to adapt can be career-ending; Meta now finds itself in similar precarious footing. But concerns about how people use social media aren’t just a matter of business. They’re the object of serious inquiry for lawmakers across the world — all bent on reining in what they see as one of the tech industry’s most dangerous players. A social reckoning Over the past decade, Meta has become one of the biggest punching bags in politics — and its CEO the face of a callous, out-of-touch, and exploitative “Big Tech.” Zuckerberg, Mosseri, and other executives have been dragged before congressional committees and juries and berated for a perceived carelessness toward kids’ safety and disinformation, a ruthless crushing of competition, and even complicity in lynching and genocide. But through each PR crisis, Meta has somehow still found its footing, and in many cases, dodged the worst-case outcomes. Meta grew to massive scale and influence in part through two key acquisitions: its purchases of Instagram in 2012 and WhatsApp in 2014. But by 2020, those deals became the focal point of a major antitrust lawsuit seeking to break up the company. Since then, Meta’s acquisitions and competitive actions have faced intense scrutiny in the US and around the world, and its dealmaking leveled off. In 2020, it closed 10 acquisitions worth a total of $1.37 billion, according to data compiled by PitchBook; as it fought monopolization claims, its deal count and value dropped each year through 2024. But for the most part, the company has weathered regulatory pressure, and Meta’s dealmaking picked up again in 2025. Meta won against the FTC’s anti-monopoly claims, and it was allowed to buy the virtual reality fitness startup Within after the FTC took it to trial (a few years later, it announced it would stop making content for Within’s flagship game, only to later spin it off). Through political crisis after political crisis, Meta has dodged the worst-case outcomes Long-standing fears about Meta’s data collection efforts also reached a boiling point in 2018, when reporters uncovered evidence that London elections consultancy Cambridge Analytica had harvested millions of Facebook profiles to analyze and target users with pro-Trump messaging in 2016. That led to a flood of calls among users to #DeleteFacebook, even from Brian Acton, cofounder of WhatsApp. But Zuckerberg later told The New York Times that the movement hadn’t resulted in any “meaningful” defection from the platform. In Europe, Meta was ordered to make changes impacting its ad-targeting practices after a $1.3 billion fine, but in the US lawmakers are still unable to agree on an industry-wide data privacy law. While President Donald Trump once threatened to throw Zuckerberg in prison for life, the CEO seems to have successfully gotten on the Trump administration’s good side after ditching the fact-checking program the president had criticized, disbanding its diversity, equity, and inclusion (DEI) team, and agreeing to a $25 million settlement over Trump’s lawsuit for suspending his account. Meanwhile, Meta’s apps benefited from the brief ban of TikTok in the US, though Trump cut that period short through repeated enforcement delays. Meta’s courting of the Trump administration may leave it ripe for scrutiny under a Democratic administration, but meaningful consequences could remain years away, if they come at all. Most recently, Meta’s most pressing policy challenge has been child safety. For the first half of the year, it appeared to be caught on its back foot. Two juries issued decisive blows to the company, resulting in close to a billion dollars in fines across an individual plaintiff’s case in Los Angeles and a case brought by New Mexico’s attorney general. But the New Mexico judge later declined to impose the most disruptive structural changes the AG had asked for. On the surface, a landmark settlement with 47 other state AGs in August looked even worse for Meta. The settlement included significant changes: new age assurance benchmarks, a two-hour daily usage limit (with exceptions for messaging and longform content), and default restrictions on nighttime and school hour notifications for teens. But it also presented Meta an opportunity to turn attention onto its rivals. The company called on TikTok, YouTube, and Snap to adopt similar limits, and it tied part of its settlement payout to their actions. This helped Meta twice over: It could put a target on its competitors’ backs while mitigating the potential negative business impact of its own deal. New child safety regulations could end up helping Meta as well. eMarketer forecasts that Snap and TikTok would feel more of a hit than Meta if a nationwide classroom cellphone ban, another popular proposal, went into effect. TikTok would lose out on more than $1.25 billion in ad revenue this year, the firm estimates, and Snap’s ad revenue would be especially vulnerable because of the high concentration of teens on the platform who use the app throughout the day. A hit on Meta’s revenue, meanwhile, would “hardly register,” eMarketer says, thanks to its scale. Meta could lose out under child safety regulations — but its competitors might lose more Even so, Meta’s legal battles over kids’ safety aren’t over. Meta and other tech companies still face thousands of lawsuits from individual plaintiffs and school districts, likely culminating in a blanket settlement. The scope of cases and potential penalties is so large that it’s difficult to understand exactly how much risk they carry. It would take quite a lot for Meta to feel the sting, but the billions in settlements and court orders are beginning to add up. Meta has already invested huge sums into fighting these cases. In the second quarter alone, it took a $2.4 billion charge over litigation expenses. Prior to Meta’s recent settlement with state AGs, Peter Chapman, deputy director of the Knight-Georgetown Institute, said that “suggests to me that they’re playing a long game” around the First Amendment and online liability shield Section 230. Following the settlement news, Chapman says he still sees it as early days amid the mountain of litigation before Meta and other tech companies, but “the long game certainly has changed.” Now it seems to include targeting industry competitors to get on board with the terms Meta already accepted, while a fight to preserve its protections under Section 230 will likely continue through appeals of the earlier cases Meta lost. Meta’s settlement may bring some solace to investors who were unsure how to price in its legal risk. After the news of the deal, its stock price shot up. “The state AGs got an okay deal. I don’t think they knocked it out of the park,” says Paul Gallant, a tech policy analyst at investment bank TD Cowen. As a result, Meta shareholders should have “confidence that the company knows how to manage the government.” The $17 billion settlement represents an “immaterial” amount for Meta, Gallant says. In the last quarterly earnings report, Meta said it made more than $60 billion. But additional cases still present some risk, and large fines may be more of a problem today than when the European Union levied them in the past. “The companies are spending so much on AI infrastructure that cashflow is a bigger focus of Meta’s stockholders, especially if the damage awards get into the tens of billions or more,” Gallant says. And unlike the tactics at its disposal to fight off impending legislation, Gallant adds, “of all of the features of the US governmental system, the least controllable by Meta is juries.” “These massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto.” State and local governments also appear ready to take on tech while federal efforts stall, including in Meta’s latest area of focus, AI. Many are looking at how they can rein in AI and deal with the energy demands it creates on their electrical grids. Data centers have become a flashpoint across the country, and a nationwide push for a slowdown could be particularly meaningful for Meta and other businesses in the AI race. “That’s the thing that could really not just slow them, but slow everybody down — having enough compute,” says Harbath. “We talk so much about what happens at the federal level, but I actually think the biggest risk to Meta and these tech companies right now is at the hyper-local level.” Zuckerberg has become the face of many of these battles, testifying for hours before policymakers and juries, and even standing up in Congress to apologize to parents who lost children after battles with online harms. The public testimonies have largely not seemed to endear him any further to his critics. “It’s almost like this bizarre disconnect where these massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto,” Smiley, the analyst at eMarketer, says. “It’s sort of like, ‘What planet are you on?’ It just feels like there’s just this big disconnect.” Whether it will matter is another unresolved question. Despite the litany of PR problems, user frustrations, legal troubles, and internal personnel conflict, Meta still feels like an immovable force. It has managed to sidestep, acquire, and pivot its way out of scandals and blowups that would have sunk most other companies. It’s spending lavishly on its new, AI-powered future. But that future remains far from certain. Smart glasses are unproven, its AI labs are behind newer upstarts, the legal landscape is hostile, and it may be hitting its ceiling in finding new users. What does seem certain is that its CEO will never stop chasing the next big thing. “Zuckerberg has this kind of monkey on his back,” says the current Meta employee. “He’s willing to experiment with the company because he controls the company.”",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-22T10:00:01.000Z",
+            "fetchedAt": "2026-09-22T10:22:00.715Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "regulators",
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging.",
+            "id": "a1"
+          },
+          {
+            "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRFVqWThGMlpsRzgtMlEzMTE4R2RadHdsWnJPX3ZXUWUwVXM5LWt0ajhWVnJTWG1ZNFZyUWJvc2dRTHMyd24yUjUyQWZlbTRYb3dYaHAwaG1sRWliVGc4clRoVG1VaThkR3FWTzhR?oc=5",
+            "description": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T08:53:06.000Z",
+            "fetchedAt": "2026-09-22T10:22:06.561Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "EU Today",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+            "id": "a2"
+          },
+          {
+            "title": "The impact of the US-China chip ban on third parties - Klement on Investing",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalJqcEo5UHQ1ZWpBbG93VDNhVmJzZnpGSlJRdnFzLWRyQWFfb2l6VkEtVjhZZzJsd1ZYVDNwMWppNEZ1TjlOd2xFcFhFTmZzaUI4NTVmM0lHaVh0aGpJa0tJem1xbGpxc0libU1LTkdabjBDc3NXUUE3WTBJSFIxY0VqYw?oc=5",
+            "description": "The impact of the US-China chip ban on third parties Klement on Investing",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T06:00:17.000Z",
+            "fetchedAt": "2026-09-22T10:22:06.561Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Klement on Investing",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The impact of the US-China chip ban on third parties Klement on Investing",
+            "id": "a4"
+          },
           {
             "title": "Geoff Raby Previews Trump-Xi Summit in DC",
             "url": "https://www.bloomberg.com/news/videos/2026-09-22/geoff-raby-previews-trump-xi-summit-in-dc-video",
@@ -6412,7 +6384,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T03:52:55.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.818Z",
+            "fetchedAt": "2026-09-22T10:22:00.223Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6421,7 +6393,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Geoff Raby, Former Australian Ambassador to China, discusses his expectations for the summit between US President Trump and Chinese President Xi, that will focus on topics like trade and AI. He speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\".",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Alibaba Shares Jump on New AI Chip",
@@ -6431,7 +6403,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T03:36:04.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.818Z",
+            "fetchedAt": "2026-09-22T10:22:00.223Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6440,7 +6412,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Alibaba is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Alibaba Unveils AI Chip to Drive Global Data Center Buildout",
@@ -6450,7 +6422,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T02:21:39.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.818Z",
+            "fetchedAt": "2026-09-22T10:22:00.223Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6459,7 +6431,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Alibaba Group Holding Ltd. is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia Corp. and underpin a massive expansion of data center capacity in coming years.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Why Corning (GLW) Stock Is Trading Up Today",
@@ -6469,7 +6441,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T01:42:25.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -6477,7 +6449,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
-            "id": "a4"
+            "id": "a9"
           },
           {
             "title": "China, US Discuss AI, Investment as Trade Talks Continue",
@@ -6487,7 +6459,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T00:36:38.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.818Z",
+            "fetchedAt": "2026-09-22T10:22:00.223Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6496,7 +6468,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chinese and US officials wrapped up their second day of talks in New York on Monday to discuss artificial intelligence, investment and trade as they sought to advance negotiations ahead of President Xi Jinping’s visit to the US this week. Bloomberg's Stephen Engle reports.",
-            "id": "a5"
+            "id": "a10"
           },
           {
             "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
@@ -6506,7 +6478,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-22T00:22:25.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -6514,17 +6486,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
-            "id": "a6"
+            "id": "a11"
           },
           {
-            "title": "CNBC's The China Connection newsletter: Five things to watch for the Trump-Xi summit",
-            "url": "https://www.cnbc.com/2026/09/22/cnbcs-the-china-connection-newsletter-watch-this-at-trump-xi-summit.html",
-            "description": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
+            "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+            "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+            "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
             "source": "CNBC",
             "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T23:18:30.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.530Z",
+            "publishedAt": "2026-09-21T22:25:33.000Z",
+            "fetchedAt": "2026-09-22T10:21:59.865Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6532,8 +6504,8 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Many in China sound far more optimistic than those in the U.S. about the bilateral relationship, ahead of a highly anticipated summit this week.",
-            "id": "a7"
+            "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+            "id": "a12"
           },
           {
             "title": "Trump says DOJ will rein in AI 'if we have to'",
@@ -6543,7 +6515,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T16:46:24.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.531Z",
+            "fetchedAt": "2026-09-22T10:21:59.865Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6554,7 +6526,7 @@ export const NEWS_DATA = {
               "regulators"
             ],
             "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-            "id": "a10"
+            "id": "a15"
           },
           {
             "title": "Trump-Xi summit: Can US and China unite to confront AI’s global risks? - TRT World",
@@ -6564,7 +6536,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T14:40:50.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
+            "fetchedAt": "2026-09-22T10:22:06.561Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TRT World",
             "geopoliticalBypass": true,
@@ -6574,48 +6546,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump-Xi summit: Can US and China unite to confront AI’s global risks?",
-            "id": "a11"
+            "id": "a16"
           },
           {
-            "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - TradingView",
+            "title": "U.S.-China Talks Seem Successful: ETF Areas in Focus - tradingview.com",
             "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPM0RuQ1V5Tkc2NzdzVTU1aWltTTVreUtJSzRfbXhuZFRQazRGQVREWi05Mi1aa1FGS3pwTExXb3RqTndaRnBTeG9aNVBqTDAwU05QS1BlQ011bGI2YkNMblBWOHFLOVoxYlRKSDJobEpZWC1KVjU3V0RMUGg5ZHZPV1dUd0IxSlhmMjVUczFFSFlOOGFtQ3R6THhpTkM4aEZzcUxvNlFSb0dNQQ?oc=5",
-            "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
+            "description": "U.S.-China Talks Seem Successful: ETF Areas in Focus tradingview.com",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T13:30:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
+            "fetchedAt": "2026-09-22T10:22:06.561Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "TradingView",
+            "googleNewsSource": "tradingview.com",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus TradingView",
-            "id": "a12"
-          },
-          {
-            "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-            "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-            "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-21T13:16:25.000Z",
-            "fetchedAt": "2026-09-22T05:26:01.280Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
-            "id": "a13"
+            "summary": "U.S.-China Talks Seem Successful: ETF Areas in Focus tradingview.com",
+            "id": "a17"
           },
           {
             "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
@@ -6625,7 +6576,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T13:00:05.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -6633,7 +6584,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
-            "id": "a14"
+            "id": "a18"
           },
           {
             "title": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development - Legal Desire",
@@ -6643,7 +6594,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T12:32:14.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
+            "fetchedAt": "2026-09-22T10:22:06.561Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Legal Desire",
             "geopoliticalBypass": true,
@@ -6653,7 +6604,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Clifford Chance advises U.S. Department of Commerce on US$1 billion CHIPS Act Award to Anderon for quantum semiconductor foundry development Legal Desire",
-            "id": "a16"
+            "id": "a20"
           },
           {
             "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
@@ -6663,7 +6614,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T12:13:16.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -6671,7 +6622,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
-            "id": "a17"
+            "id": "a21"
           },
           {
             "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
@@ -6681,7 +6632,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-09-21T11:58:25.000Z",
-            "fetchedAt": "2026-09-22T05:26:01.455Z",
+            "fetchedAt": "2026-09-22T10:22:00.819Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6690,47 +6641,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
-            "id": "a18"
-          },
-          {
-            "title": "Researchers doubt US AI chip curbs can defeat China - streamlinefeed.co.ke",
-            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcHJSeUp3azZkaXNRdHpVTmdyM05JSlg1MjBkVGRYbEdxUk1wSnBLN1psWjlISExUX3pXbU5vN0E3MWZReDJZbFBkRll3WEt3Q1pQSjM2aDRrWXE5b2NLdUZhZVBYb2xNelFuU3VGMVcxYTZ3c3RnazRaTkl2TkhoSDZTTlZ2YUUwVUswWGln?oc=5",
-            "description": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T09:50:16.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "streamlinefeed.co.ke",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Researchers doubt US AI chip curbs can defeat China streamlinefeed.co.ke",
             "id": "a22"
-          },
-          {
-            "title": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability - The China-Global South Project",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNdm5rSEhDMEtKRWFleG1OY2ZiQlhDREtTZmJKWlBhYVhwMjZTdWZwc0hHaVlNbVlwZTVKaEU1VXZhWFUzTWo2dHRyMkVtV0dMQi1URC1tREFwbFN5LXY3Z1hYRkRWMDBHR0NCOC1KTFZWcld5UkpQZDNXOXV1c0djbGkwdw?oc=5",
-            "description": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T09:37:35.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The China-Global South Project",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Export Controls are Turning Southeast Asia’s Open Trade into a Liability The China-Global South Project",
-            "id": "a23"
           },
           {
             "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
@@ -6740,7 +6651,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-21T09:17:34.000Z",
-            "fetchedAt": "2026-09-22T05:26:04.764Z",
+            "fetchedAt": "2026-09-22T10:22:04.006Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6749,152 +6660,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
-            "id": "a24"
-          },
-          {
-            "title": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race - Moneycontrol.com",
-            "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOV3B5V1g3MkJra0IzT0NvUndTWVdlalIzaFFHRnZWTGtYRUxVVHR5dVJMemNnd3ZrUU1VeDBxbG8tQ3V1c19xWXphck92ekNsYm1ZWFYtMjlQM1RHVDVHTC1rM0FhSnFIY0dwZFF0RVhoc2JpbWw3RWk5OHR5TnBhU1dFQ2N1S1FKbXhoQnF5MnU2RXp5MXVJY2lrb1hkQWJHamRjZ05EME8xcmxoVjlYZlRUenoxTmRrLWhOYUxpMEZXNVR2Mkc2NGlTVmttQldCWGZvVXFOS28yaWwzUHdfUGJUX0FjTUh5WmFxQ3B0WXNnd9IB9wFBVV95cUxQOHBZYXppQ3ljVnV0QlVHSUZyR20yTXZDWnFfMEJ5c1ZnZVhCdEZ6OWVsdDVibUR5SzdLZTZKMDQwQ1NrejByZE1wM2VGZzEtS0tGUTVEZVlLNkpoMUI3OXBNSThKMmJGNUdTSndaby1rSXphZnI2VWxzWGx6Q3MzVmxaVmh4RlZOTzg0aWQzUUFNQmt4MHhsMVpBOWFDS0NaSkJ0V0Q1NzNuMHk0VFdtX0lRTkt4VFlNdE5mRHhBbXpKanR3dXB3ZGtOVmZiMUNwaTNnajREZ09uQzQ0ekpfbzNoSUNyMEk3dDJiUTB3MXV5TlQtTC1B?oc=5",
-            "description": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T08:57:49.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Moneycontrol.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump-Xi dinner: Why Dario Amodei’s reported absence is raising questions over the US-China AI race Moneycontrol.com",
             "id": "a26"
-          },
-          {
-            "title": "China and the US are competing for AI dominance but have shared concerns over safety - ABC News - Breaking News, Latest News and Videos",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOcHZJbV9hdDBBNDR2bFg1c2JxZFN6b2htY19nbllCUkRfZ3FSVGRmamxCYUh1MVY1ZkxlbUlGNDZjdGFvYXh3Q2l5WVJmNzVzZnhSSWdmVEthZzdld004WUVBejJBZHB5elYwbDZRNlhyc2JJdmJOQkE5RGRfMEZSTlpTUFZCNWU4VlpEQWgxMmxTaVNSV3ZKU1dMTzhOa1RKV0REVDZRa2HSAa4BQVVfeXFMUGZGTU5JYVlVN09saXducXRFS3B1ZGN4QlNNWmlmbDJDVDlLc2tMdGEzQUQzU1ZzNGhDalFZR0NmbS00bVhBSG1uQVJuQy1RNFhYUjlYT0hkSENIdlBESURFY0V6VGlSSTkzOW1TcHhVMERMTHFMVl85NmdzYnZkOEI0ZGpjNjdjZnMzMG9OMUlMbnRGd3FacFhXRFQtOGUyQU16anljWC1uYnAyQU53?oc=5",
-            "description": "China and the US are competing for AI dominance but have shared concerns over safety ABC News - Breaking News, Latest News and Videos",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T08:56:30.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "ABC News - Breaking News, Latest News and Videos",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China and the US are competing for AI dominance but have shared concerns over safety ABC News - Breaking News, Latest News and Videos",
-            "id": "a27"
-          },
-          {
-            "title": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 - Bisinfotech",
-            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOS2hyd002RXlZOHY4bGtMOTd1ZjBlN3cwSHNpWlhnN1Z3Y0FvZFZaZ0xHYk54M253VUNPMFQ4WUZsMy1Wb2tPSkNUUUtXSWxFVWVPWnUzeHdYS1ZoT2V4eGZoOGRTODZWVlB6RUZqTmg2R3NUQnc0LUt5UWxVWGN5aDZIUzJTTy0wS3kwd1lGX21FcUpYYU1DX0N2VQ?oc=5",
-            "description": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T08:52:07.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bisinfotech",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "L&T Semiconductor Technologies Unveils 40 Products at SEMICON 2026 Bisinfotech",
-            "id": "a28"
-          },
-          {
-            "title": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit - Technology Org",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOZk5jQkRybkVPeUhvVDdNdDgxYXNSWkZ3T0gwUGJpbjlwZ25lMDE1dDAtQm00VkNZRTNrUkdCSzVIWVJnLXJsREdJMGx5cWJMcDdWYzlvMEc4eG1DZ1Vxb01fT3FXZ3N2OHU2ZFBtTHRHWXFOelI2cGNIX0hRbE92dF83QkM?oc=5",
-            "description": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T07:41:41.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Technology Org",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US Proposes AI Incident Alert System With China Before Trump-Xi Summit Technology Org",
-            "id": "a29"
-          },
-          {
-            "title": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World - fakti.bg",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPc0p2RG9Oa2V1aTJnVTlUWXdMdEhTNm5JUURqS2YxNWRpSUw0dzdhMVQzZnRpcTA5aGVORXpTckVsYUFmdkFTazgwZU5pVlhJZy1xcHIxM1FoVE1ZM3AybVZiaDNzaTd3T2VRX0JiOGJDdGg1N19RX2JNV3JDMVJxc2RabDRYbjRyYlB6cnpYSWN1ZU16TVN1UWdyaFN4QTFVRUR5REoyb1pUZVRzdFhPRFJWTGtGNW1xdWg5Zw?oc=5",
-            "description": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World fakti.bg",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T06:12:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "fakti.bg",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Besant proposes new mechanism for artificial intelligence between the US and China ᐉ Новини от Fakti.bg - World fakti.bg",
-            "id": "a30"
-          },
-          {
-            "title": "The US Wants an AI-Era 'Red Phone' With China - Business Insider",
-            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNM2ZHeUViSUplVFVLa0lmcE1wUlh2MzA3WTJORno1Z1hwcUpVNnVHa1I1RVNfcnVWVUhZN1Nkbl9UV1BmOGlPeHQ4TDNQc3dzX09IZTJhamtpZXBFeEJOTHhBR3o0TjdWWmRWbmcybjdISWktUEM5YkdMN3E3dXlzeWFoeklkci1WYmFqMkVJRWRaN3hhd1NPODZMYTg?oc=5",
-            "description": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T05:41:47.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Business Insider",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The US Wants an AI-Era 'Red Phone' With China Business Insider",
-            "id": "a31"
-          },
-          {
-            "title": "Hang Seng flips higher as Trump-Xi talks put China risk back in play - Invezz",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQTJVcEhxUzA3eE90UkloRjBzLVA0cEtMZWpSSXFsTWNEUVNEZFJpUUw5UGJRaGdrak1KQVhwZEpRWDRJbWhrR2lYSktrNndiQ3QyQlZ1MHltQ1hIQ29Ra0lsYjgtNnUzNGFrRlFPcHFreWc2bzlVQ1k5QmJyNlZrV1ZBa1NnRlp1bDVFc3lub2ljb2REMWtMOFNfM01JaU9DTHBzLWExRkZBLTQ?oc=5",
-            "description": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-21T05:27:50.000Z",
-            "fetchedAt": "2026-09-22T05:26:07.048Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Invezz",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Hang Seng flips higher as Trump-Xi talks put China risk back in play Invezz",
-            "id": "a32"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -6905,51 +6676,81 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-09-22T05:26:07.081Z",
+        "generatedAt": "2026-09-22T10:22:06.598Z",
         "date": "2026-09-22",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "market-performance: In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-bein",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "market-performance"
+            },
             {
               "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
               "articleIds": [
-                "a8"
+                "a13"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Geopolitics & Export Controls: President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
               "articleIds": [
-                "a10"
+                "a15"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
               "articleIds": [
-                "a15"
+                "a19"
               ],
               "subCategory": "data-center"
             },
             {
               "text": "Mobile Chips: Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
               "articleIds": [
-                "a19"
+                "a23"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: With Apple making the s\\wi",
               "articleIds": [
-                "a21"
+                "a25"
               ],
               "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Can you forget how you feel about Meta?",
+            "url": "https://www.theverge.com/cs/features/991659/meta-mark-zuckerberg-future-glasses-ai-instagram",
+            "description": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging. “i am not saying facebook is duplicitous and evil,” they wrote. “i am saying the opposite, you have heard the chorus and will PERSONALLY make this issue over adolescents your issue.” In the privacy of the conversation, Zuckerberg was candid. “I care deeply about this and we’ll continue focusing on being industry-leading with young people,” he responded, “but I’m not going to say it’s my personal main focus when I have a number of other areas I’m more focused on like building the metaverse.” Zuckerberg later reiterated that “I personally care about this.” But he appeared ambivalent, nudging his conversation partner away from older concerns and toward his vision for the future. “How do you think this fits with our focus on promoting building the metaverse as the next major opportunity?” he asked. “That’s not at odds with safety, but it’s a much different and more innovation-focused message.” Weeks later, Zuckerberg made a huge announcement: The company was changing its name to Meta in honor of its newest, most important priority. Years after that conversation, online child safety concerns have ballooned — while if anybody’s talking about the Metaverse, it’s likely as a multibillion-dollar money sink where nobody has legs. But the exchange is a microcosm of how Zuckerberg has run Meta, a sprawling online empire worth well over a trillion dollars: by always chasing the next big opportunity. Facebook’s motto was once, famously, “Move fast and break things.” Its new one might be closer to Move fast, break things, move on. For two decades, Meta’s products have been at the center of what people do online. But Meta now finds itself besieged on all sides. Lawsuits have piled up as regulators turn on social media. A push into smart glasses has triggered a mountain of negative press and backlash — including the pejorative moniker “pervert glasses.” The company remains firmly behind in the AI race. Public perception of Zuckerberg himself has curdled. Yet Meta is far from finished. It maintains a growing, highly profitable social media business. It’s dominant in AI-powered smart glasses, what many tech leaders consider the next mobile computing platform. It’s defused potential regulatory threats. And its latest platform, a “personal AI agent” dubbed Muse, was released in early September, giving Zuckerberg his next metaverse-like project. Muse is Zuckerberg’s latest bid to reinvent the company. Early numbers for Muse are promising; an Apptopia estimate this week indicates it’s got over 600,000 daily active users in the US, shooting it to the top of the iOS App Store charts. Yet the question remains: Can a company synonymous with safety and privacy debacles become the AI-powered voice in everyone’s ear? The glasses gamble When Zuckerberg took the stage at Facebook Connect to announce that one of the most recognizable names in tech was getting a new identity, he was planting a flag. Facebook, the social media company known for its “big blue app”? That was the past. The future of the internet was the metaverse, an immersive 3D space where digital avatars could socialize, work, and collaborate, built on a virtual reality headset the company acquired in 2014. And after the covid pandemic’s mass shutdowns of physical space, Facebook believed in the metaverse so much that it would rebuild its entire identity around the niche world of virtual and augmented reality. Nearly five years later, Meta’s Reality Labs division has accumulated over $80 billion in operating losses. It kicked off this year by cutting roughly 10 percent of that division, shuttering three VR studios, discontinuing the metaverse for work, and announcing it’d be shutting down Horizon Worlds, its flagship metaverse experience, on VR headsets. Meta has since decided to keep Horizon Worlds going after public backlash, but it’s clear that Zuckerberg’s colossal gamble on VR hasn’t paid off. But to call Meta’s investment an abandoned boondoggle isn’t quite accurate either. Meta dominates the nascent but growing smart glasses market, perhaps its biggest success story in recent years. The metaverse may not be the future of computing, but its augmented reality ambitions could still pay off. Few expected the Ray-Ban Meta glasses to take off when they launched in 2023. After all, Meta’s first attempt, the Ray-Ban Stories in 2021, was a bona fide flop. Ninety percent of owners left the glasses to rot in their drawers. But improvements to cameras in the next-generation hardware helped Meta to sell roughly 2 million units — surprising even Zuckerberg. By the end of 2025, EssilorLuxottica — Meta’s partner in building these devices — had sold an additional 7 million units. All told, Meta and EssilorLuxottica reported that smart glasses sales doubled in Q2 of 2026. Few expected the Ray-Ban Meta glasses to take off — but their success has surprised even Zuckerberg Most importantly, Zuckerberg and Meta leadership view this tech as the perfect vehicle for the company’s latest, shiniest interest: its AI investments. So much so that Meta is aggressively trying to brand these as AI glasses. “I think in the future, if you don’t have glasses that have AI — or some way to interact with AI — I think you’re probably [going to] be at a pretty significant cognitive disadvantage compared to other people and who you’re working with or competing against,” Zuckerberg said in a 2025 earnings call. Meta is still funneling billions into the AR space without profit, but that’s not necessarily disastrous. “There’s no true way to tell if [Meta] is successful or not. You could measure market share, and they absolutely have that, but that still doesn’t speak to profitability or if the spending to date is justified,” says Jitesh Ubrani, research director at IDC, noting that the runway for XR — the umbrella term for virtual, augmented, and mixed reality — is a notoriously long one. VR and the metaverse also had long runways that never paid off. But right now, the smart glasses market is building momentum, making it far too early to say whether it’s doomed to the same fate. Looking at what numbers do exist, Meta is the undisputed king. According to IDC, Meta commands 69.2 percent of the smart glasses and headset market as of Q2 2026. That number jumps up to 76 percent of AI glasses without displays. That said, Ubrani argues that it’s unlikely that any company will see a return on investment in the next five years. It’s possible, he says, that could take as long as 25 years. Absent profit, the next best measure of success is often determined by who can afford to stay in the game long enough — while ignoring demanding investors — to influence the next chapter. “In the XR market, I’d say that [Meta] is the leader in every segment they play in,” says Anshel Sag, principal analyst at Moor Insights & Strategy. That can be a double-edged sword, though. “They’ve both been a steward of the XR and AR space, but they’ve also limited its potential because they control the platform, the spending, and they decided who were the winners and the losers by investing with their dollars.” Both Sag and Ubrani also agree that Meta wouldn’t currently be the leader in smart glasses or a major player in AI if not for its early, if flawed, investments in VR. Meta’s success on this front has kicked off a race among tech companies. Google is pushing its Android XR platform, working with Samsung to launch several “intelligent eyewear” products later this year. Bloomberg has reported that Apple is also working on a pair. Outside the major players, there are dozens of Ray-Ban dupes from smaller companies. Again, Ubrani says it’s difficult to put hard numbers on how much tech companies are pouring into this space — but whatever the cost, the prize is winning what Silicon Valley sees as the next big mobile computing platform. Ubrani points to the smart glasses supply chain, where “one player who’s willing to invest no matter where the market is going” has massively changed the game. He contrasts that approach with Google, which retreated after criticism of its own glasses over a decade ago. “When people didn’t like [Google Glass], they scaled back significantly, and that in a sense, hurt the entire industry. Now with Meta, we’re seeing that even if Meta’s not making money, the industry is still moving forward.” “Even if Meta’s not making money, the industry is still moving forward.” On paper, it might seem Meta’s already won the battle for the next mobile computing platform. At least, if Meta weren’t Meta. While the company gained serious momentum in 2024 and 2025, it’s attracted a public backlash largely of its own making. Meta pushed its glasses as a way to make content for Instagram and other platforms, but failed to account for how bad actors might misuse its products. Online pickup artists and pranksters have started using the devices to harass women and retail workers, resulting in the “pervert glasses” label. The resulting videos are pushed to social media, where they effectively publicize the tech’s most troubling aspects. All this stokes roughly a decade’s worth of privacy concerns stemming from indiscriminate data collection, breaches, and advertising practices. It’s not just that Meta perhaps underestimated how its products could be misused. It already built a reputation for not taking privacy seriously. In recent months, activists have launched guerrilla campaigns in major cities by “remixing” Meta’s own marketing, painting smart glasses users as privacy threats. Meta has tried to demonstrate that it cares about privacy. “If people aren’t comfortable with you wearing the glasses, not only do we personally think that’s bad, but we wouldn’t have a business anymore,” Alex Himel, Meta’s VP of wearables, recently told The Verge ahead of a mandatory update that makes it harder to disable the LED light that alerts people that the headset is recording. Instagram head Adam Mosseri has also recently said Meta will take down prank videos captured with the Ray-Ban glasses. But these have been largely reactive policies. For the public, they look more like attempts to distract from unflattering news that feeds into Meta’s notorious privacy reputation. The New York Times reported that Meta intended to launch facial recognition software during political unrest to throw off privacy advocates. That was soon followed by a Wired report that said Meta had shipped — but not activated — this facial recognition tech to millions of glasses. Rounding out the trifecta was a Financial Times report that Meta is working on “super sensing glasses” that will be able to see what you’re doing 24/7. Andrew Nazdin, director of Glasgow Actions Team, one of the groups behind the guerrilla campaigns, says it would be “foolish for us to let them police themselves instead of calling on society to reject this [tech].” It’s too soon to say if this backlash has hurt Meta’s smart glasses ambitions. Ubrani says we likely won’t see any impact on sales — if there is one — until the holiday season. Even so, analysts aren’t convinced Meta’s bad reputation is enough to derail its hopes for smart glasses. “Meta’s done a very poor job of talking about privacy and setting the right tone,” acknowledges Sag. “But it’s funny because if you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” “If you go [politically] far left or far right, people care more about privacy. In the middle, people care less and just want to have a good experience.” As for public distrust of Zuckerberg, Sag says his thorny reputation may not sit well with the public, but it’s considered part of Meta’s strength in a niche space like XR. “Meta would not be where it is today if it weren’t for Mark Zuckerberg … Even if people disagree with him, ultimately what he wants is what gets done,” Sag says. “I think his fear of losing the AI race is what sparked the whole Superintelligence Lab, and now they’re back in the competition. He has blind spots, but he’s able to correct much more quickly than any other CEO founder … every time people have counted him out or questioned his leadership, he’s been able to claw the company back.” That unilateral doggedness is why Meta seems hell-bent on barreling forward with AI glasses, privacy qualms be damned. A few months ago, it released Meta Glasses, a newer and cheaper version of the Ray-Ban glasses sans Ray-Ban branding. At a launch event, Meta CTO Andrew Bosworth told the press that Meta was contemplating audio-only glasses without cameras. It will likely launch even more new styles, collaborations, and potentially new hardware and privacy protections at Meta Connect 2026 this week. “Meta missed mobile, they missed VR when it first came out. The metaverse didn’t pan out the way they thought it would. That’s one of the reasons why we’re seeing them so determined and willing to spend to make AI glasses happen,” says Ubrani. It’s unclear whether Meta can maintain its lead in the XR space. AI wearables are only just beginning to heat up, with players big and small eager to throw their hat in the ring across multiple form factors ranging from pendants to smartwatches. Meta only has glasses — and it’s tying the glasses’ success to the overall success of the company’s AI bets. And on that side of the business, things are looking like a hot mess. An AI ‘shitshow’ Last summer, Zuckerberg attempted to lure top AI talent to supercharge his company’s lagging AI division. He offered a series of staggering pay packages, running up to $1 billion, to join Meta’s Superintelligence Labs. But more than a year later, the company doesn’t have much to show for it besides two manifestos published by Zuckerberg and the recently released Muse. Zuckerberg may have inspired confidence among investors and analysts, but sources at or close to the company told The Verge that morale is down, AI initiatives are scattered at best, and the company’s AI strategy is running largely on vibes alone. “It’s a shitshow,” says one longtime Meta employee, who works on Reality Labs and requested anonymity for fear of retaliation. Meta dipped its toes into AI around its metaverse restructuring and released a small group of models. But focused on Zuck’s VR ambitions, it missed its competitors investing in upstarts that would soon become AI giants. Its first frontier models were released in 2023 to lukewarm reception, and it wasn’t until the tepid response to Llama 4 in 2025 that the company jumped into the AI race with both feet. That’s when Zuckerberg kicked off his AI hiring strategy in earnest, even hand-delivering soup to researchers and engineers he wanted to recruit from rivals and other industry heavyweights. In June 2025, Meta invested $14.3 billion in data-labeling company Scale AI and poached its CEO, Alexandr Wang, to lead Meta’s AI efforts. But many AI engineers turned down Zuckerberg’s advances. Meta AI underwent wave after wave of reorganizations, and its superintelligence sub-team, TBD Lab, has reportedly clashed with Meta executives over opposing goals. TBD Lab has reportedly sought to think longer-term and build best-in-class models to secure the company’s place among its competitors. But executives have reportedly remained focused on more platform-specific ways to drive revenue, like companion chatbots and social media features. Some attempts to integrate AI into platforms like Instagram have drawn backlash — it briefly launched and then suspended a controversial Instagram deepfakes generator, and said it “missed the mark” on an AI tool that provided creepily detailed information about a user’s children. “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic.” Meta’s most prestigious AI team is a “total mess,” according to Wired reports that describe internal chaos and ever-changing strategy. Zuckerberg reportedly admitted to employees during an internal town hall this summer that progress on AI agents was slower than expected. On a recent Meta earnings call, an analyst told executives he had been fielding questions from investors about Meta’s amount of debt compared to capital, as the company ramped up its spending to try to get ahead in the AI race. Zuckerberg has also been criticized for slashing team sizes to reportedly replace a significant number of employees with AI systems, per Reuters. The current employee says Meta has a bad habit of jumping from hype cycle to hype cycle: “Every time a new technology comes that could potentially augment the company’s revenue stream beyond ads, the company kind of goes manic in order to invest and to change and to grow, to incorporate this new technology. It happened with crypto. It happened with VR and the metaverse. It’s happening now with AI. I think it stems from a lack of maturity of our founder [and] a lack of maturity of our leadership.” A former Meta employee, who also requested anonymity, echoes those thoughts: “Like most big tech, there’s just been such a big push to AI-ify everything … but it’s basically a laughingstock internally.” In a May podcast interview, Wang denied that he and Zuckerberg had been fighting a lot, saying leaders at the company know frontier model development and product integration are both important. But, he added, “like any company … we debate the points deeply.” But the current employee says Meta’s AI strategy simply isn’t based in the reality of the business or what its customers actually want. “There’s a whole different planet between what the C-suite is talking about and what’s happening on the ground,” they say, later adding, “That tension is literally at the core of the problem at Meta … building AI for the sake of having the biggest building or the biggest fucking dildo versus building a useful product.” Meta has spent an extraordinary amount on AI, but it’s made few waves in the industry Zuckerberg’s latest manifesto — in which he lays out his vision of superintelligence that people use “to create and discover extraordinary new things, build new businesses, express new ideas, learn new concepts, and advance our health and quality of life” — didn’t make many waves in the broader AI industry. And so far, the features Meta has added to smart glasses and the products it’s rolled out haven’t broken through compared to the company’s biggest rivals. Given the early usage statistics, Muse could break this pattern — but it’s too early to know. Noah Smith, senior director of NLP research at the Allen Institute for Artificial Intelligence (Ai2), says the manifesto “reads to me a bit like PR … I also didn’t find anything particularly surprising there, or new.” Instead, Smith found himself asking what is going on behind the scenes to make Zuckerberg publicly state all this now. Zuckerberg’s manifesto also wasn’t received well internally, according to the current and former Meta employees The Verge spoke with. In particular, the current employee says it’s a typical example of putting the cart before the horse. “The manifesto did not articulate the biggest question,” he says. “What will AI do for our business as an advertising business? What is the benefit in terms of return on investment on the hundreds of billions of dollars that we’re spending? We don’t even have a product play.” He adds that even after Meta’s massive investments, he wouldn’t rank his own company in the top three of AI players — and that that’s reflected by the fact that engineers at the company don’t typically prioritize using Meta’s own AI models, instead using models from Anthropic, OpenAI, and Chinese AI companies. He says that after Meta announces a new AI model internally, people will try it out for a little bit and then typically go back to using Anthropic’s Claude models; he compares employees using MetaAI to children goaded into eating their vegetables. “I think if we actually cared about developing AI well, we would have everyone just use [our] AI and constantly give feedback,” he says. “That would be monumental. But likely we would take a productivity hit in other ways.” Overall, “morale is in the gutter,” the current employee says. “People do not trust leadership. I get a strong sense that leadership doesn’t even trust Mark in his direction.” They add that employees feel the company is spying on them and forcing AI into everything, and amid restructuring and layoffs, workers are “tired of the pizza parties” and haven’t seen any movement on top internal complaints, like problematic incentive structures, misuse of tokens, and pace of work. The former employee says that colleagues at the company feel that it’s “like the Metaverse 2.0,” and though Zuckerberg bought some of the best AI talent in the world, “still, they don’t have a thing that anybody wants.” A lot of people at Meta, the employee says, think it’s an inevitability that the company will drop its AI efforts the same way it sidelined its metaverse ones. Meta is betting on giving users free, easily packaged access to agentic AI, but its position in the industry is tenuous “It’s not going to be framed [as him] abandoning anything,” the current employee says. “They were going to turn off Horizon Worlds, and Zuck got wind of it and he said they need to keep it on even though it’s a money-suck … Zuckerberg does not want to admit defeat. But there will be a strategic pivot … away from this manic AI spending to whatever is next, maybe a derivative of AI, maybe more wearable stuff.” Muse is the next step in Zuckerberg’s plans: a move from straightforward language and image models toward more practically useful agentic AI. It’s betting on giving users free, easily packaged access to the kinds of tools that might previously have required dedicated hosting machines or cost hundreds of dollars a year. But it’s too early to tell if users will trust Meta with the keys to their digital lives. Meanwhile, Meta’s position in the industry’s top tier appears as tenuous as ever. In response to questions from The Verge, Meta spokesperson Alex Dziedzan said that “at Meta, our philosophy is simple: let our teams deliver. We encourage you to check out Connect to learn more.” Meta is still trying to convince investors — and the tech industry more broadly — that its relatively nascent AI business has legs. In the meantime, the company is fighting to retain control of its true money machines and the original business proposition: pumping users’ social media feeds, particularly on its flagship Instagram, with whatever keeps them engaged. The cash cow Four years ago, Instagram teased what would become perhaps its most reviled change to date: an “immersive” experience where photos and videos took up a user’s full screen and filled it with content from accounts a user didn’t follow. The feature was blatantly ripped from TikTok, its newer, more ruthless competitor, and to many users, the update represented a betrayal of Instagram’s core social elements. Tati Bruening saw something worth saving in Instagram’s earlier, actually social, peer-to-peer communication platform. The photographer and creative tapped into widespread resentment and frustration, posting a graphic that was simple and to the point: “MAKE INSTAGRAM INSTAGRAM AGAIN,” it read. “Stop trying to be tiktok i just want to see cute photos of my friends. Sincerely, everyone.” Kim Kardashian and Kylie Jenner, titans of attention-based online economy, reposted Bruening’s graphic. An online petition racked up hundreds of thousands of signatures. Eventually, the heat became too much to bear, and Instagram rolled back the changes. But it was only kicking the can down the road; this was the beginning of the end of an era. Several years on, watching vertical videos of strangers is a cornerstone of social media, including Instagram. And Bruening has a new perspective, having seen platforms rise and fall and upend her job. “This is going to be the most shocking thing to hear coming out of my mouth, but I think in terms of all of the creator platforms, [Instagram] is going to be the one that makes it out of this era,” Bruening says. “I think in terms of all of the creator platforms, Meta is going to be the one that makes it out of this era.” Meta (as Facebook) acquired Instagram in 2012 for approximately $1 billion, and it eclipsed the company’s then-eponymous blue app in relevance years ago. Central to the creator industry, celebrity culture, and lifestyle content, Instagram is a cash cow for Meta: eMarketer estimates it will pull in $52 billion in US ad revenue this year, compared to Facebook’s $48 billion. For the last few years, it’s been playing catch-up not only to TikTok but to a whole internet where people spend less time connecting with friends and relatives and more on an algorithmically sorted recommendation feed. Yet along with its rival YouTube, Bruening says, Instagram remains one of the few social media platforms that’s been somewhat stable. Snapchat no longer serves creators, and TikTok is too filled with slop and TikTok Shop content. Meta may have turned its photo app into a vertical video slot machine, but at least it rewards the creators who obey — if you make shortform videos, Instagram will show them to someone. Creators and brands still see Instagram as the prestige, more polished platform where most advertising spend goes, says Lia Haberman, an influencer marketing expert who writes ICYMI, a social media newsletter. Whatever lead TikTok had in shortform content a few years ago has narrowed or even closed. The threat of TikTok disappearing from the US made advertisers nervous, Haberman says; creators started to think about backup plans and diversifying their platforms and online presence. When brands ask creators for deliverables — the assets and content that they want an influencer to post — Instagram Reels and Stories are typically first on the list, in Haberman’s experience. Instagram is Meta’s cultural crown jewel, but the company is trying to diversify its revenue through other apps, too. Meta has tried to pull more creators onto Facebook with cash incentives. The company’s massive messaging platform WhatsApp remains popular, especially outside the US; executives said subscriptions and paid messaging drove record non-advertising revenue. Threads, the X competitor, reached 500 million monthly users this summer, but it still feels a bit like the black sheep — in earnings reports, Meta’s “family of apps” is defined as “Facebook, Instagram, Messenger, WhatsApp, and other services.” The company has introduced a slew of other apps, like standalone platforms for Facebook groups and Marketplace, with leadership saying AI is speeding up development. “Social media is saturated in many ways. The hyper growth days for Meta are over.” But despite Zuckerberg’s soliloquies on an AI-powered future, Meta is at its core in the business of serving ads, and that business is still booming: The company reported in July that its revenue from advertising grew 27 percent year over year. Some projections show Meta’s ads business surpassing Google’s by the end of 2026. The bigger problem is the people it shows those ads to, and the content it puts those ads in between. The average social media user is less interested than they once were in posting, and Meta’s access to a new generation of users is under threat. “There is sort of a tension brewing where we’re seeing this double-digit growth in their ad spend, but we are not seeing double-digit growth when it comes to overall usage [in the US],” Minda Smiley, senior analyst at eMarketer, says of advertisers’ spending patterns. “I think that just really speaks to the fact that social media is saturated in many ways. The hyper growth days for Meta are over.” People in general are now using social media to consume content rather than share it; a Morning Consult poll found that a third of respondents say they post less on social media compared to last year. What’s more, entire generations of young people are logging off or forcibly being logged off. The past few years have seen bipartisan, multinational, and cross-generational support for either limiting minors’ access to social media or banning them altogether. When kids can get online, Gen Z and Gen Alpha don’t want to express themselves fully on the social media sites their parents or relatives are on, and what’s more, they want in-person experiences, Haberman says. They want to touch grass. Katie Harbath, a former Meta public policy director who now runs tech policy consultancy Anchor Change, says that there’s a small point of relief for Meta here, though: Kids aren’t how they’re making their money. Data compiled by research platform BusinessStats primarily from Facebook’s Ads Manager found that about 3.2 percent of Facebook’s global audience was between the ages of 13 and 17. On Instagram, using a similar dataset, that share was slightly higher, but still just 5.8 percent of the app’s global audience, according to BusinessStats. “If all of a sudden they can’t have kids under 18 on, it’s not great, but it’s also not the vast majority of the people that are on the platform,” Harbath says. But Meta will eventually need those users — it can’t dine off the social media habits of older generations forever. What happens to Meta if its user base peters out, and advertisers follow? A reckoning could be coming in two to three years, Haberman says, if these trends continue as Gen Alpha comes of age. Teen users are a tiny part of Meta’s business — but losing the next generation is something it can’t afford “I’m not sure that we’ve really fully grasped yet how much of a big deal that this could be once audiences stop showing up or audiences age out,” Haberman says. “Essentially, it’s going to become kind of a graveyard for millennials, Gen X, and boomers.” The implications are manifold — for the social platforms themselves, naturally, but also for the advertisers, brands, and influencers who’ve taken for granted that social media is an effective way to reach people. The elephant in the room is AI — Meta’s costly buildouts and investments, of course, but also the question of how to handle AI content on the platform, and how much of it users actually want. On its second quarter earnings call, Zuckerberg said the company would soon be able to provide a “nearly infinite universe of personalized content” to users through its image and video generation tools, to supplement content from influencers, creators, and users’ friends and family. AI content is cheap, fast, and replaceable, made to be chewed up and spit out as long as the algorithms will allow it to be served up. This is what creatives like Bruening are competing against. “You would have to become an AI robot in order to keep up with a lot of the metrics and standards for what [Meta’s] best practices are,” Bruening says. “A human artist is not going to have the same level of output as an AI machine that’s going to appease the algorithm.” How far can Meta push the human creators before they decide they no longer want to compete with their automated counterparts? Much like Meta, creators are constantly chasing the next big thing, trying to weather shifting societal expectations and tastes. For individual creators, a failure to adapt can be career-ending; Meta now finds itself in similar precarious footing. But concerns about how people use social media aren’t just a matter of business. They’re the object of serious inquiry for lawmakers across the world — all bent on reining in what they see as one of the tech industry’s most dangerous players. A social reckoning Over the past decade, Meta has become one of the biggest punching bags in politics — and its CEO the face of a callous, out-of-touch, and exploitative “Big Tech.” Zuckerberg, Mosseri, and other executives have been dragged before congressional committees and juries and berated for a perceived carelessness toward kids’ safety and disinformation, a ruthless crushing of competition, and even complicity in lynching and genocide. But through each PR crisis, Meta has somehow still found its footing, and in many cases, dodged the worst-case outcomes. Meta grew to massive scale and influence in part through two key acquisitions: its purchases of Instagram in 2012 and WhatsApp in 2014. But by 2020, those deals became the focal point of a major antitrust lawsuit seeking to break up the company. Since then, Meta’s acquisitions and competitive actions have faced intense scrutiny in the US and around the world, and its dealmaking leveled off. In 2020, it closed 10 acquisitions worth a total of $1.37 billion, according to data compiled by PitchBook; as it fought monopolization claims, its deal count and value dropped each year through 2024. But for the most part, the company has weathered regulatory pressure, and Meta’s dealmaking picked up again in 2025. Meta won against the FTC’s anti-monopoly claims, and it was allowed to buy the virtual reality fitness startup Within after the FTC took it to trial (a few years later, it announced it would stop making content for Within’s flagship game, only to later spin it off). Through political crisis after political crisis, Meta has dodged the worst-case outcomes Long-standing fears about Meta’s data collection efforts also reached a boiling point in 2018, when reporters uncovered evidence that London elections consultancy Cambridge Analytica had harvested millions of Facebook profiles to analyze and target users with pro-Trump messaging in 2016. That led to a flood of calls among users to #DeleteFacebook, even from Brian Acton, cofounder of WhatsApp. But Zuckerberg later told The New York Times that the movement hadn’t resulted in any “meaningful” defection from the platform. In Europe, Meta was ordered to make changes impacting its ad-targeting practices after a $1.3 billion fine, but in the US lawmakers are still unable to agree on an industry-wide data privacy law. While President Donald Trump once threatened to throw Zuckerberg in prison for life, the CEO seems to have successfully gotten on the Trump administration’s good side after ditching the fact-checking program the president had criticized, disbanding its diversity, equity, and inclusion (DEI) team, and agreeing to a $25 million settlement over Trump’s lawsuit for suspending his account. Meanwhile, Meta’s apps benefited from the brief ban of TikTok in the US, though Trump cut that period short through repeated enforcement delays. Meta’s courting of the Trump administration may leave it ripe for scrutiny under a Democratic administration, but meaningful consequences could remain years away, if they come at all. Most recently, Meta’s most pressing policy challenge has been child safety. For the first half of the year, it appeared to be caught on its back foot. Two juries issued decisive blows to the company, resulting in close to a billion dollars in fines across an individual plaintiff’s case in Los Angeles and a case brought by New Mexico’s attorney general. But the New Mexico judge later declined to impose the most disruptive structural changes the AG had asked for. On the surface, a landmark settlement with 47 other state AGs in August looked even worse for Meta. The settlement included significant changes: new age assurance benchmarks, a two-hour daily usage limit (with exceptions for messaging and longform content), and default restrictions on nighttime and school hour notifications for teens. But it also presented Meta an opportunity to turn attention onto its rivals. The company called on TikTok, YouTube, and Snap to adopt similar limits, and it tied part of its settlement payout to their actions. This helped Meta twice over: It could put a target on its competitors’ backs while mitigating the potential negative business impact of its own deal. New child safety regulations could end up helping Meta as well. eMarketer forecasts that Snap and TikTok would feel more of a hit than Meta if a nationwide classroom cellphone ban, another popular proposal, went into effect. TikTok would lose out on more than $1.25 billion in ad revenue this year, the firm estimates, and Snap’s ad revenue would be especially vulnerable because of the high concentration of teens on the platform who use the app throughout the day. A hit on Meta’s revenue, meanwhile, would “hardly register,” eMarketer says, thanks to its scale. Meta could lose out under child safety regulations — but its competitors might lose more Even so, Meta’s legal battles over kids’ safety aren’t over. Meta and other tech companies still face thousands of lawsuits from individual plaintiffs and school districts, likely culminating in a blanket settlement. The scope of cases and potential penalties is so large that it’s difficult to understand exactly how much risk they carry. It would take quite a lot for Meta to feel the sting, but the billions in settlements and court orders are beginning to add up. Meta has already invested huge sums into fighting these cases. In the second quarter alone, it took a $2.4 billion charge over litigation expenses. Prior to Meta’s recent settlement with state AGs, Peter Chapman, deputy director of the Knight-Georgetown Institute, said that “suggests to me that they’re playing a long game” around the First Amendment and online liability shield Section 230. Following the settlement news, Chapman says he still sees it as early days amid the mountain of litigation before Meta and other tech companies, but “the long game certainly has changed.” Now it seems to include targeting industry competitors to get on board with the terms Meta already accepted, while a fight to preserve its protections under Section 230 will likely continue through appeals of the earlier cases Meta lost. Meta’s settlement may bring some solace to investors who were unsure how to price in its legal risk. After the news of the deal, its stock price shot up. “The state AGs got an okay deal. I don’t think they knocked it out of the park,” says Paul Gallant, a tech policy analyst at investment bank TD Cowen. As a result, Meta shareholders should have “confidence that the company knows how to manage the government.” The $17 billion settlement represents an “immaterial” amount for Meta, Gallant says. In the last quarterly earnings report, Meta said it made more than $60 billion. But additional cases still present some risk, and large fines may be more of a problem today than when the European Union levied them in the past. “The companies are spending so much on AI infrastructure that cashflow is a bigger focus of Meta’s stockholders, especially if the damage awards get into the tens of billions or more,” Gallant says. And unlike the tactics at its disposal to fight off impending legislation, Gallant adds, “of all of the features of the US governmental system, the least controllable by Meta is juries.” “These massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto.” State and local governments also appear ready to take on tech while federal efforts stall, including in Meta’s latest area of focus, AI. Many are looking at how they can rein in AI and deal with the energy demands it creates on their electrical grids. Data centers have become a flashpoint across the country, and a nationwide push for a slowdown could be particularly meaningful for Meta and other businesses in the AI race. “That’s the thing that could really not just slow them, but slow everybody down — having enough compute,” says Harbath. “We talk so much about what happens at the federal level, but I actually think the biggest risk to Meta and these tech companies right now is at the hyper-local level.” Zuckerberg has become the face of many of these battles, testifying for hours before policymakers and juries, and even standing up in Congress to apologize to parents who lost children after battles with online harms. The public testimonies have largely not seemed to endear him any further to his critics. “It’s almost like this bizarre disconnect where these massive trials are happening against this company, and then what is Mark Zuckerberg doing? Putting out an AI manifesto,” Smiley, the analyst at eMarketer, says. “It’s sort of like, ‘What planet are you on?’ It just feels like there’s just this big disconnect.” Whether it will matter is another unresolved question. Despite the litany of PR problems, user frustrations, legal troubles, and internal personnel conflict, Meta still feels like an immovable force. It has managed to sidestep, acquire, and pivot its way out of scandals and blowups that would have sunk most other companies. It’s spending lavishly on its new, AI-powered future. But that future remains far from certain. Smart glasses are unproven, its AI labs are behind newer upstarts, the legal landscape is hostile, and it may be hitting its ceiling in finding new users. What does seem certain is that its CEO will never stop chasing the next big thing. “Zuckerberg has this kind of monkey on his back,” says the current Meta employee. “He’s willing to experiment with the company because he controls the company.”",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-22T10:00:01.000Z",
+            "fetchedAt": "2026-09-22T10:22:00.715Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "regulators",
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "In 2021, as a whistleblower emerged with dramatic allegations that Facebook was harming children, CEO Mark Zuckerberg posted a rebuttal on Facebook. “We care deeply about issues like safety, well-being and mental health. It’s difficult to see coverage that misrepresents our work and our motives,” he wrote in a note to Meta staff, which he reposted publicly. “At the most basic level, I think most of us just don’t recognize the false picture of the company that is being painted.” Away from the stream of often inane public replies, one reader didn’t like what they saw. Zuckerberg spoke with the unidentified person privately on WhatsApp, according to exhibits later released as part of a series of lawsuits, and the figure urged Zuckerberg — a parent himself — to make child safety even more central in his messaging.",
+            "id": "a1"
+          },
           {
             "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
             "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-surges-7-amazon-validates-190345932.html?.tsrc=rss",
@@ -6958,7 +6759,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T19:03:45.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -6968,7 +6769,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-            "id": "a8"
+            "id": "a13"
           },
           {
             "title": "Trump says DOJ will rein in AI 'if we have to'",
@@ -6978,7 +6779,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T16:46:24.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.531Z",
+            "fetchedAt": "2026-09-22T10:21:59.865Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -6989,28 +6790,7 @@ export const NEWS_DATA = {
               "regulators"
             ],
             "summary": "President Trump has touted development of artificial intelligence by U.S. companies as a competitive advantage over China that he wants to maintain.",
-            "id": "a10"
-          },
-          {
-            "title": "Vivo’s X500 Pro Max has 17 stops of dynamic range and 4K240 slo-mo",
-            "url": "https://www.theverge.com/gadgets/998165/vivo-x500-pro-max-launch-specs-release-date-lofic-china",
-            "description": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra. The excellent 200-megapixel, 3.7x telephoto … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-21T13:16:25.000Z",
-            "fetchedAt": "2026-09-22T05:26:01.280Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "All three new X500 phones support at least one of Vivo’s teleconverter lenses. | Image: Vivo Vivo's new X500 flagship phones have arrived in China, and as usual the company's focus is firmly on photography. The X500 Pro Max - a new tier in its lineup - is the first phone to use new sensors and silicon from Sony and MediaTek that enable impressive dynamic range and slow-motion video recording. The X500 Pro Max uses Sony's new Lytia L910 image sensor, its first to use LOFIC, a sensor technology that enables expanded dynamic range. The 50-megapixel, 1/1.28-inch-type sensor delivers what Vivo calls \"true 17 EV ultra-high dynamic range,\" more than the 16.5 stops claimed by the Xiaomi 17 Ultra.",
-            "id": "a13"
+            "id": "a15"
           },
           {
             "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
@@ -7020,7 +6800,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T12:43:05.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -7030,7 +6810,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-            "id": "a15"
+            "id": "a19"
           },
           {
             "title": "Cracker Barrel Old Country Store and Qualcomm have been highlighted as Zacks Bull and Bear of the Day",
@@ -7040,7 +6820,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T11:53:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -7050,7 +6830,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Cracker Barrel's earnings estimates are improving, while Qualcomm faces weaker handset demand, falling estimates and Apple's modem shift.",
-            "id": "a19"
+            "id": "a23"
           },
           {
             "title": "Bear of the Day: Qualcomm (QCOM)",
@@ -7060,7 +6840,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-21T11:00:00.000Z",
-            "fetchedAt": "2026-09-22T05:26:00.766Z",
+            "fetchedAt": "2026-09-22T10:21:59.975Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -7070,12 +6850,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "With Apple making the s\\wi",
-            "id": "a21"
+            "id": "a25"
           }
         ]
       }
     },
-    "totalArticles": 37
+    "totalArticles": 31
   }
 };
 
