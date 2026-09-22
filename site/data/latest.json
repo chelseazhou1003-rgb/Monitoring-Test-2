@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T19:15:04.271Z",
+  "generatedAt": "2026-09-22T22:25:55.653Z",
   "date": "2026-09-23",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
-      "topHeadline": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+      "articleCount": 10,
+      "topHeadline": "Qualcomm CFO on Snapdragon and Two New Mobile Platforms",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 17,
-      "topHeadline": "The Global AI Race: Chips, Talent, and World Models",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources."
+      "articleCount": 15,
+      "topHeadline": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 3,
-      "topHeadline": "Qualcomm Slips as Googlebook Opens a New PC Lane",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadline": "Meta’s Muse just changed the AI game",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 24
+  "totalArticles": 28
 }

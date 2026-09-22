@@ -1,35 +1,68 @@
 {
-  "generatedAt": "2026-09-22T19:15:04.268Z",
+  "generatedAt": "2026-09-22T22:25:55.652Z",
   "date": "2026-09-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+        "text": "Platform & Ecosystem Partners: Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads acros",
         "articleIds": [
-          "a6"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Geopolitics & Export Controls: The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
-        "articleIds": [
-          "a18"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-        "articleIds": [
-          "a19"
+          "a3"
         ],
         "subCategory": "platform-partner"
+      },
+      {
+        "text": "Mobile Chips: You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Sign",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Meta’s Muse just changed the AI game",
+      "url": "https://finance.yahoo.com/video/metas-muse-just-changed-the-ai-game-213133381.html?.tsrc=rss",
+      "description": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T21:31:33.000Z",
+      "fetchedAt": "2026-09-22T22:25:48.803Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
+      "id": "a3"
+    },
+    {
+      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
+      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
+      "description": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other. Either way, it slopes upwards into what Motorola calls a … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-22T20:00:00.000Z",
+      "fetchedAt": "2026-09-22T22:25:49.275Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
+      "id": "a9"
+    },
     {
       "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
@@ -38,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T15:41:12.000Z",
-      "fetchedAt": "2026-09-22T19:14:57.246Z",
+      "fetchedAt": "2026-09-22T22:25:48.803Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -48,49 +81,7 @@
         "platform-partner"
       ],
       "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "id": "a6"
-    },
-    {
-      "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
-      "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T21:37:20.000Z",
-      "fetchedAt": "2026-09-22T19:15:04.233Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "jdsupra.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
-      "id": "a18"
-    },
-    {
-      "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-surges-7-amazon-validates-190345932.html?.tsrc=rss",
-      "description": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T19:03:45.000Z",
-      "fetchedAt": "2026-09-22T19:14:57.246Z",
-      "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-      "id": "a19"
+      "id": "a14"
     }
   ]
 }
