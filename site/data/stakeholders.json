@@ -1,55 +1,76 @@
 {
-  "generatedAt": "2026-09-22T15:11:40.036Z",
-  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T19:15:04.268Z",
+  "date": "2026-09-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of ",
+        "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
         "articleIds": [
-          "a7"
+          "a6"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Geopolitics & Export Controls: The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+        "articleIds": [
+          "a18"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
         "articleIds": [
-          "a16"
-        ],
-        "subCategory": "platform-partner"
-      },
-      {
-        "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
-        "articleIds": [
           "a19"
         ],
-        "subCategory": "data-center"
+        "subCategory": "platform-partner"
       }
     ]
   },
   "articles": [
     {
-      "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
-      "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
-      "description": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-22T12:18:35.000Z",
-      "fetchedAt": "2026-09-22T15:11:31.987Z",
+      "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
+      "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T15:41:12.000Z",
+      "fetchedAt": "2026-09-22T19:14:57.246Z",
       "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+      "id": "a6"
+    },
+    {
+      "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
+      "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-21T21:37:20.000Z",
+      "fetchedAt": "2026-09-22T19:15:04.233Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "jdsupra.com",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "oem"
+        "regulators"
       ],
-      "summary": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-      "id": "a7"
+      "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+      "id": "a18"
     },
     {
       "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
@@ -59,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T19:03:45.000Z",
-      "fetchedAt": "2026-09-22T15:11:31.544Z",
+      "fetchedAt": "2026-09-22T19:14:57.246Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -69,26 +90,6 @@
         "platform-partner"
       ],
       "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-      "id": "a16"
-    },
-    {
-      "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-      "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
-      "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-21T12:43:05.000Z",
-      "fetchedAt": "2026-09-22T15:11:31.544Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
       "id": "a19"
     }
   ]

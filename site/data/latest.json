@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-22T15:11:40.039Z",
-  "date": "2026-09-22",
+  "generatedAt": "2026-09-22T19:15:04.271Z",
+  "date": "2026-09-23",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 2,
-      "topHeadline": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -18,17 +18,17 @@
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-      "topHeadlineId": "a19",
-      "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 18,
-      "topHeadline": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
+      "articleCount": 17,
+      "topHeadline": "The Global AI Race: Chips, Talent, and World Models",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,9 +40,9 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 3,
-      "topHeadline": "Oppo’s new phone is the first with three 200-megapixel cameras",
-      "topHeadlineId": "a7",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
   "totalArticles": 24

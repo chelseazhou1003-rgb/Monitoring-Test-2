@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,23 +13,68 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data cente",
+          "text": "Semiconductors: Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher ba",
           "articleIds": [
-            "a10"
+            "a1"
           ],
           "subCategory": "semiconductors"
+        },
+        {
+          "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+        "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html?.tsrc=rss",
+        "description": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T18:14:52.000Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
+        "id": "a1"
+      },
+      {
+        "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
+        "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T15:41:12.000Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+        "id": "a6"
+      },
       {
         "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
         "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
@@ -38,7 +83,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T08:21:17.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -46,7 +91,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-        "id": "a10"
+        "id": "a13"
       },
       {
         "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
@@ -56,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T16:53:14.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -64,53 +109,24 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
-        "id": "a17"
+        "id": "a20"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph",
-      "keyTakeaways": [
-        {
-          "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
-          "articleIds": [
-            "a19"
-          ],
-          "subCategory": "data-center"
-        }
-      ]
+      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+      "keyTakeaways": []
     },
-    "articles": [
-      {
-        "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-        "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
-        "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T12:43:05.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-        "id": "a19"
-      }
-    ]
+    "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -120,15 +136,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-22T15:11:40.039Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.271Z",
+    "date": "2026-09-23",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 2,
-        "topHeadline": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-        "topHeadlineId": "a10",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -139,17 +155,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 1,
-        "topHeadline": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-        "topHeadlineId": "a19",
-        "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside ph"
+        "articleCount": 0,
+        "topHeadline": null,
+        "topHeadlineId": null,
+        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 18,
-        "topHeadline": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
+        "articleCount": 17,
+        "topHeadline": "The Global AI Race: Chips, Talent, and World Models",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -161,52 +177,130 @@ export const NEWS_DATA = {
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 3,
-        "topHeadline": "Oppo’s new phone is the first with three 200-megapixel cameras",
-        "topHeadlineId": "a7",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadline": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+        "topHeadlineId": "a6",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 24
   },
   "macro-environment": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
+          "text": "Supply Chain: Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan ",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "supply-chain"
         },
         {
-          "text": "Geopolitics & Export Controls: China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
+          "text": "Geopolitics & Export Controls: Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
           "articleIds": [
-            "a2"
+            "a3"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Customers & Partners: Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonst",
           "articleIds": [
-            "a13"
+            "a15"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "market-performance: A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revital",
           "articleIds": [
-            "a14"
+            "a16"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "The Global AI Race: Chips, Talent, and World Models",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-tech-9-22-2026-video",
+        "description": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T18:13:21.000Z",
+        "fetchedAt": "2026-09-22T19:14:57.604Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models.",
+        "id": "a2"
+      },
+      {
+        "title": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 - Information Technology and Innovation Foundation",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzVzVmd5WFl0QmhZck9EYU5Mc2xwa2FaU2lYUjlYNFFvX25GOGtKbXIxeU1IQW1rUXF1cXFRTnQ5VElIMnhBUFkwRWpYVVhra0NIamNjNWRDZnhYZ2JQd1lJRXFkUW52ME1fT2FnNEI5bXA4dmFxM0dYY1o5dWNVeU9SZGVzYjNxXzFyLWVLTmZZOHVxZU5jdEdiQW9PaFRId3dFZ0hIUW0?oc=5",
+        "description": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T17:38:53.000Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Information Technology and Innovation Foundation",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
+        "id": "a3"
+      },
+      {
+        "title": "EU to lift sanctions on two Russian oligarchs",
+        "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
+        "description": "Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T17:15:48.000Z",
+        "fetchedAt": "2026-09-22T19:14:58.012Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years",
+        "id": "a4"
+      },
+      {
+        "title": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence - Business Upturn",
+        "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaUdfb1dsVUVrdzR1MEhRT25ZdU1tTVpJTF82RVhIMlVibmtXTVhEWnlkTk85ME1UQlBlYnFXUUNEZHdfaTRjdXZiSnhCTXBmd0NOQnVfb2txUVdLN29aRGlrS3IxZUxQbnRuaGY5SFVWdWI0QTZkN3ZzemJMMlctS3J1a2RnSUZPR2lfWnVhbFhTUVVlalVqcFVyM2wzeWdwc2pvQkc4cXJEc0JEUlBxaHljbG11SlYtMmZob0NpaEFIMTlPSXFjS3dpd0Rlanh4bGN1Si1JUDQxVGN1S0lVQjFxMmdibXhTeFJIeGpfcV9PQUJBdDd6aDdyaGg?oc=5",
+        "description": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T16:04:36.000Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Business Upturn",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
+        "id": "a5"
+      },
       {
         "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
         "url": "https://www.lightreading.com/smartphones-devices/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-record-4-2m-omdia",
@@ -215,7 +309,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-22T14:42:30.000Z",
-        "fetchedAt": "2026-09-22T15:11:37.843Z",
+        "fetchedAt": "2026-09-22T19:15:01.912Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -224,7 +318,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-        "id": "a1"
+        "id": "a7"
       },
       {
         "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business - Ahram Online",
@@ -234,7 +328,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T14:18:49.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Ahram Online",
         "geopoliticalBypass": true,
@@ -244,46 +338,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
-        "id": "a2"
-      },
-      {
-        "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit - The New York Times",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjljX1dKVG55bGRTZ2xjY2c1QXkxcV9rSHdKS0FhYUY1dkxQVnF2QXJzOEljalVFcWFINzNHQktXazlsdFVPbTlUZFNNTzRWT3E2X3VybHpjVDhzSzI0OHllZnJtVlRKSy1weDdSdUhXbTFiOFlFbFpidVczcE9yZzlmMjNCMnM?oc=5",
-        "description": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-22T14:15:13.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The New York Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
-        "id": "a3"
-      },
-      {
-        "title": "Alibaba Unveils AI Chip to Compete With Nvidia",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-22/alibaba-unveils-ai-chip-to-compete-with-nvidia-video",
-        "description": "Alibaba Group Holding is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia. Ed Ludlow reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-22T13:54:59.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.596Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Alibaba Group Holding is rolling out what it calls China’s most powerful AI chip, an accelerator to compete with Nvidia. Ed Ludlow reports on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - AOL.com",
@@ -293,7 +348,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T13:43:39.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "AOL.com",
         "geopoliticalBypass": true,
@@ -303,7 +358,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight AOL.com",
-        "id": "a5"
+        "id": "a9"
       },
       {
         "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - 24/7 Wall St.",
@@ -313,7 +368,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T13:43:00.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "24/7 Wall St.",
         "geopoliticalBypass": true,
@@ -323,28 +378,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 24/7 Wall St.",
-        "id": "a6"
-      },
-      {
-        "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
-        "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
-        "description": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-22T12:18:35.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.987Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "Alibaba underlines AI ambitions with new models, chip",
@@ -354,7 +388,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-22T11:14:21.000Z",
-        "fetchedAt": "2026-09-22T15:11:37.198Z",
+        "fetchedAt": "2026-09-22T19:15:01.561Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -363,7 +397,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
@@ -373,7 +407,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T08:53:06.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EU Today",
         "geopoliticalBypass": true,
@@ -383,7 +417,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "The impact of the US-China chip ban on third parties - Klement on Investing",
@@ -393,7 +427,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T06:00:17.000Z",
-        "fetchedAt": "2026-09-22T15:11:39.999Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Klement on Investing",
         "geopoliticalBypass": true,
@@ -403,26 +437,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The impact of the US-China chip ban on third parties Klement on Investing",
-        "id": "a11"
-      },
-      {
-        "title": "China’s share of global container exports soars to 40%",
-        "url": "https://www.ft.com/content/51c49052-0799-4920-9189-8399f15c1f51?syn-25a6b1a6=1",
-        "description": "Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-22T04:56:45.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.888Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Rapid rise underscores economy’s reliance on trade and threat to trading partners, EU chamber says",
-        "id": "a12"
+        "id": "a14"
       },
       {
         "title": "Why Corning (GLW) Stock Is Trading Up Today",
@@ -432,7 +447,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T01:42:25.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -440,7 +455,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
@@ -450,7 +465,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-22T00:22:25.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -458,7 +473,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
@@ -468,7 +483,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T22:25:33.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.465Z",
+        "fetchedAt": "2026-09-22T19:14:57.287Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -477,43 +492,29 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
-        "id": "a15"
+        "id": "a17"
       },
       {
-        "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-130005250.html?.tsrc=rss",
-        "description": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
+        "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T13:00:05.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-09-21T21:37:20.000Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "jdsupra.com",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
-        "stakeholders": [],
-        "summary": "Recently, Zacks.com users have been paying close attention to Qualcomm (QCOM). This makes it worthwhile to examine what the stock has in store.",
+        "stakeholders": [
+          "regulators"
+        ],
+        "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
         "id": "a18"
-      },
-      {
-        "title": "AI Networking Bet Sends Qualcomm, Lumentum Shares Higher",
-        "url": "https://finance.yahoo.com/technology/ai/articles/ai-networking-bet-sends-qualcomm-121316291.html?.tsrc=rss",
-        "description": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T12:13:16.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm Latest AI Play Sends Optical Networking Stocks Higher",
-        "id": "a20"
       },
       {
         "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
@@ -523,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-09-21T11:58:25.000Z",
-        "fetchedAt": "2026-09-22T15:11:32.162Z",
+        "fetchedAt": "2026-09-22T19:14:58.210Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -542,7 +543,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-21T09:17:34.000Z",
-        "fetchedAt": "2026-09-22T15:11:37.198Z",
+        "fetchedAt": "2026-09-22T19:15:01.561Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -747,57 +748,78 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-22T15:11:40.036Z",
-    "date": "2026-09-22",
+    "generatedAt": "2026-09-22T19:15:04.268Z",
+    "date": "2026-09-23",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article), Data Center (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of ",
+          "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
           "articleIds": [
-            "a7"
+            "a6"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Geopolitics & Export Controls: The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+          "articleIds": [
+            "a18"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
           "articleIds": [
-            "a16"
-          ],
-          "subCategory": "platform-partner"
-        },
-        {
-          "text": "Data Center: Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough ",
-          "articleIds": [
             "a19"
           ],
-          "subCategory": "data-center"
+          "subCategory": "platform-partner"
         }
       ]
     },
     "articles": [
       {
-        "title": "Oppo’s new phone is the first with three 200-megapixel cameras",
-        "url": "https://www.theverge.com/gadgets/998688/oppo-find-x10-pro-max-200-megapixel-cameras-china",
-        "description": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-22T12:18:35.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.987Z",
+        "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
+        "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-22T15:41:12.000Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+        "id": "a6"
+      },
+      {
+        "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
+        "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-21T21:37:20.000Z",
+        "fetchedAt": "2026-09-22T19:15:04.233Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "jdsupra.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [
-          "oem"
+          "regulators"
         ],
-        "summary": "All three rear cameras use 200-megapixel sensors. | Image: Oppo Oppo's new Find X10 Pro Max flagship phone, launched today in China, is the first anywhere to use 200-megapixel sensors on all three of its rear cameras. A 17-stop dynamic range for the main camera, delivered thanks to what Oppo calls \"DeepPix sensor technology,\" suggests megapixel count won't be the only thing this camera has going for it - a good thing, since raw resolution hasn't been the main driver of smartphone image quality for some time. The triple rear camera is built into a square, raised camera island, with a separate bar to one side holding the flash and an additional sensor. An orange accent line nods to Oppo's ongoing camera p … Read the full story at The Verge.",
-        "id": "a7"
+        "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+        "id": "a18"
       },
       {
         "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
@@ -807,7 +829,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-21T19:03:45.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
+        "fetchedAt": "2026-09-22T19:14:57.246Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -817,26 +839,6 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
-        "id": "a16"
-      },
-      {
-        "title": "Can Cars And Data Centers Carry Qualcomm Stock Past Apple?",
-        "url": "https://www.trefis.com/articles/616030/can-cars-and-data-centers-carry-qualcomm-stock-past-apple/2026-09-21?.tsrc=rss",
-        "description": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-21T12:43:05.000Z",
-        "fetchedAt": "2026-09-22T15:11:31.544Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
         "id": "a19"
       }
     ]
@@ -6508,6 +6510,615 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up about 37% over the past six months, even after falling 21% over the past three. The case for the next leg rests outside phones, where management expects growth fast enough to cover a shrinking Apple business. The first real test arrives in the December quarter, when management expects its two custom data center wins to start producing revenue.",
+            "id": "a19"
+          }
+        ]
+      }
+    },
+    "totalArticles": 24
+  },
+  "archive-2026-09-23": {
+    "generatedAt": "2026-09-22T19:15:04.271Z",
+    "date": "2026-09-23",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher ba",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
+            "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html?.tsrc=rss",
+            "description": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T18:14:52.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
+            "id": "a1"
+          },
+          {
+            "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
+            "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T15:41:12.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+            "id": "a6"
+          },
+          {
+            "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
+            "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T08:21:17.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
+            "id": "a13"
+          },
+          {
+            "title": "Qualcomm Jumps 7% as AI Interconnect Demo Points Past Handsets; Skyworks and Qorvo Sit Out the Rally",
+            "url": "https://247wallst.com/investing/2026/09/21/qualcomm-jumps-7-as-ai-interconnect-demo-points-past-handsets-skyworks-and-qorvo-sit-out-the-rally/?.tsrc=rss",
+            "description": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T16:53:14.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A trade show demonstration quietly repositioned Qualcomm inside one of the market's most coveted growth stories, and the divergence from its closest chip peers reveals exactly what investors think the moment is worth.",
+            "id": "a20"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Supply Chain: Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan ",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "supply-chain"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Customers & Partners: Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonst",
+              "articleIds": [
+                "a15"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "market-performance: A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revital",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "The Global AI Race: Chips, Talent, and World Models",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-tech-9-22-2026-video",
+            "description": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T18:13:21.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.604Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models.",
+            "id": "a2"
+          },
+          {
+            "title": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 - Information Technology and Innovation Foundation",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzVzVmd5WFl0QmhZck9EYU5Mc2xwa2FaU2lYUjlYNFFvX25GOGtKbXIxeU1IQW1rUXF1cXFRTnQ5VElIMnhBUFkwRWpYVVhra0NIamNjNWRDZnhYZ2JQd1lJRXFkUW52ME1fT2FnNEI5bXA4dmFxM0dYY1o5dWNVeU9SZGVzYjNxXzFyLWVLTmZZOHVxZU5jdEdiQW9PaFRId3dFZ0hIUW0?oc=5",
+            "description": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T17:38:53.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Information Technology and Innovation Foundation",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
+            "id": "a3"
+          },
+          {
+            "title": "EU to lift sanctions on two Russian oligarchs",
+            "url": "https://www.ft.com/content/760091dd-20be-4152-aa0d-561475a99ee8?syn-25a6b1a6=1",
+            "description": "Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T17:15:48.000Z",
+            "fetchedAt": "2026-09-22T19:14:58.012Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Mikhail Fridman and Alisher Usmanov removed from bloc’s list under deal to extend curbs for three years",
+            "id": "a4"
+          },
+          {
+            "title": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence - Business Upturn",
+            "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOaUdfb1dsVUVrdzR1MEhRT25ZdU1tTVpJTF82RVhIMlVibmtXTVhEWnlkTk85ME1UQlBlYnFXUUNEZHdfaTRjdXZiSnhCTXBmd0NOQnVfb2txUVdLN29aRGlrS3IxZUxQbnRuaGY5SFVWdWI0QTZkN3ZzemJMMlctS3J1a2RnSUZPR2lfWnVhbFhTUVVlalVqcFVyM2wzeWdwc2pvQkc4cXJEc0JEUlBxaHljbG11SlYtMmZob0NpaEFIMTlPSXFjS3dpd0Rlanh4bGN1Si1JUDQxVGN1S0lVQjFxMmdibXhTeFJIeGpfcV9PQUJBdDd6aDdyaGg?oc=5",
+            "description": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T16:04:36.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Business Upturn",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
+            "id": "a5"
+          },
+          {
+            "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
+            "url": "https://www.lightreading.com/smartphones-devices/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-record-4-2m-omdia",
+            "description": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-22T14:42:30.000Z",
+            "fetchedAt": "2026-09-22T19:15:01.912Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
+            "id": "a7"
+          },
+          {
+            "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business - Ahram Online",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWTRvZGN6TUZUcW1PZnpxd0NwbXFkQWhBckZwVVA4cHZFR3poLW1QR3BPb054bmxWdHd2QTM4ODVaWXNpU0xfclF1N21ncGt6Y19pckE2OHE?oc=5",
+            "description": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T14:18:49.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Ahram Online",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
+            "id": "a8"
+          },
+          {
+            "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - AOL.com",
+            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yQ0VvZ3VWY0xGSE5CMmdCY012YTRJTC1OUDFha19fRFFERUJEMWswN0F5a0EwNDloXzdvWWdBb3M3dXpTOGUxRGZtcWZvMmtyeDc1Rm1QTXhMekgtbTFuVkZVblJUY1FzUFhmemkyeUFxSURsY3ZfZ1gyOA?oc=5",
+            "description": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight AOL.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T13:43:39.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "AOL.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight AOL.com",
+            "id": "a9"
+          },
+          {
+            "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - 24/7 Wall St.",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVzVYM0xXMXFBS29nZzhkSnZXZ3hLbFV6eWxFVG5MQ1hHRVBMX1N3ZXhwZjI3S1RsLU5qMXVsMGZrLTEtaW9fcTVzNTJlT2FXRTQ0YlptUjBkeFlFb1lzZEpTOEZnanhoeGx1a19jUHo1RldkUzVNTWNRS2tfcDd3aXRxRW9yR19HeVdoUHZjbG9jTGhRTTBvWEpCYTlEUllxcXVUaktQSmNWLWRTS3VwTjAxcGRDRkhHNHZtZmU5UlVWcnJlSklMdS1XbkUxUQ?oc=5",
+            "description": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 24/7 Wall St.",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T13:43:00.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "24/7 Wall St.",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 24/7 Wall St.",
+            "id": "a10"
+          },
+          {
+            "title": "Alibaba underlines AI ambitions with new models, chip",
+            "url": "https://www.mobileworldlive.com/ai-cloud/alibaba-underlines-ai-ambitions-with-new-models-chip/",
+            "description": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-22T11:14:21.000Z",
+            "fetchedAt": "2026-09-22T19:15:01.561Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
+            "id": "a11"
+          },
+          {
+            "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5hRFVqWThGMlpsRzgtMlEzMTE4R2RadHdsWnJPX3ZXUWUwVXM5LWt0ajhWVnJTWG1ZNFZyUWJvc2dRTHMyd24yUjUyQWZlbTRYb3dYaHAwaG1sRWliVGc4clRoVG1VaThkR3FWTzhR?oc=5",
+            "description": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T08:53:06.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "EU Today",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
+            "id": "a12"
+          },
+          {
+            "title": "The impact of the US-China chip ban on third parties - Klement on Investing",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNalJqcEo5UHQ1ZWpBbG93VDNhVmJzZnpGSlJRdnFzLWRyQWFfb2l6VkEtVjhZZzJsd1ZYVDNwMWppNEZ1TjlOd2xFcFhFTmZzaUI4NTVmM0lHaVh0aGpJa0tJem1xbGpxc0libU1LTkdabjBDc3NXUUE3WTBJSFIxY0VqYw?oc=5",
+            "description": "The impact of the US-China chip ban on third parties Klement on Investing",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T06:00:17.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Klement on Investing",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The impact of the US-China chip ban on third parties Klement on Investing",
+            "id": "a14"
+          },
+          {
+            "title": "Why Corning (GLW) Stock Is Trading Up Today",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-corning-glw-stock-trading-014225854.html?.tsrc=rss",
+            "description": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T01:42:25.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
+            "id": "a15"
+          },
+          {
+            "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/amd-intel-qualcomm-shares-skyrocket-002225901.html?.tsrc=rss",
+            "description": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T00:22:25.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
+            "id": "a16"
+          },
+          {
+            "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
+            "url": "https://www.cnbc.com/2026/09/21/trump-xi-china-summit-trade-tariffs.html",
+            "description": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T22:25:33.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.287Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
+            "id": "a17"
+          },
+          {
+            "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
+            "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T21:37:20.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "jdsupra.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+            "id": "a18"
+          },
+          {
+            "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
+            "url": "https://www.eetimes.com/chinas-dram-specialist-cxmt-eyes-nand-flash-entry/",
+            "description": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-09-21T11:58:25.000Z",
+            "fetchedAt": "2026-09-22T19:14:58.210Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
+            "id": "a21"
+          },
+          {
+            "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
+            "url": "https://www.mobileworldlive.com/5g/dow-flags-hurdles-in-securing-400mhz-blocks-for-6g/",
+            "description": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-21T09:17:34.000Z",
+            "fetchedAt": "2026-09-22T19:15:01.561Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
+            "id": "a22"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-09-22T19:15:04.268Z",
+        "date": "2026-09-23",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Geopolitics & Export Controls: The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Platform & Ecosystem Partners: A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
+              "articleIds": [
+                "a19"
+              ],
+              "subCategory": "platform-partner"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
+            "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-22T15:41:12.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
+            "id": "a6"
+          },
+          {
+            "title": "The European Commission Updates The EU Dual-Use Export Control List - jdsupra.com",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPN0RsRXNiT01jM3BoakN2Z0NsQjFVTV91NGxzX2RwQkc5cjRHdjU5LTU4Q2FyenJOM3BBMllpM1dfNnJwN3JTTTZzdDBIYWQ0QlZ2Z3IzdzB4UXBIMWZ6V2wxczVKSVRRRzBZbFJtR2pwTXNkcGlJZ1JLTEJDbFl2OTlYcUttcGZ0?oc=5",
+            "description": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T21:37:20.000Z",
+            "fetchedAt": "2026-09-22T19:15:04.233Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "jdsupra.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "The European Commission Updates The EU Dual-Use Export Control List jdsupra.com",
+            "id": "a18"
+          },
+          {
+            "title": "Qualcomm Surges 7% as Amazon Validates Its Data-Center Pivot",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-surges-7-amazon-validates-190345932.html?.tsrc=rss",
+            "description": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-21T19:03:45.000Z",
+            "fetchedAt": "2026-09-22T19:14:57.246Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "A potential $60 billion purchasing framework gives Qualcomm scale, but minimum orders and margins remain undisclosed.",
             "id": "a19"
           }
         ]
