@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T20:42:03.195Z",
+  "generatedAt": "2026-09-23T23:13:47.847Z",
   "date": "2026-09-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 10,
+      "articleCount": 12,
       "topHeadline": "Qualcomm Takes AI To The Edge With New Mobile Chips",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (3 articles). A total of 10 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (9 articles), Semiconductors (3 articles). A total of 12 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 38,
-      "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "articleCount": 39,
+      "topHeadline": "Asean must watch US-China deal on AI - Free Malaysia Today",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (31 articles), market-performance (3 articles), Customers & Partners (3 articles). A total of 38 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (2 articles), Customers & Partners (2 articles). A total of 39 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 5,
+      "articleCount": 6,
       "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), market-performance (1 article), Platform & Ecosystem Partners (1 article). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (2 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 53
+  "totalArticles": 57
 }

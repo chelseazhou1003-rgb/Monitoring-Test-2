@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-23T20:42:03.193Z",
+  "generatedAt": "2026-09-23T23:13:47.845Z",
   "date": "2026-09-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (3 articles). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (9 articles), Semiconductors (3 articles). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Mobile Chips: Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
         "articleIds": [
-          "a12"
+          "a20"
         ],
         "subCategory": "semiconductors"
       }
@@ -30,8 +30,8 @@
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-23T20:19:25.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "publishedAt": "2026-09-23T22:37:08.000Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,43 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
-      "id": "a2"
+      "id": "a3"
+    },
+    {
+      "title": "How Qualcomm is transforming the car into a 'digital computer on wheels': CEO explains",
+      "url": "https://finance.yahoo.com/video/qualcomm-transforming-car-digital-computer-212321363.html?.tsrc=rss",
+      "description": "Qualcomm (QCOM) CEO and president Cristiano Amon sits down with In the Loop Host Ejaaz Ahamadeen at Qualcomm's annual Snapdragon Summit in Maui to discuss the company's innovations to the automotive industry, and how that's setting the stage for its future in robotics.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T21:23:21.000Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) CEO and president Cristiano Amon sits down with In the Loop Host Ejaaz Ahamadeen at Qualcomm's annual Snapdragon Summit in Maui to discuss the company's innovations to the automotive industry, and how that's setting the stage for its future in robotics.",
+      "id": "a7"
+    },
+    {
+      "title": "This is Humanity's Last Decision",
+      "url": "https://finance.yahoo.com/video/humanitys-last-decision-203051821.html?.tsrc=rss",
+      "description": "Anthropic CEO Dario Amodei just told the entire AI industry to slam the brakes, warning that failure to do so will leave humanity staring down a catastrophe that could torch hundreds of billions of dollars globally. Within hours, Sam Altman, Elon Musk, and Demis Hassabis all agreed he was right. But while Anthropic's own head of alignment upped the stakes on humanity's odds of being wiped out by AI, skeptics call this a regulatory capture play that conveniently leaves China racing ahead. In The Loop host Ejaaz Ahamadeen breaks down who's actually right, who's spinning, and what this all means for humanity’s future. Ejaaz then sits down with Qualcomm CEO Cristiano Amon to talk about the company's latest strides in AI from the Snapdragon Summit in Hawaii.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T20:30:51.000Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Anthropic CEO Dario Amodei just told the entire AI industry to slam the brakes, warning that failure to do so will leave humanity staring down a catastrophe that could torch hundreds of billions of dollars globally. Within hours, Sam Altman, Elon Musk, and Demis Hassabis all agreed he was right. But while Anthropic's own head of alignment upped the stakes on humanity's odds of being wiped out by AI, skeptics call this a regulatory capture play that conveniently leaves China racing ahead. In The Loop host Ejaaz Ahamadeen breaks down who's actually right, who's spinning, and what this all means for humanity’s future. Ejaaz then sits down with Qualcomm CEO Cristiano Amon to talk about the company's latest strides in AI from the Snapdragon Summit in Hawaii.",
+      "id": "a11"
     },
     {
       "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
@@ -49,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T19:50:58.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
-      "id": "a5"
+      "id": "a14"
     },
     {
       "title": "Qualcomm Falls 1% as Dual 2nm Chips Widen the AI Phone Bet",
@@ -67,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T17:37:12.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
-      "id": "a12"
+      "id": "a20"
     },
     {
       "title": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
@@ -85,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T13:30:00.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
-      "id": "a22"
+      "id": "a28"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -103,7 +139,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-23T20:41:59.432Z",
+      "fetchedAt": "2026-09-23T23:13:45.617Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -111,7 +147,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a28"
+      "id": "a33"
     },
     {
       "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
@@ -121,7 +157,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T08:05:00.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -129,7 +165,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-      "id": "a30"
+      "id": "a35"
     },
     {
       "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
@@ -139,7 +175,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:47:40.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -147,7 +183,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-      "id": "a41"
+      "id": "a46"
     },
     {
       "title": "Qualcomm CFO on agentic AI and the race to the edge",
@@ -157,7 +193,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:25:00.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -165,7 +201,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-      "id": "a43"
+      "id": "a48"
     },
     {
       "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
@@ -175,7 +211,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -183,7 +219,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm debuted its newest smartphone chips.",
-      "id": "a45"
+      "id": "a50"
     },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -193,7 +229,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchedAt": "2026-09-23T23:13:41.767Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -201,7 +237,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "id": "a46"
+      "id": "a51"
     }
   ]
 }
