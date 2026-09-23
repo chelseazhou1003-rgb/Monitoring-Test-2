@@ -1,28 +1,82 @@
 {
-  "generatedAt": "2026-09-23T17:29:45.726Z",
+  "generatedAt": "2026-09-23T20:42:03.193Z",
   "date": "2026-09-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (3 articles). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
+        "text": "Mobile Chips: Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
         "articleIds": [
-          "a13"
+          "a2"
         ],
         "subCategory": "mobile-chips"
       },
       {
-        "text": "Semiconductors: The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
+        "text": "Semiconductors: Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
         "articleIds": [
-          "a36"
+          "a12"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
+      "url": "https://finance.yahoo.com/m/f48787c6-e989-38bd-bcc4-ddcf95b6703d/qualcomm-takes-ai-to-the-edge.html?.tsrc=rss",
+      "description": "Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T20:19:25.000Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
+      "id": "a2"
+    },
+    {
+      "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
+      "url": "https://finance.yahoo.com/video/qualcomm-targeting-agentic-ai-2-195058732.html?.tsrc=rss",
+      "description": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T19:50:58.000Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
+      "id": "a5"
+    },
+    {
+      "title": "Qualcomm Falls 1% as Dual 2nm Chips Widen the AI Phone Bet",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-falls-1-dual-2nm-173712353.html?.tsrc=rss",
+      "description": "Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T17:37:12.000Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
+      "id": "a12"
+    },
     {
       "title": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
       "url": "https://finance.yahoo.com/technology/ai/articles/qcom-launches-next-gen-snapdragon-133000244.html?.tsrc=rss",
@@ -31,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T13:30:00.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
-      "id": "a13"
+      "id": "a22"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -49,7 +103,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-23T17:29:43.652Z",
+      "fetchedAt": "2026-09-23T20:41:59.432Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a20"
+      "id": "a28"
     },
     {
       "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
@@ -67,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T08:05:00.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-      "id": "a23"
+      "id": "a30"
     },
     {
       "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
@@ -85,7 +139,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:47:40.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +147,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-      "id": "a33"
+      "id": "a41"
     },
     {
       "title": "Qualcomm CFO on agentic AI and the race to the edge",
@@ -103,7 +157,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:25:00.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -111,25 +165,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-      "id": "a35"
-    },
-    {
-      "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
-      "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
-      "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T21:09:17.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.360Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-      "id": "a36"
+      "id": "a43"
     },
     {
       "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
@@ -139,7 +175,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -147,7 +183,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm debuted its newest smartphone chips.",
-      "id": "a38"
+      "id": "a45"
     },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -157,7 +193,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchedAt": "2026-09-23T20:41:56.399Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -165,45 +201,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "id": "a39"
-    },
-    {
-      "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
-      "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html?.tsrc=rss",
-      "description": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T18:14:52.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.608Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-      "id": "a40"
-    },
-    {
-      "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
-      "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T15:41:12.000Z",
-      "fetchedAt": "2026-09-23T17:29:39.607Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "id": "a42"
+      "id": "a46"
     }
   ]
 }

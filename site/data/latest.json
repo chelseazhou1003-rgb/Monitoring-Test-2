@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-23T17:29:45.740Z",
+  "generatedAt": "2026-09-23T20:42:03.195Z",
   "date": "2026-09-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 10,
-      "topHeadline": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
-      "topHeadlineId": "a13",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm Takes AI To The Edge With New Mobile Chips",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (3 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 33,
-      "topHeadline": "Trump’s Shoddy Ballroom Design Is the Real National Security Threat - New York Magazine",
+      "articleCount": 38,
+      "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), Customers & Partners (3 articles), market-performance (1 article). A total of 33 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (31 articles), market-performance (3 articles), Customers & Partners (3 articles). A total of 38 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), market-performance (1 article), Platform & Ecosystem Partners (1 article). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 47
+  "totalArticles": 53
 }
