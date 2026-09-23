@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-09-23T12:19:20.067Z",
-  "date": "2026-09-23",
+  "generatedAt": "2026-09-23T17:29:45.726Z",
+  "date": "2026-09-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (5 articles). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. T",
+        "text": "Mobile Chips: Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
         "articleIds": [
-          "a3"
+          "a13"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
         "articleIds": [
-          "a21"
+          "a36"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qcom-launches-next-gen-snapdragon-133000244.html?.tsrc=rss",
+      "description": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T13:30:00.000Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
+      "id": "a13"
+    },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
       "url": "https://www.mobileworldlive.com/devices/qualcomm-unveils-latest-snapdragon-flagships/",
@@ -31,7 +49,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-23T12:19:17.905Z",
+      "fetchedAt": "2026-09-23T17:29:43.652Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a3"
+      "id": "a20"
     },
     {
       "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
@@ -49,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T08:05:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-      "id": "a5"
+      "id": "a23"
     },
     {
       "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
@@ -67,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:47:40.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-      "id": "a18"
+      "id": "a33"
     },
     {
       "title": "Qualcomm CFO on agentic AI and the race to the edge",
@@ -85,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:25:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-      "id": "a20"
+      "id": "a35"
     },
     {
       "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
@@ -103,7 +121,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:09:17.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.010Z",
+      "fetchedAt": "2026-09-23T17:29:39.360Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -111,7 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-      "id": "a21"
+      "id": "a36"
     },
     {
       "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
@@ -121,7 +139,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -129,7 +147,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm debuted its newest smartphone chips.",
-      "id": "a23"
+      "id": "a38"
     },
     {
       "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
@@ -139,7 +157,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -147,45 +165,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-      "id": "a24"
-    },
-    {
-      "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-      "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-      "description": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips are built on a 2nm process, and share much in common, including their modems, display specs, security features, GPS, and memory and storage support. Qualcomm no longer publishes detailed breakdowns of the cores across its silicon, but the CPU details given are identical, with two big cores at up to 5GHz and six performa … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.537Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips are built on a 2nm process, and share much in common, including their modems, display specs, security features, GPS, and memory and storage support. Qualcomm no longer publishes detailed breakdowns of the cores across its silicon, but the CPU details given are identical, with two big cores at up to 5GHz and six performa … Read the full story at The Verge.",
-      "id": "a25"
-    },
-    {
-      "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-      "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-      "description": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other. Either way, it slopes upwards into what Motorola calls a … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.537Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
-      "id": "a26"
+      "id": "a39"
     },
     {
       "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
@@ -195,7 +175,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T18:14:52.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.608Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -203,7 +183,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-      "id": "a27"
+      "id": "a40"
     },
     {
       "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
@@ -213,7 +193,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T15:41:12.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
+      "fetchedAt": "2026-09-23T17:29:39.607Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -223,25 +203,7 @@
         "platform-partner"
       ],
       "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "id": "a30"
-    },
-    {
-      "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-      "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
-      "description": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T08:21:17.000Z",
-      "fetchedAt": "2026-09-23T12:19:14.117Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-      "id": "a37"
+      "id": "a42"
     }
   ]
 }
