@@ -1,28 +1,56 @@
 {
-  "generatedAt": "2026-09-23T00:57:44.969Z",
+  "generatedAt": "2026-09-23T06:45:05.436Z",
   "date": "2026-09-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
+        "articleIds": [
+          "a4"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Platform & Ecosystem Partners: Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads acros",
         "articleIds": [
-          "a6"
+          "a19"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Mobile Chips: You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Sign",
         "articleIds": [
-          "a12"
+          "a25"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
+      "description": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T05:49:57.000Z",
+      "fetchedAt": "2026-09-23T06:44:59.173Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
+      "id": "a4"
+    },
     {
       "title": "Meta’s Muse just changed the AI game",
       "url": "https://finance.yahoo.com/video/meta-muse-just-changed-ai-213133381.html?.tsrc=rss",
@@ -31,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:31:33.000Z",
-      "fetchedAt": "2026-09-23T00:57:38.836Z",
+      "fetchedAt": "2026-09-23T06:44:59.185Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -41,7 +69,7 @@
         "platform-partner"
       ],
       "summary": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
-      "id": "a6"
+      "id": "a19"
     },
     {
       "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
@@ -51,7 +79,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-23T00:57:39.265Z",
+      "fetchedAt": "2026-09-23T06:44:59.562Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -61,7 +89,7 @@
         "oem"
       ],
       "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
-      "id": "a12"
+      "id": "a25"
     },
     {
       "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
@@ -71,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T15:41:12.000Z",
-      "fetchedAt": "2026-09-23T00:57:38.836Z",
+      "fetchedAt": "2026-09-23T06:44:59.185Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -81,7 +109,7 @@
         "platform-partner"
       ],
       "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "id": "a17"
+      "id": "a29"
     }
   ]
 }

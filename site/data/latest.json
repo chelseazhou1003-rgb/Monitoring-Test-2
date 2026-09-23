@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-23T00:57:44.970Z",
+  "generatedAt": "2026-09-23T06:45:05.438Z",
   "date": "2026-09-23",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 10,
       "topHeadline": "Qualcomm CFO on Snapdragon and Two New Mobile Platforms",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a17",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "Trump plans pomp and pageantry for Xi amid China tensions - The Washington Post",
+      "articleCount": 30,
+      "topHeadline": "Navitas Invests $5 Million in Magnachip to Strengthen High-Voltage Semiconductor Partnership - Bisinfotech",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 30 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "Meta’s Muse just changed the AI game",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Geopolitics & Export Controls (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 44
 }
