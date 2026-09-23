@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-09-22T22:25:55.653Z",
+  "generatedAt": "2026-09-23T00:57:44.970Z",
   "date": "2026-09-23",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 10,
       "topHeadline": "Qualcomm CFO on Snapdragon and Two New Mobile Platforms",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a4",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources."
+      "articleCount": 20,
+      "topHeadline": "Trump plans pomp and pageantry for Xi amid China tensions - The Washington Post",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 3,
       "topHeadline": "Meta’s Muse just changed the AI game",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 28
+  "totalArticles": 33
 }

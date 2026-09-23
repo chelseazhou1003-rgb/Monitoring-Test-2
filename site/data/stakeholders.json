@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-22T22:25:55.652Z",
+  "generatedAt": "2026-09-23T00:57:44.969Z",
   "date": "2026-09-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Platform & Ecosystem Partners: Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads acros",
         "articleIds": [
-          "a3"
+          "a6"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Mobile Chips: You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Sign",
         "articleIds": [
-          "a9"
+          "a12"
         ],
         "subCategory": "mobile-chips"
       }
@@ -25,13 +25,13 @@
   "articles": [
     {
       "title": "Meta’s Muse just changed the AI game",
-      "url": "https://finance.yahoo.com/video/metas-muse-just-changed-the-ai-game-213133381.html?.tsrc=rss",
+      "url": "https://finance.yahoo.com/video/meta-muse-just-changed-ai-213133381.html?.tsrc=rss",
       "description": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:31:33.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.803Z",
+      "fetchedAt": "2026-09-23T00:57:38.836Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -41,7 +41,7 @@
         "platform-partner"
       ],
       "summary": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
@@ -51,7 +51,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-22T22:25:49.275Z",
+      "fetchedAt": "2026-09-23T00:57:39.265Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -61,7 +61,7 @@
         "oem"
       ],
       "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T15:41:12.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.803Z",
+      "fetchedAt": "2026-09-23T00:57:38.836Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -81,7 +81,7 @@
         "platform-partner"
       ],
       "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-      "id": "a14"
+      "id": "a17"
     }
   ]
 }

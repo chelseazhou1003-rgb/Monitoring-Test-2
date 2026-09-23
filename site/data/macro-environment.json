@@ -1,42 +1,100 @@
 {
-  "generatedAt": "2026-09-22T22:25:55.652Z",
+  "generatedAt": "2026-09-23T00:57:44.969Z",
   "date": "2026-09-23",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Supply Chain (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose controls on polysilicon imports from China and elsewhere.",
+        "text": "Geopolitics & Export Controls: Trump plans pomp and pageantry for Xi amid China tensions The Washington Post",
         "articleIds": [
-          "a5"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Supply Chain: Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan ",
+        "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
         "articleIds": [
-          "a11"
+          "a18"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Customers & Partners: Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonst",
         "articleIds": [
-          "a22"
+          "a27"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "market-performance: A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revital",
         "articleIds": [
-          "a23"
+          "a28"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Trump plans pomp and pageantry for Xi amid China tensions - The Washington Post",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQSkFGX3ZUSHZQbzVIQTA5RDBWRUgtNTNDS1BUaXo3bXVLTUhHTGZsbkZ4Slg4bnIyQ3pYcmJ2RkpqVG0zTnlIRzBoaUNrN0ZyQ3I4SzRxbWR4OE9oay1SRFhUMHRGTnFUUFRxT0dCMFV6VGhmRHBqRmgtVkFuMjV0emwzUWhNZmZydzdKeDktajFTLTBta3pfTFhTYjZ6UFBaZzVHRWxpU2cxbzJZUWdz?oc=5",
+      "description": "Trump plans pomp and pageantry for Xi amid China tensions The Washington Post",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-23T00:29:28.000Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Washington Post",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Trump plans pomp and pageantry for Xi amid China tensions The Washington Post",
+      "id": "a1"
+    },
+    {
+      "title": "Trump rejects ‘globalist scheme’ to control AI in blow to Burnham",
+      "url": "https://www.ft.com/content/0e03521f-c4f1-4242-8fff-0e34a27a26db?syn-25a6b1a6=1",
+      "description": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T23:42:36.000Z",
+      "fetchedAt": "2026-09-23T00:57:39.187Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "President says US is ‘leading over China by a lot and everyone else, and we’re going to keep it that way’",
+      "id": "a2"
+    },
+    {
+      "title": "The Foxconn of India: Dixon Tech Eyes Growth Beyond Smartphones",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-22/dixon-tech-s-growth-strategy-to-become-india-s-foxconn-video",
+      "description": "Sunil Vachani, executive chairman of Dixon Technologies, India's leading electronics manufacturing services company, talks about slow demand for smartphones, production incentives, revenue diversification and China investments in an exclusive conversation with BTV's Menaka Doshi. Vachani also discusses how India can move from assembly to value-added manufacturing. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T23:09:16.000Z",
+      "fetchedAt": "2026-09-23T00:57:38.921Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Sunil Vachani, executive chairman of Dixon Technologies, India's leading electronics manufacturing services company, talks about slow demand for smartphones, production incentives, revenue diversification and China investments in an exclusive conversation with BTV's Menaka Doshi. Vachani also discusses how India can move from assembly to value-added manufacturing.",
+      "id": "a3"
+    },
     {
       "title": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
       "url": "https://ipfray.com/byd-seeks-declaratory-judgment-against-first-solar-following-itc-complaint-withdrawal-challenges-patent-ownership/",
@@ -45,7 +103,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-22T20:39:54.000Z",
-      "fetchedAt": "2026-09-22T22:25:52.938Z",
+      "fetchedAt": "2026-09-23T00:57:42.844Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -54,26 +112,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose controls on polysilicon imports from China and elsewhere.",
-      "id": "a5"
+      "id": "a8"
     },
     {
-      "title": "The Global AI Race: Chips, Talent, and World Models",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-22/bloomberg-tech-9-22-2026-video",
-      "description": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit - The New York Times",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjljX1dKVG55bGRTZ2xjY2c1QXkxcV9rSHdKS0FhYUY1dkxQVnF2QXJzOEljalVFcWFINzNHQktXazlsdFVPbTlUZFNNTzRWT3E2X3VybHpjVDhzSzI0OHllZnJtVlRKSy1weDdSdUhXbTFiOFlFbFpidVczcE9yZzlmMjNCMnM?oc=5",
+      "description": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T18:13:21.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.951Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-09-22T17:48:08.000Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The New York Times",
       "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "subLabel": "Supply Chain",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Bloomberg’s Ed Ludlow breaks down Alibaba's new AI chip, an accelerator to compete with Nvidia and underpinning a massive expansion of data center capacity in coming years. Plus, he speaks with Gagan Biyani, founder and CEO of the Horowitz Andreessen Academy, Silicon Valley's alternative college for the AI era. And, he sits down with AI pioneer Fei-Fei Li to talk about the AI safety debate, the race against China, and growing competition to build world models.",
-      "id": "a11"
+      "summary": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
+      "id": "a14"
     },
     {
       "title": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 - Information Technology and Innovation Foundation",
@@ -83,7 +142,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T17:38:53.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Information Technology and Innovation Foundation",
       "geopoliticalBypass": true,
@@ -93,7 +152,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
-      "id": "a12"
+      "id": "a15"
     },
     {
       "title": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence - Business Upturn",
@@ -103,7 +162,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T16:04:36.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.940Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Business Upturn",
       "geopoliticalBypass": true,
@@ -113,7 +172,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
@@ -123,7 +182,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-22T14:42:30.000Z",
-      "fetchedAt": "2026-09-22T22:25:52.821Z",
+      "fetchedAt": "2026-09-23T00:57:43.013Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -132,27 +191,47 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-      "id": "a15"
+      "id": "a18"
     },
     {
-      "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business - Ahram Online",
+      "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business - english.ahram.org.eg",
       "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWTRvZGN6TUZUcW1PZnpxd0NwbXFkQWhBckZwVVA4cHZFR3poLW1QR3BPb054bmxWdHd2QTM4ODVaWXNpU0xfclF1N21ncGt6Y19pckE2OHE?oc=5",
-      "description": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
+      "description": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business english.ahram.org.eg",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T14:18:49.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "Ahram Online",
+      "googleNewsSource": "english.ahram.org.eg",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
-      "id": "a16"
+      "summary": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business english.ahram.org.eg",
+      "id": "a19"
+    },
+    {
+      "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - aol.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1yQ0VvZ3VWY0xGSE5CMmdCY012YTRJTC1OUDFha19fRFFERUJEMWswN0F5a0EwNDloXzdvWWdBb3M3dXpTOGUxRGZtcWZvMmtyeDc1Rm1QTXhMekgtbTFuVkZVblJUY1FzUFhmemkyeUFxSURsY3ZfZ1gyOA?oc=5",
+      "description": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight aol.com",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T13:43:39.000Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "aol.com",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight aol.com",
+      "id": "a20"
     },
     {
       "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - 247wallst.com",
@@ -162,7 +241,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T13:43:00.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "247wallst.com",
       "geopoliticalBypass": true,
@@ -172,7 +251,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 247wallst.com",
-      "id": "a17"
+      "id": "a21"
+    },
+    {
+      "title": "Schumer warns Trump against easing AI chip export controls to China - cryptobriefing.com",
+      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uOUlZNDR3bXhSOGZBZkU3d3VHN2oyNnFXVU5MLXE2cENlTHdNTGRmcEZiWmlpdlhBcEhRbW1SUnoxeHBTN0pxSklkdTVtWUFNUlhfRVkyM1czS25EclpLbng4djcxUDhHenJUemdoMkFSRENUWWFIMXluWQ?oc=5",
+      "description": "Schumer warns Trump against easing AI chip export controls to China cryptobriefing.com",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-22T12:43:06.000Z",
+      "fetchedAt": "2026-09-23T00:57:44.940Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "cryptobriefing.com",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Schumer warns Trump against easing AI chip export controls to China cryptobriefing.com",
+      "id": "a22"
     },
     {
       "title": "Alibaba underlines AI ambitions with new models, chip",
@@ -182,7 +281,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-22T11:14:21.000Z",
-      "fetchedAt": "2026-09-22T22:25:53.876Z",
+      "fetchedAt": "2026-09-23T00:57:42.623Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -191,7 +290,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-      "id": "a18"
+      "id": "a23"
     },
     {
       "title": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale - EU Today",
@@ -201,7 +300,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T08:53:06.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "EU Today",
       "geopoliticalBypass": true,
@@ -211,7 +310,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "EU Prepares Chips Act 2.0 as Brussels Rethinks Competition Rules for Global Scale EU Today",
-      "id": "a19"
+      "id": "a24"
     },
     {
       "title": "The impact of the US-China chip ban on third parties - Klement on Investing",
@@ -221,7 +320,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T06:00:17.000Z",
-      "fetchedAt": "2026-09-22T22:25:55.620Z",
+      "fetchedAt": "2026-09-23T00:57:44.939Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Klement on Investing",
       "geopoliticalBypass": true,
@@ -231,7 +330,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The impact of the US-China chip ban on third parties Klement on Investing",
-      "id": "a21"
+      "id": "a26"
     },
     {
       "title": "Why Corning (GLW) Stock Is Trading Up Today",
@@ -241,7 +340,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T01:42:25.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.803Z",
+      "fetchedAt": "2026-09-23T00:57:38.836Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -249,7 +348,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Shares of glass and electronic component manufacturer Corning (NYSE:GLW) jumped 6% in the afternoon session after the company announced a partnership with Qualcomm Technologies and Lumentum to demonstrate high-density optical interconnects for artificial intelligence architectures at ECOC 2026.",
-      "id": "a22"
+      "id": "a27"
     },
     {
       "title": "AMD, Intel, and Qualcomm Shares Skyrocket, What You Need To Know",
@@ -259,7 +358,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T00:22:25.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.803Z",
+      "fetchedAt": "2026-09-23T00:57:38.836Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -267,7 +366,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A number of stocks jumped in the afternoon session after positive bilateral talks between the U.S. and China eased trade tensions, while retreating crude oil prices and falling Treasury yields revitalized market risk appetite.",
-      "id": "a23"
+      "id": "a28"
     },
     {
       "title": "Trump, Xi seek trade stability and deals, but AI, tariffs and Iran loom large. What to watch",
@@ -277,7 +376,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-21T22:25:33.000Z",
-      "fetchedAt": "2026-09-22T22:25:48.698Z",
+      "fetchedAt": "2026-09-23T00:57:38.643Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -286,7 +385,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump, facing low approval on the economy ahead of the midterm election, has an added incentive to emerge from the summit with China's Xi touting trade wins.",
-      "id": "a24"
+      "id": "a29"
     },
     {
       "title": "China’s DRAM Specialist CXMT Eyes NAND Flash Entry",
@@ -296,7 +395,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-21T11:58:25.000Z",
-      "fetchedAt": "2026-09-22T22:25:49.449Z",
+      "fetchedAt": "2026-09-23T00:57:39.367Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -305,7 +404,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s twin memory stars, CXMT and YMTC, move into each other’s turf to capitalize on AI-driven storage shortages. The post China’s DRAM Specialist CXMT Eyes NAND Flash Entry appeared first on EE Times.",
-      "id": "a25"
+      "id": "a30"
     },
     {
       "title": "DoW flags hurdles in securing 400MHz blocks for 6G",
@@ -315,7 +414,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-21T09:17:34.000Z",
-      "fetchedAt": "2026-09-22T22:25:53.876Z",
+      "fetchedAt": "2026-09-23T00:57:42.623Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -324,7 +423,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "An official with the US Department of War weighed in on federal efforts to reallocate spectrum for future mobile networks, emphasising the complexity of securing large contiguous blocks of bandwidth for 6G while protecting national security operations. The post DoW flags hurdles in securing 400MHz blocks for 6G appeared first on Mobile World Live.",
-      "id": "a26"
+      "id": "a31"
     }
   ]
 }
