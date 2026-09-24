@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-24T12:55:19.938Z",
-  "date": "2026-09-24",
+  "generatedAt": "2026-09-24T17:59:11.959Z",
+  "date": "2026-09-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 12,
-      "topHeadline": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (8 articles), Semiconductors (2 articles), Wireless Communication (1 article). A total of 12 articles were aggregated from monitored sources."
+      "articleCount": 10,
+      "topHeadline": "Qualcomm CFO says look beyond the Apple deal",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 3,
-      "topHeadline": "Qualcomm, Apple extend licensing agreement for chips - Reuters",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "What's Going On With Qualcomm Stock Thursday",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), IP / Intellectual Property (2 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 33,
-      "topHeadline": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role - TipRanks",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (4 articles), Supply Chain (1 article). A total of 33 articles were aggregated from monitored sources."
+      "articleCount": 31,
+      "topHeadline": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (4 articles), Supply Chain (1 article). A total of 31 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 2,
-      "topHeadline": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
+      "topHeadlineId": "a16",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 5,
-      "topHeadline": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 10,
+      "topHeadline": "What's Going On With Qualcomm Stock Thursday",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 10 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 55
+  "totalArticles": 60
 }
