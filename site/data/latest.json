@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-09-24T06:47:34.533Z",
+  "generatedAt": "2026-09-24T12:55:19.938Z",
   "date": "2026-09-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 12,
-      "topHeadline": "Qualcomm Takes AI To The Edge With New Mobile Chips",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (9 articles), Semiconductors (3 articles). A total of 12 articles were aggregated from monitored sources."
+      "topHeadline": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
+      "topHeadlineId": "a10",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (8 articles), Semiconductors (2 articles), Wireless Communication (1 article). A total of 12 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm, Apple extend licensing agreement for chips - Reuters",
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
+      "articleCount": 33,
+      "topHeadline": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role - TipRanks",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (4 articles), Supply Chain (1 article). A total of 33 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 2,
+      "topHeadline": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 36
+  "totalArticles": 55
 }

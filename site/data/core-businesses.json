@@ -1,28 +1,97 @@
 {
-  "generatedAt": "2026-09-24T06:47:34.531Z",
+  "generatedAt": "2026-09-24T12:55:19.935Z",
   "date": "2026-09-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (9 articles), Semiconductors (3 articles). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (8 articles), Semiconductors (2 articles), Wireless Communication (1 article). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
+        "text": "Wireless Communication: The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-de",
         "articleIds": [
-          "a9"
+          "a10"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "IoT & XR: The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
+        "articleIds": [
+          "a12"
+        ],
+        "subCategory": "iot-xr"
+      },
+      {
+        "text": "Mobile Chips: Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
+        "articleIds": [
+          "a21"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: Lumentum shares rose after it announced an AI optical connectivity demonstration with Corning and Qualcomm at ECOC 2026, pairing its VCSEL lasers with high-density chip-to-chip links.",
         "articleIds": [
-          "a19"
+          "a34"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
+      "url": "https://finance.yahoo.com/technology/articles/5g-ntn-market-forecasts-growth-102300127.html?.tsrc=rss",
+      "description": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T10:23:00.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
+      "id": "a10"
+    },
+    {
+      "title": "Qualcomm to acquire robotics software firm PickNik",
+      "url": "https://www.verdict.co.uk/qualcomm-picknik-acquisition/?.tsrc=rss",
+      "description": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T09:26:58.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "iot-xr",
+      "subLabel": "IoT & XR",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
+      "id": "a12"
+    },
+    {
+      "title": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC - digitimes",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPQ3prZHFtQTFWSlVrZ0lTZFFtamJLVW1tcmVkZXNWcHgxaVd4ZzVhcnFSa2QzWFVJeVBzcFo1R1dOcHJVcnIwZWpxdUlhY3draUdTaXBEYjc4TmJqNGI3R2d3NmtHTFh1Rmx5MW5aV2hzMEtESkxZU0VqQzE0X09WN21JV2lQYWhUWmZuWmxVZm10Y0xUZUxQNg?oc=5",
+      "description": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T02:42:03.000Z",
+      "fetchedAt": "2026-09-24T12:55:19.873Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "digitimes",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
+      "id": "a21"
+    },
     {
       "title": "Qualcomm Takes AI To The Edge With New Mobile Chips",
       "url": "https://finance.yahoo.com/m/f48787c6-e989-38bd-bcc4-ddcf95b6703d/qualcomm-takes-ai-to-the-edge.html?.tsrc=rss",
@@ -31,7 +100,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T22:37:08.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +108,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm showed off new mobile processors to power edge devices running AI applications. Qualcomm stock dropped Wednesday.",
-      "id": "a9"
+      "id": "a27"
     },
     {
       "title": "How Qualcomm is transforming the car into a 'digital computer on wheels': CEO explains",
@@ -49,7 +118,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T21:23:21.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +126,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CEO and president Cristiano Amon sits down with In the Loop Host Ejaaz Ahamadeen at Qualcomm's annual Snapdragon Summit in Maui to discuss the company's innovations to the automotive industry, and how that's setting the stage for its future in robotics.",
-      "id": "a12"
+      "id": "a29"
     },
     {
       "title": "This is Humanity's Last Decision",
@@ -67,7 +136,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T20:30:51.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +144,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anthropic CEO Dario Amodei just told the entire AI industry to slam the brakes, warning that failure to do so will leave humanity staring down a catastrophe that could torch hundreds of billions of dollars globally. Within hours, Sam Altman, Elon Musk, and Demis Hassabis all agreed he was right. But while Anthropic's own head of alignment upped the stakes on humanity's odds of being wiped out by AI, skeptics call this a regulatory capture play that conveniently leaves China racing ahead. In The Loop host Ejaaz Ahamadeen breaks down who's actually right, who's spinning, and what this all means for humanity's future. Ejaaz then sits down with Qualcomm CEO Cristiano Amon to talk about the company's latest strides in AI from the Snapdragon Summit in Hawaii.",
-      "id": "a13"
+      "id": "a30"
     },
     {
       "title": "How Qualcomm is targeting agentic AI with its 2 new smartphone chips",
@@ -85,7 +154,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T19:50:58.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +162,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Yahoo Finance Technology Editor Dan Howley breaks down what investors need to know about Qualcomm's (QCOM) two new Snapdragon AI chips.",
-      "id": "a16"
+      "id": "a31"
     },
     {
       "title": "Lumentum Shares Are Up After an AI Optical Tech Partnership With Corning and Qualcomm. What This Means for LITE Stock.",
@@ -103,7 +172,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T18:32:30.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -111,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Lumentum shares rose after it announced an AI optical connectivity demonstration with Corning and Qualcomm at ECOC 2026, pairing its VCSEL lasers with high-density chip-to-chip links.",
-      "id": "a19"
+      "id": "a34"
     },
     {
       "title": "Qualcomm Falls 1% as Dual 2nm Chips Widen the AI Phone Bet",
@@ -121,7 +190,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T17:37:12.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -129,7 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nine announced device brands broaden Qualcomm's reach, but shipment volumes and chip economics remain undisclosed.",
-      "id": "a21"
+      "id": "a36"
     },
     {
       "title": "QCOM Launches Next-Gen Snapdragon SoCs: Will Agentic AI Drive Growth?",
@@ -139,7 +208,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T13:30:00.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -147,7 +216,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's new 2nm Snapdragon chips target agentic AI, faster on-device processing and premium smartphones, but handset pressures remain.",
-      "id": "a24"
+      "id": "a41"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -157,7 +226,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-24T06:47:16.263Z",
+      "fetchedAt": "2026-09-24T12:55:17.507Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -165,7 +234,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a25"
+      "id": "a42"
     },
     {
       "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
@@ -175,7 +244,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T08:05:00.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -183,61 +252,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-      "id": "a27"
-    },
-    {
-      "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
-      "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-launches-two-new-smartphone-chips-as-ai-push-intensifies-qcom-stock-edges-lower-after-hours/cZM5bWWRB7i?.tsrc=rss",
-      "description": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T21:47:40.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-      "id": "a28"
-    },
-    {
-      "title": "Qualcomm CFO on agentic AI and the race to the edge",
-      "url": "https://finance.yahoo.com/video/qualcomm-cfo-on-agentic-ai-and-the-race-to-the-edge-212500658.html?.tsrc=rss",
-      "description": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T21:25:00.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-      "id": "a30"
-    },
-    {
-      "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-      "url": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html?.tsrc=rss",
-      "description": "Qualcomm debuted its newest smartphone chips.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-22T20:00:00.000Z",
-      "fetchedAt": "2026-09-24T06:47:12.147Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm debuted its newest smartphone chips.",
-      "id": "a32"
+      "id": "a44"
     }
   ]
 }

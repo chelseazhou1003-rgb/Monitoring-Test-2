@@ -1,11 +1,71 @@
 {
-  "generatedAt": "2026-09-24T06:47:34.531Z",
+  "generatedAt": "2026-09-24T12:55:19.936Z",
   "date": "2026-09-24",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "market-performance: Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures ",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "IP / Intellectual Property: Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "ip"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-secures-long-term-apple-121538491.html?.tsrc=rss",
+      "description": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T12:15:38.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
+      "id": "a2"
+    },
+    {
+      "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomm-announces-renewal-global-patent-113000391.html?.tsrc=rss",
+      "description": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+      "id": "a9"
+    }
+  ]
 }

@@ -1,11 +1,90 @@
 {
-  "generatedAt": "2026-09-24T06:47:34.531Z",
+  "generatedAt": "2026-09-24T12:55:19.935Z",
   "date": "2026-09-24",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "FRAND & Licensing: Qualcomm, Apple extend licensing agreement for chips Reuters",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "frand-licensing"
+      },
+      {
+        "text": "IP / Intellectual Property: Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "ip"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm, Apple extend licensing agreement for chips - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
+      "description": "Qualcomm, Apple extend licensing agreement for chips Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T11:44:56.000Z",
+      "fetchedAt": "2026-09-24T12:55:18.686Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm, Apple extend licensing agreement for chips Reuters",
+      "id": "a6"
+    },
+    {
+      "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
+      "url": "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027",
+      "description": "Qualcomm Inc. said it has renewed its global licensing pact with Apple Inc., effective in April 2027, ensuring the iPhone maker will remain a key customer in the near term.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T11:38:38.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.947Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "said it has renewed its global licensing pact with Apple Inc., effective in April 2027, ensuring the iPhone maker will remain a key customer in the near term.",
+      "id": "a7"
+    },
+    {
+      "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomm-announces-renewal-global-patent-113000391.html?.tsrc=rss",
+      "description": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T11:30:00.000Z",
+      "fetchedAt": "2026-09-24T12:55:13.727Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
+      "id": "a9"
+    }
+  ]
 }
