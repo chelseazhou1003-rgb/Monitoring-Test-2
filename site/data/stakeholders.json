@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-24T01:40:28.141Z",
+  "generatedAt": "2026-09-24T06:47:34.531Z",
   "date": "2026-09-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (2 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
         "articleIds": [
-          "a7"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: The Surface Pro 12-inch Second Edition comes in black, silver, or violet. | Image: Microsoft Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest S",
         "articleIds": [
-          "a10"
+          "a14"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "market-performance: QUALCOMM (QCOM) is back in the spotlight after confirming it will present at the Humanoids Summit in Seoul on 22 September 2026, drawing fresh attention to its role in AI focused chips. QUALCOMM’s sha",
         "articleIds": [
-          "a17"
+          "a20"
         ],
         "subCategory": "market-performance"
       }
@@ -37,8 +37,8 @@
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-23T21:22:30.000Z",
-      "fetchedAt": "2026-09-24T01:40:15.002Z",
+      "publishedAt": "2026-09-24T05:55:26.000Z",
+      "fetchedAt": "2026-09-24T06:47:11.966Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -49,7 +49,7 @@
         "regulators"
       ],
       "summary": "The DOJ on Tuesday night cited national security concerns in justifying President Trump's ban of MS NOW, CNN and Politico from the White House.",
-      "id": "a7"
+      "id": "a1"
     },
     {
       "title": "Microsoft refreshes its smaller Surface Pro and Laptop with Qualcomm’s X2 Plus",
@@ -59,7 +59,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-23T20:30:00.000Z",
-      "fetchedAt": "2026-09-24T01:40:15.936Z",
+      "fetchedAt": "2026-09-24T06:47:12.573Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -69,7 +69,7 @@
         "platform-partner"
       ],
       "summary": "The Surface Pro 12-inch Second Edition comes in black, silver, or violet. | Image: Microsoft Microsoft is refreshing its Surface Pro 12-inch and Surface Laptop 13-inch devices with Qualcomm's latest Snapdragon X2 Plus chips. The smaller Surface devices retain the same design and hardware features from last year, with faster and more capable chips inside and higher price tags (thanks RAMageddon!). While the 12-inch Surface Pro started at $799.99 last year, it's debuting on October 13th at a starting price of $1,149.99. Likewise, the 13-inch Surface Laptop was originally priced at $899.99, but it's up to $1,199.99 this time around.",
-      "id": "a10"
+      "id": "a14"
     },
     {
       "title": "QUALCOMM (QCOM) Draws Fresh AI Focus As Valuation Looks Close To Fair Value",
@@ -79,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-23T18:15:53.000Z",
-      "fetchedAt": "2026-09-24T01:40:15.064Z",
+      "fetchedAt": "2026-09-24T06:47:12.147Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,50 +89,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM (QCOM) is back in the spotlight after confirming it will present at the Humanoids Summit in Seoul on 22 September 2026, drawing fresh attention to its role in AI focused chips. QUALCOMM’s share price has picked up pace recently, with a 1-day share price return of 2.08%, a 7-day move of 5.58% and a 30-day share price gain of 23.34%, helped by AI chip launches, the Amazon data center deal and easing US China trade concerns. At the same time, the longer term picture remains strong, with...",
-      "id": "a17"
-    },
-    {
-      "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-      "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-      "description": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-23T15:11:28.000Z",
-      "fetchedAt": "2026-09-24T01:40:15.003Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-      "id": "a21"
-    },
-    {
-      "title": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - AOL.com",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBfeU1vYTdCQm9tMnpvOExqVEZLSnQyVkk3ZnpZSk44VzdlUkpIZGdhVUxsWEpHZ285LU9OOUpBN2FzTUpCMlhwbWJuTmxpVFhnbDVlNHMtMnYzbUN3YnRlVG9CNFRKLVVjUGRCbFBoSW8xM2FfaGVuV3lJZ0E4Zw?oc=5",
-      "description": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ AOL.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-23T09:08:16.000Z",
-      "fetchedAt": "2026-09-24T01:40:28.089Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "AOL.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ AOL.com",
-      "id": "a28"
+      "id": "a20"
     },
     {
       "title": "Meta’s Muse just changed the AI game",
@@ -142,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-22T21:31:33.000Z",
-      "fetchedAt": "2026-09-24T01:40:15.064Z",
+      "fetchedAt": "2026-09-24T06:47:12.147Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -152,7 +109,7 @@
         "platform-partner"
       ],
       "summary": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
-      "id": "a41"
+      "id": "a29"
     }
   ]
 }
