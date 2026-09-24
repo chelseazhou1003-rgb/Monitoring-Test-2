@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T23:13:47.847Z",
+  "generatedAt": "2026-09-24T01:40:28.144Z",
   "date": "2026-09-24",
   "sections": {
     "core-businesses": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 39,
-      "topHeadline": "Asean must watch US-China deal on AI - Free Malaysia Today",
+      "articleCount": 32,
+      "topHeadline": "U.S.-China trade truce extended for two months, Bessent says, as Xi begins state visit",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (34 articles), market-performance (2 articles), Customers & Partners (2 articles). A total of 39 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (27 articles), market-performance (2 articles), Customers & Partners (2 articles). A total of 32 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 6,
       "topHeadline": "Judge hears arguments on Trump White House media ban, hopes to rule 'soon'",
-      "topHeadlineId": "a8",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (2 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 57
+  "totalArticles": 50
 }
