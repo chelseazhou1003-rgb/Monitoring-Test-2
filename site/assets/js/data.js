@@ -2,37 +2,59 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "FRAND & Licensing: The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
+          "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
           "articleIds": [
-            "a16"
+            "a8"
           ],
           "subCategory": "frand-licensing"
         },
         {
-          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
           "articleIds": [
-            "a20"
+            "a24"
           ],
           "subCategory": "ip"
         },
         {
           "text": "market-performance: Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures ",
           "articleIds": [
-            "a23"
+            "a27"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+        "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+        "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-24T18:32:11.000Z",
+        "fetchedAt": "2026-09-24T21:51:05.440Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "frand-licensing",
+        "subLabel": "FRAND & Licensing",
+        "competitors": [
+          "apple"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "id": "a8"
+      },
       {
         "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
         "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-renews-global-apple-patent-license-extends-key-licensing-relationship-into-2027/cZMJP0WRB9i?.tsrc=rss",
@@ -41,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T14:08:32.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -54,19 +76,19 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-        "id": "a16"
+        "id": "a21"
       },
       {
-        "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+        "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-        "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+        "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
         "source": "Reuters",
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:55:11.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.661Z",
+        "fetchedAt": "2026-09-24T21:51:05.890Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
+        "googleNewsSource": "reuters.com",
         "section": "ip-legal",
         "subCategory": "ip",
         "subLabel": "IP / Intellectual Property",
@@ -76,8 +98,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-        "id": "a20"
+        "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+        "id": "a24"
       },
       {
         "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -87,7 +109,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:15:38.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -99,7 +121,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-        "id": "a23"
+        "id": "a27"
       },
       {
         "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -109,7 +131,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T11:30:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -121,20 +143,20 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-        "id": "a27"
+        "id": "a30"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Here’s what’s next for Qualcomm and its AI ambition.",
+          "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
           "articleIds": [
             "a2"
           ],
@@ -143,47 +165,13 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
           "articleIds": [
-            "a9"
+            "a17"
           ],
           "subCategory": "mobile-chips"
-        },
-        {
-          "text": "Wireless Communication: The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-de",
-          "articleIds": [
-            "a28"
-          ],
-          "subCategory": "wireless"
-        },
-        {
-          "text": "IoT & XR: The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-          "articleIds": [
-            "a29"
-          ],
-          "subCategory": "iot-xr"
         }
       ]
     },
     "articles": [
-      {
-        "title": "Qualcomm CFO says look beyond the Apple deal",
-        "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
-        "description": "Here’s what’s next for Qualcomm and its AI ambition.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T17:36:35.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-        "id": "a2"
-      },
       {
         "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
         "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
@@ -191,8 +179,8 @@ export const NEWS_DATA = {
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:09:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "publishedAt": "2026-09-24T20:41:00.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -202,7 +190,45 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-        "id": "a8"
+        "id": "a2"
+      },
+      {
+        "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+        "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+        "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-24T19:00:42.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.381Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+        "id": "a5"
+      },
+      {
+        "title": "Qualcomm CFO says look beyond the Apple deal",
+        "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
+        "description": "Here’s what’s next for Qualcomm and its AI ambition.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T17:36:35.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
+        "id": "a12"
       },
       {
         "title": "Can QCOM's Snapdragon Sound Elite Gen 2 for AI Wearables Drive Growth?",
@@ -212,7 +238,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T15:54:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -220,7 +246,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
-        "id": "a9"
+        "id": "a17"
       },
       {
         "title": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
@@ -230,7 +256,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T14:05:05.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -238,7 +264,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Cisco both raise their dividends every year and both are racing into AI infrastructure, but their capital allocation priorities point in completely different directions for a retiree who needs the income to be reliable.",
-        "id": "a17"
+        "id": "a22"
       },
       {
         "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -248,7 +274,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-24T13:47:21.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.705Z",
+        "fetchedAt": "2026-09-24T21:51:04.792Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -258,7 +284,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-        "id": "a19"
+        "id": "a23"
       },
       {
         "title": "Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?",
@@ -268,7 +294,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:54:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -276,43 +302,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm has more upside because its AI data center push is still underappreciated, while Marvell's AI growth story is already well known.",
-        "id": "a21"
-      },
-      {
-        "title": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
-        "url": "https://finance.yahoo.com/technology/articles/5g-ntn-market-forecasts-growth-102300127.html?.tsrc=rss",
-        "description": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T10:23:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "wireless",
-        "subLabel": "Wireless Communication",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-        "id": "a28"
-      },
-      {
-        "title": "Qualcomm to acquire robotics software firm PickNik",
-        "url": "https://www.verdict.co.uk/qualcomm-picknik-acquisition/?.tsrc=rss",
-        "description": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T09:26:58.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "iot-xr",
-        "subLabel": "IoT & XR",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-        "id": "a29"
+        "id": "a25"
       },
       {
         "title": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC - digitimes",
@@ -322,7 +312,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T02:42:03.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "section": "core-businesses",
@@ -331,7 +321,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
-        "id": "a33"
+        "id": "a34"
       },
       {
         "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -341,7 +331,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-23T08:35:07.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.705Z",
+        "fetchedAt": "2026-09-24T21:51:04.792Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -349,46 +339,97 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-        "id": "a42"
+        "id": "a40"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+      "keyTakeaways": [
+        {
+          "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+          "articleIds": [
+            "a3"
+          ],
+          "subCategory": "data-center"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html?.tsrc=rss",
+        "description": "Oracle is tumbling. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T20:32:00.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+        "id": "a3"
+      }
+    ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), IP / Intellectual Property (2 articles). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), IP / Intellectual Property (2 articles). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "FRAND & Licensing: Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+          "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
           "articleIds": [
-            "a1"
+            "a8"
           ],
           "subCategory": "frand-licensing"
         },
         {
-          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
           "articleIds": [
-            "a20"
+            "a24"
           ],
           "subCategory": "ip"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+        "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+        "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-24T18:32:11.000Z",
+        "fetchedAt": "2026-09-24T21:51:05.440Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "frand-licensing",
+        "subLabel": "FRAND & Licensing",
+        "competitors": [
+          "apple"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "id": "a8"
+      },
       {
         "title": "What's Going On With Qualcomm Stock Thursday",
         "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
@@ -397,7 +438,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T17:49:16.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -407,7 +448,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-        "id": "a1"
+        "id": "a11"
       },
       {
         "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -417,7 +458,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T14:08:32.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -430,19 +471,19 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-        "id": "a16"
+        "id": "a21"
       },
       {
-        "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+        "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-        "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+        "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
         "source": "Reuters",
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:55:11.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.661Z",
+        "fetchedAt": "2026-09-24T21:51:05.890Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
+        "googleNewsSource": "reuters.com",
         "section": "ip-legal",
         "subCategory": "ip",
         "subLabel": "IP / Intellectual Property",
@@ -452,8 +493,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-        "id": "a20"
+        "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+        "id": "a24"
       },
       {
         "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
@@ -463,7 +504,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T11:38:38.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -473,7 +514,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -483,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T11:30:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -495,85 +536,85 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-        "id": "a27"
+        "id": "a30"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-09-24T17:59:11.959Z",
+    "generatedAt": "2026-09-24T21:51:07.099Z",
     "date": "2026-09-25",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 10,
-        "topHeadline": "Qualcomm CFO says look beyond the Apple deal",
+        "articleCount": 9,
+        "topHeadline": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
         "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 5,
-        "topHeadline": "What's Going On With Qualcomm Stock Thursday",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), IP / Intellectual Property (2 articles). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), IP / Intellectual Property (2 articles). A total of 6 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 1,
+        "topHeadline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+        "topHeadlineId": "a3",
+        "briefingSummary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 31,
-        "topHeadline": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (4 articles), Supply Chain (1 article). A total of 31 articles were aggregated from monitored sources."
+        "articleCount": 27,
+        "topHeadline": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (4 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
-        "topHeadlineId": "a16",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 5,
+        "topHeadline": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 10,
-        "topHeadline": "What's Going On With Qualcomm Stock Thursday",
+        "articleCount": 14,
+        "topHeadline": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 10 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 14 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 60
+    "totalArticles": 62
   },
   "macro-environment": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (4 articles), Supply Chain (1 article). A total of 31 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (4 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty ",
+          "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
           "articleIds": [
-            "a3"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next m",
-          "articleIds": [
-            "a5"
+            "a1"
           ],
           "subCategory": "market-performance"
         },
         {
+          "text": "Geopolitics & Export Controls: Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
           "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
           "articleIds": [
-            "a45"
+            "a43"
           ],
           "subCategory": "supply-chain"
         }
@@ -581,109 +622,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-24/dutch-prime-minister-has-discussed-match-act-with-trump-video",
-        "description": "Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty sure we come to some agreement that is workable for each and every one.” (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T17:33:48.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty sure we come to some agreement that is workable for each and every one.” (Source: Bloomberg)",
-        "id": "a3"
-      },
-      {
-        "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
-        "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
-        "description": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:26:47.000Z",
-        "fetchedAt": "2026-09-24T17:59:05.794Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-        "id": "a4"
-      },
-      {
-        "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-qcom-1-162458249.html?.tsrc=rss",
-        "description": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:24:58.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
-        "id": "a5"
-      },
-      {
-        "title": "Trump-Xi Summit, Oracle Buildout Hits New Hurdle",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-24/open-interest-9-24-2026-video",
-        "description": "A global bond rout sends the 30-year yield to a 22-year high. President Trump and China President Xi meet today after extending the US, China trade truce. Elizabeth Economy breaks down Washington’s fading leverage over Beijing. Plus, oil surges as tensions with Iran escalate. And tech billionaire Vinod Khosla joins us on why America can’t slow the AI race. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:22:23.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A global bond rout sends the 30-year yield to a 22-year high. President Trump and China President Xi meet today after extending the US, China trade truce. Elizabeth Economy breaks down Washington’s fading leverage over Beijing. Plus, oil surges as tensions with Iran escalate. And tech billionaire Vinod Khosla joins us on why America can’t slow the AI race.",
-        "id": "a6"
-      },
-      {
-        "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlh2MWR0Wm81Y1FKdUZZeVJNbmp5Q09HNE52ZkhJZmhBZTVtN2ZMUEIzSDM3OFI3T0JuenhGcF90aHdhS3BlSHJ5dTZuVWVNNTZodGd1N2UwYVFLd21MeDllUklrb1JPVVJfU05nWDJ1ODhTaHhJVkJ4R0xXT0JZTUVlbGZNVHZXR1hGN1d1RjZEbEFiUlZPTjNmQ29FYkJaU1U0SGFDbHluemdtZmVuazdSOUVZQmpvcHdxaTRKQndwWk5Z?oc=5",
-        "description": "Gucci's new 'Made in China' sneaker models break with Italian tradition Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:19:43.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.661Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Gucci's new 'Made in China' sneaker models break with Italian tradition Reuters",
-        "id": "a7"
-      },
-      {
         "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
         "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
         "description": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T15:47:59.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "publishedAt": "2026-09-24T20:42:17.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -693,17 +639,17 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-        "id": "a10"
+        "id": "a1"
       },
       {
-        "title": "US Leverage Over China Is Fading: Economy",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-24/us-leverage-over-china-is-fading-economy-video",
-        "description": "Elizabeth Economy, a former Biden administration China adviser and a senior fellow at the Hoover Institution, joins Bloomberg Open Interest to break down what could emerge from US-China talks beyond the diplomatic spectacle. She sees potential cooperation on AI security, but warns Washington’s traditional leverage is weakening. From Iranian oil and semiconductor controls to rare earths and trade commitments, Economy argues the US will increasingly need allies to pressure Beijing. (Source: Bloomberg)",
+        "title": "AI Policy An Opportunity For 'Bipartisan Step Forward,' Says Miriam Vogel",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/ai-an-opportunity-for-bipartisan-step-forward-vogel-video",
+        "description": "Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an 'opportunity for a bipartisan step forward.' Vogel also weighed in on the AI race between the US and China, saying that China is using a 'whole of government approach' with the technology. (Source: Bloomberg)",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T15:28:20.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
+        "publishedAt": "2026-09-24T18:55:14.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -711,28 +657,163 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Elizabeth Economy, a former Biden administration China adviser and a senior fellow at the Hoover Institution, joins Bloomberg Open Interest to break down what could emerge from US-China talks beyond the diplomatic spectacle. She sees potential cooperation on AI security, but warns Washington’s traditional leverage is weakening. From Iranian oil and semiconductor controls to rare earths and trade commitments, Economy argues the US will increasingly need allies to pressure Beijing.",
-        "id": "a11"
+        "summary": "Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an 'opportunity for a bipartisan step forward.' Vogel also weighed in on the AI race between the US and China, saying that China is using a 'whole of government approach' with the technology.",
+        "id": "a6"
       },
       {
-        "title": "America’s AI push in Southeast Asia faces a China problem - politico.com",
-        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHRJRFB0aWhzNXdfb3R0NXdOdzQyZzlWMW5fdHZORXpQQnNZTlVrdGVPQkRvTUo4cVJZdDA1Z29ibTVWcEZuRUFrVDNxeE1BNXJVY05hc01SZGUyalpETURSQ3Jjdy10MHA3dTNoSHhnTVY0a3NLYm56S0VsZGx4QWR5b2UwcExLMmpWMnBMc04?oc=5",
-        "description": "America’s AI push in Southeast Asia faces a China problem politico.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
+        "title": "AI Takes Center Stage From Oracle to the White House",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video",
+        "description": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T14:51:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "politico.com",
+        "publishedAt": "2026-09-24T18:35:43.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
+        "id": "a7"
+      },
+      {
+        "title": "AI Emerges as a Flashpoint in Trump-Xi Talks",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/ai-emerges-as-a-flashpoint-in-trump-xi-talks-video",
+        "description": "The US-China AI race is emerging as a key issue surrounding talks between President Donald Trump and Xi Jinping, as Chinese open-weight models close the gap with leading US systems. Rhodium Group’s Reva Goujon discusses tensions over AI safety and export controls, divisions within the Trump administration over potential guardrails, and how technology restrictions, critical minerals and Taiwan factor into the broader US-China negotiations. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T18:31:10.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
+        "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "America’s AI push in Southeast Asia faces a China problem politico.com",
-        "id": "a12"
+        "summary": "The US-China AI race is emerging as a key issue surrounding talks between President Donald Trump and Xi Jinping, as Chinese open-weight models close the gap with leading US systems. Rhodium Group’s Reva Goujon discusses tensions over AI safety and export controls, divisions within the Trump administration over potential guardrails, and how technology restrictions, critical minerals and Taiwan factor into the broader US-China negotiations. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+        "id": "a9"
+      },
+      {
+        "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+        "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+        "description": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T17:53:11.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.975Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+        "id": "a10"
+      },
+      {
+        "title": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/dutch-prime-minister-has-discussed-match-act-with-trump-video",
+        "description": "Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty sure we come to some agreement that is workable for each and every one.” (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T17:33:48.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty sure we come to some agreement that is workable for each and every one.” (Source: Bloomberg)",
+        "id": "a13"
+      },
+      {
+        "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
+        "url": "https://www.cnbc.com/2026/09/24/trump-xi-meeting-china-washington.html",
+        "description": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T16:26:47.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.463Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
+        "id": "a14"
+      },
+      {
+        "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-qcom-1-162458249.html?.tsrc=rss",
+        "description": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T16:24:58.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
+        "id": "a15"
+      },
+      {
+        "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition - reuters.com",
+        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlh2MWR0Wm81Y1FKdUZZeVJNbmp5Q09HNE52ZkhJZmhBZTVtN2ZMUEIzSDM3OFI3T0JuenhGcF90aHdhS3BlSHJ5dTZuVWVNNTZodGd1N2UwYVFLd21MeDllUklrb1JPVVJfU05nWDJ1ODhTaHhJVkJ4R0xXT0JZTUVlbGZNVHZXR1hGN1d1RjZEbEFiUlZPTjNmQ29FYkJaU1U0SGFDbHluemdtZmVuazdSOUVZQmpvcHdxaTRKQndwWk5Z?oc=5",
+        "description": "Gucci's new 'Made in China' sneaker models break with Italian tradition reuters.com",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T16:19:43.000Z",
+        "fetchedAt": "2026-09-24T21:51:05.890Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "reuters.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Gucci's new 'Made in China' sneaker models break with Italian tradition reuters.com",
+        "id": "a16"
+      },
+      {
+        "title": "America’s AI push in Southeast Asia faces a China problem - Politico",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHRJRFB0aWhzNXdfb3R0NXdOdzQyZzlWMW5fdHZORXpQQnNZTlVrdGVPQkRvTUo4cVJZdDA1Z29ibTVWcEZuRUFrVDNxeE1BNXJVY05hc01SZGUyalpETURSQ3Jjdy10MHA3dTNoSHhnTVY0a3NLYm56S0VsZGx4QWR5b2UwcExLMmpWMnBMc04?oc=5",
+        "description": "America’s AI push in Southeast Asia faces a China problem Politico",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T14:51:00.000Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Politico",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "America’s AI push in Southeast Asia faces a China problem Politico",
+        "id": "a18"
       },
       {
         "title": "Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds",
@@ -742,7 +823,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T14:36:13.000Z",
-        "fetchedAt": "2026-09-24T17:59:05.794Z",
+        "fetchedAt": "2026-09-24T21:51:01.463Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -751,26 +832,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Inflation displaced tariffs as family offices' top investment concern in 2026, per a new Citi Wealth survey.",
-        "id": "a13"
-      },
-      {
-        "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-        "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-        "description": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T14:16:27.000Z",
-        "fetchedAt": "2026-09-24T17:59:05.794Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-        "id": "a14"
+        "id": "a19"
       },
       {
         "title": "China Telecom is all-in on AI tokens despite cost warnings",
@@ -780,7 +842,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-24T14:10:12.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.881Z",
+        "fetchedAt": "2026-09-24T21:51:05.356Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -789,26 +851,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Telcos are transforming from managing bit traffic to managing tokens, China Telecom says, despite warnings about cost.",
-        "id": "a15"
-      },
-      {
-        "title": "Khosla: America Can’t Slow AI",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-24/khosla-america-can-t-slow-ai-video",
-        "description": "Vinod Khosla, an early investor of OpenAI and the founder of Khosla Ventures, says slowing AI development could hand China a strategic advantage. He joined Bloomberg Open Interest to argue that America should accelerate AI and energy infrastructure while protecting workers displaced by automation, not their individual jobs. He also says Silicon Valley has failed to clearly communicate AI’s potential benefits in healthcare, education and economic growth. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T13:48:23.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Vinod Khosla, an early investor of OpenAI and the founder of Khosla Ventures, says slowing AI development could hand China a strategic advantage. He joined Bloomberg Open Interest to argue that America should accelerate AI and energy infrastructure while protecting workers displaced by automation, not their individual jobs. He also says Silicon Valley has failed to clearly communicate AI’s potential benefits in healthcare, education and economic growth.",
-        "id": "a18"
+        "id": "a20"
       },
       {
         "title": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role - TipRanks",
@@ -818,7 +861,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:44:19.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TipRanks",
         "geopoliticalBypass": true,
@@ -828,7 +871,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role TipRanks",
-        "id": "a22"
+        "id": "a26"
       },
       {
         "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -838,7 +881,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:15:38.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -850,7 +893,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-        "id": "a23"
+        "id": "a27"
       },
       {
         "title": "Hong Kong’s pledge to become IP trading center is ‘game-changer’, but requires more than policy and financing platforms",
@@ -860,7 +903,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-24T11:59:48.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.017Z",
+        "fetchedAt": "2026-09-24T21:51:05.440Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -869,26 +912,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Lawyers from both HK and China shared their thoughts on Hong Kong’s new Five-Year Plan, which pledges to transform it into a regional IP trading center. While they were generally positive, some were skeptical, highlighting that China’s own experience suggests government policy and trading platforms alone cannot create a liquid market for IP.",
-        "id": "a24"
-      },
-      {
-        "title": "Xi says US-China competition should be ‘healthy’ at White House summit",
-        "url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
-        "description": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T11:48:36.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.255Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
-        "id": "a25"
+        "id": "a28"
       },
       {
         "title": "Minister Puisto to attend Competitiveness Council debate on EU Chips Act and merger control - Valtioneuvosto",
@@ -898,7 +922,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T06:35:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Valtioneuvosto",
         "geopoliticalBypass": true,
@@ -908,7 +932,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Minister Puisto to attend Competitiveness Council debate on EU Chips Act and merger control Valtioneuvosto",
-        "id": "a30"
+        "id": "a31"
       },
       {
         "title": "ACM Research (ACMR) Jumps On China Debate As Undervalued View Holds - simplywall.st",
@@ -918,7 +942,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T05:54:53.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "simplywall.st",
         "geopoliticalBypass": true,
@@ -928,7 +952,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ACM Research (ACMR) Jumps On China Debate As Undervalued View Holds simplywall.st",
-        "id": "a31"
+        "id": "a32"
       },
       {
         "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' - CNBC",
@@ -938,7 +962,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T03:38:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "CNBC",
         "geopoliticalBypass": true,
@@ -948,7 +972,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' CNBC",
-        "id": "a32"
+        "id": "a33"
       },
       {
         "title": "AI export controls debate rages as Trump, Xi meet - Roll Call",
@@ -958,7 +982,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T01:54:59.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Roll Call",
         "geopoliticalBypass": true,
@@ -968,7 +992,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AI export controls debate rages as Trump, Xi meet Roll Call",
-        "id": "a34"
+        "id": "a35"
       },
       {
         "title": "China-US AI synergy driven by realities of marketplace - Asia News Network",
@@ -978,7 +1002,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T01:26:10.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Asia News Network",
         "geopoliticalBypass": true,
@@ -988,27 +1012,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China-US AI synergy driven by realities of marketplace Asia News Network",
-        "id": "a35"
+        "id": "a36"
       },
       {
-        "title": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - Reuters",
+        "title": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - reuters.com",
         "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5",
-        "description": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping Reuters",
+        "description": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping reuters.com",
         "source": "Reuters",
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T01:02:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.661Z",
+        "fetchedAt": "2026-09-24T21:51:05.890Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
+        "googleNewsSource": "reuters.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping Reuters",
-        "id": "a36"
+        "summary": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping reuters.com",
+        "id": "a37"
       },
       {
         "title": "Why US–China decoupling matters for Australian business - Capital Brief",
@@ -1018,7 +1042,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T00:56:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Capital Brief",
         "geopoliticalBypass": true,
@@ -1028,7 +1052,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Why US–China decoupling matters for Australian business Capital Brief",
-        "id": "a37"
+        "id": "a38"
       },
       {
         "title": "Asean must watch US-China deal on AI - Free Malaysia Today",
@@ -1038,7 +1062,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-23T23:01:55.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
+        "fetchedAt": "2026-09-24T21:51:07.044Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Free Malaysia Today",
         "geopoliticalBypass": true,
@@ -1048,66 +1072,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Asean must watch US-China deal on AI Free Malaysia Today",
-        "id": "a38"
-      },
-      {
-        "title": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkdwVHFyQVdzOFp6VlVZR2VJRzZ5aXVNSnFaUXRYVC13bWJRUUZCTHl0NzVhUnR1anhZdG5IU0RJQ0FDcDlRdmY1aVNCcm4yR3VzaHFxeVpKTnZIdnVzSXZadUt5ODVJdkhDZEFGTHQ2bEJmX1lvTkR5SVkyVHJTODRFdVE?oc=5",
-        "description": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development 조선일보",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-23T21:49:57.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "조선일보",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development 조선일보",
         "id": "a39"
-      },
-      {
-        "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-        "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-        "description": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-23T21:25:01.000Z",
-        "fetchedAt": "2026-09-24T17:59:05.794Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-        "id": "a40"
-      },
-      {
-        "title": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTjQ4QUItdVp4bjFJZUVYc3BQaFVHeUFKYmZrTTlJNWRZa3dvT1FCU0w2YkNScEVTYUtNMGQ1YTZDcklndFFFaXo4VDk5LTg4NzYya0JUSXJ0N0VPT2gtTHNrSTMzYWFjc05mWEdKSS1OMlBXNm0tVTNxS3dnLUIxQ1QzZVRJRTU3Z0FPbU1ZUGs3MmR6R2pQbFkwMmREb2haR250MmlIYWdKVVdUUENkdG9ndi1WRmVPS2VMREFvNW1nSFlMejRvV2RIRUZrWGdNSW1velVFX0lWZHdyY0RuWWpwNzE4VXBZUkJMZTZ6aUU0MjRkQ0lfQVBrczVCbzBpcEhCZW9SeUJyaE5I0gGMAkFVX3lxTE1ONDhBQi11WnhuMUllRVhzcFBoVUd5QUpiZmtNOUk1ZFlrd29PUUJTTDZiQ1JwRVNhS00wZDVhNkNySWd0UUVpejhUOTktODg3NjJrQlRJcnQ3RU9PaC1Mc2tJMzNhYWNzTmZYR0pJLU4yUFc2bS1VM3FLd2ctQjFDVDNlVElFNTdnQU9tTVlQazcyZHpHalBsWTAyZERvaFpHbnQyaUhhZ0pVV1RQQ2R0b2d2LVZGZU9LZUxEQW81bWdIWUx6NG9XZEhFRmtYZ01JbW96VUVfSVZkd3JjRG5ZanA3MThVcFlSQkxlNnppRTQyNGRDSV9BUGtzNUJvMGlwSEJlb1J5QnJoTkg?oc=5",
-        "description": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China The Economic Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-23T18:58:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:11.903Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Economic Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China The Economic Times",
-        "id": "a41"
       },
       {
         "title": "Implications of China’s fresh judicial opinion on AI for IP owners and litigants",
@@ -1117,7 +1082,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-23T08:20:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:07.942Z",
+        "fetchedAt": "2026-09-24T21:51:03.597Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1126,7 +1091,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Supreme Court’s first issued document guiding the adjudication of AI-related disputes is set to have a significant practical influence on how both rights holders and the courts approach complex issues, such as the allocation of responsibility and treatment of technical evidence.",
-        "id": "a43"
+        "id": "a41"
       },
       {
         "title": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
@@ -1136,7 +1101,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-22T20:39:54.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.017Z",
+        "fetchedAt": "2026-09-24T21:51:05.440Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1145,7 +1110,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose tariffs on polysilicon imports from China and elsewhere.",
-        "id": "a44"
+        "id": "a42"
       },
       {
         "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
@@ -1155,7 +1120,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-22T14:42:30.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.881Z",
+        "fetchedAt": "2026-09-24T21:51:05.356Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1164,7 +1129,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-        "id": "a45"
+        "id": "a43"
       },
       {
         "title": "Alibaba underlines AI ambitions with new models, chip",
@@ -1174,7 +1139,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-22T11:14:21.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.705Z",
+        "fetchedAt": "2026-09-24T21:51:04.792Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1183,7 +1148,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-        "id": "a46"
+        "id": "a44"
       }
     ]
   },
@@ -1379,38 +1344,59 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-24T17:59:11.956Z",
+    "generatedAt": "2026-09-24T21:51:07.096Z",
     "date": "2026-09-25",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 10 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 14 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "FRAND & Licensing: Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+          "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "frand-licensing"
+          "subCategory": "market-performance"
         },
         {
-          "text": "Semiconductors: Here’s what’s next for Qualcomm and its AI ambition.",
+          "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
           "articleIds": [
             "a2"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
+          "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
           "articleIds": [
-            "a10"
+            "a3"
           ],
-          "subCategory": "market-performance"
+          "subCategory": "data-center"
         },
         {
-          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+          "text": "Platform & Ecosystem Partners: Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's",
           "articleIds": [
-            "a20"
+            "a4"
+          ],
+          "subCategory": "platform-partner"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out w",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "frand-licensing"
+        },
+        {
+          "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+          "articleIds": [
+            "a24"
           ],
           "subCategory": "ip"
         }
@@ -1418,74 +1404,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "What's Going On With Qualcomm Stock Thursday",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
-        "description": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T17:49:16.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-        "id": "a1"
-      },
-      {
-        "title": "Qualcomm CFO says look beyond the Apple deal",
-        "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
-        "description": "Here’s what’s next for Qualcomm and its AI ambition.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T17:36:35.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-        "id": "a2"
-      },
-      {
-        "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
-        "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
-        "description": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T16:09:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-        "id": "a8"
-      },
-      {
         "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
         "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
         "description": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-24T15:47:59.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "publishedAt": "2026-09-24T20:42:17.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1495,7 +1421,150 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-        "id": "a10"
+        "id": "a1"
+      },
+      {
+        "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
+        "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
+        "description": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T20:41:00.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+        "id": "a2"
+      },
+      {
+        "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+        "url": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html?.tsrc=rss",
+        "description": "Oracle is tumbling. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T20:32:00.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+        "id": "a3"
+      },
+      {
+        "title": "Meta's new AI device changes everything",
+        "url": "https://finance.yahoo.com/video/metas-ai-device-changes-everything-200013025.html?.tsrc=rss",
+        "description": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T20:00:13.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
+        "id": "a4"
+      },
+      {
+        "title": "AI Takes Center Stage From Oracle to the White House",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video",
+        "description": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T18:35:43.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
+        "id": "a7"
+      },
+      {
+        "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+        "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+        "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-24T18:32:11.000Z",
+        "fetchedAt": "2026-09-24T21:51:05.440Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "frand-licensing",
+        "subLabel": "FRAND & Licensing",
+        "competitors": [
+          "apple"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+        "id": "a8"
+      },
+      {
+        "title": "What's Going On With Qualcomm Stock Thursday",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
+        "description": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T17:49:16.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "frand-licensing",
+        "subLabel": "FRAND & Licensing",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+        "id": "a11"
+      },
+      {
+        "title": "Qualcomm CFO says look beyond the Apple deal",
+        "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
+        "description": "Here’s what’s next for Qualcomm and its AI ambition.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-24T17:36:35.000Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
+        "id": "a12"
       },
       {
         "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -1505,7 +1574,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T14:08:32.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -1518,7 +1587,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-        "id": "a16"
+        "id": "a21"
       },
       {
         "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -1528,7 +1597,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-24T13:47:21.000Z",
-        "fetchedAt": "2026-09-24T17:59:09.705Z",
+        "fetchedAt": "2026-09-24T21:51:04.792Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1538,19 +1607,19 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-        "id": "a19"
+        "id": "a23"
       },
       {
-        "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+        "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
         "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-        "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+        "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
         "source": "Reuters",
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:55:11.000Z",
-        "fetchedAt": "2026-09-24T17:59:10.661Z",
+        "fetchedAt": "2026-09-24T21:51:05.890Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
+        "googleNewsSource": "reuters.com",
         "section": "ip-legal",
         "subCategory": "ip",
         "subLabel": "IP / Intellectual Property",
@@ -1560,8 +1629,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-        "id": "a20"
+        "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+        "id": "a24"
       },
       {
         "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -1571,7 +1640,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T12:15:38.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1583,7 +1652,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-        "id": "a23"
+        "id": "a27"
       },
       {
         "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
@@ -1593,7 +1662,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T11:38:38.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.054Z",
+        "fetchedAt": "2026-09-24T21:51:01.664Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -1603,7 +1672,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -1613,7 +1682,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-24T11:30:00.000Z",
-        "fetchedAt": "2026-09-24T17:59:06.039Z",
+        "fetchedAt": "2026-09-24T21:51:01.489Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -1625,7 +1694,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-        "id": "a27"
+        "id": "a30"
       }
     ]
   },
@@ -9501,19 +9570,19 @@ export const NEWS_DATA = {
     "totalArticles": 55
   },
   "archive-2026-09-25": {
-    "generatedAt": "2026-09-24T17:59:11.959Z",
+    "generatedAt": "2026-09-24T21:51:07.099Z",
     "date": "2026-09-25",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Here’s what’s next for Qualcomm and its AI ambition.",
+              "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
               "articleIds": [
                 "a2"
               ],
@@ -9522,47 +9591,13 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
               "articleIds": [
-                "a9"
+                "a17"
               ],
               "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Wireless Communication: The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-de",
-              "articleIds": [
-                "a28"
-              ],
-              "subCategory": "wireless"
-            },
-            {
-              "text": "IoT & XR: The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-              "articleIds": [
-                "a29"
-              ],
-              "subCategory": "iot-xr"
             }
           ]
         },
         "articles": [
-          {
-            "title": "Qualcomm CFO says look beyond the Apple deal",
-            "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
-            "description": "Here’s what’s next for Qualcomm and its AI ambition.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T17:36:35.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-            "id": "a2"
-          },
           {
             "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
             "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
@@ -9570,8 +9605,8 @@ export const NEWS_DATA = {
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T16:09:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "publishedAt": "2026-09-24T20:41:00.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -9581,7 +9616,45 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-            "id": "a8"
+            "id": "a2"
+          },
+          {
+            "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+            "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+            "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-24T19:00:42.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.381Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+            "id": "a5"
+          },
+          {
+            "title": "Qualcomm CFO says look beyond the Apple deal",
+            "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
+            "description": "Here’s what’s next for Qualcomm and its AI ambition.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T17:36:35.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
+            "id": "a12"
           },
           {
             "title": "Can QCOM's Snapdragon Sound Elite Gen 2 for AI Wearables Drive Growth?",
@@ -9591,7 +9664,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T15:54:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -9599,7 +9672,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
-            "id": "a9"
+            "id": "a17"
           },
           {
             "title": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
@@ -9609,7 +9682,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:05:05.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -9617,7 +9690,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Cisco both raise their dividends every year and both are racing into AI infrastructure, but their capital allocation priorities point in completely different directions for a retiree who needs the income to be reliable.",
-            "id": "a17"
+            "id": "a22"
           },
           {
             "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -9627,7 +9700,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-24T13:47:21.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.705Z",
+            "fetchedAt": "2026-09-24T21:51:04.792Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -9637,7 +9710,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-            "id": "a19"
+            "id": "a23"
           },
           {
             "title": "Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?",
@@ -9647,7 +9720,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:54:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -9655,43 +9728,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm has more upside because its AI data center push is still underappreciated, while Marvell's AI growth story is already well known.",
-            "id": "a21"
-          },
-          {
-            "title": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
-            "url": "https://finance.yahoo.com/technology/articles/5g-ntn-market-forecasts-growth-102300127.html?.tsrc=rss",
-            "description": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T10:23:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "wireless",
-            "subLabel": "Wireless Communication",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-            "id": "a28"
-          },
-          {
-            "title": "Qualcomm to acquire robotics software firm PickNik",
-            "url": "https://www.verdict.co.uk/qualcomm-picknik-acquisition/?.tsrc=rss",
-            "description": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T09:26:58.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "iot-xr",
-            "subLabel": "IoT & XR",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-            "id": "a29"
+            "id": "a25"
           },
           {
             "title": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC - digitimes",
@@ -9701,7 +9738,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T02:42:03.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "section": "core-businesses",
@@ -9710,7 +9747,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
-            "id": "a33"
+            "id": "a34"
           },
           {
             "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -9720,7 +9757,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-23T08:35:07.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.705Z",
+            "fetchedAt": "2026-09-24T21:51:04.792Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -9728,35 +9765,57 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-            "id": "a42"
+            "id": "a40"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), IP / Intellectual Property (2 articles). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), IP / Intellectual Property (2 articles). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "FRAND & Licensing: Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+              "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
               "articleIds": [
-                "a1"
+                "a8"
               ],
               "subCategory": "frand-licensing"
             },
             {
-              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
               "articleIds": [
-                "a20"
+                "a24"
               ],
               "subCategory": "ip"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+            "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+            "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-24T18:32:11.000Z",
+            "fetchedAt": "2026-09-24T21:51:05.440Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "id": "a8"
+          },
           {
             "title": "What's Going On With Qualcomm Stock Thursday",
             "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
@@ -9765,7 +9824,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T17:49:16.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -9775,7 +9834,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-            "id": "a1"
+            "id": "a11"
           },
           {
             "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -9785,7 +9844,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:08:32.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -9798,19 +9857,19 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-            "id": "a16"
+            "id": "a21"
           },
           {
-            "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+            "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-            "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+            "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
             "source": "Reuters",
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:55:11.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.661Z",
+            "fetchedAt": "2026-09-24T21:51:05.890Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
+            "googleNewsSource": "reuters.com",
             "section": "ip-legal",
             "subCategory": "ip",
             "subLabel": "IP / Intellectual Property",
@@ -9820,8 +9879,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-            "id": "a20"
+            "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+            "id": "a24"
           },
           {
             "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
@@ -9831,7 +9890,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T11:38:38.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -9841,7 +9900,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -9851,7 +9910,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T11:30:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -9863,53 +9922,180 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-            "id": "a27"
+            "id": "a30"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+          "keyTakeaways": [
+            {
+              "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "data-center"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+            "url": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html?.tsrc=rss",
+            "description": "Oracle is tumbling. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T20:32:00.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+            "id": "a3"
+          }
+        ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (4 articles), Supply Chain (1 article). A total of 31 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (4 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty ",
+              "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
               "articleIds": [
-                "a3"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "market-performance: The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next m",
-              "articleIds": [
-                "a5"
+                "a1"
               ],
               "subCategory": "market-performance"
             },
             {
+              "text": "Geopolitics & Export Controls: Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
               "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
               "articleIds": [
-                "a45"
+                "a43"
               ],
               "subCategory": "supply-chain"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
+            "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
+            "description": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T20:42:17.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
+            "id": "a1"
+          },
+          {
+            "title": "AI Policy An Opportunity For 'Bipartisan Step Forward,' Says Miriam Vogel",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-24/ai-an-opportunity-for-bipartisan-step-forward-vogel-video",
+            "description": "Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an 'opportunity for a bipartisan step forward.' Vogel also weighed in on the AI race between the US and China, saying that China is using a 'whole of government approach' with the technology. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T18:55:14.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Miriam Vogel, president and CEO of EqualAI, said that she heard very little partisan rhetoric when she testified on the impact of AI in front of lawmakers and described the creation of AI policy as an 'opportunity for a bipartisan step forward.' Vogel also weighed in on the AI race between the US and China, saying that China is using a 'whole of government approach' with the technology.",
+            "id": "a6"
+          },
+          {
+            "title": "AI Takes Center Stage From Oracle to the White House",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video",
+            "description": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T18:35:43.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
+            "id": "a7"
+          },
+          {
+            "title": "AI Emerges as a Flashpoint in Trump-Xi Talks",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-24/ai-emerges-as-a-flashpoint-in-trump-xi-talks-video",
+            "description": "The US-China AI race is emerging as a key issue surrounding talks between President Donald Trump and Xi Jinping, as Chinese open-weight models close the gap with leading US systems. Rhodium Group’s Reva Goujon discusses tensions over AI safety and export controls, divisions within the Trump administration over potential guardrails, and how technology restrictions, critical minerals and Taiwan factor into the broader US-China negotiations. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T18:31:10.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US-China AI race is emerging as a key issue surrounding talks between President Donald Trump and Xi Jinping, as Chinese open-weight models close the gap with leading US systems. Rhodium Group’s Reva Goujon discusses tensions over AI safety and export controls, divisions within the Trump administration over potential guardrails, and how technology restrictions, critical minerals and Taiwan factor into the broader US-China negotiations. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+            "id": "a9"
+          },
+          {
+            "title": "Xi says US and China must ‘coexist in peace’ in historic White House visit",
+            "url": "https://www.ft.com/content/24c13fd3-5de5-4916-8300-ec3073027ff6?syn-25a6b1a6=1",
+            "description": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T17:53:11.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.975Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The Chinese leader is meeting his US counterpart Donald Trump in Washington for wide-ranging talks between the superpowers",
+            "id": "a10"
+          },
           {
             "title": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
             "url": "https://www.bloomberg.com/news/videos/2026-09-24/dutch-prime-minister-has-discussed-match-act-with-trump-video",
@@ -9918,7 +10104,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T17:33:48.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -9927,7 +10113,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dutch Prime Minister Rob Jetten had discussions on legislation which would further restrict ASML Holding NV’s sales in China with President Donald Trump. Jetten told Bloomberg Television, “I’m pretty sure we come to some agreement that is workable for each and every one.” (Source: Bloomberg)",
-            "id": "a3"
+            "id": "a13"
           },
           {
             "title": "Trump, Xi to talk Taiwan, AI, trade and Iran as DC summit kicks off",
@@ -9937,7 +10123,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T16:26:47.000Z",
-            "fetchedAt": "2026-09-24T17:59:05.794Z",
+            "fetchedAt": "2026-09-24T21:51:01.463Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -9946,7 +10132,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump greeted China's Xi at Joint Base Andrews, marking the U.S. president's first time traveling to the facility to welcome a foreign leader.",
-            "id": "a4"
+            "id": "a14"
           },
           {
             "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
@@ -9956,7 +10142,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T16:24:58.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -9964,105 +10150,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
-            "id": "a5"
+            "id": "a15"
           },
           {
-            "title": "Trump-Xi Summit, Oracle Buildout Hits New Hurdle",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-24/open-interest-9-24-2026-video",
-            "description": "A global bond rout sends the 30-year yield to a 22-year high. President Trump and China President Xi meet today after extending the US, China trade truce. Elizabeth Economy breaks down Washington’s fading leverage over Beijing. Plus, oil surges as tensions with Iran escalate. And tech billionaire Vinod Khosla joins us on why America can’t slow the AI race. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T16:22:23.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A global bond rout sends the 30-year yield to a 22-year high. President Trump and China President Xi meet today after extending the US, China trade truce. Elizabeth Economy breaks down Washington’s fading leverage over Beijing. Plus, oil surges as tensions with Iran escalate. And tech billionaire Vinod Khosla joins us on why America can’t slow the AI race.",
-            "id": "a6"
-          },
-          {
-            "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition - Reuters",
+            "title": "Gucci's new 'Made in China' sneaker models break with Italian tradition - reuters.com",
             "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQSlh2MWR0Wm81Y1FKdUZZeVJNbmp5Q09HNE52ZkhJZmhBZTVtN2ZMUEIzSDM3OFI3T0JuenhGcF90aHdhS3BlSHJ5dTZuVWVNNTZodGd1N2UwYVFLd21MeDllUklrb1JPVVJfU05nWDJ1ODhTaHhJVkJ4R0xXT0JZTUVlbGZNVHZXR1hGN1d1RjZEbEFiUlZPTjNmQ29FYkJaU1U0SGFDbHluemdtZmVuazdSOUVZQmpvcHdxaTRKQndwWk5Z?oc=5",
-            "description": "Gucci's new 'Made in China' sneaker models break with Italian tradition Reuters",
+            "description": "Gucci's new 'Made in China' sneaker models break with Italian tradition reuters.com",
             "source": "Reuters",
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T16:19:43.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.661Z",
+            "fetchedAt": "2026-09-24T21:51:05.890Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
+            "googleNewsSource": "reuters.com",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Gucci's new 'Made in China' sneaker models break with Italian tradition Reuters",
-            "id": "a7"
+            "summary": "Gucci's new 'Made in China' sneaker models break with Italian tradition reuters.com",
+            "id": "a16"
           },
           {
-            "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
-            "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
-            "description": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T15:47:59.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-            "id": "a10"
-          },
-          {
-            "title": "US Leverage Over China Is Fading: Economy",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-24/us-leverage-over-china-is-fading-economy-video",
-            "description": "Elizabeth Economy, a former Biden administration China adviser and a senior fellow at the Hoover Institution, joins Bloomberg Open Interest to break down what could emerge from US-China talks beyond the diplomatic spectacle. She sees potential cooperation on AI security, but warns Washington’s traditional leverage is weakening. From Iranian oil and semiconductor controls to rare earths and trade commitments, Economy argues the US will increasingly need allies to pressure Beijing. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T15:28:20.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Elizabeth Economy, a former Biden administration China adviser and a senior fellow at the Hoover Institution, joins Bloomberg Open Interest to break down what could emerge from US-China talks beyond the diplomatic spectacle. She sees potential cooperation on AI security, but warns Washington’s traditional leverage is weakening. From Iranian oil and semiconductor controls to rare earths and trade commitments, Economy argues the US will increasingly need allies to pressure Beijing.",
-            "id": "a11"
-          },
-          {
-            "title": "America’s AI push in Southeast Asia faces a China problem - politico.com",
+            "title": "America’s AI push in Southeast Asia faces a China problem - Politico",
             "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHRJRFB0aWhzNXdfb3R0NXdOdzQyZzlWMW5fdHZORXpQQnNZTlVrdGVPQkRvTUo4cVJZdDA1Z29ibTVWcEZuRUFrVDNxeE1BNXJVY05hc01SZGUyalpETURSQ3Jjdy10MHA3dTNoSHhnTVY0a3NLYm56S0VsZGx4QWR5b2UwcExLMmpWMnBMc04?oc=5",
-            "description": "America’s AI push in Southeast Asia faces a China problem politico.com",
+            "description": "America’s AI push in Southeast Asia faces a China problem Politico",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:51:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "politico.com",
+            "googleNewsSource": "Politico",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "America’s AI push in Southeast Asia faces a China problem politico.com",
-            "id": "a12"
+            "summary": "America’s AI push in Southeast Asia faces a China problem Politico",
+            "id": "a18"
           },
           {
             "title": "Family offices double down on stocks and private equity even as inflation spurs worry, Citi survey finds",
@@ -10072,7 +10200,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:36:13.000Z",
-            "fetchedAt": "2026-09-24T17:59:05.794Z",
+            "fetchedAt": "2026-09-24T21:51:01.463Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10081,26 +10209,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Inflation displaced tariffs as family offices' top investment concern in 2026, per a new Citi Wealth survey.",
-            "id": "a13"
-          },
-          {
-            "title": "China confirms first AI talks with U.S. have taken place, hints at trade truce extension",
-            "url": "https://www.cnbc.com/2026/09/24/china-confirms-first-ai-talks-with-us-have-taken-place-hints-at-trade-truce-extension.html",
-            "description": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T14:16:27.000Z",
-            "fetchedAt": "2026-09-24T17:59:05.794Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chinese confirmation of the AI discussions came just hours before President Xi Jinping was scheduled to begin talks with U.S. President Donald Trump.",
-            "id": "a14"
+            "id": "a19"
           },
           {
             "title": "China Telecom is all-in on AI tokens despite cost warnings",
@@ -10110,7 +10219,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-24T14:10:12.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.881Z",
+            "fetchedAt": "2026-09-24T21:51:05.356Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10119,26 +10228,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Telcos are transforming from managing bit traffic to managing tokens, China Telecom says, despite warnings about cost.",
-            "id": "a15"
-          },
-          {
-            "title": "Khosla: America Can’t Slow AI",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-24/khosla-america-can-t-slow-ai-video",
-            "description": "Vinod Khosla, an early investor of OpenAI and the founder of Khosla Ventures, says slowing AI development could hand China a strategic advantage. He joined Bloomberg Open Interest to argue that America should accelerate AI and energy infrastructure while protecting workers displaced by automation, not their individual jobs. He also says Silicon Valley has failed to clearly communicate AI’s potential benefits in healthcare, education and economic growth. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T13:48:23.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Vinod Khosla, an early investor of OpenAI and the founder of Khosla Ventures, says slowing AI development could hand China a strategic advantage. He joined Bloomberg Open Interest to argue that America should accelerate AI and energy infrastructure while protecting workers displaced by automation, not their individual jobs. He also says Silicon Valley has failed to clearly communicate AI’s potential benefits in healthcare, education and economic growth.",
-            "id": "a18"
+            "id": "a20"
           },
           {
             "title": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role - TipRanks",
@@ -10148,7 +10238,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:44:19.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TipRanks",
             "geopoliticalBypass": true,
@@ -10158,7 +10248,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role TipRanks",
-            "id": "a22"
+            "id": "a26"
           },
           {
             "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -10168,7 +10258,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:15:38.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -10180,7 +10270,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-            "id": "a23"
+            "id": "a27"
           },
           {
             "title": "Hong Kong’s pledge to become IP trading center is ‘game-changer’, but requires more than policy and financing platforms",
@@ -10190,7 +10280,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-24T11:59:48.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.017Z",
+            "fetchedAt": "2026-09-24T21:51:05.440Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10199,26 +10289,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Lawyers from both HK and China shared their thoughts on Hong Kong’s new Five-Year Plan, which pledges to transform it into a regional IP trading center. While they were generally positive, some were skeptical, highlighting that China’s own experience suggests government policy and trading platforms alone cannot create a liquid market for IP.",
-            "id": "a24"
-          },
-          {
-            "title": "Xi says US-China competition should be ‘healthy’ at White House summit",
-            "url": "https://www.ft.com/content/979ae3ac-4623-4fe9-a771-43ce451a9e73",
-            "description": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T11:48:36.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.255Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The leaders are expected to discuss trade war truce and AI risks before a state dinner with American business leaders",
-            "id": "a25"
+            "id": "a28"
           },
           {
             "title": "Minister Puisto to attend Competitiveness Council debate on EU Chips Act and merger control - Valtioneuvosto",
@@ -10228,7 +10299,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T06:35:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Valtioneuvosto",
             "geopoliticalBypass": true,
@@ -10238,7 +10309,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Minister Puisto to attend Competitiveness Council debate on EU Chips Act and merger control Valtioneuvosto",
-            "id": "a30"
+            "id": "a31"
           },
           {
             "title": "ACM Research (ACMR) Jumps On China Debate As Undervalued View Holds - simplywall.st",
@@ -10248,7 +10319,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T05:54:53.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "simplywall.st",
             "geopoliticalBypass": true,
@@ -10258,7 +10329,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ACM Research (ACMR) Jumps On China Debate As Undervalued View Holds simplywall.st",
-            "id": "a31"
+            "id": "a32"
           },
           {
             "title": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' - CNBC",
@@ -10268,7 +10339,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T03:38:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "CNBC",
             "geopoliticalBypass": true,
@@ -10278,7 +10349,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's AI chip blitz arms Xi with a message for Trump: 'You can't choke us off' CNBC",
-            "id": "a32"
+            "id": "a33"
           },
           {
             "title": "AI export controls debate rages as Trump, Xi meet - Roll Call",
@@ -10288,7 +10359,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T01:54:59.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Roll Call",
             "geopoliticalBypass": true,
@@ -10298,7 +10369,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "AI export controls debate rages as Trump, Xi meet Roll Call",
-            "id": "a34"
+            "id": "a35"
           },
           {
             "title": "China-US AI synergy driven by realities of marketplace - Asia News Network",
@@ -10308,7 +10379,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T01:26:10.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Asia News Network",
             "geopoliticalBypass": true,
@@ -10318,27 +10389,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China-US AI synergy driven by realities of marketplace Asia News Network",
-            "id": "a35"
+            "id": "a36"
           },
           {
-            "title": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - Reuters",
+            "title": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping - reuters.com",
             "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQZ1J5ZFB5RGFkQ3BLOFlwY3BZN0ZieUp0RlduUzlrU1JySzJZTkNSM3lBaTBnclQwbG9fQjdSVzQ1Z0hDeUdQNUNKMnB3T0dvZTNOTm9jUlBGYlRRSXdCNmRGYXVQejZoWkNPZ1h0NV9mdU1VQU9uS0NpV3dPY0xnQlU2ZzVjbnhwRlR1aUd3TGlKamFmTmFick93S1AtdV95RUtoSHlsdllCSDBlOUhySTdSbXRaWUVnSkV6M0p1N3NFbzBjM1YwNDE5cWNVeEFiN1dNQ3Rn?oc=5",
-            "description": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping Reuters",
+            "description": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping reuters.com",
             "source": "Reuters",
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T01:02:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.661Z",
+            "fetchedAt": "2026-09-24T21:51:05.890Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
+            "googleNewsSource": "reuters.com",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping Reuters",
-            "id": "a36"
+            "summary": "China's 'Lipstick King' confronts slower growth, AI disruption in livestream shopping reuters.com",
+            "id": "a37"
           },
           {
             "title": "Why US–China decoupling matters for Australian business - Capital Brief",
@@ -10348,7 +10419,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T00:56:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Capital Brief",
             "geopoliticalBypass": true,
@@ -10358,7 +10429,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Why US–China decoupling matters for Australian business Capital Brief",
-            "id": "a37"
+            "id": "a38"
           },
           {
             "title": "Asean must watch US-China deal on AI - Free Malaysia Today",
@@ -10368,7 +10439,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-23T23:01:55.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
+            "fetchedAt": "2026-09-24T21:51:07.044Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Free Malaysia Today",
             "geopoliticalBypass": true,
@@ -10378,66 +10449,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Asean must watch US-China deal on AI Free Malaysia Today",
-            "id": "a38"
-          },
-          {
-            "title": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOUkdwVHFyQVdzOFp6VlVZR2VJRzZ5aXVNSnFaUXRYVC13bWJRUUZCTHl0NzVhUnR1anhZdG5IU0RJQ0FDcDlRdmY1aVNCcm4yR3VzaHFxeVpKTnZIdnVzSXZadUt5ODVJdkhDZEFGTHQ2bEJmX1lvTkR5SVkyVHJTODRFdVE?oc=5",
-            "description": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development 조선일보",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T21:49:57.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "조선일보",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Sets Four Red Lines for U.S. on Taiwan, Rights, Development 조선일보",
             "id": "a39"
-          },
-          {
-            "title": "As Trump and Xi meet, Chinese automakers could be a Pandora's box for U.S. auto industry",
-            "url": "https://www.cnbc.com/2026/09/23/trump-xi-chinese-automakers-us-access.html",
-            "description": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T21:25:01.000Z",
-            "fetchedAt": "2026-09-24T17:59:05.794Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump’s meeting with Xi comes as U.S. automakers and lawmakers push to keep restrictions on Chinese vehicles and manufacturers.",
-            "id": "a40"
-          },
-          {
-            "title": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMijAJBVV95cUxNTjQ4QUItdVp4bjFJZUVYc3BQaFVHeUFKYmZrTTlJNWRZa3dvT1FCU0w2YkNScEVTYUtNMGQ1YTZDcklndFFFaXo4VDk5LTg4NzYya0JUSXJ0N0VPT2gtTHNrSTMzYWFjc05mWEdKSS1OMlBXNm0tVTNxS3dnLUIxQ1QzZVRJRTU3Z0FPbU1ZUGs3MmR6R2pQbFkwMmREb2haR250MmlIYWdKVVdUUENkdG9ndi1WRmVPS2VMREFvNW1nSFlMejRvV2RIRUZrWGdNSW1velVFX0lWZHdyY0RuWWpwNzE4VXBZUkJMZTZ6aUU0MjRkQ0lfQVBrczVCbzBpcEhCZW9SeUJyaE5I0gGMAkFVX3lxTE1ONDhBQi11WnhuMUllRVhzcFBoVUd5QUpiZmtNOUk1ZFlrd29PUUJTTDZiQ1JwRVNhS00wZDVhNkNySWd0UUVpejhUOTktODg3NjJrQlRJcnQ3RU9PaC1Mc2tJMzNhYWNzTmZYR0pJLU4yUFc2bS1VM3FLd2ctQjFDVDNlVElFNTdnQU9tTVlQazcyZHpHalBsWTAyZERvaFpHbnQyaUhhZ0pVV1RQQ2R0b2d2LVZGZU9LZUxEQW81bWdIWUx6NG9XZEhFRmtYZ01JbW96VUVfSVZkd3JjRG5ZanA3MThVcFlSQkxlNnppRTQyNGRDSV9BUGtzNUJvMGlwSEJlb1J5QnJoTkg?oc=5",
-            "description": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China The Economic Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T18:58:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:11.903Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Economic Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "'Stop calling Xi a great gentleman': Schumer calls on Trump to block sale of US AI Chips to China The Economic Times",
-            "id": "a41"
           },
           {
             "title": "Implications of China’s fresh judicial opinion on AI for IP owners and litigants",
@@ -10447,7 +10459,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-23T08:20:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:07.942Z",
+            "fetchedAt": "2026-09-24T21:51:03.597Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10456,7 +10468,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Supreme Court’s first issued document guiding the adjudication of AI-related disputes is set to have a significant practical influence on how both rights holders and the courts approach complex issues, such as the allocation of responsibility and treatment of technical evidence.",
-            "id": "a43"
+            "id": "a41"
           },
           {
             "title": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
@@ -10466,7 +10478,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-22T20:39:54.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.017Z",
+            "fetchedAt": "2026-09-24T21:51:05.440Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10475,7 +10487,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose tariffs on polysilicon imports from China and elsewhere.",
-            "id": "a44"
+            "id": "a42"
           },
           {
             "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
@@ -10485,7 +10497,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-22T14:42:30.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.881Z",
+            "fetchedAt": "2026-09-24T21:51:05.356Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10494,7 +10506,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-            "id": "a45"
+            "id": "a43"
           },
           {
             "title": "Alibaba underlines AI ambitions with new models, chip",
@@ -10504,7 +10516,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-22T11:14:21.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.705Z",
+            "fetchedAt": "2026-09-24T21:51:04.792Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -10513,42 +10525,64 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-            "id": "a46"
+            "id": "a44"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "competitors",
         "sectionTitle": "Competitors",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "FRAND & Licensing: The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
+              "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
               "articleIds": [
-                "a16"
+                "a8"
               ],
               "subCategory": "frand-licensing"
             },
             {
-              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
               "articleIds": [
-                "a20"
+                "a24"
               ],
               "subCategory": "ip"
             },
             {
               "text": "market-performance: Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures ",
               "articleIds": [
-                "a23"
+                "a27"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+            "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+            "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-24T18:32:11.000Z",
+            "fetchedAt": "2026-09-24T21:51:05.440Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "id": "a8"
+          },
           {
             "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
             "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-renews-global-apple-patent-license-extends-key-licensing-relationship-into-2027/cZMJP0WRB9i?.tsrc=rss",
@@ -10557,7 +10591,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:08:32.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -10570,19 +10604,19 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-            "id": "a16"
+            "id": "a21"
           },
           {
-            "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+            "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-            "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+            "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
             "source": "Reuters",
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:55:11.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.661Z",
+            "fetchedAt": "2026-09-24T21:51:05.890Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
+            "googleNewsSource": "reuters.com",
             "section": "ip-legal",
             "subCategory": "ip",
             "subLabel": "IP / Intellectual Property",
@@ -10592,8 +10626,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-            "id": "a20"
+            "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+            "id": "a24"
           },
           {
             "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -10603,7 +10637,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:15:38.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -10615,7 +10649,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-            "id": "a23"
+            "id": "a27"
           },
           {
             "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -10625,7 +10659,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T11:30:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -10637,43 +10671,64 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-            "id": "a27"
+            "id": "a30"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-09-24T17:59:11.956Z",
+        "generatedAt": "2026-09-24T21:51:07.096Z",
         "date": "2026-09-25",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 10 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 14 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "FRAND & Licensing: Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+              "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "frand-licensing"
+              "subCategory": "market-performance"
             },
             {
-              "text": "Semiconductors: Here’s what’s next for Qualcomm and its AI ambition.",
+              "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
               "articleIds": [
                 "a2"
               ],
               "subCategory": "semiconductors"
             },
             {
-              "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
+              "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
               "articleIds": [
-                "a10"
+                "a3"
               ],
-              "subCategory": "market-performance"
+              "subCategory": "data-center"
             },
             {
-              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+              "text": "Platform & Ecosystem Partners: Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's",
               "articleIds": [
-                "a20"
+                "a4"
+              ],
+              "subCategory": "platform-partner"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out w",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "frand-licensing"
+            },
+            {
+              "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+              "articleIds": [
+                "a24"
               ],
               "subCategory": "ip"
             }
@@ -10681,74 +10736,14 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "What's Going On With Qualcomm Stock Thursday",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
-            "description": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T17:49:16.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-            "id": "a1"
-          },
-          {
-            "title": "Qualcomm CFO says look beyond the Apple deal",
-            "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
-            "description": "Here’s what’s next for Qualcomm and its AI ambition.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T17:36:35.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-            "id": "a2"
-          },
-          {
-            "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
-            "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
-            "description": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T16:09:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-            "id": "a8"
-          },
-          {
             "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
             "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
             "description": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-24T15:47:59.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "publishedAt": "2026-09-24T20:42:17.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -10758,7 +10753,150 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-            "id": "a10"
+            "id": "a1"
+          },
+          {
+            "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
+            "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
+            "description": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T20:41:00.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
+            "id": "a2"
+          },
+          {
+            "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+            "url": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html?.tsrc=rss",
+            "description": "Oracle is tumbling. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T20:32:00.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+            "id": "a3"
+          },
+          {
+            "title": "Meta's new AI device changes everything",
+            "url": "https://finance.yahoo.com/video/metas-ai-device-changes-everything-200013025.html?.tsrc=rss",
+            "description": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T20:00:13.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
+            "id": "a4"
+          },
+          {
+            "title": "AI Takes Center Stage From Oracle to the White House",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video",
+            "description": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T18:35:43.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
+            "id": "a7"
+          },
+          {
+            "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+            "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
+            "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-24T18:32:11.000Z",
+            "fetchedAt": "2026-09-24T21:51:05.440Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
+            "id": "a8"
+          },
+          {
+            "title": "What's Going On With Qualcomm Stock Thursday",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/whats-going-qualcomm-stock-thursday-174916983.html?.tsrc=rss",
+            "description": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T17:49:16.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
+            "id": "a11"
+          },
+          {
+            "title": "Qualcomm CFO says look beyond the Apple deal",
+            "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
+            "description": "Here’s what’s next for Qualcomm and its AI ambition.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-24T17:36:35.000Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
+            "id": "a12"
           },
           {
             "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -10768,7 +10906,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T14:08:32.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -10781,7 +10919,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-            "id": "a16"
+            "id": "a21"
           },
           {
             "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -10791,7 +10929,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-24T13:47:21.000Z",
-            "fetchedAt": "2026-09-24T17:59:09.705Z",
+            "fetchedAt": "2026-09-24T21:51:04.792Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -10801,19 +10939,19 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-            "id": "a19"
+            "id": "a23"
           },
           {
-            "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
+            "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
             "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-            "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+            "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
             "source": "Reuters",
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:55:11.000Z",
-            "fetchedAt": "2026-09-24T17:59:10.661Z",
+            "fetchedAt": "2026-09-24T21:51:05.890Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
+            "googleNewsSource": "reuters.com",
             "section": "ip-legal",
             "subCategory": "ip",
             "subLabel": "IP / Intellectual Property",
@@ -10823,8 +10961,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-            "id": "a20"
+            "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+            "id": "a24"
           },
           {
             "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
@@ -10834,7 +10972,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T12:15:38.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -10846,7 +10984,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-            "id": "a23"
+            "id": "a27"
           },
           {
             "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
@@ -10856,7 +10994,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T11:38:38.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.054Z",
+            "fetchedAt": "2026-09-24T21:51:01.664Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -10866,7 +11004,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
@@ -10876,7 +11014,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-24T11:30:00.000Z",
-            "fetchedAt": "2026-09-24T17:59:06.039Z",
+            "fetchedAt": "2026-09-24T21:51:01.489Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -10888,12 +11026,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-            "id": "a27"
+            "id": "a30"
           }
         ]
       }
     },
-    "totalArticles": 60
+    "totalArticles": 62
   }
 };
 

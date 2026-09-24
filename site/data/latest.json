@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-24T17:59:11.959Z",
+  "generatedAt": "2026-09-24T21:51:07.099Z",
   "date": "2026-09-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 10,
-      "topHeadline": "Qualcomm CFO says look beyond the Apple deal",
+      "articleCount": 9,
+      "topHeadline": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
       "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 5,
-      "topHeadline": "What's Going On With Qualcomm Stock Thursday",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), IP / Intellectual Property (2 articles). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), IP / Intellectual Property (2 articles). A total of 6 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+      "topHeadlineId": "a3",
+      "briefingSummary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 31,
-      "topHeadline": "Dutch Prime Minister Has Discussed MATCH Act With Trump",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (4 articles), Supply Chain (1 article). A total of 31 articles were aggregated from monitored sources."
+      "articleCount": 27,
+      "topHeadline": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (4 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 4,
-      "topHeadline": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
-      "topHeadlineId": "a16",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 10,
-      "topHeadline": "What's Going On With Qualcomm Stock Thursday",
+      "articleCount": 14,
+      "topHeadline": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (3 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 10 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 14 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 60
+  "totalArticles": 62
 }

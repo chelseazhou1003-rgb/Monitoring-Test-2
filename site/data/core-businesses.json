@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-24T17:59:11.956Z",
+  "generatedAt": "2026-09-24T21:51:07.096Z",
   "date": "2026-09-25",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Here’s what’s next for Qualcomm and its AI ambition.",
+        "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
         "articleIds": [
           "a2"
         ],
@@ -16,47 +16,13 @@
       {
         "text": "Mobile Chips: Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
         "articleIds": [
-          "a9"
+          "a17"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Wireless Communication: The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-de",
-        "articleIds": [
-          "a28"
-        ],
-        "subCategory": "wireless"
-      },
-      {
-        "text": "IoT & XR: The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-        "articleIds": [
-          "a29"
-        ],
-        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Qualcomm CFO says look beyond the Apple deal",
-      "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
-      "description": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T17:36:35.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "id": "a2"
-    },
     {
       "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
       "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
@@ -64,8 +30,8 @@
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T16:09:00.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
+      "publishedAt": "2026-09-24T20:41:00.000Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +41,45 @@
         "oem"
       ],
       "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a8"
+      "id": "a2"
+    },
+    {
+      "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
+      "url": "https://techcrunch.com/2026/09/24/prismml-brings-its-tiny-llms-to-qualcomm-powered-smart-glasses/",
+      "description": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-24T19:00:42.000Z",
+      "fetchedAt": "2026-09-24T21:51:01.381Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
+      "id": "a5"
+    },
+    {
+      "title": "Qualcomm CFO says look beyond the Apple deal",
+      "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-says-look-beyond-the-apple-deal-qcom?.tsrc=rss",
+      "description": "Here’s what’s next for Qualcomm and its AI ambition.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T17:36:35.000Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
+      "id": "a12"
     },
     {
       "title": "Can QCOM's Snapdragon Sound Elite Gen 2 for AI Wearables Drive Growth?",
@@ -85,7 +89,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T15:54:00.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
-      "id": "a9"
+      "id": "a17"
     },
     {
       "title": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
@@ -103,7 +107,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:05:05.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -111,7 +115,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Cisco both raise their dividends every year and both are racing into AI infrastructure, but their capital allocation priorities point in completely different directions for a retiree who needs the income to be reliable.",
-      "id": "a17"
+      "id": "a22"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -121,7 +125,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-24T17:59:09.705Z",
+      "fetchedAt": "2026-09-24T21:51:04.792Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -131,7 +135,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a19"
+      "id": "a23"
     },
     {
       "title": "Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?",
@@ -141,7 +145,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:54:00.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -149,43 +153,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm has more upside because its AI data center push is still underappreciated, while Marvell's AI growth story is already well known.",
-      "id": "a21"
-    },
-    {
-      "title": "5G NTN Market Forecasts Growth from $11.91B (2026) to $45.55B by 2031, Profiling Thales, Qualcomm, SpaceX, Ericsson & Nokia",
-      "url": "https://finance.yahoo.com/technology/articles/5g-ntn-market-forecasts-growth-102300127.html?.tsrc=rss",
-      "description": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T10:23:00.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The global 5G NTN market is projected to grow from USD 11.91 billion in 2026 to USD 45.55 billion by 2031, registering a 30.8% CAGR. Growth is driven by demand for satellite connectivity, direct-to-device services, NTN-enabled IoT, and resilient communications across remote, maritime, aviation, and disaster-prone areas. GEO satellites will hold the largest market share, while services will grow fastest. Asia Pacific is expected to record the highest growth, supported by smart cities, expanding m",
-      "id": "a28"
-    },
-    {
-      "title": "Qualcomm to acquire robotics software firm PickNik",
-      "url": "https://www.verdict.co.uk/qualcomm-picknik-acquisition/?.tsrc=rss",
-      "description": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T09:26:58.000Z",
-      "fetchedAt": "2026-09-24T17:59:06.039Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "iot-xr",
-      "subLabel": "IoT & XR",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The deal will integrate PickNik's MoveIt Pro with Dragonwing hardware, while separately extending MoveIt support to Arduino's VENTUNO Q boards.",
-      "id": "a29"
+      "id": "a25"
     },
     {
       "title": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC - digitimes",
@@ -195,7 +163,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T02:42:03.000Z",
-      "fetchedAt": "2026-09-24T17:59:11.903Z",
+      "fetchedAt": "2026-09-24T21:51:07.044Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "digitimes",
       "section": "core-businesses",
@@ -204,7 +172,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
-      "id": "a33"
+      "id": "a34"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -214,7 +182,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-24T17:59:09.705Z",
+      "fetchedAt": "2026-09-24T21:51:04.792Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -222,7 +190,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a42"
+      "id": "a40"
     }
   ]
 }

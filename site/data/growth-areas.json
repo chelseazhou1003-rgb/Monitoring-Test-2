@@ -1,11 +1,40 @@
 {
-  "generatedAt": "2026-09-24T17:59:11.956Z",
+  "generatedAt": "2026-09-24T21:51:07.096Z",
   "date": "2026-09-25",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
+      "url": "https://finance.yahoo.com/m/daef2f2f-50a0-3aff-9c37-f773d9bf5f56/oracle%2C-qualcomm%2C-meta%2C.html?.tsrc=rss",
+      "description": "Oracle is tumbling. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-24T20:32:00.000Z",
+      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
+      "id": "a3"
+    }
+  ]
 }
