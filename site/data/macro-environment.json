@@ -1,72 +1,105 @@
 {
-  "generatedAt": "2026-09-25T12:19:16.863Z",
-  "date": "2026-09-25",
+  "generatedAt": "2026-09-25T17:34:08.843Z",
+  "date": "2026-09-26",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), market-performance (3 articles), Supply Chain (1 article). A total of 30 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), market-performance (3 articles). A total of 24 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: China Beige Book COO and Managing Editor Shehzad Qazi examines the takeaways from US President Donald Trump’s meeting with his Chinese counterpart Xi Jinping, with a focus on the tensions underneath t",
+        "text": "Geopolitics & Export Controls: Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: In the most recent trading session, Qualcomm (QCOM) closed at $194.26, indicating a -1.51% shift from the previous trading day.",
+        "text": "market-performance: On this episode of Stock Movers: - Akamai Technologies (AKAM) shares soar after the cloud provider inked a seven-year $11.6 billion deal to provide computing power to Anthropic. Analysts say the deal ",
         "articleIds": [
-          "a23"
+          "a4"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-        "articleIds": [
-          "a48"
-        ],
-        "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
     {
-      "title": "Trump, Xi Have Realized They Need Each Other: China Beige Book",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-realize-they-need-each-other-china-beige-book-video",
-      "description": "China Beige Book COO and Managing Editor Shehzad Qazi examines the takeaways from US President Donald Trump’s meeting with his Chinese counterpart Xi Jinping, with a focus on the tensions underneath the surface of US-China relations. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
+      "title": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
+      "url": "https://www.cnbc.com/2026/09/25/trump-xi-china-trade-greer.html",
+      "description": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-25T16:20:40.000Z",
+      "fetchedAt": "2026-09-25T17:34:00.889Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Top White House trade official Jamieson Greer said the two days of talks between President Trump and Chinese leader Xi brought some trade matter agreements.",
+      "id": "a2"
+    },
+    {
+      "title": "Akamai Technologies Soars on Anthropic Deal; Costco Earnings Beat | Stock Movers",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-25/akamai-technologies-anthropic-deal-costco-earnings-beat-video",
+      "description": "On this episode of Stock Movers: - Akamai Technologies (AKAM) shares soar after the cloud provider inked a seven-year $11.6 billion deal to provide computing power to Anthropic. Analysts say the deal should boost Akamai’s growth and its profitability profile looks attractive, given the contract is entirely focused on CPUs. - People (PPLI) shares jump on a report that MGM Resorts is discussing making a bid to purchase the Barry Diller-owned media giant. - Costco Wholesale (COST) quarterly profits surpassed Wall Street’s estimates after the company recorded a benefit related to tariff refunds. (Source: Bloomberg)",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T11:52:53.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.746Z",
+      "publishedAt": "2026-09-25T14:39:39.000Z",
+      "fetchedAt": "2026-09-25T17:34:01.282Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [],
-      "summary": "China Beige Book COO and Managing Editor Shehzad Qazi examines the takeaways from US President Donald Trump’s meeting with his Chinese counterpart Xi Jinping, with a focus on the tensions underneath the surface of US-China relations. He speaks on “Bloomberg Surveillance.” (Source: Bloomberg)",
-      "id": "a1"
+      "summary": "On this episode of Stock Movers: - Akamai Technologies (AKAM) shares soar after the cloud provider inked a seven-year $11.6 billion deal to provide computing power to Anthropic. Analysts say the deal should boost Akamai’s growth and its profitability profile looks attractive, given the contract is entirely focused on CPUs. - People (PPLI) shares jump on a report that MGM Resorts is discussing making a bid to purchase the Barry Diller-owned media giant. - Costco Wholesale (COST) quarterly profits surpassed Wall Street’s estimates after the company recorded a benefit related to tariff refunds.",
+      "id": "a4"
     },
     {
-      "title": "ICC is insulated against US sanctions, says deputy prosecutor",
-      "url": "https://www.ft.com/content/702d053a-0100-4160-9996-0b5d8502d512?syn-25a6b1a6=1",
-      "description": "Tribunal has overhauled systems to withstand potential new measures from Trump administration",
-      "source": "Financial Times",
-      "sourceId": "ft",
+      "title": "Jamieson Greer Says US-China Trade Enters ‘Managed’ Phase With Deficit Set To Fall To $140B - TradingView",
+      "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNdGNqU29BMm1uTUFmQkV1N0Z5X0l0NGg0MWVWb1dFNzQxaVRSeElrUzBENUk5UFZDX1N2a3RRTDJSTjZTZ1QzaEotejE1WUJyRGh6T3NEd1VnOE1XZWt0T2RZN0F5TFZtRkplMC1NQTdTYklEeFVZeVJNSEdpbmlvYXA3bEc1b212SlJKZXBBY09nalpDTGUxdi15dndwd2Y5Z05VaDkzZEplRWhiUDB2VnlwUTM0endPZzVUZUNnbGw5MTJhM1AzTzNzYWVOZkZhV2pvd19Ea3ZkRnhUd1A1eHFvdw?oc=5",
+      "description": "Jamieson Greer Says US-China Trade Enters ‘Managed’ Phase With Deficit Set To Fall To $140B TradingView",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T11:17:07.000Z",
-      "fetchedAt": "2026-09-25T12:19:11.023Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-09-25T13:46:56.000Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "TradingView",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Tribunal has overhauled systems to withstand potential new measures from Trump administration",
-      "id": "a2"
+      "summary": "Jamieson Greer Says US-China Trade Enters ‘Managed’ Phase With Deficit Set To Fall To $140B TradingView",
+      "id": "a6"
+    },
+    {
+      "title": "U.S.-China Relations Face November Tariff Deadline - Legis1",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE96d01vbi1CaDFCbTkzR0xDZk1UOWg3YmpRUkVicWVTNjhaVEFZck5ELWh6QUZsVVliQnNZdDJVcEVKZGJCS1BQekhKcHAtZjJVaDVQMmdvZ1N0WlhhVV9uSXhKVWQzNFpzcFV6WkxaSnEyR3MyNFVHRHJ3Njl5dw?oc=5",
+      "description": "U.S.-China Relations Face November Tariff Deadline Legis1",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-25T13:25:44.000Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Legis1",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "U.S.-China Relations Face November Tariff Deadline Legis1",
+      "id": "a7"
     },
     {
       "title": "China saw 'surprise' jump in U.S. orders ahead of Trump-Xi summit, private survey shows",
@@ -76,7 +109,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T10:25:01.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.563Z",
+      "fetchedAt": "2026-09-25T17:34:00.889Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -85,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A private survey shows a rebound in China's exports to the U.S. as companies position for continued stability between the world's two largest economies.",
-      "id": "a3"
+      "id": "a9"
     },
     {
       "title": "Wall Street banks finance both sides of America’s AI race with China - bizpacreview.com",
@@ -95,7 +128,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T09:35:06.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.807Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "bizpacreview.com",
       "geopoliticalBypass": true,
@@ -105,7 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Wall Street banks finance both sides of America’s AI race with China bizpacreview.com",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "AI synergy aids tech tie-ups - chinadailyasia.com",
@@ -115,7 +148,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T07:46:10.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "chinadailyasia.com",
       "geopoliticalBypass": true,
@@ -125,7 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AI synergy aids tech tie-ups chinadailyasia.com",
-      "id": "a6"
+      "id": "a12"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -135,7 +168,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-25T07:01:42.000Z",
-      "fetchedAt": "2026-09-25T12:19:12.201Z",
+      "fetchedAt": "2026-09-25T17:34:02.517Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -146,26 +179,7 @@
         "foundry"
       ],
       "summary": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a7"
-    },
-    {
-      "title": "Tech Titans, Trump Fete China’s Xi at State Dinner",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/tech-titans-trump-fete-china-s-xi-at-state-dinner-video",
-      "description": "Luminaries from Wall Street and Silicon Valley joined US President Donald Trump for a state dinner honoring his Chinese counterpart Xi Jinping. Steve Engle reports from Washington. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T05:41:03.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.746Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Luminaries from Wall Street and Silicon Valley joined US President Donald Trump for a state dinner honoring his Chinese counterpart Xi Jinping. Steve Engle reports from Washington.",
-      "id": "a8"
+      "id": "a13"
     },
     {
       "title": "How UK, China courts reached conflicting FRAND rates in ZTE v Samsung",
@@ -175,7 +189,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-25T05:00:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:13.143Z",
+      "fetchedAt": "2026-09-25T17:34:03.418Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -186,26 +200,7 @@
         "oem"
       ],
       "summary": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
-      "id": "a9"
-    },
-    {
-      "title": "Russia expands fleet as crackdown on stateless vessels intensifies",
-      "url": "https://www.ft.com/content/fe377a54-88d7-4d6c-a763-fd56bc608827?syn-25a6b1a6=1",
-      "description": "The number of ships sailing under the Russian flag has grown by a third as Moscow keeps fossil fuel exports flowing despite western sanctions",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T04:00:38.000Z",
-      "fetchedAt": "2026-09-25T12:19:11.023Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The number of ships sailing under the Russian flag has grown by a third as Moscow keeps fossil fuel exports flowing despite western sanctions",
-      "id": "a10"
+      "id": "a14"
     },
     {
       "title": "Chips Act 2.0: France pushes ‘Buy European’ - Table.Briefings",
@@ -215,7 +210,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T03:10:17.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Table.Briefings",
       "geopoliticalBypass": true,
@@ -225,26 +220,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chips Act 2.0: France pushes ‘Buy European’ Table.Briefings",
-      "id": "a11"
-    },
-    {
-      "title": "Former NSC China Director on Trump-Xi Summit",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/former-nsc-china-director-on-trump-xi-summit-video",
-      "description": "Liza Tobin, Former China Director at the US National Security Council and Managing Director of Garnaut Global, discusses her expectations and takeaways from the summit between Presidents Trump and Xi. She speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T03:08:46.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.746Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Liza Tobin, Former China Director at the US National Security Council and Managing Director of Garnaut Global, discusses her expectations and takeaways from the summit between Presidents Trump and Xi. She speaks with Haidi Stroud Watts on \"Bloomberg: The Asia Trade\".",
-      "id": "a12"
+      "id": "a15"
     },
     {
       "title": "Rigetti Computing (RGTI) Secures CHIPS Act Support, Is The Upside Already Priced In? - simplywall.st",
@@ -254,7 +230,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T02:51:56.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "simplywall.st",
       "geopoliticalBypass": true,
@@ -264,7 +240,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Rigetti Computing (RGTI) Secures CHIPS Act Support, Is The Upside Already Priced In?",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "China's Xi urges U.S. to cooperate on AI",
@@ -274,7 +250,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T01:22:17.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.563Z",
+      "fetchedAt": "2026-09-25T17:34:00.889Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -283,7 +259,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "President Donald Trump hosted Chinese President Xi Jinping on Thursday at the White House.",
-      "id": "a15"
+      "id": "a17"
     },
     {
       "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
@@ -293,7 +269,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T01:12:19.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.563Z",
+      "fetchedAt": "2026-09-25T17:34:00.889Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -302,7 +278,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "AMD faces \"treason\" accusations from analyst over military-grade chips allegedly flowing to China at steep discounts - finance.biggo.com",
@@ -312,7 +288,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T00:55:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "finance.biggo.com",
       "geopoliticalBypass": true,
@@ -322,27 +298,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AMD faces \"treason\" accusations from analyst over military-grade chips allegedly flowing to China at steep discounts finance.biggo.com",
-      "id": "a17"
+      "id": "a19"
     },
     {
-      "title": "EU ministers debate Chips Act 2.0 and revised merger guidelines - ieu-monitoring.com",
+      "title": "EU ministers debate Chips Act 2.0 and revised merger guidelines - INSIGHT EU MONITORING",
       "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQbEVXX3IxMEt2a2IzaDRoOUh5WlJTQWVITGRmM2JORHE2WEU1SV91Mlpld2ZxLTdrOHZ5dS1rTWtxVUoyeFhDM1FHQ252Szg1OEZRQTZ0TUlUT3VQT3VVV2F3b1VGVnRqU0Rfb05UWG1QMDJLYmZ0cFFxZVJtOVFULTd3ZTBBR0FvNjJ4Y0VJTzBkTXRHb3lDU0NVRUxWZTFIWDZkYkQ1Sk0yaTN2REhsSTdoSkczSlFVN0I2Z19LSHAyNm5CcE1ib193?oc=5",
-      "description": "EU ministers debate Chips Act 2.0 and revised merger guidelines ieu-monitoring.com",
+      "description": "EU ministers debate Chips Act 2.0 and revised merger guidelines INSIGHT EU MONITORING",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T22:32:25.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "ieu-monitoring.com",
+      "googleNewsSource": "INSIGHT EU MONITORING",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "EU ministers debate Chips Act 2.0 and revised merger guidelines ieu-monitoring.com",
-      "id": "a19"
+      "summary": "EU ministers debate Chips Act 2.0 and revised merger guidelines INSIGHT EU MONITORING",
+      "id": "a20"
     },
     {
       "title": "China’s Xi presses Trump to ‘oppose’ Taiwan independence in stark call - The Straits Times",
@@ -352,7 +328,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T22:15:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Straits Times",
       "geopoliticalBypass": true,
@@ -362,7 +338,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s Xi presses Trump to ‘oppose’ Taiwan independence in stark call The Straits Times",
-      "id": "a20"
+      "id": "a21"
     },
     {
       "title": "China’s Xi presses Trump to ‘oppose’ Taiwan independence in rare call - The Straits Times",
@@ -372,7 +348,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T22:15:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Straits Times",
       "geopoliticalBypass": true,
@@ -382,7 +358,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s Xi presses Trump to ‘oppose’ Taiwan independence in rare call The Straits Times",
-      "id": "a21"
+      "id": "a22"
     },
     {
       "title": "Huawei's Ascend Chip Push Gains Ground as H20 Stumbles in China - briefasia.com",
@@ -392,7 +368,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T21:03:38.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "briefasia.com",
       "geopoliticalBypass": true,
@@ -402,7 +378,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Huawei's Ascend Chip Push Gains Ground as H20 Stumbles in China briefasia.com",
-      "id": "a22"
+      "id": "a23"
     },
     {
       "title": "Qualcomm (QCOM) Registers a Bigger Fall Than the Market: Important Facts to Note",
@@ -412,7 +388,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:45:05.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.665Z",
+      "fetchedAt": "2026-09-25T17:34:00.978Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -420,7 +396,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the most recent trading session, Qualcomm (QCOM) closed at $194.26, indicating a -1.51% shift from the previous trading day.",
-      "id": "a23"
+      "id": "a24"
     },
     {
       "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
@@ -430,7 +406,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:42:17.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.665Z",
+      "fetchedAt": "2026-09-25T17:34:00.978Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -440,7 +416,7 @@
         "oem"
       ],
       "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-      "id": "a24"
+      "id": "a25"
     },
     {
       "title": "China's Chip and AI Launches Give Xi Leverage Before Trump Summit - finance.biggo.com",
@@ -450,7 +426,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T18:35:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
+      "fetchedAt": "2026-09-25T17:34:08.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "finance.biggo.com",
       "geopoliticalBypass": true,
@@ -460,45 +436,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Chip and AI Launches Give Xi Leverage Before Trump Summit finance.biggo.com",
-      "id": "a30"
-    },
-    {
-      "title": "3 Reasons to Avoid QCOM and 1 Stock to Buy Instead",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/3-reasons-avoid-qcom-1-162458249.html?.tsrc=rss",
-      "description": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T16:24:58.000Z",
-      "fetchedAt": "2026-09-25T12:19:10.665Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The past six months have been a windfall for Qualcomm’s shareholders. The company’s stock price has jumped 53.8%, hitting $197.95 per share. This run-up might have investors contemplating their next move.",
-      "id": "a34"
-    },
-    {
-      "title": "America’s AI push in Southeast Asia faces a China problem - Politico",
-      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPMHRJRFB0aWhzNXdfb3R0NXdOdzQyZzlWMW5fdHZORXpQQnNZTlVrdGVPQkRvTUo4cVJZdDA1Z29ibTVWcEZuRUFrVDNxeE1BNXJVY05hc01SZGUyalpETURSQ3Jjdy10MHA3dTNoSHhnTVY0a3NLYm56S0VsZGx4QWR5b2UwcExLMmpWMnBMc04?oc=5",
-      "description": "America’s AI push in Southeast Asia faces a China problem Politico",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T14:51:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Politico",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "America’s AI push in Southeast Asia faces a China problem Politico",
-      "id": "a36"
+      "id": "a31"
     },
     {
       "title": "China Telecom is all-in on AI tokens despite cost warnings",
@@ -508,7 +446,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T14:10:12.000Z",
-      "fetchedAt": "2026-09-25T12:19:14.857Z",
+      "fetchedAt": "2026-09-25T17:34:04.971Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -517,27 +455,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Telcos are transforming from managing bit traffic to managing tokens, China Telecom says, despite warnings about cost.",
-      "id": "a37"
-    },
-    {
-      "title": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role - TipRanks",
-      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOQmdMOHl0NzhxU0twbVhINXNzU1NDWWR0MTF4T242OW5ocGZWbjNCOWNUU2I0eFVtRFFiN205TlVRdUJiUk84NEFVMzZUdnBEZGc0Q2FCSXlJZ3pCWHVfOWtRUzJVa2xxRURJcUlvckNLMjlFdVVuVlYxZFljUWYzenBvaS0xdy1FQWZrN3VITXk1ZDBOOXluaWdXTWZXUXpsWE40dDE4bjA0djNlSWdmR0tacm4tNzBpdVFEN2JqRWxhYUE?oc=5",
-      "description": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role TipRanks",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T12:44:19.000Z",
-      "fetchedAt": "2026-09-25T12:19:16.808Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "TipRanks",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "EU Recognition and Chips Act Funding Highlight QuantumDiamonds’ Strategic Role TipRanks",
-      "id": "a42"
+      "id": "a34"
     },
     {
       "title": "Hong Kong’s pledge to become IP trading center is ‘game-changer’, but requires more than policy and financing platforms",
@@ -547,7 +465,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T11:59:48.000Z",
-      "fetchedAt": "2026-09-25T12:19:14.660Z",
+      "fetchedAt": "2026-09-25T17:34:06.739Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -556,7 +474,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Lawyers from both HK and China shared their thoughts on Hong Kong’s new Five-Year Plan, which pledges to transform it into a regional IP trading center. While they were generally positive, some were skeptical, highlighting that China’s own experience suggests government policy and trading platforms alone cannot create a liquid market for IP.",
-      "id": "a43"
+      "id": "a36"
     },
     {
       "title": "Implications of China’s fresh judicial opinion on AI for IP owners and litigants",
@@ -566,7 +484,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-23T08:20:00.000Z",
-      "fetchedAt": "2026-09-25T12:19:13.143Z",
+      "fetchedAt": "2026-09-25T17:34:03.418Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -575,45 +493,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The Supreme Court’s first issued document guiding the adjudication of AI-related disputes is set to have a significant practical influence on how both rights holders and the courts approach complex issues, such as the allocation of responsibility and treatment of technical evidence.",
-      "id": "a46"
-    },
-    {
-      "title": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
-      "url": "https://ipfray.com/byd-seeks-declaratory-judgment-against-first-solar-following-itc-complaint-withdrawal-challenges-patent-ownership/",
-      "description": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose tariffs on polysilicon imports from China and elsewhere.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-09-22T20:39:54.000Z",
-      "fetchedAt": "2026-09-25T12:19:14.660Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose tariffs on polysilicon imports from China and elsewhere.",
-      "id": "a47"
-    },
-    {
-      "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
-      "url": "https://www.lightreading.com/smartphones-devices/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-record-4-2m-omdia",
-      "description": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-09-22T14:42:30.000Z",
-      "fetchedAt": "2026-09-25T12:19:14.857Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "subLabel": "Supply Chain",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-      "id": "a48"
+      "id": "a39"
     }
   ]
 }
