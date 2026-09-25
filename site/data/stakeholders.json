@@ -1,63 +1,84 @@
 {
-  "generatedAt": "2026-09-25T06:40:57.032Z",
+  "generatedAt": "2026-09-25T12:19:16.863Z",
   "date": "2026-09-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (3 articles), Platform & Ecosystem Partners (2 articles). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (3 articles), Geopolitics & Export Controls (2 articles). A total of 13 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
+        "text": "Geopolitics & Export Controls: AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optic",
         "articleIds": [
-          "a3"
+          "a7"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get,",
         "articleIds": [
-          "a9"
+          "a14"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
         "articleIds": [
-          "a22"
+          "a24"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
         "articleIds": [
-          "a23"
+          "a25"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
         "articleIds": [
-          "a25"
+          "a27"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
         "articleIds": [
-          "a29"
+          "a31"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
         "articleIds": [
-          "a39"
+          "a41"
         ],
         "subCategory": "ip"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Chip Industry Week In Review",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-157/",
+      "description": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "source": "Semiconductor Engineering",
+      "sourceId": "semiconductor-engineering",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-09-25T07:01:42.000Z",
+      "fetchedAt": "2026-09-25T12:19:12.201Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "id": "a7"
+    },
     {
       "title": "How UK, China courts reached conflicting FRAND rates in ZTE v Samsung",
       "url": "https://www.iam-media.com/article/how-uk-china-courts-reached-conflicting-frand-rates-in-zte-v-samsung",
@@ -66,7 +87,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-25T05:00:00.000Z",
-      "fetchedAt": "2026-09-25T06:40:53.412Z",
+      "fetchedAt": "2026-09-25T12:19:13.143Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,7 +98,7 @@
         "oem"
       ],
       "summary": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
-      "id": "a3"
+      "id": "a9"
     },
     {
       "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
@@ -87,7 +108,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-25T01:25:53.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.900Z",
+      "fetchedAt": "2026-09-25T12:19:11.121Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -97,7 +118,7 @@
         "platform-partner"
       ],
       "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication.",
-      "id": "a9"
+      "id": "a14"
     },
     {
       "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
@@ -107,7 +128,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:42:17.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -117,7 +138,7 @@
         "oem"
       ],
       "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
@@ -127,7 +148,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:41:00.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,7 +158,7 @@
         "oem"
       ],
       "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a23"
+      "id": "a25"
     },
     {
       "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
@@ -147,7 +168,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:32:00.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -157,7 +178,7 @@
         "platform-partner"
       ],
       "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
-      "id": "a25"
+      "id": "a27"
     },
     {
       "title": "Meta's new AI device changes everything",
@@ -167,7 +188,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:00:13.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -177,7 +198,7 @@
         "platform-partner"
       ],
       "summary": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
-      "id": "a26"
+      "id": "a28"
     },
     {
       "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
@@ -187,7 +208,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-25T06:40:55.318Z",
+      "fetchedAt": "2026-09-25T12:19:14.660Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -199,7 +220,7 @@
         "oem"
       ],
       "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a29"
+      "id": "a31"
     },
     {
       "title": "What's Going On With Qualcomm Stock Thursday",
@@ -209,7 +230,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:49:16.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -219,7 +240,7 @@
         "oem"
       ],
       "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-      "id": "a30"
+      "id": "a32"
     },
     {
       "title": "Qualcomm CFO says look beyond the Apple deal",
@@ -229,7 +250,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:36:35.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -239,7 +260,7 @@
         "oem"
       ],
       "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "id": "a31"
+      "id": "a33"
     },
     {
       "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -249,7 +270,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:08:32.000Z",
-      "fetchedAt": "2026-09-25T06:40:51.486Z",
+      "fetchedAt": "2026-09-25T12:19:10.665Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -262,7 +283,7 @@
         "platform-partner"
       ],
       "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-      "id": "a36"
+      "id": "a38"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -272,7 +293,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-25T06:40:54.817Z",
+      "fetchedAt": "2026-09-25T12:19:14.627Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -282,7 +303,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a38"
+      "id": "a40"
     },
     {
       "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
@@ -292,7 +313,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:55:11.000Z",
-      "fetchedAt": "2026-09-25T06:40:55.796Z",
+      "fetchedAt": "2026-09-25T12:19:15.609Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -305,7 +326,7 @@
         "oem"
       ],
       "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-      "id": "a39"
+      "id": "a41"
     }
   ]
 }
