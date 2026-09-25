@@ -1,28 +1,53 @@
 {
-  "generatedAt": "2026-09-24T21:51:07.096Z",
+  "generatedAt": "2026-09-25T00:54:21.792Z",
   "date": "2026-09-25",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Wireless Communication: What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "wireless"
+      },
       {
         "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
         "articleIds": [
-          "a2"
+          "a11"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
         "articleIds": [
-          "a17"
+          "a24"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm’s new ‘Elite’ sound chip might finally deliver the Wi-Fi earbud dream",
+      "url": "https://www.theverge.com/tech/1000443/qualcomms-new-elite-sound-chip-might-finally-deliver-the-wi-fi-earbud-dream",
+      "description": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud. If that sounds like a familiar promise, it's probably because Qualcomm promised something similar back in 2023 with the \"S7 Pro sound platform\" and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Name … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-24T23:42:39.000Z",
+      "fetchedAt": "2026-09-25T00:54:10.329Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "What if your wireless earbuds - or audio glasses - could stream high-quality lossless audio that doesn't cut out when you leave your phone on the bedside charger or buried in the couch? Qualcomm's new Snapdragon Sound Elite Gen 2 is its first to integrate \"micro-power Wi-Fi 6E\" right into the chip, so they can connect directly to your home Wi-Fi network, and from there to the cloud. If that sounds like a familiar promise, it's probably because Qualcomm promised something similar back in 2023 with the \"S7 Pro sound platform\" and its Expanded Personal Area Network (XPAN) tech, saying that Wi-Fi earbuds can do what Bluetooth alone cannot. Name … Read the full story at The Verge.",
+      "id": "a2"
+    },
     {
       "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
       "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
@@ -31,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:41:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +66,7 @@
         "oem"
       ],
       "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a2"
+      "id": "a11"
     },
     {
       "title": "PrismML brings its tiny LLMs to Qualcomm-powered smart glasses",
@@ -51,7 +76,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-24T19:00:42.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.381Z",
+      "fetchedAt": "2026-09-25T00:54:09.807Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -59,7 +84,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Prism's larger goal is open-weight AI that runs on devices and makes better use of the computing power they already have.",
-      "id": "a5"
+      "id": "a14"
     },
     {
       "title": "Qualcomm CFO says look beyond the Apple deal",
@@ -69,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:36:35.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -79,7 +104,7 @@
         "oem"
       ],
       "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "id": "a12"
+      "id": "a22"
     },
     {
       "title": "Can QCOM's Snapdragon Sound Elite Gen 2 for AI Wearables Drive Growth?",
@@ -89,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T15:54:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -97,7 +122,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's Snapdragon Sound Elite Gen 2 brings on-device AI, advanced audio and connectivity to next-generation intelligent wearables.",
-      "id": "a17"
+      "id": "a24"
     },
     {
       "title": "Qualcomm or Cisco: One Dividend Will Outpace the Other From Here",
@@ -107,7 +132,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:05:05.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -115,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Cisco both raise their dividends every year and both are racing into AI infrastructure, but their capital allocation priorities point in completely different directions for a retiree who needs the income to be reliable.",
-      "id": "a22"
+      "id": "a30"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -125,7 +150,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-24T21:51:04.792Z",
+      "fetchedAt": "2026-09-25T00:54:19.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -135,7 +160,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a31"
     },
     {
       "title": "Qualcomm vs. Marvell: Which Underdog AI Chip Stock Has More Upside From Here?",
@@ -145,7 +170,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:54:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -153,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm has more upside because its AI data center push is still underappreciated, while Marvell's AI growth story is already well known.",
-      "id": "a25"
+      "id": "a33"
     },
     {
       "title": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC - digitimes",
@@ -163,7 +188,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T02:42:03.000Z",
-      "fetchedAt": "2026-09-24T21:51:07.044Z",
+      "fetchedAt": "2026-09-25T00:54:21.743Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "digitimes",
       "section": "core-businesses",
@@ -172,7 +197,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm adopts 'offset PoP' packaging to cool new flagship phone SoC digitimes",
-      "id": "a34"
+      "id": "a40"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -182,7 +207,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-24T21:51:04.792Z",
+      "fetchedAt": "2026-09-25T00:54:19.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -190,7 +215,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a40"
+      "id": "a45"
     }
   ]
 }

@@ -1,57 +1,57 @@
 {
-  "generatedAt": "2026-09-24T21:51:07.096Z",
+  "generatedAt": "2026-09-25T00:54:21.792Z",
   "date": "2026-09-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (4 articles), Semiconductors (3 articles), market-performance (2 articles). A total of 14 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (3 articles), market-performance (1 article). A total of 11 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
         "articleIds": [
-          "a1"
+          "a10"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
         "articleIds": [
-          "a2"
+          "a11"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
         "articleIds": [
-          "a3"
+          "a12"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "Platform & Ecosystem Partners: Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's",
         "articleIds": [
-          "a4"
+          "a13"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Geopolitics & Export Controls: Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out w",
         "articleIds": [
-          "a7"
+          "a16"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
         "articleIds": [
-          "a8"
+          "a18"
         ],
         "subCategory": "frand-licensing"
       },
       {
-        "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+        "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
         "articleIds": [
-          "a24"
+          "a32"
         ],
         "subCategory": "ip"
       }
@@ -66,7 +66,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:42:17.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -76,7 +76,7 @@
         "oem"
       ],
       "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-      "id": "a1"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
@@ -86,7 +86,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:41:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -96,7 +96,7 @@
         "oem"
       ],
       "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a2"
+      "id": "a11"
     },
     {
       "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
@@ -106,7 +106,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:32:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -116,7 +116,7 @@
         "platform-partner"
       ],
       "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
-      "id": "a3"
+      "id": "a12"
     },
     {
       "title": "Meta's new AI device changes everything",
@@ -126,7 +126,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:00:13.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -136,7 +136,7 @@
         "platform-partner"
       ],
       "summary": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
-      "id": "a4"
+      "id": "a13"
     },
     {
       "title": "AI Takes Center Stage From Oracle to the White House",
@@ -146,7 +146,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T18:35:43.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.664Z",
+      "fetchedAt": "2026-09-25T00:54:10.225Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -157,7 +157,7 @@
         "platform-partner"
       ],
       "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
-      "id": "a7"
+      "id": "a16"
     },
     {
       "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
@@ -167,7 +167,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-24T21:51:05.440Z",
+      "fetchedAt": "2026-09-25T00:54:20.035Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -179,7 +179,7 @@
         "oem"
       ],
       "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a8"
+      "id": "a18"
     },
     {
       "title": "What's Going On With Qualcomm Stock Thursday",
@@ -189,7 +189,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:49:16.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -199,7 +199,7 @@
         "oem"
       ],
       "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-      "id": "a11"
+      "id": "a21"
     },
     {
       "title": "Qualcomm CFO says look beyond the Apple deal",
@@ -209,7 +209,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:36:35.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -219,7 +219,7 @@
         "oem"
       ],
       "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "id": "a12"
+      "id": "a22"
     },
     {
       "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -229,7 +229,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:08:32.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -242,7 +242,7 @@
         "platform-partner"
       ],
       "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-      "id": "a21"
+      "id": "a29"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -252,7 +252,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-24T21:51:04.792Z",
+      "fetchedAt": "2026-09-25T00:54:19.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -262,19 +262,19 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a31"
     },
     {
-      "title": "Qualcomm secures extension to global patent licensing pact with Apple - reuters.com",
+      "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
       "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxORUFWMEMwcmhuYVJuR005cG5sLU05RFd6bFFyY0p3Tk01NnZBMVhDZW85LVJFQ0k1R2RCZGU4d29PWHdJZjZaUTFKclM1eHZlU3F6aHJ4Szc4NkFqM2NIdFNhdzNVQjV3QUJael9ZQVNrSnA5cVc4Vk5FSkdrSndEYUVWUW11Ti15cXUwQ0ZyNHU5bXRqaF9ZQ2VR?oc=5",
-      "description": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
+      "description": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
       "source": "Reuters",
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:55:11.000Z",
-      "fetchedAt": "2026-09-24T21:51:05.890Z",
+      "fetchedAt": "2026-09-25T00:54:20.452Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "reuters.com",
+      "googleNewsSource": "Reuters",
       "section": "ip-legal",
       "subCategory": "ip",
       "subLabel": "IP / Intellectual Property",
@@ -284,72 +284,8 @@
       "stakeholders": [
         "oem"
       ],
-      "summary": "Qualcomm secures extension to global patent licensing pact with Apple reuters.com",
-      "id": "a24"
-    },
-    {
-      "title": "Qualcomm secures long-term Apple patent deal, easing revenue fears",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-secures-long-term-apple-121538491.html?.tsrc=rss",
-      "description": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T12:15:38.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Investing.com -- Qualcomm (NASDAQ:QCOM) shares ticked up 0.2% today after the chipmaker announced a renewed global patent licensing agreement with Apple, taking effect April 1, 2027. The deal secures a critical, long-term revenue stream for Qualcomm, helping the stock pare earlier losses amid a broader Nasdaq 100 sell-off.",
-      "id": "a27"
-    },
-    {
-      "title": "Qualcomm Renews Licensing Pact With Apple Starting in 2027",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-24/qualcomm-renews-global-licensing-pact-with-apple-starting-2027",
-      "description": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T11:38:38.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.664Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm Inc., the largest producer of smartphone processors, renewed its global licensing pact with Apple Inc. starting April 1, signaling that the iPhone maker will remain a customer for now.",
-      "id": "a29"
-    },
-    {
-      "title": "Qualcomm Announces Renewal of Global Patent License Agreement with Apple",
-      "url": "https://finance.yahoo.com/technology/articles/qualcomm-announces-renewal-global-patent-113000391.html?.tsrc=rss",
-      "description": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T11:30:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm Incorporated today announced the renewal of its global patent license agreement with Apple, effective April 1, 2027.",
-      "id": "a30"
+      "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
+      "id": "a32"
     }
   ]
 }

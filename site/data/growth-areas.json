@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-24T21:51:07.096Z",
+  "generatedAt": "2026-09-25T00:54:21.792Z",
   "date": "2026-09-25",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
         "articleIds": [
-          "a3"
+          "a12"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:32:00.000Z",
-      "fetchedAt": "2026-09-24T21:51:01.489Z",
+      "fetchedAt": "2026-09-25T00:54:09.848Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
-      "id": "a3"
+      "id": "a12"
     }
   ]
 }
