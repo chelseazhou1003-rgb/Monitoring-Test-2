@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-25T00:54:21.792Z",
+  "generatedAt": "2026-09-25T06:40:57.032Z",
   "date": "2026-09-25",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,14 +9,14 @@
       {
         "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
         "articleIds": [
-          "a18"
+          "a29"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
         "articleIds": [
-          "a32"
+          "a39"
         ],
         "subCategory": "ip"
       }
@@ -31,7 +31,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-25T00:54:20.035Z",
+      "fetchedAt": "2026-09-25T06:40:55.318Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -43,7 +43,7 @@
         "oem"
       ],
       "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a18"
+      "id": "a29"
     },
     {
       "title": "What's Going On With Qualcomm Stock Thursday",
@@ -53,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:49:16.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -63,7 +63,7 @@
         "oem"
       ],
       "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-      "id": "a21"
+      "id": "a30"
     },
     {
       "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -73,7 +73,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:08:32.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -86,7 +86,7 @@
         "platform-partner"
       ],
       "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-      "id": "a29"
+      "id": "a36"
     },
     {
       "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
@@ -96,7 +96,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:55:11.000Z",
-      "fetchedAt": "2026-09-25T00:54:20.452Z",
+      "fetchedAt": "2026-09-25T06:40:55.796Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -109,7 +109,7 @@
         "oem"
       ],
       "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-      "id": "a32"
+      "id": "a39"
     }
   ]
 }

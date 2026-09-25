@@ -1,63 +1,104 @@
 {
-  "generatedAt": "2026-09-25T00:54:21.792Z",
+  "generatedAt": "2026-09-25T06:40:57.032Z",
   "date": "2026-09-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (3 articles), market-performance (1 article). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (3 articles), Platform & Ecosystem Partners (2 articles). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "Platform & Ecosystem Partners: Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get,",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "platform-partner"
+      },
       {
         "text": "market-performance: Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
         "articleIds": [
-          "a10"
+          "a22"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
         "articleIds": [
-          "a11"
+          "a23"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Data Center: It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
         "articleIds": [
-          "a12"
+          "a25"
         ],
         "subCategory": "data-center"
       },
       {
-        "text": "Platform & Ecosystem Partners: Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's",
-        "articleIds": [
-          "a13"
-        ],
-        "subCategory": "platform-partner"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out w",
-        "articleIds": [
-          "a16"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
         "text": "FRAND & Licensing: No details are known, but this is likely one of the largest patent license deals in the industry.",
         "articleIds": [
-          "a18"
+          "a29"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Qualcomm secures extension to global patent licensing pact with Apple Reuters",
         "articleIds": [
-          "a32"
+          "a39"
         ],
         "subCategory": "ip"
       }
     ]
   },
   "articles": [
+    {
+      "title": "How UK, China courts reached conflicting FRAND rates in ZTE v Samsung",
+      "url": "https://www.iam-media.com/article/how-uk-china-courts-reached-conflicting-frand-rates-in-zte-v-samsung",
+      "description": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-09-25T05:00:00.000Z",
+      "fetchedAt": "2026-09-25T06:40:53.412Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
+      "id": "a3"
+    },
+    {
+      "title": "Microsoft is killing off the ‘Copilot Plus PC’ brand",
+      "url": "https://www.theverge.com/tech/1000495/microsoft-is-killing-off-the-copilot-plus-pc-brand",
+      "description": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication. Kedar Kondap, Qualcomm's SVP … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-25T01:25:53.000Z",
+      "fetchedAt": "2026-09-25T06:40:51.900Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Microsoft CEO Satya Nadella introducing the company’s Copilot Plus PC initiative. | Image: Allison Johnson Remember when Microsoft wanted everyone to know that \"Copilot Plus PCs\" were the ones to get, because those were the PCs that that'd have enough built-in AI muscle to get things done? Two and a half years later, Microsoft and Qualcomm seem to be admitting the brand is already dead. Windows Central's Zac Bowden reports that even though the new 12-inch Microsoft Surface Pro and 13-inch Surface Laptop technically meet the system requirements for a Copilot Plus PC, Microsoft is not calling them by that name anymore. \"These are not called Copilot Plus PCs,\" Microsoft Surface CVP Brett Ostrom told the publication.",
+      "id": "a9"
+    },
     {
       "title": "Chip Stocks Retreat. Qualcomm Secures Apple Licensing Deal.",
       "url": "https://finance.yahoo.com/m/8ea0b1f5-46a4-34c2-85d6-4408049c70de/chip-stocks-retreat.-qualcomm.html?.tsrc=rss",
@@ -66,7 +107,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:42:17.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -76,7 +117,7 @@
         "oem"
       ],
       "summary": "Chip stocks fell along with the broader market on Thursday as the U.S. and China held trade talks in Washington, D.C.",
-      "id": "a10"
+      "id": "a22"
     },
     {
       "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
@@ -86,7 +127,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:41:00.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -96,7 +137,7 @@
         "oem"
       ],
       "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a11"
+      "id": "a23"
     },
     {
       "title": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
@@ -106,7 +147,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:32:00.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -116,7 +157,7 @@
         "platform-partner"
       ],
       "summary": "It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico.",
-      "id": "a12"
+      "id": "a25"
     },
     {
       "title": "Meta's new AI device changes everything",
@@ -126,7 +167,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T20:00:13.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -136,28 +177,7 @@
         "platform-partner"
       ],
       "summary": "Everyone's talking about the meteoric rise of Meta's Muse, but Zuck's real power move dropped a day later: a secretive, keychain-sized AI device with a camera and mic, shipped months ahead of OpenAI's rumored rival. Host Ejaaz Ahamadeen breaks down the Muse Charm news from Qualcomm's Snapdragon Summit in Hawaii, and unpacks the biggest stories of the week from Meta Connect and beyond.",
-      "id": "a13"
-    },
-    {
-      "title": "AI Takes Center Stage From Oracle to the White House",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-24/bloomberg-tech-9-24-2026-video",
-      "description": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T18:35:43.000Z",
-      "fetchedAt": "2026-09-25T00:54:10.225Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Bloomberg’s Ed Ludlow breaks down Oracle's latest move to protect itself from mounting costs on a massive New Mexico data center facing regulatory setbacks and local opposition. Plus, Meta comes out with a new palm-sized device for using its popular new AI assistant, Muse; and all eyes are on President Trump and China's President Xi Jinping as they meet in the White House and discuss AI.",
-      "id": "a16"
+      "id": "a26"
     },
     {
       "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
@@ -167,7 +187,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-25T00:54:20.035Z",
+      "fetchedAt": "2026-09-25T06:40:55.318Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -179,7 +199,7 @@
         "oem"
       ],
       "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a18"
+      "id": "a29"
     },
     {
       "title": "What's Going On With Qualcomm Stock Thursday",
@@ -189,7 +209,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:49:16.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -199,7 +219,7 @@
         "oem"
       ],
       "summary": "Qualcomm Shares Drop After Apple Extends Long-Running Licensing Pact",
-      "id": "a21"
+      "id": "a30"
     },
     {
       "title": "Qualcomm CFO says look beyond the Apple deal",
@@ -209,7 +229,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T17:36:35.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -219,7 +239,7 @@
         "oem"
       ],
       "summary": "Here’s what’s next for Qualcomm and its AI ambition.",
-      "id": "a22"
+      "id": "a31"
     },
     {
       "title": "Qualcomm Renews Global Apple Patent License — Extends Key Licensing Relationship Into 2027",
@@ -229,7 +249,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T14:08:32.000Z",
-      "fetchedAt": "2026-09-25T00:54:09.848Z",
+      "fetchedAt": "2026-09-25T06:40:51.486Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -242,7 +262,7 @@
         "platform-partner"
       ],
       "summary": "The renewal with Apple comes as Qualcomm expands its latest Snapdragon lineup around agentic AI and lands its new Reality Elite processor in Meta’s upcoming VR glasses.",
-      "id": "a29"
+      "id": "a36"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -252,7 +272,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-25T00:54:19.532Z",
+      "fetchedAt": "2026-09-25T06:40:54.817Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -262,7 +282,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a31"
+      "id": "a38"
     },
     {
       "title": "Qualcomm secures extension to global patent licensing pact with Apple - Reuters",
@@ -272,7 +292,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-24T12:55:11.000Z",
-      "fetchedAt": "2026-09-25T00:54:20.452Z",
+      "fetchedAt": "2026-09-25T06:40:55.796Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -285,7 +305,7 @@
         "oem"
       ],
       "summary": "Qualcomm secures extension to global patent licensing pact with Apple Reuters",
-      "id": "a32"
+      "id": "a39"
     }
   ]
 }
