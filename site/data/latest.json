@@ -1,18 +1,18 @@
 {
-  "generatedAt": "2026-09-25T17:34:08.915Z",
+  "generatedAt": "2026-09-25T20:46:04.656Z",
   "date": "2026-09-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 10,
+      "articleCount": 8,
       "topHeadline": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (6 articles), Mobile Chips (4 articles). A total of 10 articles were aggregated from monitored sources."
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles). A total of 8 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 3,
-      "topHeadline": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
+      "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
       "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 24,
-      "topHeadline": "Details on U.S.-China trade negotiations coming Monday, USTR Greer says",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), market-performance (3 articles). A total of 24 articles were aggregated from monitored sources."
+      "articleCount": 23,
+      "topHeadline": "Greer: No AI chip talks with China this time - AzerNews",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (3 articles). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 2,
-      "topHeadline": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
+      "articleCount": 3,
+      "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
       "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 12,
-      "topHeadline": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Geopolitics & Export Controls (2 articles), FRAND & Licensing (2 articles). A total of 12 articles were aggregated from monitored sources."
+      "articleCount": 11,
+      "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (2 articles), Geopolitics & Export Controls (2 articles). A total of 11 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 52
+  "totalArticles": 49
 }
