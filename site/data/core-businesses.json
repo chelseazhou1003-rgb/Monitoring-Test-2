@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-09-25T20:46:04.653Z",
+  "generatedAt": "2026-09-26T00:10:15.168Z",
   "date": "2026-09-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (4 articles), Semiconductors (3 articles). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about wh",
         "articleIds": [
-          "a4"
+          "a9"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest bra",
         "articleIds": [
-          "a7"
+          "a11"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-25T20:45:57.798Z",
+      "fetchedAt": "2026-09-26T00:10:07.970Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +41,7 @@
         "oem"
       ],
       "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-      "id": "a4"
+      "id": "a9"
     },
     {
       "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T14:07:05.000Z",
-      "fetchedAt": "2026-09-25T20:45:57.798Z",
+      "fetchedAt": "2026-09-26T00:10:07.970Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -61,7 +61,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest brands in tech, sports, and AI. He breaks down the brand strategy turning an invisible chip into a household name, why Microsoft's consumer Surface lineup is now 100% powered by Snapdragon, and the company’s groundbreaking partnerships with Manchester United and Mercedes F1.",
-      "id": "a7"
+      "id": "a11"
     },
     {
       "title": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T13:05:37.000Z",
-      "fetchedAt": "2026-09-25T20:45:57.798Z",
+      "fetchedAt": "2026-09-26T00:10:07.970Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -79,7 +79,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm stock is surging far past its semiconductor peers after a brutal selloff, and the reason traces back to a single AI narrative that could make or break its royalty engine.",
-      "id": "a10"
+      "id": "a14"
     },
     {
       "title": "Why Is Qualcomm (QCOM) Pushing AI From Phones To Cars And Edge Devices?",
@@ -89,7 +89,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T10:08:49.000Z",
-      "fetchedAt": "2026-09-25T20:45:57.798Z",
+      "fetchedAt": "2026-09-26T00:10:07.970Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -97,27 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) introduced its Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6 processors with advanced on-device AI features. The new chips target premium smartphones and extend Qualcomm's reach into automotive systems, edge devices, and data center workloads using agentic AI. Management linked the launch to the firm's automotive digital chassis platform as it pushes AI processing closer to the device. Qualcomm's Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6 launches are...",
-      "id": "a12"
-    },
-    {
-      "title": "Qualcomm Renews Deal With Apple. Why the Stock Is Dropping Anyway.",
-      "url": "https://finance.yahoo.com/m/0412a422-5fee-33a8-ab4d-b97c6520a9e0/qualcomm-renews-deal-with.html?.tsrc=rss",
-      "description": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-24T20:41:00.000Z",
-      "fetchedAt": "2026-09-25T20:45:57.798Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Bernstein analyst Stacy Rasgon wrote that the lack of “specificity” in the renewal announcement “gives us a little bit of pause.”",
-      "id": "a27"
+      "id": "a16"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -127,7 +107,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-25T20:46:02.919Z",
+      "fetchedAt": "2026-09-26T00:10:13.334Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,7 +117,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a31"
+      "id": "a29"
     },
     {
       "title": "Qualcomm presenta sus nuevos procesadores Snapdragon de gama alta",
@@ -147,7 +127,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:55:52.000Z",
-      "fetchedAt": "2026-09-25T20:46:02.920Z",
+      "fetchedAt": "2026-09-26T00:10:13.334Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -155,7 +135,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm ha presentado las nuevas plataformas Snapdragon de gama alta para smartphones, que, según la empresa, incorporan varias funciones inteligentes. The post Qualcomm presenta sus nuevos procesadores Snapdragon de gama alta appeared first on Mobile World Live.",
-      "id": "a33"
+      "id": "a31"
     },
     {
       "title": "Qualcomm unveils latest Snapdragon flagships",
@@ -165,7 +145,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-23T08:35:07.000Z",
-      "fetchedAt": "2026-09-25T20:46:02.920Z",
+      "fetchedAt": "2026-09-26T00:10:13.334Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -173,7 +153,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-      "id": "a34"
+      "id": "a32"
     }
   ]
 }

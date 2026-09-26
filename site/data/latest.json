@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-25T20:46:04.656Z",
+  "generatedAt": "2026-09-26T00:10:15.170Z",
   "date": "2026-09-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 8,
+      "articleCount": 7,
       "topHeadline": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-      "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles). A total of 8 articles were aggregated from monitored sources."
+      "topHeadlineId": "a9",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (4 articles), Semiconductors (3 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 3,
       "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Oracle, Qualcomm, Meta, Everpure, BlackBerry, MGM, Nebius, and More Stocks That Explain Today’s Market",
-      "topHeadlineId": "a28",
-      "briefingSummary": "One article today covering Data Center. It sent a force majeure notice to the developer of the Project Jupiter campus, its data center project in New Mexico."
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 23,
-      "topHeadline": "Greer: No AI chip talks with China this time - AzerNews",
+      "topHeadline": "U.S.-China talks extend limited trade truce while clashes persist on chips, Taiwan - CHOSUNBIZ - Chosunbiz",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (3 articles). A total of 23 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), market-performance (2 articles). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 3,
       "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 11,
+      "articleCount": 9,
       "topHeadline": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), FRAND & Licensing (2 articles), Geopolitics & Export Controls (2 articles). A total of 11 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Semiconductors (2 articles), Geopolitics & Export Controls (2 articles). A total of 9 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 49
+  "totalArticles": 45
 }
