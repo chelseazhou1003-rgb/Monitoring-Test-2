@@ -1,35 +1,94 @@
 {
-  "generatedAt": "2026-09-26T14:45:06.332Z",
-  "date": "2026-09-26",
+  "generatedAt": "2026-09-26T18:05:30.627Z",
+  "date": "2026-09-27",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (1 article), market-performance (1 article). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 19 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national s",
+        "text": "Geopolitics & Export Controls: Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode o",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Customers & Partners: Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+        "text": "market-performance: 3 AI Chip Stocks Retail Investors Are Watching After The US China Trade Truce simplywall.st",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "customers-partners"
-      },
-      {
-        "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
-        "articleIds": [
-          "a5"
+          "a2"
         ],
         "subCategory": "market-performance"
+      },
+      {
+        "text": "Customers & Partners: Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Kids turned the comment section of an NPR podcast into a group chat",
+      "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
+      "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-26T17:32:35.000Z",
+      "fetchedAt": "2026-09-26T18:05:24.829Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge.",
+      "id": "a1"
+    },
+    {
+      "title": "3 AI Chip Stocks Retail Investors Are Watching After The US China Trade Truce - simplywall.st",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPYjRPRFVPWmlPbERHZ1JzUFM4UGV0czJOZVpEQ2RZWmhiaTVVSDVYMDM2LXpaZjRfUS1pOWtUOVJOaHdPWVh0aWxTRzdzaGNjUHFOWjdGX1NaLTJpU3B2R1FscGM1cEhvLVZDSDk5bV9yeXhOVDNmOWk5dXB5azRxbkpUNXQzdk5POEcyeF9jWlNseTVqOTg3eVM5cXpGbjVYTFFxNjBLN1E4NENJOWRyV3lmUW9GeW5xY1dxQkJIUVN6S3M5WGE1YzUtMS1ybEl0OUdR0gHYAUFVX3lxTE5MRHJSdmZVTllZUXJpSW44d0VVRDNrZ1lEYjhmN2tDbGVtQUlhUFhmbVh5eXRQU1d4Wi03QU5DQzZfNmVqUkgzNVpOWmdIbzNQN0F3b04yTExoR00wOGZkZFdEb05qTlJaQ3Z2OThiSlYyd25pMU42eUhaWFlYcWVWUmF5ekRudVpxdHh1MWRvX2I5azJZUjRlOTNoSkU1UWEyVjlORkxQQ0dQTTlsN290SFBHZ3lfaU1TVzIwRVN2Z1FiYXFCc1Yxd21tSHVTc1dUcFBQaDNudg?oc=5",
+      "description": "3 AI Chip Stocks Retail Investors Are Watching After The US China Trade Truce simplywall.st",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-26T16:32:02.000Z",
+      "fetchedAt": "2026-09-26T18:05:30.593Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "simplywall.st",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "3 AI Chip Stocks Retail Investors Are Watching After The US China Trade Truce simplywall.st",
+      "id": "a2"
+    },
+    {
+      "title": "How Taiwan’s ‘silicon shield’ has kept it safe from China, indispensable to US in age of AI - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxNcWpCM1JlRWpxWC14YlNWeVVzU3lRTGtYMlB1b0Z0SEdzd1V4WGg5X3d5d2hjRUFhMUYzRUx6Q2ZHaUdjUHU0WUxGZ2ZSNHU3Ym1UV3o1RHhPajRoN0FsQmsxM2FlQlo4amEwbVF5VnFEZmxuRnUtZTJTZFM3RmxPa3A3Y2dlXy1PU0R1SWVRanQ2SGQ2WDYzZ1QyZ3dvRFZOa3J2QXkwdWZLQTVQT2pjNWk2VTZnd0dlckR6blF6SnhtbmtVeFVuOFFnd3hHci1xWWxGajQ4UHY4QWJpM1FCczRiNFJIWXZ6SGpiNWI0cDdsZUJIS3paZks0TzR4QdIBgwJBVV95cUxOZEJUTzRKM2oydnVyU3ZGcFR4aGNjQ2F4b2E1Y0pybEQ2c3ctbDA3MHBRcDA4dS1QcGNHUkkzY0RZSjViaDExNk9WaTc2T1JqTnJGWkhWeXFQN1k1N1VUdDVVWlRMVWhfOE81MUFPQkhValdidU9icUhWSHhpWVowdTdMV0NRZXU2OTY3ZGpFRVRKOF9GWFdFVUl4bk53VWg5YnRkejMwYTdKdmJnaFN4QVhUSXQ4R2FXV2kwdjZXV0p5RU9jQjJPeHlLNlNYZEQxZEZDWDZOWDdBaU1KVjFxMnFDUjZNRjd0SjJITXNxMms4NDNhdkc5Q1NzckZpS1AzdGZR?oc=5",
+      "description": "How Taiwan’s ‘silicon shield’ has kept it safe from China, indispensable to US in age of AI The Times of India",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-26T14:27:00.000Z",
+      "fetchedAt": "2026-09-26T18:05:30.593Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Times of India",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "How Taiwan’s ‘silicon shield’ has kept it safe from China, indispensable to US in age of AI The Times of India",
+      "id": "a4"
+    },
     {
       "title": "AI Gives Tech Firms New National Security Power",
       "url": "https://www.bloomberg.com/news/videos/2026-09-26/ai-gives-tech-firms-new-national-security-power-video",
@@ -38,7 +97,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T13:19:22.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.198Z",
+      "fetchedAt": "2026-09-26T18:05:24.663Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -47,7 +106,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Author Sharon Weinberger tells Bloomberg This Weekend that Silicon Valley’s relationship with the defense industry has transformed as technology companies and investors increasingly embrace national security work. Speaking with host Christina Ruffini, Weinberger says the growing power of AI and defense technology companies is testing the government’s ability to provide effective regulation and oversight.",
-      "id": "a1"
+      "id": "a5"
     },
     {
       "title": "China wants in on U.S. AI data center boom. Here's why",
@@ -57,7 +116,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T12:00:01.000Z",
-      "fetchedAt": "2026-09-26T14:44:58.990Z",
+      "fetchedAt": "2026-09-26T18:05:24.140Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -66,7 +125,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chinese data center manufacturers see U.S. AI infrastructure demand as an opportunity, but roadblocks remain",
-      "id": "a2"
+      "id": "a6"
     },
     {
       "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
@@ -76,7 +135,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T10:07:25.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.036Z",
+      "fetchedAt": "2026-09-26T18:05:24.231Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -85,7 +144,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- China and the U.S. have agreed to a $30 billion reciprocal tariff-reduction arrangement and to launch dialogue on AI, under an eight-point consensus reached during Chinese President Xi Jinping’s visit to the U.S., China’s foreign ministry said on Saturday.",
-      "id": "a3"
+      "id": "a7"
     },
     {
       "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
@@ -95,7 +154,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T10:00:01.000Z",
-      "fetchedAt": "2026-09-26T14:44:58.990Z",
+      "fetchedAt": "2026-09-26T18:05:24.140Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -104,7 +163,45 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
-      "id": "a4"
+      "id": "a8"
+    },
+    {
+      "title": "Medicines run short in Iran under US sanctions",
+      "url": "https://www.ft.com/content/fb890a8d-f530-497e-8486-27186ee66b9b?syn-25a6b1a6=1",
+      "description": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-26T07:15:32.000Z",
+      "fetchedAt": "2026-09-26T18:05:24.567Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Washington’s campaign to isolate the Islamic republic has made securing pharmaceuticals increasingly difficult",
+      "id": "a9"
+    },
+    {
+      "title": "Why Xi believes the U.S. and China can overcome the 'Thucydides Trap'",
+      "url": "https://www.cnbc.com/2026/09/26/xi-trump-thucydides-trap-us-china.html",
+      "description": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-26T05:00:01.000Z",
+      "fetchedAt": "2026-09-26T18:05:24.140Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "In May, Chinese President Xi Jinping asked U.S. President Donald Trump whether the countries could avoid destructive rivalry. Now, it seems, he thinks they can",
+      "id": "a10"
     },
     {
       "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
@@ -114,7 +211,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.037Z",
+      "fetchedAt": "2026-09-26T18:05:24.231Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -126,7 +223,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "U.S.-China talks extend limited trade truce while clashes persist on chips, Taiwan - CHOSUNBIZ - Chosunbiz",
@@ -136,7 +233,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T23:28:00.000Z",
-      "fetchedAt": "2026-09-26T14:45:06.300Z",
+      "fetchedAt": "2026-09-26T18:05:30.593Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Chosunbiz",
       "geopoliticalBypass": true,
@@ -146,7 +243,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "U.S.-China talks extend limited trade truce while clashes persist on chips, Taiwan - CHOSUNBIZ Chosunbiz",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Harrell: US-China Lack of Deliverables Was as Expected",
@@ -156,7 +253,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T21:47:45.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.198Z",
+      "fetchedAt": "2026-09-26T18:05:24.664Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -165,7 +262,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Peter Harrell says that the key dynamic is not which country has the upper hand, but that both China and the United States have meaningful leverage: the U.S. through tariffs, export controls, semiconductors, the dollar and AI technology, and China through rare earths, specialty chemicals, and manufacturing scale. Harrell says this mutual leverage helps explain the recent emphasis on “strategic stability” and why both countries may want to ease tensions for now while they work to reduce their dependence on each other. He speaks to Romaine Bostick on \"The Close.\" (Source: Bloomberg)",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "China's Economy Unbalanced, AI Deal Hard to Envision, Stephen Roach Says",
@@ -175,7 +272,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T21:00:09.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.198Z",
+      "fetchedAt": "2026-09-26T18:05:24.664Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -184,7 +281,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Stephen Roach, Yale University Jackson Institute for Global Affairs senior fellow and former chairman of Morgan Stanley Asia, says President Donald Trump's meeting with Chinese President Xi Jinping left many unresolved questions about tariffs, technology restrictions, rare earth leverage and Taiwan, even as both sides appeared to project some stability. He speaks on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "id": "a9"
+      "id": "a15"
     },
     {
       "title": "Greer: No AI chip talks with China this time - AzerNews",
@@ -194,7 +291,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T19:30:00.000Z",
-      "fetchedAt": "2026-09-26T14:45:06.300Z",
+      "fetchedAt": "2026-09-26T18:05:30.593Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "AzerNews",
       "geopoliticalBypass": true,
@@ -204,7 +301,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Greer: No AI chip talks with China this time AzerNews",
-      "id": "a10"
+      "id": "a16"
     },
     {
       "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -214,7 +311,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T19:06:47.000Z",
-      "fetchedAt": "2026-09-26T14:45:06.300Z",
+      "fetchedAt": "2026-09-26T18:05:30.593Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Stocktwits",
       "geopoliticalBypass": true,
@@ -224,26 +321,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "id": "a11"
-    },
-    {
-      "title": "Trump-Xi Optics Overshadow Substance, Gewirtz Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-09-25/trump-xi-optics-overshadow-substance-gewirtz-says-video",
-      "description": "Julian Gewirtz, Harvard Belfer Center fellow and former senior director for China and Taiwan Affairs at the White House National Security Council during the Biden administration, says President Donald Trump’s meeting with Xi Jinping delivered the positive optics Trump was seeking, but little visible progress on the major challenges dividing the US and China. He discusses unresolved tensions around trade, Iran, Russia, and Taiwan, as well as the intensifying AI race. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T18:02:09.000Z",
-      "fetchedAt": "2026-09-26T14:44:59.198Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Julian Gewirtz, Harvard Belfer Center fellow and former senior director for China and Taiwan Affairs at the White House National Security Council during the Biden administration, says President Donald Trump’s meeting with Xi Jinping delivered the positive optics Trump was seeking, but little visible progress on the major challenges dividing the US and China. He discusses unresolved tensions around trade, Iran, Russia, and Taiwan, as well as the intensifying AI race. He joins Tim Stenovec on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "id": "a12"
+      "id": "a17"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -253,7 +331,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-25T07:01:42.000Z",
-      "fetchedAt": "2026-09-26T14:45:00.544Z",
+      "fetchedAt": "2026-09-26T18:05:25.644Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -264,7 +342,7 @@
         "foundry"
       ],
       "summary": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a19"
+      "id": "a24"
     },
     {
       "title": "How UK, China courts reached conflicting FRAND rates in ZTE v Samsung",
@@ -274,7 +352,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-25T05:00:00.000Z",
-      "fetchedAt": "2026-09-26T14:45:01.515Z",
+      "fetchedAt": "2026-09-26T18:05:26.737Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -285,26 +363,7 @@
         "oem"
       ],
       "summary": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
-      "id": "a20"
-    },
-    {
-      "title": "Atlanta is getting pandas: China's Xi revives a longtime diplomatic strategy at summit with U.S.",
-      "url": "https://www.cnbc.com/2026/09/25/china-us-xi-trump-visit-panda-student-visa-.html",
-      "description": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-25T01:12:19.000Z",
-      "fetchedAt": "2026-09-26T14:44:58.990Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Chinese President Xi Jinping promised two giant pandas to Zoo Atlanta, reviving Beijing's decades-old charm offensive.",
-      "id": "a21"
+      "id": "a25"
     },
     {
       "title": "China Telecom is all-in on AI tokens despite cost warnings",
@@ -314,7 +373,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T14:10:12.000Z",
-      "fetchedAt": "2026-09-26T14:45:04.521Z",
+      "fetchedAt": "2026-09-26T18:05:28.623Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -323,7 +382,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Telcos are transforming from managing bit traffic to managing tokens, China Telecom says, despite warnings about cost.",
-      "id": "a23"
+      "id": "a27"
     },
     {
       "title": "Hong Kong’s pledge to become IP trading center is ‘game-changer’, but requires more than policy and financing platforms",
@@ -333,7 +392,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T11:59:48.000Z",
-      "fetchedAt": "2026-09-26T14:45:04.023Z",
+      "fetchedAt": "2026-09-26T18:05:28.691Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -342,7 +401,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Lawyers from both HK and China shared their thoughts on Hong Kong’s new Five-Year Plan, which pledges to transform it into a regional IP trading center. While they were generally positive, some were skeptical, highlighting that China’s own experience suggests government policy and trading platforms alone cannot create a liquid market for IP.",
-      "id": "a25"
+      "id": "a29"
     }
   ]
 }
