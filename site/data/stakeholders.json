@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-09-26T05:33:43.185Z",
+  "generatedAt": "2026-09-26T10:18:33.125Z",
   "date": "2026-09-26",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Semiconductors (2 articles). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Semiconductors (2 articles). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "ip"
       },
       {
         "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "Semiconductors: Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about wh",
         "articleIds": [
-          "a11"
+          "a12"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest bra",
         "articleIds": [
-          "a13"
+          "a14"
         ],
         "subCategory": "mobile-chips"
       },
       {
-        "text": "Geopolitics & Export Controls: AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optic",
+        "text": "Geopolitics & Export Controls: GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
         "articleIds": [
-          "a21"
+          "a20"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -71,7 +71,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a1"
+      "id": "a2"
     },
     {
       "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -81,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T00:53:20.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -93,7 +93,7 @@
         "oem"
       ],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:52:40.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -115,7 +115,7 @@
         "oem"
       ],
       "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
@@ -125,7 +125,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -135,7 +135,7 @@
         "oem"
       ],
       "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-      "id": "a11"
+      "id": "a12"
     },
     {
       "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
@@ -145,7 +145,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T16:11:00.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -157,7 +157,7 @@
         "oem"
       ],
       "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
@@ -167,7 +167,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T14:07:05.000Z",
-      "fetchedAt": "2026-09-26T05:33:36.655Z",
+      "fetchedAt": "2026-09-26T10:18:19.859Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -177,38 +177,17 @@
         "platform-partner"
       ],
       "summary": "Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest brands in tech, sports, and AI. He breaks down the brand strategy turning an invisible chip into a household name, why Microsoft's consumer Surface lineup is now 100% powered by Snapdragon, and the company’s groundbreaking partnerships with Manchester United and Mercedes F1.",
-      "id": "a13"
-    },
-    {
-      "title": "Chip Industry Week In Review",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-157/",
-      "description": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "source": "Semiconductor Engineering",
-      "sourceId": "semiconductor-engineering",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-09-25T07:01:42.000Z",
-      "fetchedAt": "2026-09-26T05:33:38.064Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "AI agents move deeper into chip design; China doubles down on AI compute and memory; chip supply chains tighten for equipment and critical materials; TSMC partners accelerate; ICs head to space; optics advances, neural super resolution, auto PQC; Purdue-UIUC workforce training. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a21"
+      "id": "a14"
     },
     {
       "title": "How UK, China courts reached conflicting FRAND rates in ZTE v Samsung",
-      "url": "https://www.iam-media.com/index.php/article/how-uk-china-courts-reached-conflicting-frand-rates-in-zte-v-samsung",
+      "url": "https://www.iam-media.com/article/how-uk-china-courts-reached-conflicting-frand-rates-in-zte-v-samsung",
       "description": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-25T05:00:00.000Z",
-      "fetchedAt": "2026-09-26T05:33:39.112Z",
+      "fetchedAt": "2026-09-26T10:18:29.411Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -219,7 +198,7 @@
         "oem"
       ],
       "summary": "GEN Law’s Ning Dong comprehensively breaks down two rate-setting rulings and dives into how the Chongqing decision stacks up to Oppo v Nokia",
-      "id": "a22"
+      "id": "a20"
     },
     {
       "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
@@ -229,7 +208,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-26T05:33:40.848Z",
+      "fetchedAt": "2026-09-26T10:18:31.207Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -241,7 +220,7 @@
         "oem"
       ],
       "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a24"
+      "id": "a22"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -251,7 +230,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-26T05:33:41.238Z",
+      "fetchedAt": "2026-09-26T10:18:30.843Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -261,7 +240,7 @@
         "oem"
       ],
       "summary": "Qualcomm renewed its global licensing agreement with Apple, effective 1 April 2027, ensuring the chip company will maintain some revenue from the iPhone maker. The post Apple, Qualcomm renew chip licensing agreement appeared first on Mobile World Live.",
-      "id": "a26"
+      "id": "a24"
     }
   ]
 }
