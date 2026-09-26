@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T10:18:33.125Z",
+  "generatedAt": "2026-09-26T14:45:06.332Z",
   "date": "2026-09-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about wh",
         "articleIds": [
-          "a12"
+          "a14"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest bra",
         "articleIds": [
-          "a14"
+          "a16"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-26T10:18:19.859Z",
+      "fetchedAt": "2026-09-26T14:44:59.036Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +41,7 @@
         "oem"
       ],
       "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-      "id": "a12"
+      "id": "a14"
     },
     {
       "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T14:07:05.000Z",
-      "fetchedAt": "2026-09-26T10:18:19.859Z",
+      "fetchedAt": "2026-09-26T14:44:59.036Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -61,7 +61,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest brands in tech, sports, and AI. He breaks down the brand strategy turning an invisible chip into a household name, why Microsoft's consumer Surface lineup is now 100% powered by Snapdragon, and the company’s groundbreaking partnerships with Manchester United and Mercedes F1.",
-      "id": "a14"
+      "id": "a16"
     },
     {
       "title": "Arm Climbs 5% as Buyers Return After Sharp Pullback; Qualcomm Nudges Higher, Intel Sits Out the Rally",
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T13:05:37.000Z",
-      "fetchedAt": "2026-09-26T10:18:19.859Z",
+      "fetchedAt": "2026-09-26T14:44:59.036Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -89,7 +89,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T10:08:49.000Z",
-      "fetchedAt": "2026-09-26T10:18:19.859Z",
+      "fetchedAt": "2026-09-26T14:44:59.036Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -97,7 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) introduced its Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6 processors with advanced on-device AI features. The new chips target premium smartphones and extend Qualcomm's reach into automotive systems, edge devices, and data center workloads using agentic AI. Management linked the launch to the firm's automotive digital chassis platform as it pushes AI processing closer to the device. Qualcomm's Snapdragon 8 Elite Gen 6 and Elite Extreme Gen 6 launches are...",
-      "id": "a19"
+      "id": "a18"
     },
     {
       "title": "Apple, Qualcomm renew chip licensing agreement",
@@ -107,7 +107,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-26T10:18:30.843Z",
+      "fetchedAt": "2026-09-26T14:45:03.863Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-26T10:18:33.130Z",
+  "generatedAt": "2026-09-26T14:45:06.334Z",
   "date": "2026-09-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a14",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 4,
       "topHeadline": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 16,
-      "topHeadline": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+      "topHeadline": "AI Gives Tech Firms New National Security Power",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (1 article), market-performance (1 article). A total of 16 articles were aggregated from monitored sources."
     },
@@ -34,16 +34,16 @@
       "title": "Competitors",
       "articleCount": 5,
       "topHeadline": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a5",
       "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 9,
+      "articleCount": 10,
       "topHeadline": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Semiconductors (2 articles). A total of 9 articles were aggregated from monitored sources."
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Semiconductors (2 articles). A total of 10 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 39
+  "totalArticles": 40
 }
