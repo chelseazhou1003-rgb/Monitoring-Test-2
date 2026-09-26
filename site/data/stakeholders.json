@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:05:30.627Z",
+  "generatedAt": "2026-09-26T21:36:33.912Z",
   "date": "2026-09-27",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
         "articleIds": [
-          "a11"
+          "a15"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
         "articleIds": [
-          "a12"
+          "a16"
         ],
         "subCategory": "ip"
       },
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -71,7 +71,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -81,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T00:53:20.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -93,7 +93,7 @@
         "oem"
       ],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-      "id": "a12"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:52:40.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -125,7 +125,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -145,7 +145,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T16:11:00.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -167,7 +167,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T14:07:05.000Z",
-      "fetchedAt": "2026-09-26T18:05:24.231Z",
+      "fetchedAt": "2026-09-26T21:36:27.573Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -187,7 +187,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-09-25T07:01:42.000Z",
-      "fetchedAt": "2026-09-26T18:05:25.644Z",
+      "fetchedAt": "2026-09-26T21:36:29.152Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -208,7 +208,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-25T05:00:00.000Z",
-      "fetchedAt": "2026-09-26T18:05:26.737Z",
+      "fetchedAt": "2026-09-26T21:36:30.249Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -229,7 +229,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-26T18:05:28.690Z",
+      "fetchedAt": "2026-09-26T21:36:31.785Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -251,7 +251,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-24T13:47:21.000Z",
-      "fetchedAt": "2026-09-26T18:05:28.561Z",
+      "fetchedAt": "2026-09-26T21:36:31.640Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
