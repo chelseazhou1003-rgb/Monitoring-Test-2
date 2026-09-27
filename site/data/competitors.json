@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-09-27T17:19:03.490Z",
+  "generatedAt": "2026-09-27T20:26:07.923Z",
   "date": "2026-09-28",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), market-performance (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), market-performance (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
         "articleIds": [
-          "a18"
+          "a13"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
         "articleIds": [
-          "a19"
+          "a14"
         ],
         "subCategory": "ip"
       },
       {
         "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
         "articleIds": [
-          "a20"
+          "a15"
         ],
         "subCategory": "frand-licensing"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-27T17:18:57.052Z",
+      "fetchedAt": "2026-09-27T20:26:01.976Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -50,7 +50,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a18"
+      "id": "a13"
     },
     {
       "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T00:53:20.000Z",
-      "fetchedAt": "2026-09-27T17:18:57.052Z",
+      "fetchedAt": "2026-09-27T20:26:01.976Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -72,7 +72,7 @@
         "oem"
       ],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-      "id": "a19"
+      "id": "a14"
     },
     {
       "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
@@ -82,7 +82,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:52:40.000Z",
-      "fetchedAt": "2026-09-27T17:18:57.052Z",
+      "fetchedAt": "2026-09-27T20:26:01.976Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -94,7 +94,7 @@
         "oem"
       ],
       "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-      "id": "a20"
+      "id": "a15"
     },
     {
       "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
@@ -104,7 +104,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T16:11:00.000Z",
-      "fetchedAt": "2026-09-27T17:18:57.052Z",
+      "fetchedAt": "2026-09-27T20:26:01.976Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -116,29 +116,7 @@
         "oem"
       ],
       "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-      "id": "a22"
-    },
-    {
-      "title": "Qualcomm, Apple announce renewal of license agreement that was set to expire next spring: details unknown",
-      "url": "https://ipfray.com/qualcomm-apple-announce-renewal-of-license-agreement-that-was-set-to-expire-next-spring-details-unknown/",
-      "description": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-09-24T18:32:11.000Z",
-      "fetchedAt": "2026-09-27T17:19:01.861Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "No details are known, but this is likely one of the largest patent license deals in the industry.",
-      "id": "a26"
+      "id": "a17"
     }
   ]
 }
