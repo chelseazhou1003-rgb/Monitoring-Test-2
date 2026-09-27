@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:26:07.923Z",
+  "generatedAt": "2026-09-27T23:25:26.646Z",
   "date": "2026-09-28",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,21 +9,21 @@
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
         "articleIds": [
-          "a13"
+          "a16"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
         "articleIds": [
-          "a14"
+          "a17"
         ],
         "subCategory": "ip"
       },
       {
         "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
         "articleIds": [
-          "a15"
+          "a18"
         ],
         "subCategory": "frand-licensing"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -50,7 +50,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T00:53:20.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -72,7 +72,7 @@
         "oem"
       ],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-      "id": "a14"
+      "id": "a17"
     },
     {
       "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
@@ -82,7 +82,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:52:40.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -94,7 +94,7 @@
         "oem"
       ],
       "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-      "id": "a15"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
@@ -104,7 +104,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T16:11:00.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -116,7 +116,7 @@
         "oem"
       ],
       "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-      "id": "a17"
+      "id": "a20"
     }
   ]
 }

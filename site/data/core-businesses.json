@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-27T20:26:07.923Z",
+  "generatedAt": "2026-09-27T23:25:26.646Z",
   "date": "2026-09-28",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Mobile Chips: Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap ",
         "articleIds": [
-          "a1"
+          "a4"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
         "articleIds": [
-          "a7"
+          "a10"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-27T17:00:41.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T16:20:01.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-      "id": "a7"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
         "oem"
       ],
       "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-      "id": "a16"
+      "id": "a19"
     },
     {
       "title": "Qualcomm's CMO reveals the secret behind Snapdragon's rise",
@@ -87,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T14:07:05.000Z",
-      "fetchedAt": "2026-09-27T20:26:01.976Z",
+      "fetchedAt": "2026-09-27T23:25:20.658Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -97,7 +97,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm CMO Don McGuire joins In The Loop host Ejaaz Ahamadeen at Qualcomm’s Snapdragon Summit in Maui, for an in-depth look at how a chip you can't even buy off a shelf became one of the biggest brands in tech, sports, and AI. He breaks down the brand strategy turning an invisible chip into a household name, why Microsoft's consumer Surface lineup is now 100% powered by Snapdragon, and the company’s groundbreaking partnerships with Manchester United and Mercedes F1.",
-      "id": "a18"
+      "id": "a21"
     }
   ]
 }
