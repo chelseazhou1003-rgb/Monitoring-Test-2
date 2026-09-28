@@ -2,37 +2,59 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), market-performance (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Apple (1 article), market-performance (1 article), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "apple"
+        },
         {
           "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
           "articleIds": [
-            "a23"
+            "a22"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
           "articleIds": [
-            "a24"
+            "a23"
           ],
           "subCategory": "ip"
-        },
-        {
-          "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-          "articleIds": [
-            "a25"
-          ],
-          "subCategory": "frand-licensing"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+        "url": "https://247wallst.com/investing/2026/09/28/qualcomm-just-locked-in-apple-our-target-sits-above-wall-streets/?.tsrc=rss",
+        "description": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T13:30:44.000Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
+        "fetchStrategy": "rss",
+        "section": "competitors",
+        "subCategory": "apple",
+        "subLabel": "Apple",
+        "competitors": [
+          "apple"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+        "id": "a7"
+      },
       {
         "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
         "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html?.tsrc=rss",
@@ -41,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T02:08:37.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -53,7 +75,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-        "id": "a23"
+        "id": "a22"
       },
       {
         "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -63,7 +85,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T00:53:20.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -75,79 +97,71 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-        "id": "a24"
-      },
-      {
-        "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-apple-extends-175240580.html?.tsrc=rss",
-        "description": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T17:52:40.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "id": "a25"
-      },
-      {
-        "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-renews-apple-patent-deal-161100620.html?.tsrc=rss",
-        "description": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T16:11:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "id": "a27"
+        "id": "a23"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Mobile Chips: Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap ",
+          "text": "Mobile Chips: US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj ",
           "articleIds": [
-            "a14"
+            "a3"
           ],
           "subCategory": "mobile-chips"
         },
         {
-          "text": "Semiconductors: ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
+          "text": "Semiconductors: Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank ",
           "articleIds": [
-            "a19"
+            "a4"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
+        "url": "https://www.mobileworldlive.com/network-tech/impinj-expands-mobile-rfid-ecosystem-with-qualcomm-mediatek/",
+        "description": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-09-28T16:01:00.000Z",
+        "fetchedAt": "2026-09-28T17:49:51.611Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
+        "id": "a3"
+      },
+      {
+        "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
+        "url": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/?.tsrc=rss",
+        "description": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T15:51:29.000Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
+        "id": "a4"
+      },
       {
         "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
         "url": "https://247wallst.com/investing/2026/09/27/qualcomm-stock-has-an-opportunity-investors-may-be-underestimating/?.tsrc=rss",
@@ -156,7 +170,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T17:00:41.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -164,7 +178,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -174,7 +188,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T16:20:01.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -182,33 +196,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-        "id": "a19"
-      },
-      {
-        "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-        "url": "https://247wallst.com/investing/2026/09/25/qualcomm-rallies-6-as-buyers-reverse-apple-renewal-selloff-apple-stock-ticks-up/?.tsrc=rss",
-        "description": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T17:02:46.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-        "id": "a26"
+        "id": "a18"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -218,26 +212,19 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "One article today covering IP / Intellectual Property. QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement tak",
       "keyTakeaways": [
         {
           "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
           "articleIds": [
-            "a24"
+            "a23"
           ],
           "subCategory": "ip"
-        },
-        {
-          "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-          "articleIds": [
-            "a25"
-          ],
-          "subCategory": "frand-licensing"
         }
       ]
     },
@@ -250,7 +237,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T00:53:20.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -262,71 +249,27 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-        "id": "a24"
-      },
-      {
-        "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-apple-extends-175240580.html?.tsrc=rss",
-        "description": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T17:52:40.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "id": "a25"
-      },
-      {
-        "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-renews-apple-patent-deal-161100620.html?.tsrc=rss",
-        "description": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T16:11:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "id": "a27"
+        "id": "a23"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-09-28T08:58:47.695Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.537Z",
+    "date": "2026-09-29",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 3,
-        "topHeadline": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
-        "topHeadlineId": "a14",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 3,
+        "articleCount": 1,
         "topHeadline": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
-        "topHeadlineId": "a24",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a23",
+        "briefingSummary": "One article today covering IP / Intellectual Property. QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement tak"
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -337,54 +280,54 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 21,
-        "topHeadline": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
+        "articleCount": 17,
+        "topHeadline": "Trump, Anthropic CEO Take AI Safety Debate to Dinner",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 21 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
-        "topHeadlineId": "a23",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), market-performance (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 3,
+        "topHeadline": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+        "topHeadlineId": "a7",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Apple (1 article), market-performance (1 article), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 6,
-        "topHeadline": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-        "topHeadlineId": "a16",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 37
+    "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (5 articles), Customers & Partners (2 articles). A total of 21 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of criti",
+          "text": "Geopolitics & Export Controls: President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has calle",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Customers & Partners: This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design",
+          "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
           "articleIds": [
-            "a3"
+            "a5"
           ],
           "subCategory": "customers-partners"
         },
         {
-          "text": "market-performance: China’s technology stocks will need a domestic artificial intelligence catalyst to close their valuation gap with US technology peers, Bloomberg Intelligence said.",
+          "text": "market-performance: Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
           "articleIds": [
-            "a10"
+            "a15"
           ],
           "subCategory": "market-performance"
         }
@@ -392,14 +335,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "China Broadens Travel Curbs to Encompass Family of Top AI Talent",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-broadens-travel-curbs-to-encompass-family-of-top-ai-talent",
-        "description": "China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US.",
+        "title": "Trump, Anthropic CEO Take AI Safety Debate to Dinner",
+        "url": "https://www.bloomberg.com/news/videos/2026-09-28/trump-anthropic-ceo-take-ai-safety-debate-to-dinner-video",
+        "description": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T08:43:31.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
+        "publishedAt": "2026-09-28T17:24:48.000Z",
+        "fetchedAt": "2026-09-28T17:49:46.892Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -407,8 +350,128 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "China has expanded overseas travel restrictions for top AI professionals in private firms to include the families of key personnel, further tightening measures designed to prevent the outflow of critical know-how and information to the US.",
+        "summary": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
         "id": "a1"
+      },
+      {
+        "title": "China Now Requires Travel Approval for Families of AI Lab Executives - WinBuzzer",
+        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeS03eUxsczhnZjg3cVZzeTNDcldaNDdqaEoyVDYxbVY5YmdTbjM0b1JDeHJ6cmEzcTNIVE1IU0NqdjVYa3ZUb3FNeE1aanBET2ZiN1lVNWEzTEtqU3lwa0ljUVZYWU5MSWpOR2NaVWg0dmlfMkE3NjlTUW9HRGlJdVZROHlOYlNZVnJzUGgxMkg5M0xrZy1JWmduZw?oc=5",
+        "description": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T16:31:13.000Z",
+        "fetchedAt": "2026-09-28T17:49:53.501Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "WinBuzzer",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
+        "id": "a2"
+      },
+      {
+        "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+        "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+        "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-28T14:55:12.000Z",
+        "fetchedAt": "2026-09-28T17:49:47.467Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
+        "id": "a5"
+      },
+      {
+        "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+        "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+        "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\" The platform uses Nvidia's OpenShell open-source software, which runs on the company's Vera AI CPU. Users can choose the information an AI agent can access, and OpenShell checks these restrictions before and during a task, according to Nvidia. It also includes Nvidia's Sentry technology on a separate … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-28T13:36:06.000Z",
+        "fetchedAt": "2026-09-28T17:49:47.469Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\" The platform uses Nvidia's OpenShell open-source software, which runs on the company's Vera AI CPU. Users can choose the information an AI agent can access, and OpenShell checks these restrictions before and during a task, according to Nvidia. It also includes Nvidia's Sentry technology on a separate … Read the full story at The Verge.",
+        "id": "a6"
+      },
+      {
+        "title": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BLUVseVJDMDh2aXJpeF9fZkxxak9HMFlWR1l3eFhUODFkR19xOXczc0UtdkhRSW1NcmtaWS1JRjhuWGhhRU1SalhjMG1ybzVIaHVfcldPdll3NnBqRm5zZWR3?oc=5",
+        "description": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T13:30:00.000Z",
+        "fetchedAt": "2026-09-28T17:49:53.501Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Global Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
+        "id": "a8"
+      },
+      {
+        "title": "Honor pushes cinematic qualities of latest flagship",
+        "url": "https://www.mobileworldlive.com/devices/honor-pushes-cinematic-qualities-of-latest-flagship/",
+        "description": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-09-28T10:50:14.000Z",
+        "fetchedAt": "2026-09-28T17:49:51.611Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
+        "id": "a9"
+      },
+      {
+        "title": "China expands travel restrictions to families of top artificial intelligence executives - streamlinefeed.co.ke",
+        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG9xZHN0bjFYekluekVyYi1JeGdrVDdDOU4wWHVhRnJqVlNTOVFiRmdMWmVLVUNmUVh2M2FQcTNQdEx1d0lZX2dzNWxrb2hTSVVnMG1WLW52NUFWMTFaRHJLUlU5MUlFelVrbkxuaVEtUDJENkhlNGlVRUhORnloQWpfYVh3SmdYbjV1a3djQkFZZE1FbXIzbEtWV3prUkQwcHBRVkE3dXlIYWs5MmZGS1RRYkZWUDNOVmZlT0VR?oc=5",
+        "description": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T08:43:31.000Z",
+        "fetchedAt": "2026-09-28T17:49:53.501Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "streamlinefeed.co.ke",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
+        "id": "a10"
       },
       {
         "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
@@ -418,7 +481,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T08:31:33.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.408Z",
+        "fetchedAt": "2026-09-28T17:49:46.590Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -427,45 +490,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
-        "id": "a2"
-      },
-      {
-        "title": "Honor’s Magic 9 Pro Max has a big camera and a bigger battery",
-        "url": "https://www.theverge.com/tech/1001219/honor-magic-9-pro-max-arri-cameras-snapdragon-battery-design-china",
-        "description": "This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the \"three-lens turret\" design first introduced in 1937's Arriflex 35, complete with a knurled texture around the main lens. Arri has played a part in the camera itself, contributing the ability to shoot in Arri LogC3, together with 14 preset Arri Look LUTs, access to Arri's wider library o … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-28T08:00:36.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.763Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "This mossy green looks great, but the 9 Pro Max is also launching in black and silver. | Image: Honor Honor launches its new Magic 9 flagship phones in China today, and the 9 Pro Max features a design revamp, a capable camera, and a colossal battery. This is Honor's first flagship launch - Robot Phone aside - since it announced its collaboration with camera company Arri. The initial impact is twofold. The new camera island is Arri-inspired, drawing from the \"three-lens turret\" design first introduced in 1937's Arriflex 35, complete with a knurled texture around the main lens.",
-        "id": "a3"
-      },
-      {
-        "title": "Trump-Xi summit analysis: 'Tangible outcomes' needed for U.S.-China truce to hold",
-        "url": "https://www.cnbc.com/2026/09/28/trump-xi-summit-tangible-outcomes-us-china-truce.html",
-        "description": "U.S. President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T07:22:06.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.408Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "President Donald Trump and Chinese President Xi Jinping met in Washington, D.C., last week and signaled plans to meet two more times this year.",
-        "id": "a4"
+        "id": "a11"
       },
       {
         "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -475,7 +500,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-28T06:55:51.000Z",
-        "fetchedAt": "2026-09-28T08:58:46.038Z",
+        "fetchedAt": "2026-09-28T17:49:51.511Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -484,102 +509,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-        "id": "a5"
+        "id": "a12"
       },
       {
-        "title": "‘Xi got face’: China relishes equal treatment from Trump",
-        "url": "https://www.ft.com/content/8ac777fc-882e-4781-826b-272d72d468a0?syn-25a6b1a6=1",
-        "description": "Chinese state media hail the respect that US president offered their country’s leader",
-        "source": "Financial Times",
-        "sourceId": "ft",
+        "title": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yN1hFTlM1VVRGZ1QtX05QRGNHMHI3OUZ4SmctSDRBYTZHcnJkSGp2R01hYkxhWm5FdG5vT2tydTdlY1JFNHVKWlZ6Y3F6aEFDMFRvTXp0QWRDQWxsZjRBTUt3Szg4TkxRQUIzUVo2TXQ0U2ZHT0E?oc=5",
+        "description": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T05:55:08.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.674Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-09-28T01:06:00.000Z",
+        "fetchedAt": "2026-09-28T17:49:53.501Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "finance.biggo.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chinese state media hail the respect that US president offered their country’s leader",
-        "id": "a6"
-      },
-      {
-        "title": "US and China agree $60bn low tariff regime for goods from foie gras to camels",
-        "url": "https://www.ft.com/content/b1ba7dd2-3e3a-4944-b637-ff7db3b636e1?syn-25a6b1a6=1",
-        "description": "Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T04:04:40.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.674Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Board of trade will lower levies on non-sensitive goods as superpowers seek to ease tensions",
-        "id": "a7"
-      },
-      {
-        "title": "China posts weakest industrial profit growth this year, expanding 4.2% in August",
-        "url": "https://www.cnbc.com/2026/09/28/china-posts-weakest-industrial-profit-growth-this-year-expanding-4point2percent-in-august-.html",
-        "description": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T04:04:16.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.408Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Economists expect Beijing to lean harder on stimulus to stabilize corporate profitability, as consolidation accelerates in sectors facing sluggish demand and fierce competition.",
-        "id": "a8"
-      },
-      {
-        "title": "China’s Industrial Profits Grow at Weakest Since November Slump",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-s-industrial-profit-growth-slows-for-fourth-straight-month",
-        "description": "China’s industrial enterprises saw their earnings grow at the weakest since they fell last November, highlighting the limits of a recovery disproportionately driven by elevated oil costs and sectors linked to artificial intelligence.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T01:33:47.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China’s industrial enterprises saw their earnings grow at the weakest since they fell last November, highlighting the limits of a recovery disproportionately driven by elevated oil costs and sectors linked to artificial intelligence.",
-        "id": "a9"
-      },
-      {
-        "title": "China Tech Needs AI Catalyst to Close Valuation Gap, BI Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/china-tech-needs-ai-catalyst-to-close-valuation-gap-bi-says",
-        "description": "China’s technology stocks will need a domestic artificial intelligence catalyst to close their valuation gap with US technology peers, Bloomberg Intelligence said.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T00:33:48.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China’s technology stocks will need a domestic artificial intelligence catalyst to close their valuation gap with US technology peers, Bloomberg Intelligence said.",
-        "id": "a10"
+        "summary": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
+        "id": "a13"
       },
       {
         "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
@@ -589,7 +539,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T21:38:59.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.408Z",
+        "fetchedAt": "2026-09-28T17:49:46.590Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -598,7 +548,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
-        "id": "a11"
+        "id": "a14"
       },
       {
         "title": "How to Trade Qualcomm Stock Near Multi-Month Highs",
@@ -608,7 +558,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T19:46:27.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.414Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -616,67 +566,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
-        "id": "a12"
-      },
-      {
-        "title": "China Considers Nvidia Chip Approval for ByteDance and Alibaba - Blockonomi",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeS1WeGx2WnI5SjBRUkphMGZnbDRETC1FVmYzVEE3NU1QbjRMaUFEd3IzUHFZVm16TVRlVVVlRlBIckJXUWFjZlZkaXpINHZPb0JHLW1WYnlJZm1qLUU2U29fTmp2bEhjbzBFOFUwSkdCQlVvampPMi1mUnpJVGJKM2xYZXNXOUxRS1pkeW9RQQ?oc=5",
-        "description": "China Considers Nvidia Chip Approval for ByteDance and Alibaba Blockonomi",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-27T17:44:22.000Z",
-        "fetchedAt": "2026-09-28T08:58:47.655Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Blockonomi",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Considers Nvidia Chip Approval for ByteDance and Alibaba Blockonomi",
-        "id": "a13"
-      },
-      {
-        "title": "China May Let Alibaba Buy Nvidia RTX Chips, Information Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-27/china-may-let-alibaba-buy-new-nvidia-chips-the-information-says",
-        "description": "The Chinese government has signaled it may allow companies such as Alibaba Group Holding Ltd. and ByteDance Ltd to buy Nvidia Corp.’s new RTX Pro 5500 chips, The Information reported, citing people familiar with the matter.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-27T15:44:39.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The Chinese government has signaled it may allow companies such as Alibaba Group Holding Ltd. and ByteDance Ltd to buy Nvidia Corp.’s new RTX Pro 5500 chips, The Information reported, citing people familiar with the matter.",
         "id": "a15"
-      },
-      {
-        "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
-        "description": "Microsoft Corp. co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, contrasting with President Donald Trump’s largely hands-off approach.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-27T13:00:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, contrasting with President Donald Trump’s largely hands-off approach.",
-        "id": "a16"
       },
       {
         "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
@@ -686,7 +576,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T08:19:34.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -697,25 +587,6 @@ export const NEWS_DATA = {
         "id": "a17"
       },
       {
-        "title": "Kids turned the comment section of an NPR podcast into a group chat",
-        "url": "https://www.theverge.com/entertainment/1001056/this-american-life-npr-kids-group-chat-comment-section",
-        "description": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-09-26T17:32:35.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.763Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Middle schoolers, likely blocked from other apps and social networks, apparently turned the Spotify comment section under an episode of NPR's Wild Card into an impromptu group chat. In a new episode of This American Life, host Ira Glass digs into how the kids landed there and why. But it mostly boils down to kids getting creative to work around the restrictions placed on them. When Glass asked one of the kids why they picked this particular podcast, they said, \"We just, like, looked for podcasts that didn't have many comments.\" Which, obviously, hurt Glass's feelings a bit. Initially, showrunner Dave Blanchard thought the comments were a … Read the full story at The Verge.",
-        "id": "a18"
-      },
-      {
         "title": "MarketBeat Week in Review – 09/21 - 09/25",
         "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-21-09-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
         "description": "A weekly roundup of MarketBeat analysis on volatile markets, oil, bond rates, AI stocks, dividend picks, and earnings outlooks, covering companies from NVIDIA to Tesla and Qualcomm.",
@@ -723,7 +594,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T11:00:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -731,7 +602,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A weekly roundup of MarketBeat analysis on volatile markets, oil, bond rates, AI stocks, dividend picks, and earnings outlooks, covering companies from NVIDIA to Tesla and Qualcomm.",
-        "id": "a20"
+        "id": "a19"
       },
       {
         "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
@@ -741,7 +612,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T10:07:25.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -750,7 +621,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com -- China and the U.S. have agreed to a $30 billion reciprocal tariff-reduction arrangement and to launch dialogue on AI, under an eight-point consensus reached during Chinese President Xi Jinping’s visit to the U.S., China’s foreign ministry said on Saturday.",
-        "id": "a21"
+        "id": "a20"
       },
       {
         "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
@@ -760,7 +631,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T10:00:01.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.408Z",
+        "fetchedAt": "2026-09-28T17:49:46.590Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -769,7 +640,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
-        "id": "a22"
+        "id": "a21"
       },
       {
         "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
@@ -779,7 +650,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T02:08:37.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -791,7 +662,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-        "id": "a23"
+        "id": "a22"
       }
     ]
   },
@@ -987,71 +858,87 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-28T08:58:47.692Z",
-    "date": "2026-09-28",
+    "generatedAt": "2026-09-28T17:49:53.535Z",
+    "date": "2026-09-29",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, contrasting with President Donald Tru",
+          "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
           "articleIds": [
-            "a16"
+            "a5"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "customers-partners"
+        },
+        {
+          "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "apple"
         },
         {
           "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
           "articleIds": [
-            "a23"
+            "a22"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
           "articleIds": [
-            "a24"
+            "a23"
           ],
           "subCategory": "ip"
-        },
-        {
-          "text": "FRAND & Licensing: The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-          "articleIds": [
-            "a25"
-          ],
-          "subCategory": "frand-licensing"
-        },
-        {
-          "text": "Semiconductors: Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about wh",
-          "articleIds": [
-            "a26"
-          ],
-          "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
       {
-        "title": "Bill Gates Says Trump Is Wrong to Hold Out Against AI Safeguards",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-27/bill-gates-says-trump-is-wrong-to-hold-out-against-ai-safeguards",
-        "description": "Microsoft Corp. co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, contrasting with President Donald Trump’s largely hands-off approach.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-27T13:00:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.603Z",
+        "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+        "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+        "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-09-28T14:55:12.000Z",
+        "fetchedAt": "2026-09-28T17:49:47.467Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
         "competitors": [],
         "stakeholders": [
+          "oem",
           "platform-partner"
         ],
-        "summary": "co-founder Bill Gates said government safeguards against potentially catastrophic artificial intelligence risks won’t hamper the US in its competition with China, contrasting with President Donald Trump’s largely hands-off approach.",
-        "id": "a16"
+        "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
+        "id": "a5"
+      },
+      {
+        "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+        "url": "https://247wallst.com/investing/2026/09/28/qualcomm-just-locked-in-apple-our-target-sits-above-wall-streets/?.tsrc=rss",
+        "description": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T13:30:44.000Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
+        "fetchStrategy": "rss",
+        "section": "competitors",
+        "subCategory": "apple",
+        "subLabel": "Apple",
+        "competitors": [
+          "apple"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+        "id": "a7"
       },
       {
         "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
@@ -1061,7 +948,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T02:08:37.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -1073,7 +960,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-        "id": "a23"
+        "id": "a22"
       },
       {
         "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
@@ -1083,7 +970,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T00:53:20.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
+        "fetchedAt": "2026-09-28T17:49:46.725Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -1095,71 +982,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-        "id": "a24"
-      },
-      {
-        "title": "Qualcomm Stocks Jump as Apple Extends the Royalty Bridge",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-jump-apple-extends-175240580.html?.tsrc=rss",
-        "description": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T17:52:40.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The patent agreement protects licensing revenue while Qualcomm builds new AI-computing engines beyond smartphones.",
-        "id": "a25"
-      },
-      {
-        "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
-        "url": "https://247wallst.com/investing/2026/09/25/qualcomm-rallies-6-as-buyers-reverse-apple-renewal-selloff-apple-stock-ticks-up/?.tsrc=rss",
-        "description": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T17:02:46.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-        "id": "a26"
-      },
-      {
-        "title": "Qualcomm Renews Apple Patent Deal: Can QTL Regain Momentum?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-renews-apple-patent-deal-161100620.html?.tsrc=rss",
-        "description": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-25T16:11:00.000Z",
-        "fetchedAt": "2026-09-28T08:58:42.415Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "apple"
-        ],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "QCOM renews its Apple patent deal through 2027, offering licensing visibility as weaker smartphone demand pressures QTL revenue.",
-        "id": "a27"
+        "id": "a23"
       }
     ]
   },
@@ -13525,6 +13348,758 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 37
+  },
+  "archive-2026-09-29": {
+    "generatedAt": "2026-09-28T17:49:53.537Z",
+    "date": "2026-09-29",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj ",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank ",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
+            "url": "https://www.mobileworldlive.com/network-tech/impinj-expands-mobile-rfid-ecosystem-with-qualcomm-mediatek/",
+            "description": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-28T16:01:00.000Z",
+            "fetchedAt": "2026-09-28T17:49:51.611Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
+            "id": "a3"
+          },
+          {
+            "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
+            "url": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/?.tsrc=rss",
+            "description": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T15:51:29.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
+            "url": "https://247wallst.com/investing/2026/09/27/qualcomm-stock-has-an-opportunity-investors-may-be-underestimating/?.tsrc=rss",
+            "description": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-27T17:00:41.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
+            "id": "a16"
+          },
+          {
+            "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
+            "url": "https://www.fool.com/coverage/better-buy/2026/09/26/asml-vs-qualcomm-ai-semiconductor-stock-better-buy-2026/?.tsrc=rss",
+            "description": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T16:20:01.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
+            "id": "a18"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "One article today covering IP / Intellectual Property. QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement tak",
+          "keyTakeaways": [
+            {
+              "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
+              "articleIds": [
+                "a23"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renews-global-patent-005320827.html?.tsrc=rss",
+            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. (NASDAQ:AAPL). The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs. For a company […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T00:53:20.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
+            "id": "a23"
+          }
+        ]
+      },
+      "growth-areas": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 17 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has calle",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "market-performance: Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
+              "articleIds": [
+                "a15"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Trump, Anthropic CEO Take AI Safety Debate to Dinner",
+            "url": "https://www.bloomberg.com/news/videos/2026-09-28/trump-anthropic-ceo-take-ai-safety-debate-to-dinner-video",
+            "description": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T17:24:48.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.892Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+            "id": "a1"
+          },
+          {
+            "title": "China Now Requires Travel Approval for Families of AI Lab Executives - WinBuzzer",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeS03eUxsczhnZjg3cVZzeTNDcldaNDdqaEoyVDYxbVY5YmdTbjM0b1JDeHJ6cmEzcTNIVE1IU0NqdjVYa3ZUb3FNeE1aanBET2ZiN1lVNWEzTEtqU3lwa0ljUVZYWU5MSWpOR2NaVWg0dmlfMkE3NjlTUW9HRGlJdVZROHlOYlNZVnJzUGgxMkg5M0xrZy1JWmduZw?oc=5",
+            "description": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T16:31:13.000Z",
+            "fetchedAt": "2026-09-28T17:49:53.501Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WinBuzzer",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
+            "id": "a2"
+          },
+          {
+            "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+            "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+            "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-28T14:55:12.000Z",
+            "fetchedAt": "2026-09-28T17:49:47.467Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
+            "id": "a5"
+          },
+          {
+            "title": "Nvidia says its new AI safety platform can contain rogue agents within ‘milliseconds’",
+            "url": "https://www.theverge.com/tech/1001287/nvidia-ai-safety-platform-rogue-agents",
+            "description": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\" The platform uses Nvidia's OpenShell open-source software, which runs on the company's Vera AI CPU. Users can choose the information an AI agent can access, and OpenShell checks these restrictions before and during a task, according to Nvidia. It also includes Nvidia's Sentry technology on a separate … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-28T13:36:06.000Z",
+            "fetchedAt": "2026-09-28T17:49:47.469Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia is launching a new safety platform designed to contain and monitor AI agents, a move that comes in response to a wave of rogue hacking incidents, as reported earlier by Reuters. In an announcement on Monday, Nvidia says its new Open Agent Safety Platform can quarantine agents that attempt to escape their boundaries within \"milliseconds.\" The platform uses Nvidia's OpenShell open-source software, which runs on the company's Vera AI CPU. Users can choose the information an AI agent can access, and OpenShell checks these restrictions before and during a task, according to Nvidia. It also includes Nvidia's Sentry technology on a separate … Read the full story at The Verge.",
+            "id": "a6"
+          },
+          {
+            "title": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing - Global Times",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9BLUVseVJDMDh2aXJpeF9fZkxxak9HMFlWR1l3eFhUODFkR19xOXczc0UtdkhRSW1NcmtaWS1JRjhuWGhhRU1SalhjMG1ybzVIaHVfcldPdll3NnBqRm5zZWR3?oc=5",
+            "description": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T13:30:00.000Z",
+            "fetchedAt": "2026-09-28T17:49:53.501Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Global Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
+            "id": "a8"
+          },
+          {
+            "title": "Honor pushes cinematic qualities of latest flagship",
+            "url": "https://www.mobileworldlive.com/devices/honor-pushes-cinematic-qualities-of-latest-flagship/",
+            "description": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-09-28T10:50:14.000Z",
+            "fetchedAt": "2026-09-28T17:49:51.611Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
+            "id": "a9"
+          },
+          {
+            "title": "China expands travel restrictions to families of top artificial intelligence executives - streamlinefeed.co.ke",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG9xZHN0bjFYekluekVyYi1JeGdrVDdDOU4wWHVhRnJqVlNTOVFiRmdMWmVLVUNmUVh2M2FQcTNQdEx1d0lZX2dzNWxrb2hTSVVnMG1WLW52NUFWMTFaRHJLUlU5MUlFelVrbkxuaVEtUDJENkhlNGlVRUhORnloQWpfYVh3SmdYbjV1a3djQkFZZE1FbXIzbEtWV3prUkQwcHBRVkE3dXlIYWs5MmZGS1RRYkZWUDNOVmZlT0VR?oc=5",
+            "description": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T08:43:31.000Z",
+            "fetchedAt": "2026-09-28T17:49:53.501Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "streamlinefeed.co.ke",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
+            "id": "a10"
+          },
+          {
+            "title": "U.S., China to lower tariffs on $60 billion of goods. Here's what qualifies",
+            "url": "https://www.cnbc.com/2026/09/28/us-china-lower-tariffs-trump-xi-meeting.html",
+            "description": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T08:31:33.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.590Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The lists included U.S. imports of toys, sports equipment and Christmas decorations, while U.S. farm products appeared on the list of Chinese imports.",
+            "id": "a11"
+          },
+          {
+            "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
+            "url": "https://ipfray.com/roborock-turns-the-tables-on-ecovacs-first-upc-suit-escalates-patent-war-across-u-s-europe-china/",
+            "description": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-28T06:55:51.000Z",
+            "fetchedAt": "2026-09-28T17:49:51.511Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
+            "id": "a12"
+          },
+          {
+            "title": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips - finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yN1hFTlM1VVRGZ1QtX05QRGNHMHI3OUZ4SmctSDRBYTZHcnJkSGp2R01hYkxhWm5FdG5vT2tydTdlY1JFNHVKWlZ6Y3F6aEFDMFRvTXp0QWRDQWxsZjRBTUt3Szg4TkxRQUIzUVo2TXQ0U2ZHT0E?oc=5",
+            "description": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T01:06:00.000Z",
+            "fetchedAt": "2026-09-28T17:49:53.501Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "finance.biggo.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
+            "id": "a13"
+          },
+          {
+            "title": "Taxpayer-funded Trump ads draw bipartisan scrutiny ahead of midterms",
+            "url": "https://www.cnbc.com/2026/09/27/trump-government-funded-ads-midterms.html",
+            "description": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-27T21:38:59.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.590Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "TV ads featuring Trump are expanding nationally, prompting bipartisan questions over whether they comply with restrictions on taxpayer-funded publicity.",
+            "id": "a14"
+          },
+          {
+            "title": "How to Trade Qualcomm Stock Near Multi-Month Highs",
+            "url": "https://www.barchart.com/story/news/4823648/how-to-trade-qualcomm-stock-near-multi-month-highs?.tsrc=rss",
+            "description": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-27T19:46:27.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
+            "id": "a15"
+          },
+          {
+            "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/catalysts-could-drive-qualcomm-qcom-081934634.html?.tsrc=rss",
+            "description": "Qualcomm Incorporated (NASDAQ:QCOM) is increasingly focused on the premium smartphone market, where consumers tend to have greater purchasing power. On September 22, it unveiled Android phone chipsets specifically designed for on-device artificial intelligence. Investor sentiment around AI remains an important part of the broader investment backdrop. Brad Gerstner recently argued that the latest negativity around […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-27T08:19:34.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm Incorporated (NASDAQ:QCOM) is increasingly focused on the premium smartphone market, where consumers tend to have greater purchasing power. On September 22, it unveiled Android phone chipsets specifically designed for on-device artificial intelligence. Investor sentiment around AI remains an important part of the broader investment backdrop. Brad Gerstner recently argued that the latest negativity around […]",
+            "id": "a17"
+          },
+          {
+            "title": "MarketBeat Week in Review – 09/21 - 09/25",
+            "url": "https://www.marketbeat.com/articles/marketbeat-week-in-review-09-21-09-25/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+            "description": "A weekly roundup of MarketBeat analysis on volatile markets, oil, bond rates, AI stocks, dividend picks, and earnings outlooks, covering companies from NVIDIA to Tesla and Qualcomm.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T11:00:00.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A weekly roundup of MarketBeat analysis on volatile markets, oil, bond rates, AI stocks, dividend picks, and earnings outlooks, covering companies from NVIDIA to Tesla and Qualcomm.",
+            "id": "a19"
+          },
+          {
+            "title": "China, U.S. agree to $30 billion tariff cut, launch AI dialogue",
+            "url": "https://finance.yahoo.com/economy/policy/articles/china-u-agree-30-billion-100725747.html?.tsrc=rss",
+            "description": "Investing.com -- China and the U.S. have agreed to a $30 billion reciprocal tariff-reduction arrangement and to launch dialogue on AI, under an eight-point consensus reached during Chinese President Xi Jinping’s visit to the U.S., China’s foreign ministry said on Saturday.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T10:07:25.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Investing.com -- China and the U.S. have agreed to a $30 billion reciprocal tariff-reduction arrangement and to launch dialogue on AI, under an eight-point consensus reached during Chinese President Xi Jinping’s visit to the U.S., China’s foreign ministry said on Saturday.",
+            "id": "a20"
+          },
+          {
+            "title": "Audemars Piguet says its Royal Pop collaboration with Swatch is breaking sales records, despite luxury watch slump and tariffs",
+            "url": "https://www.cnbc.com/2026/09/26/audemars-piguet-and-royal-pop-defy-luxury-watch-slump-and-tariffs.html",
+            "description": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T10:00:01.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.590Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Swiss luxury watchmaker Audemars Piguet says its sales and engagement are breaking records after its risky, eye-catching Royal Pop collaboration with Swatch.",
+            "id": "a21"
+          },
+          {
+            "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html?.tsrc=rss",
+            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T02:08:37.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "id": "a22"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Apple (1 article), market-performance (1 article), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "apple"
+            },
+            {
+              "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
+              "articleIds": [
+                "a22"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
+              "articleIds": [
+                "a23"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+            "url": "https://247wallst.com/investing/2026/09/28/qualcomm-just-locked-in-apple-our-target-sits-above-wall-streets/?.tsrc=rss",
+            "description": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T13:30:44.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "competitors",
+            "subCategory": "apple",
+            "subLabel": "Apple",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+            "id": "a7"
+          },
+          {
+            "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html?.tsrc=rss",
+            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T02:08:37.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "id": "a22"
+          },
+          {
+            "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renews-global-patent-005320827.html?.tsrc=rss",
+            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. (NASDAQ:AAPL). The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs. For a company […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T00:53:20.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
+            "id": "a23"
+          }
+        ]
+      },
+      "stakeholders": {
+        "generatedAt": "2026-09-28T17:49:53.535Z",
+        "date": "2026-09-29",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "apple"
+            },
+            {
+              "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
+              "articleIds": [
+                "a22"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
+              "articleIds": [
+                "a23"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
+            "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
+            "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-09-28T14:55:12.000Z",
+            "fetchedAt": "2026-09-28T17:49:47.467Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
+            "id": "a5"
+          },
+          {
+            "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
+            "url": "https://247wallst.com/investing/2026/09/28/qualcomm-just-locked-in-apple-our-target-sits-above-wall-streets/?.tsrc=rss",
+            "description": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T13:30:44.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "competitors",
+            "subCategory": "apple",
+            "subLabel": "Apple",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
+            "id": "a7"
+          },
+          {
+            "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html?.tsrc=rss",
+            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T02:08:37.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
+            "id": "a22"
+          },
+          {
+            "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renews-global-patent-005320827.html?.tsrc=rss",
+            "description": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. (NASDAQ:AAPL). The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs. For a company […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-26T00:53:20.000Z",
+            "fetchedAt": "2026-09-28T17:49:46.725Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
+            "id": "a23"
+          }
+        ]
+      }
+    },
+    "totalArticles": 29
   }
 };
 
