@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T02:00:30.659Z",
+  "generatedAt": "2026-09-28T08:58:47.692Z",
   "date": "2026-09-28",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Mobile Chips: Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap ",
         "articleIds": [
-          "a8"
+          "a14"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
         "articleIds": [
-          "a14"
+          "a19"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-27T17:00:41.000Z",
-      "fetchedAt": "2026-09-28T02:00:23.631Z",
+      "fetchedAt": "2026-09-28T08:58:42.415Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-26T16:20:01.000Z",
-      "fetchedAt": "2026-09-28T02:00:23.631Z",
+      "fetchedAt": "2026-09-28T08:58:42.415Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-      "id": "a14"
+      "id": "a19"
     },
     {
       "title": "Qualcomm Rallies 6% as Buyers Reverse Apple Renewal Selloff; Apple Stock Ticks Up",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-25T17:02:46.000Z",
-      "fetchedAt": "2026-09-28T02:00:23.631Z",
+      "fetchedAt": "2026-09-28T08:58:42.415Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
         "oem"
       ],
       "summary": "Qualcomm sellers got the first word on the Apple renewal announcement, but buyers showed up next and disagreed sharply. What changed between those two reactions tells a more complicated story about what the deal actually means for Qualcomm.",
-      "id": "a22"
+      "id": "a26"
     }
   ]
 }
