@@ -1,38 +1,24 @@
 {
-  "generatedAt": "2026-09-28T17:49:53.535Z",
+  "generatedAt": "2026-09-28T23:32:43.766Z",
   "date": "2026-09-29",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
         "articleIds": [
-          "a5"
+          "a10"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
         "articleIds": [
-          "a7"
+          "a12"
         ],
         "subCategory": "apple"
-      },
-      {
-        "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent l",
-        "articleIds": [
-          "a22"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "IP / Intellectual Property: QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one ",
-        "articleIds": [
-          "a23"
-        ],
-        "subCategory": "ip"
       }
     ]
   },
@@ -45,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-28T14:55:12.000Z",
-      "fetchedAt": "2026-09-28T17:49:47.467Z",
+      "fetchedAt": "2026-09-28T23:32:38.101Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -57,7 +43,7 @@
         "platform-partner"
       ],
       "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
-      "id": "a5"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -67,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-28T17:49:46.725Z",
+      "fetchedAt": "2026-09-28T23:32:37.512Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -79,51 +65,7 @@
         "oem"
       ],
       "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "id": "a7"
-    },
-    {
-      "title": "Qualcomm (QCOM) Shares Skyrocket, What You Need To Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-shares-skyrocket-know-020837289.html?.tsrc=rss",
-      "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-26T02:08:37.000Z",
-      "fetchedAt": "2026-09-28T17:49:46.725Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) jumped 5.7% in the afternoon session after the stock rebounded from the previous session as the company announced the renewal of its global patent license agreement with Apple.",
-      "id": "a22"
-    },
-    {
-      "title": "Qualcomm (QCOM) Renews its Global Patent License With Apple (AAPL)",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renews-global-patent-005320827.html?.tsrc=rss",
-      "description": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. (NASDAQ:AAPL). The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs. For a company […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-26T00:53:20.000Z",
-      "fetchedAt": "2026-09-28T17:49:46.725Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) said on September 24 that it has renewed its global patent license agreement with Apple Inc. The new agreement takes effect on April 1, 2027, when the existing one runs out. Qualcomm did not disclose the financial terms and did not say how long the new agreement runs.",
-      "id": "a23"
+      "id": "a12"
     }
   ]
 }
