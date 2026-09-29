@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:32:43.766Z",
+  "generatedAt": "2026-09-29T02:46:45.846Z",
   "date": "2026-09-29",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:00:02.000Z",
-      "fetchedAt": "2026-09-28T23:32:37.512Z",
+      "fetchedAt": "2026-09-29T02:46:39.963Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T23:32:43.766Z",
+  "generatedAt": "2026-09-29T02:46:45.846Z",
   "date": "2026-09-29",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-28T23:32:37.512Z",
+      "fetchedAt": "2026-09-29T02:46:39.963Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",

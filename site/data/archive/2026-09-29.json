@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T23:32:43.769Z",
+  "generatedAt": "2026-09-29T02:46:45.849Z",
   "date": "2026-09-29",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
@@ -13,14 +13,14 @@
           {
             "text": "Semiconductors: Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new",
             "articleIds": [
-              "a3"
+              "a4"
             ],
             "subCategory": "semiconductors"
           },
           {
             "text": "Mobile Chips: US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj ",
             "articleIds": [
-              "a8"
+              "a9"
             ],
             "subCategory": "mobile-chips"
           }
@@ -35,7 +35,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T19:35:53.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -43,7 +43,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-          "id": "a3"
+          "id": "a4"
         },
         {
           "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
@@ -53,7 +53,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-09-28T16:01:00.000Z",
-          "fetchedAt": "2026-09-28T23:32:41.933Z",
+          "fetchedAt": "2026-09-29T02:46:43.610Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -61,7 +61,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-          "id": "a8"
+          "id": "a9"
         },
         {
           "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
@@ -71,7 +71,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T15:51:29.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -79,7 +79,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
-          "id": "a9"
+          "id": "a10"
         },
         {
           "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
@@ -89,7 +89,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-27T17:00:41.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -97,7 +97,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-          "id": "a20"
+          "id": "a19"
         },
         {
           "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -107,7 +107,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-26T16:20:01.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -115,12 +115,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-          "id": "a22"
+          "id": "a21"
         }
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -131,7 +131,7 @@
       "articles": []
     },
     "growth-areas": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -156,7 +156,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T13:00:02.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "growth-areas",
           "subCategory": "embodied-ai-robotics",
@@ -169,37 +169,50 @@
       ]
     },
     "macro-environment": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "macro-environment",
       "sectionTitle": "Macro",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "Geopolitics & Export Controls: Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+            "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
             "articleIds": [
               "a1"
             ],
-            "subCategory": "geopolitics-export-controls"
-          },
-          {
-            "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
-            "articleIds": [
-              "a10"
-            ],
-            "subCategory": "customers-partners"
-          },
-          {
-            "text": "market-performance: Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
-            "articleIds": [
-              "a19"
-            ],
             "subCategory": "market-performance"
+          },
+          {
+            "text": "Geopolitics & Export Controls: Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+            "articleIds": [
+              "a2"
+            ],
+            "subCategory": "geopolitics-export-controls"
           }
         ]
       },
       "articles": [
+        {
+          "title": "Why Qualcomm (QCOM) Stock Is Down Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
+          "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-09-28T23:50:36.000Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+          "id": "a1"
+        },
         {
           "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
           "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
@@ -208,7 +221,7 @@
           "sourceId": "cnbc",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T23:00:01.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.537Z",
+          "fetchedAt": "2026-09-29T02:46:39.855Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -217,7 +230,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-          "id": "a1"
+          "id": "a2"
         },
         {
           "title": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount - finance.biggo.com",
@@ -227,7 +240,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T22:05:00.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.730Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "finance.biggo.com",
           "geopoliticalBypass": true,
@@ -237,7 +250,27 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount finance.biggo.com",
-          "id": "a2"
+          "id": "a3"
+        },
+        {
+          "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmZNTFlENjFBSWdKUXE3VktLMFhINWdyOEdkMjRRSUhHN2VZd3E2ZndRM3hLMEpkX054Y1drRWFJWkp5XzAyMVQyUlBzMEt0NDB3SDlPbi1OR0hjU2tiaGpfVTc1bENGakMta2ZZalZKYTd1RlNkLXNrOXZjVUhaeGJYMm8yR1hnN2dIRmdoa1Y0VF92R0VPQ2k0X09XWEMxNVYzamc0Q2UwOGNpUGRlUVJxUWN6a3o1ZXdDMmx2anQ?oc=5",
+          "description": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-09-28T19:33:00.000Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Fortune",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
+          "id": "a5"
         },
         {
           "title": "Will New China AI ETF Have Its 'Shiny Moment'?",
@@ -247,7 +280,7 @@
           "sourceId": "bloomberg",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T18:30:40.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.655Z",
+          "fetchedAt": "2026-09-29T02:46:40.202Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -256,7 +289,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Kevin Carter, founder & CIO of EMQQ Global, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the China AI Tigers ETF (ticker: TGRZ).",
-          "id": "a4"
+          "id": "a6"
         },
         {
           "title": "Manus Expands AI Tools in Renewed Push Into Agent Market",
@@ -266,7 +299,7 @@
           "sourceId": "bloomberg",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T17:57:46.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.655Z",
+          "fetchedAt": "2026-09-29T02:46:40.202Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -275,26 +308,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry’s hottest areas.",
-          "id": "a5"
-        },
-        {
-          "title": "Trump, Anthropic CEO Take AI Safety Debate to Dinner",
-          "url": "https://www.bloomberg.com/news/videos/2026-09-28/trump-anthropic-ceo-take-ai-safety-debate-to-dinner-video",
-          "description": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-          "source": "Bloomberg",
-          "sourceId": "bloomberg",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-09-28T17:24:48.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.655Z",
-          "fetchStrategy": "rss",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "President Donald Trump and Anthropic CEO Dario Amodei met for dinner as their opposing views on AI safety increasingly shape the debate over how quickly the technology should advance. Amodei has called for “pacing” development of the most advanced models and stronger guardrails, while President Trump has pushed back against slowing AI development as the US races to stay ahead of China. Bloomberg’s Mike Shepard discusses what’s known about the meeting with Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-          "id": "a6"
+          "id": "a7"
         },
         {
           "title": "China Now Requires Travel Approval for Families of AI Lab Executives - WinBuzzer",
@@ -304,7 +318,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T16:31:13.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.730Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "WinBuzzer",
           "geopoliticalBypass": true,
@@ -314,29 +328,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
-          "id": "a7"
-        },
-        {
-          "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-          "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-          "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
-          "source": "The Verge",
-          "sourceId": "the-verge",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-09-28T14:55:12.000Z",
-          "fetchedAt": "2026-09-28T23:32:38.101Z",
-          "fetchStrategy": "rss",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "customers-partners",
-          "subLabel": "Customers & Partners",
-          "competitors": [],
-          "stakeholders": [
-            "oem",
-            "platform-partner"
-          ],
-          "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
-          "id": "a10"
+          "id": "a8"
         },
         {
           "title": "ASML Has a China Warning for Trump: Too Much Pressure Could Create a Competitor - TradingView",
@@ -346,7 +338,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T14:20:17.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.730Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "TradingView",
           "geopoliticalBypass": true,
@@ -366,7 +358,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T13:30:00.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.730Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Global Times",
           "geopoliticalBypass": true,
@@ -386,7 +378,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-09-28T10:50:14.000Z",
-          "fetchedAt": "2026-09-28T23:32:41.934Z",
+          "fetchedAt": "2026-09-29T02:46:43.610Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -405,7 +397,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T08:43:31.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.731Z",
+          "fetchedAt": "2026-09-29T02:46:45.811Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "streamlinefeed.co.ke",
           "geopoliticalBypass": true,
@@ -425,7 +417,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-09-28T06:55:51.000Z",
-          "fetchedAt": "2026-09-28T23:32:42.217Z",
+          "fetchedAt": "2026-09-29T02:46:43.746Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -437,26 +429,6 @@
           "id": "a17"
         },
         {
-          "title": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips - finance.biggo.com",
-          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5yN1hFTlM1VVRGZ1QtX05QRGNHMHI3OUZ4SmctSDRBYTZHcnJkSGp2R01hYkxhWm5FdG5vT2tydTdlY1JFNHVKWlZ6Y3F6aEFDMFRvTXp0QWRDQWxsZjRBTUt3Szg4TkxRQUIzUVo2TXQ0U2ZHT0E?oc=5",
-          "description": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
-          "source": "Geopolitics",
-          "sourceId": "geopolitics",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-09-28T01:06:00.000Z",
-          "fetchedAt": "2026-09-28T23:32:43.731Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "finance.biggo.com",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "China Reportedly Eases Chip Restrictions, May Allow ByteDance and Alibaba to Purchase Nvidia High-End Chips finance.biggo.com",
-          "id": "a18"
-        },
-        {
           "title": "How to Trade Qualcomm Stock Near Multi-Month Highs",
           "url": "https://www.barchart.com/story/news/4823648/how-to-trade-qualcomm-stock-near-multi-month-highs?.tsrc=rss",
           "description": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
@@ -464,7 +436,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-27T19:46:27.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -472,7 +444,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
-          "id": "a19"
+          "id": "a18"
         },
         {
           "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
@@ -482,7 +454,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-27T08:19:34.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -490,12 +462,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm Incorporated (NASDAQ:QCOM) is increasingly focused on the premium smartphone market, where consumers tend to have greater purchasing power. On September 22, it unveiled Android phone chipsets specifically designed for on-device artificial intelligence. Investor sentiment around AI remains an important part of the broader investment backdrop. Brad Gerstner recently argued that the latest negativity around […]",
-          "id": "a21"
+          "id": "a20"
         }
       ]
     },
     "competitors": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -520,7 +492,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T13:30:44.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "competitors",
           "subCategory": "apple",
@@ -537,19 +509,19 @@
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-09-28T23:32:43.766Z",
+      "generatedAt": "2026-09-29T02:46:45.846Z",
       "date": "2026-09-29",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Apple (1 article). A total of 2 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Apple (1 article). A total of 2 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "Customers & Partners: It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my collea",
+            "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
             "articleIds": [
-              "a10"
+              "a1"
             ],
-            "subCategory": "customers-partners"
+            "subCategory": "market-performance"
           },
           {
             "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
@@ -562,26 +534,24 @@
       },
       "articles": [
         {
-          "title": "Dreame’s step-climbing X50 Ultra mopping vacuum is hundreds off",
-          "url": "https://www.theverge.com/gadgets/1001313/dreame-x50-ultra-robot-vacuum-mop-asus-rog-ally-deal-sale",
-          "description": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part. It’s a great vacuum and mop, and its mopping pads extend out, sweeping underneath cabinets and other furniture that sits close to the floor. Also of note is its ability to climb over thresholds up to 6 centimeters (over 2 inches) tall, ensuring it won’t get stuck where other vacuums may stumble. Like any good robot vacuum and mop, there isn’t much you’ll have to do to maintain on a day-to-day basis. It can remove, wash, and dry its mops autonomously, and its self-emptying bin can collect debris it sucks up for several weeks. Dreame claims you won’t have to empty it for 100 days, but that obviously depends on how messy your place is. Also, you’ll likely have to refill its water tank frequently if you’re mopping a lot. Other fantastic Verge-approved deals Woot has a pretty good deal happening on “Grade A” condition refurbished units of Asus’ ROG Ally with the AMD Ryzen Z1 Extreme processor (16GB RAM, 512GB SSD) and a 90-day warranty. Priced at $529.99, the offer code CHEERS knocks 20 percent off that total for the rest of the day (September 28th). New customers who use the code get 30 percent off. For 20 percent off, that’s about $425, or $371 with the 30-percent discount. This model is a solid competitor to the Steam Deck LCD, with a higher-res 1080p screen with a 120Hz refresh rate. Its Z1 Extreme processor is faster, too, so this might be the deal you’ve been looking for if you’re striking out on handheld deals. Read our 2023 review. Another deal that jumped out from Woot is for the SteelSeries Arctis Nova Pro wireless headset for the PlayStation, PC, and Switch. The white version in new condition is about $192 with the code CHEERS, or down to around $168 if you happen to be a new Woot customer who uses the code. Its current $239.99 price is already good enough to earn it a spot in this roundup, but the current discount brings it down to “best-ever” territory. This 2022 headset is still a fantastic option, even compared to the $399 Nova Pro Omni that succeeds it. It has swappable batteries, a comfy design, and a reliable base station that can feed in audio from multiple sources. Read our review of the Nova Pro. Samsung’s 32-inch 4K smart screen on a pedestal, called The Movingstyle Essential, is $200 off. Originally $699.99, it’s down to $499.99 for Prime members at Amazon. It seems to be Samsung’s take on the LG StanbyMe, though it’s much cheaper even before this discount (notably, Samsung’s requires being plugged in, unlike the battery-equipped LG model). The screen attaches to a height-adjustable rolling stand (up to 50.8-inches tall), and it supports pivoting, swiveling and tilting. It features two full-size HDMI ports (once of which supports ARC), plus USB-C with 65W passthrough power, and two USB-A ports for viewing local media.",
-          "source": "The Verge",
-          "sourceId": "the-verge",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-09-28T14:55:12.000Z",
-          "fetchedAt": "2026-09-28T23:32:38.101Z",
+          "title": "Why Qualcomm (QCOM) Stock Is Down Today",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
+          "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-09-28T23:50:36.000Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
-          "geopoliticalBypass": true,
           "section": "macro-environment",
-          "subCategory": "customers-partners",
-          "subLabel": "Customers & Partners",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
           "competitors": [],
           "stakeholders": [
-            "oem",
-            "platform-partner"
+            "oem"
           ],
-          "summary": "It’s been a while since we’ve seen a big price cut on a capable robot vacuum and mop hybrid that can scale over short steps and threshold to hunt messes. Dreame’s X50 Ultra is the model that my colleague Jen recommends for hard floors and carpets, and it’s down to $899.99 at Amazon for Prime members (originally $1,599.99, but commonly around $1,100). It’s actually a bit cheaper ($849.99) directly through Dreame’s site if you have a free account there. Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) The X50 Ultra debuted in early 2025, and still made the cut for Jen’s 2026 list of the best robot vacuums, thanks to its huge list of features that are executed well, for the most part.",
-          "id": "a10"
+          "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+          "id": "a1"
         },
         {
           "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -591,7 +561,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-09-28T13:30:44.000Z",
-          "fetchedAt": "2026-09-28T23:32:37.512Z",
+          "fetchedAt": "2026-09-29T02:46:39.963Z",
           "fetchStrategy": "rss",
           "section": "competitors",
           "subCategory": "apple",
@@ -608,5 +578,5 @@
       ]
     }
   },
-  "totalArticles": 24
+  "totalArticles": 23
 }
