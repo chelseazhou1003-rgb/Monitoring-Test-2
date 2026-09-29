@@ -1,11 +1,39 @@
 {
-  "generatedAt": "2026-09-29T16:39:09.773Z",
+  "generatedAt": "2026-09-29T21:04:42.715Z",
   "date": "2026-09-30",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Patent Litigation. Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+    "keyTakeaways": [
+      {
+        "text": "Patent Litigation: Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "patent-litigation"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute - Law360",
+      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeU41anFXVUpBXzRzYTFnLXNFcHY1TWxEdjJMSGpGTTQweWNqd3RvREpPZzFzNWI5X0F5QjRGYmdXMUpRS1pWcEpzTURNdVlP0gFWQVVfeXFMTjdnMFYzQ1JXYnZ0OWhESGlsdGY3NEU5Mi1zdS14SFg1SHlfOWdEOUhDZHZMMDZQb1kzWWdvWDFaMktpUmZvT19sMGU3SWRuWkJNdXJJY0E?oc=5",
+      "description": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+      "source": "Law360 IP",
+      "sourceId": "law360-ip",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-09-29T18:53:36.000Z",
+      "fetchedAt": "2026-09-29T21:04:42.385Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Law360",
+      "section": "ip-legal",
+      "subCategory": "patent-litigation",
+      "subLabel": "Patent Litigation",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+      "id": "a3"
+    }
+  ]
 }

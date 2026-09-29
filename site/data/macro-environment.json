@@ -1,28 +1,68 @@
 {
-  "generatedAt": "2026-09-29T16:39:09.773Z",
+  "generatedAt": "2026-09-29T21:04:42.715Z",
   "date": "2026-09-30",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: President Donald Trump says he expects Ottawa to concede to its demands on trade in the coming weeks, but Canadian officials insist they won't sign a bad deal.",
+        "text": "Geopolitics & Export Controls: The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
+        "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
         "articleIds": [
-          "a16"
+          "a7"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
+      "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
+      "description": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S. adults.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-29T20:18:32.000Z",
+      "fetchedAt": "2026-09-29T21:04:36.797Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
+      "id": "a1"
+    },
+    {
+      "title": "Trump’s AI Push Meets a More Cautious Silicon Valley",
+      "url": "https://www.bloomberg.com/news/videos/2026-09-29/trump-s-ai-push-meets-a-more-cautious-silicon-valley-video",
+      "description": "Council on Foreign Relations senior fellow Sebastian Mallaby discusses the Trump administration’s push to use AI to make the federal government more accessible and efficient, while navigating a growing divide over how quickly the technology should advance. He also examines the evolving relationship between President Trump and Anthropic CEO Dario Amodei, whose warnings about AI risk contrast with the administration’s focus on accelerating US development and maintaining its lead over China. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-29T18:14:23.000Z",
+      "fetchedAt": "2026-09-29T21:04:36.146Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Council on Foreign Relations senior fellow Sebastian Mallaby discusses the Trump administration’s push to use AI to make the federal government more accessible and efficient, while navigating a growing divide over how quickly the technology should advance. He also examines the evolving relationship between President Trump and Anthropic CEO Dario Amodei, whose warnings about AI risk contrast with the administration’s focus on accelerating US development and maintaining its lead over China. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a4"
+    },
     {
       "title": "America's Canadian import restrictions come into force. Here are the products barred from entry",
       "url": "https://www.cnbc.com/2026/09/29/canada-import-ban-trade-war.html",
@@ -31,7 +71,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T15:57:43.000Z",
-      "fetchedAt": "2026-09-29T16:39:03.182Z",
+      "fetchedAt": "2026-09-29T21:04:36.797Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,48 +80,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "President Donald Trump says he expects Ottawa to concede to its demands on trade in the coming weeks, but Canadian officials insist they won't sign a bad deal.",
-      "id": "a1"
+      "id": "a5"
     },
     {
-      "title": "The best early October Prime Day deals happening now",
-      "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-      "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. This post will be updated multiple times ahead of October 6th as new deals become available. Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-29T14:00:00.000Z",
-      "fetchedAt": "2026-09-29T16:39:03.788Z",
+      "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
+      "url": "https://www.tikr.com/blog/qualcomm-stock-fell-7-in-a-day-as-its-ai-and-apple-rally-cooled-heres-what-higher-2027-sales-estimates-mean?ref=yahoofinance&.tsrc=rss",
+      "description": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-29T14:31:38.000Z",
+      "fetchedAt": "2026-09-29T21:04:36.116Z",
       "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [
-        "oem",
-        "platform-partner"
+        "oem"
       ],
-      "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. This post will be updated multiple times ahead of October 6th as new deals become available.",
-      "id": "a3"
-    },
-    {
-      "title": "Will Chinese AI companies slow down? A top House Democrat wants answers",
-      "url": "https://www.theverge.com/policy/1001767/khanna-ai-safety-china-treaty",
-      "description": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-29T12:00:00.000Z",
-      "fetchedAt": "2026-09-29T16:39:03.788Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Image: Tom Williams/CQ-Roll Call, Inc via Getty Images As President Donald Trump prepares to meet tech and AI CEOs in Washington, Rep. Ro Khanna (D-CA) is calling for a treaty between the US and China to keep AI from wreaking havoc on the world. But wrangling leaders in both countries to take action could be a long shot. In letters shared exclusively with The Verge, Khanna - the top Democrat on the House Select Committee on China and a possible presidential contender - asked a US intelligence agency and Chinese AI companies whether they would be prepared for an incident like OpenAI agents' hack of Hugging Face this summer. The companies included DeepSeek, Alibaba, and Moonshot AI, all of which … Read the full story at The Verge.",
-      "id": "a4"
+      "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "id": "a7"
     },
     {
       "title": "Nvidia's answer to rogue AI changes the conversation",
@@ -91,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T11:00:00.000Z",
-      "fetchedAt": "2026-09-29T16:39:03.347Z",
+      "fetchedAt": "2026-09-29T21:04:36.116Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -100,7 +119,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia CEO Jensen Huang just made two huge moves that might change how we think about AI risk entirely. First, a new agent safety platform engineered to catch and quarantine rogue AI agents in milliseconds, then a record-shattering $235 billion stock buyback that speaks volumes about how confident Nvidia is in where this is all headed. In The Loop host Ejaaz Ahamadeen breaks down how this new two-part safety system actually works, why Huang's stance is the opposite of what other AI labs are saying, and what a recent state dinner guest list reveals about who's really steering the US-China AI race.",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
@@ -110,7 +129,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T09:58:19.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "UA.NEWS",
       "geopoliticalBypass": true,
@@ -120,7 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "Nvidia, AMD ramp up White House lobbying on China exports - Crypto Briefing",
@@ -130,7 +149,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T09:23:45.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Crypto Briefing",
       "geopoliticalBypass": true,
@@ -140,27 +159,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia, AMD ramp up White House lobbying on China exports Crypto Briefing",
-      "id": "a7"
-    },
-    {
-      "title": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift - tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15bzE3Y3RzTUlCcllvZE16QW1oeHY4YzlVTHVrNUhtYlZ4R0xoMnIwSXdJWWRPejByZXh5TTZXdks5RjFOdjJ1SUdMNGtlOEtkVHQ3OGFFTkpWSGs?oc=5",
-      "description": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift tokenpost.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T09:00:12.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "tokenpost.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift tokenpost.com",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "China Extends Travel Curbs to Families of Top AI, Chip Talent - Seoul Economic Daily",
@@ -170,7 +169,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T07:20:39.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Seoul Economic Daily",
       "geopoliticalBypass": true,
@@ -180,7 +179,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Extends Travel Curbs to Families of Top AI, Chip Talent Seoul Economic Daily",
-      "id": "a9"
+      "id": "a11"
     },
     {
       "title": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg - Українські Національні Новини (УНН)",
@@ -190,7 +189,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T07:17:19.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Українські Національні Новини (УНН)",
       "geopoliticalBypass": true,
@@ -200,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg Українські Національні Новини (УНН)",
-      "id": "a10"
+      "id": "a12"
     },
     {
       "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -210,7 +209,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-29T07:12:52.000Z",
-      "fetchedAt": "2026-09-29T16:39:07.755Z",
+      "fetchedAt": "2026-09-29T21:04:40.940Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -219,27 +218,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-      "id": "a11"
+      "id": "a13"
     },
     {
-      "title": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ - biz.chosun.com",
+      "title": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ - Chosunbiz",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG1sZUx1aVlsbDRVZ2RMN0hZT0lTYlhjZ1Y3eDB3azNtQTQwQWlZbThTZ2thUEt0RzlOOTJRek11WWRtZm9QM1hsbk12TGxja3E0djRrdURiQV9MdzJySWlHM3lPNkN5Zlo2QVFLLUpELWFKd2pmZFhpSDdQM3VhNnhNLW9vRGY00gGcAUFVX3lxTE1yS0Y4MU14VXhnWjQyQzg5RlZhVl9hM3k3YXVQbkVZazRTdTZRdXNDRXA4WWtmNHRlTEhVQXNDNXlhRDE2cHlvR2s4TzdaNWRXd3VNd0thbTRUc1BSZDdXZFVha2xBMjNLS28tUk9yeTk4S0UzMnZ4ZTEzMHVDV1VOSXNNZ1hULXVHRHQyb0YwZ3RjYy1tWk01LTU5UA?oc=5",
-      "description": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ biz.chosun.com",
+      "description": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T05:15:00.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "biz.chosun.com",
+      "googleNewsSource": "Chosunbiz",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ biz.chosun.com",
-      "id": "a12"
+      "summary": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
+      "id": "a14"
     },
     {
       "title": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" - news.sbs.co.kr",
@@ -249,7 +248,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T04:37:03.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "news.sbs.co.kr",
       "geopoliticalBypass": true,
@@ -259,7 +258,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" news.sbs.co.kr",
-      "id": "a13"
+      "id": "a15"
     },
     {
       "title": "US says Greenland interest is about national security, not territorial conquest - The Copenhagen Post",
@@ -269,7 +268,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T04:20:46.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Copenhagen Post",
       "geopoliticalBypass": true,
@@ -279,27 +278,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US says Greenland interest is about national security, not territorial conquest The Copenhagen Post",
-      "id": "a14"
-    },
-    {
-      "title": "Hegseth says national security, military cyber forces will guard US election systems during midterms - WSLS",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQelBXZnBPSzVkZ0VXWk9hNllERWxRSl9fMUZ2aEJScWZLajZzeGxQejlIa3RFdWpfVDRLSTFGMDBLQi1CRkMwNGNwLW9OaVU1TVJSaGo5QjdrUU5LZnB0SkZkTE9nT1FiV1pUUUdvYlpZZ0EtXzAtakVpQkhDWnJFX3ZUQzFSeHNLd1ZRMWdZT2FITS1nQ1dtcy10ZkxqeldVYWY0Vk5DcHdoN2hKYllZZnNGYTVaS1k5THpQUTRxREN0X1RVdDN1b2xlOHRBcUp5ZTMxX3dmWHlOeDhqbW1R?oc=5",
-      "description": "Hegseth says national security, military cyber forces will guard US election systems during midterms WSLS",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T00:19:25.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "WSLS",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Hegseth says national security, military cyber forces will guard US election systems during midterms WSLS",
-      "id": "a15"
+      "id": "a16"
     },
     {
       "title": "Why Qualcomm (QCOM) Stock Is Down Today",
@@ -309,7 +288,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-29T16:39:03.347Z",
+      "fetchedAt": "2026-09-29T21:04:36.116Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -319,7 +298,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a16"
+      "id": "a17"
     },
     {
       "title": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount - finance.biggo.com",
@@ -329,7 +308,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T22:10:19.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
+      "fetchedAt": "2026-09-29T21:04:42.672Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "finance.biggo.com",
       "geopoliticalBypass": true,
@@ -339,67 +318,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount finance.biggo.com",
-      "id": "a17"
-    },
-    {
-      "title": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors - RealClearMarkets",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDFKUkxhc2hpUHdjQjQ5RFdoWmV6N0VCV0theGp4dy1wYjR3VEdScE5JVEh2eXIyNEpwR0tuMF9qLW1hSGc5ZDdjNnQ0NUduWnVYT2RqWEFRU1R4Nkd1UkZ4WWdNZENkeFR6dFg5aEs2Q2k5NFY1UDZ1N0xEckJWcFR5am9fekxQLWJ1NmRXVWJuU1Y5cVRmSXZlZVU0cXcybXhrQTJVT2RjT0laanlOaUVBQzJrekNpNWI0Tk4yZ3k3TVlkR2JNREZR?oc=5",
-      "description": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T21:01:05.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "RealClearMarkets",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
       "id": "a18"
-    },
-    {
-      "title": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems - ExecutiveGov",
-      "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFdiX0NJUThOT1BFTkt0amtfdmthQjQtVU5VdkVUV3dZWjVvQUxrZGJNaWZuZkRhUnVFYVpMRmE3eDZfZzR1Yy1jWkNQMV9Fb3NmNGtYVE9TODZBS01PZHRjRk5vek10eHZIbTdZU3lIQWRUdE9PNFRJeVFPTl9PWGFRckZKSTYyT0FDcktMMVB6LXNJVUN4T21VbWl5M0I2R2xDN1ppdw?oc=5",
-      "description": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T20:55:05.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "ExecutiveGov",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
-      "id": "a19"
-    },
-    {
-      "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQmZNTFlENjFBSWdKUXE3VktLMFhINWdyOEdkMjRRSUhHN2VZd3E2ZndRM3hLMEpkX054Y1drRWFJWkp5XzAyMVQyUlBzMEt0NDB3SDlPbi1OR0hjU2tiaGpfVTc1bENGakMta2ZZalZKYTd1RlNkLXNrOXZjVUhaeGJYMm8yR1hnN2dIRmdoa1Y0VF92R0VPQ2k0X09XWEMxNVYzamc0Q2UwOGNpUGRlUVJxUWN6a3o1ZXdDMmx2anQ?oc=5",
-      "description": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T19:33:00.000Z",
-      "fetchedAt": "2026-09-29T16:39:09.735Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Fortune",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
-      "id": "a21"
     },
     {
       "title": "Honor pushes cinematic qualities of latest flagship",
@@ -409,7 +328,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T10:50:14.000Z",
-      "fetchedAt": "2026-09-29T16:39:07.785Z",
+      "fetchedAt": "2026-09-29T21:04:39.759Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -418,7 +337,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-      "id": "a26"
+      "id": "a24"
     },
     {
       "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -428,7 +347,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-28T06:55:51.000Z",
-      "fetchedAt": "2026-09-29T16:39:07.755Z",
+      "fetchedAt": "2026-09-29T21:04:40.940Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -437,7 +356,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-      "id": "a27"
+      "id": "a25"
     }
   ]
 }
