@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-29T10:09:28.779Z",
-  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T16:39:09.773Z",
+  "date": "2026-09-30",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
@@ -9,7 +9,7 @@
       {
         "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
         "articleIds": [
-          "a21"
+          "a24"
         ],
         "subCategory": "apple"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-29T10:09:21.773Z",
+      "fetchedAt": "2026-09-29T16:39:03.347Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -36,7 +36,7 @@
         "oem"
       ],
       "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "id": "a21"
+      "id": "a24"
     }
   ]
 }

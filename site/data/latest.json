@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-09-29T10:09:28.856Z",
-  "date": "2026-09-29",
+  "generatedAt": "2026-09-29T16:39:09.775Z",
+  "date": "2026-09-30",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
-      "topHeadlineId": "a15",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,30 +20,30 @@
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
-      "topHeadlineId": "a23",
+      "topHeadlineId": "a25",
       "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 22,
-      "topHeadline": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
+      "articleCount": 21,
+      "topHeadline": "America's Canadian import restrictions come into force. Here are the products barred from entry",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
-      "topHeadlineId": "a21",
+      "topHeadlineId": "a24",
       "briefingSummary": "One article today covering Apple. Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time "
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Why Qualcomm (QCOM) Stock Is Down Today",
-      "topHeadlineId": "a11",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Apple (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "The best early October Prime Day deals happening now",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 31
+  "totalArticles": 30
 }
