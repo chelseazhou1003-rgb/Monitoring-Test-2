@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:46:45.846Z",
+  "generatedAt": "2026-09-29T10:09:28.779Z",
   "date": "2026-09-29",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
         "articleIds": [
-          "a1"
+          "a11"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
         "articleIds": [
-          "a12"
+          "a21"
         ],
         "subCategory": "apple"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-29T02:46:39.963Z",
+      "fetchedAt": "2026-09-29T10:09:21.773Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -41,7 +41,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a1"
+      "id": "a11"
     },
     {
       "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-29T02:46:39.963Z",
+      "fetchedAt": "2026-09-29T10:09:21.773Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -63,7 +63,7 @@
         "oem"
       ],
       "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "id": "a12"
+      "id": "a21"
     }
   ]
 }

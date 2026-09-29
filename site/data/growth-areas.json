@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T02:46:45.846Z",
+  "generatedAt": "2026-09-29T10:09:28.779Z",
   "date": "2026-09-29",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Embodied AI & Robotics: Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
         "articleIds": [
-          "a14"
+          "a23"
         ],
         "subCategory": "embodied-ai-robotics"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:00:02.000Z",
-      "fetchedAt": "2026-09-29T02:46:39.963Z",
+      "fetchedAt": "2026-09-29T10:09:21.773Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
-      "id": "a14"
+      "id": "a23"
     }
   ]
 }

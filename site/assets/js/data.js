@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,7 +12,7 @@ export const NEWS_DATA = {
         {
           "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
           "articleIds": [
-            "a12"
+            "a21"
           ],
           "subCategory": "apple"
         }
@@ -27,7 +27,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T13:30:44.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -39,12 +39,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-        "id": "a12"
+        "id": "a21"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -54,14 +54,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new",
           "articleIds": [
-            "a4"
+            "a15"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj ",
           "articleIds": [
-            "a9"
+            "a18"
           ],
           "subCategory": "mobile-chips"
         }
@@ -76,7 +76,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T19:35:53.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -84,7 +84,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-        "id": "a4"
+        "id": "a15"
       },
       {
         "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
@@ -94,7 +94,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-28T16:01:00.000Z",
-        "fetchedAt": "2026-09-29T02:46:43.610Z",
+        "fetchedAt": "2026-09-29T10:09:26.958Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -102,7 +102,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-        "id": "a9"
+        "id": "a18"
       },
       {
         "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
@@ -112,7 +112,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T15:51:29.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -120,7 +120,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
-        "id": "a10"
+        "id": "a19"
       },
       {
         "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
@@ -130,7 +130,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T17:00:41.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.774Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -138,7 +138,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-        "id": "a19"
+        "id": "a27"
       },
       {
         "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -148,7 +148,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-26T16:20:01.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.774Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -156,12 +156,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-        "id": "a21"
+        "id": "a29"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -171,7 +171,7 @@ export const NEWS_DATA = {
         {
           "text": "Embodied AI & Robotics: Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
           "articleIds": [
-            "a14"
+            "a23"
           ],
           "subCategory": "embodied-ai-robotics"
         }
@@ -186,7 +186,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T13:00:02.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -194,12 +194,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
-        "id": "a14"
+        "id": "a23"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -210,14 +210,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-09-29T02:46:45.848Z",
+    "generatedAt": "2026-09-29T10:09:28.856Z",
     "date": "2026-09-29",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
-        "topHeadlineId": "a4",
+        "topHeadlineId": "a15",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -231,58 +231,254 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Qualcomm Just Agreed to Acquire Robotics Software Firm Picknik. How to Approach the Stock Now.",
-        "topHeadlineId": "a14",
+        "topHeadlineId": "a23",
         "briefingSummary": "One article today covering Embodied AI & Robotics. Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 14,
-        "topHeadline": "Why Qualcomm (QCOM) Stock Is Down Today",
+        "articleCount": 22,
+        "topHeadline": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 1,
         "topHeadline": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
-        "topHeadlineId": "a12",
+        "topHeadlineId": "a21",
         "briefingSummary": "One article today covering Apple. Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time "
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 2,
         "topHeadline": "Why Qualcomm (QCOM) Stock Is Down Today",
-        "topHeadlineId": "a1",
+        "topHeadlineId": "a11",
         "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Apple (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 23
+    "totalArticles": 31
   },
   "macro-environment": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
+          "text": "Geopolitics & Export Controls: China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "market-performance"
+          "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Geopolitics & Export Controls: Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+          "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
           "articleIds": [
-            "a2"
+            "a11"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
+        "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVQ4VFc1MGh1Vk9JTEhlQlVaakJBSk9qUDFIbUhOSmVweHRWal9OZTlvNXFvS2NGUDY0TTc4azJ4OUlOZi1iWWtCaXU5Wk5JRHpMQ2s0cTNubUhrb3NGTW04STZBeWtWTloyQ0QwdU1rWlFDdmlXMWxBU3FROEhQOXlBZ2pvVjNHSE5tcEZSZXZwLXhKTVFHZVNPdjN6SHpYRk5XVkVoRmM1eEZWZWdFLUIwX3B2WkZrWUE?oc=5",
+        "description": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T09:58:19.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "UA.NEWS",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
+        "id": "a1"
+      },
+      {
+        "title": "China Extends Travel Curbs to Families of Top AI, Chip Talent - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcW9oVkJoRDNQUXZCR1czSUNfeTIwSkJiamVwQm4xQjNuNFIwZjl6d2REZlNfUG5wWTE5NERwVG1hQWJSQ2VkT0owT3ZnOXc0WFNVcFNBajgwSE14d05NdHNqSjhmQkdDRWFObUZTYU1lSlBJYkVXTUIwa1dCXzB5M0lRVnJheGRUQkdhempOX0Z0dm1BbHhnaWp4UlZnVHJQS1owb1k2cENINFVv?oc=5",
+        "description": "China Extends Travel Curbs to Families of Top AI, Chip Talent Seoul Economic Daily",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T07:20:39.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Seoul Economic Daily",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Extends Travel Curbs to Families of Top AI, Chip Talent Seoul Economic Daily",
+        "id": "a2"
+      },
+      {
+        "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+        "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+        "description": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T07:19:38.000Z",
+        "fetchedAt": "2026-09-29T10:09:21.600Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+        "id": "a3"
+      },
+      {
+        "title": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg - Українські Національні Новини (УНН)",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlBUZGYtNEljSTZHMmFUUldHM09TNnJRWVBLTGJsVHFIUXprTUd2UE1HZEpKY0NCbzNWU3NCNTRSSmtUQ2pzNWc2dDhuTGhCMnJ4dVYtYzc2WWVwN1pLSlNDWXRKWVFRWGUyM2VhUXcyMHk5d2RBQXI5VDRGRkJXenFhM1lvNWk3ZG0ybjlSZUxDdUdQeXfSAZQBQVVfeXFMTkRoaWtkeWlSUHA5bkRXTlNPemgwN2lZX3BJUG1KaWFjUnIxNnJMTjl0UFZOdkJLQ3ZOczlMRXBYcjdadTdObmRfQWtWTnEyS0ZYQ0h4RDlMUEg5MFZlWFJaVklYRUptNV9xNGQxaE5QZVB1X3ZNQkJLWEotS295blFKM2ZwcUxJV2U2LUJWcFh3dE52dQ?oc=5",
+        "description": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg Українські Національні Новини (УНН)",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T07:17:19.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Українські Національні Новини (УНН)",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg Українські Національні Новини (УНН)",
+        "id": "a4"
+      },
+      {
+        "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
+        "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
+        "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-29T07:12:52.000Z",
+        "fetchedAt": "2026-09-29T10:09:25.627Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
+        "id": "a5"
+      },
+      {
+        "title": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ - Chosunbiz",
+        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG1sZUx1aVlsbDRVZ2RMN0hZT0lTYlhjZ1Y3eDB3azNtQTQwQWlZbThTZ2thUEt0RzlOOTJRek11WWRtZm9QM1hsbk12TGxja3E0djRrdURiQV9MdzJySWlHM3lPNkN5Zlo2QVFLLUpELWFKd2pmZFhpSDdQM3VhNnhNLW9vRGY00gGcAUFVX3lxTE1yS0Y4MU14VXhnWjQyQzg5RlZhVl9hM3k3YXVQbkVZazRTdTZRdXNDRXA4WWtmNHRlTEhVQXNDNXlhRDE2cHlvR2s4TzdaNWRXd3VNd0thbTRUc1BSZDdXZFVha2xBMjNLS28tUk9yeTk4S0UzMnZ4ZTEzMHVDV1VOSXNNZ1hULXVHRHQyb0YwZ3RjYy1tWk01LTU5UA?oc=5",
+        "description": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T05:15:00.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Chosunbiz",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
+        "id": "a6"
+      },
+      {
+        "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
+        "url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
+        "description": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T05:12:10.000Z",
+        "fetchedAt": "2026-09-29T10:09:21.600Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+        "id": "a7"
+      },
+      {
+        "title": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" - news.sbs.co.kr",
+        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XOW9jV09nTlFhS0dxR3VDM2xPVXVBdlpGZ1R3OVNtVUZrdDdicXRWMF9Ka09jMnBWZk1XVGlFd2ZiR2E4VzNXUkZsbHUxb2VNSE44YUdWQ25ncm9NMklnZmRrQjJiMWVESmtFN3pR?oc=5",
+        "description": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" news.sbs.co.kr",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T04:37:03.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "news.sbs.co.kr",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" news.sbs.co.kr",
+        "id": "a8"
+      },
+      {
+        "title": "US says Greenland interest is about national security, not territorial conquest - The Copenhagen Post",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWZEU0piZGt4X1dyOVZJclZrb0o2VV9jaE5fT2RVZnBhRXFVYXAyTEZiTE1QcGVJbVBpaE5SWVJoc1h0TnV4czZLSTN2X2c4S2huWDJrUEdMZTFZTTZoMFYwSkZrVDNqb0NLUkFOeHNsVnpNMTFwUmpoeTUyWGw5OURUbVJxeXk2Yll1NDMwNHhwX3JPYnNzTDd4ZnlfOFVjeXA2RVduRy1aalFyUEFjZGFtWVNxVDA?oc=5",
+        "description": "US says Greenland interest is about national security, not territorial conquest The Copenhagen Post",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T04:20:46.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Copenhagen Post",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US says Greenland interest is about national security, not territorial conquest The Copenhagen Post",
+        "id": "a9"
+      },
+      {
+        "title": "US-China AI Race: Five Key Flashpoints Explained",
+        "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
+        "description": "Both the US and China see artificial intelligence as the new focal point of their economic rivalry. US President Donald Trump declared on Sept. 13 that “whoever wins AI, wins.” The question is whether the two nations can put aside their disagreements and cooperate in building a safe and sustainable AI environment. For now, neither trusts the other’s motives, and neither wants to slow down.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-29T03:32:58.000Z",
+        "fetchedAt": "2026-09-29T10:09:22.016Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Both the US and China see artificial intelligence as the new focal point of their economic rivalry. US President Donald Trump declared on Sept. 13 that “whoever wins AI, wins.” The question is whether the two nations can put aside their disagreements and cooperate in building a safe and sustainable AI environment. For now, neither trusts the other’s motives, and neither wants to slow down.",
+        "id": "a10"
+      },
       {
         "title": "Why Qualcomm (QCOM) Stock Is Down Today",
         "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
@@ -291,7 +487,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T23:50:36.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -301,26 +497,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-        "id": "a1"
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-        "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
-        "description": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T23:00:01.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.855Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-        "id": "a2"
+        "id": "a11"
       },
       {
         "title": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount - finance.biggo.com",
@@ -330,7 +507,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T22:05:00.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "finance.biggo.com",
         "geopoliticalBypass": true,
@@ -340,7 +517,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount finance.biggo.com",
-        "id": "a3"
+        "id": "a12"
+      },
+      {
+        "title": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors - RealClearMarkets",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDFKUkxhc2hpUHdjQjQ5RFdoWmV6N0VCV0theGp4dy1wYjR3VEdScE5JVEh2eXIyNEpwR0tuMF9qLW1hSGc5ZDdjNnQ0NUduWnVYT2RqWEFRU1R4Nkd1UkZ4WWdNZENkeFR6dFg5aEs2Q2k5NFY1UDZ1N0xEckJWcFR5am9fekxQLWJ1NmRXVWJuU1Y5cVRmSXZlZVU0cXcybXhrQTJVT2RjT0laanlOaUVBQzJrekNpNWI0Tk4yZ3k3TVlkR2JNREZR?oc=5",
+        "description": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T21:01:05.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "RealClearMarkets",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
+        "id": "a13"
+      },
+      {
+        "title": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems - ExecutiveGov",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFdiX0NJUThOT1BFTkt0amtfdmthQjQtVU5VdkVUV3dZWjVvQUxrZGJNaWZuZkRhUnVFYVpMRmE3eDZfZzR1Yy1jWkNQMV9Fb3NmNGtYVE9TODZBS01PZHRjRk5vek10eHZIbTdZU3lIQWRUdE9PNFRJeVFPTl9PWGFRckZKSTYyT0FDcktMMVB6LXNJVUN4T21VbWl5M0I2R2xDN1ppdw?oc=5",
+        "description": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-09-28T20:55:05.000Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "ExecutiveGov",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
+        "id": "a14"
       },
       {
         "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
@@ -350,7 +567,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T19:33:00.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "geopoliticalBypass": true,
@@ -360,45 +577,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
-        "id": "a5"
-      },
-      {
-        "title": "Will New China AI ETF Have Its 'Shiny Moment'?",
-        "url": "https://www.bloomberg.com/news/videos/2026-09-28/will-new-china-ai-etf-have-its-shiny-moment-video",
-        "description": "Kevin Carter, founder & CIO of EMQQ Global, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the China AI Tigers ETF (ticker: TGRZ). (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T18:30:40.000Z",
-        "fetchedAt": "2026-09-29T02:46:40.202Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Kevin Carter, founder & CIO of EMQQ Global, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the China AI Tigers ETF (ticker: TGRZ).",
-        "id": "a6"
-      },
-      {
-        "title": "Manus Expands AI Tools in Renewed Push Into Agent Market",
-        "url": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market",
-        "description": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry’s hottest areas.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T17:57:46.000Z",
-        "fetchedAt": "2026-09-29T02:46:40.202Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry’s hottest areas.",
-        "id": "a7"
+        "id": "a16"
       },
       {
         "title": "China Now Requires Travel Approval for Families of AI Lab Executives - WinBuzzer",
@@ -408,7 +587,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T16:31:13.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WinBuzzer",
         "geopoliticalBypass": true,
@@ -418,7 +597,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
-        "id": "a8"
+        "id": "a17"
       },
       {
         "title": "ASML Has a China Warning for Trump: Too Much Pressure Could Create a Competitor - TradingView",
@@ -428,7 +607,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T14:20:17.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TradingView",
         "geopoliticalBypass": true,
@@ -438,7 +617,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML Has a China Warning for Trump: Too Much Pressure Could Create a Competitor TradingView",
-        "id": "a11"
+        "id": "a20"
       },
       {
         "title": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing - Global Times",
@@ -448,7 +627,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T13:30:00.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
+        "fetchedAt": "2026-09-29T10:09:28.744Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Global Times",
         "geopoliticalBypass": true,
@@ -458,7 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
-        "id": "a13"
+        "id": "a22"
       },
       {
         "title": "Honor pushes cinematic qualities of latest flagship",
@@ -468,7 +647,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-28T10:50:14.000Z",
-        "fetchedAt": "2026-09-29T02:46:43.610Z",
+        "fetchedAt": "2026-09-29T10:09:26.958Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -477,27 +656,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-        "id": "a15"
-      },
-      {
-        "title": "China expands travel restrictions to families of top artificial intelligence executives - streamlinefeed.co.ke",
-        "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG9xZHN0bjFYekluekVyYi1JeGdrVDdDOU4wWHVhRnJqVlNTOVFiRmdMWmVLVUNmUVh2M2FQcTNQdEx1d0lZX2dzNWxrb2hTSVVnMG1WLW52NUFWMTFaRHJLUlU5MUlFelVrbkxuaVEtUDJENkhlNGlVRUhORnloQWpfYVh3SmdYbjV1a3djQkFZZE1FbXIzbEtWV3prUkQwcHBRVkE3dXlIYWs5MmZGS1RRYkZWUDNOVmZlT0VR?oc=5",
-        "description": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-28T08:43:31.000Z",
-        "fetchedAt": "2026-09-29T02:46:45.811Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "streamlinefeed.co.ke",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
-        "id": "a16"
+        "id": "a24"
       },
       {
         "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -507,7 +666,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-28T06:55:51.000Z",
-        "fetchedAt": "2026-09-29T02:46:43.746Z",
+        "fetchedAt": "2026-09-29T10:09:25.627Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -516,7 +675,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-        "id": "a17"
+        "id": "a25"
       },
       {
         "title": "How to Trade Qualcomm Stock Near Multi-Month Highs",
@@ -526,7 +685,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T19:46:27.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.774Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -534,7 +693,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
-        "id": "a18"
+        "id": "a26"
       },
       {
         "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
@@ -544,7 +703,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-27T08:19:34.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.774Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -552,7 +711,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm Incorporated (NASDAQ:QCOM) is increasingly focused on the premium smartphone market, where consumers tend to have greater purchasing power. On September 22, it unveiled Android phone chipsets specifically designed for on-device artificial intelligence. Investor sentiment around AI remains an important part of the broader investment backdrop. Brad Gerstner recently argued that the latest negativity around […]",
-        "id": "a20"
+        "id": "a28"
       }
     ]
   },
@@ -748,7 +907,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-09-29T02:46:45.846Z",
+    "generatedAt": "2026-09-29T10:09:28.779Z",
     "date": "2026-09-29",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -758,14 +917,14 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
           "articleIds": [
-            "a1"
+            "a11"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
           "articleIds": [
-            "a12"
+            "a21"
           ],
           "subCategory": "apple"
         }
@@ -780,7 +939,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T23:50:36.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -790,7 +949,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-        "id": "a1"
+        "id": "a11"
       },
       {
         "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -800,7 +959,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-28T13:30:44.000Z",
-        "fetchedAt": "2026-09-29T02:46:39.963Z",
+        "fetchedAt": "2026-09-29T10:09:21.773Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -812,7 +971,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-        "id": "a12"
+        "id": "a21"
       }
     ]
   },
@@ -13180,11 +13339,11 @@ export const NEWS_DATA = {
     "totalArticles": 37
   },
   "archive-2026-09-29": {
-    "generatedAt": "2026-09-29T02:46:45.849Z",
+    "generatedAt": "2026-09-29T10:09:28.895Z",
     "date": "2026-09-29",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -13194,14 +13353,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new",
               "articleIds": [
-                "a4"
+                "a15"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj ",
               "articleIds": [
-                "a9"
+                "a18"
               ],
               "subCategory": "mobile-chips"
             }
@@ -13216,7 +13375,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T19:35:53.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -13224,7 +13383,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-            "id": "a4"
+            "id": "a15"
           },
           {
             "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
@@ -13234,7 +13393,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-28T16:01:00.000Z",
-            "fetchedAt": "2026-09-29T02:46:43.610Z",
+            "fetchedAt": "2026-09-29T10:09:26.958Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -13242,7 +13401,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-            "id": "a9"
+            "id": "a18"
           },
           {
             "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
@@ -13252,7 +13411,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T15:51:29.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -13260,7 +13419,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
-            "id": "a10"
+            "id": "a19"
           },
           {
             "title": "Qualcomm Stock Has an Opportunity Investors May Be Underestimating",
@@ -13270,7 +13429,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-27T17:00:41.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.774Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -13278,7 +13437,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted 61% automotive growth and raised its non-handset target to $40 billion, yet the market keeps valuing it like a company living and dying by smartphone chips. Something in that gap is worth a closer look.",
-            "id": "a19"
+            "id": "a27"
           },
           {
             "title": "ASML vs. Qualcomm: Which AI Semiconductor Stock Is a Better Buy in 2026?",
@@ -13288,7 +13447,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-26T16:20:01.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.774Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -13296,12 +13455,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ASML holds a monopoly on the machines behind leading-edge chips, while Qualcomm's lower valuation comes with slowing growth and heavy customer concentration.",
-            "id": "a21"
+            "id": "a29"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -13312,7 +13471,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -13322,7 +13481,7 @@ export const NEWS_DATA = {
             {
               "text": "Embodied AI & Robotics: Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
               "articleIds": [
-                "a14"
+                "a23"
               ],
               "subCategory": "embodied-ai-robotics"
             }
@@ -13337,7 +13496,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T13:00:02.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "embodied-ai-robotics",
@@ -13345,35 +13504,231 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm has agreed to acquire PickNik, the company behind MoveIt, as it pushes deeper into physical AI.",
-            "id": "a14"
+            "id": "a23"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
+              "text": "Geopolitics & Export Controls: China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "market-performance"
+              "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Geopolitics & Export Controls: Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
+              "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
               "articleIds": [
-                "a2"
+                "a11"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVQ4VFc1MGh1Vk9JTEhlQlVaakJBSk9qUDFIbUhOSmVweHRWal9OZTlvNXFvS2NGUDY0TTc4azJ4OUlOZi1iWWtCaXU5Wk5JRHpMQ2s0cTNubUhrb3NGTW04STZBeWtWTloyQ0QwdU1rWlFDdmlXMWxBU3FROEhQOXlBZ2pvVjNHSE5tcEZSZXZwLXhKTVFHZVNPdjN6SHpYRk5XVkVoRmM1eEZWZWdFLUIwX3B2WkZrWUE?oc=5",
+            "description": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T09:58:19.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "UA.NEWS",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
+            "id": "a1"
+          },
+          {
+            "title": "China Extends Travel Curbs to Families of Top AI, Chip Talent - Seoul Economic Daily",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcW9oVkJoRDNQUXZCR1czSUNfeTIwSkJiamVwQm4xQjNuNFIwZjl6d2REZlNfUG5wWTE5NERwVG1hQWJSQ2VkT0owT3ZnOXc0WFNVcFNBajgwSE14d05NdHNqSjhmQkdDRWFObUZTYU1lSlBJYkVXTUIwa1dCXzB5M0lRVnJheGRUQkdhempOX0Z0dm1BbHhnaWp4UlZnVHJQS1owb1k2cENINFVv?oc=5",
+            "description": "China Extends Travel Curbs to Families of Top AI, Chip Talent Seoul Economic Daily",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T07:20:39.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Seoul Economic Daily",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Extends Travel Curbs to Families of Top AI, Chip Talent Seoul Economic Daily",
+            "id": "a2"
+          },
+          {
+            "title": "China has three new criteria for humanoid robot IPOs. Few, if any, meet them",
+            "url": "https://www.cnbc.com/2026/09/29/china-criteria-humanoid-robot-ipos.html",
+            "description": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T07:19:38.000Z",
+            "fetchedAt": "2026-09-29T10:09:21.600Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's securities regulator is raising the bar for public listings of humanoid robot startups with three specific criteria, according to three sources.",
+            "id": "a3"
+          },
+          {
+            "title": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg - Українські Національні Новини (УНН)",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMlBUZGYtNEljSTZHMmFUUldHM09TNnJRWVBLTGJsVHFIUXprTUd2UE1HZEpKY0NCbzNWU3NCNTRSSmtUQ2pzNWc2dDhuTGhCMnJ4dVYtYzc2WWVwN1pLSlNDWXRKWVFRWGUyM2VhUXcyMHk5d2RBQXI5VDRGRkJXenFhM1lvNWk3ZG0ybjlSZUxDdUdQeXfSAZQBQVVfeXFMTkRoaWtkeWlSUHA5bkRXTlNPemgwN2lZX3BJUG1KaWFjUnIxNnJMTjl0UFZOdkJLQ3ZOczlMRXBYcjdadTdObmRfQWtWTnEyS0ZYQ0h4RDlMUEg5MFZlWFJaVklYRUptNV9xNGQxaE5QZVB1X3ZNQkJLWEotS295blFKM2ZwcUxJV2U2LUJWcFh3dE52dQ?oc=5",
+            "description": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg Українські Національні Новини (УНН)",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T07:17:19.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Українські Національні Новини (УНН)",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Restricts Overseas Travel for Families of AI Experts - Bloomberg Українські Національні Новини (УНН)",
+            "id": "a4"
+          },
+          {
+            "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
+            "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
+            "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-29T07:12:52.000Z",
+            "fetchedAt": "2026-09-29T10:09:25.627Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
+            "id": "a5"
+          },
+          {
+            "title": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQeG1sZUx1aVlsbDRVZ2RMN0hZT0lTYlhjZ1Y3eDB3azNtQTQwQWlZbThTZ2thUEt0RzlOOTJRek11WWRtZm9QM1hsbk12TGxja3E0djRrdURiQV9MdzJySWlHM3lPNkN5Zlo2QVFLLUpELWFKd2pmZFhpSDdQM3VhNnhNLW9vRGY00gGcAUFVX3lxTE1yS0Y4MU14VXhnWjQyQzg5RlZhVl9hM3k3YXVQbkVZazRTdTZRdXNDRXA4WWtmNHRlTEhVQXNDNXlhRDE2cHlvR2s4TzdaNWRXd3VNd0thbTRUc1BSZDdXZFVha2xBMjNLS28tUk9yeTk4S0UzMnZ4ZTEzMHVDV1VOSXNNZ1hULXVHRHQyb0YwZ3RjYy1tWk01LTU5UA?oc=5",
+            "description": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T05:15:00.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Chosunbiz",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China tightens AI talent control, requiring approval for family travel - CHOSUNBIZ Chosunbiz",
+            "id": "a6"
+          },
+          {
+            "title": "India readies $25 billion for Deep Tech investment as U.S. and China race ahead",
+            "url": "https://www.cnbc.com/2026/09/29/india-investment-billions-tech-ai-us-china.html",
+            "description": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T05:12:10.000Z",
+            "fetchedAt": "2026-09-29T10:09:21.600Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "In a bid to cut its reliance on foreign tech, India tries to catch up with China and the U.S. by readying an investment of $25 billion in Deep Tech startups.",
+            "id": "a7"
+          },
+          {
+            "title": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" - news.sbs.co.kr",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9XOW9jV09nTlFhS0dxR3VDM2xPVXVBdlpGZ1R3OVNtVUZrdDdicXRWMF9Ka09jMnBWZk1XVGlFd2ZiR2E4VzNXUkZsbHUxb2VNSE44YUdWQ25ncm9NMklnZmRrQjJiMWVESmtFN3pR?oc=5",
+            "description": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" news.sbs.co.kr",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T04:37:03.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "news.sbs.co.kr",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "\"China Restricts Overseas Travel Even for Families of Key AI Talent to Block Tech Leaks\" news.sbs.co.kr",
+            "id": "a8"
+          },
+          {
+            "title": "US says Greenland interest is about national security, not territorial conquest - The Copenhagen Post",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbWZEU0piZGt4X1dyOVZJclZrb0o2VV9jaE5fT2RVZnBhRXFVYXAyTEZiTE1QcGVJbVBpaE5SWVJoc1h0TnV4czZLSTN2X2c4S2huWDJrUEdMZTFZTTZoMFYwSkZrVDNqb0NLUkFOeHNsVnpNMTFwUmpoeTUyWGw5OURUbVJxeXk2Yll1NDMwNHhwX3JPYnNzTDd4ZnlfOFVjeXA2RVduRy1aalFyUEFjZGFtWVNxVDA?oc=5",
+            "description": "US says Greenland interest is about national security, not territorial conquest The Copenhagen Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T04:20:46.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Copenhagen Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US says Greenland interest is about national security, not territorial conquest The Copenhagen Post",
+            "id": "a9"
+          },
+          {
+            "title": "US-China AI Race: Five Key Flashpoints Explained",
+            "url": "https://www.bloomberg.com/news/articles/2026-09-29/us-china-ai-race-five-key-flashpoints-explained",
+            "description": "Both the US and China see artificial intelligence as the new focal point of their economic rivalry. US President Donald Trump declared on Sept. 13 that “whoever wins AI, wins.” The question is whether the two nations can put aside their disagreements and cooperate in building a safe and sustainable AI environment. For now, neither trusts the other’s motives, and neither wants to slow down.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-29T03:32:58.000Z",
+            "fetchedAt": "2026-09-29T10:09:22.016Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Both the US and China see artificial intelligence as the new focal point of their economic rivalry. US President Donald Trump declared on Sept. 13 that “whoever wins AI, wins.” The question is whether the two nations can put aside their disagreements and cooperate in building a safe and sustainable AI environment. For now, neither trusts the other’s motives, and neither wants to slow down.",
+            "id": "a10"
+          },
           {
             "title": "Why Qualcomm (QCOM) Stock Is Down Today",
             "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
@@ -13382,7 +13737,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T23:50:36.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -13392,26 +13747,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "id": "a1"
-          },
-          {
-            "title": "CNBC's The China Connection newsletter: Spectacle-heavy Trump-Xi summit was more about domestic messaging",
-            "url": "https://www.cnbc.com/2026/09/28/cnbcs-the-china-connection-trump-xi-summit-about-domestic-messaging.html",
-            "description": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T23:00:01.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.855Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Much of the pageantry was meant for the leaders' constituencies at home, analysts said.",
-            "id": "a2"
+            "id": "a11"
           },
           {
             "title": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount - finance.biggo.com",
@@ -13421,7 +13757,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T22:05:00.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "finance.biggo.com",
             "geopoliticalBypass": true,
@@ -13431,7 +13767,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Extends Exit Controls to Families of Top AI Talent as Tech Leak Concerns Mount finance.biggo.com",
-            "id": "a3"
+            "id": "a12"
+          },
+          {
+            "title": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors - RealClearMarkets",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNZDFKUkxhc2hpUHdjQjQ5RFdoWmV6N0VCV0theGp4dy1wYjR3VEdScE5JVEh2eXIyNEpwR0tuMF9qLW1hSGc5ZDdjNnQ0NUduWnVYT2RqWEFRU1R4Nkd1UkZ4WWdNZENkeFR6dFg5aEs2Q2k5NFY1UDZ1N0xEckJWcFR5am9fekxQLWJ1NmRXVWJuU1Y5cVRmSXZlZVU0cXcybXhrQTJVT2RjT0laanlOaUVBQzJrekNpNWI0Tk4yZ3k3TVlkR2JNREZR?oc=5",
+            "description": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T21:01:05.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "RealClearMarkets",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tariffs Will Not Build Out the 'Missing Half' of U.S. Semiconductors RealClearMarkets",
+            "id": "a13"
+          },
+          {
+            "title": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems - ExecutiveGov",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFdiX0NJUThOT1BFTkt0amtfdmthQjQtVU5VdkVUV3dZWjVvQUxrZGJNaWZuZkRhUnVFYVpMRmE3eDZfZzR1Yy1jWkNQMV9Fb3NmNGtYVE9TODZBS01PZHRjRk5vek10eHZIbTdZU3lIQWRUdE9PNFRJeVFPTl9PWGFRckZKSTYyT0FDcktMMVB6LXNJVUN4T21VbWl5M0I2R2xDN1ppdw?oc=5",
+            "description": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-09-28T20:55:05.000Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ExecutiveGov",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bipartisan Senate Bill Seeks Ban on Chinese Optical Transceivers from U.S. National Security Systems ExecutiveGov",
+            "id": "a14"
           },
           {
             "title": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn - Fortune",
@@ -13441,7 +13817,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T19:33:00.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "geopoliticalBypass": true,
@@ -13451,45 +13827,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "'Unsettling to American partners': Trump’s offer to sell arms to China is an admission he doesn’t take its security threats seriously, experts warn Fortune",
-            "id": "a5"
-          },
-          {
-            "title": "Will New China AI ETF Have Its 'Shiny Moment'?",
-            "url": "https://www.bloomberg.com/news/videos/2026-09-28/will-new-china-ai-etf-have-its-shiny-moment-video",
-            "description": "Kevin Carter, founder & CIO of EMQQ Global, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the China AI Tigers ETF (ticker: TGRZ). (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T18:30:40.000Z",
-            "fetchedAt": "2026-09-29T02:46:40.202Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Kevin Carter, founder & CIO of EMQQ Global, joins Scarlet Fu and Eric Balchunas on \"Bloomberg ETF IQ.\" They discuss the China AI Tigers ETF (ticker: TGRZ).",
-            "id": "a6"
-          },
-          {
-            "title": "Manus Expands AI Tools in Renewed Push Into Agent Market",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-28/manus-expands-ai-tools-in-renewed-push-into-agent-market",
-            "description": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry’s hottest areas.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T17:57:46.000Z",
-            "fetchedAt": "2026-09-29T02:46:40.202Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Manus, an artificial intelligence startup founded in China, is expanding its AI agent offerings, aiming to gain further ground in one of the tech industry’s hottest areas.",
-            "id": "a7"
+            "id": "a16"
           },
           {
             "title": "China Now Requires Travel Approval for Families of AI Lab Executives - WinBuzzer",
@@ -13499,7 +13837,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T16:31:13.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WinBuzzer",
             "geopoliticalBypass": true,
@@ -13509,7 +13847,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Now Requires Travel Approval for Families of AI Lab Executives WinBuzzer",
-            "id": "a8"
+            "id": "a17"
           },
           {
             "title": "ASML Has a China Warning for Trump: Too Much Pressure Could Create a Competitor - TradingView",
@@ -13519,7 +13857,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T14:20:17.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TradingView",
             "geopoliticalBypass": true,
@@ -13529,7 +13867,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ASML Has a China Warning for Trump: Too Much Pressure Could Create a Competitor TradingView",
-            "id": "a11"
+            "id": "a20"
           },
           {
             "title": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing - Global Times",
@@ -13539,7 +13877,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T13:30:00.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
+            "fetchedAt": "2026-09-29T10:09:28.744Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Global Times",
             "geopoliticalBypass": true,
@@ -13549,7 +13887,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China announces 10 outcomes from latest trade talks with US, putting bilateral consensus on a more operational, detailed footing Global Times",
-            "id": "a13"
+            "id": "a22"
           },
           {
             "title": "Honor pushes cinematic qualities of latest flagship",
@@ -13559,7 +13897,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-28T10:50:14.000Z",
-            "fetchedAt": "2026-09-29T02:46:43.610Z",
+            "fetchedAt": "2026-09-29T10:09:26.958Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -13568,27 +13906,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-            "id": "a15"
-          },
-          {
-            "title": "China expands travel restrictions to families of top artificial intelligence executives - streamlinefeed.co.ke",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxObG9xZHN0bjFYekluekVyYi1JeGdrVDdDOU4wWHVhRnJqVlNTOVFiRmdMWmVLVUNmUVh2M2FQcTNQdEx1d0lZX2dzNWxrb2hTSVVnMG1WLW52NUFWMTFaRHJLUlU5MUlFelVrbkxuaVEtUDJENkhlNGlVRUhORnloQWpfYVh3SmdYbjV1a3djQkFZZE1FbXIzbEtWV3prUkQwcHBRVkE3dXlIYWs5MmZGS1RRYkZWUDNOVmZlT0VR?oc=5",
-            "description": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T08:43:31.000Z",
-            "fetchedAt": "2026-09-29T02:46:45.811Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "streamlinefeed.co.ke",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China expands travel restrictions to families of top artificial intelligence executives streamlinefeed.co.ke",
-            "id": "a16"
+            "id": "a24"
           },
           {
             "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -13598,7 +13916,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-28T06:55:51.000Z",
-            "fetchedAt": "2026-09-29T02:46:43.746Z",
+            "fetchedAt": "2026-09-29T10:09:25.627Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -13607,7 +13925,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-            "id": "a17"
+            "id": "a25"
           },
           {
             "title": "How to Trade Qualcomm Stock Near Multi-Month Highs",
@@ -13617,7 +13935,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-27T19:46:27.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.774Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -13625,7 +13943,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm's recent rally has grabbed investors' attention. But with QCOM stock near multi-month highs, is it time to chase shares?",
-            "id": "a18"
+            "id": "a26"
           },
           {
             "title": "What Catalysts Could Drive Qualcomm (QCOM)’s Stock Higher or Lower?",
@@ -13635,7 +13953,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-27T08:19:34.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.774Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -13643,12 +13961,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm Incorporated (NASDAQ:QCOM) is increasingly focused on the premium smartphone market, where consumers tend to have greater purchasing power. On September 22, it unveiled Android phone chipsets specifically designed for on-device artificial intelligence. Investor sentiment around AI remains an important part of the broader investment backdrop. Brad Gerstner recently argued that the latest negativity around […]",
-            "id": "a20"
+            "id": "a28"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -13658,7 +13976,7 @@ export const NEWS_DATA = {
             {
               "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
               "articleIds": [
-                "a12"
+                "a21"
               ],
               "subCategory": "apple"
             }
@@ -13673,7 +13991,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T13:30:44.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -13685,12 +14003,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-            "id": "a12"
+            "id": "a21"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-09-29T02:46:45.846Z",
+        "generatedAt": "2026-09-29T10:09:28.779Z",
         "date": "2026-09-29",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -13700,14 +14018,14 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chi",
               "articleIds": [
-                "a1"
+                "a11"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
               "articleIds": [
-                "a12"
+                "a21"
               ],
               "subCategory": "apple"
             }
@@ -13722,7 +14040,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T23:50:36.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -13732,7 +14050,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "id": "a1"
+            "id": "a11"
           },
           {
             "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -13742,7 +14060,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-28T13:30:44.000Z",
-            "fetchedAt": "2026-09-29T02:46:39.963Z",
+            "fetchedAt": "2026-09-29T10:09:21.773Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -13754,12 +14072,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-            "id": "a12"
+            "id": "a21"
           }
         ]
       }
     },
-    "totalArticles": 23
+    "totalArticles": 31
   }
 };
 
