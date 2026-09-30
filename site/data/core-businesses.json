@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-29T21:04:42.715Z",
+  "generatedAt": "2026-09-30T00:47:15.167Z",
   "date": "2026-09-30",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Mobile Chips: Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "mobile-chips"
       },
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T18:58:56.000Z",
-      "fetchedAt": "2026-09-29T21:04:36.116Z",
+      "fetchedAt": "2026-09-30T00:47:08.005Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T15:06:14.000Z",
-      "fetchedAt": "2026-09-29T21:04:36.116Z",
+      "fetchedAt": "2026-09-30T00:47:08.005Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T19:35:53.000Z",
-      "fetchedAt": "2026-09-29T21:04:36.116Z",
+      "fetchedAt": "2026-09-30T00:47:08.005Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -85,7 +85,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T16:01:00.000Z",
-      "fetchedAt": "2026-09-29T21:04:39.759Z",
+      "fetchedAt": "2026-09-30T00:47:12.269Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -103,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T15:51:29.000Z",
-      "fetchedAt": "2026-09-29T21:04:36.116Z",
+      "fetchedAt": "2026-09-30T00:47:08.005Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-09-29T21:04:42.718Z",
+  "generatedAt": "2026-09-30T00:47:15.185Z",
   "date": "2026-09-30",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute - Law360",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a4",
       "briefingSummary": "One article today covering Patent Litigation. Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360"
     },
     "growth-areas": {
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 17,
-      "topHeadline": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
+      "topHeadline": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources."
     },
@@ -41,7 +41,7 @@
       "title": "Key Stakeholders",
       "articleCount": 4,
       "topHeadline": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a2",
       "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (1 article), Apple (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
