@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T00:47:15.167Z",
+  "generatedAt": "2026-09-30T07:30:41.615Z",
   "date": "2026-09-30",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Geopolitics & Export Controls: The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
         "articleIds": [
-          "a2"
+          "a8"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
         "articleIds": [
-          "a7"
+          "a13"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
         "articleIds": [
-          "a22"
+          "a23"
         ],
         "subCategory": "apple"
       }
@@ -38,7 +38,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T20:18:32.000Z",
-      "fetchedAt": "2026-09-30T00:47:07.874Z",
+      "fetchedAt": "2026-09-30T07:30:33.916Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -49,7 +49,7 @@
         "regulators"
       ],
       "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
-      "id": "a2"
+      "id": "a8"
     },
     {
       "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T14:31:38.000Z",
-      "fetchedAt": "2026-09-30T00:47:08.005Z",
+      "fetchedAt": "2026-09-30T07:30:33.980Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -69,7 +69,7 @@
         "oem"
       ],
       "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Why Qualcomm (QCOM) Stock Is Down Today",
@@ -79,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-30T00:47:08.005Z",
+      "fetchedAt": "2026-09-30T07:30:33.980Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,7 +89,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a18"
+      "id": "a19"
     },
     {
       "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
@@ -99,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-30T00:47:08.005Z",
+      "fetchedAt": "2026-09-30T07:30:33.981Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -111,7 +111,7 @@
         "oem"
       ],
       "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "id": "a22"
+      "id": "a23"
     }
   ]
 }
