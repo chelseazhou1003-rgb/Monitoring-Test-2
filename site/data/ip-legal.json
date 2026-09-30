@@ -1,39 +1,110 @@
 {
-  "generatedAt": "2026-09-30T14:15:19.906Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "date": "2026-10-01",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering Patent Litigation. Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Patent Litigation: Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
+        "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
         "articleIds": [
-          "a10"
+          "a5"
         ],
-        "subCategory": "patent-litigation"
+        "subCategory": "ip"
+      },
+      {
+        "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
+        "articleIds": [
+          "a7"
+        ],
+        "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
     {
-      "title": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute - Law360",
-      "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeU41anFXVUpBXzRzYTFnLXNFcHY1TWxEdjJMSGpGTTQweWNqd3RvREpPZzFzNWI5X0F5QjRGYmdXMUpRS1pWcEpzTURNdVlP0gFWQVVfeXFMTjdnMFYzQ1JXYnZ0OWhESGlsdGY3NEU5Mi1zdS14SFg1SHlfOWdEOUhDZHZMMDZQb1kzWWdvWDFaMktpUmZvT19sMGU3SWRuWkJNdXJJY0E?oc=5",
-      "description": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-      "source": "Law360 IP",
-      "sourceId": "law360-ip",
+      "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
+      "url": "https://ipfray.com/federal-circuit-dismisses-parkervision-appeal-against-qualcomm-rule-54b-does-not-allow-partial-final-judgment-on-some-claims-of-one-patent/",
+      "description": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
+      "source": "IP Fray",
+      "sourceId": "ip-fray",
       "sourceGroup": "ip",
-      "publishedAt": "2026-09-29T18:53:36.000Z",
-      "fetchedAt": "2026-09-30T14:15:19.711Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Law360",
+      "publishedAt": "2026-09-30T17:07:25.000Z",
+      "fetchedAt": "2026-09-30T19:39:48.405Z",
+      "fetchStrategy": "rss",
       "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-      "id": "a10"
+      "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
+      "id": "a5"
+    },
+    {
+      "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-down-6-7-161930106.html?.tsrc=rss",
+      "description": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T16:19:30.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
+      "id": "a7"
+    },
+    {
+      "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renewed-global-patent-150917138.html?.tsrc=rss",
+      "description": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T15:09:17.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
+      "id": "a9"
+    },
+    {
+      "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
+      "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
+      "description": "The renewed agreement will become effective next year in April 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T13:00:03.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "The renewed agreement will become effective next year in April 2027.",
+      "id": "a11"
     }
   ]
 }

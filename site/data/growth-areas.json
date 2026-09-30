@@ -1,11 +1,40 @@
 {
-  "generatedAt": "2026-09-30T14:15:19.906Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "date": "2026-10-01",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "What Is The Case For Waiting On Qualcomm Stock?",
+      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way. So is there a case for waiting before you buy Qualcomm.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T18:51:54.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
+      "id": "a1"
+    }
+  ]
 }

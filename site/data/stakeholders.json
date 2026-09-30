@@ -1,81 +1,203 @@
 {
-  "generatedAt": "2026-09-30T14:15:19.906Z",
-  "date": "2026-09-30",
+  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "date": "2026-10-01",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Data Center (1 article), Geopolitics & Export Controls (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+        "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
         "articleIds": [
-          "a12"
+          "a1"
         ],
-        "subCategory": "market-performance"
+        "subCategory": "data-center"
+      },
+      {
+        "text": "Geopolitics & Export Controls: This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national s",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
+        "articleIds": [
+          "a7"
+        ],
+        "subCategory": "frand-licensing"
+      },
+      {
+        "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "ip"
+      },
+      {
+        "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
+        "articleIds": [
+          "a10"
+        ],
+        "subCategory": "apple"
+      },
+      {
+        "text": "Platform & Ecosystem Partners: Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
+        "articleIds": [
+          "a13"
+        ],
+        "subCategory": "platform-partner"
       }
     ]
   },
   "articles": [
     {
-      "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
-      "url": "https://www.tikr.com/blog/qualcomm-stock-fell-7-in-a-day-as-its-ai-and-apple-rally-cooled-heres-what-higher-2027-sales-estimates-mean?ref=yahoofinance&.tsrc=rss",
-      "description": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "title": "What Is The Case For Waiting On Qualcomm Stock?",
+      "url": "https://www.trefis.com/articles/617167/what-is-the-case-for-waiting-on-qualcomm-stock/2026-09-30?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way. So is there a case for waiting before you buy Qualcomm.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T14:31:38.000Z",
-      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "publishedAt": "2026-09-30T18:51:54.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
       "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
       "competitors": [],
       "stakeholders": [
         "oem"
       ],
-      "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-      "id": "a12"
+      "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
+      "id": "a1"
     },
     {
-      "title": "Apple, Meta, and SpaceX Are Driving a Device Boom—These 3 Stocks Could Benefit",
-      "url": "https://www.marketbeat.com/articles/apple-meta-and-spacex-are-driving-a-device-boomthese-3-stocks-could-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-      "description": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
+      "title": "Asus won’t say how it escaped the US router ban",
+      "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
+      "description": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now has an exemption from the ban, just in time to bring its first early Wi-Fi 8 routers here. But Asus has not publicly announced any plan to bring manufacturing to the US. It would not even confirm to The Verge whether it had submitted a US manufacturing plan. Initially, Asus spokesperson JJ Guerre … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-30T16:44:20.000Z",
+      "fetchedAt": "2026-09-30T19:39:45.155Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now has an exemption from the ban, just in time to bring its first early Wi-Fi 8 routers here. But Asus has not publicly announced any plan to bring manufacturing to the US. It would not even confirm to The Verge whether it had submitted a US manufacturing plan. Initially, Asus spokesperson JJ Guerre … Read the full story at The Verge.",
+      "id": "a6"
+    },
+    {
+      "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
+      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-down-6-7-161930106.html?.tsrc=rss",
+      "description": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T13:10:00.000Z",
-      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "publishedAt": "2026-09-30T16:19:30.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
       "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [
+        "apple"
+      ],
       "stakeholders": [
         "oem",
         "platform-partner"
       ],
-      "summary": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
-      "id": "a13"
+      "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
+      "id": "a7"
     },
     {
-      "title": "Why Qualcomm (QCOM) Stock Is Down Today",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
-      "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
+      "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-renewed-global-patent-150917138.html?.tsrc=rss",
+      "description": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "publishedAt": "2026-09-30T15:09:17.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
       "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
+      "id": "a9"
+    },
+    {
+      "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
+      "url": "https://247wallst.com/investing/2026/09/30/heres-what-the-apple-patent-renewal-really-does-for-qualcomm-and-why-im-buying/?.tsrc=rss",
+      "description": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T14:45:08.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "competitors",
+      "subCategory": "apple",
+      "subLabel": "Apple",
+      "competitors": [
+        "apple"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
+      "id": "a10"
+    },
+    {
+      "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
+      "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
+      "description": "The renewed agreement will become effective next year in April 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T13:00:03.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
       "competitors": [],
       "stakeholders": [
         "oem"
       ],
-      "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a16"
+      "summary": "The renewed agreement will become effective next year in April 2027.",
+      "id": "a11"
+    },
+    {
+      "title": "A $60 Billion Amazon Opportunity Is Changing Qualcomm's Chip Story",
+      "url": "https://www.barchart.com/story/news/4875812/a-60-billion-amazon-opportunity-is-changing-qualcomm-s-chip-story?.tsrc=rss",
+      "description": "Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T11:30:02.000Z",
+      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
+      "id": "a13"
     }
   ]
 }
