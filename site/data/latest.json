@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-09-30T19:39:51.789Z",
+  "generatedAt": "2026-09-30T23:13:29.962Z",
   "date": "2026-10-01",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
       "topHeadlineId": "a12",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 4,
       "topHeadline": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
-      "topHeadlineId": "a5",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a2",
       "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 12,
-      "topHeadline": "Trump's latest global tariffs face trade court challenge",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources."
+      "articleCount": 9,
+      "topHeadline": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 3,
       "topHeadline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
-      "topHeadlineId": "a7",
+      "topHeadlineId": "a8",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 7,
       "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a2",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Data Center (1 article), Geopolitics & Export Controls (1 article). A total of 7 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 31
+  "totalArticles": 27
 }

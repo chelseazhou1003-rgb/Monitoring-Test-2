@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "generatedAt": "2026-09-30T23:13:29.959Z",
   "date": "2026-10-01",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "Geopolitics & Export Controls: This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national s",
         "articleIds": [
-          "a6"
+          "a7"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
         "articleIds": [
-          "a7"
+          "a8"
         ],
         "subCategory": "frand-licensing"
       },
@@ -59,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T18:51:54.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.544Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -69,7 +69,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-      "id": "a1"
+      "id": "a2"
     },
     {
       "title": "Asus won’t say how it escaped the US router ban",
@@ -79,7 +79,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-30T16:44:20.000Z",
-      "fetchedAt": "2026-09-30T19:39:45.155Z",
+      "fetchedAt": "2026-09-30T23:13:24.791Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -90,7 +90,7 @@
         "oem"
       ],
       "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now has an exemption from the ban, just in time to bring its first early Wi-Fi 8 routers here. But Asus has not publicly announced any plan to bring manufacturing to the US. It would not even confirm to The Verge whether it had submitted a US manufacturing plan. Initially, Asus spokesperson JJ Guerre … Read the full story at The Verge.",
-      "id": "a6"
+      "id": "a7"
     },
     {
       "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -100,7 +100,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T16:19:30.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.544Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -113,7 +113,7 @@
         "platform-partner"
       ],
       "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -123,7 +123,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T15:09:17.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.544Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -145,7 +145,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T14:45:08.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.544Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -167,7 +167,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T13:00:03.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.545Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -187,7 +187,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T11:30:02.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.545Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",

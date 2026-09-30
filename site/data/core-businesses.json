@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "generatedAt": "2026-09-30T23:13:29.959Z",
   "date": "2026-10-01",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
@@ -12,13 +12,6 @@
           "a12"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals ",
-        "articleIds": [
-          "a20"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T12:20:01.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.545Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -49,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T18:58:56.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
+      "fetchedAt": "2026-09-30T23:13:24.545Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,25 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-      "id": "a19"
-    },
-    {
-      "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
-      "url": "https://247wallst.com/investing/2026/09/29/arm-jumps-5-as-chip-selloff-unwinds-marvell-climbs-4-qualcomm-inches-higher/?.tsrc=rss",
-      "description": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T15:06:14.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.756Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
-      "id": "a20"
+      "id": "a16"
     },
     {
       "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
@@ -85,7 +60,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T16:01:00.000Z",
-      "fetchedAt": "2026-09-30T19:39:49.786Z",
+      "fetchedAt": "2026-09-30T23:13:27.805Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-      "id": "a22"
+      "id": "a18"
     }
   ]
 }

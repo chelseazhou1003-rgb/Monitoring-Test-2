@@ -1,28 +1,48 @@
 {
-  "generatedAt": "2026-09-30T19:39:51.786Z",
+  "generatedAt": "2026-09-30T23:13:29.959Z",
   "date": "2026-10-01",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
+        "text": "Geopolitics & Export Controls: Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
         "articleIds": [
-          "a2"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Customers & Partners: Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
         "articleIds": [
-          "a15"
+          "a14"
         ],
         "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJsN0FqMzY3R2dZZHgtcUN0ZjlDYUdHWFpES2d1UkMxbFdmd2VfSmU1eHc1MGotVmg4djFXMTF6VXBaRWhNVE9lRlpPb21aRWE1VDdXcHZDZzBnS2JueVcwc25ld2V5cjQyQzlJLXZqazdlX0hxd2lfNkhHT0hVRXdSUDg0UUNqN1BOUXF6Zy1TYU9McGFMZXZHbFdkRTkwMWxUYkhqQVJXcnJXQmFPaDdTeVh6X0Ry?oc=5",
+      "description": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T20:16:14.000Z",
+      "fetchedAt": "2026-09-30T23:13:29.925Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Register",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
+      "id": "a1"
+    },
     {
       "title": "Trump's latest global tariffs face trade court challenge",
       "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
@@ -31,7 +51,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T17:33:45.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.835Z",
+      "fetchedAt": "2026-09-30T23:13:24.376Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,25 +60,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
-      "id": "a2"
-    },
-    {
-      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
-      "description": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-09-30T17:15:49.000Z",
-      "fetchedAt": "2026-09-30T19:39:45.155Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
       "id": "a3"
     },
     {
@@ -68,8 +69,8 @@
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T17:15:00.000Z",
-      "fetchedAt": "2026-09-30T19:39:51.750Z",
+      "publishedAt": "2026-09-30T17:17:53.000Z",
+      "fetchedAt": "2026-09-30T23:13:29.925Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "JDSupra",
       "geopoliticalBypass": true,
@@ -82,6 +83,25 @@
       "id": "a4"
     },
     {
+      "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1002636/ai-execs-trump-self-policing-deal-comments",
+      "description": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-09-30T17:15:49.000Z",
+      "fetchedAt": "2026-09-30T23:13:24.791Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
+      "id": "a5"
+    },
+    {
       "title": "Asus won’t say how it escaped the US router ban",
       "url": "https://www.theverge.com/policy/1002504/asus-escape-us-router-ban-us-manufacturing",
       "description": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now has an exemption from the ban, just in time to bring its first early Wi-Fi 8 routers here. But Asus has not publicly announced any plan to bring manufacturing to the US. It would not even confirm to The Verge whether it had submitted a US manufacturing plan. Initially, Asus spokesperson JJ Guerre … Read the full story at The Verge.",
@@ -89,7 +109,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-30T16:44:20.000Z",
-      "fetchedAt": "2026-09-30T19:39:45.155Z",
+      "fetchedAt": "2026-09-30T23:13:24.791Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -100,45 +120,7 @@
         "oem"
       ],
       "summary": "This spring, the United States banned all future foreign-made consumer routers - effectively all future routers - unless their makers could 1) convince the US government that they weren't a national security threat, and 2) submit \"a detailed, time-bound plan to establish or expand manufacturing in the United States.\" As of September 9th, Asus now has an exemption from the ban, just in time to bring its first early Wi-Fi 8 routers here. But Asus has not publicly announced any plan to bring manufacturing to the US. It would not even confirm to The Verge whether it had submitted a US manufacturing plan. Initially, Asus spokesperson JJ Guerre … Read the full story at The Verge.",
-      "id": "a6"
-    },
-    {
-      "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-      "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-      "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T15:16:17.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.835Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-      "id": "a8"
-    },
-    {
-      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-      "description": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T09:45:54.000Z",
-      "fetchedAt": "2026-09-30T19:39:44.835Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-      "id": "a14"
+      "id": "a7"
     },
     {
       "title": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line - Electronics For You BUSINESS",
@@ -148,7 +130,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T06:10:04.000Z",
-      "fetchedAt": "2026-09-30T19:39:51.750Z",
+      "fetchedAt": "2026-09-30T23:13:29.925Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Electronics For You BUSINESS",
       "geopoliticalBypass": true,
@@ -158,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-      "id": "a15"
+      "id": "a14"
     },
     {
       "title": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China - Startup Fortune",
@@ -168,7 +150,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T06:05:05.000Z",
-      "fetchedAt": "2026-09-30T19:39:51.750Z",
+      "fetchedAt": "2026-09-30T23:13:29.925Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "geopoliticalBypass": true,
@@ -178,47 +160,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China Startup Fortune",
-      "id": "a16"
-    },
-    {
-      "title": "China Expands Travel Restrictions to AI, Semiconductor Talent Families - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnRaQVNvUjlaQ05vclpIdURqVXJMaVpTUjRFOTR5U0VUQTJVRXVFRTVoYmdRTEtjY1ctZ3BkNnh0b3J1QVRSTlY2ZE1EVUZpeEwxU21obmFRMW1Fa05YVVJOSUtVeERJU2dkVEdXaDFIU3h6RmdWTDlpRkhlN1kyM1lSV0Y?oc=5",
-      "description": "China Expands Travel Restrictions to AI, Semiconductor Talent Families 조선일보",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T20:38:14.000Z",
-      "fetchedAt": "2026-09-30T19:39:51.750Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "조선일보",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Expands Travel Restrictions to AI, Semiconductor Talent Families 조선일보",
-      "id": "a17"
-    },
-    {
-      "title": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill - azat.tv",
-      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcW90emRqZTZweWpMdG42WVIzbHd6UFVObE1XZm9QOHlRa09DcDZyb01rd2tlaGMtemRGU0NEUHZhdGNsa3JkYjY3SlpCanJnU2RxTExSSWs2OXZINmNQRDZNWUZDTGpleXFYclhEM0IxYTUxTjVxeFVXeXFoMTNpazBYVVY3Nm42MUpQZ3hPQQ?oc=5",
-      "description": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T19:45:00.000Z",
-      "fetchedAt": "2026-09-30T19:39:51.750Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "azat.tv",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
-      "id": "a18"
+      "id": "a15"
     },
     {
       "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -228,7 +170,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-29T07:12:52.000Z",
-      "fetchedAt": "2026-09-30T19:39:48.405Z",
+      "fetchedAt": "2026-09-30T23:13:28.312Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -237,7 +179,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-      "id": "a21"
+      "id": "a17"
     },
     {
       "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -247,7 +189,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-28T06:55:51.000Z",
-      "fetchedAt": "2026-09-30T19:39:48.405Z",
+      "fetchedAt": "2026-09-30T23:13:28.312Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -256,7 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-      "id": "a23"
+      "id": "a19"
     }
   ]
 }
