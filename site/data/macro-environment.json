@@ -1,22 +1,29 @@
 {
-  "generatedAt": "2026-09-30T07:30:41.615Z",
+  "generatedAt": "2026-09-30T14:15:19.906Z",
   "date": "2026-09-30",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles). A total of 18 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 14 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
+        "text": "Geopolitics & Export Controls: The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Chinese technology hardware shares are on track for their poorest quarterly performance, following a brutal July selloff triggered by concerns over AI firms’ ability to justify stretched valuations an",
+        "text": "Customers & Partners: Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
         "articleIds": [
           "a5"
+        ],
+        "subCategory": "customers-partners"
+      },
+      {
+        "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+        "articleIds": [
+          "a12"
         ],
         "subCategory": "market-performance"
       }
@@ -24,14 +31,14 @@
   },
   "articles": [
     {
-      "title": "Oil prices climb as Trump denies offering Iran sanctions relief; Qatar pushes for peace talks",
-      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-      "description": "Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
+      "title": "Trump's latest global tariffs face trade court challenge",
+      "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
+      "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T07:12:51.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.916Z",
+      "publishedAt": "2026-09-30T14:04:46.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.648Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -39,18 +46,18 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Oil rose Wednesday after U.S. President Donald Trump denied offering sanctions relief to Iran.",
+      "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
       "id": "a1"
     },
     {
-      "title": "The risks of HSBC’s return to its roots",
-      "url": "https://www.ft.com/content/bd049e24-ac4e-4315-b67c-7e3d18d541c2?syn-25a6b1a6=1",
-      "description": "Doubling down on Hong Kong offers a way to capitalise on wealth flowing out of China, but increases the risks of confrontation with Beijing",
-      "source": "Financial Times",
-      "sourceId": "ft",
+      "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
+      "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
+      "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T04:00:06.000Z",
-      "fetchedAt": "2026-09-30T07:30:34.434Z",
+      "publishedAt": "2026-09-30T13:59:10.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.648Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -58,18 +65,18 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Doubling down on Hong Kong offers a way to capitalise on wealth flowing out of China, but increases the risks of confrontation with Beijing",
+      "summary": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
       "id": "a2"
     },
     {
-      "title": "China factory activity snaps 2-month contractionary streak in September",
-      "url": "https://www.cnbc.com/2026/09/30/china-manufacturing-exports-capacity-economy-.html",
-      "description": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
+      "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
+      "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
+      "description": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T03:39:35.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.916Z",
+      "publishedAt": "2026-09-30T09:45:54.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.648Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,45 +84,27 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "China's factory activity returned to growth in September as a deepening economic malaise prompts policymakers to ramp up stimulus steps and bolster growth.",
-      "id": "a3"
-    },
-    {
-      "title": "Beijing warns of retaliation if Europe imposes curbs on Chinese businesses",
-      "url": "https://www.cnbc.com/2026/09/30/china-warns-europe-increases-trade-pressure.html",
-      "description": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T03:39:08.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.916Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China must \"respond firmly\" if the EU introduces restrictions on Chinese businesses or products, the Commerce Ministry said, according to a CNBC translation.",
+      "summary": "President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
       "id": "a4"
     },
     {
-      "title": "China Hardware Stocks Set for Worst Quarter as AI Rally Unravels",
-      "url": "https://www.bloomberg.com/news/articles/2026-09-30/china-hardware-stocks-set-for-worst-quarter-as-ai-rally-unravels",
-      "description": "Chinese technology hardware shares are on track for their poorest quarterly performance, following a brutal July selloff triggered by concerns over AI firms’ ability to justify stretched valuations and high spending.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line - Electronics For You BUSINESS",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjc5UlZiV2ZGTTh4cEF0VnUtWnVWQnpkSnZiLWxtUFNSaWpza1dOVmpVSkdIbzYzVlg4LWJWNDQyZHdEMmNhT0VpV1BSb3BPejhzZTFXMVBzVGlXb3hGU3NUUEcySDZ0NHhUMVItbzNfSFpxbWdPejJ4NGQxc2Z1VTF5bEtMUHNWSm5JRFJ1RXEzbm55S0RKcEdFOW9ORXdXN3Zvbzc5ZGRXakFWb2QwZFR2VjJyX09UVWFuSzdSazdxbmg2Q19Sbw?oc=5",
+      "description": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T02:28:50.000Z",
-      "fetchedAt": "2026-09-30T07:30:34.126Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-09-30T06:10:04.000Z",
+      "fetchedAt": "2026-09-30T14:15:19.878Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Electronics For You BUSINESS",
       "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Chinese technology hardware shares are on track for their poorest quarterly performance, following a brutal July selloff triggered by concerns over AI firms’ ability to justify stretched valuations and high spending.",
+      "summary": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
       "id": "a5"
     },
     {
@@ -126,7 +115,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-09-29T23:30:55.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.838Z",
+      "fetchedAt": "2026-09-30T14:15:13.591Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -145,7 +134,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T20:38:14.000Z",
-      "fetchedAt": "2026-09-30T07:30:41.575Z",
+      "fetchedAt": "2026-09-30T14:15:19.878Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "geopoliticalBypass": true,
@@ -158,27 +147,6 @@
       "id": "a7"
     },
     {
-      "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-      "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
-      "description": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S. adults.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T20:18:32.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.916Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
-      "id": "a8"
-    },
-    {
       "title": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill - azat.tv",
       "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcW90emRqZTZweWpMdG42WVIzbHd6UFVObE1XZm9QOHlRa09DcDZyb01rd2tlaGMtemRGU0NEUHZhdGNsa3JkYjY3SlpCanJnU2RxTExSSWs2OXZINmNQRDZNWUZDTGpleXFYclhEM0IxYTUxTjVxeFVXeXFoMTNpazBYVVY3Nm42MUpQZ3hPQQ?oc=5",
       "description": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
@@ -186,7 +154,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T19:45:00.000Z",
-      "fetchedAt": "2026-09-30T07:30:41.575Z",
+      "fetchedAt": "2026-09-30T14:15:19.878Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "azat.tv",
       "geopoliticalBypass": true,
@@ -196,7 +164,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
-      "id": "a9"
+      "id": "a8"
     },
     {
       "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
@@ -206,7 +174,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T14:31:38.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -216,6 +184,27 @@
         "oem"
       ],
       "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "id": "a12"
+    },
+    {
+      "title": "Apple, Meta, and SpaceX Are Driving a Device Boom—These 3 Stocks Could Benefit",
+      "url": "https://www.marketbeat.com/articles/apple-meta-and-spacex-are-driving-a-device-boomthese-3-stocks-could-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "description": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-29T13:10:00.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
       "id": "a13"
     },
     {
@@ -226,7 +215,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T11:00:00.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -238,66 +227,6 @@
       "id": "a14"
     },
     {
-      "title": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg - UA.NEWS",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQaVQ4VFc1MGh1Vk9JTEhlQlVaakJBSk9qUDFIbUhOSmVweHRWal9OZTlvNXFvS2NGUDY0TTc4azJ4OUlOZi1iWWtCaXU5Wk5JRHpMQ2s0cTNubUhrb3NGTW04STZBeWtWTloyQ0QwdU1rWlFDdmlXMWxBU3FROEhQOXlBZ2pvVjNHSE5tcEZSZXZwLXhKTVFHZVNPdjN6SHpYRk5XVkVoRmM1eEZWZWdFLUIwX3B2WkZrWUE?oc=5",
-      "description": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T09:58:19.000Z",
-      "fetchedAt": "2026-09-30T07:30:41.575Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "UA.NEWS",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China has expanded restrictions on overseas travel for AI professionals and their families, according to Bloomberg UA.NEWS",
-      "id": "a15"
-    },
-    {
-      "title": "Nvidia, AMD ramp up White House lobbying on China exports - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA5eWMzaGpZaXVSUndrbU5PNmRseHNaODdsUUxLc0xnMTd3cldUcmtMNWZrT3BnREFpeVRRbHZKVXpsSlhhcThtOVVtVVlMbXJscGNhRjZ0dXE0QXBDOE5lYTFnMFVLeldXUFFoeUtWWmZFTzNEaG9YdFhuOXh3dw?oc=5",
-      "description": "Nvidia, AMD ramp up White House lobbying on China exports Crypto Briefing",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T09:23:45.000Z",
-      "fetchedAt": "2026-09-30T07:30:41.575Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Crypto Briefing",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia, AMD ramp up White House lobbying on China exports Crypto Briefing",
-      "id": "a16"
-    },
-    {
-      "title": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift - tokenpost.com",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE15bzE3Y3RzTUlCcllvZE16QW1oeHY4YzlVTHVrNUhtYlZ4R0xoMnIwSXdJWWRPejByZXh5TTZXdks5RjFOdjJ1SUdMNGtlOEtkVHQ3OGFFTkpWSGs?oc=5",
-      "description": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift tokenpost.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T09:00:12.000Z",
-      "fetchedAt": "2026-09-30T07:30:41.575Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "tokenpost.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia, AMD Seek China AI-Chip Access as U.S. Rules Shift tokenpost.com",
-      "id": "a17"
-    },
-    {
       "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
       "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
       "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
@@ -305,7 +234,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-29T07:12:52.000Z",
-      "fetchedAt": "2026-09-30T07:30:38.940Z",
+      "fetchedAt": "2026-09-30T14:15:17.617Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -314,7 +243,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-      "id": "a18"
+      "id": "a15"
     },
     {
       "title": "Why Qualcomm (QCOM) Stock Is Down Today",
@@ -324,7 +253,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -334,7 +263,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a19"
+      "id": "a16"
     },
     {
       "title": "Honor pushes cinematic qualities of latest flagship",
@@ -344,7 +273,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T10:50:14.000Z",
-      "fetchedAt": "2026-09-30T07:30:39.778Z",
+      "fetchedAt": "2026-09-30T14:15:17.579Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -353,7 +282,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-      "id": "a25"
+      "id": "a19"
     },
     {
       "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
@@ -363,7 +292,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-28T06:55:51.000Z",
-      "fetchedAt": "2026-09-30T07:30:38.940Z",
+      "fetchedAt": "2026-09-30T14:15:17.617Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -372,7 +301,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-      "id": "a26"
+      "id": "a20"
     }
   ]
 }

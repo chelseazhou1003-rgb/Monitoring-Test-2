@@ -1,56 +1,21 @@
 {
-  "generatedAt": "2026-09-30T07:30:41.615Z",
+  "generatedAt": "2026-09-30T14:15:19.906Z",
   "date": "2026-09-30",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (1 article), Apple (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
-        "articleIds": [
-          "a8"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
         "articleIds": [
-          "a13"
+          "a12"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Apple: Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces",
-        "articleIds": [
-          "a23"
-        ],
-        "subCategory": "apple"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Two Indian nationals charged with smuggling counterfeit Ozempic from China: DOJ",
-      "url": "https://www.cnbc.com/2026/09/29/ozempiz-counterfeit-china-smuggling-doj.html",
-      "description": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S. adults.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T20:18:32.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.916Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "The criminal indictment in Florida comes as the use of GLP-1 drugs such as Novo's Ozempic for weight loss has hit new highs among U.S.",
-      "id": "a8"
-    },
     {
       "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
       "url": "https://www.tikr.com/blog/qualcomm-stock-fell-7-in-a-day-as-its-ai-and-apple-rally-cooled-heres-what-higher-2027-sales-estimates-mean?ref=yahoofinance&.tsrc=rss",
@@ -59,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T14:31:38.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -69,6 +34,27 @@
         "oem"
       ],
       "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
+      "id": "a12"
+    },
+    {
+      "title": "Apple, Meta, and SpaceX Are Driving a Device Boom—These 3 Stocks Could Benefit",
+      "url": "https://www.marketbeat.com/articles/apple-meta-and-spacex-are-driving-a-device-boomthese-3-stocks-could-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "description": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-29T13:10:00.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
       "id": "a13"
     },
     {
@@ -79,7 +65,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T23:50:36.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,29 +75,7 @@
         "oem"
       ],
       "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-      "id": "a19"
-    },
-    {
-      "title": "Qualcomm Just Locked In Apple. Our Target Sits Above Wall Street’s",
-      "url": "https://247wallst.com/investing/2026/09/28/qualcomm-just-locked-in-apple-our-target-sits-above-wall-streets/?.tsrc=rss",
-      "description": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T13:30:44.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.981Z",
-      "fetchStrategy": "rss",
-      "section": "competitors",
-      "subCategory": "apple",
-      "subLabel": "Apple",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm just sealed a renewed patent deal with Apple, and the market moved fast. Whether this resets the ceiling for QCOM shares or simply buys time before a bigger reckoning depends on what replaces billions in revenue that could vanish by fiscal 2027.",
-      "id": "a23"
+      "id": "a16"
     }
   ]
 }

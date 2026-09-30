@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-09-30T07:30:41.615Z",
+  "generatedAt": "2026-09-30T14:15:19.906Z",
   "date": "2026-09-30",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (2 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
+        "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
         "articleIds": [
-          "a10"
+          "a3"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals ",
         "articleIds": [
-          "a12"
+          "a11"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "description": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-09-30T12:20:01.000Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
+      "id": "a3"
+    },
     {
       "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html?.tsrc=rss",
@@ -31,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T18:58:56.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-      "id": "a10"
+      "id": "a9"
     },
     {
       "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
@@ -49,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-29T15:06:14.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.981Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
-      "id": "a12"
+      "id": "a11"
     },
     {
       "title": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
@@ -67,7 +85,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-28T19:35:53.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
+      "fetchedAt": "2026-09-30T14:15:13.812Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-      "id": "a20"
+      "id": "a17"
     },
     {
       "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
@@ -85,7 +103,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T16:01:00.000Z",
-      "fetchedAt": "2026-09-30T07:30:39.778Z",
+      "fetchedAt": "2026-09-30T14:15:17.579Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -93,25 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-      "id": "a21"
-    },
-    {
-      "title": "Arm Sinks 9% as Chip Selloff Deepens; Qualcomm Drops 6%, Marvell Slides 5%",
-      "url": "https://247wallst.com/investing/2026/09/28/arm-sinks-9-as-chip-selloff-deepens-qualcomm-drops-6-marvell-slides-5/?.tsrc=rss",
-      "description": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-28T15:51:29.000Z",
-      "fetchedAt": "2026-09-30T07:30:33.980Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Arm is dropping nearly twice as hard as its closest chip peers, and the reason goes well beyond inflation fears and profit taking. A $25 billion loan tied directly to Arm's share price gives SoftBank a stake in every tick lower.",
-      "id": "a22"
+      "id": "a18"
     }
   ]
 }
