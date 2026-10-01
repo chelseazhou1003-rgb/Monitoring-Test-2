@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-10-01T09:26:45.004Z",
-  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T16:42:49.611Z",
+  "date": "2026-10-02",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 2,
-      "topHeadline": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-      "topHeadlineId": "a18",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 5,
-      "topHeadline": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
-      "topHeadlineId": "a7",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), FRAND & Licensing (2 articles). A total of 5 articles were aggregated from monitored sources."
+      "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a14",
       "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 11,
-      "topHeadline": "US Executive Order On Energy Grid Supply Chain Security",
+      "topHeadline": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources."
     },
@@ -34,16 +34,16 @@
       "title": "Competitors",
       "articleCount": 3,
       "topHeadline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
-      "topHeadlineId": "a14",
+      "topHeadlineId": "a17",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 7,
-      "topHeadline": "Vivo’s X Fold 6 accidentally feels like a throwback",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Geopolitics & Export Controls (1 article), Data Center (1 article). A total of 7 articles were aggregated from monitored sources."
+      "articleCount": 8,
+      "topHeadline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), FRAND & Licensing (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 29
+  "totalArticles": 32
 }

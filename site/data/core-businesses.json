@@ -1,21 +1,84 @@
 {
-  "generatedAt": "2026-10-01T09:26:45.001Z",
-  "date": "2026-10-01",
+  "generatedAt": "2026-10-01T16:42:49.584Z",
+  "date": "2026-10-02",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+        "articleIds": [
+          "a4"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
         "articleIds": [
-          "a18"
+          "a21"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
+      "url": "https://www.independent.co.uk/tech/qualcomm-smart-glasses-ai-cristiano-amon-b3059807.html?.tsrc=rss",
+      "description": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-01T13:59:34.000Z",
+      "fetchedAt": "2026-10-01T16:42:43.654Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+      "id": "a4"
+    },
+    {
+      "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
+      "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+      "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-10-01T12:30:33.000Z",
+      "fetchedAt": "2026-10-01T16:42:46.061Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+      "id": "a6"
+    },
+    {
+      "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
+      "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+      "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-10-01T12:21:48.000Z",
+      "fetchedAt": "2026-10-01T16:42:46.061Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
+      "id": "a7"
+    },
     {
       "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
       "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
@@ -24,7 +87,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T12:20:01.000Z",
-      "fetchedAt": "2026-10-01T09:26:33.874Z",
+      "fetchedAt": "2026-10-01T16:42:43.654Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -32,24 +95,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-      "id": "a18"
-    },
-    {
-      "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
-      "url": "https://www.mobileworldlive.com/network-tech/impinj-expands-mobile-rfid-ecosystem-with-qualcomm-mediatek/",
-      "description": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-09-28T16:01:00.000Z",
-      "fetchedAt": "2026-10-01T09:26:43.130Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
       "id": "a21"
     }
   ]
