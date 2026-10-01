@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-01T02:28:36.393Z",
+  "generatedAt": "2026-10-01T09:26:45.001Z",
   "date": "2026-10-01",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
         "articleIds": [
-          "a14"
+          "a18"
         ],
         "subCategory": "mobile-chips"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T12:20:01.000Z",
-      "fetchedAt": "2026-10-01T02:28:29.904Z",
+      "fetchedAt": "2026-10-01T09:26:33.874Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -32,24 +32,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-      "id": "a14"
-    },
-    {
-      "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html?.tsrc=rss",
-      "description": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-29T18:58:56.000Z",
-      "fetchedAt": "2026-10-01T02:28:29.904Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
       "id": "a18"
     },
     {
@@ -60,7 +42,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-09-28T16:01:00.000Z",
-      "fetchedAt": "2026-10-01T02:28:33.863Z",
+      "fetchedAt": "2026-10-01T09:26:43.130Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -68,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-      "id": "a20"
+      "id": "a21"
     }
   ]
 }

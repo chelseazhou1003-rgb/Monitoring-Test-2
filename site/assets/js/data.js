@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,21 +12,21 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a10"
+            "a14"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a11"
+            "a15"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a12"
+            "a16"
           ],
           "subCategory": "apple"
         }
@@ -41,7 +41,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -54,7 +54,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a10"
+        "id": "a14"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -64,7 +64,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -76,7 +76,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a11"
+        "id": "a15"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -86,7 +86,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -98,22 +98,22 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a12"
+        "id": "a16"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
           "articleIds": [
-            "a14"
+            "a18"
           ],
           "subCategory": "mobile-chips"
         }
@@ -128,7 +128,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T12:20:01.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -136,24 +136,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-        "id": "a14"
-      },
-      {
-        "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html?.tsrc=rss",
-        "description": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-29T18:58:56.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
         "id": "a18"
       },
       {
@@ -164,7 +146,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-09-28T16:01:00.000Z",
-        "fetchedAt": "2026-10-01T02:28:33.863Z",
+        "fetchedAt": "2026-10-01T09:26:43.130Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -172,12 +154,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-        "id": "a20"
+        "id": "a21"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -187,7 +169,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a5"
+            "a9"
           ],
           "subCategory": "data-center"
         }
@@ -202,7 +184,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -212,12 +194,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a5"
+        "id": "a9"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -227,14 +209,14 @@ export const NEWS_DATA = {
         {
           "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
           "articleIds": [
-            "a3"
+            "a7"
           ],
           "subCategory": "ip"
         },
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a10"
+            "a14"
           ],
           "subCategory": "frand-licensing"
         }
@@ -249,7 +231,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-30T20:41:49.000Z",
-        "fetchedAt": "2026-10-01T02:28:32.813Z",
+        "fetchedAt": "2026-10-01T09:26:41.590Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -257,7 +239,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -267,7 +249,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-30T17:07:25.000Z",
-        "fetchedAt": "2026-10-01T02:28:34.444Z",
+        "fetchedAt": "2026-10-01T09:26:42.955Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -275,7 +257,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-        "id": "a8"
+        "id": "a12"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -285,7 +267,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -298,7 +280,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a10"
+        "id": "a14"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -308,7 +290,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -320,7 +302,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a11"
+        "id": "a15"
       },
       {
         "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
@@ -330,7 +312,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T13:00:03.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -340,84 +322,161 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The renewed agreement will become effective next year in April 2027.",
-        "id": "a13"
+        "id": "a17"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-01T02:28:36.396Z",
+    "generatedAt": "2026-10-01T09:26:45.004Z",
     "date": "2026-10-01",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-        "topHeadlineId": "a14",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a18",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 5,
         "topHeadline": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a7",
         "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), FRAND & Licensing (2 articles). A total of 5 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-        "topHeadlineId": "a5",
+        "topHeadlineId": "a9",
         "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 10,
-        "topHeadline": "AI race heats up as OpenAI flags alleged model-copying campaign",
+        "articleCount": 11,
+        "topHeadline": "US Executive Order On Energy Grid Supply Chain Security",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 3,
         "topHeadline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
-        "topHeadlineId": "a10",
+        "topHeadlineId": "a14",
         "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 7,
         "topHeadline": "Vivo’s X Fold 6 accidentally feels like a throwback",
-        "topHeadlineId": "a2",
+        "topHeadlineId": "a6",
         "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Geopolitics & Export Controls (1 article), Data Center (1 article). A total of 7 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+          "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "supply-chain"
         },
         {
-          "text": "Customers & Partners: Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
+          "text": "Geopolitics & Export Controls: 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial i",
           "articleIds": [
-            "a16"
+            "a2"
           ],
-          "subCategory": "customers-partners"
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "US Executive Order On Energy Grid Supply Chain Security",
+        "url": "https://semiengineering.com/us-executive-order-on-energy-grid-supply-chain-security/",
+        "description": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
+        "source": "Semiconductor Engineering",
+        "sourceId": "semiconductor-engineering",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-10-01T07:01:39.000Z",
+        "fetchedAt": "2026-10-01T09:26:40.369Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
+        "id": "a1"
+      },
+      {
+        "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
+        "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-033400605.html?.tsrc=rss",
+        "description": "WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise. Roof",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T03:34:00.000Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
+        "id": "a2"
+      },
+      {
+        "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+        "url": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+        "description": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T03:25:38.000Z",
+        "fetchedAt": "2026-10-01T09:26:33.757Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+        "id": "a3"
+      },
+      {
+        "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
+        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
+        "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T02:24:49.000Z",
+        "fetchedAt": "2026-10-01T09:26:44.969Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "조선일보",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
+        "id": "a4"
+      },
       {
         "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
         "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
@@ -426,7 +485,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T02:14:43.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.693Z",
+        "fetchedAt": "2026-10-01T09:26:33.757Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -435,7 +494,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
@@ -445,7 +504,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-01T02:00:00.000Z",
-        "fetchedAt": "2026-10-01T02:28:30.465Z",
+        "fetchedAt": "2026-10-01T09:26:39.478Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -456,7 +515,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other foldables that launched before both Apple and Samsung pivoted to a shorter, wider form factor with the Z Fold 8 and iPhone Duo. The 6.51-inch cover display is in the standard smartphone 20:9 aspect ratio, opening to an almost square 8.02-inch panel.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
@@ -466,7 +525,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T20:16:14.000Z",
-        "fetchedAt": "2026-10-01T02:28:36.366Z",
+        "fetchedAt": "2026-10-01T09:26:44.969Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Register",
         "geopoliticalBypass": true,
@@ -476,26 +535,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-        "id": "a4"
+        "id": "a8"
       },
       {
-        "title": "Trump's latest global tariffs face trade court challenge",
-        "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-        "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC - JDSupra",
+        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOERCelFicGpoMWxpS3k0Uy1qOUpfcU9rbGQ5T09hR0NxTkQ0RFVXN2JucXpKaDMxbGNkbVNtWUp3TktSOGpPc2o2eUQ5aG11bFVHMjNFbjUtZGhuWUhUUUsyYndxX2tnSFJ3S3hZa3ktWHN4alJvUjlpaTRBalU?oc=5",
+        "description": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T17:33:45.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.693Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-09-30T17:17:53.000Z",
+        "fetchedAt": "2026-10-01T09:26:44.969Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "JDSupra",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
-        "id": "a6"
+        "summary": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
+        "id": "a10"
       },
       {
         "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
@@ -505,7 +565,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-09-30T17:15:49.000Z",
-        "fetchedAt": "2026-10-01T02:28:30.465Z",
+        "fetchedAt": "2026-10-01T09:26:39.478Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -514,7 +574,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
-        "id": "a7"
+        "id": "a11"
       },
       {
         "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
@@ -524,7 +584,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-30T16:53:56.000Z",
-        "fetchedAt": "2026-10-01T02:28:32.813Z",
+        "fetchedAt": "2026-10-01T09:26:41.590Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -533,47 +593,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a9"
-      },
-      {
-        "title": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line - Electronics For You BUSINESS",
-        "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjc5UlZiV2ZGTTh4cEF0VnUtWnVWQnpkSnZiLWxtUFNSaWpza1dOVmpVSkdIbzYzVlg4LWJWNDQyZHdEMmNhT0VpV1BSb3BPejhzZTFXMVBzVGlXb3hGU3NUUEcySDZ0NHhUMVItbzNfSFpxbWdPejJ4NGQxc2Z1VTF5bEtMUHNWSm5JRFJ1RXEzbm55S0RKcEdFOW9ORXdXN3Zvbzc5ZGRXakFWb2QwZFR2VjJyX09UVWFuSzdSazdxbmg2Q19Sbw?oc=5",
-        "description": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T06:10:04.000Z",
-        "fetchedAt": "2026-10-01T02:28:36.366Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Electronics For You BUSINESS",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-        "id": "a16"
-      },
-      {
-        "title": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China - Startup Fortune",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVE1QQ2E1QjlfMDUzUEFmQXpSdm44U0tnU0RaaTJkOGVlOENxYVVwZW02Z0plZTFzNEV5dXk4WG5BMTNqdHV0UUgzX1huMlY4dHZjQmxaUWFHWnlURFNpdUJGaXRZN0Q2aWdHZGZMNjdzVmNxQm0ycDlONkxRcmhDSklrdU5vQ1pZUE0tZnMydzBOb1lnRW8xZ0M3Y1hJb0xwaTB2RFRfRGZSdw?oc=5",
-        "description": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China Startup Fortune",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T06:05:05.000Z",
-        "fetchedAt": "2026-10-01T02:28:36.366Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Startup Fortune",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China Startup Fortune",
-        "id": "a17"
+        "id": "a13"
       },
       {
         "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -583,7 +603,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-29T07:12:52.000Z",
-        "fetchedAt": "2026-10-01T02:28:34.444Z",
+        "fetchedAt": "2026-10-01T09:26:42.955Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -592,26 +612,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-        "id": "a19"
-      },
-      {
-        "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
-        "url": "https://ipfray.com/roborock-turns-the-tables-on-ecovacs-first-upc-suit-escalates-patent-war-across-u-s-europe-china/",
-        "description": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-        "source": "IP Fray",
-        "sourceId": "ip-fray",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-28T06:55:51.000Z",
-        "fetchedAt": "2026-10-01T02:28:34.444Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-        "id": "a21"
+        "id": "a20"
       }
     ]
   },
@@ -807,7 +808,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-01T02:28:36.393Z",
+    "generatedAt": "2026-10-01T09:26:45.001Z",
     "date": "2026-10-01",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -817,42 +818,42 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready fo",
           "articleIds": [
-            "a2"
+            "a6"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a5"
+            "a9"
           ],
           "subCategory": "data-center"
         },
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a10"
+            "a14"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a11"
+            "a15"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a12"
+            "a16"
           ],
           "subCategory": "apple"
         },
         {
           "text": "Platform & Ecosystem Partners: Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
           "articleIds": [
-            "a15"
+            "a19"
           ],
           "subCategory": "platform-partner"
         }
@@ -867,7 +868,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-01T02:00:00.000Z",
-        "fetchedAt": "2026-10-01T02:28:30.465Z",
+        "fetchedAt": "2026-10-01T09:26:39.478Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -878,7 +879,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other foldables that launched before both Apple and Samsung pivoted to a shorter, wider form factor with the Z Fold 8 and iPhone Duo. The 6.51-inch cover display is in the standard smartphone 20:9 aspect ratio, opening to an almost square 8.02-inch panel.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -888,7 +889,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -898,7 +899,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a5"
+        "id": "a9"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -908,7 +909,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -921,7 +922,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a10"
+        "id": "a14"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -931,7 +932,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -943,7 +944,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a11"
+        "id": "a15"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -953,7 +954,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -965,7 +966,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a12"
+        "id": "a16"
       },
       {
         "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
@@ -975,7 +976,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T13:00:03.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -985,7 +986,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The renewed agreement will become effective next year in April 2027.",
-        "id": "a13"
+        "id": "a17"
       },
       {
         "title": "A $60 Billion Amazon Opportunity Is Changing Qualcomm's Chip Story",
@@ -995,7 +996,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T11:30:02.000Z",
-        "fetchedAt": "2026-10-01T02:28:29.904Z",
+        "fetchedAt": "2026-10-01T09:26:33.874Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -1005,7 +1006,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
-        "id": "a15"
+        "id": "a19"
       }
     ]
   },
@@ -14687,21 +14688,21 @@ export const NEWS_DATA = {
     "totalArticles": 23
   },
   "archive-2026-10-01": {
-    "generatedAt": "2026-10-01T02:28:36.396Z",
+    "generatedAt": "2026-10-01T09:26:45.004Z",
     "date": "2026-10-01",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
               "articleIds": [
-                "a14"
+                "a18"
               ],
               "subCategory": "mobile-chips"
             }
@@ -14716,7 +14717,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T12:20:01.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -14724,24 +14725,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-            "id": "a14"
-          },
-          {
-            "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
-            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html?.tsrc=rss",
-            "description": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T18:58:56.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
             "id": "a18"
           },
           {
@@ -14752,7 +14735,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-09-28T16:01:00.000Z",
-            "fetchedAt": "2026-10-01T02:28:33.863Z",
+            "fetchedAt": "2026-10-01T09:26:43.130Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -14760,12 +14743,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-            "id": "a20"
+            "id": "a21"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -14775,14 +14758,14 @@ export const NEWS_DATA = {
             {
               "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
               "articleIds": [
-                "a3"
+                "a7"
               ],
               "subCategory": "ip"
             },
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a10"
+                "a14"
               ],
               "subCategory": "frand-licensing"
             }
@@ -14797,7 +14780,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-30T20:41:49.000Z",
-            "fetchedAt": "2026-10-01T02:28:32.813Z",
+            "fetchedAt": "2026-10-01T09:26:41.590Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -14805,7 +14788,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -14815,7 +14798,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-30T17:07:25.000Z",
-            "fetchedAt": "2026-10-01T02:28:34.444Z",
+            "fetchedAt": "2026-10-01T09:26:42.955Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -14823,7 +14806,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-            "id": "a8"
+            "id": "a12"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -14833,7 +14816,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -14846,7 +14829,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a10"
+            "id": "a14"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -14856,7 +14839,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -14868,7 +14851,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a11"
+            "id": "a15"
           },
           {
             "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
@@ -14878,7 +14861,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T13:00:03.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -14888,12 +14871,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The renewed agreement will become effective next year in April 2027.",
-            "id": "a13"
+            "id": "a17"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -14903,7 +14886,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a5"
+                "a9"
               ],
               "subCategory": "data-center"
             }
@@ -14918,7 +14901,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -14928,35 +14911,112 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a5"
+            "id": "a9"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
+              "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "supply-chain"
             },
             {
-              "text": "Customers & Partners: Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
+              "text": "Geopolitics & Export Controls: 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial i",
               "articleIds": [
-                "a16"
+                "a2"
               ],
-              "subCategory": "customers-partners"
+              "subCategory": "geopolitics-export-controls"
             }
           ]
         },
         "articles": [
+          {
+            "title": "US Executive Order On Energy Grid Supply Chain Security",
+            "url": "https://semiengineering.com/us-executive-order-on-energy-grid-supply-chain-security/",
+            "description": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
+            "source": "Semiconductor Engineering",
+            "sourceId": "semiconductor-engineering",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-10-01T07:01:39.000Z",
+            "fetchedAt": "2026-10-01T09:26:40.369Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
+            "id": "a1"
+          },
+          {
+            "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
+            "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-033400605.html?.tsrc=rss",
+            "description": "WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise. Roof",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T03:34:00.000Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
+            "id": "a2"
+          },
+          {
+            "title": "In photos: China's Xi hardens Taiwan warning as country celebrates week-long National Day holiday",
+            "url": "https://www.cnbc.com/2026/10/01/china-golden-week-holiday-taiwan-consumption-travel.html",
+            "description": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T03:25:38.000Z",
+            "fetchedAt": "2026-10-01T09:26:33.757Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China began its seven-day National Day holiday on Thursday after President Xi Jinping used his annual speech to sharpen Beijing's message on Taiwan.",
+            "id": "a3"
+          },
+          {
+            "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
+            "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T02:24:49.000Z",
+            "fetchedAt": "2026-10-01T09:26:44.969Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "조선일보",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
+            "id": "a4"
+          },
           {
             "title": "AI race heats up as OpenAI flags alleged model-copying campaign",
             "url": "https://www.cnbc.com/2026/10/01/openai-chinas-moonshot-ai-kimi.html",
@@ -14965,7 +15025,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T02:14:43.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.693Z",
+            "fetchedAt": "2026-10-01T09:26:33.757Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -14974,7 +15034,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "OpenAI says it identified an attempt to extract protected reasoning from its AI models, linking part of the activity with China’s Moonshot AI.",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Vivo’s X Fold 6 accidentally feels like a throwback",
@@ -14984,7 +15044,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-01T02:00:00.000Z",
-            "fetchedAt": "2026-10-01T02:28:30.465Z",
+            "fetchedAt": "2026-10-01T09:26:39.478Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -14995,7 +15055,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other foldables that launched before both Apple and Samsung pivoted to a shorter, wider form factor with the Z Fold 8 and iPhone Duo. The 6.51-inch cover display is in the standard smartphone 20:9 aspect ratio, opening to an almost square 8.02-inch panel.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
@@ -15005,7 +15065,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T20:16:14.000Z",
-            "fetchedAt": "2026-10-01T02:28:36.366Z",
+            "fetchedAt": "2026-10-01T09:26:44.969Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Register",
             "geopoliticalBypass": true,
@@ -15015,26 +15075,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-            "id": "a4"
+            "id": "a8"
           },
           {
-            "title": "Trump's latest global tariffs face trade court challenge",
-            "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-            "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC - JDSupra",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOERCelFicGpoMWxpS3k0Uy1qOUpfcU9rbGQ5T09hR0NxTkQ0RFVXN2JucXpKaDMxbGNkbVNtWUp3TktSOGpPc2o2eUQ5aG11bFVHMjNFbjUtZGhuWUhUUUsyYndxX2tnSFJ3S3hZa3ktWHN4alJvUjlpaTRBalU?oc=5",
+            "description": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T17:33:45.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.693Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-09-30T17:17:53.000Z",
+            "fetchedAt": "2026-10-01T09:26:44.969Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "JDSupra",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced labor practices.",
-            "id": "a6"
+            "summary": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
+            "id": "a10"
           },
           {
             "title": "Here&#8217;s what AI leaders are saying about Trump’s new safety plan",
@@ -15044,7 +15105,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-09-30T17:15:49.000Z",
-            "fetchedAt": "2026-10-01T02:28:30.465Z",
+            "fetchedAt": "2026-10-01T09:26:39.478Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15053,7 +15114,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "If you think this shot is amusing, check out the panicked look on Zuckerberg’s face when Trump calls on him to speak. | Photo: Kevin Dietsch/Getty Images After hosting a meal with Big Tech leaders on Tuesday, President Donald Trump responded to journalist questions about his artificial intelligence announcements in typical fashion. He said his previous claims regarding fears around AI safety being a \"hoax\" cooked up by Democrats no longer apply now that he's renamed the technology to \"Super Intelligence.\" He brushed off concerns that the government wasn't enforcing enough AI guardrails because US companies are \"dominating China.\" And instead of ushering in federal AI regulations, Trump now has \"the smartest people in the world watching over each other.\" The people in question here are Goog … Read the full story at The Verge.",
-            "id": "a7"
+            "id": "a11"
           },
           {
             "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
@@ -15063,7 +15124,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-30T16:53:56.000Z",
-            "fetchedAt": "2026-10-01T02:28:32.813Z",
+            "fetchedAt": "2026-10-01T09:26:41.590Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15072,47 +15133,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a9"
-          },
-          {
-            "title": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line - Electronics For You BUSINESS",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjc5UlZiV2ZGTTh4cEF0VnUtWnVWQnpkSnZiLWxtUFNSaWpza1dOVmpVSkdIbzYzVlg4LWJWNDQyZHdEMmNhT0VpV1BSb3BPejhzZTFXMVBzVGlXb3hGU3NUUEcySDZ0NHhUMVItbzNfSFpxbWdPejJ4NGQxc2Z1VTF5bEtMUHNWSm5JRFJ1RXEzbm55S0RKcEdFOW9ORXdXN3Zvbzc5ZGRXakFWb2QwZFR2VjJyX09UVWFuSzdSazdxbmg2Q19Sbw?oc=5",
-            "description": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T06:10:04.000Z",
-            "fetchedAt": "2026-10-01T02:28:36.366Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Electronics For You BUSINESS",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-            "id": "a16"
-          },
-          {
-            "title": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China - Startup Fortune",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVE1QQ2E1QjlfMDUzUEFmQXpSdm44U0tnU0RaaTJkOGVlOENxYVVwZW02Z0plZTFzNEV5dXk4WG5BMTNqdHV0UUgzX1huMlY4dHZjQmxaUWFHWnlURFNpdUJGaXRZN0Q2aWdHZGZMNjdzVmNxQm0ycDlONkxRcmhDSklrdU5vQ1pZUE0tZnMydzBOb1lnRW8xZ0M3Y1hJb0xwaTB2RFRfRGZSdw?oc=5",
-            "description": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China Startup Fortune",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T06:05:05.000Z",
-            "fetchedAt": "2026-10-01T02:28:36.366Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Startup Fortune",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "DeepSeek open sources chip tools that could let Huawei replace Nvidia in China Startup Fortune",
-            "id": "a17"
+            "id": "a13"
           },
           {
             "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -15122,7 +15143,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-29T07:12:52.000Z",
-            "fetchedAt": "2026-10-01T02:28:34.444Z",
+            "fetchedAt": "2026-10-01T09:26:42.955Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15131,31 +15152,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "id": "a19"
-          },
-          {
-            "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
-            "url": "https://ipfray.com/roborock-turns-the-tables-on-ecovacs-first-upc-suit-escalates-patent-war-across-u-s-europe-china/",
-            "description": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-28T06:55:51.000Z",
-            "fetchedAt": "2026-10-01T02:28:34.444Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-            "id": "a21"
+            "id": "a20"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -15165,21 +15167,21 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a10"
+                "a14"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a11"
+                "a15"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a12"
+                "a16"
               ],
               "subCategory": "apple"
             }
@@ -15194,7 +15196,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -15207,7 +15209,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a10"
+            "id": "a14"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -15217,7 +15219,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15229,7 +15231,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a11"
+            "id": "a15"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -15239,7 +15241,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -15251,12 +15253,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a12"
+            "id": "a16"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-01T02:28:36.393Z",
+        "generatedAt": "2026-10-01T09:26:45.001Z",
         "date": "2026-10-01",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -15266,42 +15268,42 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready fo",
               "articleIds": [
-                "a2"
+                "a6"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a5"
+                "a9"
               ],
               "subCategory": "data-center"
             },
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a10"
+                "a14"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a11"
+                "a15"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a12"
+                "a16"
               ],
               "subCategory": "apple"
             },
             {
               "text": "Platform & Ecosystem Partners: Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
               "articleIds": [
-                "a15"
+                "a19"
               ],
               "subCategory": "platform-partner"
             }
@@ -15316,7 +15318,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-01T02:00:00.000Z",
-            "fetchedAt": "2026-10-01T02:28:30.465Z",
+            "fetchedAt": "2026-10-01T09:26:39.478Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15327,7 +15329,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The X Fold 6 looks like foldables did three months ago. It's a quirk of the release calendar that when Vivo's X Fold 6 launched in China this June, it was just another foldable. Now that it's ready for its global release, the size and aspect ratio feel oddly old-fashioned. The X Fold 6 is much the same size as Vivo's previous foldables, and most other foldables that launched before both Apple and Samsung pivoted to a shorter, wider form factor with the Z Fold 8 and iPhone Duo. The 6.51-inch cover display is in the standard smartphone 20:9 aspect ratio, opening to an almost square 8.02-inch panel.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -15337,7 +15339,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -15347,7 +15349,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a5"
+            "id": "a9"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -15357,7 +15359,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -15370,7 +15372,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a10"
+            "id": "a14"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -15380,7 +15382,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15392,7 +15394,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a11"
+            "id": "a15"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -15402,7 +15404,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -15414,7 +15416,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a12"
+            "id": "a16"
           },
           {
             "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
@@ -15424,7 +15426,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T13:00:03.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -15434,7 +15436,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The renewed agreement will become effective next year in April 2027.",
-            "id": "a13"
+            "id": "a17"
           },
           {
             "title": "A $60 Billion Amazon Opportunity Is Changing Qualcomm's Chip Story",
@@ -15444,7 +15446,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T11:30:02.000Z",
-            "fetchedAt": "2026-10-01T02:28:29.904Z",
+            "fetchedAt": "2026-10-01T09:26:33.874Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -15454,7 +15456,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Amazon is giving Qualcomm a potentially powerful new growth opportunity beyond smartphones.",
-            "id": "a15"
+            "id": "a19"
           }
         ]
       }
