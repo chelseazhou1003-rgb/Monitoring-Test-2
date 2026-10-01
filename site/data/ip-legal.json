@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-01T16:42:49.584Z",
+  "generatedAt": "2026-10-01T21:25:30.615Z",
   "date": "2026-10-02",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
         "articleIds": [
-          "a8"
+          "a12"
         ],
         "subCategory": "patent-litigation"
       },
       {
-        "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
+        "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
         "articleIds": [
           "a16"
         ],
@@ -23,7 +23,7 @@
       {
         "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
         "articleIds": [
-          "a17"
+          "a20"
         ],
         "subCategory": "frand-licensing"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T11:00:00.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
+      "fetchedAt": "2026-10-01T21:25:08.135Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -46,7 +46,25 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-      "id": "a8"
+      "id": "a12"
+    },
+    {
+      "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
+      "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
+      "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+      "source": "IPWatchdog",
+      "sourceId": "ipwatchdog",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-09-30T20:41:49.000Z",
+      "fetchedAt": "2026-10-01T21:25:11.399Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+      "id": "a16"
     },
     {
       "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -56,7 +74,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-30T17:07:25.000Z",
-      "fetchedAt": "2026-10-01T16:42:47.689Z",
+      "fetchedAt": "2026-10-01T21:25:12.786Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -64,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -74,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T16:19:30.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
+      "fetchedAt": "2026-10-01T21:25:08.134Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -87,7 +105,7 @@
         "platform-partner"
       ],
       "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-      "id": "a17"
+      "id": "a20"
     },
     {
       "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -97,7 +115,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T15:09:17.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
+      "fetchedAt": "2026-10-01T21:25:08.134Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -109,27 +127,7 @@
         "oem"
       ],
       "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-      "id": "a18"
-    },
-    {
-      "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-      "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
-      "description": "The renewed agreement will become effective next year in April 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T13:00:03.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The renewed agreement will become effective next year in April 2027.",
-      "id": "a20"
+      "id": "a21"
     }
   ]
 }

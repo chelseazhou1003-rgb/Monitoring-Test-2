@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,21 +12,21 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a18"
+            "a21"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a19"
+            "a22"
           ],
           "subCategory": "apple"
         }
@@ -41,7 +41,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -54,7 +54,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -64,7 +64,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -76,7 +76,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a18"
+        "id": "a21"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -86,7 +86,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -98,12 +98,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a19"
+        "id": "a22"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -111,22 +111,40 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+          "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
           "articleIds": [
-            "a4"
-          ],
-          "subCategory": "semiconductors"
-        },
-        {
-          "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-          "articleIds": [
-            "a21"
+            "a8"
           ],
           "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+          "articleIds": [
+            "a9"
+          ],
+          "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+        "url": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+        "description": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+        "source": "EE Times",
+        "sourceId": "eetimes",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-10-01T17:31:45.000Z",
+        "fetchedAt": "2026-10-01T21:25:09.063Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+        "id": "a8"
+      },
       {
         "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
         "url": "https://www.independent.co.uk/tech/qualcomm-smart-glasses-ai-cristiano-amon-b3059807.html?.tsrc=rss",
@@ -135,7 +153,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T13:59:34.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -143,17 +161,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-        "id": "a4"
+        "id": "a9"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-        "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+        "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
         "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-01T16:42:46.061Z",
+        "fetchedAt": "2026-10-01T21:25:10.863Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -163,17 +181,17 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a6"
+        "id": "a10"
       },
       {
         "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
-        "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+        "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
         "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:21:48.000Z",
-        "fetchedAt": "2026-10-01T16:42:46.061Z",
+        "fetchedAt": "2026-10-01T21:25:10.863Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -181,30 +199,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-        "id": "a7"
-      },
-      {
-        "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-        "description": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T12:20:01.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-        "id": "a21"
+        "id": "a11"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -214,7 +214,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a14"
+            "a17"
           ],
           "subCategory": "data-center"
         }
@@ -229,7 +229,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -239,27 +239,27 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a14"
+        "id": "a17"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
           "articleIds": [
-            "a8"
+            "a12"
           ],
           "subCategory": "patent-litigation"
         },
         {
-          "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
+          "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
           "articleIds": [
             "a16"
           ],
@@ -268,7 +268,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "frand-licensing"
         }
@@ -283,7 +283,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T11:00:00.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.135Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -291,7 +291,25 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-        "id": "a8"
+        "id": "a12"
+      },
+      {
+        "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
+        "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
+        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-30T20:41:49.000Z",
+        "fetchedAt": "2026-10-01T21:25:11.399Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "id": "a16"
       },
       {
         "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -301,7 +319,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-30T17:07:25.000Z",
-        "fetchedAt": "2026-10-01T16:42:47.689Z",
+        "fetchedAt": "2026-10-01T21:25:12.786Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -309,7 +327,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-        "id": "a16"
+        "id": "a18"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -319,7 +337,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -332,7 +350,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -342,7 +360,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -354,98 +372,85 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a18"
-      },
-      {
-        "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-        "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
-        "description": "The renewed agreement will become effective next year in April 2027.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T13:00:03.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The renewed agreement will become effective next year in April 2027.",
-        "id": "a20"
+        "id": "a21"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-01T16:42:49.611Z",
+    "generatedAt": "2026-10-01T21:25:30.617Z",
     "date": "2026-10-02",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
-        "topHeadline": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
-        "topHeadlineId": "a4",
+        "topHeadline": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+        "topHeadlineId": "a8",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 5,
         "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources."
+        "topHeadlineId": "a12",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-        "topHeadlineId": "a14",
+        "topHeadlineId": "a17",
         "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 11,
-        "topHeadline": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
+        "articleCount": 12,
+        "topHeadline": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (1 article), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 3,
         "topHeadline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
-        "topHeadlineId": "a17",
+        "topHeadlineId": "a20",
         "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 8,
-        "topHeadline": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), FRAND & Licensing (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources."
+        "articleCount": 5,
+        "topHeadline": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
+        "topHeadlineId": "a10",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Data Center (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 32
+    "totalArticles": 30
   },
   "macro-environment": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (1 article), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
+          "text": "Geopolitics & Export Controls: Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
+          "text": "market-performance: Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a ",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
           "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
           "articleIds": [
-            "a10"
+            "a13"
           ],
           "subCategory": "supply-chain"
         }
@@ -453,34 +458,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
-        "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDFmUmszNzBuZjFOM1ZhOW15ZU5LSm9FTDV2YlJxSnc4VlR3RE9SSDBOSzZrc1ZCMzJlUU52MmY5OTYzVi1IZWZhaUd6Vm9tZ3pETHAwaFBCRXozQjQ2THpvSXBKMjB0R2txbXQ1cGVsQ0ZRV1lNMEdkejYya0J6RVg2LU8taDBtZVd4ZTM5cjI5RmpRNnpDQkNvWVk0dDUtTkVnZExvZGIyZEw5MU8wSktPNWN3dzVDUXdZa3hxU3JYLXRSWnNZTkNqSW5nMWs?oc=5",
-        "description": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T16:05:57.000Z",
-        "fetchedAt": "2026-10-01T16:42:49.546Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Vision Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-        "id": "a1"
-      },
-      {
-        "title": "Nike is set to report earnings after the bell. Here's what to expect",
+        "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
         "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
         "description": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T16:00:01.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.618Z",
+        "publishedAt": "2026-10-01T21:05:18.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.105Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -489,70 +474,120 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
-        "id": "a2"
+        "id": "a1"
       },
       {
-        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-        "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. Now, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. Okay: The Verge’s Josh Dzieza on the Utah data center disaster. Here we go. This interview has been lightly edited for length and clarity. Josh Dzieza, you are a features writer here at The Verge. Welcome to Decoder. Thanks for having me. I’m very excited to talk to you. For people who don’t know, Josh has one of the hardest jobs at The Verge. You just disappear for long periods of time, and then you come back with 15,000-word home runs, which is an enormous amount of pressure, but you keep hitting them. It’s a great job. [Verge features editor] Kevin Nguyen might say that editing those 15,000 words down to something manageable is the hardest job, but it’s all fun. The home run we sent you out to get this time was the story of what happened with Kevin O’Leary in Utah, where he promised to build what was going to be the biggest data center in the world. He was all over the news talking about building the biggest data center in the world, it was called Stratos. He was calling the entire development Wonder Valley. This thing fell apart in a bunch of anger from the local community. There’s a defamation lawsuit because O’Leary referred to all of his critics as Chinese spies on Fox News. Fox News had to apologize on the air. Josh, when you started reporting on this story, it struck me that there would be some similarities to the huge feature you wrote about the Foxconn project in Mount Pleasant, Wisconsin, my hometown, where President Trump announced that Foxconn was going to build a massive LCD factory in the middle of Wisconsin. There were supposed to be 13,000 jobs, and none of that happened. Actually, what’s funny about that is now that land is being used for a Microsoft data center, which is just maybe the natural end state of all things. Walk me through the parallels and differences at a high level. What did this feel like to report? I did not expect this to feel so similar to Foxconn initially, because unlike the Foxconn project, the data center buildout is real and at least theoretically can make sense in many cases. These things are actually getting built — unlike an LCD fab in the middle of Wisconsin. It turned out that there are more parallels than I thought. I mean, one, just the actors that you have that takes place mostly with local officials and planning meetings and angry residents and things like that. But also there’s a lot more data centers on paper and speculation, things that are maybe real and maybe not that are more difficult to suss out than I was fully aware of going into data center reporting. Let’s start at the very start of this project. There’s an enormous cast of characters involved. There’s a whole bunch of government agencies, but this starts with people in Utah looking at 40,000 acres of empty space and realizing that something is about to happen. We can start with the beginning of the project, which is several months before anyone had any idea anything was happening, including most people in Utah — except for a handful of people who own property in this remote valley, some people in the state government at this one agency that became involved and a few real estate developers. So everyone except maybe a dozen or so people found out about this project when Kevin O’Leary starts talking about it as an enormous data center that he’s building in Utah called Wonder Valley, or sometimes Stratos, depending on what program word they’re using at the moment. O’Leary comes out in late April and says, “We’re building this giant thing,” and that’s the first time most people in the county, and in the state, had heard about it. How did Kevin O’Leary get the approvals to even begin saying he was going to start building this data center so publicly if no one knew about it? It is partly because it ran through an agency called MIDA (Military Installation Development Authority), which is like a state development agency that deals with projects that have some military purpose. I think the military purpose can be fairly tangential. MIDA has a luxury ski resort that gives veterans discounts, but it began as a way to create projects on military property that was unused or could be put to more economic use. And then the taxes go back to the state, some of which can fund military developments. It also has a lot of power to override local land use. It basically becomes the municipal government in whatever project area it establishes. So if it establishes a project area, in theory, it would really speed up all the permitting and zoning and other regulations that can be a huge problem for data center projects. In order to establish a project area, the board has to ratify it and all the landowners in the area have to give their consent and then the local government — in this case, the county — has to give its consent. The issue with this is by the time Kevin O’Leary is talking about it on Fox in late April, MIDA has approved it. The county has not. The county didn’t even know about it until about a month before this happened. So did Kevin O’Leary just go to this obscure military agency and say, “I need a bunch of land in Utah,” and get it? According to the documents we have, he starts asking around at the state level with the governor in early January. Then, the project gets passed from the governor’s office to MIDA. So in January to February, he’s basically going around, which is not uncommon with these developers, state to state saying, “I want to build a data center, what have you got?” Whoever gives the best pitch, the best, “You can have this property, we’re going to make permitting easy. We have these tax breaks,” wins. This is also quite similar to what we saw with Foxconn, and a lot of big development projects. People do this sort of beauty pageant thing: “We’re auditioning this state, we’re auditioning this state. It’s a race, it’s a competition. Who’s going to win?” So there’s some of that going on there. O’Leary has been very publicly out in front. His big defense of the project is, “Well, states compete with these tax breaks, and Utah gave me these tax breaks.” Somewhere in there is a big disconnect from the actual people living in the area and the process. I mean, that’s the conflict here, that’s the real heart of the story is eventually the people in the area find out this is happening, and they don’t want it to happen and they mount furious pushback. What happened there? It’s a really interesting case with Stratos, where all of the conversations until very late are happening at the developer and state level. In this case, they literally forgot or failed or for some reason did not tell the county government, whose consent they needed, that this was happening until very late. So that happens in late March, and the county commissioners start hearing rumors that apparently there’s a data center coming. They have no idea. They ask around and the state says, “We’re sorry, we forgot to tell you essentially, but we really need your approval fast.” The county commissioners then have a meeting in late April, and that’s when word starts to trickle out, and then MIDA votes to approve it two days later. Over that weekend in late April, you’ve now had two public meetings, there’s local coverage, people start talking about it saying, “Oh, did you hear about the data center?” Several people found out about it at the coffee shop, at the grocery store. They just hear about it on Facebook. They’re like, “Oh, there’s a big data center coming. For some reason, the Shark Tank guy is involved.” That starts to trickle out in late April, when you start to see that conversation happen. No one was happy about it. One of the interesting things about data centers right now is social media is so full of data center backlash stories. People hear “data center” and they know broadly what’s coming, some of which is exaggerated, some which isn’t, but you don’t need to get people up to speed. They realize, “Oh my God, there’s this huge project. They’re saying it’s nine gigawatts and it’s coming to your metaphorical backyard.” This is the big difference in my mind between the Foxconn reporting and the Stratos reporting you did. So many people in Wisconsin were excited about the promise of a giant illusory LCD manufacturing plant that they ignored the very obvious fakery. And in the course of your reporting, you would literally go to empty buildings and point out that they were empty and Foxconn would issue statements saying they were not empty. It was all just built on people’s hope. It was an inkblot test about whether manufacturing could come back to the midwest, and so many people wanted to believe that, that they ignored the obvious realities. In this case, if they had let Kevin O’Leary build a data center, it seems very likely that he would’ve built a data center, but the people there did not want that. It was the very opposite. All of the hopes and dreams were replaced by people’s anger and fear about AI, and maybe what they’d heard on social media. How did that play out in this story? Because that feels like a massive point of departure. Yeah, and Stratos is a really interesting case because it is kind of what you’ve seen play out across the country, but times 100 because Kevin O’Leary and his knack for attention is involved. But the response was immediate. I mean, people found out about it through local coverage. They start organizing to attend the next meeting. It’s already contentious, people are calling out questions. They’re not happy about it, and Kevin O’Leary starts talking up how huge it’s going to be, and it really just escalates. These weird political alignments start to form because everyone is against it. An activist told me something interesting that data centers are the most unifying issue in politics right now, not because people agree on data centers, but because there’s something for everybody to hate. So you have people who are upset for environmental reasons, you have people who are upset about the tax breaks, you have people who are upset about just surveillance fears with AI. You have just everything in there, and people start protesting right away and saying, “We don’t want this.” That’s something you hear all the time at these protests. It’s just really different from any kind of other big development projects, because not only are people acutely aware of the costs, but there’s no pros. It’s not like people are excited for jobs. And Utah is not, unlike Wisconsin, a de-industrialized area. It’s an agricultural community, for the most part. People are not nostalgic for the golden age of manufacturing. They don’t believe any of the job numbers anyone tosses out with data centers, I think rightly for the most part, and there’s just not a lot of upside. Your county taxes might go down in 10 years. It’s just not that exciting compared to where you’re going to have a giant industrial project on the horizon. You talked to a lot of the protesters and a lot of the people who succeeded in having this project scaled down pretty dramatically. Who are these characters? What are they like? There’s a wide range of people. One of the records that I thought was really fascinating that I got came from a kind of state intelligence center, talking to a local sheriff, saying, “Just heads up, it’s in theory a very combustible group of people who’s going to be attending one of these rallies.” You have conservative groups with names like Utah Patriots Alliance and the Great Salt Lake water preservation activists. The report was saying, “Normally these groups just counterprotest each other, but here they’ve all come together for the same purpose, that they hate this data center.” So you have just a very wide spread of people even within one of the key activist groups. It’s a lot of people who weren’t activists before, just local people — some conservative, some progressive, people with environmental concerns, people who are just upset about it. A lot of people are upset about the process, feeling cut out, like this is something that is really offensive to them, that this happened in their county with their county government and that they weren’t told and they weren’t brought into it. They had no say. I think that galvanized a lot of people. But the people I spoke to, they’re mostly residents of the county or sometimes nearby counties, but everyone who was most involved was a resident of the immediate area in Box Elder, not necessarily Hansel Valley, the remote region where the center would be based. When we first started talking about the story and you went off to report it, my assumption was that all of those folks would get steamrolled, because we’ve seen that play out in so many of these other projects around the country. People mount some opposition. The local city council says, “It’s already done. We have an NDA, we can’t even talk about it.” They scoot the meetings to the next one. There’s protests. We’ve seen people get arrested for trying to talk about data centers at their local city council meetings. There was just something about this one in particular. Maybe because it was Kevin O’Leary, this outsized personality, and because it was so big, because the state officials could trumpet the size of the development. It felt to me like it was a foregone conclusion that this project was going to happen over the objections of a handful of people in a very remote part of Utah, and yet they succeeded. Tell us about how they pushed the project back where it is now and how they succeeded, because that seems like the important part. I think the project has definitely been wounded. I don’t know whether it will happen or not, but it doesn’t have the momentum that it had initially. I think there’s a couple reasons for that. One is just the scale of the backlash was so extreme that it took local officials aback. I don’t think anyone anticipated that it was going to be so severe. The way it was announced was: “Kevin O’Leary’s 40,000 acres, nine gigawatts, biggest thing in the world.” Its proximity to Great Salt Lake, which is shrinking and Utah’s in a drought, so that’s extremely sensitive. The developers say it won’t diminish the water going to the lake, but no one believes that. The residents don’t believe that. It was just such a perfect combination of ingredients and it exploded right at the beginning of the Republican primary in the state, so officials are getting asked about it constantly. People are calling their office, they’re showing up at debates. It became the biggest issue in the state, and people ended up losing their seats over it. There were a lot of casualties from the project. You had two local commissioners who lost their seats. There was J. Stuart Adams, who was the Senate president. Multiple sources referred to him as the king of Utah politics. It really sent shock waves through the state that he lost his seat over this. I mean, there were other issues, but he was the MIDA chair, and so he was very much at the center of this project. It really was, I think, a wake-up call for politicians. The project is not dead. Basically what’s happened is local activists filed a referendum trying to repeal the county’s consent, it was rejected by the county, and now it’s being litigated. Everyone has kind of hit pause on it for now until that case gets resolved. But the data center race is all about speed, and now this is looking like it doesn’t have that momentum it had earlier. You’re going to have lawmakers, and even assuming the referendum gets struck down, you have an extremely activated activist organization network that has formed around opposing this data center. It’s not going to have a very easy road ahead of it. You’re going to have lawmakers scrutinizing it, you’re going to have regulators scrutinizing it. There will be other lawsuits. It’s just so unpopular and it’s so infamous. Why would you want to be associated with that project when you have so many other projects out there that you could choose from? There’s a Kevin O’Leary component to all of this where he came out, he was very loud, he was the face of it. He almost didn’t believe that there would be a grassroots backlash to him to build the data center. He did call all of these folks Chinese spies. He had to apologize for that. Fox News, where he said those remarks, had to apologize on air for it. He posted an Instagram apology. Now he’s walked away from it. You sent him a list of questions. This is real inside baseball, but to make a story like this, we do an email called the “no surprises” email where we just say all the things we’re going to say and people are allowed to respond to them. His response to us was to have his lawyers lightly threaten us, like, “Make sure everything’s accurate. We’re not responding to you. Make sure everything’s accurate or something bad will happen.” He went from being the face to being so not wanting to be a part of the story that his lawyers spoke for him. Why do you think that happened? I mean, for one, now he’s in a defamation lawsuit. But I found his arc to be really fascinating as a window into the politics of data centers, because he came out kind of in a maximum conflict, partisan posture. There’s these protests. He immediately starts attacking the protesters. He reads names on Fox News, says that they are being paid by China. O’Leary goes on the offensive against them, and it just doesn’t work. I mean, more than it doesn’t work, it backfires. Many people I spoke to in Utah came out because they were additionally insulted by the idea that they were being accused of being Chinese agents when they’ve lived there for generations. I think on another political issue, maybe he could have gained some support. He’s trying to play this race with China and the nationalist card, but it just didn’t work here and it only mobilized more people against him. He went on Tucker Carlson. Tucker, for the most part, was skeptical of the China argument and kept pressing him on, “Why would anyone want a data center? Why should anyone support this project?” It’s just really interesting to see the degree to which he failed to get any kind of partisan traction on this with that strategy. There’s an interesting parallel here to the CEO of Flock, whose initial defense of Flock was to try to use MAGA talking points, and it also didn’t work. There’s something about the political realignment here that is utterly fascinating to me, and it’s coming right up against the speed that you mentioned, right? There’s an entire industry that is built around trying to acquire money from hyperscalers as fast as possible by getting these deals done, by getting the permits, by going through the process as quickly as possible, and it feels like our politics and that process are in absolute conflict. Talk about that process a little bit, because you would think that they would understand that they’re up against the actual people in these communities not wanting this to happen. I think they understand that now. My sense is they didn’t understand that until surprisingly recently. So the Stratos project is emblematic of a certain type of data center at this moment in kind of I don’t want to say a late-stage, but very well-developed speculative boom, let’s say, where you have random people from tangentially-related industries who are being sucked into the boom and trying to find an angle, trying to find a way into it. So basically, the data center race, if you want to zoom out, is all about speed. You have a handful of hyperscalers who are locked in what they believe to be an existential race to AGI with each other and will spend whatever it takes to win. That means they will spend, right now, whatever it takes not just to build a data center, but to build a data center faster than their rivals. That means you have billions — hundreds of billions, trillions of dollars — flowing into anyone who will get them what they need as fast as possible. So you can watch, over the last two years or so, these different aspects of data center development get totally jammed up. Initially it was, “All these giant data centers need to get connected to the grid.” That’s a slow process. It can take a year, it can take two years, it can take more, even in normal times. So speculative developers start making requests with various utilities and saying, “I’ve got a giant data center. I want to connect it, start the study process.” It jams up the queues. Utilities stop taking new applications. They charge money for them. Wait times get even longer. So, data center developers then go off grid, “behind the meter” is what they call it: “we’re going to build our own power plants.” And it’s always natural gas because that is a faster way to get 24-hour power than all the permitting and logistics involved with a nuclear plant or solar and batteries or something like that. Now, turbines are back ordered for years. So, you have all of these other players who are trying to find ways to get the hyperscalers what they need. It has now coalesced into something called powered land assembly. What these developers do is they look for a bunch of property, try to secure access to power, and then turn around and sell it to a developer to build a data center. It can be very lucrative. These packages can go for 20 times or more what the raw land would cost. Basically what the developer is paying for is speed. Your pitch is basically like, “I’ve got land, it’s already permitted. All you need to do is build the data center, put chips in it and you’re ready to go.” One consequence of that is that you have a lot of announcements. A lot of announcements for developers say, “I’ve got a 10-gigawatt facility here. We’re building this gigantic facility, it’s going to be the biggest data center in the world.” This happens not just with Kevin O’Leary, but also basically what they’re saying is, “Hey Meta, if you wanted to get involved with this, you could have the biggest data center in the world. You could have a 10-gigawatt facility here.” It has that power capacity, maybe it has permitting for that and has the physical footprint for it. It doesn’t mean we have funding to build a 10-gigawatt facility or anything like that. So, you have these so-called paper data centers out there, but it is a symptom of the broader race dynamic. They’re moving as fast as they can. The hyperscalers want to move as fast as they can. So, you have developers who are trying to move as fast as they can. They’re pressuring states to move as fast as they can to put an enticing package together for the developers that they can then turn around and give to the hyperscalers. At no part in this chain are local residents a player. They’re just not there. They’re not part of this system. So, you have something like Stratos, where just no one bothered to tell anyone in Box Elder County that anything was coming. They’re all racing. Their concern is, “Can we get this deal together as fast as possible?” Local residents just don’t come up. So, I think only now that you have projects hitting real roadblocks with people screaming at their commissioners until they don’t rezone areas, now the people are an obstacle to speed. Now developers and hyperscalers are thinking about, “Well, how do we make people more okay with these projects?” It strikes me that one other thing that should be an obstacle to speed here is the basic economics of AI, right? You have these essentially wildcatters trying to find plots of land with a favorable political process that will enable permitting, and they’re going to sell it at 20 times its value to a hyperscaler that will then buy a bunch of Nvidia chips and then do something with AI to generate enough revenue to make all that worth it. I don’t think anybody knows what that is yet. Anthropic’s S-1 just came out. It is unclear from that document what that will be, but no one seems to care. Do these wildcatters just not care? No, no one cares. [Laughs] Fair enough. That was one of the really illuminating things to me. The investor Paul Kedrosky explained what’s happening here and why nobody in the system cares. It’s because these companies that are in this race are some of the most profitable, huge, credit-worthy, triple-A-rated companies of all time. And so- But some of them are not, just to be clear. Some of them are not, yeah, some of them are not. Google and Meta and Amazon are, but OpenAI and Anthropic and the rest are not. Right, and you see, and that is why you have with some recent OpenAI mega-data centers these fairly complicated backstop arrangements with Nvidia and other companies that need to come in and say, “We’re going to be good for the money no matter what happens essentially.” So, what Paul explained was that because no one can pay for these projects, not even the hyperscalers directly — the projects are too huge, too expensive — you have private credit, you have pension funds, and these sorts of entities who are coming in [to finance it]. They see these projects as a reliable return for many years because in their contracts, Meta is good for the money no matter what happens with AI. That’s part of the reason you have this system kind of racing out of control no matter whether people think AI is going to pay for itself or they’re not clear exactly how, but it has self-sustaining velocity at least until the hyperscalers’ credit comes into question. It seems clear that the political backlash might be able to pump the brakes here and that’s where I want to end. But I just want to ask about the financial component of it for one more turn here. Just in your description of that, I can lay out a lot of risks that make Meta not good for the money if this doesn’t pay off, right? If the AI bubble pops, maybe none of these companies have any cash left to pay off these enormous bills. Is anybody taking that into account? I mean no… [Laughs] Sure, okay. [Laughs] No one I spoke to. I mean no one who’s developing Stratos, that is not of their concern. Hopefully the pension funds or investors or credit agencies or somebody, like the government, are thinking about that. But I would say the financial actors, they’re keeping the process moving forward right now, I think. In the defense of whatever is happening here, new capabilities continue to be unlocked with more data centers. So, you can hope that that will continue to be the case and that there will be a path to profitability at some point. Something that I can’t answer is whether there’s a bubble or whether it’s going to pop. I don’t know. I don’t think anyone really knows. So, only time will tell. But I think one thing I was left thinking about with this story is we’re laying down a lot of infrastructure with a really long lifespan out of immediate expediency. We’re building gigantic gas plants in the middle of nowhere because that gets you a data center a year or two faster than some other method. So, you have a question of even if AI is a bubble, you’re going to have a bunch of giant gas plants in the middle of nowhere — somebody called them very expensive refrigerators basically in the middle of the desert. Even if AI works out, is that the best way to build your data center infrastructure totally disconnected from the grid on fossil fuels in the middle of nowhere? This is not necessarily the most thoughtful way to build what’s supposed to be a civilization scale technology. [Laughs] Yeah, that’s not how we do things in America, Josh. I think you know that better than most. Let’s bring this back to Utah just to wrap it up. So, the people on the ground in Box Elder County mounted their opposition, and they succeeded in getting this project scaled back. Kevin O’Leary has receded into the background behind his shield of attorneys. What happens next here? And what can people around the country who are facing this kind of development and either in support of it or in opposition to it take away from this story? What can they learn from it? I mean I think one thing that was striking with Stratos was just the sheer volume of outrage, the response it got from the state and local government. I think politicians still have to get elected. I think people have realized that this issue is so uniquely toxic that you’ve seen even politicians who are quite pro-data center running away from these projects lately in Texas and other places. So, I think that sort of people coming out, people writing their lawmakers, people protesting at commission meetings, I think that more than anything is why Stratos hit the roadblocks it did. I think certainly the referendum and the litigation is kind of the most technical reason it might not move forward, but I also think just the sheer volume of criticism and objection has really branded the project in Utah politics as something undesirable, something you don’t want to be caught blindly supporting. It’s funny because there’s one politician who’s not walked away from data centers: President Trump. The day before we’re talking, President Trump held his White House summit with all the AI leaders and he just confidently said to cameras, “People are going to love data centers.” It is unclear what mechanism will create this love, but he seems to think that that will happen in the end. Has that been a prevailing view in any of your reporting or is that just Trump wanting it to happen? I think it’s Trump wanting it to happen, I don’t know anyone who wants a data center in their backyard. I think that was one of the surprising things to me, that there’s not really a pro-data center constituency other than I guess state officials who see them as an attractive source of tax revenue and the people building them. Even the people who were selling land into the project were saying, “I’ll get paid, but I’m not happy this is coming.” “No one wants these things,” is something that somebody who was supporting the project because their land was part of the package told me. No one wants a data center in their backyard, even people who might directly profit from them. So, I would be very curious how any pro-data center, local constituency would form. I don’t, from my reporting, see a path to that, but it could happen, I suppose. When I talk to various folks in the tech industry, they are very eager to ascribe all this to NIMBYism, which is maybe the most coherent force that cuts across American politics. Just the power of people to say literally no to development anywhere for any reason, whether it is housing in cities or whether it’s data centers in rural areas, the American belief in NIMBYism is strong. Is that a component here? Is it just that’s the tool we have to pull to stop AI? Is it just that’s the lever we get to pull to stop AI and so we’re pulling it as hard as we can? I think there’s certainly an element of NIMBYism behind this. I mean, it’s people who are upset about the idea that this data center is going to ruin the local character. More than that, I think, I don’t know if you could call concerns about environmental impacts NIMBYism, but they’re concerned about air pollution and heat exhaust and things like that. Water use, of course, comes up. So, you have under the umbrella of NIMBYism concerns about how it will impact the place where they live. I think that is probably the overriding thing, more than concerns about AI, that was animating the protests among the people I spoke with. AI came up, and I think this varies depending on the data center and the project and the people who are opposing it. AI didn’t come up that much with Stratos unless I asked about it. I asked people who are like, “Would you feel differently if this data center was for emails or Netflix streaming or something, or an Amazon fulfillment center that used nine gigawatts for some reason?” They would say, “Well, but at least a fulfillment center would create some jobs.” I think that is part of your answer about where AI factors. There’s no pro case, they don’t see a use for a data center, they don’t see a need for AI. “We don’t need this,” is something they say a lot. So it’s just kind of all costs to them. More than anti-AI, I think it’s anti-data center and not pro-AI. This was granted before the agents started hacking everything, and we had a louder conversation about existential risk, but people just didn’t see the point of it. It was just not a project that seemed like it was being done by people with their interests in mind, and it affected them in negative ways for no discernible benefit. I think that’s a lot of the opposition. I think AI can be sort of a vague cloud of things that don’t help them that are wanted by people somewhere else for reasons that are unclear, versus the concrete harms. I heard a lot more about the concrete harms of the data center than I did about AI job loss or anything like that. It seems unlikely that Meta’s Muse agent is going to save enough money for people by searching their email for coupons to overcome that. The consumer products in AI just have not taken off to overcome all of these concerns. This is a question I’ve been asking. If the data centers just said Netflix on them, would you be happier? And it seems like no, even the benefit of having entertainment isn’t enough to overcome the local harms. Yeah, I think they rightly had concerns about a gigantic gas facility in the vicinity, near Great Salt Lake, and the fact that it was AI was more a point against it. The people I spoke with, they used AI, but they would say, “Well, it’s slightly better Google Search,” or, “I use it to make a birthday card,” or something. But why does that mean we need to drop everything to build a gigantic data center right here right now? Why is this a matter of national security that- And why is Kevin O’Leary the face of it? [Laughs] And why is this Canadian tycoon the one to do it was another question. What happens next here? Obviously this project, Stratos, is tied up in litigation, and we’re going to see what happens there. We’ve been covering other big data center projects around the country as part of a larger package we’ve been doing. What do you think the state of the data center buildout is and the temperature of the opposition? I think the temperature is still pretty high. I don’t think people feel better about data centers now than they did in May. The conversation has shifted a little bit more towards the possible dangers of AI itself, and I don’t see how that helps the argument that we need to build as many data centers as possible everywhere. I think the developers and the hyperscalers have become more attuned to the need to try to offer some sort of perks to the local population to not be completely hated. But I don’t see a pro data center constituency forming. I think people will continue to oppose them, I think they will continue to be unpopular. Politicians will be less likely to offer tax breaks to pave the way for them. But I do think they have plenty of options. I mean, Stratos isn’t even the biggest data center project in Utah. There are other paper data centers out there that are ready to be developed if the permitting comes through or they get the turbines or whatever. I don’t know that it will slow the AI buildout at a macro level, but I think it’s certainly created some friction. Well, it’s a great story and I really encourage people to go read it. Josh did an incredible amount of reporting on it. We gave it the full Verge treatment. There’s a thing we do called scrollytelling on the web here at theverge.com, and you can go experience it now. Josh, thank you so much for being on Decoder. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-01T14:00:00.000Z",
-        "fetchedAt": "2026-10-01T16:42:44.215Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks.",
-        "id": "a3"
-      },
-      {
-        "title": "The best early October Prime Day deals happening now",
-        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor. This post will be updated a couple more times ahead of October 6th as new deals become available. Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-01T13:35:15.000Z",
-        "fetchedAt": "2026-10-01T16:42:44.215Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor.",
-        "id": "a5"
-      },
-      {
-        "title": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI - time.com",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTE96eWlJRjVQYmRpLXNFMzdPNDRvSFBDNFA4ZHdUbjNxdll2SlVGSlZldUk0U3k1eWtpclZNVlQ4LTMyV01id19KdHEyTkpRc21zcWtZa0dlTlpqWjI1U29iZ09pUjlvU0lwLUlOUjU2elFHZU94VXFsc0dBN0FXaFhoU2M4ZzNLSVNuMnhzbHZXUQ?oc=5",
-        "description": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI time.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
+        "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+        "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+        "description": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T10:30:03.000Z",
-        "fetchedAt": "2026-10-01T16:42:49.546Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "time.com",
+        "publishedAt": "2026-10-01T21:00:03.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.492Z",
+        "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Must Simultaneously Compete—and Cooperate—With China on AI time.com",
-        "id": "a9"
+        "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+        "id": "a2"
+      },
+      {
+        "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+        "description": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T21:00:00.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.492Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
+        "id": "a3"
+      },
+      {
+        "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network",
+        "description": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T19:51:19.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.492Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+        "id": "a4"
+      },
+      {
+        "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
+        "url": "https://ipfray.com/tesla-sun-factory-apparently-at-heart-of-u-s-chinese-semiconductor-technology-patent-infringement-dispute/",
+        "description": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-01T19:13:42.000Z",
+        "fetchedAt": "2026-10-01T21:25:12.786Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+        "id": "a5"
+      },
+      {
+        "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+        "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
+        "description": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T18:37:16.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.105Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
+        "id": "a6"
+      },
+      {
+        "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-ai-strategy-overcome-180128531.html?.tsrc=rss",
+        "description": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T18:01:28.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+        "id": "a7"
       },
       {
         "title": "US Executive Order On Energy Grid Supply Chain Security",
@@ -562,7 +597,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-01T07:01:39.000Z",
-        "fetchedAt": "2026-10-01T16:42:45.114Z",
+        "fetchedAt": "2026-10-01T21:25:09.920Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -571,7 +606,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-        "id": "a10"
+        "id": "a13"
+      },
+      {
+        "title": "China’s bigger, better batteries",
+        "url": "https://www.ft.com/content/b84778e5-ce8b-4baa-9ca7-402cdf277b4d?syn-25a6b1a6=1",
+        "description": "It’s the world’s fastest-growing power technology — and Beijing is dominant",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-01T04:00:06.000Z",
+        "fetchedAt": "2026-10-01T21:25:08.786Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "It’s the world’s fastest-growing power technology — and Beijing is dominant",
+        "id": "a14"
       },
       {
         "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -581,7 +635,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T03:34:00.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.135Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -590,67 +644,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-        "id": "a11"
-      },
-      {
-        "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
-        "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T02:24:49.000Z",
-        "fetchedAt": "2026-10-01T16:42:49.546Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "조선일보",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
-        "id": "a12"
-      },
-      {
-        "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJsN0FqMzY3R2dZZHgtcUN0ZjlDYUdHWFpES2d1UkMxbFdmd2VfSmU1eHc1MGotVmg4djFXMTF6VXBaRWhNVE9lRlpPb21aRWE1VDdXcHZDZzBnS2JueVcwc25ld2V5cjQyQzlJLXZqazdlX0hxd2lfNkhHT0hVRXdSUDg0UUNqN1BOUXF6Zy1TYU9McGFMZXZHbFdkRTkwMWxUYkhqQVJXcnJXQmFPaDdTeVh6X0Ry?oc=5",
-        "description": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T20:16:14.000Z",
-        "fetchedAt": "2026-10-01T16:42:49.546Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Register",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-        "id": "a13"
-      },
-      {
-        "title": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC - JDSupra",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOERCelFicGpoMWxpS3k0Uy1qOUpfcU9rbGQ5T09hR0NxTkQ0RFVXN2JucXpKaDMxbGNkbVNtWUp3TktSOGpPc2o2eUQ5aG11bFVHMjNFbjUtZGhuWUhUUUsyYndxX2tnSFJ3S3hZa3ktWHN4alJvUjlpaTRBalU?oc=5",
-        "description": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T17:17:53.000Z",
-        "fetchedAt": "2026-10-01T16:42:49.546Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "JDSupra",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
         "id": "a15"
+      },
+      {
+        "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
+        "url": "https://ipwatchdog.com/2026/09/30/cafc-district-court-failed-to-provide-sufficient-reasoning-denying-sanctions-attorneys-fees/",
+        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-30T16:53:56.000Z",
+        "fetchedAt": "2026-10-01T21:25:11.399Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "id": "a19"
       },
       {
         "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -660,7 +673,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-29T07:12:52.000Z",
-        "fetchedAt": "2026-10-01T16:42:47.689Z",
+        "fetchedAt": "2026-10-01T21:25:12.786Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -669,7 +682,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-        "id": "a22"
+        "id": "a23"
       }
     ]
   },
@@ -865,52 +878,45 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-01T16:42:49.584Z",
+    "generatedAt": "2026-10-01T21:25:30.615Z",
     "date": "2026-10-02",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), FRAND & Licensing (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Data Center (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
-        {
-          "text": "Geopolitics & Export Controls: Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data cen",
-          "articleIds": [
-            "a3"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
         {
           "text": "Semiconductors: Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
           "articleIds": [
-            "a6"
+            "a10"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a14"
+            "a17"
           ],
           "subCategory": "data-center"
         },
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a18"
+            "a21"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a19"
+            "a22"
           ],
           "subCategory": "apple"
         }
@@ -918,57 +924,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-        "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-        "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. Now, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. Okay: The Verge’s Josh Dzieza on the Utah data center disaster. Here we go. This interview has been lightly edited for length and clarity. Josh Dzieza, you are a features writer here at The Verge. Welcome to Decoder. Thanks for having me. I’m very excited to talk to you. For people who don’t know, Josh has one of the hardest jobs at The Verge. You just disappear for long periods of time, and then you come back with 15,000-word home runs, which is an enormous amount of pressure, but you keep hitting them. It’s a great job. [Verge features editor] Kevin Nguyen might say that editing those 15,000 words down to something manageable is the hardest job, but it’s all fun. The home run we sent you out to get this time was the story of what happened with Kevin O’Leary in Utah, where he promised to build what was going to be the biggest data center in the world. He was all over the news talking about building the biggest data center in the world, it was called Stratos. He was calling the entire development Wonder Valley. This thing fell apart in a bunch of anger from the local community. There’s a defamation lawsuit because O’Leary referred to all of his critics as Chinese spies on Fox News. Fox News had to apologize on the air. Josh, when you started reporting on this story, it struck me that there would be some similarities to the huge feature you wrote about the Foxconn project in Mount Pleasant, Wisconsin, my hometown, where President Trump announced that Foxconn was going to build a massive LCD factory in the middle of Wisconsin. There were supposed to be 13,000 jobs, and none of that happened. Actually, what’s funny about that is now that land is being used for a Microsoft data center, which is just maybe the natural end state of all things. Walk me through the parallels and differences at a high level. What did this feel like to report? I did not expect this to feel so similar to Foxconn initially, because unlike the Foxconn project, the data center buildout is real and at least theoretically can make sense in many cases. These things are actually getting built — unlike an LCD fab in the middle of Wisconsin. It turned out that there are more parallels than I thought. I mean, one, just the actors that you have that takes place mostly with local officials and planning meetings and angry residents and things like that. But also there’s a lot more data centers on paper and speculation, things that are maybe real and maybe not that are more difficult to suss out than I was fully aware of going into data center reporting. Let’s start at the very start of this project. There’s an enormous cast of characters involved. There’s a whole bunch of government agencies, but this starts with people in Utah looking at 40,000 acres of empty space and realizing that something is about to happen. We can start with the beginning of the project, which is several months before anyone had any idea anything was happening, including most people in Utah — except for a handful of people who own property in this remote valley, some people in the state government at this one agency that became involved and a few real estate developers. So everyone except maybe a dozen or so people found out about this project when Kevin O’Leary starts talking about it as an enormous data center that he’s building in Utah called Wonder Valley, or sometimes Stratos, depending on what program word they’re using at the moment. O’Leary comes out in late April and says, “We’re building this giant thing,” and that’s the first time most people in the county, and in the state, had heard about it. How did Kevin O’Leary get the approvals to even begin saying he was going to start building this data center so publicly if no one knew about it? It is partly because it ran through an agency called MIDA (Military Installation Development Authority), which is like a state development agency that deals with projects that have some military purpose. I think the military purpose can be fairly tangential. MIDA has a luxury ski resort that gives veterans discounts, but it began as a way to create projects on military property that was unused or could be put to more economic use. And then the taxes go back to the state, some of which can fund military developments. It also has a lot of power to override local land use. It basically becomes the municipal government in whatever project area it establishes. So if it establishes a project area, in theory, it would really speed up all the permitting and zoning and other regulations that can be a huge problem for data center projects. In order to establish a project area, the board has to ratify it and all the landowners in the area have to give their consent and then the local government — in this case, the county — has to give its consent. The issue with this is by the time Kevin O’Leary is talking about it on Fox in late April, MIDA has approved it. The county has not. The county didn’t even know about it until about a month before this happened. So did Kevin O’Leary just go to this obscure military agency and say, “I need a bunch of land in Utah,” and get it? According to the documents we have, he starts asking around at the state level with the governor in early January. Then, the project gets passed from the governor’s office to MIDA. So in January to February, he’s basically going around, which is not uncommon with these developers, state to state saying, “I want to build a data center, what have you got?” Whoever gives the best pitch, the best, “You can have this property, we’re going to make permitting easy. We have these tax breaks,” wins. This is also quite similar to what we saw with Foxconn, and a lot of big development projects. People do this sort of beauty pageant thing: “We’re auditioning this state, we’re auditioning this state. It’s a race, it’s a competition. Who’s going to win?” So there’s some of that going on there. O’Leary has been very publicly out in front. His big defense of the project is, “Well, states compete with these tax breaks, and Utah gave me these tax breaks.” Somewhere in there is a big disconnect from the actual people living in the area and the process. I mean, that’s the conflict here, that’s the real heart of the story is eventually the people in the area find out this is happening, and they don’t want it to happen and they mount furious pushback. What happened there? It’s a really interesting case with Stratos, where all of the conversations until very late are happening at the developer and state level. In this case, they literally forgot or failed or for some reason did not tell the county government, whose consent they needed, that this was happening until very late. So that happens in late March, and the county commissioners start hearing rumors that apparently there’s a data center coming. They have no idea. They ask around and the state says, “We’re sorry, we forgot to tell you essentially, but we really need your approval fast.” The county commissioners then have a meeting in late April, and that’s when word starts to trickle out, and then MIDA votes to approve it two days later. Over that weekend in late April, you’ve now had two public meetings, there’s local coverage, people start talking about it saying, “Oh, did you hear about the data center?” Several people found out about it at the coffee shop, at the grocery store. They just hear about it on Facebook. They’re like, “Oh, there’s a big data center coming. For some reason, the Shark Tank guy is involved.” That starts to trickle out in late April, when you start to see that conversation happen. No one was happy about it. One of the interesting things about data centers right now is social media is so full of data center backlash stories. People hear “data center” and they know broadly what’s coming, some of which is exaggerated, some which isn’t, but you don’t need to get people up to speed. They realize, “Oh my God, there’s this huge project. They’re saying it’s nine gigawatts and it’s coming to your metaphorical backyard.” This is the big difference in my mind between the Foxconn reporting and the Stratos reporting you did. So many people in Wisconsin were excited about the promise of a giant illusory LCD manufacturing plant that they ignored the very obvious fakery. And in the course of your reporting, you would literally go to empty buildings and point out that they were empty and Foxconn would issue statements saying they were not empty. It was all just built on people’s hope. It was an inkblot test about whether manufacturing could come back to the midwest, and so many people wanted to believe that, that they ignored the obvious realities. In this case, if they had let Kevin O’Leary build a data center, it seems very likely that he would’ve built a data center, but the people there did not want that. It was the very opposite. All of the hopes and dreams were replaced by people’s anger and fear about AI, and maybe what they’d heard on social media. How did that play out in this story? Because that feels like a massive point of departure. Yeah, and Stratos is a really interesting case because it is kind of what you’ve seen play out across the country, but times 100 because Kevin O’Leary and his knack for attention is involved. But the response was immediate. I mean, people found out about it through local coverage. They start organizing to attend the next meeting. It’s already contentious, people are calling out questions. They’re not happy about it, and Kevin O’Leary starts talking up how huge it’s going to be, and it really just escalates. These weird political alignments start to form because everyone is against it. An activist told me something interesting that data centers are the most unifying issue in politics right now, not because people agree on data centers, but because there’s something for everybody to hate. So you have people who are upset for environmental reasons, you have people who are upset about the tax breaks, you have people who are upset about just surveillance fears with AI. You have just everything in there, and people start protesting right away and saying, “We don’t want this.” That’s something you hear all the time at these protests. It’s just really different from any kind of other big development projects, because not only are people acutely aware of the costs, but there’s no pros. It’s not like people are excited for jobs. And Utah is not, unlike Wisconsin, a de-industrialized area. It’s an agricultural community, for the most part. People are not nostalgic for the golden age of manufacturing. They don’t believe any of the job numbers anyone tosses out with data centers, I think rightly for the most part, and there’s just not a lot of upside. Your county taxes might go down in 10 years. It’s just not that exciting compared to where you’re going to have a giant industrial project on the horizon. You talked to a lot of the protesters and a lot of the people who succeeded in having this project scaled down pretty dramatically. Who are these characters? What are they like? There’s a wide range of people. One of the records that I thought was really fascinating that I got came from a kind of state intelligence center, talking to a local sheriff, saying, “Just heads up, it’s in theory a very combustible group of people who’s going to be attending one of these rallies.” You have conservative groups with names like Utah Patriots Alliance and the Great Salt Lake water preservation activists. The report was saying, “Normally these groups just counterprotest each other, but here they’ve all come together for the same purpose, that they hate this data center.” So you have just a very wide spread of people even within one of the key activist groups. It’s a lot of people who weren’t activists before, just local people — some conservative, some progressive, people with environmental concerns, people who are just upset about it. A lot of people are upset about the process, feeling cut out, like this is something that is really offensive to them, that this happened in their county with their county government and that they weren’t told and they weren’t brought into it. They had no say. I think that galvanized a lot of people. But the people I spoke to, they’re mostly residents of the county or sometimes nearby counties, but everyone who was most involved was a resident of the immediate area in Box Elder, not necessarily Hansel Valley, the remote region where the center would be based. When we first started talking about the story and you went off to report it, my assumption was that all of those folks would get steamrolled, because we’ve seen that play out in so many of these other projects around the country. People mount some opposition. The local city council says, “It’s already done. We have an NDA, we can’t even talk about it.” They scoot the meetings to the next one. There’s protests. We’ve seen people get arrested for trying to talk about data centers at their local city council meetings. There was just something about this one in particular. Maybe because it was Kevin O’Leary, this outsized personality, and because it was so big, because the state officials could trumpet the size of the development. It felt to me like it was a foregone conclusion that this project was going to happen over the objections of a handful of people in a very remote part of Utah, and yet they succeeded. Tell us about how they pushed the project back where it is now and how they succeeded, because that seems like the important part. I think the project has definitely been wounded. I don’t know whether it will happen or not, but it doesn’t have the momentum that it had initially. I think there’s a couple reasons for that. One is just the scale of the backlash was so extreme that it took local officials aback. I don’t think anyone anticipated that it was going to be so severe. The way it was announced was: “Kevin O’Leary’s 40,000 acres, nine gigawatts, biggest thing in the world.” Its proximity to Great Salt Lake, which is shrinking and Utah’s in a drought, so that’s extremely sensitive. The developers say it won’t diminish the water going to the lake, but no one believes that. The residents don’t believe that. It was just such a perfect combination of ingredients and it exploded right at the beginning of the Republican primary in the state, so officials are getting asked about it constantly. People are calling their office, they’re showing up at debates. It became the biggest issue in the state, and people ended up losing their seats over it. There were a lot of casualties from the project. You had two local commissioners who lost their seats. There was J. Stuart Adams, who was the Senate president. Multiple sources referred to him as the king of Utah politics. It really sent shock waves through the state that he lost his seat over this. I mean, there were other issues, but he was the MIDA chair, and so he was very much at the center of this project. It really was, I think, a wake-up call for politicians. The project is not dead. Basically what’s happened is local activists filed a referendum trying to repeal the county’s consent, it was rejected by the county, and now it’s being litigated. Everyone has kind of hit pause on it for now until that case gets resolved. But the data center race is all about speed, and now this is looking like it doesn’t have that momentum it had earlier. You’re going to have lawmakers, and even assuming the referendum gets struck down, you have an extremely activated activist organization network that has formed around opposing this data center. It’s not going to have a very easy road ahead of it. You’re going to have lawmakers scrutinizing it, you’re going to have regulators scrutinizing it. There will be other lawsuits. It’s just so unpopular and it’s so infamous. Why would you want to be associated with that project when you have so many other projects out there that you could choose from? There’s a Kevin O’Leary component to all of this where he came out, he was very loud, he was the face of it. He almost didn’t believe that there would be a grassroots backlash to him to build the data center. He did call all of these folks Chinese spies. He had to apologize for that. Fox News, where he said those remarks, had to apologize on air for it. He posted an Instagram apology. Now he’s walked away from it. You sent him a list of questions. This is real inside baseball, but to make a story like this, we do an email called the “no surprises” email where we just say all the things we’re going to say and people are allowed to respond to them. His response to us was to have his lawyers lightly threaten us, like, “Make sure everything’s accurate. We’re not responding to you. Make sure everything’s accurate or something bad will happen.” He went from being the face to being so not wanting to be a part of the story that his lawyers spoke for him. Why do you think that happened? I mean, for one, now he’s in a defamation lawsuit. But I found his arc to be really fascinating as a window into the politics of data centers, because he came out kind of in a maximum conflict, partisan posture. There’s these protests. He immediately starts attacking the protesters. He reads names on Fox News, says that they are being paid by China. O’Leary goes on the offensive against them, and it just doesn’t work. I mean, more than it doesn’t work, it backfires. Many people I spoke to in Utah came out because they were additionally insulted by the idea that they were being accused of being Chinese agents when they’ve lived there for generations. I think on another political issue, maybe he could have gained some support. He’s trying to play this race with China and the nationalist card, but it just didn’t work here and it only mobilized more people against him. He went on Tucker Carlson. Tucker, for the most part, was skeptical of the China argument and kept pressing him on, “Why would anyone want a data center? Why should anyone support this project?” It’s just really interesting to see the degree to which he failed to get any kind of partisan traction on this with that strategy. There’s an interesting parallel here to the CEO of Flock, whose initial defense of Flock was to try to use MAGA talking points, and it also didn’t work. There’s something about the political realignment here that is utterly fascinating to me, and it’s coming right up against the speed that you mentioned, right? There’s an entire industry that is built around trying to acquire money from hyperscalers as fast as possible by getting these deals done, by getting the permits, by going through the process as quickly as possible, and it feels like our politics and that process are in absolute conflict. Talk about that process a little bit, because you would think that they would understand that they’re up against the actual people in these communities not wanting this to happen. I think they understand that now. My sense is they didn’t understand that until surprisingly recently. So the Stratos project is emblematic of a certain type of data center at this moment in kind of I don’t want to say a late-stage, but very well-developed speculative boom, let’s say, where you have random people from tangentially-related industries who are being sucked into the boom and trying to find an angle, trying to find a way into it. So basically, the data center race, if you want to zoom out, is all about speed. You have a handful of hyperscalers who are locked in what they believe to be an existential race to AGI with each other and will spend whatever it takes to win. That means they will spend, right now, whatever it takes not just to build a data center, but to build a data center faster than their rivals. That means you have billions — hundreds of billions, trillions of dollars — flowing into anyone who will get them what they need as fast as possible. So you can watch, over the last two years or so, these different aspects of data center development get totally jammed up. Initially it was, “All these giant data centers need to get connected to the grid.” That’s a slow process. It can take a year, it can take two years, it can take more, even in normal times. So speculative developers start making requests with various utilities and saying, “I’ve got a giant data center. I want to connect it, start the study process.” It jams up the queues. Utilities stop taking new applications. They charge money for them. Wait times get even longer. So, data center developers then go off grid, “behind the meter” is what they call it: “we’re going to build our own power plants.” And it’s always natural gas because that is a faster way to get 24-hour power than all the permitting and logistics involved with a nuclear plant or solar and batteries or something like that. Now, turbines are back ordered for years. So, you have all of these other players who are trying to find ways to get the hyperscalers what they need. It has now coalesced into something called powered land assembly. What these developers do is they look for a bunch of property, try to secure access to power, and then turn around and sell it to a developer to build a data center. It can be very lucrative. These packages can go for 20 times or more what the raw land would cost. Basically what the developer is paying for is speed. Your pitch is basically like, “I’ve got land, it’s already permitted. All you need to do is build the data center, put chips in it and you’re ready to go.” One consequence of that is that you have a lot of announcements. A lot of announcements for developers say, “I’ve got a 10-gigawatt facility here. We’re building this gigantic facility, it’s going to be the biggest data center in the world.” This happens not just with Kevin O’Leary, but also basically what they’re saying is, “Hey Meta, if you wanted to get involved with this, you could have the biggest data center in the world. You could have a 10-gigawatt facility here.” It has that power capacity, maybe it has permitting for that and has the physical footprint for it. It doesn’t mean we have funding to build a 10-gigawatt facility or anything like that. So, you have these so-called paper data centers out there, but it is a symptom of the broader race dynamic. They’re moving as fast as they can. The hyperscalers want to move as fast as they can. So, you have developers who are trying to move as fast as they can. They’re pressuring states to move as fast as they can to put an enticing package together for the developers that they can then turn around and give to the hyperscalers. At no part in this chain are local residents a player. They’re just not there. They’re not part of this system. So, you have something like Stratos, where just no one bothered to tell anyone in Box Elder County that anything was coming. They’re all racing. Their concern is, “Can we get this deal together as fast as possible?” Local residents just don’t come up. So, I think only now that you have projects hitting real roadblocks with people screaming at their commissioners until they don’t rezone areas, now the people are an obstacle to speed. Now developers and hyperscalers are thinking about, “Well, how do we make people more okay with these projects?” It strikes me that one other thing that should be an obstacle to speed here is the basic economics of AI, right? You have these essentially wildcatters trying to find plots of land with a favorable political process that will enable permitting, and they’re going to sell it at 20 times its value to a hyperscaler that will then buy a bunch of Nvidia chips and then do something with AI to generate enough revenue to make all that worth it. I don’t think anybody knows what that is yet. Anthropic’s S-1 just came out. It is unclear from that document what that will be, but no one seems to care. Do these wildcatters just not care? No, no one cares. [Laughs] Fair enough. That was one of the really illuminating things to me. The investor Paul Kedrosky explained what’s happening here and why nobody in the system cares. It’s because these companies that are in this race are some of the most profitable, huge, credit-worthy, triple-A-rated companies of all time. And so- But some of them are not, just to be clear. Some of them are not, yeah, some of them are not. Google and Meta and Amazon are, but OpenAI and Anthropic and the rest are not. Right, and you see, and that is why you have with some recent OpenAI mega-data centers these fairly complicated backstop arrangements with Nvidia and other companies that need to come in and say, “We’re going to be good for the money no matter what happens essentially.” So, what Paul explained was that because no one can pay for these projects, not even the hyperscalers directly — the projects are too huge, too expensive — you have private credit, you have pension funds, and these sorts of entities who are coming in [to finance it]. They see these projects as a reliable return for many years because in their contracts, Meta is good for the money no matter what happens with AI. That’s part of the reason you have this system kind of racing out of control no matter whether people think AI is going to pay for itself or they’re not clear exactly how, but it has self-sustaining velocity at least until the hyperscalers’ credit comes into question. It seems clear that the political backlash might be able to pump the brakes here and that’s where I want to end. But I just want to ask about the financial component of it for one more turn here. Just in your description of that, I can lay out a lot of risks that make Meta not good for the money if this doesn’t pay off, right? If the AI bubble pops, maybe none of these companies have any cash left to pay off these enormous bills. Is anybody taking that into account? I mean no… [Laughs] Sure, okay. [Laughs] No one I spoke to. I mean no one who’s developing Stratos, that is not of their concern. Hopefully the pension funds or investors or credit agencies or somebody, like the government, are thinking about that. But I would say the financial actors, they’re keeping the process moving forward right now, I think. In the defense of whatever is happening here, new capabilities continue to be unlocked with more data centers. So, you can hope that that will continue to be the case and that there will be a path to profitability at some point. Something that I can’t answer is whether there’s a bubble or whether it’s going to pop. I don’t know. I don’t think anyone really knows. So, only time will tell. But I think one thing I was left thinking about with this story is we’re laying down a lot of infrastructure with a really long lifespan out of immediate expediency. We’re building gigantic gas plants in the middle of nowhere because that gets you a data center a year or two faster than some other method. So, you have a question of even if AI is a bubble, you’re going to have a bunch of giant gas plants in the middle of nowhere — somebody called them very expensive refrigerators basically in the middle of the desert. Even if AI works out, is that the best way to build your data center infrastructure totally disconnected from the grid on fossil fuels in the middle of nowhere? This is not necessarily the most thoughtful way to build what’s supposed to be a civilization scale technology. [Laughs] Yeah, that’s not how we do things in America, Josh. I think you know that better than most. Let’s bring this back to Utah just to wrap it up. So, the people on the ground in Box Elder County mounted their opposition, and they succeeded in getting this project scaled back. Kevin O’Leary has receded into the background behind his shield of attorneys. What happens next here? And what can people around the country who are facing this kind of development and either in support of it or in opposition to it take away from this story? What can they learn from it? I mean I think one thing that was striking with Stratos was just the sheer volume of outrage, the response it got from the state and local government. I think politicians still have to get elected. I think people have realized that this issue is so uniquely toxic that you’ve seen even politicians who are quite pro-data center running away from these projects lately in Texas and other places. So, I think that sort of people coming out, people writing their lawmakers, people protesting at commission meetings, I think that more than anything is why Stratos hit the roadblocks it did. I think certainly the referendum and the litigation is kind of the most technical reason it might not move forward, but I also think just the sheer volume of criticism and objection has really branded the project in Utah politics as something undesirable, something you don’t want to be caught blindly supporting. It’s funny because there’s one politician who’s not walked away from data centers: President Trump. The day before we’re talking, President Trump held his White House summit with all the AI leaders and he just confidently said to cameras, “People are going to love data centers.” It is unclear what mechanism will create this love, but he seems to think that that will happen in the end. Has that been a prevailing view in any of your reporting or is that just Trump wanting it to happen? I think it’s Trump wanting it to happen, I don’t know anyone who wants a data center in their backyard. I think that was one of the surprising things to me, that there’s not really a pro-data center constituency other than I guess state officials who see them as an attractive source of tax revenue and the people building them. Even the people who were selling land into the project were saying, “I’ll get paid, but I’m not happy this is coming.” “No one wants these things,” is something that somebody who was supporting the project because their land was part of the package told me. No one wants a data center in their backyard, even people who might directly profit from them. So, I would be very curious how any pro-data center, local constituency would form. I don’t, from my reporting, see a path to that, but it could happen, I suppose. When I talk to various folks in the tech industry, they are very eager to ascribe all this to NIMBYism, which is maybe the most coherent force that cuts across American politics. Just the power of people to say literally no to development anywhere for any reason, whether it is housing in cities or whether it’s data centers in rural areas, the American belief in NIMBYism is strong. Is that a component here? Is it just that’s the tool we have to pull to stop AI? Is it just that’s the lever we get to pull to stop AI and so we’re pulling it as hard as we can? I think there’s certainly an element of NIMBYism behind this. I mean, it’s people who are upset about the idea that this data center is going to ruin the local character. More than that, I think, I don’t know if you could call concerns about environmental impacts NIMBYism, but they’re concerned about air pollution and heat exhaust and things like that. Water use, of course, comes up. So, you have under the umbrella of NIMBYism concerns about how it will impact the place where they live. I think that is probably the overriding thing, more than concerns about AI, that was animating the protests among the people I spoke with. AI came up, and I think this varies depending on the data center and the project and the people who are opposing it. AI didn’t come up that much with Stratos unless I asked about it. I asked people who are like, “Would you feel differently if this data center was for emails or Netflix streaming or something, or an Amazon fulfillment center that used nine gigawatts for some reason?” They would say, “Well, but at least a fulfillment center would create some jobs.” I think that is part of your answer about where AI factors. There’s no pro case, they don’t see a use for a data center, they don’t see a need for AI. “We don’t need this,” is something they say a lot. So it’s just kind of all costs to them. More than anti-AI, I think it’s anti-data center and not pro-AI. This was granted before the agents started hacking everything, and we had a louder conversation about existential risk, but people just didn’t see the point of it. It was just not a project that seemed like it was being done by people with their interests in mind, and it affected them in negative ways for no discernible benefit. I think that’s a lot of the opposition. I think AI can be sort of a vague cloud of things that don’t help them that are wanted by people somewhere else for reasons that are unclear, versus the concrete harms. I heard a lot more about the concrete harms of the data center than I did about AI job loss or anything like that. It seems unlikely that Meta’s Muse agent is going to save enough money for people by searching their email for coupons to overcome that. The consumer products in AI just have not taken off to overcome all of these concerns. This is a question I’ve been asking. If the data centers just said Netflix on them, would you be happier? And it seems like no, even the benefit of having entertainment isn’t enough to overcome the local harms. Yeah, I think they rightly had concerns about a gigantic gas facility in the vicinity, near Great Salt Lake, and the fact that it was AI was more a point against it. The people I spoke with, they used AI, but they would say, “Well, it’s slightly better Google Search,” or, “I use it to make a birthday card,” or something. But why does that mean we need to drop everything to build a gigantic data center right here right now? Why is this a matter of national security that- And why is Kevin O’Leary the face of it? [Laughs] And why is this Canadian tycoon the one to do it was another question. What happens next here? Obviously this project, Stratos, is tied up in litigation, and we’re going to see what happens there. We’ve been covering other big data center projects around the country as part of a larger package we’ve been doing. What do you think the state of the data center buildout is and the temperature of the opposition? I think the temperature is still pretty high. I don’t think people feel better about data centers now than they did in May. The conversation has shifted a little bit more towards the possible dangers of AI itself, and I don’t see how that helps the argument that we need to build as many data centers as possible everywhere. I think the developers and the hyperscalers have become more attuned to the need to try to offer some sort of perks to the local population to not be completely hated. But I don’t see a pro data center constituency forming. I think people will continue to oppose them, I think they will continue to be unpopular. Politicians will be less likely to offer tax breaks to pave the way for them. But I do think they have plenty of options. I mean, Stratos isn’t even the biggest data center project in Utah. There are other paper data centers out there that are ready to be developed if the permitting comes through or they get the turbines or whatever. I don’t know that it will slow the AI buildout at a macro level, but I think it’s certainly created some friction. Well, it’s a great story and I really encourage people to go read it. Josh did an incredible amount of reporting on it. We gave it the full Verge treatment. There’s a thing we do called scrollytelling on the web here at theverge.com, and you can go experience it now. Josh, thank you so much for being on Decoder. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-01T14:00:00.000Z",
-        "fetchedAt": "2026-10-01T16:42:44.215Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks.",
-        "id": "a3"
-      },
-      {
-        "title": "The best early October Prime Day deals happening now",
-        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor. This post will be updated a couple more times ahead of October 6th as new deals become available. Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-01T13:35:15.000Z",
-        "fetchedAt": "2026-10-01T16:42:44.215Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor.",
-        "id": "a5"
-      },
-      {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-        "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+        "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
         "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-01T16:42:46.061Z",
+        "fetchedAt": "2026-10-01T21:25:10.863Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -978,7 +941,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a6"
+        "id": "a10"
       },
       {
         "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -988,7 +951,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -998,7 +961,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a14"
+        "id": "a17"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -1008,7 +971,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -1021,7 +984,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -1031,7 +994,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -1043,7 +1006,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a18"
+        "id": "a21"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -1053,7 +1016,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
+        "fetchedAt": "2026-10-01T21:25:08.134Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -1065,27 +1028,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a19"
-      },
-      {
-        "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-        "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
-        "description": "The renewed agreement will become effective next year in April 2027.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-09-30T13:00:03.000Z",
-        "fetchedAt": "2026-10-01T16:42:43.654Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The renewed agreement will become effective next year in April 2027.",
-        "id": "a20"
+        "id": "a22"
       }
     ]
   },
@@ -15543,11 +15486,11 @@ export const NEWS_DATA = {
     "totalArticles": 29
   },
   "archive-2026-10-02": {
-    "generatedAt": "2026-10-01T16:42:49.611Z",
+    "generatedAt": "2026-10-01T21:25:30.618Z",
     "date": "2026-10-02",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -15555,22 +15498,40 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+              "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
               "articleIds": [
-                "a4"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-              "articleIds": [
-                "a21"
+                "a8"
               ],
               "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+              "articleIds": [
+                "a9"
+              ],
+              "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+            "url": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+            "description": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-10-01T17:31:45.000Z",
+            "fetchedAt": "2026-10-01T21:25:09.063Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+            "id": "a8"
+          },
           {
             "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
             "url": "https://www.independent.co.uk/tech/qualcomm-smart-glasses-ai-cristiano-amon-b3059807.html?.tsrc=rss",
@@ -15579,7 +15540,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T13:59:34.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15587,17 +15548,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-            "id": "a4"
+            "id": "a9"
           },
           {
             "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-            "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+            "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
             "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-01T16:42:46.061Z",
+            "fetchedAt": "2026-10-01T21:25:10.863Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15607,17 +15568,17 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a6"
+            "id": "a10"
           },
           {
             "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
-            "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+            "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
             "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:21:48.000Z",
-            "fetchedAt": "2026-10-01T16:42:46.061Z",
+            "fetchedAt": "2026-10-01T21:25:10.863Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15625,45 +15586,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-            "id": "a7"
-          },
-          {
-            "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-            "description": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T12:20:01.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-            "id": "a21"
+            "id": "a11"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
               "articleIds": [
-                "a8"
+                "a12"
               ],
               "subCategory": "patent-litigation"
             },
             {
-              "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
+              "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
               "articleIds": [
                 "a16"
               ],
@@ -15672,7 +15615,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a17"
+                "a20"
               ],
               "subCategory": "frand-licensing"
             }
@@ -15687,7 +15630,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T11:00:00.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.135Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -15695,7 +15638,25 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-            "id": "a8"
+            "id": "a12"
+          },
+          {
+            "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
+            "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
+            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-30T20:41:49.000Z",
+            "fetchedAt": "2026-10-01T21:25:11.399Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a16"
           },
           {
             "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -15705,7 +15666,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-30T17:07:25.000Z",
-            "fetchedAt": "2026-10-01T16:42:47.689Z",
+            "fetchedAt": "2026-10-01T21:25:12.786Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15713,7 +15674,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-            "id": "a16"
+            "id": "a18"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -15723,7 +15684,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -15736,7 +15697,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -15746,7 +15707,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15758,32 +15719,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a18"
-          },
-          {
-            "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-            "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
-            "description": "The renewed agreement will become effective next year in April 2027.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T13:00:03.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The renewed agreement will become effective next year in April 2027.",
-            "id": "a20"
+            "id": "a21"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -15793,7 +15734,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a14"
+                "a17"
               ],
               "subCategory": "data-center"
             }
@@ -15808,7 +15749,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -15818,29 +15759,36 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a14"
+            "id": "a17"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Supply Chain (1 article). A total of 11 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (1 article), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
+              "text": "Geopolitics & Export Controls: Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
+              "text": "market-performance: Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a ",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
               "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
               "articleIds": [
-                "a10"
+                "a13"
               ],
               "subCategory": "supply-chain"
             }
@@ -15848,34 +15796,14 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
-            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDFmUmszNzBuZjFOM1ZhOW15ZU5LSm9FTDV2YlJxSnc4VlR3RE9SSDBOSzZrc1ZCMzJlUU52MmY5OTYzVi1IZWZhaUd6Vm9tZ3pETHAwaFBCRXozQjQ2THpvSXBKMjB0R2txbXQ1cGVsQ0ZRV1lNMEdkejYya0J6RVg2LU8taDBtZVd4ZTM5cjI5RmpRNnpDQkNvWVk0dDUtTkVnZExvZGIyZEw5MU8wSktPNWN3dzVDUXdZa3hxU3JYLXRSWnNZTkNqSW5nMWs?oc=5",
-            "description": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T16:05:57.000Z",
-            "fetchedAt": "2026-10-01T16:42:49.546Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Vision Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-            "id": "a1"
-          },
-          {
-            "title": "Nike is set to report earnings after the bell. Here's what to expect",
+            "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
             "url": "https://www.cnbc.com/2026/10/01/nike-nke-q1-2027-earnings.html",
             "description": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
             "source": "CNBC",
             "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T16:00:01.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.618Z",
+            "publishedAt": "2026-10-01T21:05:18.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.105Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15884,70 +15812,120 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
-            "id": "a2"
+            "id": "a1"
           },
           {
-            "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-            "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-            "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. Now, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. Okay: The Verge’s Josh Dzieza on the Utah data center disaster. Here we go. This interview has been lightly edited for length and clarity. Josh Dzieza, you are a features writer here at The Verge. Welcome to Decoder. Thanks for having me. I’m very excited to talk to you. For people who don’t know, Josh has one of the hardest jobs at The Verge. You just disappear for long periods of time, and then you come back with 15,000-word home runs, which is an enormous amount of pressure, but you keep hitting them. It’s a great job. [Verge features editor] Kevin Nguyen might say that editing those 15,000 words down to something manageable is the hardest job, but it’s all fun. The home run we sent you out to get this time was the story of what happened with Kevin O’Leary in Utah, where he promised to build what was going to be the biggest data center in the world. He was all over the news talking about building the biggest data center in the world, it was called Stratos. He was calling the entire development Wonder Valley. This thing fell apart in a bunch of anger from the local community. There’s a defamation lawsuit because O’Leary referred to all of his critics as Chinese spies on Fox News. Fox News had to apologize on the air. Josh, when you started reporting on this story, it struck me that there would be some similarities to the huge feature you wrote about the Foxconn project in Mount Pleasant, Wisconsin, my hometown, where President Trump announced that Foxconn was going to build a massive LCD factory in the middle of Wisconsin. There were supposed to be 13,000 jobs, and none of that happened. Actually, what’s funny about that is now that land is being used for a Microsoft data center, which is just maybe the natural end state of all things. Walk me through the parallels and differences at a high level. What did this feel like to report? I did not expect this to feel so similar to Foxconn initially, because unlike the Foxconn project, the data center buildout is real and at least theoretically can make sense in many cases. These things are actually getting built — unlike an LCD fab in the middle of Wisconsin. It turned out that there are more parallels than I thought. I mean, one, just the actors that you have that takes place mostly with local officials and planning meetings and angry residents and things like that. But also there’s a lot more data centers on paper and speculation, things that are maybe real and maybe not that are more difficult to suss out than I was fully aware of going into data center reporting. Let’s start at the very start of this project. There’s an enormous cast of characters involved. There’s a whole bunch of government agencies, but this starts with people in Utah looking at 40,000 acres of empty space and realizing that something is about to happen. We can start with the beginning of the project, which is several months before anyone had any idea anything was happening, including most people in Utah — except for a handful of people who own property in this remote valley, some people in the state government at this one agency that became involved and a few real estate developers. So everyone except maybe a dozen or so people found out about this project when Kevin O’Leary starts talking about it as an enormous data center that he’s building in Utah called Wonder Valley, or sometimes Stratos, depending on what program word they’re using at the moment. O’Leary comes out in late April and says, “We’re building this giant thing,” and that’s the first time most people in the county, and in the state, had heard about it. How did Kevin O’Leary get the approvals to even begin saying he was going to start building this data center so publicly if no one knew about it? It is partly because it ran through an agency called MIDA (Military Installation Development Authority), which is like a state development agency that deals with projects that have some military purpose. I think the military purpose can be fairly tangential. MIDA has a luxury ski resort that gives veterans discounts, but it began as a way to create projects on military property that was unused or could be put to more economic use. And then the taxes go back to the state, some of which can fund military developments. It also has a lot of power to override local land use. It basically becomes the municipal government in whatever project area it establishes. So if it establishes a project area, in theory, it would really speed up all the permitting and zoning and other regulations that can be a huge problem for data center projects. In order to establish a project area, the board has to ratify it and all the landowners in the area have to give their consent and then the local government — in this case, the county — has to give its consent. The issue with this is by the time Kevin O’Leary is talking about it on Fox in late April, MIDA has approved it. The county has not. The county didn’t even know about it until about a month before this happened. So did Kevin O’Leary just go to this obscure military agency and say, “I need a bunch of land in Utah,” and get it? According to the documents we have, he starts asking around at the state level with the governor in early January. Then, the project gets passed from the governor’s office to MIDA. So in January to February, he’s basically going around, which is not uncommon with these developers, state to state saying, “I want to build a data center, what have you got?” Whoever gives the best pitch, the best, “You can have this property, we’re going to make permitting easy. We have these tax breaks,” wins. This is also quite similar to what we saw with Foxconn, and a lot of big development projects. People do this sort of beauty pageant thing: “We’re auditioning this state, we’re auditioning this state. It’s a race, it’s a competition. Who’s going to win?” So there’s some of that going on there. O’Leary has been very publicly out in front. His big defense of the project is, “Well, states compete with these tax breaks, and Utah gave me these tax breaks.” Somewhere in there is a big disconnect from the actual people living in the area and the process. I mean, that’s the conflict here, that’s the real heart of the story is eventually the people in the area find out this is happening, and they don’t want it to happen and they mount furious pushback. What happened there? It’s a really interesting case with Stratos, where all of the conversations until very late are happening at the developer and state level. In this case, they literally forgot or failed or for some reason did not tell the county government, whose consent they needed, that this was happening until very late. So that happens in late March, and the county commissioners start hearing rumors that apparently there’s a data center coming. They have no idea. They ask around and the state says, “We’re sorry, we forgot to tell you essentially, but we really need your approval fast.” The county commissioners then have a meeting in late April, and that’s when word starts to trickle out, and then MIDA votes to approve it two days later. Over that weekend in late April, you’ve now had two public meetings, there’s local coverage, people start talking about it saying, “Oh, did you hear about the data center?” Several people found out about it at the coffee shop, at the grocery store. They just hear about it on Facebook. They’re like, “Oh, there’s a big data center coming. For some reason, the Shark Tank guy is involved.” That starts to trickle out in late April, when you start to see that conversation happen. No one was happy about it. One of the interesting things about data centers right now is social media is so full of data center backlash stories. People hear “data center” and they know broadly what’s coming, some of which is exaggerated, some which isn’t, but you don’t need to get people up to speed. They realize, “Oh my God, there’s this huge project. They’re saying it’s nine gigawatts and it’s coming to your metaphorical backyard.” This is the big difference in my mind between the Foxconn reporting and the Stratos reporting you did. So many people in Wisconsin were excited about the promise of a giant illusory LCD manufacturing plant that they ignored the very obvious fakery. And in the course of your reporting, you would literally go to empty buildings and point out that they were empty and Foxconn would issue statements saying they were not empty. It was all just built on people’s hope. It was an inkblot test about whether manufacturing could come back to the midwest, and so many people wanted to believe that, that they ignored the obvious realities. In this case, if they had let Kevin O’Leary build a data center, it seems very likely that he would’ve built a data center, but the people there did not want that. It was the very opposite. All of the hopes and dreams were replaced by people’s anger and fear about AI, and maybe what they’d heard on social media. How did that play out in this story? Because that feels like a massive point of departure. Yeah, and Stratos is a really interesting case because it is kind of what you’ve seen play out across the country, but times 100 because Kevin O’Leary and his knack for attention is involved. But the response was immediate. I mean, people found out about it through local coverage. They start organizing to attend the next meeting. It’s already contentious, people are calling out questions. They’re not happy about it, and Kevin O’Leary starts talking up how huge it’s going to be, and it really just escalates. These weird political alignments start to form because everyone is against it. An activist told me something interesting that data centers are the most unifying issue in politics right now, not because people agree on data centers, but because there’s something for everybody to hate. So you have people who are upset for environmental reasons, you have people who are upset about the tax breaks, you have people who are upset about just surveillance fears with AI. You have just everything in there, and people start protesting right away and saying, “We don’t want this.” That’s something you hear all the time at these protests. It’s just really different from any kind of other big development projects, because not only are people acutely aware of the costs, but there’s no pros. It’s not like people are excited for jobs. And Utah is not, unlike Wisconsin, a de-industrialized area. It’s an agricultural community, for the most part. People are not nostalgic for the golden age of manufacturing. They don’t believe any of the job numbers anyone tosses out with data centers, I think rightly for the most part, and there’s just not a lot of upside. Your county taxes might go down in 10 years. It’s just not that exciting compared to where you’re going to have a giant industrial project on the horizon. You talked to a lot of the protesters and a lot of the people who succeeded in having this project scaled down pretty dramatically. Who are these characters? What are they like? There’s a wide range of people. One of the records that I thought was really fascinating that I got came from a kind of state intelligence center, talking to a local sheriff, saying, “Just heads up, it’s in theory a very combustible group of people who’s going to be attending one of these rallies.” You have conservative groups with names like Utah Patriots Alliance and the Great Salt Lake water preservation activists. The report was saying, “Normally these groups just counterprotest each other, but here they’ve all come together for the same purpose, that they hate this data center.” So you have just a very wide spread of people even within one of the key activist groups. It’s a lot of people who weren’t activists before, just local people — some conservative, some progressive, people with environmental concerns, people who are just upset about it. A lot of people are upset about the process, feeling cut out, like this is something that is really offensive to them, that this happened in their county with their county government and that they weren’t told and they weren’t brought into it. They had no say. I think that galvanized a lot of people. But the people I spoke to, they’re mostly residents of the county or sometimes nearby counties, but everyone who was most involved was a resident of the immediate area in Box Elder, not necessarily Hansel Valley, the remote region where the center would be based. When we first started talking about the story and you went off to report it, my assumption was that all of those folks would get steamrolled, because we’ve seen that play out in so many of these other projects around the country. People mount some opposition. The local city council says, “It’s already done. We have an NDA, we can’t even talk about it.” They scoot the meetings to the next one. There’s protests. We’ve seen people get arrested for trying to talk about data centers at their local city council meetings. There was just something about this one in particular. Maybe because it was Kevin O’Leary, this outsized personality, and because it was so big, because the state officials could trumpet the size of the development. It felt to me like it was a foregone conclusion that this project was going to happen over the objections of a handful of people in a very remote part of Utah, and yet they succeeded. Tell us about how they pushed the project back where it is now and how they succeeded, because that seems like the important part. I think the project has definitely been wounded. I don’t know whether it will happen or not, but it doesn’t have the momentum that it had initially. I think there’s a couple reasons for that. One is just the scale of the backlash was so extreme that it took local officials aback. I don’t think anyone anticipated that it was going to be so severe. The way it was announced was: “Kevin O’Leary’s 40,000 acres, nine gigawatts, biggest thing in the world.” Its proximity to Great Salt Lake, which is shrinking and Utah’s in a drought, so that’s extremely sensitive. The developers say it won’t diminish the water going to the lake, but no one believes that. The residents don’t believe that. It was just such a perfect combination of ingredients and it exploded right at the beginning of the Republican primary in the state, so officials are getting asked about it constantly. People are calling their office, they’re showing up at debates. It became the biggest issue in the state, and people ended up losing their seats over it. There were a lot of casualties from the project. You had two local commissioners who lost their seats. There was J. Stuart Adams, who was the Senate president. Multiple sources referred to him as the king of Utah politics. It really sent shock waves through the state that he lost his seat over this. I mean, there were other issues, but he was the MIDA chair, and so he was very much at the center of this project. It really was, I think, a wake-up call for politicians. The project is not dead. Basically what’s happened is local activists filed a referendum trying to repeal the county’s consent, it was rejected by the county, and now it’s being litigated. Everyone has kind of hit pause on it for now until that case gets resolved. But the data center race is all about speed, and now this is looking like it doesn’t have that momentum it had earlier. You’re going to have lawmakers, and even assuming the referendum gets struck down, you have an extremely activated activist organization network that has formed around opposing this data center. It’s not going to have a very easy road ahead of it. You’re going to have lawmakers scrutinizing it, you’re going to have regulators scrutinizing it. There will be other lawsuits. It’s just so unpopular and it’s so infamous. Why would you want to be associated with that project when you have so many other projects out there that you could choose from? There’s a Kevin O’Leary component to all of this where he came out, he was very loud, he was the face of it. He almost didn’t believe that there would be a grassroots backlash to him to build the data center. He did call all of these folks Chinese spies. He had to apologize for that. Fox News, where he said those remarks, had to apologize on air for it. He posted an Instagram apology. Now he’s walked away from it. You sent him a list of questions. This is real inside baseball, but to make a story like this, we do an email called the “no surprises” email where we just say all the things we’re going to say and people are allowed to respond to them. His response to us was to have his lawyers lightly threaten us, like, “Make sure everything’s accurate. We’re not responding to you. Make sure everything’s accurate or something bad will happen.” He went from being the face to being so not wanting to be a part of the story that his lawyers spoke for him. Why do you think that happened? I mean, for one, now he’s in a defamation lawsuit. But I found his arc to be really fascinating as a window into the politics of data centers, because he came out kind of in a maximum conflict, partisan posture. There’s these protests. He immediately starts attacking the protesters. He reads names on Fox News, says that they are being paid by China. O’Leary goes on the offensive against them, and it just doesn’t work. I mean, more than it doesn’t work, it backfires. Many people I spoke to in Utah came out because they were additionally insulted by the idea that they were being accused of being Chinese agents when they’ve lived there for generations. I think on another political issue, maybe he could have gained some support. He’s trying to play this race with China and the nationalist card, but it just didn’t work here and it only mobilized more people against him. He went on Tucker Carlson. Tucker, for the most part, was skeptical of the China argument and kept pressing him on, “Why would anyone want a data center? Why should anyone support this project?” It’s just really interesting to see the degree to which he failed to get any kind of partisan traction on this with that strategy. There’s an interesting parallel here to the CEO of Flock, whose initial defense of Flock was to try to use MAGA talking points, and it also didn’t work. There’s something about the political realignment here that is utterly fascinating to me, and it’s coming right up against the speed that you mentioned, right? There’s an entire industry that is built around trying to acquire money from hyperscalers as fast as possible by getting these deals done, by getting the permits, by going through the process as quickly as possible, and it feels like our politics and that process are in absolute conflict. Talk about that process a little bit, because you would think that they would understand that they’re up against the actual people in these communities not wanting this to happen. I think they understand that now. My sense is they didn’t understand that until surprisingly recently. So the Stratos project is emblematic of a certain type of data center at this moment in kind of I don’t want to say a late-stage, but very well-developed speculative boom, let’s say, where you have random people from tangentially-related industries who are being sucked into the boom and trying to find an angle, trying to find a way into it. So basically, the data center race, if you want to zoom out, is all about speed. You have a handful of hyperscalers who are locked in what they believe to be an existential race to AGI with each other and will spend whatever it takes to win. That means they will spend, right now, whatever it takes not just to build a data center, but to build a data center faster than their rivals. That means you have billions — hundreds of billions, trillions of dollars — flowing into anyone who will get them what they need as fast as possible. So you can watch, over the last two years or so, these different aspects of data center development get totally jammed up. Initially it was, “All these giant data centers need to get connected to the grid.” That’s a slow process. It can take a year, it can take two years, it can take more, even in normal times. So speculative developers start making requests with various utilities and saying, “I’ve got a giant data center. I want to connect it, start the study process.” It jams up the queues. Utilities stop taking new applications. They charge money for them. Wait times get even longer. So, data center developers then go off grid, “behind the meter” is what they call it: “we’re going to build our own power plants.” And it’s always natural gas because that is a faster way to get 24-hour power than all the permitting and logistics involved with a nuclear plant or solar and batteries or something like that. Now, turbines are back ordered for years. So, you have all of these other players who are trying to find ways to get the hyperscalers what they need. It has now coalesced into something called powered land assembly. What these developers do is they look for a bunch of property, try to secure access to power, and then turn around and sell it to a developer to build a data center. It can be very lucrative. These packages can go for 20 times or more what the raw land would cost. Basically what the developer is paying for is speed. Your pitch is basically like, “I’ve got land, it’s already permitted. All you need to do is build the data center, put chips in it and you’re ready to go.” One consequence of that is that you have a lot of announcements. A lot of announcements for developers say, “I’ve got a 10-gigawatt facility here. We’re building this gigantic facility, it’s going to be the biggest data center in the world.” This happens not just with Kevin O’Leary, but also basically what they’re saying is, “Hey Meta, if you wanted to get involved with this, you could have the biggest data center in the world. You could have a 10-gigawatt facility here.” It has that power capacity, maybe it has permitting for that and has the physical footprint for it. It doesn’t mean we have funding to build a 10-gigawatt facility or anything like that. So, you have these so-called paper data centers out there, but it is a symptom of the broader race dynamic. They’re moving as fast as they can. The hyperscalers want to move as fast as they can. So, you have developers who are trying to move as fast as they can. They’re pressuring states to move as fast as they can to put an enticing package together for the developers that they can then turn around and give to the hyperscalers. At no part in this chain are local residents a player. They’re just not there. They’re not part of this system. So, you have something like Stratos, where just no one bothered to tell anyone in Box Elder County that anything was coming. They’re all racing. Their concern is, “Can we get this deal together as fast as possible?” Local residents just don’t come up. So, I think only now that you have projects hitting real roadblocks with people screaming at their commissioners until they don’t rezone areas, now the people are an obstacle to speed. Now developers and hyperscalers are thinking about, “Well, how do we make people more okay with these projects?” It strikes me that one other thing that should be an obstacle to speed here is the basic economics of AI, right? You have these essentially wildcatters trying to find plots of land with a favorable political process that will enable permitting, and they’re going to sell it at 20 times its value to a hyperscaler that will then buy a bunch of Nvidia chips and then do something with AI to generate enough revenue to make all that worth it. I don’t think anybody knows what that is yet. Anthropic’s S-1 just came out. It is unclear from that document what that will be, but no one seems to care. Do these wildcatters just not care? No, no one cares. [Laughs] Fair enough. That was one of the really illuminating things to me. The investor Paul Kedrosky explained what’s happening here and why nobody in the system cares. It’s because these companies that are in this race are some of the most profitable, huge, credit-worthy, triple-A-rated companies of all time. And so- But some of them are not, just to be clear. Some of them are not, yeah, some of them are not. Google and Meta and Amazon are, but OpenAI and Anthropic and the rest are not. Right, and you see, and that is why you have with some recent OpenAI mega-data centers these fairly complicated backstop arrangements with Nvidia and other companies that need to come in and say, “We’re going to be good for the money no matter what happens essentially.” So, what Paul explained was that because no one can pay for these projects, not even the hyperscalers directly — the projects are too huge, too expensive — you have private credit, you have pension funds, and these sorts of entities who are coming in [to finance it]. They see these projects as a reliable return for many years because in their contracts, Meta is good for the money no matter what happens with AI. That’s part of the reason you have this system kind of racing out of control no matter whether people think AI is going to pay for itself or they’re not clear exactly how, but it has self-sustaining velocity at least until the hyperscalers’ credit comes into question. It seems clear that the political backlash might be able to pump the brakes here and that’s where I want to end. But I just want to ask about the financial component of it for one more turn here. Just in your description of that, I can lay out a lot of risks that make Meta not good for the money if this doesn’t pay off, right? If the AI bubble pops, maybe none of these companies have any cash left to pay off these enormous bills. Is anybody taking that into account? I mean no… [Laughs] Sure, okay. [Laughs] No one I spoke to. I mean no one who’s developing Stratos, that is not of their concern. Hopefully the pension funds or investors or credit agencies or somebody, like the government, are thinking about that. But I would say the financial actors, they’re keeping the process moving forward right now, I think. In the defense of whatever is happening here, new capabilities continue to be unlocked with more data centers. So, you can hope that that will continue to be the case and that there will be a path to profitability at some point. Something that I can’t answer is whether there’s a bubble or whether it’s going to pop. I don’t know. I don’t think anyone really knows. So, only time will tell. But I think one thing I was left thinking about with this story is we’re laying down a lot of infrastructure with a really long lifespan out of immediate expediency. We’re building gigantic gas plants in the middle of nowhere because that gets you a data center a year or two faster than some other method. So, you have a question of even if AI is a bubble, you’re going to have a bunch of giant gas plants in the middle of nowhere — somebody called them very expensive refrigerators basically in the middle of the desert. Even if AI works out, is that the best way to build your data center infrastructure totally disconnected from the grid on fossil fuels in the middle of nowhere? This is not necessarily the most thoughtful way to build what’s supposed to be a civilization scale technology. [Laughs] Yeah, that’s not how we do things in America, Josh. I think you know that better than most. Let’s bring this back to Utah just to wrap it up. So, the people on the ground in Box Elder County mounted their opposition, and they succeeded in getting this project scaled back. Kevin O’Leary has receded into the background behind his shield of attorneys. What happens next here? And what can people around the country who are facing this kind of development and either in support of it or in opposition to it take away from this story? What can they learn from it? I mean I think one thing that was striking with Stratos was just the sheer volume of outrage, the response it got from the state and local government. I think politicians still have to get elected. I think people have realized that this issue is so uniquely toxic that you’ve seen even politicians who are quite pro-data center running away from these projects lately in Texas and other places. So, I think that sort of people coming out, people writing their lawmakers, people protesting at commission meetings, I think that more than anything is why Stratos hit the roadblocks it did. I think certainly the referendum and the litigation is kind of the most technical reason it might not move forward, but I also think just the sheer volume of criticism and objection has really branded the project in Utah politics as something undesirable, something you don’t want to be caught blindly supporting. It’s funny because there’s one politician who’s not walked away from data centers: President Trump. The day before we’re talking, President Trump held his White House summit with all the AI leaders and he just confidently said to cameras, “People are going to love data centers.” It is unclear what mechanism will create this love, but he seems to think that that will happen in the end. Has that been a prevailing view in any of your reporting or is that just Trump wanting it to happen? I think it’s Trump wanting it to happen, I don’t know anyone who wants a data center in their backyard. I think that was one of the surprising things to me, that there’s not really a pro-data center constituency other than I guess state officials who see them as an attractive source of tax revenue and the people building them. Even the people who were selling land into the project were saying, “I’ll get paid, but I’m not happy this is coming.” “No one wants these things,” is something that somebody who was supporting the project because their land was part of the package told me. No one wants a data center in their backyard, even people who might directly profit from them. So, I would be very curious how any pro-data center, local constituency would form. I don’t, from my reporting, see a path to that, but it could happen, I suppose. When I talk to various folks in the tech industry, they are very eager to ascribe all this to NIMBYism, which is maybe the most coherent force that cuts across American politics. Just the power of people to say literally no to development anywhere for any reason, whether it is housing in cities or whether it’s data centers in rural areas, the American belief in NIMBYism is strong. Is that a component here? Is it just that’s the tool we have to pull to stop AI? Is it just that’s the lever we get to pull to stop AI and so we’re pulling it as hard as we can? I think there’s certainly an element of NIMBYism behind this. I mean, it’s people who are upset about the idea that this data center is going to ruin the local character. More than that, I think, I don’t know if you could call concerns about environmental impacts NIMBYism, but they’re concerned about air pollution and heat exhaust and things like that. Water use, of course, comes up. So, you have under the umbrella of NIMBYism concerns about how it will impact the place where they live. I think that is probably the overriding thing, more than concerns about AI, that was animating the protests among the people I spoke with. AI came up, and I think this varies depending on the data center and the project and the people who are opposing it. AI didn’t come up that much with Stratos unless I asked about it. I asked people who are like, “Would you feel differently if this data center was for emails or Netflix streaming or something, or an Amazon fulfillment center that used nine gigawatts for some reason?” They would say, “Well, but at least a fulfillment center would create some jobs.” I think that is part of your answer about where AI factors. There’s no pro case, they don’t see a use for a data center, they don’t see a need for AI. “We don’t need this,” is something they say a lot. So it’s just kind of all costs to them. More than anti-AI, I think it’s anti-data center and not pro-AI. This was granted before the agents started hacking everything, and we had a louder conversation about existential risk, but people just didn’t see the point of it. It was just not a project that seemed like it was being done by people with their interests in mind, and it affected them in negative ways for no discernible benefit. I think that’s a lot of the opposition. I think AI can be sort of a vague cloud of things that don’t help them that are wanted by people somewhere else for reasons that are unclear, versus the concrete harms. I heard a lot more about the concrete harms of the data center than I did about AI job loss or anything like that. It seems unlikely that Meta’s Muse agent is going to save enough money for people by searching their email for coupons to overcome that. The consumer products in AI just have not taken off to overcome all of these concerns. This is a question I’ve been asking. If the data centers just said Netflix on them, would you be happier? And it seems like no, even the benefit of having entertainment isn’t enough to overcome the local harms. Yeah, I think they rightly had concerns about a gigantic gas facility in the vicinity, near Great Salt Lake, and the fact that it was AI was more a point against it. The people I spoke with, they used AI, but they would say, “Well, it’s slightly better Google Search,” or, “I use it to make a birthday card,” or something. But why does that mean we need to drop everything to build a gigantic data center right here right now? Why is this a matter of national security that- And why is Kevin O’Leary the face of it? [Laughs] And why is this Canadian tycoon the one to do it was another question. What happens next here? Obviously this project, Stratos, is tied up in litigation, and we’re going to see what happens there. We’ve been covering other big data center projects around the country as part of a larger package we’ve been doing. What do you think the state of the data center buildout is and the temperature of the opposition? I think the temperature is still pretty high. I don’t think people feel better about data centers now than they did in May. The conversation has shifted a little bit more towards the possible dangers of AI itself, and I don’t see how that helps the argument that we need to build as many data centers as possible everywhere. I think the developers and the hyperscalers have become more attuned to the need to try to offer some sort of perks to the local population to not be completely hated. But I don’t see a pro data center constituency forming. I think people will continue to oppose them, I think they will continue to be unpopular. Politicians will be less likely to offer tax breaks to pave the way for them. But I do think they have plenty of options. I mean, Stratos isn’t even the biggest data center project in Utah. There are other paper data centers out there that are ready to be developed if the permitting comes through or they get the turbines or whatever. I don’t know that it will slow the AI buildout at a macro level, but I think it’s certainly created some friction. Well, it’s a great story and I really encourage people to go read it. Josh did an incredible amount of reporting on it. We gave it the full Verge treatment. There’s a thing we do called scrollytelling on the web here at theverge.com, and you can go experience it now. Josh, thank you so much for being on Decoder. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-01T14:00:00.000Z",
-            "fetchedAt": "2026-10-01T16:42:44.215Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks.",
-            "id": "a3"
-          },
-          {
-            "title": "The best early October Prime Day deals happening now",
-            "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-            "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor. This post will be updated a couple more times ahead of October 6th as new deals become available. Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-01T13:35:15.000Z",
-            "fetchedAt": "2026-10-01T16:42:44.215Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor.",
-            "id": "a5"
-          },
-          {
-            "title": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI - time.com",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTE96eWlJRjVQYmRpLXNFMzdPNDRvSFBDNFA4ZHdUbjNxdll2SlVGSlZldUk0U3k1eWtpclZNVlQ4LTMyV01id19KdHEyTkpRc21zcWtZa0dlTlpqWjI1U29iZ09pUjlvU0lwLUlOUjU2elFHZU94VXFsc0dBN0FXaFhoU2M4ZzNLSVNuMnhzbHZXUQ?oc=5",
-            "description": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI time.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
+            "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
+            "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
+            "description": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T10:30:03.000Z",
-            "fetchedAt": "2026-10-01T16:42:49.546Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "time.com",
+            "publishedAt": "2026-10-01T21:00:03.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.492Z",
+            "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Must Simultaneously Compete—and Cooperate—With China on AI time.com",
-            "id": "a9"
+            "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+            "id": "a2"
+          },
+          {
+            "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-01/chinese-state-backed-firm-disclosed-nvidia-blackwell-chips-deal",
+            "description": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T21:00:00.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.492Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
+            "id": "a3"
+          },
+          {
+            "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network",
+            "description": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T19:51:19.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.492Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+            "id": "a4"
+          },
+          {
+            "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
+            "url": "https://ipfray.com/tesla-sun-factory-apparently-at-heart-of-u-s-chinese-semiconductor-technology-patent-infringement-dispute/",
+            "description": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T19:13:42.000Z",
+            "fetchedAt": "2026-10-01T21:25:12.786Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "id": "a5"
+          },
+          {
+            "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
+            "url": "https://www.cnbc.com/2026/10/01/treasury-sanctions-iran-auto-rail.html",
+            "description": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T18:37:16.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.105Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
+            "id": "a6"
+          },
+          {
+            "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-ai-strategy-overcome-180128531.html?.tsrc=rss",
+            "description": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T18:01:28.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+            "id": "a7"
           },
           {
             "title": "US Executive Order On Energy Grid Supply Chain Security",
@@ -15957,7 +15935,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-01T07:01:39.000Z",
-            "fetchedAt": "2026-10-01T16:42:45.114Z",
+            "fetchedAt": "2026-10-01T21:25:09.920Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15966,7 +15944,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-            "id": "a10"
+            "id": "a13"
+          },
+          {
+            "title": "China’s bigger, better batteries",
+            "url": "https://www.ft.com/content/b84778e5-ce8b-4baa-9ca7-402cdf277b4d?syn-25a6b1a6=1",
+            "description": "It’s the world’s fastest-growing power technology — and Beijing is dominant",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T04:00:06.000Z",
+            "fetchedAt": "2026-10-01T21:25:08.786Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "It’s the world’s fastest-growing power technology — and Beijing is dominant",
+            "id": "a14"
           },
           {
             "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -15976,7 +15973,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T03:34:00.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.135Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15985,67 +15982,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-            "id": "a11"
-          },
-          {
-            "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
-            "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T02:24:49.000Z",
-            "fetchedAt": "2026-10-01T16:42:49.546Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "조선일보",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
-            "id": "a12"
-          },
-          {
-            "title": "Huawei boss claims homegrown AI chip sales top Nvidia in China - The Register",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMjJsN0FqMzY3R2dZZHgtcUN0ZjlDYUdHWFpES2d1UkMxbFdmd2VfSmU1eHc1MGotVmg4djFXMTF6VXBaRWhNVE9lRlpPb21aRWE1VDdXcHZDZzBnS2JueVcwc25ld2V5cjQyQzlJLXZqazdlX0hxd2lfNkhHT0hVRXdSUDg0UUNqN1BOUXF6Zy1TYU9McGFMZXZHbFdkRTkwMWxUYkhqQVJXcnJXQmFPaDdTeVh6X0Ry?oc=5",
-            "description": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T20:16:14.000Z",
-            "fetchedAt": "2026-10-01T16:42:49.546Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Register",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Huawei boss claims homegrown AI chip sales top Nvidia in China The Register",
-            "id": "a13"
-          },
-          {
-            "title": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC - JDSupra",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1TOERCelFicGpoMWxpS3k0Uy1qOUpfcU9rbGQ5T09hR0NxTkQ0RFVXN2JucXpKaDMxbGNkbVNtWUp3TktSOGpPc2o2eUQ5aG11bFVHMjNFbjUtZGhuWUhUUUsyYndxX2tnSFJ3S3hZa3ktWHN4alJvUjlpaTRBalU?oc=5",
-            "description": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T17:17:53.000Z",
-            "fetchedAt": "2026-10-01T16:42:49.546Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "JDSupra",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "[Event] Export Controls Symposium: Semiconductors, AI, and Heightened Enforcement - October 21st, Washington, DC JDSupra",
             "id": "a15"
+          },
+          {
+            "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
+            "url": "https://ipwatchdog.com/2026/09/30/cafc-district-court-failed-to-provide-sufficient-reasoning-denying-sanctions-attorneys-fees/",
+            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-30T16:53:56.000Z",
+            "fetchedAt": "2026-10-01T21:25:11.399Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a19"
           },
           {
             "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
@@ -16055,7 +16011,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-29T07:12:52.000Z",
-            "fetchedAt": "2026-10-01T16:42:47.689Z",
+            "fetchedAt": "2026-10-01T21:25:12.786Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16064,12 +16020,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "id": "a22"
+            "id": "a23"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -16079,21 +16035,21 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a17"
+                "a20"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a18"
+                "a21"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a19"
+                "a22"
               ],
               "subCategory": "apple"
             }
@@ -16108,7 +16064,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -16121,7 +16077,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -16131,7 +16087,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -16143,7 +16099,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a18"
+            "id": "a21"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -16153,7 +16109,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -16165,57 +16121,50 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a19"
+            "id": "a22"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-01T16:42:49.584Z",
+        "generatedAt": "2026-10-01T21:25:30.615Z",
         "date": "2026-10-02",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), FRAND & Licensing (2 articles), Semiconductors (1 article). A total of 8 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Data Center (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data cen",
-              "articleIds": [
-                "a3"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
             {
               "text": "Semiconductors: Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
               "articleIds": [
-                "a6"
+                "a10"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a14"
+                "a17"
               ],
               "subCategory": "data-center"
             },
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a17"
+                "a20"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a18"
+                "a21"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a19"
+                "a22"
               ],
               "subCategory": "apple"
             }
@@ -16223,57 +16172,14 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Inside our months-long investigation into Kevin O’Leary’s Utah data center debacle",
-            "url": "https://www.theverge.com/podcast/1002851/utah-ai-data-center-stratos-kevin-oleary-investigation-backlash",
-            "description": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks. Now, the details of what happened with Wonder Valley are obviously fascinating. But the story is also a larger look at the AI industry’s infrastructure boom, the bipartisan backlash to that buildout, and how the tech industry is running into the one obstacle it can’t seem to spend its way out of: local democracy. Okay: The Verge’s Josh Dzieza on the Utah data center disaster. Here we go. This interview has been lightly edited for length and clarity. Josh Dzieza, you are a features writer here at The Verge. Welcome to Decoder. Thanks for having me. I’m very excited to talk to you. For people who don’t know, Josh has one of the hardest jobs at The Verge. You just disappear for long periods of time, and then you come back with 15,000-word home runs, which is an enormous amount of pressure, but you keep hitting them. It’s a great job. [Verge features editor] Kevin Nguyen might say that editing those 15,000 words down to something manageable is the hardest job, but it’s all fun. The home run we sent you out to get this time was the story of what happened with Kevin O’Leary in Utah, where he promised to build what was going to be the biggest data center in the world. He was all over the news talking about building the biggest data center in the world, it was called Stratos. He was calling the entire development Wonder Valley. This thing fell apart in a bunch of anger from the local community. There’s a defamation lawsuit because O’Leary referred to all of his critics as Chinese spies on Fox News. Fox News had to apologize on the air. Josh, when you started reporting on this story, it struck me that there would be some similarities to the huge feature you wrote about the Foxconn project in Mount Pleasant, Wisconsin, my hometown, where President Trump announced that Foxconn was going to build a massive LCD factory in the middle of Wisconsin. There were supposed to be 13,000 jobs, and none of that happened. Actually, what’s funny about that is now that land is being used for a Microsoft data center, which is just maybe the natural end state of all things. Walk me through the parallels and differences at a high level. What did this feel like to report? I did not expect this to feel so similar to Foxconn initially, because unlike the Foxconn project, the data center buildout is real and at least theoretically can make sense in many cases. These things are actually getting built — unlike an LCD fab in the middle of Wisconsin. It turned out that there are more parallels than I thought. I mean, one, just the actors that you have that takes place mostly with local officials and planning meetings and angry residents and things like that. But also there’s a lot more data centers on paper and speculation, things that are maybe real and maybe not that are more difficult to suss out than I was fully aware of going into data center reporting. Let’s start at the very start of this project. There’s an enormous cast of characters involved. There’s a whole bunch of government agencies, but this starts with people in Utah looking at 40,000 acres of empty space and realizing that something is about to happen. We can start with the beginning of the project, which is several months before anyone had any idea anything was happening, including most people in Utah — except for a handful of people who own property in this remote valley, some people in the state government at this one agency that became involved and a few real estate developers. So everyone except maybe a dozen or so people found out about this project when Kevin O’Leary starts talking about it as an enormous data center that he’s building in Utah called Wonder Valley, or sometimes Stratos, depending on what program word they’re using at the moment. O’Leary comes out in late April and says, “We’re building this giant thing,” and that’s the first time most people in the county, and in the state, had heard about it. How did Kevin O’Leary get the approvals to even begin saying he was going to start building this data center so publicly if no one knew about it? It is partly because it ran through an agency called MIDA (Military Installation Development Authority), which is like a state development agency that deals with projects that have some military purpose. I think the military purpose can be fairly tangential. MIDA has a luxury ski resort that gives veterans discounts, but it began as a way to create projects on military property that was unused or could be put to more economic use. And then the taxes go back to the state, some of which can fund military developments. It also has a lot of power to override local land use. It basically becomes the municipal government in whatever project area it establishes. So if it establishes a project area, in theory, it would really speed up all the permitting and zoning and other regulations that can be a huge problem for data center projects. In order to establish a project area, the board has to ratify it and all the landowners in the area have to give their consent and then the local government — in this case, the county — has to give its consent. The issue with this is by the time Kevin O’Leary is talking about it on Fox in late April, MIDA has approved it. The county has not. The county didn’t even know about it until about a month before this happened. So did Kevin O’Leary just go to this obscure military agency and say, “I need a bunch of land in Utah,” and get it? According to the documents we have, he starts asking around at the state level with the governor in early January. Then, the project gets passed from the governor’s office to MIDA. So in January to February, he’s basically going around, which is not uncommon with these developers, state to state saying, “I want to build a data center, what have you got?” Whoever gives the best pitch, the best, “You can have this property, we’re going to make permitting easy. We have these tax breaks,” wins. This is also quite similar to what we saw with Foxconn, and a lot of big development projects. People do this sort of beauty pageant thing: “We’re auditioning this state, we’re auditioning this state. It’s a race, it’s a competition. Who’s going to win?” So there’s some of that going on there. O’Leary has been very publicly out in front. His big defense of the project is, “Well, states compete with these tax breaks, and Utah gave me these tax breaks.” Somewhere in there is a big disconnect from the actual people living in the area and the process. I mean, that’s the conflict here, that’s the real heart of the story is eventually the people in the area find out this is happening, and they don’t want it to happen and they mount furious pushback. What happened there? It’s a really interesting case with Stratos, where all of the conversations until very late are happening at the developer and state level. In this case, they literally forgot or failed or for some reason did not tell the county government, whose consent they needed, that this was happening until very late. So that happens in late March, and the county commissioners start hearing rumors that apparently there’s a data center coming. They have no idea. They ask around and the state says, “We’re sorry, we forgot to tell you essentially, but we really need your approval fast.” The county commissioners then have a meeting in late April, and that’s when word starts to trickle out, and then MIDA votes to approve it two days later. Over that weekend in late April, you’ve now had two public meetings, there’s local coverage, people start talking about it saying, “Oh, did you hear about the data center?” Several people found out about it at the coffee shop, at the grocery store. They just hear about it on Facebook. They’re like, “Oh, there’s a big data center coming. For some reason, the Shark Tank guy is involved.” That starts to trickle out in late April, when you start to see that conversation happen. No one was happy about it. One of the interesting things about data centers right now is social media is so full of data center backlash stories. People hear “data center” and they know broadly what’s coming, some of which is exaggerated, some which isn’t, but you don’t need to get people up to speed. They realize, “Oh my God, there’s this huge project. They’re saying it’s nine gigawatts and it’s coming to your metaphorical backyard.” This is the big difference in my mind between the Foxconn reporting and the Stratos reporting you did. So many people in Wisconsin were excited about the promise of a giant illusory LCD manufacturing plant that they ignored the very obvious fakery. And in the course of your reporting, you would literally go to empty buildings and point out that they were empty and Foxconn would issue statements saying they were not empty. It was all just built on people’s hope. It was an inkblot test about whether manufacturing could come back to the midwest, and so many people wanted to believe that, that they ignored the obvious realities. In this case, if they had let Kevin O’Leary build a data center, it seems very likely that he would’ve built a data center, but the people there did not want that. It was the very opposite. All of the hopes and dreams were replaced by people’s anger and fear about AI, and maybe what they’d heard on social media. How did that play out in this story? Because that feels like a massive point of departure. Yeah, and Stratos is a really interesting case because it is kind of what you’ve seen play out across the country, but times 100 because Kevin O’Leary and his knack for attention is involved. But the response was immediate. I mean, people found out about it through local coverage. They start organizing to attend the next meeting. It’s already contentious, people are calling out questions. They’re not happy about it, and Kevin O’Leary starts talking up how huge it’s going to be, and it really just escalates. These weird political alignments start to form because everyone is against it. An activist told me something interesting that data centers are the most unifying issue in politics right now, not because people agree on data centers, but because there’s something for everybody to hate. So you have people who are upset for environmental reasons, you have people who are upset about the tax breaks, you have people who are upset about just surveillance fears with AI. You have just everything in there, and people start protesting right away and saying, “We don’t want this.” That’s something you hear all the time at these protests. It’s just really different from any kind of other big development projects, because not only are people acutely aware of the costs, but there’s no pros. It’s not like people are excited for jobs. And Utah is not, unlike Wisconsin, a de-industrialized area. It’s an agricultural community, for the most part. People are not nostalgic for the golden age of manufacturing. They don’t believe any of the job numbers anyone tosses out with data centers, I think rightly for the most part, and there’s just not a lot of upside. Your county taxes might go down in 10 years. It’s just not that exciting compared to where you’re going to have a giant industrial project on the horizon. You talked to a lot of the protesters and a lot of the people who succeeded in having this project scaled down pretty dramatically. Who are these characters? What are they like? There’s a wide range of people. One of the records that I thought was really fascinating that I got came from a kind of state intelligence center, talking to a local sheriff, saying, “Just heads up, it’s in theory a very combustible group of people who’s going to be attending one of these rallies.” You have conservative groups with names like Utah Patriots Alliance and the Great Salt Lake water preservation activists. The report was saying, “Normally these groups just counterprotest each other, but here they’ve all come together for the same purpose, that they hate this data center.” So you have just a very wide spread of people even within one of the key activist groups. It’s a lot of people who weren’t activists before, just local people — some conservative, some progressive, people with environmental concerns, people who are just upset about it. A lot of people are upset about the process, feeling cut out, like this is something that is really offensive to them, that this happened in their county with their county government and that they weren’t told and they weren’t brought into it. They had no say. I think that galvanized a lot of people. But the people I spoke to, they’re mostly residents of the county or sometimes nearby counties, but everyone who was most involved was a resident of the immediate area in Box Elder, not necessarily Hansel Valley, the remote region where the center would be based. When we first started talking about the story and you went off to report it, my assumption was that all of those folks would get steamrolled, because we’ve seen that play out in so many of these other projects around the country. People mount some opposition. The local city council says, “It’s already done. We have an NDA, we can’t even talk about it.” They scoot the meetings to the next one. There’s protests. We’ve seen people get arrested for trying to talk about data centers at their local city council meetings. There was just something about this one in particular. Maybe because it was Kevin O’Leary, this outsized personality, and because it was so big, because the state officials could trumpet the size of the development. It felt to me like it was a foregone conclusion that this project was going to happen over the objections of a handful of people in a very remote part of Utah, and yet they succeeded. Tell us about how they pushed the project back where it is now and how they succeeded, because that seems like the important part. I think the project has definitely been wounded. I don’t know whether it will happen or not, but it doesn’t have the momentum that it had initially. I think there’s a couple reasons for that. One is just the scale of the backlash was so extreme that it took local officials aback. I don’t think anyone anticipated that it was going to be so severe. The way it was announced was: “Kevin O’Leary’s 40,000 acres, nine gigawatts, biggest thing in the world.” Its proximity to Great Salt Lake, which is shrinking and Utah’s in a drought, so that’s extremely sensitive. The developers say it won’t diminish the water going to the lake, but no one believes that. The residents don’t believe that. It was just such a perfect combination of ingredients and it exploded right at the beginning of the Republican primary in the state, so officials are getting asked about it constantly. People are calling their office, they’re showing up at debates. It became the biggest issue in the state, and people ended up losing their seats over it. There were a lot of casualties from the project. You had two local commissioners who lost their seats. There was J. Stuart Adams, who was the Senate president. Multiple sources referred to him as the king of Utah politics. It really sent shock waves through the state that he lost his seat over this. I mean, there were other issues, but he was the MIDA chair, and so he was very much at the center of this project. It really was, I think, a wake-up call for politicians. The project is not dead. Basically what’s happened is local activists filed a referendum trying to repeal the county’s consent, it was rejected by the county, and now it’s being litigated. Everyone has kind of hit pause on it for now until that case gets resolved. But the data center race is all about speed, and now this is looking like it doesn’t have that momentum it had earlier. You’re going to have lawmakers, and even assuming the referendum gets struck down, you have an extremely activated activist organization network that has formed around opposing this data center. It’s not going to have a very easy road ahead of it. You’re going to have lawmakers scrutinizing it, you’re going to have regulators scrutinizing it. There will be other lawsuits. It’s just so unpopular and it’s so infamous. Why would you want to be associated with that project when you have so many other projects out there that you could choose from? There’s a Kevin O’Leary component to all of this where he came out, he was very loud, he was the face of it. He almost didn’t believe that there would be a grassroots backlash to him to build the data center. He did call all of these folks Chinese spies. He had to apologize for that. Fox News, where he said those remarks, had to apologize on air for it. He posted an Instagram apology. Now he’s walked away from it. You sent him a list of questions. This is real inside baseball, but to make a story like this, we do an email called the “no surprises” email where we just say all the things we’re going to say and people are allowed to respond to them. His response to us was to have his lawyers lightly threaten us, like, “Make sure everything’s accurate. We’re not responding to you. Make sure everything’s accurate or something bad will happen.” He went from being the face to being so not wanting to be a part of the story that his lawyers spoke for him. Why do you think that happened? I mean, for one, now he’s in a defamation lawsuit. But I found his arc to be really fascinating as a window into the politics of data centers, because he came out kind of in a maximum conflict, partisan posture. There’s these protests. He immediately starts attacking the protesters. He reads names on Fox News, says that they are being paid by China. O’Leary goes on the offensive against them, and it just doesn’t work. I mean, more than it doesn’t work, it backfires. Many people I spoke to in Utah came out because they were additionally insulted by the idea that they were being accused of being Chinese agents when they’ve lived there for generations. I think on another political issue, maybe he could have gained some support. He’s trying to play this race with China and the nationalist card, but it just didn’t work here and it only mobilized more people against him. He went on Tucker Carlson. Tucker, for the most part, was skeptical of the China argument and kept pressing him on, “Why would anyone want a data center? Why should anyone support this project?” It’s just really interesting to see the degree to which he failed to get any kind of partisan traction on this with that strategy. There’s an interesting parallel here to the CEO of Flock, whose initial defense of Flock was to try to use MAGA talking points, and it also didn’t work. There’s something about the political realignment here that is utterly fascinating to me, and it’s coming right up against the speed that you mentioned, right? There’s an entire industry that is built around trying to acquire money from hyperscalers as fast as possible by getting these deals done, by getting the permits, by going through the process as quickly as possible, and it feels like our politics and that process are in absolute conflict. Talk about that process a little bit, because you would think that they would understand that they’re up against the actual people in these communities not wanting this to happen. I think they understand that now. My sense is they didn’t understand that until surprisingly recently. So the Stratos project is emblematic of a certain type of data center at this moment in kind of I don’t want to say a late-stage, but very well-developed speculative boom, let’s say, where you have random people from tangentially-related industries who are being sucked into the boom and trying to find an angle, trying to find a way into it. So basically, the data center race, if you want to zoom out, is all about speed. You have a handful of hyperscalers who are locked in what they believe to be an existential race to AGI with each other and will spend whatever it takes to win. That means they will spend, right now, whatever it takes not just to build a data center, but to build a data center faster than their rivals. That means you have billions — hundreds of billions, trillions of dollars — flowing into anyone who will get them what they need as fast as possible. So you can watch, over the last two years or so, these different aspects of data center development get totally jammed up. Initially it was, “All these giant data centers need to get connected to the grid.” That’s a slow process. It can take a year, it can take two years, it can take more, even in normal times. So speculative developers start making requests with various utilities and saying, “I’ve got a giant data center. I want to connect it, start the study process.” It jams up the queues. Utilities stop taking new applications. They charge money for them. Wait times get even longer. So, data center developers then go off grid, “behind the meter” is what they call it: “we’re going to build our own power plants.” And it’s always natural gas because that is a faster way to get 24-hour power than all the permitting and logistics involved with a nuclear plant or solar and batteries or something like that. Now, turbines are back ordered for years. So, you have all of these other players who are trying to find ways to get the hyperscalers what they need. It has now coalesced into something called powered land assembly. What these developers do is they look for a bunch of property, try to secure access to power, and then turn around and sell it to a developer to build a data center. It can be very lucrative. These packages can go for 20 times or more what the raw land would cost. Basically what the developer is paying for is speed. Your pitch is basically like, “I’ve got land, it’s already permitted. All you need to do is build the data center, put chips in it and you’re ready to go.” One consequence of that is that you have a lot of announcements. A lot of announcements for developers say, “I’ve got a 10-gigawatt facility here. We’re building this gigantic facility, it’s going to be the biggest data center in the world.” This happens not just with Kevin O’Leary, but also basically what they’re saying is, “Hey Meta, if you wanted to get involved with this, you could have the biggest data center in the world. You could have a 10-gigawatt facility here.” It has that power capacity, maybe it has permitting for that and has the physical footprint for it. It doesn’t mean we have funding to build a 10-gigawatt facility or anything like that. So, you have these so-called paper data centers out there, but it is a symptom of the broader race dynamic. They’re moving as fast as they can. The hyperscalers want to move as fast as they can. So, you have developers who are trying to move as fast as they can. They’re pressuring states to move as fast as they can to put an enticing package together for the developers that they can then turn around and give to the hyperscalers. At no part in this chain are local residents a player. They’re just not there. They’re not part of this system. So, you have something like Stratos, where just no one bothered to tell anyone in Box Elder County that anything was coming. They’re all racing. Their concern is, “Can we get this deal together as fast as possible?” Local residents just don’t come up. So, I think only now that you have projects hitting real roadblocks with people screaming at their commissioners until they don’t rezone areas, now the people are an obstacle to speed. Now developers and hyperscalers are thinking about, “Well, how do we make people more okay with these projects?” It strikes me that one other thing that should be an obstacle to speed here is the basic economics of AI, right? You have these essentially wildcatters trying to find plots of land with a favorable political process that will enable permitting, and they’re going to sell it at 20 times its value to a hyperscaler that will then buy a bunch of Nvidia chips and then do something with AI to generate enough revenue to make all that worth it. I don’t think anybody knows what that is yet. Anthropic’s S-1 just came out. It is unclear from that document what that will be, but no one seems to care. Do these wildcatters just not care? No, no one cares. [Laughs] Fair enough. That was one of the really illuminating things to me. The investor Paul Kedrosky explained what’s happening here and why nobody in the system cares. It’s because these companies that are in this race are some of the most profitable, huge, credit-worthy, triple-A-rated companies of all time. And so- But some of them are not, just to be clear. Some of them are not, yeah, some of them are not. Google and Meta and Amazon are, but OpenAI and Anthropic and the rest are not. Right, and you see, and that is why you have with some recent OpenAI mega-data centers these fairly complicated backstop arrangements with Nvidia and other companies that need to come in and say, “We’re going to be good for the money no matter what happens essentially.” So, what Paul explained was that because no one can pay for these projects, not even the hyperscalers directly — the projects are too huge, too expensive — you have private credit, you have pension funds, and these sorts of entities who are coming in [to finance it]. They see these projects as a reliable return for many years because in their contracts, Meta is good for the money no matter what happens with AI. That’s part of the reason you have this system kind of racing out of control no matter whether people think AI is going to pay for itself or they’re not clear exactly how, but it has self-sustaining velocity at least until the hyperscalers’ credit comes into question. It seems clear that the political backlash might be able to pump the brakes here and that’s where I want to end. But I just want to ask about the financial component of it for one more turn here. Just in your description of that, I can lay out a lot of risks that make Meta not good for the money if this doesn’t pay off, right? If the AI bubble pops, maybe none of these companies have any cash left to pay off these enormous bills. Is anybody taking that into account? I mean no… [Laughs] Sure, okay. [Laughs] No one I spoke to. I mean no one who’s developing Stratos, that is not of their concern. Hopefully the pension funds or investors or credit agencies or somebody, like the government, are thinking about that. But I would say the financial actors, they’re keeping the process moving forward right now, I think. In the defense of whatever is happening here, new capabilities continue to be unlocked with more data centers. So, you can hope that that will continue to be the case and that there will be a path to profitability at some point. Something that I can’t answer is whether there’s a bubble or whether it’s going to pop. I don’t know. I don’t think anyone really knows. So, only time will tell. But I think one thing I was left thinking about with this story is we’re laying down a lot of infrastructure with a really long lifespan out of immediate expediency. We’re building gigantic gas plants in the middle of nowhere because that gets you a data center a year or two faster than some other method. So, you have a question of even if AI is a bubble, you’re going to have a bunch of giant gas plants in the middle of nowhere — somebody called them very expensive refrigerators basically in the middle of the desert. Even if AI works out, is that the best way to build your data center infrastructure totally disconnected from the grid on fossil fuels in the middle of nowhere? This is not necessarily the most thoughtful way to build what’s supposed to be a civilization scale technology. [Laughs] Yeah, that’s not how we do things in America, Josh. I think you know that better than most. Let’s bring this back to Utah just to wrap it up. So, the people on the ground in Box Elder County mounted their opposition, and they succeeded in getting this project scaled back. Kevin O’Leary has receded into the background behind his shield of attorneys. What happens next here? And what can people around the country who are facing this kind of development and either in support of it or in opposition to it take away from this story? What can they learn from it? I mean I think one thing that was striking with Stratos was just the sheer volume of outrage, the response it got from the state and local government. I think politicians still have to get elected. I think people have realized that this issue is so uniquely toxic that you’ve seen even politicians who are quite pro-data center running away from these projects lately in Texas and other places. So, I think that sort of people coming out, people writing their lawmakers, people protesting at commission meetings, I think that more than anything is why Stratos hit the roadblocks it did. I think certainly the referendum and the litigation is kind of the most technical reason it might not move forward, but I also think just the sheer volume of criticism and objection has really branded the project in Utah politics as something undesirable, something you don’t want to be caught blindly supporting. It’s funny because there’s one politician who’s not walked away from data centers: President Trump. The day before we’re talking, President Trump held his White House summit with all the AI leaders and he just confidently said to cameras, “People are going to love data centers.” It is unclear what mechanism will create this love, but he seems to think that that will happen in the end. Has that been a prevailing view in any of your reporting or is that just Trump wanting it to happen? I think it’s Trump wanting it to happen, I don’t know anyone who wants a data center in their backyard. I think that was one of the surprising things to me, that there’s not really a pro-data center constituency other than I guess state officials who see them as an attractive source of tax revenue and the people building them. Even the people who were selling land into the project were saying, “I’ll get paid, but I’m not happy this is coming.” “No one wants these things,” is something that somebody who was supporting the project because their land was part of the package told me. No one wants a data center in their backyard, even people who might directly profit from them. So, I would be very curious how any pro-data center, local constituency would form. I don’t, from my reporting, see a path to that, but it could happen, I suppose. When I talk to various folks in the tech industry, they are very eager to ascribe all this to NIMBYism, which is maybe the most coherent force that cuts across American politics. Just the power of people to say literally no to development anywhere for any reason, whether it is housing in cities or whether it’s data centers in rural areas, the American belief in NIMBYism is strong. Is that a component here? Is it just that’s the tool we have to pull to stop AI? Is it just that’s the lever we get to pull to stop AI and so we’re pulling it as hard as we can? I think there’s certainly an element of NIMBYism behind this. I mean, it’s people who are upset about the idea that this data center is going to ruin the local character. More than that, I think, I don’t know if you could call concerns about environmental impacts NIMBYism, but they’re concerned about air pollution and heat exhaust and things like that. Water use, of course, comes up. So, you have under the umbrella of NIMBYism concerns about how it will impact the place where they live. I think that is probably the overriding thing, more than concerns about AI, that was animating the protests among the people I spoke with. AI came up, and I think this varies depending on the data center and the project and the people who are opposing it. AI didn’t come up that much with Stratos unless I asked about it. I asked people who are like, “Would you feel differently if this data center was for emails or Netflix streaming or something, or an Amazon fulfillment center that used nine gigawatts for some reason?” They would say, “Well, but at least a fulfillment center would create some jobs.” I think that is part of your answer about where AI factors. There’s no pro case, they don’t see a use for a data center, they don’t see a need for AI. “We don’t need this,” is something they say a lot. So it’s just kind of all costs to them. More than anti-AI, I think it’s anti-data center and not pro-AI. This was granted before the agents started hacking everything, and we had a louder conversation about existential risk, but people just didn’t see the point of it. It was just not a project that seemed like it was being done by people with their interests in mind, and it affected them in negative ways for no discernible benefit. I think that’s a lot of the opposition. I think AI can be sort of a vague cloud of things that don’t help them that are wanted by people somewhere else for reasons that are unclear, versus the concrete harms. I heard a lot more about the concrete harms of the data center than I did about AI job loss or anything like that. It seems unlikely that Meta’s Muse agent is going to save enough money for people by searching their email for coupons to overcome that. The consumer products in AI just have not taken off to overcome all of these concerns. This is a question I’ve been asking. If the data centers just said Netflix on them, would you be happier? And it seems like no, even the benefit of having entertainment isn’t enough to overcome the local harms. Yeah, I think they rightly had concerns about a gigantic gas facility in the vicinity, near Great Salt Lake, and the fact that it was AI was more a point against it. The people I spoke with, they used AI, but they would say, “Well, it’s slightly better Google Search,” or, “I use it to make a birthday card,” or something. But why does that mean we need to drop everything to build a gigantic data center right here right now? Why is this a matter of national security that- And why is Kevin O’Leary the face of it? [Laughs] And why is this Canadian tycoon the one to do it was another question. What happens next here? Obviously this project, Stratos, is tied up in litigation, and we’re going to see what happens there. We’ve been covering other big data center projects around the country as part of a larger package we’ve been doing. What do you think the state of the data center buildout is and the temperature of the opposition? I think the temperature is still pretty high. I don’t think people feel better about data centers now than they did in May. The conversation has shifted a little bit more towards the possible dangers of AI itself, and I don’t see how that helps the argument that we need to build as many data centers as possible everywhere. I think the developers and the hyperscalers have become more attuned to the need to try to offer some sort of perks to the local population to not be completely hated. But I don’t see a pro data center constituency forming. I think people will continue to oppose them, I think they will continue to be unpopular. Politicians will be less likely to offer tax breaks to pave the way for them. But I do think they have plenty of options. I mean, Stratos isn’t even the biggest data center project in Utah. There are other paper data centers out there that are ready to be developed if the permitting comes through or they get the turbines or whatever. I don’t know that it will slow the AI buildout at a macro level, but I think it’s certainly created some friction. Well, it’s a great story and I really encourage people to go read it. Josh did an incredible amount of reporting on it. We gave it the full Verge treatment. There’s a thing we do called scrollytelling on the web here at theverge.com, and you can go experience it now. Josh, thank you so much for being on Decoder. Thank you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-01T14:00:00.000Z",
-            "fetchedAt": "2026-10-01T16:42:44.215Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Today I’m talking with Josh Dzieza, a longtime features writer here at The Verge, about Kevin O’Leary’s plans to build a massive data center in Utah. The idea was to build the world’s biggest data center — a 40,000-acre AI campus with nine gigawatts of power, or more than double the average power usage of the entire state of Utah. The project is technically called Stratos, but it’s more prominently known as Wonder Valley, a reference to O’Leary’s nickname on Shark Tank. Josh has spent months reporting on this project, and it’s fair to say Wonder Valley has completely upended Utah politics. What Josh found throughout the course of his reporting was that the way this data center came together — how it was planned, how it was announced and approved, and how local residents were kept in the dark — ultimately created a political firestorm so severe it stopped Stratos in its tracks.",
-            "id": "a3"
-          },
-          {
-            "title": "The best early October Prime Day deals happening now",
-            "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-            "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor. This post will be updated a couple more times ahead of October 6th as new deals become available. Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-01T13:35:15.000Z",
-            "fetchedAt": "2026-10-01T16:42:44.215Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 1st added a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor.",
-            "id": "a5"
-          },
-          {
             "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-            "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+            "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
             "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-01T16:42:46.061Z",
+            "fetchedAt": "2026-10-01T21:25:10.863Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -16283,7 +16189,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a6"
+            "id": "a10"
           },
           {
             "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -16293,7 +16199,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -16303,7 +16209,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a14"
+            "id": "a17"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -16313,7 +16219,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -16326,7 +16232,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -16336,7 +16242,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -16348,7 +16254,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a18"
+            "id": "a21"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -16358,7 +16264,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
+            "fetchedAt": "2026-10-01T21:25:08.134Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -16370,32 +16276,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a19"
-          },
-          {
-            "title": "How to Play QCOM Stock as Apple Renews Licensing Agreement With Qualcomm",
-            "url": "https://www.barchart.com/story/news/4879865/how-to-play-qcom-stock-as-apple-renews-licensing-agreement-with-qualcomm?.tsrc=rss",
-            "description": "The renewed agreement will become effective next year in April 2027.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T13:00:03.000Z",
-            "fetchedAt": "2026-10-01T16:42:43.654Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The renewed agreement will become effective next year in April 2027.",
-            "id": "a20"
+            "id": "a22"
           }
         ]
       }
     },
-    "totalArticles": 32
+    "totalArticles": 30
   }
 };
 

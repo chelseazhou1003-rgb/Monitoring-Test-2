@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-01T16:42:49.584Z",
+  "generatedAt": "2026-10-01T21:25:30.615Z",
   "date": "2026-10-02",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -7,22 +7,40 @@
     "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+        "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "semiconductors"
-      },
-      {
-        "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-        "articleIds": [
-          "a21"
+          "a8"
         ],
         "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+      "url": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+      "description": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+      "source": "EE Times",
+      "sourceId": "eetimes",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-10-01T17:31:45.000Z",
+      "fetchedAt": "2026-10-01T21:25:09.063Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+      "id": "a8"
+    },
     {
       "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
       "url": "https://www.independent.co.uk/tech/qualcomm-smart-glasses-ai-cristiano-amon-b3059807.html?.tsrc=rss",
@@ -31,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T13:59:34.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
+      "fetchedAt": "2026-10-01T21:25:08.134Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,17 +57,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-      "id": "a4"
+      "id": "a9"
     },
     {
       "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-      "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+      "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
       "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-01T16:42:46.061Z",
+      "fetchedAt": "2026-10-01T21:25:10.863Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -59,17 +77,17 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a6"
+      "id": "a10"
     },
     {
       "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
-      "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+      "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
       "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:21:48.000Z",
-      "fetchedAt": "2026-10-01T16:42:46.061Z",
+      "fetchedAt": "2026-10-01T21:25:10.863Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,25 +95,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-      "id": "a7"
-    },
-    {
-      "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-      "description": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-09-30T12:20:01.000Z",
-      "fetchedAt": "2026-10-01T16:42:43.654Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-      "id": "a21"
+      "id": "a11"
     }
   ]
 }
