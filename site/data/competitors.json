@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:13:29.959Z",
+  "generatedAt": "2026-10-01T02:28:36.393Z",
   "date": "2026-10-01",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,21 +9,21 @@
       {
         "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
         "articleIds": [
-          "a8"
+          "a10"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
         "articleIds": [
-          "a9"
+          "a11"
         ],
         "subCategory": "ip"
       },
       {
         "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
         "articleIds": [
-          "a10"
+          "a12"
         ],
         "subCategory": "apple"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T16:19:30.000Z",
-      "fetchedAt": "2026-09-30T23:13:24.544Z",
+      "fetchedAt": "2026-10-01T02:28:29.904Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -51,7 +51,7 @@
         "platform-partner"
       ],
       "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -61,7 +61,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T15:09:17.000Z",
-      "fetchedAt": "2026-09-30T23:13:24.544Z",
+      "fetchedAt": "2026-10-01T02:28:29.904Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -73,7 +73,7 @@
         "oem"
       ],
       "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-      "id": "a9"
+      "id": "a11"
     },
     {
       "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -83,7 +83,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T14:45:08.000Z",
-      "fetchedAt": "2026-09-30T23:13:24.544Z",
+      "fetchedAt": "2026-10-01T02:28:29.904Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "apple",
@@ -95,7 +95,7 @@
         "oem"
       ],
       "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-      "id": "a10"
+      "id": "a12"
     }
   ]
 }

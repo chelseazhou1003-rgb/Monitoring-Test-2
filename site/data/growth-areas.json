@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-30T23:13:29.959Z",
+  "generatedAt": "2026-10-01T02:28:36.393Z",
   "date": "2026-10-01",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
         "articleIds": [
-          "a2"
+          "a5"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T18:51:54.000Z",
-      "fetchedAt": "2026-09-30T23:13:24.544Z",
+      "fetchedAt": "2026-10-01T02:28:29.904Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-      "id": "a2"
+      "id": "a5"
     }
   ]
 }
