@@ -1,29 +1,22 @@
 {
-  "generatedAt": "2026-10-02T14:10:04.802Z",
-  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T19:33:14.846Z",
+  "date": "2026-10-03",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Data Center (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a2"
+          "a5"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Geopolitics & Export Controls: Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO ",
-        "articleIds": [
-          "a5"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
         "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
         "articleIds": [
-          "a31"
+          "a28"
         ],
         "subCategory": "data-center"
       }
@@ -38,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.166Z",
+      "fetchedAt": "2026-10-02T19:33:07.417Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -49,27 +42,6 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a2"
-    },
-    {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "description": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance. \"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-02T11:52:20.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.763Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance. \"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s … Read the full story at The Verge.",
       "id": "a5"
     },
     {
@@ -80,7 +52,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-02T14:10:01.223Z",
+      "fetchedAt": "2026-10-02T19:33:10.004Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -90,7 +62,7 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a26"
+      "id": "a23"
     },
     {
       "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -100,7 +72,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-09-30T18:51:54.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.166Z",
+      "fetchedAt": "2026-10-02T19:33:07.417Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -110,7 +82,7 @@
         "oem"
       ],
       "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-      "id": "a31"
+      "id": "a28"
     }
   ]
 }

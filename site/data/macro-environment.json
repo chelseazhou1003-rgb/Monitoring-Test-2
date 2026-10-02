@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-02T14:10:04.802Z",
-  "date": "2026-10-02",
+  "generatedAt": "2026-10-02T19:33:14.846Z",
+  "date": "2026-10-03",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (2 articles). A total of 24 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: US arrests man over alleged smuggling of $300 million worth of computer servers to China Khaleej Times",
+        "text": "Geopolitics & Export Controls: Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
         "articleIds": [
           "a1"
         ],
@@ -16,13 +16,72 @@
       {
         "text": "market-performance: Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
         "articleIds": [
-          "a4"
+          "a7"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter - CCIA",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGc0QXRNVExJRTZ6Mk9LbFhaR0oxZFNyOTVNX0U1cXk2dmgxRW5Ma1ROZGNxRzNwNmd1UmJGcWJQMkMxdk03WEJUeE9aT2JKSHZBQ3ZPSWhWUk9kaDI4YUR0dWY4bTEyNWpnNHYyeUFwQ2QtVzhQNXdVb0hETGhIU1JDNVU0VFkwUkRQM3ZGdVA1cXZaWWFYSFRRcGl5OTlsUUxmOHhOajZqTzE1YXBwREJacHBmbHEwbEhJVWU4dnhVd2Myc0lPQTRsWmFxUjdkVVE?oc=5",
+      "description": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-02T18:48:16.000Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "CCIA",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
+      "id": "a1"
+    },
+    {
+      "title": "California man smuggled $300 million in Nvidia chips to China, prosecutors say - Business Insider",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJtOFFla1RVaDJqWWNWeEVfdWFWZDlrS1BKcGoxVXMtN3pRS3p2WkVHYmhSM1BzNzFKNzJJQ1lhT3dUdHQxS2tYSEVWcExxVExRTXF6ZXpyS1ZHYWlpOEJJRFl4dm5EOHhROTVDN19mS003SGdUUDd6MGlzR3hxdDJscHVHMnVaaVp1TTBHbS03YnE5YmV6UkpjQQ?oc=5",
+      "description": "California man smuggled $300 million in Nvidia chips to China, prosecutors say Business Insider",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-02T16:08:00.000Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Business Insider",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "California man smuggled $300 million in Nvidia chips to China, prosecutors say Business Insider",
+      "id": "a2"
+    },
+    {
+      "title": "China targets 1M 50G-PON ports by 2030",
+      "url": "https://www.lightreading.com/optical-networking/china-targets-1m-50g-pon-ports-by-2030",
+      "description": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+      "source": "Light Reading",
+      "sourceId": "light-reading",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-02T14:12:21.000Z",
+      "fetchedAt": "2026-10-02T19:33:11.888Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+      "id": "a3"
+    },
     {
       "title": "US arrests man over alleged smuggling of $300 million worth of computer servers to China - Khaleej Times",
       "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOS1pxLTJhbkFZXzBMYUFWMV9wZ25VOWZnUnFKeXNYS3hUc1RoRWpaMkhPRVM4MGlzaktlQ1h2Vmw2RTdwSjMweUhlRDg1VDloeEJ1TmU1bW9OeWRnOFJfc3EwRUhob0U5UUhKWG1OYTZLMlhXT190eDJmbVlhdU5LWWZjRnN5VU95MlZNWmVlVUNmOEZYR1htQ1M5TUlOeXBNLUhQSmtsRnYtMFFnTkI2NFA5RkNWb0NBVWZNSzhyVFI0aXZKVE1kNzhpYzh1d9IB1gFBVV95cUxQNnRJbFg3OUN2SlBCSlAtaWpPMEVfWDEtbGRJanFNRi03dnFSTjFkeUU3S0FyekxPWllVNVRFajR0RlBabk16T2tMV3dMXzhINkxncXdzMjRZTU5WYnBGaHI3cHBBNkd2VkdodW93Zm9BME5sV0FscUxVY3pyR1phQ0RIWW1YQ2dzdThXNThVQUxXVkozNmtwMER4X1dranl6eDRzUFFqcUExdjlzSzJaVkNvS3lOQkU2MjJVazlvLTh3RVpBQXBWdWk2MEkwQW9DWFMxMjBn?oc=5",
@@ -31,7 +90,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T13:48:18.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Khaleej Times",
       "geopoliticalBypass": true,
@@ -41,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US arrests man over alleged smuggling of $300 million worth of computer servers to China Khaleej Times",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Big Pharma’s China deal spree grows with latest tie-up worth up to $7.8 billion",
@@ -51,7 +110,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:31:46.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.112Z",
+      "fetchedAt": "2026-10-02T19:33:07.200Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -60,7 +119,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Western biopharma companies are increasingly turning to China to source innovation, as pharma's dreaded \"patent cliff\" draws closer.",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -70,7 +129,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:00:06.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.166Z",
+      "fetchedAt": "2026-10-02T19:33:07.417Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -78,28 +137,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "id": "a4"
-    },
-    {
-      "title": "Amazon writes scary blog warning communities not to block data centers",
-      "url": "https://www.theverge.com/tech/1003929/amazon-ai-data-center-blog-warning",
-      "description": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance. \"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-02T11:52:20.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.763Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Amazon is calling for people to support AI data center projects, or risk irreparable harm to the US economy and national security. In a more than 3,000 word blog posted today, Amazon web services CEO Matt Garman pushed back on public concerns around the impact that data centers may have on jobs, power demands, and the environment, saying \"our nation can't afford to lose\" the race for AI dominance. \"With any change, there will be important questions raised, but there will also be misinformation and outright lies, and in the age of social media and 24/7 news, myths take hold faster than ever before,\" said Garman. \"In fact, this build out is s … Read the full story at The Verge.",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "Rare earth rivalries creating difficulties for trade secret strategy",
@@ -109,7 +147,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-02T11:40:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:01.223Z",
+      "fetchedAt": "2026-10-02T19:33:10.004Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -118,26 +156,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-      "id": "a6"
-    },
-    {
-      "title": "AI Talent Race Between US and China Is the Next Battleground",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-02/ai-talent-race-between-us-and-china-is-the-next-battleground",
-      "description": "China and India account for the bulk of international grad students in the US — and increasingly they’re headed home.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-02T10:28:01.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.302Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China and India account for the bulk of international grad students in the US — and increasingly they’re headed home.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
@@ -147,7 +166,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T09:24:33.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.112Z",
+      "fetchedAt": "2026-10-02T19:33:07.200Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -156,7 +175,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
-      "id": "a8"
+      "id": "a9"
     },
     {
       "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -166,7 +185,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-02T08:00:09.000Z",
-      "fetchedAt": "2026-10-02T14:10:03.090Z",
+      "fetchedAt": "2026-10-02T19:33:11.620Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -175,7 +194,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "Big techs are caught in Washington’s China fight - Ticker News",
@@ -185,7 +204,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T07:04:18.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Ticker News",
       "geopoliticalBypass": true,
@@ -195,26 +214,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Big techs are caught in Washington’s China fight Ticker News",
-      "id": "a10"
-    },
-    {
-      "title": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots - Bloomberg.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNUnZqUE1kc1RPWjZZTkV6Rjl0NGlnQ0szamJ5YWFURzFpVWJYUThldVJ2Wm5vSEJBTnVGZjlvMEs3REpRVDJaeU5nMDV2bmEzOVV3cE9sYTdZa3g0c2FnNnlhNThXMnBDQTJjZFczaUtJZTZmT0tsMHc4cWZ0U3R6UzRUVUc4V2VNeUdWMS1oU2xDcllzZ05TakN1c1c4Zi1Vc2pQOTFHSVFSY1hI?oc=5",
-      "description": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots Bloomberg.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-02T06:49:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.759Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Bloomberg.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots Bloomberg.com",
       "id": "a11"
     },
     {
@@ -225,7 +224,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T06:14:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.759Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TradingView",
       "geopoliticalBypass": true,
@@ -238,63 +237,24 @@
       "id": "a12"
     },
     {
-      "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
-      "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
-      "description": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-02T04:07:54.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.112Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
-      "id": "a13"
-    },
-    {
-      "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China - Crypto Briefing",
+      "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China - cryptobriefing.com",
       "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0NTa1U5czUtYk5lNFgtMlNqUm8zOExsRlZxVjZDQTZFbWRMRU1xQks5dDdIeE9FaEZxdUlDZTRGZ21XdG9kUDlmdm1JOW40V25GNzkzQVNqUTM3aFdmemxsNWtEYmI4MGFCNmllOUZhM0c2Tkk1N3pJLVZuY0Jsa0FUWkZ0Zw?oc=5",
-      "description": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
+      "description": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China cryptobriefing.com",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T03:14:01.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "Crypto Briefing",
+      "googleNewsSource": "cryptobriefing.com",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
-      "id": "a14"
-    },
-    {
-      "title": "Man charged by US with illegally shipping Nvidia chips to China - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFYtQ2RqVW9jQVJ3MzJmS2w4MXkzWUltSlNLV3VJd3NkRkdSazRCMFFjT1R5d09JcVp5dHRhQ01SNFI5cFEweW1aQW9qSlVFTTQ1M3lDSGZUTGRUWG1sVldPWThNN0dnakhvaDhYQ2VTejhDVG5SNjd0ckVEYmpRWTFIaW1xRmQ2azREdmJJYjIwVmZQSy1FbVVhSVBkMGJjTG10Q2pSU2dWWXFRYW1keXN3?oc=5",
-      "description": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-02T01:32:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Straits Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
-      "id": "a15"
+      "summary": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China cryptobriefing.com",
+      "id": "a13"
     },
     {
       "title": "San Gabriel Valley Tech Executive Arrested on Charges of Smuggling $300 Million in Chips to China - townhall.com",
@@ -304,7 +264,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T01:15:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "townhall.com",
       "geopoliticalBypass": true,
@@ -314,7 +274,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "San Gabriel Valley Tech Executive Arrested on Charges of Smuggling $300 Million in Chips to China townhall.com",
-      "id": "a16"
+      "id": "a14"
     },
     {
       "title": "Five ways the US and China clash over AI - The Straits Times",
@@ -324,7 +284,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T00:50:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Straits Times",
       "geopoliticalBypass": true,
@@ -334,17 +294,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Five ways the US and China clash over AI The Straits Times",
-      "id": "a17"
+      "id": "a15"
     },
     {
-      "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
+      "title": "Man Charged With Illegally Shipping Nvidia Chips to China",
       "url": "https://www.bloomberg.com/news/articles/2026-10-02/man-charged-by-us-with-illegally-shipping-nvidia-chips-to-china",
       "description": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T00:03:06.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.302Z",
+      "fetchedAt": "2026-10-02T19:33:07.751Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -353,7 +313,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
-      "id": "a18"
+      "id": "a16"
     },
     {
       "title": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments - Fortune",
@@ -363,7 +323,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T22:08:00.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
+      "fetchedAt": "2026-10-02T19:33:14.806Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fortune",
       "geopoliticalBypass": true,
@@ -373,17 +333,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments Fortune",
-      "id": "a19"
+      "id": "a17"
     },
     {
-      "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
-      "url": "https://www.bloomberg.com/news/features/2026-10-01/nvidia-faces-questions-over-china-ai-chip-smuggling-cases",
-      "description": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
+      "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-01/us-further-targets-iran-linked-russian-a7-financial-network",
+      "description": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-01T21:00:03.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.302Z",
+      "publishedAt": "2026-10-01T19:51:19.000Z",
+      "fetchedAt": "2026-10-02T19:33:07.751Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -391,8 +351,8 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
-      "id": "a20"
+      "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
+      "id": "a18"
     },
     {
       "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -402,7 +362,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T19:13:42.000Z",
-      "fetchedAt": "2026-10-02T14:10:03.090Z",
+      "fetchedAt": "2026-10-02T19:33:11.620Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -411,7 +371,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-      "id": "a21"
+      "id": "a19"
     },
     {
       "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -421,7 +381,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T18:01:28.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.166Z",
+      "fetchedAt": "2026-10-02T19:33:07.417Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -429,27 +389,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-      "id": "a22"
-    },
-    {
-      "title": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
-      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMDFmUmszNzBuZjFOM1ZhOW15ZU5LSm9FTDV2YlJxSnc4VlR3RE9SSDBOSzZrc1ZCMzJlUU52MmY5OTYzVi1IZWZhaUd6Vm9tZ3pETHAwaFBCRXozQjQ2THpvSXBKMjB0R2txbXQ1cGVsQ0ZRV1lNMEdkejYya0J6RVg2LU8taDBtZVd4ZTM5cjI5RmpRNnpDQkNvWVk0dDUtTkVnZExvZGIyZEw5MU8wSktPNWN3dzVDUXdZa3hxU3JYLXRSWnNZTkNqSW5nMWs?oc=5",
-      "description": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-01T16:05:57.000Z",
-      "fetchedAt": "2026-10-02T14:10:04.760Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Vision Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-      "id": "a24"
+      "id": "a20"
     },
     {
       "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -459,7 +399,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T03:34:00.000Z",
-      "fetchedAt": "2026-10-02T14:09:59.166Z",
+      "fetchedAt": "2026-10-02T19:33:07.418Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -468,7 +408,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-      "id": "a29"
+      "id": "a26"
     },
     {
       "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
@@ -478,7 +418,7 @@
       "sourceId": "ipwatchdog",
       "sourceGroup": "ip",
       "publishedAt": "2026-09-30T16:53:56.000Z",
-      "fetchedAt": "2026-10-02T14:10:02.133Z",
+      "fetchedAt": "2026-10-02T19:33:10.260Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -487,7 +427,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-      "id": "a33"
+      "id": "a30"
     }
   ]
 }
