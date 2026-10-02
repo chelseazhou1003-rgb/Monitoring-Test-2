@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-02T19:33:14.848Z",
+  "generatedAt": "2026-10-02T23:17:22.767Z",
   "date": "2026-10-03",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "topHeadlineId": "a5",
+      "topHeadlineId": "a7",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 3,
       "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-      "topHeadlineId": "a25",
+      "topHeadlineId": "a24",
       "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-      "topHeadlineId": "a28",
-      "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 21,
-      "topHeadline": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter - CCIA",
+      "articleCount": 20,
+      "topHeadline": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Data Center (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 30
 }
