@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T01:05:47.030Z",
+  "generatedAt": "2026-10-02T07:33:10.430Z",
   "date": "2026-10-02",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
         "articleIds": [
-          "a14"
+          "a17"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
         "articleIds": [
-          "a16"
+          "a19"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-01T17:31:45.000Z",
-      "fetchedAt": "2026-10-02T01:05:41.162Z",
+      "fetchedAt": "2026-10-02T07:33:05.787Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-      "id": "a14"
+      "id": "a17"
     },
     {
       "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T13:59:34.000Z",
-      "fetchedAt": "2026-10-02T01:05:40.024Z",
+      "fetchedAt": "2026-10-02T07:33:05.318Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-      "id": "a16"
+      "id": "a19"
     },
     {
       "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -67,7 +67,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-02T01:05:42.668Z",
+      "fetchedAt": "2026-10-02T07:33:07.176Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +77,7 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a17"
+      "id": "a20"
     },
     {
       "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -87,7 +87,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:21:48.000Z",
-      "fetchedAt": "2026-10-02T01:05:42.668Z",
+      "fetchedAt": "2026-10-02T07:33:07.176Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -95,7 +95,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-      "id": "a18"
+      "id": "a21"
     }
   ]
 }

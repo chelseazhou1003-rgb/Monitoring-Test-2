@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,21 +12,21 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a26"
+            "a29"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a27"
+            "a30"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a28"
+            "a31"
           ],
           "subCategory": "apple"
         }
@@ -41,7 +41,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -54,7 +54,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -64,7 +64,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -76,7 +76,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a27"
+        "id": "a30"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -86,7 +86,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -98,12 +98,12 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a28"
+        "id": "a31"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -113,14 +113,14 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
           "articleIds": [
-            "a14"
+            "a17"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
           "articleIds": [
-            "a16"
+            "a19"
           ],
           "subCategory": "semiconductors"
         }
@@ -135,7 +135,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-01T17:31:45.000Z",
-        "fetchedAt": "2026-10-02T01:05:41.162Z",
+        "fetchedAt": "2026-10-02T07:33:05.787Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -143,7 +143,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-        "id": "a14"
+        "id": "a17"
       },
       {
         "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -153,7 +153,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T13:59:34.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.024Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -161,7 +161,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-        "id": "a16"
+        "id": "a19"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -171,7 +171,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-02T01:05:42.668Z",
+        "fetchedAt": "2026-10-02T07:33:07.176Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -181,7 +181,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -191,7 +191,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:21:48.000Z",
-        "fetchedAt": "2026-10-02T01:05:42.668Z",
+        "fetchedAt": "2026-10-02T07:33:07.176Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -199,12 +199,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-        "id": "a18"
+        "id": "a21"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -214,7 +214,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a24"
+            "a26"
           ],
           "subCategory": "data-center"
         }
@@ -229,7 +229,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.024Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -239,27 +239,27 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a24"
+        "id": "a26"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
           "articleIds": [
-            "a19"
+            "a22"
           ],
           "subCategory": "patent-litigation"
         },
         {
-          "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
+          "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
           "articleIds": [
             "a25"
           ],
@@ -268,7 +268,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a26"
+            "a29"
           ],
           "subCategory": "frand-licensing"
         }
@@ -283,7 +283,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T11:00:00.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -291,7 +291,25 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-        "id": "a19"
+        "id": "a22"
+      },
+      {
+        "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
+        "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
+        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-09-30T20:41:49.000Z",
+        "fetchedAt": "2026-10-02T07:33:07.718Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "id": "a25"
       },
       {
         "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -301,7 +319,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-09-30T17:07:25.000Z",
-        "fetchedAt": "2026-10-02T01:05:44.267Z",
+        "fetchedAt": "2026-10-02T07:33:08.624Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -309,7 +327,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-        "id": "a25"
+        "id": "a27"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -319,7 +337,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -332,7 +350,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -342,7 +360,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -354,69 +372,69 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a27"
+        "id": "a30"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-02T01:05:47.033Z",
+    "generatedAt": "2026-10-02T07:33:10.432Z",
     "date": "2026-10-02",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
-        "topHeadlineId": "a14",
+        "topHeadlineId": "a17",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 4,
+        "articleCount": 5,
         "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-        "topHeadlineId": "a19",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a22",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "What Is The Case For Waiting On Qualcomm Stock?",
-        "topHeadlineId": "a24",
+        "topHeadlineId": "a26",
         "briefingSummary": "One article today covering Data Center. Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's l"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 19,
-        "topHeadline": "Five ways the US and China clash over AI - The Straits Times",
+        "articleCount": 20,
+        "topHeadline": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (2 articles). A total of 20 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 3,
         "topHeadline": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
-        "topHeadlineId": "a26",
+        "topHeadlineId": "a29",
         "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article), Apple (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 5,
         "topHeadline": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-        "topHeadlineId": "a17",
+        "topHeadlineId": "a20",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Data Center (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 36
+    "totalArticles": 38
   },
   "macro-environment": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (2 articles). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Five ways the US and China clash over AI The Straits Times",
+          "text": "Geopolitics & Export Controls: Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
           "articleIds": [
             "a1"
           ],
@@ -425,20 +443,91 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Ferguson CEO Kevin Murphy, Envestnet ",
           "articleIds": [
-            "a4"
+            "a8"
           ],
           "subCategory": "market-performance"
-        },
-        {
-          "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
-          "articleIds": [
-            "a21"
-          ],
-          "subCategory": "supply-chain"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+        "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+        "description": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-02T05:49:09.000Z",
+        "fetchedAt": "2026-10-02T07:33:05.112Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+        "id": "a1"
+      },
+      {
+        "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+        "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+        "description": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-02T04:07:54.000Z",
+        "fetchedAt": "2026-10-02T07:33:05.112Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+        "id": "a2"
+      },
+      {
+        "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China - Crypto Briefing",
+        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0NTa1U5czUtYk5lNFgtMlNqUm8zOExsRlZxVjZDQTZFbWRMRU1xQks5dDdIeE9FaEZxdUlDZTRGZ21XdG9kUDlmdm1JOW40V25GNzkzQVNqUTM3aFdmemxsNWtEYmI4MGFCNmllOUZhM0c2Tkk1N3pJLVZuY0Jsa0FUWkZ0Zw?oc=5",
+        "description": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-02T03:14:01.000Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Crypto Briefing",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
+        "id": "a3"
+      },
+      {
+        "title": "Man charged by US with illegally shipping Nvidia chips to China - The Straits Times",
+        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFYtQ2RqVW9jQVJ3MzJmS2w4MXkzWUltSlNLV3VJd3NkRkdSazRCMFFjT1R5d09JcVp5dHRhQ01SNFI5cFEweW1aQW9qSlVFTTQ1M3lDSGZUTGRUWG1sVldPWThNN0dnakhvaDhYQ2VTejhDVG5SNjd0ckVEYmpRWTFIaW1xRmQ2azREdmJJYjIwVmZQSy1FbVVhSVBkMGJjTG10Q2pSU2dWWXFRYW1keXN3?oc=5",
+        "description": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-02T01:32:00.000Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Straits Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
+        "id": "a4"
+      },
       {
         "title": "Five ways the US and China clash over AI - The Straits Times",
         "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3AtOHZ2UGRrR2l6NHZnWmpvMDRGbzVieTZnZWZDOXc5RFloTzdNU1NlVE9USVQ0dklTRDlMZzdyMXdWaWVXY1VvdkpXTEt1QnZ2VmNERFdvb0JPcEY3cHFMYzF5d1Y1X2lQMkprY2cta0dXclp2Y0Z4OC1BblBra0Uwc2JHbzduZW1xVVBGQkxYYjA?oc=5",
@@ -447,7 +536,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T00:50:00.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.992Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -457,7 +546,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Five ways the US and China clash over AI The Straits Times",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
@@ -467,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T00:03:06.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.825Z",
+        "fetchedAt": "2026-10-02T07:33:05.256Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -476,7 +565,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments - Fortune",
@@ -486,7 +575,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T22:08:00.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.992Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "geopoliticalBypass": true,
@@ -496,7 +585,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments Fortune",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Nike Earnings Disappoint as China Sales Lag",
@@ -506,7 +595,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T21:54:11.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.825Z",
+        "fetchedAt": "2026-10-02T07:33:05.256Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -515,7 +604,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Ferguson CEO Kevin Murphy, Envestnet CEO Chris Todd, Nuveen CEO Bill Huffman, EY Global Vice Chair Andrea Guerzoni, Allspring Global Investments Head of Equity Investments Ann Miletti, Mastercard Economics Institute Chief Economist Michelle Meyer, CFRA Equity Analyst Zachary Warring, Sports Marketing Consultant Joe Favorito, Bata Shoe Museum Director & Senior Curator Elizabeth Semmelhack, & Russell Reynolds Associates CEO Constantine Alexandrakis.",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
@@ -525,7 +614,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T21:34:44.000Z",
-        "fetchedAt": "2026-10-02T01:05:39.991Z",
+        "fetchedAt": "2026-10-02T07:33:05.112Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -534,26 +623,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
-        "id": "a5"
-      },
-      {
-        "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
-        "url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
-        "description": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T21:20:36.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.347Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
@@ -563,7 +633,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T21:00:03.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.825Z",
+        "fetchedAt": "2026-10-02T07:33:05.256Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -572,7 +642,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots - Bloomberg.com",
@@ -582,7 +652,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T21:00:03.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.992Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bloomberg.com",
         "geopoliticalBypass": true,
@@ -592,7 +662,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots Bloomberg.com",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
@@ -602,7 +672,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T21:00:00.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.825Z",
+        "fetchedAt": "2026-10-02T07:33:05.256Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -611,7 +681,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
@@ -621,7 +691,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T19:51:19.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.825Z",
+        "fetchedAt": "2026-10-02T07:33:05.256Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -630,7 +700,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
-        "id": "a10"
+        "id": "a13"
       },
       {
         "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -640,7 +710,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T19:13:42.000Z",
-        "fetchedAt": "2026-10-02T01:05:44.267Z",
+        "fetchedAt": "2026-10-02T07:33:08.624Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -649,7 +719,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-        "id": "a11"
+        "id": "a14"
       },
       {
         "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
@@ -659,7 +729,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T18:37:16.000Z",
-        "fetchedAt": "2026-10-02T01:05:39.992Z",
+        "fetchedAt": "2026-10-02T07:33:05.112Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -668,7 +738,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
-        "id": "a12"
+        "id": "a15"
       },
       {
         "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -678,7 +748,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T18:01:28.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.024Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -686,7 +756,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-        "id": "a13"
+        "id": "a16"
       },
       {
         "title": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
@@ -696,7 +766,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T16:05:57.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.993Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Vision Times",
         "geopoliticalBypass": true,
@@ -706,7 +776,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-        "id": "a15"
+        "id": "a18"
       },
       {
         "title": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI - Time Magazine",
@@ -716,7 +786,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T10:30:03.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.992Z",
+        "fetchedAt": "2026-10-02T07:33:10.392Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Time Magazine",
         "geopoliticalBypass": true,
@@ -726,26 +796,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Must Simultaneously Compete—and Cooperate—With China on AI Time Magazine",
-        "id": "a20"
-      },
-      {
-        "title": "US Executive Order On Energy Grid Supply Chain Security",
-        "url": "https://semiengineering.com/us-executive-order-on-energy-grid-supply-chain-security/",
-        "description": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-        "source": "Semiconductor Engineering",
-        "sourceId": "semiconductor-engineering",
-        "sourceGroup": "semiconductor",
-        "publishedAt": "2026-10-01T07:01:39.000Z",
-        "fetchedAt": "2026-10-02T01:05:41.972Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-        "id": "a21"
+        "id": "a23"
       },
       {
         "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -755,7 +806,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T03:34:00.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -764,37 +815,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-        "id": "a22"
+        "id": "a24"
       },
       {
-        "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
-        "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
-        "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T02:24:49.000Z",
-        "fetchedAt": "2026-10-02T01:05:46.993Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "조선일보",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
-        "id": "a23"
-      },
-      {
-        "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
-        "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
-        "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-        "source": "IP Fray",
-        "sourceId": "ip-fray",
+        "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
+        "url": "https://ipwatchdog.com/2026/09/30/cafc-district-court-failed-to-provide-sufficient-reasoning-denying-sanctions-attorneys-fees/",
+        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
-        "publishedAt": "2026-09-29T07:12:52.000Z",
-        "fetchedAt": "2026-10-02T01:05:44.267Z",
+        "publishedAt": "2026-09-30T16:53:56.000Z",
+        "fetchedAt": "2026-10-02T07:33:07.718Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -802,8 +833,8 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-        "id": "a29"
+        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "id": "a28"
       }
     ]
   },
@@ -999,7 +1030,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-02T01:05:47.030Z",
+    "generatedAt": "2026-10-02T07:33:10.430Z",
     "date": "2026-10-02",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -1009,35 +1040,35 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
           "articleIds": [
-            "a24"
+            "a26"
           ],
           "subCategory": "data-center"
         },
         {
           "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
           "articleIds": [
-            "a26"
+            "a29"
           ],
           "subCategory": "frand-licensing"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
           "articleIds": [
-            "a27"
+            "a30"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
           "articleIds": [
-            "a28"
+            "a31"
           ],
           "subCategory": "apple"
         }
@@ -1052,7 +1083,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-02T01:05:42.668Z",
+        "fetchedAt": "2026-10-02T07:33:07.176Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1062,7 +1093,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -1072,7 +1103,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T18:51:54.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.024Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -1082,7 +1113,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-        "id": "a24"
+        "id": "a26"
       },
       {
         "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -1092,7 +1123,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T16:19:30.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -1105,7 +1136,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-        "id": "a26"
+        "id": "a29"
       },
       {
         "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -1115,7 +1146,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T15:09:17.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -1127,7 +1158,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-        "id": "a27"
+        "id": "a30"
       },
       {
         "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -1137,7 +1168,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-09-30T14:45:08.000Z",
-        "fetchedAt": "2026-10-02T01:05:40.025Z",
+        "fetchedAt": "2026-10-02T07:33:05.318Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "apple",
@@ -1149,7 +1180,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-        "id": "a28"
+        "id": "a31"
       }
     ]
   },
@@ -15607,11 +15638,11 @@ export const NEWS_DATA = {
     "totalArticles": 29
   },
   "archive-2026-10-02": {
-    "generatedAt": "2026-10-02T01:05:47.033Z",
+    "generatedAt": "2026-10-02T07:33:10.432Z",
     "date": "2026-10-02",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -15621,14 +15652,14 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
               "articleIds": [
-                "a14"
+                "a17"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
               "articleIds": [
-                "a16"
+                "a19"
               ],
               "subCategory": "semiconductors"
             }
@@ -15643,7 +15674,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-01T17:31:45.000Z",
-            "fetchedAt": "2026-10-02T01:05:41.162Z",
+            "fetchedAt": "2026-10-02T07:33:05.787Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -15651,7 +15682,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-            "id": "a14"
+            "id": "a17"
           },
           {
             "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -15661,7 +15692,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T13:59:34.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.024Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15669,7 +15700,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-            "id": "a16"
+            "id": "a19"
           },
           {
             "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -15679,7 +15710,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-02T01:05:42.668Z",
+            "fetchedAt": "2026-10-02T07:33:07.176Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15689,7 +15720,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -15699,7 +15730,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:21:48.000Z",
-            "fetchedAt": "2026-10-02T01:05:42.668Z",
+            "fetchedAt": "2026-10-02T07:33:07.176Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -15707,27 +15738,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-            "id": "a18"
+            "id": "a21"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (3 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
               "articleIds": [
-                "a19"
+                "a22"
               ],
               "subCategory": "patent-litigation"
             },
             {
-              "text": "IP / Intellectual Property: The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigatio",
+              "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
               "articleIds": [
                 "a25"
               ],
@@ -15736,7 +15767,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a26"
+                "a29"
               ],
               "subCategory": "frand-licensing"
             }
@@ -15751,7 +15782,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T11:00:00.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -15759,7 +15790,25 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-            "id": "a19"
+            "id": "a22"
+          },
+          {
+            "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
+            "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
+            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-09-30T20:41:49.000Z",
+            "fetchedAt": "2026-10-02T07:33:07.718Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a25"
           },
           {
             "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
@@ -15769,7 +15818,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-09-30T17:07:25.000Z",
-            "fetchedAt": "2026-10-02T01:05:44.267Z",
+            "fetchedAt": "2026-10-02T07:33:08.624Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15777,7 +15826,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-            "id": "a25"
+            "id": "a27"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -15787,7 +15836,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -15800,7 +15849,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -15810,7 +15859,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -15822,12 +15871,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a27"
+            "id": "a30"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -15837,7 +15886,7 @@ export const NEWS_DATA = {
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a24"
+                "a26"
               ],
               "subCategory": "data-center"
             }
@@ -15852,7 +15901,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.024Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -15862,20 +15911,20 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a24"
+            "id": "a26"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (2 articles). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Five ways the US and China clash over AI The Straits Times",
+              "text": "Geopolitics & Export Controls: Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
               "articleIds": [
                 "a1"
               ],
@@ -15884,20 +15933,91 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Ferguson CEO Kevin Murphy, Envestnet ",
               "articleIds": [
-                "a4"
+                "a8"
               ],
               "subCategory": "market-performance"
-            },
-            {
-              "text": "Supply Chain: Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first",
-              "articleIds": [
-                "a21"
-              ],
-              "subCategory": "supply-chain"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Brazil votes in high-stakes election as U.S.-China rivalry and debt loom large",
+            "url": "https://www.cnbc.com/2026/10/02/brazil-election-bolsonaro-lula-china-trump.html",
+            "description": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T05:49:09.000Z",
+            "fetchedAt": "2026-10-02T07:33:05.112Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Brazil will hold a knife-edge vote as its presidential race kicks off — but the election's outcome is likely to be felt far beyond the country's borders.",
+            "id": "a1"
+          },
+          {
+            "title": "U.S. trade representative Greer says deal with India not 'imminent' after Modi-Trump call",
+            "url": "https://www.cnbc.com/2026/10/02/us-india-trade-modi-trump-russia-oil.html",
+            "description": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T04:07:54.000Z",
+            "fetchedAt": "2026-10-02T07:33:05.112Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Ties between the U.S. and India have been under strain for over a year, and New Delhi faces fresh risk of up to 100% tariffs for continuing to buy Russian oil.",
+            "id": "a2"
+          },
+          {
+            "title": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China - Crypto Briefing",
+            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOc0NTa1U5czUtYk5lNFgtMlNqUm8zOExsRlZxVjZDQTZFbWRMRU1xQks5dDdIeE9FaEZxdUlDZTRGZ21XdG9kUDlmdm1JOW40V25GNzkzQVNqUTM3aFdmemxsNWtEYmI4MGFCNmllOUZhM0c2Tkk1N3pJLVZuY0Jsa0FUWkZ0Zw?oc=5",
+            "description": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T03:14:01.000Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Crypto Briefing",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California man arrested over alleged $300 million Nvidia AI chip smuggling scheme to China Crypto Briefing",
+            "id": "a3"
+          },
+          {
+            "title": "Man charged by US with illegally shipping Nvidia chips to China - The Straits Times",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZFYtQ2RqVW9jQVJ3MzJmS2w4MXkzWUltSlNLV3VJd3NkRkdSazRCMFFjT1R5d09JcVp5dHRhQ01SNFI5cFEweW1aQW9qSlVFTTQ1M3lDSGZUTGRUWG1sVldPWThNN0dnakhvaDhYQ2VTejhDVG5SNjd0ckVEYmpRWTFIaW1xRmQ2azREdmJJYjIwVmZQSy1FbVVhSVBkMGJjTG10Q2pSU2dWWXFRYW1keXN3?oc=5",
+            "description": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T01:32:00.000Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Straits Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Man charged by US with illegally shipping Nvidia chips to China The Straits Times",
+            "id": "a4"
+          },
           {
             "title": "Five ways the US and China clash over AI - The Straits Times",
             "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQa3AtOHZ2UGRrR2l6NHZnWmpvMDRGbzVieTZnZWZDOXc5RFloTzdNU1NlVE9USVQ0dklTRDlMZzdyMXdWaWVXY1VvdkpXTEt1QnZ2VmNERFdvb0JPcEY3cHFMYzF5d1Y1X2lQMkprY2cta0dXclp2Y0Z4OC1BblBra0Uwc2JHbzduZW1xVVBGQkxYYjA?oc=5",
@@ -15906,7 +16026,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T00:50:00.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.992Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Straits Times",
             "geopoliticalBypass": true,
@@ -15916,7 +16036,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Five ways the US and China clash over AI The Straits Times",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Man Charged by US With Illegally Shipping Nvidia Chips to China",
@@ -15926,7 +16046,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T00:03:06.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.825Z",
+            "fetchedAt": "2026-10-02T07:33:05.256Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15935,7 +16055,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Federal prosecutors arrested a California man on Thursday on charges of smuggling computer servers containing $300 million worth of Nvidia Corp. artificial intelligence chips to China in violation of US export controls.",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments - Fortune",
@@ -15945,7 +16065,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T22:08:00.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.992Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "geopoliticalBypass": true,
@@ -15955,7 +16075,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SINOTALKS Brings China Law and Policy Expertise to US Businesses Navigating Evolving AI and Tech Developments Fortune",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Nike Earnings Disappoint as China Sales Lag",
@@ -15965,7 +16085,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T21:54:11.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.825Z",
+            "fetchedAt": "2026-10-02T07:33:05.256Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15974,7 +16094,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Close brings you the latest news and analysis leading up to the final minutes and seconds before and after the closing bell on Wall Street. Today's guests are Ferguson CEO Kevin Murphy, Envestnet CEO Chris Todd, Nuveen CEO Bill Huffman, EY Global Vice Chair Andrea Guerzoni, Allspring Global Investments Head of Equity Investments Ann Miletti, Mastercard Economics Institute Chief Economist Michelle Meyer, CFRA Equity Analyst Zachary Warring, Sports Marketing Consultant Joe Favorito, Bata Shoe Museum Director & Senior Curator Elizabeth Semmelhack, & Russell Reynolds Associates CEO Constantine Alexandrakis.",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Nike shares drop as retailer posts disappointing sales, announces layoffs as part of restructuring",
@@ -15984,7 +16104,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T21:34:44.000Z",
-            "fetchedAt": "2026-10-02T01:05:39.991Z",
+            "fetchedAt": "2026-10-02T07:33:05.112Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -15993,26 +16113,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nike is expected to post another quarter of declining sales as the company tries to turn around its business and regain growth in China.",
-            "id": "a5"
-          },
-          {
-            "title": "US sanctions Kremlin-backed fintech A7 for allegedly assisting Iran",
-            "url": "https://www.ft.com/content/29e2d078-4476-41f2-a180-faf0b2001068?syn-25a6b1a6=1",
-            "description": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T21:20:36.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.347Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Payments group that moved almost $7bn through global banks designated a transnational criminal organisation",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "Nvidia Faces Questions Over China AI Chip Smuggling Cases",
@@ -16022,7 +16123,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T21:00:03.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.825Z",
+            "fetchedAt": "2026-10-02T07:33:05.256Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16031,7 +16132,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia’s AI chips keep making their way to China despite US curbs. Officials are asking why the company missed red flags.",
-            "id": "a7"
+            "id": "a10"
           },
           {
             "title": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots - Bloomberg.com",
@@ -16041,7 +16142,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T21:00:03.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.992Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Bloomberg.com",
             "geopoliticalBypass": true,
@@ -16051,7 +16152,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Chip Smuggling Cases Expose Nvidia’s Blind Spots Bloomberg.com",
-            "id": "a8"
+            "id": "a11"
           },
           {
             "title": "Chinese State-Backed Firm Disclosed Nvidia Blackwell Chips Deal",
@@ -16061,7 +16162,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T21:00:00.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.825Z",
+            "fetchedAt": "2026-10-02T07:33:05.256Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16070,7 +16171,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A Chinese financing company owned by several local government entities has funded the purchase of restricted Nvidia Corp. chips, according to documents filed with Beijing regulators, suggesting state support for an illicit trade that Washington worries is fueling China’s AI progress.",
-            "id": "a9"
+            "id": "a12"
           },
           {
             "title": "US Further Targets Iran-Linked Russian A7 Financial Network",
@@ -16080,7 +16181,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T19:51:19.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.825Z",
+            "fetchedAt": "2026-10-02T07:33:05.256Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16089,7 +16190,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US imposed a new round of sanctions on Russia’s A7, a financial services firm accused of using a global network of shell companies to move funds for sanctioned businesses, including in Iran.",
-            "id": "a10"
+            "id": "a13"
           },
           {
             "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -16099,7 +16200,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T19:13:42.000Z",
-            "fetchedAt": "2026-10-02T01:05:44.267Z",
+            "fetchedAt": "2026-10-02T07:33:08.624Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16108,7 +16209,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-            "id": "a11"
+            "id": "a14"
           },
           {
             "title": "Treasury sanctions operation targets Iran's auto, rail industries in latest economic attack",
@@ -16118,7 +16219,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T18:37:16.000Z",
-            "fetchedAt": "2026-10-02T01:05:39.992Z",
+            "fetchedAt": "2026-10-02T07:33:05.112Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16127,7 +16228,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "\"Operation Economic Outcast\" was touted by President Donald Trump as Iran's \"economic D-Day\" when Treasury Secretary Scott Bessent unveiled it in August.",
-            "id": "a12"
+            "id": "a15"
           },
           {
             "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -16137,7 +16238,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T18:01:28.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.024Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -16145,7 +16246,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-            "id": "a13"
+            "id": "a16"
           },
           {
             "title": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies - Vision Times",
@@ -16155,7 +16256,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T16:05:57.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.993Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Vision Times",
             "geopoliticalBypass": true,
@@ -16165,7 +16266,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Extends Travel Curbs on AI Talent to Families as Tax Scrutiny of Wealthy Intensifies Vision Times",
-            "id": "a15"
+            "id": "a18"
           },
           {
             "title": "Why the U.S. Must Simultaneously Compete—and Cooperate—With China on AI - Time Magazine",
@@ -16175,7 +16276,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T10:30:03.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.992Z",
+            "fetchedAt": "2026-10-02T07:33:10.392Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Time Magazine",
             "geopoliticalBypass": true,
@@ -16185,26 +16286,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Must Simultaneously Compete—and Cooperate—With China on AI Time Magazine",
-            "id": "a20"
-          },
-          {
-            "title": "US Executive Order On Energy Grid Supply Chain Security",
-            "url": "https://semiengineering.com/us-executive-order-on-energy-grid-supply-chain-security/",
-            "description": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-            "source": "Semiconductor Engineering",
-            "sourceId": "semiconductor-engineering",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-01T07:01:39.000Z",
-            "fetchedAt": "2026-10-02T01:05:41.972Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Compliance with trade restrictions is no longer about proving where a device was built, but about how the product works. The post US Executive Order On Energy Grid Supply Chain Security appeared first on Semiconductor Engineering.",
-            "id": "a21"
+            "id": "a23"
           },
           {
             "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -16214,7 +16296,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T03:34:00.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16223,37 +16305,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-            "id": "a22"
+            "id": "a24"
           },
           {
-            "title": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQay0yLUZraUQ2cnQ4WExUQWNUaUxOLUpUajc4QktXSVlYU2hLSlVlTXJoVXFMR3NjdlVmdHF3czE5NXp1YmhhSHU4aW1ZXzJPck0wa09xZVR6bGNDUlVtMnBXUHBfelhQOEh3T0xmOEZwcVRKLVFyRnMzLWhnS3ZHbkItV08?oc=5",
-            "description": "Exclusive: U.S. Congressman Warns South Korea's Shift Toward China Risks U.S. Interests 조선일보",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T02:24:49.000Z",
-            "fetchedAt": "2026-10-02T01:05:46.993Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "조선일보",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Congressman Warns South Korea's Shift Toward China Risks U.S.",
-            "id": "a23"
-          },
-          {
-            "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
-            "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
-            "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
+            "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
+            "url": "https://ipwatchdog.com/2026/09/30/cafc-district-court-failed-to-provide-sufficient-reasoning-denying-sanctions-attorneys-fees/",
+            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
-            "publishedAt": "2026-09-29T07:12:52.000Z",
-            "fetchedAt": "2026-10-02T01:05:44.267Z",
+            "publishedAt": "2026-09-30T16:53:56.000Z",
+            "fetchedAt": "2026-10-02T07:33:07.718Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -16261,13 +16323,13 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "id": "a29"
+            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a28"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -16277,21 +16339,21 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a26"
+                "a29"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a27"
+                "a30"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a28"
+                "a31"
               ],
               "subCategory": "apple"
             }
@@ -16306,7 +16368,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -16319,7 +16381,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -16329,7 +16391,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -16341,7 +16403,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a27"
+            "id": "a30"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -16351,7 +16413,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -16363,12 +16425,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a28"
+            "id": "a31"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-02T01:05:47.030Z",
+        "generatedAt": "2026-10-02T07:33:10.430Z",
         "date": "2026-10-02",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -16378,35 +16440,35 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
               "articleIds": [
-                "a17"
+                "a20"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Data Center: Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps g",
               "articleIds": [
-                "a24"
+                "a26"
               ],
               "subCategory": "data-center"
             },
             {
               "text": "FRAND & Licensing: In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in ",
               "articleIds": [
-                "a26"
+                "a29"
               ],
               "subCategory": "frand-licensing"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologi",
               "articleIds": [
-                "a27"
+                "a30"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Apple: Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy b",
               "articleIds": [
-                "a28"
+                "a31"
               ],
               "subCategory": "apple"
             }
@@ -16421,7 +16483,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-02T01:05:42.668Z",
+            "fetchedAt": "2026-10-02T07:33:07.176Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -16431,7 +16493,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "What Is The Case For Waiting On Qualcomm Stock?",
@@ -16441,7 +16503,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T18:51:54.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.024Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -16451,7 +16513,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (QCOM) stock is up 46% over six months. It still trades about 26% below its high of the past year. At 21 times earnings, about the market's level, the price appears to assume Qualcomm keeps growing as Apple sales shrink. Qualcomm plans to fill that gap with car and data center chips, and is raising prices as memory costs climb. Both plans are under way.",
-            "id": "a24"
+            "id": "a26"
           },
           {
             "title": "QUALCOMM (QCOM) Is Down 6.7% After Renewing Apple Patent Deal And Deepening AI, Cloud Push",
@@ -16461,7 +16523,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T16:19:30.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -16474,7 +16536,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "In September 2026, Qualcomm announced it had renewed its global patent license agreement with Apple effective April 1, 2027, while also advancing efforts such as presenting at the Humanoids Summit in Seoul and expanding into data center and robotics solutions. The renewed Apple license and the multi‑year custom chip partnership with Amazon’s AWS together highlight Qualcomm’s push to pair stable licensing income with new AI and cloud computing revenue streams. Next, we’ll examine how the...",
-            "id": "a26"
+            "id": "a29"
           },
           {
             "title": "QUALCOMM (QCOM) Renewed A Global Patent License Effective April 2027",
@@ -16484,7 +16546,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T15:09:17.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -16496,7 +16558,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm (NasdaqGS:QCOM) said it has renewed its global patent license agreement with Apple, effective April 1, 2027. The updated deal covers Apple's continued access to Qualcomm's cellular technologies under a multi year global patent license framework. Management indicated that the renewed agreement is structured to support ongoing collaboration between the two smartphone heavyweights. The Qualcomm Apple patent license renewal matters, but investors should weigh it alongside other business...",
-            "id": "a27"
+            "id": "a30"
           },
           {
             "title": "Here’s What The Apple Patent Renewal Really Does for Qualcomm and Why I’m Buying",
@@ -16506,7 +16568,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-09-30T14:45:08.000Z",
-            "fetchedAt": "2026-10-02T01:05:40.025Z",
+            "fetchedAt": "2026-10-02T07:33:05.318Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "apple",
@@ -16518,12 +16580,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just renewed a deal with a company whose chips it stopped buying, and that contradiction tells you everything about where Qualcomm's real power sits and why one investor keeps pressing the buy button.",
-            "id": "a28"
+            "id": "a31"
           }
         ]
       }
     },
-    "totalArticles": 36
+    "totalArticles": 38
   }
 };
 
