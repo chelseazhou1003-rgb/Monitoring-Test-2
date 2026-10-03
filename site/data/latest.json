@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-03T08:34:28.513Z",
+  "generatedAt": "2026-10-03T13:56:44.516Z",
   "date": "2026-10-03",
   "sections": {
     "core-businesses": {
@@ -11,10 +11,10 @@
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 2,
+      "articleCount": 3,
       "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-      "topHeadlineId": "a30",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a27",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 25,
-      "topHeadline": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
+      "articleCount": 23,
+      "topHeadline": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), market-performance (4 articles). A total of 25 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 34
+  "totalArticles": 33
 }
