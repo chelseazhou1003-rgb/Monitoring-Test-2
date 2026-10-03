@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-03T13:56:44.516Z",
-  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T18:17:45.707Z",
+  "date": "2026-10-04",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "topHeadlineId": "a17",
+      "topHeadlineId": "a16",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 3,
+      "articleCount": 1,
       "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-      "topHeadlineId": "a27",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a26",
+      "briefingSummary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce"
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 23,
-      "topHeadline": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
+      "articleCount": 21,
+      "topHeadline": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles). A total of 23 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles). A total of 21 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 2,
       "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "topHeadlineId": "a17",
+      "topHeadlineId": "a16",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 29
 }

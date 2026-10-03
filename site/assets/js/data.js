@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,8 +13,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
           "articleIds": [
-            "a17"
+            "a16"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
           "articleIds": [
-            "a23"
+            "a22"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -56,7 +56,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
@@ -66,7 +66,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-01T17:31:45.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.780Z",
+        "fetchedAt": "2026-10-03T18:17:38.676Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-        "id": "a23"
+        "id": "a22"
       },
       {
         "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -84,7 +84,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T13:59:34.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -92,17 +92,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-        "id": "a24"
+        "id": "a23"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-        "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+        "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
         "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-03T13:56:40.517Z",
+        "fetchedAt": "2026-10-03T18:17:40.310Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -112,17 +112,17 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a25"
+        "id": "a24"
       },
       {
         "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
-        "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+        "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
         "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:21:48.000Z",
-        "fetchedAt": "2026-10-03T13:56:40.517Z",
+        "fetchedAt": "2026-10-03T18:17:40.310Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -130,13 +130,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-        "id": "a26"
+        "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -146,26 +146,19 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce",
       "keyTakeaways": [
         {
           "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
           "articleIds": [
-            "a27"
+            "a26"
           ],
           "subCategory": "patent-litigation"
-        },
-        {
-          "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
-          "articleIds": [
-            "a29"
-          ],
-          "subCategory": "ip"
         }
       ]
     },
@@ -178,7 +171,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T11:00:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -186,63 +179,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-        "id": "a27"
-      },
-      {
-        "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
-        "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
-        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "source": "IPWatchdog",
-        "sourceId": "ipwatchdog",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-30T20:41:49.000Z",
-        "fetchedAt": "2026-10-03T13:56:41.120Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a29"
-      },
-      {
-        "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
-        "url": "https://ipfray.com/federal-circuit-dismisses-parkervision-appeal-against-qualcomm-rule-54b-does-not-allow-partial-final-judgment-on-some-claims-of-one-patent/",
-        "description": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-        "source": "IP Fray",
-        "sourceId": "ip-fray",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-30T17:07:25.000Z",
-        "fetchedAt": "2026-10-03T13:56:42.972Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-        "id": "a30"
+        "id": "a26"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-03T13:56:44.516Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.707Z",
+    "date": "2026-10-04",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "topHeadlineId": "a17",
+        "topHeadlineId": "a16",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 3,
+        "articleCount": 1,
         "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-        "topHeadlineId": "a27",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a26",
+        "briefingSummary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce"
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -253,10 +210,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 23,
-        "topHeadline": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
+        "articleCount": 21,
+        "topHeadline": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles). A total of 23 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles). A total of 21 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -269,22 +226,22 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 2,
         "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "topHeadlineId": "a17",
+        "topHeadlineId": "a16",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 33
+    "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (4 articles). A total of 23 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles). A total of 21 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
+          "text": "Geopolitics & Export Controls: Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
           "articleIds": [
             "a1"
           ],
@@ -293,13 +250,52 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
           "articleIds": [
-            "a8"
+            "a10"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
+        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWZIYUZfNkxfU1JDeTQxUXpKY1BJdUFMeU1DbHRPYlRrVEE2U09xYjZWQlQtYzJmN3pyVW5kYkNYNHVKbXdrMU5PVnRFUF80OTRIajV5dGtrQU90WEpJVXRwRndKX3RzM1FRZ21yLWhXQk9GNkdzWFJYcGQ2QkY3X3dKLU1vbnlYMnI5bVpJSW1uQ25oR2dlUnBlNGI2RkdfcXNrcG53dDNIUXF3NUhDd1U1UV9OOUtvMTJnZU5Ia3BldTJRaTJPNU9TdlRGYU9XS3Zpbl9maHhzNWJJUG51N1BvWXJzNkFRR1h6SWVmcHk?oc=5",
+        "description": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-03T15:47:00.000Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Quiver Quantitative",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+        "id": "a1"
+      },
+      {
+        "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+        "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+        "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-03T15:02:01.000Z",
+        "fetchedAt": "2026-10-03T18:17:37.874Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+        "id": "a2"
+      },
       {
         "title": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
         "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVjNXeE9Zejl2ZGMtaDdUTWNVUWM0NUx5dHh4MlFPWXVWdUhycGltR1dXNDZzdmhTRS1XRVlCU2xaaUFseTJ3VllsemxnVlBKa3cxb0tnOGh6SzZIWkI1T24wdmpFT0tWUHdPX3pIVDRDcWhTVkM2Z1p4Wmg2TFBFeDFJcmgxdUtTV1Y1N3A2blphb0RJVk1HMEFIV3ZRREJROEFsTHpYWGd2S1JXT2EtNTBycXpJbmhYb0JDSnp4RGpiVHZZLWJWMHJkaGVXYzlMVTNwck9tM1pqSk02SjRjZncxWEdyajhUdklXRVExTlNDLUVp0gH6AUFVX3lxTFBGUWx6UHpGZUQ4MThxRWxhX3VSSUQxVHhzMlVxdGRpaVdLcUJSZVloYk8wM0N1RlNKLURhUU44R0NZMVEyRE1qbmt3dmctMWE5UHNBR2lJVHNTb3pXZDVUTzNvQnRPc1FVeVBuUE1WYlF4ZGZFWjN4dkxaY2Fic1ZhbVZsZV9QWVRGZFJUdnBIUDdzdTdKMmdjSDY1djdCd1lsS3ZqYXYzb19ON2tIbFZZNkYxdFhXOEp3SWlpa1JrdFA4enVOdkt1V2NLT1RSRWFMY2tBaFRzLVM5TjBQR0tBcGREQnJQQmloY3V2M21WY2hQcF9sbW9EdkE?oc=5",
@@ -308,7 +304,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T12:02:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
@@ -318,7 +314,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "China launches anti-dumping probe into European chemical exports",
@@ -328,7 +324,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T10:16:42.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.546Z",
+        "fetchedAt": "2026-10-03T18:17:38.285Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -337,7 +333,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
@@ -347,7 +343,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T07:00:06.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.668Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "International Business Times, Singapore Edition",
         "geopoliticalBypass": true,
@@ -357,7 +353,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China - Startup Fortune",
@@ -367,7 +363,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T05:17:36.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Startup Fortune",
         "geopoliticalBypass": true,
@@ -377,7 +373,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "China, America and the new Great Game",
@@ -387,7 +383,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T04:00:30.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.546Z",
+        "fetchedAt": "2026-10-03T18:17:38.285Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -396,7 +392,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "US senators warn of China silicon carbide push - The Hans India",
@@ -406,7 +402,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T03:45:05.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.668Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Hans India",
         "geopoliticalBypass": true,
@@ -416,7 +412,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US senators warn of China silicon carbide push The Hans India",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
@@ -426,7 +422,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T03:27:54.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.455Z",
+        "fetchedAt": "2026-10-03T18:17:38.220Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -435,7 +431,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -445,7 +441,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T00:30:03.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -453,7 +449,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say - Los Angeles Times",
@@ -463,7 +459,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T23:54:21.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Los Angeles Times",
         "geopoliticalBypass": true,
@@ -473,7 +469,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
-        "id": "a9"
+        "id": "a11"
       },
       {
         "title": "California Man Charged in $300M China AI Chip Scheme - stl.news",
@@ -483,7 +479,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T22:00:15.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "stl.news",
         "geopoliticalBypass": true,
@@ -493,7 +489,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California Man Charged in $300M China AI Chip Scheme stl.news",
-        "id": "a10"
+        "id": "a12"
       },
       {
         "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -503,7 +499,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T20:45:03.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -511,7 +507,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "id": "a11"
+        "id": "a13"
       },
       {
         "title": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter - CCIA",
@@ -521,7 +517,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T18:48:16.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
+        "fetchedAt": "2026-10-03T18:17:45.667Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "CCIA",
         "geopoliticalBypass": true,
@@ -531,67 +527,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
-        "id": "a12"
-      },
-      {
-        "title": "California Businessman Arrested in $300 Million Scheme to Smuggle Nvidia Servers to China - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9aaU14UjYxSFhacWR5SEJNOUVGMWFYUEpKa3A2MDdPc2t1VTVYSzRrbWhJaW1yc010NVlsMEZyWUZxWC0yZFN2WE1sVkpBVlp2RVRGTVVkUGVwdFJNdEQ0dnlKX2pteGhOcjFuZ1U2UU9TMmhPaXc?oc=5",
-        "description": "California Businessman Arrested in $300 Million Scheme to Smuggle Nvidia Servers to China finance.biggo.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T18:06:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "finance.biggo.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "California Businessman Arrested in $300 Million Scheme to Smuggle Nvidia Servers to China finance.biggo.com",
-        "id": "a13"
-      },
-      {
-        "title": "The European Union Affairs Committee approved the amendments to the Chips Act - Riigikogu",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUTdjVFhzMWpVWTQ5MXoyR3p2UUNLT045dFJsZ2prSmRnVE5YUmUtM0ZMdlNfYmFhZ3VSNHpxTG5yYzJpaHpNZ2hURDFfRzVkT2JxS0ZoMWtobFFoUGNveVF3akhHbjVsNXBpR2FOWkVFWEhtemJNS01takVNYkR1eUxBMEhhSHpRcmVNTGNvWUZ0UkgzaVFCUW95cHZ5V2Y2ZE80MXhBTFFsM2c3MFQ5OUxsX3FVRVR5RFlj?oc=5",
-        "description": "The European Union Affairs Committee approved the amendments to the Chips Act Riigikogu",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T16:45:11.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Riigikogu",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The European Union Affairs Committee approved the amendments to the Chips Act Riigikogu",
         "id": "a14"
-      },
-      {
-        "title": "California man smuggled $300 million in Nvidia chips to China, prosecutors say - Business Insider",
-        "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnJtOFFla1RVaDJqWWNWeEVfdWFWZDlrS1BKcGoxVXMtN3pRS3p2WkVHYmhSM1BzNzFKNzJJQ1lhT3dUdHQxS2tYSEVWcExxVExRTXF6ZXpyS1ZHYWlpOEJJRFl4dm5EOHhROTVDN19mS003SGdUUDd6MGlzR3hxdDJscHVHMnVaaVp1TTBHbS03YnE5YmV6UkpjQQ?oc=5",
-        "description": "California man smuggled $300 million in Nvidia chips to China, prosecutors say Business Insider",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T16:08:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:44.474Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Business Insider",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "California man smuggled $300 million in Nvidia chips to China, prosecutors say Business Insider",
-        "id": "a15"
       },
       {
         "title": "China targets 1M 50G-PON ports by 2030",
@@ -601,7 +537,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-02T14:12:21.000Z",
-        "fetchedAt": "2026-10-03T13:56:42.707Z",
+        "fetchedAt": "2026-10-03T18:17:43.369Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -610,7 +546,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "id": "a16"
+        "id": "a15"
       },
       {
         "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -620,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:00:06.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -628,17 +564,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a18"
+        "id": "a17"
       },
       {
         "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-        "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+        "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
         "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T11:40:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:40.517Z",
+        "fetchedAt": "2026-10-03T18:17:40.310Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -647,7 +583,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "id": "a19"
+        "id": "a18"
       },
       {
         "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -657,7 +593,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T08:00:09.000Z",
-        "fetchedAt": "2026-10-03T13:56:42.972Z",
+        "fetchedAt": "2026-10-03T18:17:42.915Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -666,7 +602,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "id": "a20"
+        "id": "a19"
       },
       {
         "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -676,7 +612,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T19:13:42.000Z",
-        "fetchedAt": "2026-10-03T13:56:42.972Z",
+        "fetchedAt": "2026-10-03T18:17:42.915Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -685,7 +621,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-        "id": "a21"
+        "id": "a20"
       },
       {
         "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -695,7 +631,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T18:01:28.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -703,7 +639,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-        "id": "a22"
+        "id": "a21"
       },
       {
         "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -713,7 +649,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T03:34:00.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.130Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -722,26 +658,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-        "id": "a28"
-      },
-      {
-        "title": "CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees",
-        "url": "https://ipwatchdog.com/2026/09/30/cafc-district-court-failed-to-provide-sufficient-reasoning-denying-sanctions-attorneys-fees/",
-        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "source": "IPWatchdog",
-        "sourceId": "ipwatchdog",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-09-30T16:53:56.000Z",
-        "fetchedAt": "2026-10-03T13:56:41.120Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision Wednesday vacating and remanding a district court ruling that had denied Pen-Tech Associates, Inc.’s motion for sanctions and attorney’s fees due to Epic Tech, LLC’s allegedly frivolous infringement claims. The CAFC found the district court had provided “insufficient detail to permit meaningful review.” The post CAFC Says District Court Failed to Provide Sufficient Reasoning for Denying Sanctions, Attorney’s Fees appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a31"
+        "id": "a27"
       }
     ]
   },
@@ -937,8 +854,8 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-03T13:56:44.514Z",
-    "date": "2026-10-03",
+    "generatedAt": "2026-10-03T18:17:45.705Z",
+    "date": "2026-10-04",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
@@ -947,7 +864,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
           "articleIds": [
-            "a17"
+            "a16"
           ],
           "subCategory": "semiconductors"
         }
@@ -962,7 +879,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-03T13:56:38.129Z",
+        "fetchedAt": "2026-10-03T18:17:38.002Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -973,17 +890,17 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-        "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+        "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
         "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-03T13:56:40.517Z",
+        "fetchedAt": "2026-10-03T18:17:40.310Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -993,7 +910,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a25"
+        "id": "a24"
       }
     ]
   },
@@ -17082,6 +16999,686 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 33
+  },
+  "archive-2026-10-04": {
+    "generatedAt": "2026-10-03T18:17:45.707Z",
+    "date": "2026-10-04",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
+              "articleIds": [
+                "a22"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+            "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:58:51.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
+            "url": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
+            "description": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-10-01T17:31:45.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.676Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
+            "id": "a22"
+          },
+          {
+            "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
+            "url": "https://www.independent.co.uk/tech/qualcomm-smart-glasses-ai-cristiano-amon-b3059807.html?.tsrc=rss",
+            "description": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T13:59:34.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
+            "id": "a23"
+          },
+          {
+            "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
+            "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+            "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T12:30:33.000Z",
+            "fetchedAt": "2026-10-03T18:17:40.310Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+            "id": "a24"
+          },
+          {
+            "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
+            "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+            "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T12:21:48.000Z",
+            "fetchedAt": "2026-10-03T18:17:40.310Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
+            "id": "a25"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce",
+          "keyTakeaways": [
+            {
+              "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
+              "articleIds": [
+                "a26"
+              ],
+              "subCategory": "patent-litigation"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
+            "url": "https://finance.yahoo.com/technology/articles/federal-circuit-remands-case-back-110000169.html?.tsrc=rss",
+            "description": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T11:00:00.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "patent-litigation",
+            "subLabel": "Patent Litigation",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
+            "id": "a26"
+          }
+        ]
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles). A total of 21 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
+            "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWZIYUZfNkxfU1JDeTQxUXpKY1BJdUFMeU1DbHRPYlRrVEE2U09xYjZWQlQtYzJmN3pyVW5kYkNYNHVKbXdrMU5PVnRFUF80OTRIajV5dGtrQU90WEpJVXRwRndKX3RzM1FRZ21yLWhXQk9GNkdzWFJYcGQ2QkY3X3dKLU1vbnlYMnI5bVpJSW1uQ25oR2dlUnBlNGI2RkdfcXNrcG53dDNIUXF3NUhDd1U1UV9OOUtvMTJnZU5Ia3BldTJRaTJPNU9TdlRGYU9XS3Zpbl9maHhzNWJJUG51N1BvWXJzNkFRR1h6SWVmcHk?oc=5",
+            "description": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T15:47:00.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Quiver Quantitative",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+            "id": "a1"
+          },
+          {
+            "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+            "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-03T15:02:01.000Z",
+            "fetchedAt": "2026-10-03T18:17:37.874Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "id": "a2"
+          },
+          {
+            "title": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxQVjNXeE9Zejl2ZGMtaDdUTWNVUWM0NUx5dHh4MlFPWXVWdUhycGltR1dXNDZzdmhTRS1XRVlCU2xaaUFseTJ3VllsemxnVlBKa3cxb0tnOGh6SzZIWkI1T24wdmpFT0tWUHdPX3pIVDRDcWhTVkM2Z1p4Wmg2TFBFeDFJcmgxdUtTV1Y1N3A2blphb0RJVk1HMEFIV3ZRREJROEFsTHpYWGd2S1JXT2EtNTBycXpJbmhYb0JDSnp4RGpiVHZZLWJWMHJkaGVXYzlMVTNwck9tM1pqSk02SjRjZncxWEdyajhUdklXRVExTlNDLUVp0gH6AUFVX3lxTFBGUWx6UHpGZUQ4MThxRWxhX3VSSUQxVHhzMlVxdGRpaVdLcUJSZVloYk8wM0N1RlNKLURhUU44R0NZMVEyRE1qbmt3dmctMWE5UHNBR2lJVHNTb3pXZDVUTzNvQnRPc1FVeVBuUE1WYlF4ZGZFWjN4dkxaY2Fic1ZhbVZsZV9QWVRGZFJUdnBIUDdzdTdKMmdjSDY1djdCd1lsS3ZqYXYzb19ON2tIbFZZNkYxdFhXOEp3SWlpa1JrdFA4enVOdkt1V2NLT1RSRWFMY2tBaFRzLVM5TjBQR0tBcGREQnJQQmloY3V2M21WY2hQcF9sbW9EdkE?oc=5",
+            "description": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T12:02:00.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Times of India",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
+            "id": "a3"
+          },
+          {
+            "title": "China launches anti-dumping probe into European chemical exports",
+            "url": "https://www.ft.com/content/bae0af94-f42d-47d1-a1a8-fab608e75a72?syn-25a6b1a6=1",
+            "description": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T10:16:42.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.285Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
+            "id": "a4"
+          },
+          {
+            "title": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZGMzV09PcjFQRkEteUIxWkZuYkpRWlZLLXJsb1JJVXRSU2w5ZWdVaDFCblIyNzZTajRkMzF3emxhZU1nWU5OVlJxU0ZLT0U2ckQ2aVZqUnFaUEZ6YjlMc2RJcmVTMi1ELVc1YmpGYVMzWGNrVHBHQ2pZUmNGeUVoSzNsR0FHWUdfd1U0Z05tNVhDZnBnRUJBM0hRQmZvam1ZNnBtN1F1YjZnbEE?oc=5",
+            "description": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T07:00:06.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.668Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "International Business Times, Singapore Edition",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
+            "id": "a5"
+          },
+          {
+            "title": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China - Startup Fortune",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQZ0YzMzgzXzR2S1VfZlVfWmJKckhteFRSd3NCWnd4MHBsYlBDWWtfNE41SE8zZFJZeHRrR0dmWTZFVmFpTG5fZVFNMUhENklvVlNvYVM0QnVNRnFMUTFOZWRGSUV1NWY1dkctQVVjZVZucEVuWFFLX1dXRGZsNll6dFhUbVpZWnZ0YXlwQnJmZjZUeE1aNkFqS2FUdERvcUJxYWJ5VDJLOTdLc0V0dGcw?oc=5",
+            "description": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T05:17:36.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Startup Fortune",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
+            "id": "a6"
+          },
+          {
+            "title": "China, America and the new Great Game",
+            "url": "https://www.ft.com/content/8869caf9-3cd1-4300-aeb3-828a4d9da4f9?syn-25a6b1a6=1",
+            "description": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T04:00:30.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.285Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
+            "id": "a7"
+          },
+          {
+            "title": "US senators warn of China silicon carbide push - The Hans India",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlFhSTRyc29MeXc0eGFIQ0dKQldBQncwc2hCNTZuVE9MU0llQVRNRmh4QkJIZ0FBRlU0Q0M4M1VFREFhZ05heTVsRkFEX0VGejBhLVdUblNNZ3lCTmtEcDZvN2pqRXNUMmNpcGxqNFVDNVZ1X20wWWxKNFpLWDJPXzRWWTZrOVIyOU1DMHc5aUtjMlVXUjRpb2kyRklFTWozYV9sUQ?oc=5",
+            "description": "US senators warn of China silicon carbide push The Hans India",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T03:45:05.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.668Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Hans India",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US senators warn of China silicon carbide push The Hans India",
+            "id": "a8"
+          },
+          {
+            "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-03/taiwan-foreign-minister-to-visit-arizona-to-deepen-economic-ties",
+            "description": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T03:27:54.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.220Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
+            "id": "a9"
+          },
+          {
+            "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-qualcomm-sensata-technologies-stocks-003003380.html?.tsrc=rss",
+            "description": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T00:30:03.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
+            "id": "a10"
+          },
+          {
+            "title": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say - Los Angeles Times",
+            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGFzaExkZWZRdi1wNkFsdU5DWkl5bVhqbW9jcktza0E2MGgzRmNuOS1QSUZ2Z1dOd3V3QWFjdFZwNTVHTEQ4bXJ2cGpiQjZua0Nia1ptNnZvMTVsTXplcHZMQlpKSzdIeDV1TENrSnlvQ0R1cVBxdnJrUER0ZWxobnBaX2dGNms2U29UTHlRVjJFLWpIZnFRS2x1SXNEOThmdDAyRnMwc083Q2huV1RfTDhvV3JyaXlReUp6NQ?oc=5",
+            "description": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T23:54:21.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Los Angeles Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
+            "id": "a11"
+          },
+          {
+            "title": "California Man Charged in $300M China AI Chip Scheme - stl.news",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fTTNuaHpWYzlyOTliNFNKaTdreTNrYmVrR1hOdlNncEJaano2b1R5Z1pZbmJXQkRTaEJ5N0JVUW5oUXJNTXRlS280OWQ0T1NYWi0zMlNkQTE4THhnRjhnemo2Zy1lQkI5NE9xODNrYmQwT0lsaWVFVnlOdW5rdw?oc=5",
+            "description": "California Man Charged in $300M China AI Chip Scheme stl.news",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T22:00:15.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "stl.news",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California Man Charged in $300M China AI Chip Scheme stl.news",
+            "id": "a12"
+          },
+          {
+            "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-outpaced-stock-204503928.html?.tsrc=rss",
+            "description": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T20:45:03.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
+            "id": "a13"
+          },
+          {
+            "title": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter - CCIA",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGc0QXRNVExJRTZ6Mk9LbFhaR0oxZFNyOTVNX0U1cXk2dmgxRW5Ma1ROZGNxRzNwNmd1UmJGcWJQMkMxdk03WEJUeE9aT2JKSHZBQ3ZPSWhWUk9kaDI4YUR0dWY4bTEyNWpnNHYyeUFwQ2QtVzhQNXdVb0hETGhIU1JDNVU0VFkwUkRQM3ZGdVA1cXZaWWFYSFRRcGl5OTlsUUxmOHhOajZqTzE1YXBwREJacHBmbHEwbEhJVWU4dnhVd2Myc0lPQTRsWmFxUjdkVVE?oc=5",
+            "description": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T18:48:16.000Z",
+            "fetchedAt": "2026-10-03T18:17:45.667Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "CCIA",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
+            "id": "a14"
+          },
+          {
+            "title": "China targets 1M 50G-PON ports by 2030",
+            "url": "https://www.lightreading.com/optical-networking/china-targets-1m-50g-pon-ports-by-2030",
+            "description": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-02T14:12:21.000Z",
+            "fetchedAt": "2026-10-03T18:17:43.369Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+            "id": "a15"
+          },
+          {
+            "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-qualcomm-incorporated-120006412.html?.tsrc=rss",
+            "description": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:00:06.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "id": "a17"
+          },
+          {
+            "title": "Rare earth rivalries creating difficulties for trade secret strategy",
+            "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+            "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-02T11:40:00.000Z",
+            "fetchedAt": "2026-10-03T18:17:40.310Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
+            "id": "a18"
+          },
+          {
+            "title": "Opinion: China’s role in the future of global SEP licensing",
+            "url": "https://ipfray.com/opinion-chinas-role-in-the-future-of-global-sep-licensing/",
+            "description": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-02T08:00:09.000Z",
+            "fetchedAt": "2026-10-03T18:17:42.915Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
+            "id": "a19"
+          },
+          {
+            "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
+            "url": "https://ipfray.com/tesla-sun-factory-apparently-at-heart-of-u-s-chinese-semiconductor-technology-patent-infringement-dispute/",
+            "description": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T19:13:42.000Z",
+            "fetchedAt": "2026-10-03T18:17:42.915Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "id": "a20"
+          },
+          {
+            "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-ai-strategy-overcome-180128531.html?.tsrc=rss",
+            "description": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T18:01:28.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
+            "id": "a21"
+          },
+          {
+            "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
+            "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-033400605.html?.tsrc=rss",
+            "description": "WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise. Roof",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-01T03:34:00.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
+            "id": "a27"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-03T18:17:45.705Z",
+        "date": "2026-10-04",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+            "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:58:51.000Z",
+            "fetchedAt": "2026-10-03T18:17:38.002Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "id": "a16"
+          },
+          {
+            "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
+            "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+            "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T12:30:33.000Z",
+            "fetchedAt": "2026-10-03T18:17:40.310Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
+            "id": "a24"
+          }
+        ]
+      }
+    },
+    "totalArticles": 29
   }
 };
 

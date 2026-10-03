@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T13:56:44.514Z",
-  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T18:17:45.705Z",
+  "date": "2026-10-04",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a17"
+          "a16"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-03T13:56:38.129Z",
+      "fetchedAt": "2026-10-03T18:17:38.002Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -35,17 +35,17 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-      "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+      "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
       "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-03T13:56:40.517Z",
+      "fetchedAt": "2026-10-03T18:17:40.310Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -55,7 +55,7 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a25"
+      "id": "a24"
     }
   ]
 }

@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-10-03T13:56:44.514Z",
-  "date": "2026-10-03",
+  "generatedAt": "2026-10-03T18:17:45.705Z",
+  "date": "2026-10-04",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
         "articleIds": [
-          "a27"
+          "a26"
         ],
         "subCategory": "patent-litigation"
-      },
-      {
-        "text": "IP / Intellectual Property: Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement fo",
-        "articleIds": [
-          "a29"
-        ],
-        "subCategory": "ip"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T11:00:00.000Z",
-      "fetchedAt": "2026-10-03T13:56:38.129Z",
+      "fetchedAt": "2026-10-03T18:17:38.002Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -39,43 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-      "id": "a27"
-    },
-    {
-      "title": "Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b)",
-      "url": "https://ipwatchdog.com/2026/09/30/federal-circuit-dismisses-patent-owners-appeal-for-lack-of-final-judgment-under-rule-54b/",
-      "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. v. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-      "source": "IPWatchdog",
-      "sourceId": "ipwatchdog",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-09-30T20:41:49.000Z",
-      "fetchedAt": "2026-10-03T13:56:41.120Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a precedential decision today in ParkerVision, Inc. Qualcomm Incorporated dismissing ParkerVision’s appeal from a judgment of non-infringement for lack of appellate jurisdiction. The CAFC determined that a partial final judgment entered under Federal Rule of Civil Procedure 54(b) was not final, since it resolved infringement of only some claims of a single patent. The CAFC also denied ParkerVision’s request to reassign the case to a different district judge on remand. The post Federal Circuit Dismisses Patent Owner’s Appeal for Lack of Final Judgment Under Rule 54(b) appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-      "id": "a29"
-    },
-    {
-      "title": "Federal Circuit dismisses ParkerVision appeal against Qualcomm: Rule 54(b) does not allow partial final judgment on some claims of one patent",
-      "url": "https://ipfray.com/federal-circuit-dismisses-parkervision-appeal-against-qualcomm-rule-54b-does-not-allow-partial-final-judgment-on-some-claims-of-one-patent/",
-      "description": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-09-30T17:07:25.000Z",
-      "fetchedAt": "2026-10-03T13:56:42.972Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The Federal Circuit has held that a patent is a single cause of action, so judgments on receiver claims cannot be appealed while transmitter claims remain pending. ParkerVision’s 15 years of litigation have returned to Florida.",
-      "id": "a30"
+      "id": "a26"
     }
   ]
 }
