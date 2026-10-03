@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-03T18:17:45.707Z",
+  "generatedAt": "2026-10-03T21:48:36.944Z",
   "date": "2026-10-04",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
@@ -13,14 +13,14 @@
           {
             "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
             "articleIds": [
-              "a16"
+              "a17"
             ],
             "subCategory": "semiconductors"
           },
           {
             "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
             "articleIds": [
-              "a22"
+              "a23"
             ],
             "subCategory": "mobile-chips"
           }
@@ -35,7 +35,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T12:58:51.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
             "platform-partner"
           ],
           "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-          "id": "a16"
+          "id": "a17"
         },
         {
           "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
@@ -56,7 +56,7 @@
           "sourceId": "eetimes",
           "sourceGroup": "semiconductor",
           "publishedAt": "2026-10-01T17:31:45.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.676Z",
+          "fetchedAt": "2026-10-03T21:48:31.053Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -64,7 +64,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-          "id": "a22"
+          "id": "a23"
         },
         {
           "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -74,7 +74,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-01T13:59:34.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -82,17 +82,17 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-          "id": "a23"
+          "id": "a24"
         },
         {
           "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-          "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+          "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
           "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
           "source": "IAM",
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-01T12:30:33.000Z",
-          "fetchedAt": "2026-10-03T18:17:40.310Z",
+          "fetchedAt": "2026-10-03T21:48:32.689Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -102,17 +102,17 @@
             "oem"
           ],
           "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-          "id": "a24"
+          "id": "a25"
         },
         {
           "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
-          "url": "https://www.iam-media.com/index.php/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
+          "url": "https://www.iam-media.com/article/toolgen-raises-millions-fund-cost-of-crucial-crispr-ip-battles",
           "description": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
           "source": "IAM",
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-01T12:21:48.000Z",
-          "fetchedAt": "2026-10-03T18:17:40.310Z",
+          "fetchedAt": "2026-10-03T21:48:32.689Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -120,12 +120,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-          "id": "a25"
+          "id": "a26"
         }
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -135,7 +135,7 @@
           {
             "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
             "articleIds": [
-              "a26"
+              "a27"
             ],
             "subCategory": "patent-litigation"
           }
@@ -150,7 +150,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-01T11:00:00.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "ip-legal",
           "subCategory": "patent-litigation",
@@ -158,12 +158,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-          "id": "a26"
+          "id": "a27"
         }
       ]
     },
     "growth-areas": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -174,15 +174,15 @@
       "articles": []
     },
     "macro-environment": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "macro-environment",
       "sectionTitle": "Macro",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles). A total of 21 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles). A total of 22 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "Geopolitics & Export Controls: Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
+            "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
             "articleIds": [
               "a1"
             ],
@@ -191,13 +191,35 @@
           {
             "text": "market-performance: A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
             "articleIds": [
-              "a10"
+              "a12"
             ],
             "subCategory": "market-performance"
           }
         ]
       },
       "articles": [
+        {
+          "title": "The best early October Prime Day deals happening now",
+          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available. Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
+          "source": "The Verge",
+          "sourceId": "the-verge",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-10-03T16:22:40.000Z",
+          "fetchedAt": "2026-10-03T21:48:30.926Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [
+            "oem",
+            "platform-partner"
+          ],
+          "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
+          "id": "a1"
+        },
         {
           "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
           "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWZIYUZfNkxfU1JDeTQxUXpKY1BJdUFMeU1DbHRPYlRrVEE2U09xYjZWQlQtYzJmN3pyVW5kYkNYNHVKbXdrMU5PVnRFUF80OTRIajV5dGtrQU90WEpJVXRwRndKX3RzM1FRZ21yLWhXQk9GNkdzWFJYcGQ2QkY3X3dKLU1vbnlYMnI5bVpJSW1uQ25oR2dlUnBlNGI2RkdfcXNrcG53dDNIUXF3NUhDd1U1UV9OOUtvMTJnZU5Ia3BldTJRaTJPNU9TdlRGYU9XS3Zpbl9maHhzNWJJUG51N1BvWXJzNkFRR1h6SWVmcHk?oc=5",
@@ -206,7 +228,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T15:47:00.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Quiver Quantitative",
           "geopoliticalBypass": true,
@@ -216,7 +238,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
-          "id": "a1"
+          "id": "a2"
         },
         {
           "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -226,7 +248,7 @@
           "sourceId": "techcrunch",
           "sourceGroup": "tech",
           "publishedAt": "2026-10-03T15:02:01.000Z",
-          "fetchedAt": "2026-10-03T18:17:37.874Z",
+          "fetchedAt": "2026-10-03T21:48:30.280Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -235,7 +257,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-          "id": "a2"
+          "id": "a3"
         },
         {
           "title": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
@@ -245,7 +267,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T12:02:00.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "The Times of India",
           "geopoliticalBypass": true,
@@ -255,7 +277,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
-          "id": "a3"
+          "id": "a4"
         },
         {
           "title": "China launches anti-dumping probe into European chemical exports",
@@ -265,7 +287,7 @@
           "sourceId": "ft",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T10:16:42.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.285Z",
+          "fetchedAt": "2026-10-03T21:48:30.788Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -274,7 +296,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
-          "id": "a4"
+          "id": "a5"
         },
         {
           "title": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
@@ -284,7 +306,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T07:00:06.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.668Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "International Business Times, Singapore Edition",
           "geopoliticalBypass": true,
@@ -294,7 +316,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
-          "id": "a5"
+          "id": "a6"
         },
         {
           "title": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China - Startup Fortune",
@@ -304,7 +326,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T05:17:36.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Startup Fortune",
           "geopoliticalBypass": true,
@@ -314,7 +336,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
-          "id": "a6"
+          "id": "a7"
         },
         {
           "title": "China, America and the new Great Game",
@@ -324,7 +346,7 @@
           "sourceId": "ft",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T04:00:30.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.285Z",
+          "fetchedAt": "2026-10-03T21:48:30.788Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -333,27 +355,27 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
-          "id": "a7"
+          "id": "a8"
         },
         {
-          "title": "US senators warn of China silicon carbide push - The Hans India",
+          "title": "US senators warn of China silicon carbide push - thehansindia.com",
           "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlFhSTRyc29MeXc0eGFIQ0dKQldBQncwc2hCNTZuVE9MU0llQVRNRmh4QkJIZ0FBRlU0Q0M4M1VFREFhZ05heTVsRkFEX0VGejBhLVdUblNNZ3lCTmtEcDZvN2pqRXNUMmNpcGxqNFVDNVZ1X20wWWxKNFpLWDJPXzRWWTZrOVIyOU1DMHc5aUtjMlVXUjRpb2kyRklFTWozYV9sUQ?oc=5",
-          "description": "US senators warn of China silicon carbide push The Hans India",
+          "description": "US senators warn of China silicon carbide push thehansindia.com",
           "source": "Geopolitics",
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T03:45:05.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.668Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
-          "googleNewsSource": "The Hans India",
+          "googleNewsSource": "thehansindia.com",
           "geopoliticalBypass": true,
           "section": "macro-environment",
           "subCategory": "geopolitics-export-controls",
           "subLabel": "Geopolitics & Export Controls",
           "competitors": [],
           "stakeholders": [],
-          "summary": "US senators warn of China silicon carbide push The Hans India",
-          "id": "a8"
+          "summary": "US senators warn of China silicon carbide push thehansindia.com",
+          "id": "a9"
         },
         {
           "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
@@ -363,7 +385,7 @@
           "sourceId": "bloomberg",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T03:27:54.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.220Z",
+          "fetchedAt": "2026-10-03T21:48:30.503Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -372,7 +394,27 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
-          "id": "a9"
+          "id": "a10"
+        },
+        {
+          "title": "Man Charged With Illegally Shipping Nvidia Chips To China - NDTV Profit",
+          "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0U1TlJzb1oxLXF6VkFUTllkV2tvYjBGbEx2RFZHcGZXYUYzenc5OHNEVVJjUFFlQVZJV21LZzhzLXk4ZjdOWnJXVDdsTW52YUpHekRrQ2FWN0ZYdDJhY2M2YVdtVEdxeW00TTE0WWtyTW9GcUlwRTNWdHRKT2xsUzVJcFNySFVpcE5IcS1URHBXczhEekpRU1FMVi1nLTh3d2Y2WEFHemRVa3BCaU840gGvAUFVX3lxTE1PRTVOUnNvWjEtcXpWQVROWWRXa29iMEZsTHZEVkdwZldhRjN6dzk4c0RVUmNQUWVBVklXbUtnOHMteThmN05acldUN2xNbnZhSkd6RGtDYVY3Rlh0MmFjYzZhV21UR3F5bTRNMTRZa3JNb0ZxSXBFM1Z0dEpPbGxTNUlwU3JIVWlwTkhxLVREcFdzOER6SlFTUUxWLWctOHd3ZjZYQUd6ZFVrcEJpTzg?oc=5",
+          "description": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-03T01:27:44.000Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "NDTV Profit",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
+          "id": "a11"
         },
         {
           "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -382,7 +424,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-03T00:30:03.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -390,7 +432,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-          "id": "a10"
+          "id": "a12"
         },
         {
           "title": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say - Los Angeles Times",
@@ -400,7 +442,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T23:54:21.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Los Angeles Times",
           "geopoliticalBypass": true,
@@ -410,7 +452,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
-          "id": "a11"
+          "id": "a13"
         },
         {
           "title": "California Man Charged in $300M China AI Chip Scheme - stl.news",
@@ -420,7 +462,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T22:00:15.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
+          "fetchedAt": "2026-10-03T21:48:36.904Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "stl.news",
           "geopoliticalBypass": true,
@@ -430,7 +472,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "California Man Charged in $300M China AI Chip Scheme stl.news",
-          "id": "a12"
+          "id": "a14"
         },
         {
           "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -440,7 +482,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T20:45:03.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.313Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -448,27 +490,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-          "id": "a13"
-        },
-        {
-          "title": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter - CCIA",
-          "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQTGc0QXRNVExJRTZ6Mk9LbFhaR0oxZFNyOTVNX0U1cXk2dmgxRW5Ma1ROZGNxRzNwNmd1UmJGcWJQMkMxdk03WEJUeE9aT2JKSHZBQ3ZPSWhWUk9kaDI4YUR0dWY4bTEyNWpnNHYyeUFwQ2QtVzhQNXdVb0hETGhIU1JDNVU0VFkwUkRQM3ZGdVA1cXZaWWFYSFRRcGl5OTlsUUxmOHhOajZqTzE1YXBwREJacHBmbHEwbEhJVWU4dnhVd2Myc0lPQTRsWmFxUjdkVVE?oc=5",
-          "description": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
-          "source": "Geopolitics",
-          "sourceId": "geopolitics",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-10-02T18:48:16.000Z",
-          "fetchedAt": "2026-10-03T18:17:45.667Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "CCIA",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "Tech Associations Present Semiconductor and Industrial Machinery Tariff Concerns in White House Letter CCIA",
-          "id": "a14"
+          "id": "a15"
         },
         {
           "title": "China targets 1M 50G-PON ports by 2030",
@@ -478,7 +500,7 @@
           "sourceId": "light-reading",
           "sourceGroup": "telecom",
           "publishedAt": "2026-10-02T14:12:21.000Z",
-          "fetchedAt": "2026-10-03T18:17:43.369Z",
+          "fetchedAt": "2026-10-03T21:48:35.370Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -487,7 +509,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-          "id": "a15"
+          "id": "a16"
         },
         {
           "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -497,7 +519,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T12:00:06.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.313Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -505,17 +527,17 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-          "id": "a17"
+          "id": "a18"
         },
         {
           "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-          "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+          "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
           "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
           "source": "IAM",
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-02T11:40:00.000Z",
-          "fetchedAt": "2026-10-03T18:17:40.310Z",
+          "fetchedAt": "2026-10-03T21:48:32.689Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -524,7 +546,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-          "id": "a18"
+          "id": "a19"
         },
         {
           "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -534,7 +556,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-02T08:00:09.000Z",
-          "fetchedAt": "2026-10-03T18:17:42.915Z",
+          "fetchedAt": "2026-10-03T21:48:34.855Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -543,7 +565,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-          "id": "a19"
+          "id": "a20"
         },
         {
           "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -553,7 +575,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-01T19:13:42.000Z",
-          "fetchedAt": "2026-10-03T18:17:42.915Z",
+          "fetchedAt": "2026-10-03T21:48:34.855Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -562,7 +584,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-          "id": "a20"
+          "id": "a21"
         },
         {
           "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -572,7 +594,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-01T18:01:28.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -580,7 +602,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-          "id": "a21"
+          "id": "a22"
         },
         {
           "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
@@ -590,7 +612,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-01T03:34:00.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -599,12 +621,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-          "id": "a27"
+          "id": "a28"
         }
       ]
     },
     "competitors": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -615,23 +637,52 @@
       "articles": []
     },
     "stakeholders": {
-      "generatedAt": "2026-10-03T18:17:45.705Z",
+      "generatedAt": "2026-10-03T21:48:36.941Z",
       "date": "2026-10-04",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
         "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
+            "articleIds": [
+              "a1"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
           {
             "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
             "articleIds": [
-              "a16"
+              "a17"
             ],
             "subCategory": "semiconductors"
           }
         ]
       },
       "articles": [
+        {
+          "title": "The best early October Prime Day deals happening now",
+          "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+          "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available. Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
+          "source": "The Verge",
+          "sourceId": "the-verge",
+          "sourceGroup": "tech",
+          "publishedAt": "2026-10-03T16:22:40.000Z",
+          "fetchedAt": "2026-10-03T21:48:30.926Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [
+            "oem",
+            "platform-partner"
+          ],
+          "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
+          "id": "a1"
+        },
         {
           "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
           "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -640,7 +691,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-10-02T12:58:51.000Z",
-          "fetchedAt": "2026-10-03T18:17:38.002Z",
+          "fetchedAt": "2026-10-03T21:48:30.314Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -651,17 +702,17 @@
             "platform-partner"
           ],
           "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-          "id": "a16"
+          "id": "a17"
         },
         {
           "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-          "url": "https://www.iam-media.com/index.php/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
+          "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
           "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
           "source": "IAM",
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-10-01T12:30:33.000Z",
-          "fetchedAt": "2026-10-03T18:17:40.310Z",
+          "fetchedAt": "2026-10-03T21:48:32.689Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -671,10 +722,10 @@
             "oem"
           ],
           "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-          "id": "a24"
+          "id": "a25"
         }
       ]
     }
   },
-  "totalArticles": 29
+  "totalArticles": 31
 }
