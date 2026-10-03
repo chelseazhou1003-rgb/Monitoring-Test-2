@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-02T23:17:22.737Z",
+  "generatedAt": "2026-10-03T02:21:35.239Z",
   "date": "2026-10-03",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a7"
+          "a11"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-02T23:17:16.497Z",
+      "fetchedAt": "2026-10-03T02:21:29.898Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -35,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a7"
+      "id": "a11"
     },
     {
       "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -45,7 +45,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-02T23:17:19.024Z",
+      "fetchedAt": "2026-10-03T02:21:32.053Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -55,7 +55,7 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a22"
+      "id": "a24"
     }
   ]
 }
