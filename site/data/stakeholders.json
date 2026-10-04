@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-04T08:50:28.716Z",
+  "generatedAt": "2026-10-04T14:59:41.428Z",
   "date": "2026-10-04",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
         "articleIds": [
-          "a1"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a14"
+          "a15"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T06:16:06.000Z",
-      "fetchedAt": "2026-10-04T08:50:28.678Z",
+      "fetchedAt": "2026-10-04T14:59:41.394Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Digital Watch Observatory",
       "geopoliticalBypass": true,
@@ -43,7 +43,7 @@
         "regulators"
       ],
       "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "id": "a1"
+      "id": "a3"
     },
     {
       "title": "The best early October Prime Day deals happening now",
@@ -53,7 +53,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-03T16:22:40.000Z",
-      "fetchedAt": "2026-10-04T08:50:24.025Z",
+      "fetchedAt": "2026-10-04T14:59:35.835Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -65,7 +65,7 @@
         "platform-partner"
       ],
       "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -75,7 +75,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-04T08:50:23.727Z",
+      "fetchedAt": "2026-10-04T14:59:35.412Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -86,27 +86,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a14"
-    },
-    {
-      "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
-      "url": "https://www.iam-media.com/article/apple-licence-renewal-offers-cushion-qualcomm-faces-iphone-chip-revenue-decline",
-      "description": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-04T08:50:25.671Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a22"
+      "id": "a15"
     }
   ]
 }
