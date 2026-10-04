@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-03T21:48:36.943Z",
+  "generatedAt": "2026-10-04T02:00:27.122Z",
   "date": "2026-10-04",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "topHeadlineId": "a17",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-      "topHeadlineId": "a27",
+      "topHeadlineId": "a26",
       "briefingSummary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce"
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 22,
+      "articleCount": 18,
       "topHeadline": "The best early October Prime Day deals happening now",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles). A total of 22 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 3,
       "topHeadline": "The best early October Prime Day deals happening now",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 31
+  "totalArticles": 29
 }

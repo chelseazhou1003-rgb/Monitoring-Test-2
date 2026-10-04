@@ -1,28 +1,64 @@
 {
-  "generatedAt": "2026-10-03T21:48:36.941Z",
+  "generatedAt": "2026-10-04T02:00:27.119Z",
   "date": "2026-10-04",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+        "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
         "articleIds": [
-          "a17"
-        ],
-        "subCategory": "semiconductors"
-      },
-      {
-        "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
-        "articleIds": [
-          "a23"
+          "a1"
         ],
         "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
+      "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-04T01:11:18.000Z",
+      "fetchedAt": "2026-10-04T02:00:20.093Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+      "id": "a1"
+    },
+    {
+      "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+      "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
+      "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-03T22:52:32.000Z",
+      "fetchedAt": "2026-10-04T02:00:20.093Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+      "id": "a2"
+    },
     {
       "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
       "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -31,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-03T21:48:30.314Z",
+      "fetchedAt": "2026-10-04T02:00:20.093Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -42,7 +78,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
@@ -52,7 +88,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-01T17:31:45.000Z",
-      "fetchedAt": "2026-10-03T21:48:31.053Z",
+      "fetchedAt": "2026-10-04T02:00:20.538Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -60,7 +96,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -70,7 +106,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-01T13:59:34.000Z",
-      "fetchedAt": "2026-10-03T21:48:30.314Z",
+      "fetchedAt": "2026-10-04T02:00:20.093Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -78,7 +114,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-      "id": "a24"
+      "id": "a23"
     },
     {
       "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -88,7 +124,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:30:33.000Z",
-      "fetchedAt": "2026-10-03T21:48:32.689Z",
+      "fetchedAt": "2026-10-04T02:00:21.726Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -98,7 +134,7 @@
         "oem"
       ],
       "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-      "id": "a25"
+      "id": "a24"
     },
     {
       "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -108,7 +144,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-01T12:21:48.000Z",
-      "fetchedAt": "2026-10-03T21:48:32.689Z",
+      "fetchedAt": "2026-10-04T02:00:21.726Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -116,7 +152,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-      "id": "a26"
+      "id": "a25"
     }
   ]
 }

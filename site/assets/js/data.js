@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,66 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+          "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
           "articleIds": [
-            "a17"
-          ],
-          "subCategory": "semiconductors"
-        },
-        {
-          "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
-          "articleIds": [
-            "a23"
+            "a1"
           ],
           "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+        "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
+        "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-04T01:11:18.000Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+        "id": "a1"
+      },
+      {
+        "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+        "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
+        "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-03T22:52:32.000Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+        "id": "a2"
+      },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
         "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -45,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -56,7 +92,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
@@ -66,7 +102,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-01T17:31:45.000Z",
-        "fetchedAt": "2026-10-03T21:48:31.053Z",
+        "fetchedAt": "2026-10-04T02:00:20.538Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -74,7 +110,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-        "id": "a23"
+        "id": "a22"
       },
       {
         "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -84,7 +120,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T13:59:34.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -92,7 +128,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-        "id": "a24"
+        "id": "a23"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -102,7 +138,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-03T21:48:32.689Z",
+        "fetchedAt": "2026-10-04T02:00:21.726Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -112,7 +148,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a25"
+        "id": "a24"
       },
       {
         "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -122,7 +158,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:21:48.000Z",
-        "fetchedAt": "2026-10-03T21:48:32.689Z",
+        "fetchedAt": "2026-10-04T02:00:21.726Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -130,12 +166,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-        "id": "a26"
+        "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -146,7 +182,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -156,7 +192,7 @@ export const NEWS_DATA = {
         {
           "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
           "articleIds": [
-            "a27"
+            "a26"
           ],
           "subCategory": "patent-litigation"
         }
@@ -171,7 +207,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T11:00:00.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -179,26 +215,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-        "id": "a27"
+        "id": "a26"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-03T21:48:36.943Z",
+    "generatedAt": "2026-10-04T02:00:27.122Z",
     "date": "2026-10-04",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "topHeadlineId": "a17",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Federal Circuit Remands Case Back to District Court in ParkerVision v. Qualcomm",
-        "topHeadlineId": "a27",
+        "topHeadlineId": "a26",
         "briefingSummary": "One article today covering Patent Litigation. Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announce"
       },
       "growth-areas": {
@@ -210,10 +246,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 22,
+        "articleCount": 18,
         "topHeadline": "The best early October Prime Day deals happening now",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles). A total of 22 articles were aggregated from monitored sources."
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -226,31 +262,31 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 3,
         "topHeadline": "The best early October Prime Day deals happening now",
-        "topHeadlineId": "a1",
+        "topHeadlineId": "a3",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 31
+    "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles). A total of 22 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
           "articleIds": [
-            "a1"
+            "a3"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "market-performance: A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
           "articleIds": [
-            "a12"
+            "a13"
           ],
           "subCategory": "market-performance"
         }
@@ -265,7 +301,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T16:22:40.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.926Z",
+        "fetchedAt": "2026-10-04T02:00:20.255Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -277,7 +313,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
@@ -287,7 +323,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T15:47:00.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
+        "fetchedAt": "2026-10-04T02:00:27.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Quiver Quantitative",
         "geopoliticalBypass": true,
@@ -297,7 +333,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -307,7 +343,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T15:02:01.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.280Z",
+        "fetchedAt": "2026-10-04T02:00:19.856Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -316,7 +352,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
@@ -326,7 +362,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T12:02:00.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
+        "fetchedAt": "2026-10-04T02:00:27.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
@@ -336,7 +372,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "China launches anti-dumping probe into European chemical exports",
@@ -346,7 +382,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T10:16:42.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.788Z",
+        "fetchedAt": "2026-10-04T02:00:20.192Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -355,7 +391,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
@@ -365,7 +401,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T07:00:06.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
+        "fetchedAt": "2026-10-04T02:00:27.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "International Business Times, Singapore Edition",
         "geopoliticalBypass": true,
@@ -375,7 +411,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China - Startup Fortune",
@@ -385,7 +421,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T05:17:36.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
+        "fetchedAt": "2026-10-04T02:00:27.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Startup Fortune",
         "geopoliticalBypass": true,
@@ -395,7 +431,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "China, America and the new Great Game",
@@ -405,7 +441,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T04:00:30.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.788Z",
+        "fetchedAt": "2026-10-04T02:00:20.192Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -414,27 +450,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
-        "id": "a8"
+        "id": "a10"
       },
       {
-        "title": "US senators warn of China silicon carbide push - thehansindia.com",
+        "title": "US senators warn of China silicon carbide push - The Hans India",
         "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlFhSTRyc29MeXc0eGFIQ0dKQldBQncwc2hCNTZuVE9MU0llQVRNRmh4QkJIZ0FBRlU0Q0M4M1VFREFhZ05heTVsRkFEX0VGejBhLVdUblNNZ3lCTmtEcDZvN2pqRXNUMmNpcGxqNFVDNVZ1X20wWWxKNFpLWDJPXzRWWTZrOVIyOU1DMHc5aUtjMlVXUjRpb2kyRklFTWozYV9sUQ?oc=5",
-        "description": "US senators warn of China silicon carbide push thehansindia.com",
+        "description": "US senators warn of China silicon carbide push The Hans India",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T03:45:05.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
+        "fetchedAt": "2026-10-04T02:00:27.080Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "thehansindia.com",
+        "googleNewsSource": "The Hans India",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "US senators warn of China silicon carbide push thehansindia.com",
-        "id": "a9"
+        "summary": "US senators warn of China silicon carbide push The Hans India",
+        "id": "a11"
       },
       {
         "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
@@ -444,7 +480,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T03:27:54.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.503Z",
+        "fetchedAt": "2026-10-04T02:00:20.044Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -453,27 +489,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
-        "id": "a10"
-      },
-      {
-        "title": "Man Charged With Illegally Shipping Nvidia Chips To China - NDTV Profit",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0U1TlJzb1oxLXF6VkFUTllkV2tvYjBGbEx2RFZHcGZXYUYzenc5OHNEVVJjUFFlQVZJV21LZzhzLXk4ZjdOWnJXVDdsTW52YUpHekRrQ2FWN0ZYdDJhY2M2YVdtVEdxeW00TTE0WWtyTW9GcUlwRTNWdHRKT2xsUzVJcFNySFVpcE5IcS1URHBXczhEekpRU1FMVi1nLTh3d2Y2WEFHemRVa3BCaU840gGvAUFVX3lxTE1PRTVOUnNvWjEtcXpWQVROWWRXa29iMEZsTHZEVkdwZldhRjN6dzk4c0RVUmNQUWVBVklXbUtnOHMteThmN05acldUN2xNbnZhSkd6RGtDYVY3Rlh0MmFjYzZhV21UR3F5bTRNMTRZa3JNb0ZxSXBFM1Z0dEpPbGxTNUlwU3JIVWlwTkhxLVREcFdzOER6SlFTUUxWLWctOHd3ZjZYQUd6ZFVrcEJpTzg?oc=5",
-        "description": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-03T01:27:44.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "NDTV Profit",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
-        "id": "a11"
+        "id": "a12"
       },
       {
         "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -483,7 +499,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T00:30:03.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -491,47 +507,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "id": "a12"
-      },
-      {
-        "title": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say - Los Angeles Times",
-        "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGFzaExkZWZRdi1wNkFsdU5DWkl5bVhqbW9jcktza0E2MGgzRmNuOS1QSUZ2Z1dOd3V3QWFjdFZwNTVHTEQ4bXJ2cGpiQjZua0Nia1ptNnZvMTVsTXplcHZMQlpKSzdIeDV1TENrSnlvQ0R1cVBxdnJrUER0ZWxobnBaX2dGNms2U29UTHlRVjJFLWpIZnFRS2x1SXNEOThmdDAyRnMwc083Q2huV1RfTDhvV3JyaXlReUp6NQ?oc=5",
-        "description": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T23:54:21.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Los Angeles Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
         "id": "a13"
-      },
-      {
-        "title": "California Man Charged in $300M China AI Chip Scheme - stl.news",
-        "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fTTNuaHpWYzlyOTliNFNKaTdreTNrYmVrR1hOdlNncEJaano2b1R5Z1pZbmJXQkRTaEJ5N0JVUW5oUXJNTXRlS280OWQ0T1NYWi0zMlNkQTE4THhnRjhnemo2Zy1lQkI5NE9xODNrYmQwT0lsaWVFVnlOdW5rdw?oc=5",
-        "description": "California Man Charged in $300M China AI Chip Scheme stl.news",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T22:00:15.000Z",
-        "fetchedAt": "2026-10-03T21:48:36.904Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "stl.news",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "California Man Charged in $300M China AI Chip Scheme stl.news",
-        "id": "a14"
       },
       {
         "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -541,7 +517,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T20:45:03.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.313Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -549,7 +525,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "id": "a15"
+        "id": "a14"
       },
       {
         "title": "China targets 1M 50G-PON ports by 2030",
@@ -559,7 +535,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-02T14:12:21.000Z",
-        "fetchedAt": "2026-10-03T21:48:35.370Z",
+        "fetchedAt": "2026-10-04T02:00:23.140Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -568,7 +544,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "id": "a16"
+        "id": "a15"
       },
       {
         "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -578,7 +554,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:00:06.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.313Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -586,7 +562,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a18"
+        "id": "a17"
       },
       {
         "title": "Rare earth rivalries creating difficulties for trade secret strategy",
@@ -596,7 +572,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T11:40:00.000Z",
-        "fetchedAt": "2026-10-03T21:48:32.689Z",
+        "fetchedAt": "2026-10-04T02:00:21.726Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -605,7 +581,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "id": "a19"
+        "id": "a18"
       },
       {
         "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -615,7 +591,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T08:00:09.000Z",
-        "fetchedAt": "2026-10-03T21:48:34.855Z",
+        "fetchedAt": "2026-10-04T02:00:25.423Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -624,7 +600,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "id": "a20"
+        "id": "a19"
       },
       {
         "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -634,7 +610,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T19:13:42.000Z",
-        "fetchedAt": "2026-10-03T21:48:34.855Z",
+        "fetchedAt": "2026-10-04T02:00:25.423Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -643,7 +619,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-        "id": "a21"
+        "id": "a20"
       },
       {
         "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -653,7 +629,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-01T18:01:28.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -661,26 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-        "id": "a22"
-      },
-      {
-        "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
-        "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-033400605.html?.tsrc=rss",
-        "description": "WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise. Roof",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T03:34:00.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-        "id": "a28"
+        "id": "a21"
       }
     ]
   },
@@ -876,7 +833,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-03T21:48:36.941Z",
+    "generatedAt": "2026-10-04T02:00:27.119Z",
     "date": "2026-10-04",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -886,14 +843,14 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
           "articleIds": [
-            "a1"
+            "a3"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
           "articleIds": [
-            "a17"
+            "a16"
           ],
           "subCategory": "semiconductors"
         }
@@ -908,7 +865,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T16:22:40.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.926Z",
+        "fetchedAt": "2026-10-04T02:00:20.255Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -920,7 +877,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -930,7 +887,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-03T21:48:30.314Z",
+        "fetchedAt": "2026-10-04T02:00:20.093Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -941,7 +898,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -951,7 +908,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T12:30:33.000Z",
-        "fetchedAt": "2026-10-03T21:48:32.689Z",
+        "fetchedAt": "2026-10-04T02:00:21.726Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -961,7 +918,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-        "id": "a25"
+        "id": "a24"
       }
     ]
   },
@@ -17052,34 +17009,70 @@ export const NEWS_DATA = {
     "totalArticles": 33
   },
   "archive-2026-10-04": {
-    "generatedAt": "2026-10-03T21:48:36.944Z",
+    "generatedAt": "2026-10-04T02:00:27.122Z",
     "date": "2026-10-04",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (2 articles). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+              "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
               "articleIds": [
-                "a17"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Mobile Chips: Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic A",
-              "articleIds": [
-                "a23"
+                "a1"
               ],
               "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
+            "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T01:11:18.000Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+            "id": "a1"
+          },
+          {
+            "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+            "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
+            "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T22:52:32.000Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+            "id": "a2"
+          },
           {
             "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
             "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -17088,7 +17081,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:58:51.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17099,7 +17092,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-            "id": "a17"
+            "id": "a16"
           },
           {
             "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
@@ -17109,7 +17102,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-01T17:31:45.000Z",
-            "fetchedAt": "2026-10-03T21:48:31.053Z",
+            "fetchedAt": "2026-10-04T02:00:20.538Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -17117,7 +17110,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-            "id": "a23"
+            "id": "a22"
           },
           {
             "title": "Qualcomm boss says tech will turn us into ‘walking cameras’ with AI systems on our face",
@@ -17127,7 +17120,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T13:59:34.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17135,7 +17128,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New regulation could be required to ensure that breakthroughs including smart glasses are safe, chip boss tells David Phelan",
-            "id": "a24"
+            "id": "a23"
           },
           {
             "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -17145,7 +17138,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-03T21:48:32.689Z",
+            "fetchedAt": "2026-10-04T02:00:21.726Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17155,7 +17148,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a25"
+            "id": "a24"
           },
           {
             "title": "ToolGen raises millions to fund cost of crucial CRISPR IP battles",
@@ -17165,7 +17158,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:21:48.000Z",
-            "fetchedAt": "2026-10-03T21:48:32.689Z",
+            "fetchedAt": "2026-10-04T02:00:21.726Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17173,12 +17166,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Korean company’s ambition to become the ‘Qualcomm of gene-editing’ may hinge on the outcome of several disputes being heard over the next two years",
-            "id": "a26"
+            "id": "a25"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -17188,7 +17181,7 @@ export const NEWS_DATA = {
             {
               "text": "Patent Litigation: Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circui",
               "articleIds": [
-                "a27"
+                "a26"
               ],
               "subCategory": "patent-litigation"
             }
@@ -17203,7 +17196,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T11:00:00.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -17211,12 +17204,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Appellate Court Dismisses Appeal for Lack of JurisdictionJACKSONVILLE, FL / ACCESS Newswire / October 1, 2026 / (\"the Company\") (OTCQB:PRKR), announced that the Court of Appeals for the Federal Circuit (\"Federal Circuit\" or \"CAFC\") issued its order in the expedited appeal of the Company's patent infringement case against Qualcomm, finding that the CAFC does not currently have jurisdiction to determine the merits of the appeal and remanding the case back to the middle district of Florida.The Fede",
-            "id": "a27"
+            "id": "a26"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -17227,24 +17220,24 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles). A total of 22 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
               "articleIds": [
-                "a1"
+                "a3"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "market-performance: A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
               "articleIds": [
-                "a12"
+                "a13"
               ],
               "subCategory": "market-performance"
             }
@@ -17259,7 +17252,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-03T16:22:40.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.926Z",
+            "fetchedAt": "2026-10-04T02:00:20.255Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17271,7 +17264,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
@@ -17281,7 +17274,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T15:47:00.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
+            "fetchedAt": "2026-10-04T02:00:27.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Quiver Quantitative",
             "geopoliticalBypass": true,
@@ -17291,7 +17284,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -17301,7 +17294,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-03T15:02:01.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.280Z",
+            "fetchedAt": "2026-10-04T02:00:19.856Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17310,7 +17303,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme - The Times of India",
@@ -17320,7 +17313,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T12:02:00.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
+            "fetchedAt": "2026-10-04T02:00:27.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Times of India",
             "geopoliticalBypass": true,
@@ -17330,7 +17323,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "California tech company owner arrested over alleged $300 million China chip-smuggling scheme The Times of India",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "China launches anti-dumping probe into European chemical exports",
@@ -17340,7 +17333,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T10:16:42.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.788Z",
+            "fetchedAt": "2026-10-04T02:00:20.192Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17349,7 +17342,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Latest tit-for-tat move follows three similar investigations launched by the EU last week",
-            "id": "a5"
+            "id": "a7"
           },
           {
             "title": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China - International Business Times, Singapore Edition",
@@ -17359,7 +17352,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T07:00:06.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
+            "fetchedAt": "2026-10-04T02:00:27.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "International Business Times, Singapore Edition",
             "geopoliticalBypass": true,
@@ -17369,7 +17362,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "California Tech CEO Arrested in $300 Million Nvidia AI Chip Smuggling Scheme to China International Business Times, Singapore Edition",
-            "id": "a6"
+            "id": "a8"
           },
           {
             "title": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China - Startup Fortune",
@@ -17379,7 +17372,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T05:17:36.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
+            "fetchedAt": "2026-10-04T02:00:27.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Startup Fortune",
             "geopoliticalBypass": true,
@@ -17389,7 +17382,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "California tech CEO charged in $300 million scheme to smuggle Nvidia chips to China Startup Fortune",
-            "id": "a7"
+            "id": "a9"
           },
           {
             "title": "China, America and the new Great Game",
@@ -17399,7 +17392,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T04:00:30.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.788Z",
+            "fetchedAt": "2026-10-04T02:00:20.192Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17408,27 +17401,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Which power will prevail? As in the 19th-century struggle between the UK and Russia, the answer may depend on forces beyond either’s control",
-            "id": "a8"
+            "id": "a10"
           },
           {
-            "title": "US senators warn of China silicon carbide push - thehansindia.com",
+            "title": "US senators warn of China silicon carbide push - The Hans India",
             "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdlFhSTRyc29MeXc0eGFIQ0dKQldBQncwc2hCNTZuVE9MU0llQVRNRmh4QkJIZ0FBRlU0Q0M4M1VFREFhZ05heTVsRkFEX0VGejBhLVdUblNNZ3lCTmtEcDZvN2pqRXNUMmNpcGxqNFVDNVZ1X20wWWxKNFpLWDJPXzRWWTZrOVIyOU1DMHc5aUtjMlVXUjRpb2kyRklFTWozYV9sUQ?oc=5",
-            "description": "US senators warn of China silicon carbide push thehansindia.com",
+            "description": "US senators warn of China silicon carbide push The Hans India",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T03:45:05.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
+            "fetchedAt": "2026-10-04T02:00:27.080Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "thehansindia.com",
+            "googleNewsSource": "The Hans India",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "US senators warn of China silicon carbide push thehansindia.com",
-            "id": "a9"
+            "summary": "US senators warn of China silicon carbide push The Hans India",
+            "id": "a11"
           },
           {
             "title": "Taiwan Foreign Minister to Visit Arizona to Deepen Economic Ties",
@@ -17438,7 +17431,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T03:27:54.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.503Z",
+            "fetchedAt": "2026-10-04T02:00:20.044Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17447,27 +17440,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan’s foreign minister is set to visit Arizona for meetings with local officials and semiconductor companies, underscoring Taipei’s effort to deepen economic ties with the US as President Donald Trump seeks to stabilize relations with China.",
-            "id": "a10"
-          },
-          {
-            "title": "Man Charged With Illegally Shipping Nvidia Chips To China - NDTV Profit",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNT0U1TlJzb1oxLXF6VkFUTllkV2tvYjBGbEx2RFZHcGZXYUYzenc5OHNEVVJjUFFlQVZJV21LZzhzLXk4ZjdOWnJXVDdsTW52YUpHekRrQ2FWN0ZYdDJhY2M2YVdtVEdxeW00TTE0WWtyTW9GcUlwRTNWdHRKT2xsUzVJcFNySFVpcE5IcS1URHBXczhEekpRU1FMVi1nLTh3d2Y2WEFHemRVa3BCaU840gGvAUFVX3lxTE1PRTVOUnNvWjEtcXpWQVROWWRXa29iMEZsTHZEVkdwZldhRjN6dzk4c0RVUmNQUWVBVklXbUtnOHMteThmN05acldUN2xNbnZhSkd6RGtDYVY3Rlh0MmFjYzZhV21UR3F5bTRNMTRZa3JNb0ZxSXBFM1Z0dEpPbGxTNUlwU3JIVWlwTkhxLVREcFdzOER6SlFTUUxWLWctOHd3ZjZYQUd6ZFVrcEJpTzg?oc=5",
-            "description": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-03T01:27:44.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NDTV Profit",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Man Charged With Illegally Shipping Nvidia Chips To China NDTV Profit",
-            "id": "a11"
+            "id": "a12"
           },
           {
             "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -17477,7 +17450,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T00:30:03.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17485,47 +17458,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-            "id": "a12"
-          },
-          {
-            "title": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say - Los Angeles Times",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdGFzaExkZWZRdi1wNkFsdU5DWkl5bVhqbW9jcktza0E2MGgzRmNuOS1QSUZ2Z1dOd3V3QWFjdFZwNTVHTEQ4bXJ2cGpiQjZua0Nia1ptNnZvMTVsTXplcHZMQlpKSzdIeDV1TENrSnlvQ0R1cVBxdnJrUER0ZWxobnBaX2dGNms2U29UTHlRVjJFLWpIZnFRS2x1SXNEOThmdDAyRnMwc083Q2huV1RfTDhvV3JyaXlReUp6NQ?oc=5",
-            "description": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-02T23:54:21.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Los Angeles Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "California man’s smuggling scheme sent $300 million in AI hardware to China, feds say Los Angeles Times",
             "id": "a13"
-          },
-          {
-            "title": "California Man Charged in $300M China AI Chip Scheme - stl.news",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9fTTNuaHpWYzlyOTliNFNKaTdreTNrYmVrR1hOdlNncEJaano2b1R5Z1pZbmJXQkRTaEJ5N0JVUW5oUXJNTXRlS280OWQ0T1NYWi0zMlNkQTE4THhnRjhnemo2Zy1lQkI5NE9xODNrYmQwT0lsaWVFVnlOdW5rdw?oc=5",
-            "description": "California Man Charged in $300M China AI Chip Scheme stl.news",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-02T22:00:15.000Z",
-            "fetchedAt": "2026-10-03T21:48:36.904Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "stl.news",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "California Man Charged in $300M China AI Chip Scheme stl.news",
-            "id": "a14"
           },
           {
             "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -17535,7 +17468,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T20:45:03.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.313Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17543,7 +17476,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-            "id": "a15"
+            "id": "a14"
           },
           {
             "title": "China targets 1M 50G-PON ports by 2030",
@@ -17553,7 +17486,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-02T14:12:21.000Z",
-            "fetchedAt": "2026-10-03T21:48:35.370Z",
+            "fetchedAt": "2026-10-04T02:00:23.140Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17562,7 +17495,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-            "id": "a16"
+            "id": "a15"
           },
           {
             "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -17572,7 +17505,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:00:06.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.313Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17580,7 +17513,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-            "id": "a18"
+            "id": "a17"
           },
           {
             "title": "Rare earth rivalries creating difficulties for trade secret strategy",
@@ -17590,7 +17523,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-02T11:40:00.000Z",
-            "fetchedAt": "2026-10-03T21:48:32.689Z",
+            "fetchedAt": "2026-10-04T02:00:21.726Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17599,7 +17532,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-            "id": "a19"
+            "id": "a18"
           },
           {
             "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -17609,7 +17542,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-02T08:00:09.000Z",
-            "fetchedAt": "2026-10-03T21:48:34.855Z",
+            "fetchedAt": "2026-10-04T02:00:25.423Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17618,7 +17551,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-            "id": "a20"
+            "id": "a19"
           },
           {
             "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -17628,7 +17561,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T19:13:42.000Z",
-            "fetchedAt": "2026-10-03T21:48:34.855Z",
+            "fetchedAt": "2026-10-04T02:00:25.423Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17637,7 +17570,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-            "id": "a21"
+            "id": "a20"
           },
           {
             "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
@@ -17647,7 +17580,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-01T18:01:28.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17655,31 +17588,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-            "id": "a22"
-          },
-          {
-            "title": "From Overseas Range Records to Zero-Carbon Factories: Chery Auto to Showcase Green Technology at 2026 Chery International User Summit",
-            "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-033400605.html?.tsrc=rss",
-            "description": "WUHU, China, Sept. 30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise. Roof",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-01T03:34:00.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "30, 2026 (GLOBE NEWSWIRE) -- The 2026 Chery International User Summit will be held from October 18 to 24 at Chery Auto’s global headquarters in Wuhu, China. Focusing on three core areas — artificial intelligence, intelligent vehicles and new energy — Chery Auto will present its full-stack technological capabilities, from foundational architectures to global mass-production deployment, as it accelerates its transformation into a global high-tech green ecosystem enterprise.",
-            "id": "a28"
+            "id": "a21"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -17690,7 +17604,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-03T21:48:36.941Z",
+        "generatedAt": "2026-10-04T02:00:27.119Z",
         "date": "2026-10-04",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -17700,14 +17614,14 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, whic",
               "articleIds": [
-                "a1"
+                "a3"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
               "articleIds": [
-                "a17"
+                "a16"
               ],
               "subCategory": "semiconductors"
             }
@@ -17722,7 +17636,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-03T16:22:40.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.926Z",
+            "fetchedAt": "2026-10-04T02:00:20.255Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17734,7 +17648,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -17744,7 +17658,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:58:51.000Z",
-            "fetchedAt": "2026-10-03T21:48:30.314Z",
+            "fetchedAt": "2026-10-04T02:00:20.093Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17755,7 +17669,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-            "id": "a17"
+            "id": "a16"
           },
           {
             "title": "Apple licence renewal offers cushion as Qualcomm faces iPhone chip revenue decline",
@@ -17765,7 +17679,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-01T12:30:33.000Z",
-            "fetchedAt": "2026-10-03T21:48:32.689Z",
+            "fetchedAt": "2026-10-04T02:00:21.726Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17775,12 +17689,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm expects Apple-related sales to halve, sharpening the importance of its licensing arm",
-            "id": "a25"
+            "id": "a24"
           }
         ]
       }
     },
-    "totalArticles": 31
+    "totalArticles": 29
   }
 };
 
