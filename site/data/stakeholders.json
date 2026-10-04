@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-04T18:48:31.319Z",
+  "generatedAt": "2026-10-04T22:32:33.173Z",
   "date": "2026-10-05",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
         "articleIds": [
-          "a4"
+          "a5"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a14"
+          "a13"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T06:16:06.000Z",
-      "fetchedAt": "2026-10-04T18:48:31.288Z",
+      "fetchedAt": "2026-10-04T22:32:33.145Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Digital Watch Observatory",
       "geopoliticalBypass": true,
@@ -43,7 +43,7 @@
         "regulators"
       ],
       "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "id": "a4"
+      "id": "a5"
     },
     {
       "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -53,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-04T18:48:24.605Z",
+      "fetchedAt": "2026-10-04T22:32:26.057Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a14"
+      "id": "a13"
     }
   ]
 }
