@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.319Z",
+    "date": "2026-10-05",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,24 +13,24 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.318Z",
+    "date": "2026-10-05",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
           "articleIds": [
-            "a6"
+            "a7"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
           "articleIds": [
-            "a8"
+            "a9"
           ],
           "subCategory": "semiconductors"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T01:11:18.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.604Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T22:52:32.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-        "id": "a8"
+        "id": "a9"
       },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -92,31 +92,13 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a15"
-      },
-      {
-        "title": "Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026",
-        "url": "https://www.eetimes.com/qualcomm-doubles-down-on-agentic-ai-at-snapdragon-summit-2026/",
-        "description": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-        "source": "EE Times",
-        "sourceId": "eetimes",
-        "sourceGroup": "semiconductor",
-        "publishedAt": "2026-10-01T17:31:45.000Z",
-        "fetchedAt": "2026-10-04T14:59:36.172Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm introduced two distinct Snapdragon 8 Elite Gen 6 SoCs for high-end smartphones as it expands personal agentic AI across mobile, wearables, and PCs. The post Qualcomm Doubles Down on Agentic AI at Snapdragon Summit 2026 appeared first on EE Times.",
-        "id": "a21"
+        "id": "a14"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.318Z",
+    "date": "2026-10-05",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -126,8 +108,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.318Z",
+    "date": "2026-10-05",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -137,15 +119,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-04T14:59:41.430Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.321Z",
+    "date": "2026-10-05",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
+        "articleCount": 3,
         "topHeadline": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
-        "topHeadlineId": "a6",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a7",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -163,10 +145,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 17,
-        "topHeadline": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
+        "articleCount": 15,
+        "topHeadline": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles). A total of 15 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -177,24 +159,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 24
+    "totalArticles": 20
   },
   "macro-environment": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.319Z",
+    "date": "2026-10-05",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles). A total of 15 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
+          "text": "Geopolitics & Export Controls: China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
           "articleIds": [
             "a1"
           ],
@@ -203,13 +185,33 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
           "articleIds": [
-            "a4"
+            "a5"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3Iwd0t3M0NfdGM3SWMyajBvLVRleFdCZWRsSU84cnhJbGxzRlZKN2cxR2syYkRvN0JYZ1ZjMXViN0w0RlNESktPVXNkRTh5OHlKTjloRnlzTnViVWFyNFY0NGpzV2Zkdm4wOE1LcUZmMDU5eFE?oc=5",
+        "description": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-04T18:15:00.000Z",
+        "fetchedAt": "2026-10-04T18:48:31.288Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "finance.biggo.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+        "id": "a1"
+      },
       {
         "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
         "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkJpVGNNbm9idEo2b2doX0dING8wTXg0dll5dFFLOXNxbjAyWU1KOFdveHJxYnA2cWZvWEZRV0hnOEZTWUpuYWhrY2NnVlMySUJPMC1QSTFsdnl6dUY5SU82bVVteGV0N18yYnNhQml1R25BemVqYlREMHF0VDVHQlE2YTZTdlRneEFfVDZZNEc1TmRfWms3bjBoVGR1MkpfVWx0Yy1qZ0dFdkdzak9PZlkycUxabXJfTktzUjhRRDBxYzVMcVlPYUV6cVdfYU90R3c2NTV4T0JYemPSAeABQVVfeXFMTmtpMlVNcHk1U0JyV2Ruc3hDeXdoTVVHMGItcUdFMGZXa3pwVTVPX2xZSkhXTUtEalVHamFCNTZyWnBENDFpRms5S0RSamNrNmVwZlRPRExxS2JkZUN4dkxtZmtKc0FXS21QSFcyelA3X25NbXd0QzVraDR3NFVILVUtT3Z4Q21sLXg2M3lJOXhfZjdXQVU2OS1CdlB6VF9pMWhZdnh1dGlXbXlRN1FESU4wVFRZdW5CdnZJTnQwdFNRbFBUMGpqUnZqb0lxXzQ0SlhPb2RCOHJQb3hrUm9INEk?oc=5",
@@ -218,7 +220,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T14:22:05.000Z",
-        "fetchedAt": "2026-10-04T14:59:41.393Z",
+        "fetchedAt": "2026-10-04T18:48:31.288Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Simply Wall Street",
         "geopoliticalBypass": true,
@@ -228,7 +230,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
@@ -238,7 +240,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T10:30:57.000Z",
-        "fetchedAt": "2026-10-04T14:59:41.394Z",
+        "fetchedAt": "2026-10-04T18:48:31.288Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "AD HOC NEWS",
         "geopoliticalBypass": true,
@@ -248,7 +250,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
@@ -258,7 +260,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T06:16:06.000Z",
-        "fetchedAt": "2026-10-04T14:59:41.394Z",
+        "fetchedAt": "2026-10-04T18:48:31.288Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Digital Watch Observatory",
         "geopoliticalBypass": true,
@@ -270,7 +272,7 @@ export const NEWS_DATA = {
           "regulators"
         ],
         "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
@@ -280,7 +282,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T05:40:12.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.604Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -288,7 +290,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "China closes hundreds of banks to bolster financial system",
@@ -298,7 +300,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T02:00:04.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.753Z",
+        "fetchedAt": "2026-10-04T18:48:25.197Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -307,7 +309,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Japanese and Korean shipbuilders deploy robots to take on China",
@@ -317,7 +319,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T01:00:04.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.753Z",
+        "fetchedAt": "2026-10-04T18:48:25.197Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -326,49 +328,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
-        "id": "a7"
-      },
-      {
-        "title": "The best early October Prime Day deals happening now",
-        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available. Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-03T16:22:40.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.835Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-        "id": "a9"
-      },
-      {
-        "title": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 - Quiver Quantitative",
-        "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxOaWZIYUZfNkxfU1JDeTQxUXpKY1BJdUFMeU1DbHRPYlRrVEE2U09xYjZWQlQtYzJmN3pyVW5kYkNYNHVKbXdrMU5PVnRFUF80OTRIajV5dGtrQU90WEpJVXRwRndKX3RzM1FRZ21yLWhXQk9GNkdzWFJYcGQ2QkY3X3dKLU1vbnlYMnI5bVpJSW1uQ25oR2dlUnBlNGI2RkdfcXNrcG53dDNIUXF3NUhDd1U1UV9OOUtvMTJnZU5Ia3BldTJRaTJPNU9TdlRGYU9XS3Zpbl9maHhzNWJJUG51N1BvWXJzNkFRR1h6SWVmcHk?oc=5",
-        "description": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-03T15:47:00.000Z",
-        "fetchedAt": "2026-10-04T14:59:41.394Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Quiver Quantitative",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Senator David McCormick introduces S. 5548: Securing National Security Systems from Chinese Optical Transceivers Act of 2026 Quiver Quantitative",
-        "id": "a10"
+        "id": "a8"
       },
       {
         "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -378,7 +338,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T15:02:01.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.379Z",
+        "fetchedAt": "2026-10-04T18:48:24.483Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -387,7 +347,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "id": "a11"
+        "id": "a10"
       },
       {
         "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -397,7 +357,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T00:30:03.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -405,7 +365,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "id": "a12"
+        "id": "a11"
       },
       {
         "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -415,7 +375,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T20:45:03.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -423,7 +383,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "id": "a13"
+        "id": "a12"
       },
       {
         "title": "China targets 1M 50G-PON ports by 2030",
@@ -433,7 +393,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-02T14:12:21.000Z",
-        "fetchedAt": "2026-10-04T14:59:39.570Z",
+        "fetchedAt": "2026-10-04T18:48:28.650Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -442,7 +402,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "id": "a14"
+        "id": "a13"
       },
       {
         "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -452,7 +412,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:00:06.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -460,17 +420,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a16"
+        "id": "a15"
       },
       {
         "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-        "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+        "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
         "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T11:40:00.000Z",
-        "fetchedAt": "2026-10-04T14:59:37.679Z",
+        "fetchedAt": "2026-10-04T18:48:26.980Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -479,7 +439,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -489,7 +449,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T08:00:09.000Z",
-        "fetchedAt": "2026-10-04T14:59:39.815Z",
+        "fetchedAt": "2026-10-04T18:48:28.881Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -498,7 +458,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "id": "a18"
+        "id": "a17"
       },
       {
         "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
@@ -508,7 +468,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-01T19:13:42.000Z",
-        "fetchedAt": "2026-10-04T14:59:39.815Z",
+        "fetchedAt": "2026-10-04T18:48:28.881Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -517,25 +477,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
-        "id": "a19"
-      },
-      {
-        "title": "Qualcomm (QCOM): Can Its AI Strategy Overcome Skepticism Around Its Current Market Position?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-ai-strategy-overcome-180128531.html?.tsrc=rss",
-        "description": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-01T18:01:28.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Munro Partners is an investment management firm that issued its second-quarter 2026 commentary for the “Munro Concentrated Global Growth Fund”. The letter can be downloaded here. The fund delivered a strong second quarter of 2026, returning 23.8% net compared with the MSCI World ex-Australia Index’s 12.6% return, as global equity markets rebounded following geopolitical volatility […]",
-        "id": "a20"
+        "id": "a18"
       }
     ]
   },
@@ -731,24 +673,24 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-04T14:59:41.428Z",
-    "date": "2026-10-04",
+    "generatedAt": "2026-10-04T18:48:31.319Z",
+    "date": "2026-10-05",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
           "articleIds": [
-            "a3"
+            "a4"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
           "articleIds": [
-            "a15"
+            "a14"
           ],
           "subCategory": "semiconductors"
         }
@@ -763,7 +705,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T06:16:06.000Z",
-        "fetchedAt": "2026-10-04T14:59:41.394Z",
+        "fetchedAt": "2026-10-04T18:48:31.288Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Digital Watch Observatory",
         "geopoliticalBypass": true,
@@ -775,29 +717,7 @@ export const NEWS_DATA = {
           "regulators"
         ],
         "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "id": "a3"
-      },
-      {
-        "title": "The best early October Prime Day deals happening now",
-        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
-        "description": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor). This post will be updated ahead of October 6th as new deals become available. Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account)",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-03T16:22:40.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.835Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "It’s not even October yet and Amazon is already offering some Prime Big Deal Day discounts on its own hardware, along with plenty of other popular products. It’s all to hype up October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 3rd added a couple of Bose speakers, building on what was added on October 1st (a couple of Belkin deals, plus a discount on a capable 1440p USB-C monitor).",
-        "id": "a9"
+        "id": "a4"
       },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -807,7 +727,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-04T14:59:35.412Z",
+        "fetchedAt": "2026-10-04T18:48:24.605Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -818,7 +738,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a15"
+        "id": "a14"
       }
     ]
   },
@@ -17495,6 +17415,514 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 24
+  },
+  "archive-2026-10-05": {
+    "generatedAt": "2026-10-04T18:48:31.321Z",
+    "date": "2026-10-05",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-04T18:48:31.318Z",
+        "date": "2026-10-05",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+              "articleIds": [
+                "a9"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
+            "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
+            "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T01:11:18.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.604Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
+            "id": "a7"
+          },
+          {
+            "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
+            "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
+            "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T22:52:32.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
+            "id": "a9"
+          },
+          {
+            "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+            "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:58:51.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "id": "a14"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-04T18:48:31.318Z",
+        "date": "2026-10-05",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-04T18:48:31.318Z",
+        "date": "2026-10-05",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-04T18:48:31.319Z",
+        "date": "2026-10-05",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles). A total of 15 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3Iwd0t3M0NfdGM3SWMyajBvLVRleFdCZWRsSU84cnhJbGxzRlZKN2cxR2syYkRvN0JYZ1ZjMXViN0w0RlNESktPVXNkRTh5OHlKTjloRnlzTnViVWFyNFY0NGpzV2Zkdm4wOE1LcUZmMDU5eFE?oc=5",
+            "description": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T18:15:00.000Z",
+            "fetchedAt": "2026-10-04T18:48:31.288Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "finance.biggo.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+            "id": "a1"
+          },
+          {
+            "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkJpVGNNbm9idEo2b2doX0dING8wTXg0dll5dFFLOXNxbjAyWU1KOFdveHJxYnA2cWZvWEZRV0hnOEZTWUpuYWhrY2NnVlMySUJPMC1QSTFsdnl6dUY5SU82bVVteGV0N18yYnNhQml1R25BemVqYlREMHF0VDVHQlE2YTZTdlRneEFfVDZZNEc1TmRfWms3bjBoVGR1MkpfVWx0Yy1qZ0dFdkdzak9PZlkycUxabXJfTktzUjhRRDBxYzVMcVlPYUV6cVdfYU90R3c2NTV4T0JYemPSAeABQVVfeXFMTmtpMlVNcHk1U0JyV2Ruc3hDeXdoTVVHMGItcUdFMGZXa3pwVTVPX2xZSkhXTUtEalVHamFCNTZyWnBENDFpRms5S0RSamNrNmVwZlRPRExxS2JkZUN4dkxtZmtKc0FXS21QSFcyelA3X25NbXd0QzVraDR3NFVILVUtT3Z4Q21sLXg2M3lJOXhfZjdXQVU2OS1CdlB6VF9pMWhZdnh1dGlXbXlRN1FESU4wVFRZdW5CdnZJTnQwdFNRbFBUMGpqUnZqb0lxXzQ0SlhPb2RCOHJQb3hrUm9INEk?oc=5",
+            "description": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T14:22:05.000Z",
+            "fetchedAt": "2026-10-04T18:48:31.288Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Simply Wall Street",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
+            "id": "a2"
+          },
+          {
+            "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNallwME9TZ2tMWjVpYWFoVVJvY2t0MlNHUzFETDZBdnBxUFIzcGpnWk5EOWFHY3lFUFVvaFdaclN4c2RUc0V5bHQzc0JTMGhaM3lHZEhDenk2ZkRwREQzbFcwTHAzYVc4T2lmWW4wVWNERFpJaHh3eEFObTJwbzlKWktYS0xReXpzc08yUDdXVG9FMVBLcVlBOVZTMHMxd2tSU3drMEZHQ2RmZS1iN2NUaGV3eWFiRXhJLVZCbGhpbFZKVkFLV2UyLWZDMnVUYmtVdi02aU8ydlF4bWM?oc=5",
+            "description": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T10:30:57.000Z",
+            "fetchedAt": "2026-10-04T18:48:31.288Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "AD HOC NEWS",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
+            "id": "a3"
+          },
+          {
+            "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
+            "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T06:16:06.000Z",
+            "fetchedAt": "2026-10-04T18:48:31.288Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Digital Watch Observatory",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
+            "id": "a4"
+          },
+          {
+            "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
+            "url": "https://www.fool.com/coverage/charts/2026/10/04/micron-technology-vs-qualcomm-what-revenue-trends-tell-investors-about-these-tech-companies/?.tsrc=rss",
+            "description": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T05:40:12.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.604Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
+            "id": "a5"
+          },
+          {
+            "title": "China closes hundreds of banks to bolster financial system",
+            "url": "https://www.ft.com/content/8a8f5c97-f1d3-4d3d-a3bc-d5a2e5539177?syn-25a6b1a6=1",
+            "description": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T02:00:04.000Z",
+            "fetchedAt": "2026-10-04T18:48:25.197Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "More than 670 lenders, a record, shut down last year as Fitch says smaller players remain sector’s weakest part",
+            "id": "a6"
+          },
+          {
+            "title": "Japanese and Korean shipbuilders deploy robots to take on China",
+            "url": "https://www.ft.com/content/ea32c53d-4de7-4b34-af44-cc148b23433f?syn-25a6b1a6=1",
+            "description": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T01:00:04.000Z",
+            "fetchedAt": "2026-10-04T18:48:25.197Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US allies invest in ‘smart shipyards’ as Beijing’s dominance of industry alarms Washington",
+            "id": "a8"
+          },
+          {
+            "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+            "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-03T15:02:01.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.483Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "id": "a10"
+          },
+          {
+            "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-qualcomm-sensata-technologies-stocks-003003380.html?.tsrc=rss",
+            "description": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-03T00:30:03.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
+            "id": "a11"
+          },
+          {
+            "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-outpaced-stock-204503928.html?.tsrc=rss",
+            "description": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T20:45:03.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
+            "id": "a12"
+          },
+          {
+            "title": "China targets 1M 50G-PON ports by 2030",
+            "url": "https://www.lightreading.com/optical-networking/china-targets-1m-50g-pon-ports-by-2030",
+            "description": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-02T14:12:21.000Z",
+            "fetchedAt": "2026-10-04T18:48:28.650Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
+            "id": "a13"
+          },
+          {
+            "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-qualcomm-incorporated-120006412.html?.tsrc=rss",
+            "description": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:00:06.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
+            "id": "a15"
+          },
+          {
+            "title": "Rare earth rivalries creating difficulties for trade secret strategy",
+            "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+            "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-02T11:40:00.000Z",
+            "fetchedAt": "2026-10-04T18:48:26.980Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
+            "id": "a16"
+          },
+          {
+            "title": "Opinion: China’s role in the future of global SEP licensing",
+            "url": "https://ipfray.com/opinion-chinas-role-in-the-future-of-global-sep-licensing/",
+            "description": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-02T08:00:09.000Z",
+            "fetchedAt": "2026-10-04T18:48:28.881Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
+            "id": "a17"
+          },
+          {
+            "title": "Tesla ‘Sun factory’ apparently at heart of U.S.-Chinese semiconductor technology patent infringement dispute",
+            "url": "https://ipfray.com/tesla-sun-factory-apparently-at-heart-of-u-s-chinese-semiconductor-technology-patent-infringement-dispute/",
+            "description": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-01T19:13:42.000Z",
+            "fetchedAt": "2026-10-04T18:48:28.881Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "New York-based Linton Crystal Technologies has sued China’s Zhejiang Jingsheng Mechanical & Electrical Co. over the infringement of seed-lifting technology patents, after the latter reportedly won a bid to supply Tesla with 210mm monocrystalline pullers for its $10.1 billion “Project Crystal Sun” factory.",
+            "id": "a18"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-04T18:48:31.319Z",
+        "date": "2026-10-05",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-04T18:48:31.319Z",
+        "date": "2026-10-05",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
+            "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T06:16:06.000Z",
+            "fetchedAt": "2026-10-04T18:48:31.288Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Digital Watch Observatory",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "regulators"
+            ],
+            "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+            "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
+            "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-02T12:58:51.000Z",
+            "fetchedAt": "2026-10-04T18:48:24.605Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+            "id": "a14"
+          }
+        ]
+      }
+    },
+    "totalArticles": 20
   }
 };
 

@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-04T14:59:41.430Z",
-  "date": "2026-10-04",
+  "generatedAt": "2026-10-04T18:48:31.321Z",
+  "date": "2026-10-05",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 17,
-      "topHeadline": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
+      "articleCount": 15,
+      "topHeadline": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 24
+  "totalArticles": 20
 }
