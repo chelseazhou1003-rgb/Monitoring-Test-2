@@ -1,50 +1,21 @@
 {
-  "generatedAt": "2026-10-05T01:18:32.637Z",
+  "generatedAt": "2026-10-05T07:42:53.807Z",
   "date": "2026-10-05",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "articleIds": [
-          "a7"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
         "articleIds": [
-          "a16"
+          "a21"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
-    {
-      "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-      "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-04T06:16:06.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Digital Watch Observatory",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "id": "a7"
-    },
     {
       "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
       "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -53,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.917Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a16"
+      "id": "a21"
     }
   ]
 }

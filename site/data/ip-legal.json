@@ -1,11 +1,61 @@
 {
-  "generatedAt": "2026-10-05T01:18:32.637Z",
+  "generatedAt": "2026-10-05T07:42:53.806Z",
   "date": "2026-10-05",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "ip"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
+      "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T06:53:00.000Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+      "id": "a1"
+    },
+    {
+      "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+      "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T06:01:00.000Z",
+      "fetchedAt": "2026-10-05T07:42:52.668Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+      "id": "a2"
+    }
+  ]
 }

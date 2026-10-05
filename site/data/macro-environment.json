@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-05T01:18:32.637Z",
+  "generatedAt": "2026-10-05T07:42:53.806Z",
   "date": "2026-10-05",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (5 articles). A total of 15 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+        "text": "Geopolitics & Export Controls: California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
         "articleIds": [
-          "a1"
+          "a5"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
         "articleIds": [
-          "a3"
+          "a10"
         ],
         "subCategory": "market-performance"
       }
@@ -24,24 +24,83 @@
   },
   "articles": [
     {
-      "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - thewirechina.com",
-      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
-      "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+      "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn?oc=5",
+      "description": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-04T23:30:19.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
+      "publishedAt": "2026-10-05T02:44:00.000Z",
+      "fetchedAt": "2026-10-05T07:42:53.763Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "thewirechina.com",
+      "googleNewsSource": "The Times of India",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
-      "id": "a1"
+      "summary": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+      "id": "a5"
+    },
+    {
+      "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+      "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+      "description": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T02:15:12.000Z",
+      "fetchedAt": "2026-10-05T07:42:45.818Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+      "id": "a6"
+    },
+    {
+      "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVprczY5LXJrN3V2RGJsdy04X1QzV1kzTkhraE5zeVR4QjI1SWhLTmlJWkx5WEVCQWM2S01DU09URWQ2QmlpMTNwWVFtY1FxdnZWYnk1V0UyMlVkYk50V3AycWF6SUFUQWIzUHBFOGhIQW5lUE9HZWxDanY1ajNncXhWSVROSUNyOTUzckNtT3F5bUpXRHFaSTZmNzZ6TzluQjdZUVZOc1oxbzRDeEdEZnpBUWhOTFBldGtNOG9BR2lzZw?oc=5",
+      "description": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T01:55:00.000Z",
+      "fetchedAt": "2026-10-05T07:42:52.668Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+      "id": "a7"
+    },
+    {
+      "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - The Wire China",
+      "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
+      "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-04T23:30:19.000Z",
+      "fetchedAt": "2026-10-05T07:42:53.763Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Wire China",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+      "id": "a8"
     },
     {
       "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
@@ -51,7 +110,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T21:03:00.000Z",
-      "fetchedAt": "2026-10-05T01:18:26.034Z",
+      "fetchedAt": "2026-10-05T07:42:46.006Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -60,7 +119,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-      "id": "a2"
+      "id": "a9"
     },
     {
       "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
@@ -70,7 +129,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T21:00:00.000Z",
-      "fetchedAt": "2026-10-05T01:18:26.317Z",
+      "fetchedAt": "2026-10-05T07:42:48.383Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -79,7 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-      "id": "a3"
+      "id": "a10"
     },
     {
       "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
@@ -89,7 +148,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T18:15:00.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
+      "fetchedAt": "2026-10-05T07:42:53.763Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "finance.biggo.com",
       "geopoliticalBypass": true,
@@ -99,7 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
-      "id": "a4"
+      "id": "a11"
     },
     {
       "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
@@ -109,7 +168,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T14:22:05.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
+      "fetchedAt": "2026-10-05T07:42:53.763Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Simply Wall Street",
       "geopoliticalBypass": true,
@@ -119,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
-      "id": "a5"
+      "id": "a12"
     },
     {
       "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
@@ -129,7 +188,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T10:30:57.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
+      "fetchedAt": "2026-10-05T07:42:53.764Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "AD HOC NEWS",
       "geopoliticalBypass": true,
@@ -139,29 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
-      "id": "a6"
-    },
-    {
-      "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-      "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-04T06:16:06.000Z",
-      "fetchedAt": "2026-10-05T01:18:32.609Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Digital Watch Observatory",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "regulators"
-      ],
-      "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
@@ -171,7 +208,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T05:40:12.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.917Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -179,7 +216,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -189,7 +226,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-03T15:02:01.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.856Z",
+      "fetchedAt": "2026-10-05T07:42:45.797Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -198,7 +235,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-      "id": "a12"
+      "id": "a17"
     },
     {
       "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -208,7 +245,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-03T00:30:03.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.917Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -216,7 +253,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-      "id": "a13"
+      "id": "a18"
     },
     {
       "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -226,7 +263,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T20:45:03.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.917Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -234,7 +271,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-      "id": "a14"
+      "id": "a19"
     },
     {
       "title": "China targets 1M 50G-PON ports by 2030",
@@ -244,7 +281,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-02T14:12:21.000Z",
-      "fetchedAt": "2026-10-05T01:18:30.195Z",
+      "fetchedAt": "2026-10-05T07:42:52.267Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -253,7 +290,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -263,7 +300,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:00:06.000Z",
-      "fetchedAt": "2026-10-05T01:18:25.917Z",
+      "fetchedAt": "2026-10-05T07:42:45.894Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -271,17 +308,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-      "id": "a17"
+      "id": "a22"
     },
     {
       "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-      "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+      "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
       "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-02T11:40:00.000Z",
-      "fetchedAt": "2026-10-05T01:18:28.214Z",
+      "fetchedAt": "2026-10-05T07:42:50.087Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -290,7 +327,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-      "id": "a18"
+      "id": "a23"
     },
     {
       "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -300,7 +337,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-02T08:00:09.000Z",
-      "fetchedAt": "2026-10-05T01:18:30.003Z",
+      "fetchedAt": "2026-10-05T07:42:51.994Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -309,7 +346,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-      "id": "a19"
+      "id": "a24"
     }
   ]
 }

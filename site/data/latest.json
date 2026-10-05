@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-05T01:18:32.639Z",
+  "generatedAt": "2026-10-05T07:42:53.809Z",
   "date": "2026-10-05",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
-      "topHeadline": "Qualcomm Incorporated et al v. Wi-LAN Inc. - Law360",
-      "topHeadlineId": "a9",
+      "topHeadline": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 2,
+      "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - thewirechina.com",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (5 articles). A total of 15 articles were aggregated from monitored sources."
+      "articleCount": 17,
+      "topHeadline": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 3,
+      "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-      "topHeadlineId": "a7",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+      "topHeadlineId": "a21",
+      "briefingSummary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an"
     }
   },
-  "totalArticles": 21
+  "totalArticles": 27
 }

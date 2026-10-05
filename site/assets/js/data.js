@@ -2,18 +2,95 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.807Z",
     "date": "2026-10-05",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "ip"
+        },
+        {
+          "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
+          "articleIds": [
+            "a4"
+          ],
+          "subCategory": "huawei"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
+        "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T06:53:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+        "id": "a1"
+      },
+      {
+        "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+        "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T06:01:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+        "id": "a2"
+      },
+      {
+        "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
+        "url": "https://ipfray.com/huawei-qualcomm-sign-broad-multi-year-cross-patent-licensing-agreement/",
+        "description": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-05T06:00:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:51.994Z",
+        "fetchStrategy": "rss",
+        "section": "competitors",
+        "subCategory": "huawei",
+        "subLabel": "Huawei",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+        "id": "a4"
+      }
+    ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.806Z",
     "date": "2026-10-05",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -21,16 +98,16 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Qualcomm Incorporated et al v.",
+          "text": "Semiconductors: has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
           "articleIds": [
-            "a9"
+            "a3"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
           "articleIds": [
-            "a10"
+            "a15"
           ],
           "subCategory": "mobile-chips"
         }
@@ -38,23 +115,22 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Qualcomm Incorporated et al v. Wi-LAN Inc. - Law360",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c3V5Q0pJWjFCQzNpaGVBcTZnZm5UX3Y1SXpGdzlkUlJEcFFkTGxLdUxxUkN4MjFLZVV6OEJ6QVpkM3lRZHVlSmI2dnZEMl9zWlE3ekZXLUxfU20yelpzM1JUajJMV0RGeXVDaUVn?oc=5",
-        "description": "Qualcomm Incorporated et al v. Wi-LAN Inc. Law360",
-        "source": "Law360 IP",
-        "sourceId": "law360-ip",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-04T02:33:36.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.560Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Law360",
+        "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+        "description": "Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T06:00:03.000Z",
+        "fetchedAt": "2026-10-05T07:42:46.006Z",
+        "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm Incorporated et al v.",
-        "id": "a9"
+        "summary": "has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+        "id": "a3"
       },
       {
         "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
@@ -64,7 +140,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T01:11:18.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -72,7 +148,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-        "id": "a10"
+        "id": "a15"
       },
       {
         "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
@@ -82,7 +158,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T22:52:32.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -90,7 +166,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-        "id": "a11"
+        "id": "a16"
       },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -100,7 +176,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -111,12 +187,12 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a16"
+        "id": "a21"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.806Z",
     "date": "2026-10-05",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -127,33 +203,83 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.806Z",
     "date": "2026-10-05",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "ip"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
+        "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T06:53:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+        "id": "a1"
+      },
+      {
+        "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+        "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T06:01:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+        "id": "a2"
+      }
+    ]
   },
   "latest": {
-    "generatedAt": "2026-10-05T01:18:32.639Z",
+    "generatedAt": "2026-10-05T07:42:53.809Z",
     "date": "2026-10-05",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
-        "topHeadline": "Qualcomm Incorporated et al v. Wi-LAN Inc. - Law360",
-        "topHeadlineId": "a9",
+        "topHeadline": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+        "topHeadlineId": "a3",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 2,
+        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -164,47 +290,47 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 15,
-        "topHeadline": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - thewirechina.com",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (5 articles). A total of 15 articles were aggregated from monitored sources."
+        "articleCount": 17,
+        "topHeadline": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 3,
+        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 2,
-        "topHeadline": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-        "topHeadlineId": "a7",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 1,
+        "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
+        "topHeadlineId": "a21",
+        "briefingSummary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an"
       }
     },
-    "totalArticles": 21
+    "totalArticles": 27
   },
   "macro-environment": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.806Z",
     "date": "2026-10-05",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (5 articles). A total of 15 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+          "text": "Geopolitics & Export Controls: California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
           "articleIds": [
-            "a1"
+            "a5"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "market-performance: Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
           "articleIds": [
-            "a3"
+            "a10"
           ],
           "subCategory": "market-performance"
         }
@@ -212,24 +338,83 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - thewirechina.com",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
-        "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+        "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+        "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn?oc=5",
+        "description": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T23:30:19.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
+        "publishedAt": "2026-10-05T02:44:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:53.763Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "thewirechina.com",
+        "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
-        "id": "a1"
+        "summary": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+        "id": "a5"
+      },
+      {
+        "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+        "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+        "description": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T02:15:12.000Z",
+        "fetchedAt": "2026-10-05T07:42:45.818Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+        "id": "a6"
+      },
+      {
+        "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVprczY5LXJrN3V2RGJsdy04X1QzV1kzTkhraE5zeVR4QjI1SWhLTmlJWkx5WEVCQWM2S01DU09URWQ2QmlpMTNwWVFtY1FxdnZWYnk1V0UyMlVkYk50V3AycWF6SUFUQWIzUHBFOGhIQW5lUE9HZWxDanY1ajNncXhWSVROSUNyOTUzckNtT3F5bUpXRHFaSTZmNzZ6TzluQjdZUVZOc1oxbzRDeEdEZnpBUWhOTFBldGtNOG9BR2lzZw?oc=5",
+        "description": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T01:55:00.000Z",
+        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+        "id": "a7"
+      },
+      {
+        "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - The Wire China",
+        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
+        "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-04T23:30:19.000Z",
+        "fetchedAt": "2026-10-05T07:42:53.763Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Wire China",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+        "id": "a8"
       },
       {
         "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
@@ -239,7 +424,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T21:03:00.000Z",
-        "fetchedAt": "2026-10-05T01:18:26.034Z",
+        "fetchedAt": "2026-10-05T07:42:46.006Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -248,7 +433,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-        "id": "a2"
+        "id": "a9"
       },
       {
         "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
@@ -258,7 +443,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T21:00:00.000Z",
-        "fetchedAt": "2026-10-05T01:18:26.317Z",
+        "fetchedAt": "2026-10-05T07:42:48.383Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -267,7 +452,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-        "id": "a3"
+        "id": "a10"
       },
       {
         "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
@@ -277,7 +462,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T18:15:00.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
+        "fetchedAt": "2026-10-05T07:42:53.763Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "finance.biggo.com",
         "geopoliticalBypass": true,
@@ -287,7 +472,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
-        "id": "a4"
+        "id": "a11"
       },
       {
         "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
@@ -297,7 +482,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T14:22:05.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
+        "fetchedAt": "2026-10-05T07:42:53.763Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Simply Wall Street",
         "geopoliticalBypass": true,
@@ -307,7 +492,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
-        "id": "a5"
+        "id": "a12"
       },
       {
         "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
@@ -317,7 +502,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T10:30:57.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
+        "fetchedAt": "2026-10-05T07:42:53.764Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "AD HOC NEWS",
         "geopoliticalBypass": true,
@@ -327,29 +512,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
-        "id": "a6"
-      },
-      {
-        "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-        "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T06:16:06.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Digital Watch Observatory",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "regulators"
-        ],
-        "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "id": "a7"
+        "id": "a13"
       },
       {
         "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
@@ -359,7 +522,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T05:40:12.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -367,7 +530,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-        "id": "a8"
+        "id": "a14"
       },
       {
         "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -377,7 +540,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T15:02:01.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.856Z",
+        "fetchedAt": "2026-10-05T07:42:45.797Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -386,7 +549,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "id": "a12"
+        "id": "a17"
       },
       {
         "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -396,7 +559,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-03T00:30:03.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -404,7 +567,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "id": "a13"
+        "id": "a18"
       },
       {
         "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -414,7 +577,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T20:45:03.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -422,7 +585,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "id": "a14"
+        "id": "a19"
       },
       {
         "title": "China targets 1M 50G-PON ports by 2030",
@@ -432,7 +595,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-02T14:12:21.000Z",
-        "fetchedAt": "2026-10-05T01:18:30.195Z",
+        "fetchedAt": "2026-10-05T07:42:52.267Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -441,7 +604,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "id": "a15"
+        "id": "a20"
       },
       {
         "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -451,7 +614,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:00:06.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -459,17 +622,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a17"
+        "id": "a22"
       },
       {
         "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-        "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+        "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
         "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T11:40:00.000Z",
-        "fetchedAt": "2026-10-05T01:18:28.214Z",
+        "fetchedAt": "2026-10-05T07:42:50.087Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -478,7 +641,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "id": "a18"
+        "id": "a23"
       },
       {
         "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -488,7 +651,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-02T08:00:09.000Z",
-        "fetchedAt": "2026-10-05T01:18:30.003Z",
+        "fetchedAt": "2026-10-05T07:42:51.994Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -497,7 +660,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "id": "a19"
+        "id": "a24"
       }
     ]
   },
@@ -693,52 +856,23 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-05T01:18:32.637Z",
+    "generatedAt": "2026-10-05T07:42:53.807Z",
     "date": "2026-10-05",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an",
       "keyTakeaways": [
-        {
-          "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-          "articleIds": [
-            "a7"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
         {
           "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
           "articleIds": [
-            "a16"
+            "a21"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
-      {
-        "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-        "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T06:16:06.000Z",
-        "fetchedAt": "2026-10-05T01:18:32.609Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Digital Watch Observatory",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "regulators"
-        ],
-        "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-        "id": "a7"
-      },
       {
         "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
         "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -747,7 +881,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-05T01:18:25.917Z",
+        "fetchedAt": "2026-10-05T07:42:45.894Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -758,7 +892,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a16"
+        "id": "a21"
       }
     ]
   },
@@ -17437,11 +17571,11 @@ export const NEWS_DATA = {
     "totalArticles": 24
   },
   "archive-2026-10-05": {
-    "generatedAt": "2026-10-05T01:18:32.639Z",
+    "generatedAt": "2026-10-05T07:42:53.809Z",
     "date": "2026-10-05",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.806Z",
         "date": "2026-10-05",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -17449,16 +17583,16 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Qualcomm Incorporated et al v.",
+              "text": "Semiconductors: has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
               "articleIds": [
-                "a9"
+                "a3"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
               "articleIds": [
-                "a10"
+                "a15"
               ],
               "subCategory": "mobile-chips"
             }
@@ -17466,23 +17600,22 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Qualcomm Incorporated et al v. Wi-LAN Inc. - Law360",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c3V5Q0pJWjFCQzNpaGVBcTZnZm5UX3Y1SXpGdzlkUlJEcFFkTGxLdUxxUkN4MjFLZVV6OEJ6QVpkM3lRZHVlSmI2dnZEMl9zWlE3ekZXLUxfU20yelpzM1JUajJMV0RGeXVDaUVn?oc=5",
-            "description": "Qualcomm Incorporated et al v. Wi-LAN Inc. Law360",
-            "source": "Law360 IP",
-            "sourceId": "law360-ip",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-04T02:33:36.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.560Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Law360",
+            "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+            "description": "Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:00:03.000Z",
+            "fetchedAt": "2026-10-05T07:42:46.006Z",
+            "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
             "subLabel": "Semiconductors",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Qualcomm Incorporated et al v.",
-            "id": "a9"
+            "summary": "has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+            "id": "a3"
           },
           {
             "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
@@ -17492,7 +17625,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T01:11:18.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -17500,7 +17633,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-            "id": "a10"
+            "id": "a15"
           },
           {
             "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
@@ -17510,7 +17643,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T22:52:32.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17518,7 +17651,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-            "id": "a11"
+            "id": "a16"
           },
           {
             "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -17528,7 +17661,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:58:51.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17539,23 +17672,73 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-            "id": "a16"
+            "id": "a21"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.806Z",
         "date": "2026-10-05",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "ip"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
+            "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:53:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+            "id": "a1"
+          },
+          {
+            "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+            "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:01:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:52.668Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "id": "a2"
+          }
+        ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.806Z",
         "date": "2026-10-05",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -17566,24 +17749,24 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.806Z",
         "date": "2026-10-05",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (5 articles). A total of 15 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+              "text": "Geopolitics & Export Controls: California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
               "articleIds": [
-                "a1"
+                "a5"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "market-performance: Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
               "articleIds": [
-                "a3"
+                "a10"
               ],
               "subCategory": "market-performance"
             }
@@ -17591,24 +17774,83 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - thewirechina.com",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
-            "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
+            "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn?oc=5",
+            "description": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-04T23:30:19.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
+            "publishedAt": "2026-10-05T02:44:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:53.763Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "thewirechina.com",
+            "googleNewsSource": "The Times of India",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together thewirechina.com",
-            "id": "a1"
+            "summary": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+            "id": "a5"
+          },
+          {
+            "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
+            "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
+            "description": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T02:15:12.000Z",
+            "fetchedAt": "2026-10-05T07:42:45.818Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
+            "id": "a6"
+          },
+          {
+            "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVprczY5LXJrN3V2RGJsdy04X1QzV1kzTkhraE5zeVR4QjI1SWhLTmlJWkx5WEVCQWM2S01DU09URWQ2QmlpMTNwWVFtY1FxdnZWYnk1V0UyMlVkYk50V3AycWF6SUFUQWIzUHBFOGhIQW5lUE9HZWxDanY1ajNncXhWSVROSUNyOTUzckNtT3F5bUpXRHFaSTZmNzZ6TzluQjdZUVZOc1oxbzRDeEdEZnpBUWhOTFBldGtNOG9BR2lzZw?oc=5",
+            "description": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T01:55:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:52.668Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+            "id": "a7"
+          },
+          {
+            "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - The Wire China",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
+            "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T23:30:19.000Z",
+            "fetchedAt": "2026-10-05T07:42:53.763Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Wire China",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+            "id": "a8"
           },
           {
             "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
@@ -17618,7 +17860,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T21:03:00.000Z",
-            "fetchedAt": "2026-10-05T01:18:26.034Z",
+            "fetchedAt": "2026-10-05T07:42:46.006Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17627,7 +17869,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-            "id": "a2"
+            "id": "a9"
           },
           {
             "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
@@ -17637,7 +17879,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T21:00:00.000Z",
-            "fetchedAt": "2026-10-05T01:18:26.317Z",
+            "fetchedAt": "2026-10-05T07:42:48.383Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17646,7 +17888,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-            "id": "a3"
+            "id": "a10"
           },
           {
             "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
@@ -17656,7 +17898,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T18:15:00.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
+            "fetchedAt": "2026-10-05T07:42:53.763Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "finance.biggo.com",
             "geopoliticalBypass": true,
@@ -17666,7 +17908,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
-            "id": "a4"
+            "id": "a11"
           },
           {
             "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
@@ -17676,7 +17918,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T14:22:05.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
+            "fetchedAt": "2026-10-05T07:42:53.763Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Simply Wall Street",
             "geopoliticalBypass": true,
@@ -17686,7 +17928,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
-            "id": "a5"
+            "id": "a12"
           },
           {
             "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
@@ -17696,7 +17938,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T10:30:57.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
+            "fetchedAt": "2026-10-05T07:42:53.764Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "AD HOC NEWS",
             "geopoliticalBypass": true,
@@ -17706,29 +17948,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
-            "id": "a6"
-          },
-          {
-            "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-            "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-04T06:16:06.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Digital Watch Observatory",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-            "id": "a7"
+            "id": "a13"
           },
           {
             "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
@@ -17738,7 +17958,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-04T05:40:12.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17746,7 +17966,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-            "id": "a8"
+            "id": "a14"
           },
           {
             "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -17756,7 +17976,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-03T15:02:01.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.856Z",
+            "fetchedAt": "2026-10-05T07:42:45.797Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17765,7 +17985,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-            "id": "a12"
+            "id": "a17"
           },
           {
             "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
@@ -17775,7 +17995,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-03T00:30:03.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17783,7 +18003,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-            "id": "a13"
+            "id": "a18"
           },
           {
             "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
@@ -17793,7 +18013,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T20:45:03.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17801,7 +18021,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-            "id": "a14"
+            "id": "a19"
           },
           {
             "title": "China targets 1M 50G-PON ports by 2030",
@@ -17811,7 +18031,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-02T14:12:21.000Z",
-            "fetchedAt": "2026-10-05T01:18:30.195Z",
+            "fetchedAt": "2026-10-05T07:42:52.267Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17820,7 +18040,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-            "id": "a15"
+            "id": "a20"
           },
           {
             "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
@@ -17830,7 +18050,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:00:06.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -17838,17 +18058,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-            "id": "a17"
+            "id": "a22"
           },
           {
             "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-            "url": "https://www.iam-media.com/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
+            "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
             "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-02T11:40:00.000Z",
-            "fetchedAt": "2026-10-05T01:18:28.214Z",
+            "fetchedAt": "2026-10-05T07:42:50.087Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17857,7 +18077,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-            "id": "a18"
+            "id": "a23"
           },
           {
             "title": "Opinion: China’s role in the future of global SEP licensing",
@@ -17867,7 +18087,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-02T08:00:09.000Z",
-            "fetchedAt": "2026-10-05T01:18:30.003Z",
+            "fetchedAt": "2026-10-05T07:42:51.994Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -17876,68 +18096,116 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-            "id": "a19"
+            "id": "a24"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.807Z",
         "date": "2026-10-05",
         "section": "competitors",
         "sectionTitle": "Competitors",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "ip"
+            },
+            {
+              "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "huawei"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
+            "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:53:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+            "id": "a1"
+          },
+          {
+            "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+            "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:01:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:52.668Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "id": "a2"
+          },
+          {
+            "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
+            "url": "https://ipfray.com/huawei-qualcomm-sign-broad-multi-year-cross-patent-licensing-agreement/",
+            "description": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-05T06:00:00.000Z",
+            "fetchedAt": "2026-10-05T07:42:51.994Z",
+            "fetchStrategy": "rss",
+            "section": "competitors",
+            "subCategory": "huawei",
+            "subLabel": "Huawei",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+            "id": "a4"
+          }
+        ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-05T01:18:32.637Z",
+        "generatedAt": "2026-10-05T07:42:53.807Z",
         "date": "2026-10-05",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an",
           "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-              "articleIds": [
-                "a7"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
             {
               "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
               "articleIds": [
-                "a16"
+                "a21"
               ],
               "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
-          {
-            "title": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China - Digital Watch Observatory",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE4zVW5lVFVkbk9nLUQzQkt5VUdpSEt2QlFBU1laNDFEX1M5djd5Y1FGcXNGSVlhaUwyT3YtNTNkdnFsVGwxQ2ZrS0NVOUY1QWpueHZJaGRRam1SOWs?oc=5",
-            "description": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-04T06:16:06.000Z",
-            "fetchedAt": "2026-10-05T01:18:32.609Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Digital Watch Observatory",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "US Department of Justice indicts CEO for smuggling ‘AI chips’ into China Digital Watch Observatory",
-            "id": "a7"
-          },
           {
             "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
             "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
@@ -17946,7 +18214,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-02T12:58:51.000Z",
-            "fetchedAt": "2026-10-05T01:18:25.917Z",
+            "fetchedAt": "2026-10-05T07:42:45.894Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -17957,12 +18225,12 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-            "id": "a16"
+            "id": "a21"
           }
         ]
       }
     },
-    "totalArticles": 21
+    "totalArticles": 27
   }
 };
 
