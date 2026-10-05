@@ -1,28 +1,49 @@
 {
-  "generatedAt": "2026-10-05T16:26:16.236Z",
+  "generatedAt": "2026-10-05T22:55:58.870Z",
   "date": "2026-10-06",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Patent Litigation (2 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+        "text": "IP / Intellectual Property: Huawei And Qualcomm Strike Patent Licensing Deal Law360",
         "articleIds": [
           "a2"
         ],
-        "subCategory": "patent-litigation"
+        "subCategory": "ip"
       },
       {
-        "text": "IP / Intellectual Property: Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+        "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
         "articleIds": [
-          "a5"
+          "a15"
         ],
-        "subCategory": "ip"
+        "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORjF3ckhCNU5sZGlsM0R4Q29KTDctcXFUWEp5X0VaMFBCaTFJdDJZQjdZT3B6NEFPZ0pzVE5LaURFaTlINVhzZ25GOXI4LVdyRTNRZlZJc2l0NmJSUXZGb29iM3U5S281T1pUV3pHM2t1bEw0STAzVmx0YjhmZVJFY05ZZVI0TE1HSUlSbnE5M3hxUdIBVkFVX3lxTE5sbWR6UlpCMTJCSGIteF93THVoemNrY2dDRkllX1JJSTRWWWI3c1ROdXdOZ2MyMzc4djE4aWIxSWxSV3F5WjZ6aW1xT0d1c01wZEZVdFh3?oc=5",
+      "description": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
+      "source": "Law360 IP",
+      "sourceId": "law360-ip",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-10-05T22:02:09.000Z",
+      "fetchedAt": "2026-10-05T22:55:58.706Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Law360",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
+      "id": "a2"
+    },
     {
       "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
       "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
@@ -31,7 +52,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T15:27:15.000Z",
-      "fetchedAt": "2026-10-05T16:26:15.047Z",
+      "fetchedAt": "2026-10-05T22:55:57.682Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -40,7 +61,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
-      "id": "a2"
+      "id": "a15"
     },
     {
       "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -50,7 +71,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-05T16:26:14.560Z",
+      "fetchedAt": "2026-10-05T22:55:56.559Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -60,7 +81,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a5"
+      "id": "a18"
     },
     {
       "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
@@ -70,7 +91,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:30:12.000Z",
-      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchedAt": "2026-10-05T22:55:52.106Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -80,25 +101,7 @@
       ],
       "stakeholders": [],
       "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
-      "id": "a12"
-    },
-    {
-      "title": "Qualcomm, Arm Reportedly Head Back To Court With Billions In Potential Royalties At Stake",
-      "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-arm-reportedly-head-back-to-court-with-billions-in-potential-royalties-at-stake/cZDpUMSRBjT?.tsrc=rss",
-      "description": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T13:14:39.000Z",
-      "fetchedAt": "2026-10-05T16:26:07.898Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
-      "id": "a15"
+      "id": "a24"
     },
     {
       "title": "Qualcomm, Huawei reach patent accord",
@@ -108,7 +111,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-05T16:26:14.137Z",
+      "fetchedAt": "2026-10-05T22:55:57.180Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -118,7 +121,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a19"
+      "id": "a25"
     },
     {
       "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
@@ -128,7 +131,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T06:01:00.000Z",
-      "fetchedAt": "2026-10-05T16:26:15.047Z",
+      "fetchedAt": "2026-10-05T22:55:57.682Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -139,7 +142,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
-      "id": "a25"
+      "id": "a29"
     }
   ]
 }
