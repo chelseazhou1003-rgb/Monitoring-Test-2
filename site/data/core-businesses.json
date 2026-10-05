@@ -1,28 +1,47 @@
 {
-  "generatedAt": "2026-10-04T22:32:33.173Z",
+  "generatedAt": "2026-10-05T01:18:32.637Z",
   "date": "2026-10-05",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Semiconductors: Qualcomm Incorporated et al v.",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
         "articleIds": [
-          "a7"
+          "a10"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-        "articleIds": [
-          "a8"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Incorporated et al v. Wi-LAN Inc. - Law360",
+      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE84c3V5Q0pJWjFCQzNpaGVBcTZnZm5UX3Y1SXpGdzlkUlJEcFFkTGxLdUxxUkN4MjFLZVV6OEJ6QVpkM3lRZHVlSmI2dnZEMl9zWlE3ekZXLUxfU20yelpzM1JUajJMV0RGeXVDaUVn?oc=5",
+      "description": "Qualcomm Incorporated et al v. Wi-LAN Inc. Law360",
+      "source": "Law360 IP",
+      "sourceId": "law360-ip",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-10-04T02:33:36.000Z",
+      "fetchedAt": "2026-10-05T01:18:32.560Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Law360",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm Incorporated et al v.",
+      "id": "a9"
+    },
     {
       "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
       "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
@@ -31,7 +50,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-04T01:11:18.000Z",
-      "fetchedAt": "2026-10-04T22:32:26.057Z",
+      "fetchedAt": "2026-10-05T01:18:25.917Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +58,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-      "id": "a7"
+      "id": "a10"
     },
     {
       "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
@@ -49,7 +68,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-03T22:52:32.000Z",
-      "fetchedAt": "2026-10-04T22:32:26.057Z",
+      "fetchedAt": "2026-10-05T01:18:25.917Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +76,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
@@ -67,7 +86,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-04T22:32:26.057Z",
+      "fetchedAt": "2026-10-05T01:18:25.917Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -78,7 +97,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a13"
+      "id": "a16"
     }
   ]
 }
