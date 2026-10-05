@@ -1,28 +1,140 @@
 {
-  "generatedAt": "2026-10-05T07:42:53.806Z",
-  "date": "2026-10-05",
+  "generatedAt": "2026-10-05T16:26:16.236Z",
+  "date": "2026-10-06",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), IoT & XR (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+        "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
         "articleIds": [
           "a3"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
+        "articleIds": [
+          "a6"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
+        "text": "IoT & XR: Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedd",
         "articleIds": [
-          "a15"
+          "a10"
+        ],
+        "subCategory": "iot-xr"
+      },
+      {
+        "text": "Mobile Chips: Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fa",
+        "articleIds": [
+          "a18"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+      "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
+      "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T15:16:48.000Z",
+      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+      "id": "a3"
+    },
+    {
+      "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+      "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
+      "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T14:31:22.000Z",
+      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+      "id": "a6"
+    },
+    {
+      "title": "Embedded Systems Market 2026: Trends and Forecast to 2030 | Capitalize on Edge AI as Intel, Qualcomm, Nvidia, NXP Semiconductors, and Arm Accelerate the Market to $180.07 Billion",
+      "url": "https://finance.yahoo.com/technology/articles/embedded-systems-market-2026-trends-133600443.html?.tsrc=rss",
+      "description": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T13:36:00.000Z",
+      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "iot-xr",
+      "subLabel": "IoT & XR",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+      "id": "a10"
+    },
+    {
+      "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+      "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
+      "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T13:34:42.000Z",
+      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+      "id": "a11"
+    },
+    {
+      "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+      "url": "https://247wallst.com/investing/2026/10/05/prediction-qualcomm-could-be-on-the-verge-of-a-major-transformation/?.tsrc=rss",
+      "description": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-05T12:45:42.000Z",
+      "fetchedAt": "2026-10-05T16:26:07.898Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+      "id": "a18"
+    },
     {
       "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
       "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
@@ -31,7 +143,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T06:00:03.000Z",
-      "fetchedAt": "2026-10-05T07:42:46.006Z",
+      "fetchedAt": "2026-10-05T16:26:08.384Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,64 +151,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
-      "id": "a3"
-    },
-    {
-      "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
-      "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-04T01:11:18.000Z",
-      "fetchedAt": "2026-10-05T07:42:45.894Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-      "id": "a15"
-    },
-    {
-      "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
-      "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
-      "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-03T22:52:32.000Z",
-      "fetchedAt": "2026-10-05T07:42:45.894Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-      "id": "a16"
-    },
-    {
-      "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-      "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
-      "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-02T12:58:51.000Z",
-      "fetchedAt": "2026-10-05T07:42:45.894Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-      "id": "a21"
+      "id": "a26"
     }
   ]
 }

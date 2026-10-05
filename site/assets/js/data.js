@@ -2,24 +2,45 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-05T07:42:53.807Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles), Wireless Communication (1 article). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+          "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
           "articleIds": [
-            "a1"
+            "a3"
+          ],
+          "subCategory": "wireless"
+        },
+        {
+          "text": "IP / Intellectual Property: Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+          "articleIds": [
+            "a5"
           ],
           "subCategory": "ip"
         },
         {
+          "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
+          "articleIds": [
+            "a6"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "market-performance: Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NA",
+          "articleIds": [
+            "a16"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
           "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
           "articleIds": [
-            "a4"
+            "a27"
           ],
           "subCategory": "huawei"
         }
@@ -27,14 +48,34 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
-        "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
+        "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+        "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
+        "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T06:53:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
+        "publishedAt": "2026-10-05T15:16:48.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+        "id": "a3"
+      },
+      {
+        "title": "Huawei, Qualcomm agree to broad patent license deal",
+        "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
+        "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-05T15:05:16.000Z",
+        "fetchedAt": "2026-10-05T16:26:14.560Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -43,8 +84,88 @@ export const NEWS_DATA = {
           "huawei"
         ],
         "stakeholders": [],
-        "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
-        "id": "a1"
+        "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+        "id": "a5"
+      },
+      {
+        "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+        "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
+        "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T14:31:22.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+        "id": "a6"
+      },
+      {
+        "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
+        "url": "https://qz.com/huawei-qualcomm-patent-license-deal-100526?.tsrc=rss",
+        "description": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:30:12.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+        "id": "a12"
+      },
+      {
+        "title": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei",
+        "url": "https://www.tikr.com/blog/qualcomm-huawei-patent-license-agreement-ai-5g?ref=yahoofinance&.tsrc=rss",
+        "description": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T12:54:01.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+        "id": "a16"
+      },
+      {
+        "title": "Qualcomm, Huawei reach patent accord",
+        "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
+        "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-05T11:17:51.000Z",
+        "fetchedAt": "2026-10-05T16:26:14.137Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+        "id": "a19"
       },
       {
         "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
@@ -54,7 +175,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T06:01:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchedAt": "2026-10-05T16:26:15.047Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "ip-legal",
@@ -65,7 +186,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
-        "id": "a2"
+        "id": "a25"
       },
       {
         "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
@@ -75,7 +196,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T06:00:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:51.994Z",
+        "fetchedAt": "2026-10-05T16:26:14.490Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "huawei",
@@ -85,35 +206,167 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
-        "id": "a4"
+        "id": "a27"
+      },
+      {
+        "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
+        "url": "https://www.iam-media.com/article/huawei-qualcomm-strike-5g-ai-patent-cross-licence",
+        "description": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-05T05:00:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:11.810Z",
+        "fetchStrategy": "rss",
+        "section": "competitors",
+        "subCategory": "huawei",
+        "subLabel": "Huawei",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
+        "id": "a28"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-05T07:42:53.806Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), IoT & XR (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+          "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
           "articleIds": [
             "a3"
+          ],
+          "subCategory": "wireless"
+        },
+        {
+          "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
+          "articleIds": [
+            "a6"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "Mobile Chips: For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the",
+          "text": "IoT & XR: Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedd",
           "articleIds": [
-            "a15"
+            "a10"
+          ],
+          "subCategory": "iot-xr"
+        },
+        {
+          "text": "Mobile Chips: Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fa",
+          "articleIds": [
+            "a18"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+        "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
+        "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T15:16:48.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+        "id": "a3"
+      },
+      {
+        "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+        "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
+        "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T14:31:22.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+        "id": "a6"
+      },
+      {
+        "title": "Embedded Systems Market 2026: Trends and Forecast to 2030 | Capitalize on Edge AI as Intel, Qualcomm, Nvidia, NXP Semiconductors, and Arm Accelerate the Market to $180.07 Billion",
+        "url": "https://finance.yahoo.com/technology/articles/embedded-systems-market-2026-trends-133600443.html?.tsrc=rss",
+        "description": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:36:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "iot-xr",
+        "subLabel": "IoT & XR",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+        "id": "a10"
+      },
+      {
+        "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+        "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
+        "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:34:42.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+        "id": "a11"
+      },
+      {
+        "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+        "url": "https://247wallst.com/investing/2026/10/05/prediction-qualcomm-could-be-on-the-verge-of-a-major-transformation/?.tsrc=rss",
+        "description": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T12:45:42.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+        "id": "a18"
+      },
       {
         "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
         "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
@@ -122,7 +375,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T06:00:03.000Z",
-        "fetchedAt": "2026-10-05T07:42:46.006Z",
+        "fetchedAt": "2026-10-05T16:26:08.384Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -130,70 +383,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
-        "id": "a3"
-      },
-      {
-        "title": "Can Agentic AI Power Qualcomm’s (QCOM) Next Growth Cycle?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/agentic-ai-power-qualcomm-qcom-011118232.html?.tsrc=rss",
-        "description": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T01:11:18.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "For years, Qualcomm Incorporated (NASDAQ:QCOM) has maintained its position in the mobile chip market. Its investment thesis has largely depended on smartphone demand. However, the company believes the next growth phase lies in agentic AI. It is of the view that increasingly capable AI agents will operate directly on consumer devices. At Snapdragon Summit, the […]",
-        "id": "a15"
-      },
-      {
-        "title": "ASML Holding vs. Qualcomm: What Revenue Trends Tell Investors About These Semiconductor Industry Giants",
-        "url": "https://www.fool.com/coverage/charts/2026/10/03/asml-holding-vs-qualcomm-what-revenue-trends-tell-investors-about-these-semiconductor-industry-giants/?.tsrc=rss",
-        "description": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-03T22:52:32.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "ASML's momentum has flipped the script — it now outpaces Qualcomm in recent quarters after trailing for years, raising questions about whether this inversion will stick.",
-        "id": "a16"
-      },
-      {
-        "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
-        "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
-        "id": "a21"
+        "id": "a26"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-05T07:42:53.806Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -203,17 +399,24 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-05T07:42:53.806Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Patent Litigation (2 articles). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "IP / Intellectual Property: Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios ",
+          "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
           "articleIds": [
-            "a1"
+            "a2"
+          ],
+          "subCategory": "patent-litigation"
+        },
+        {
+          "text": "IP / Intellectual Property: Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+          "articleIds": [
+            "a5"
           ],
           "subCategory": "ip"
         }
@@ -221,14 +424,33 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "url": "https://finance.yahoo.com/technology/articles/huawei-qualcomm-announce-broad-patent-065300926.html?.tsrc=rss",
-        "description": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
+        "description": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T06:53:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
+        "publishedAt": "2026-10-05T15:27:15.000Z",
+        "fetchedAt": "2026-10-05T16:26:15.047Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "ip-legal",
+        "subCategory": "patent-litigation",
+        "subLabel": "Patent Litigation",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+        "id": "a2"
+      },
+      {
+        "title": "Huawei, Qualcomm agree to broad patent license deal",
+        "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
+        "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-05T15:05:16.000Z",
+        "fetchedAt": "2026-10-05T16:26:14.560Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -237,8 +459,66 @@ export const NEWS_DATA = {
           "huawei"
         ],
         "stakeholders": [],
-        "summary": "Shenzhen, China--(Newsfile Corp. - October 5, 2026) - Huawei and Qualcomm today announced a multi-year, broad patent license agreement that includes cross licenses to the companies' patent portfolios across a range of technology fields, including 5G, compute, AI, and networking, together with Qualcomm's purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies. This transaction will close following receipt of the necessary regulatory...",
-        "id": "a1"
+        "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+        "id": "a5"
+      },
+      {
+        "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
+        "url": "https://qz.com/huawei-qualcomm-patent-license-deal-100526?.tsrc=rss",
+        "description": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:30:12.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+        "id": "a12"
+      },
+      {
+        "title": "Qualcomm, Arm Reportedly Head Back To Court With Billions In Potential Royalties At Stake",
+        "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-arm-reportedly-head-back-to-court-with-billions-in-potential-royalties-at-stake/cZDpUMSRBjT?.tsrc=rss",
+        "description": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:14:39.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "patent-litigation",
+        "subLabel": "Patent Litigation",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
+        "id": "a15"
+      },
+      {
+        "title": "Qualcomm, Huawei reach patent accord",
+        "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
+        "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-05T11:17:51.000Z",
+        "fetchedAt": "2026-10-05T16:26:14.137Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+        "id": "a19"
       },
       {
         "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
@@ -248,7 +528,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T06:01:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchedAt": "2026-10-05T16:26:15.047Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "ip-legal",
@@ -259,27 +539,27 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
-        "id": "a2"
+        "id": "a25"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-05T07:42:53.809Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.238Z",
+    "date": "2026-10-06",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+        "articleCount": 6,
+        "topHeadline": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
         "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), IoT & XR (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 2,
-        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Patent Litigation (2 articles). A total of 6 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -290,53 +570,285 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 17,
-        "topHeadline": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources."
+        "articleCount": 18,
+        "topHeadline": "How Much Could You Lose In Qualcomm Stock?",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 3,
-        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (2 articles), Huawei (1 article). A total of 3 articles were aggregated from monitored sources."
+        "articleCount": 9,
+        "topHeadline": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles), Wireless Communication (1 article). A total of 9 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 1,
-        "topHeadline": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "topHeadlineId": "a21",
-        "briefingSummary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an"
+        "articleCount": 5,
+        "topHeadline": "The best early October Prime Day deals happening now",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 27
+    "totalArticles": 44
   },
   "macro-environment": {
-    "generatedAt": "2026-10-05T07:42:53.806Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles). A total of 17 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+          "text": "market-performance: Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when marke",
           "articleIds": [
-            "a5"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-          "articleIds": [
-            "a10"
+            "a1"
           ],
           "subCategory": "market-performance"
+        },
+        {
+          "text": "Geopolitics & Export Controls: 05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industria",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "How Much Could You Lose In Qualcomm Stock?",
+        "url": "https://www.trefis.com/articles/617553/how-much-could-you-lose-in-qualcomm-stock/2026-10-05?.tsrc=rss",
+        "description": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T15:34:37.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
+        "id": "a1"
+      },
+      {
+        "title": "Huawei Says Qualcomm Will Pay for Its Patents for the First Time. Here’s What It Means for Qualcomm Stock",
+        "url": "https://www.tikr.com/blog/huawei-says-qualcomm-will-pay-for-its-patents-for-the-first-time-heres-what-it-means-for-qualcomm-stock?ref=yahoofinance&.tsrc=rss",
+        "description": "Key Stats for Qualcomm StockCurrent Price: $184. 87Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~110%Annualized IRR: ~20% / yearWhat Happened?Huawei has paid Qualcomm (QCOM:NASDAQ) for patents since 2001.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T15:16:42.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key Stats for Qualcomm StockCurrent Price: $184. 87Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~110%Annualized IRR: ~20% / yearWhat Happened?Huawei has paid Qualcomm (QCOM:NASDAQ) for patents since 2001.",
+        "id": "a4"
+      },
+      {
+        "title": "From Overseas Range Records to Zero-Carbon Factories: OMODA & JAECOO to Showcase Green Technology Credentials at 2026 International User Summit in October",
+        "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-141300690.html?.tsrc=rss",
+        "description": "WUHU, China, Oct. 05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T14:13:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
+        "id": "a7"
+      },
+      {
+        "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - constructionreviewonline.com",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmV2Y1FPRWgycVpqZVVWajgwYThqS004NTZRbEJFVFZiMk1KcmFyNkVZN084bTZERVlXb3NDbzJYQWtWdUxrV0c0ckhkYkI0NmtSWTZZR2QwdzdZSVJ0NzJjYUxMMGJIak5Mell0cWlVVExwMmFKSkFBaUg5bVN0TGh5MTNTbTBMbFNSM251SUx3X01JbkhEX1dsSU5DWGpQU1J1eGNOaVNWX3Z4Mk8wLVVJT0VyMXlkVnJPRV9VNVk?oc=5",
+        "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:58:40.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "constructionreviewonline.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
+        "id": "a9"
+      },
+      {
+        "title": "US arrests tech executive over alleged $300M GPU diversion to China - Cybernews",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVZmUU9GdXlDZjJwcTkzeENhd0xsbGExc0tQeFdLbl9EcTRrRUVpNTdMNk5FSGNEMWw4ZW9RSEZMRDBhY1E4cjZKVlhQdDg3SUJiTC1Qb0FZNEZfQTNBWGhLVUJRSUhXVXVXekFmOUZLb1BzX0gxTUxQZ0pkTlRZempScS1JM1U1b21aUW9SSU1ZaVJYaG9kUWVKOGZwTGs?oc=5",
+        "description": "US arrests tech executive over alleged $300M GPU diversion to China Cybernews",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:30:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Cybernews",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US arrests tech executive over alleged $300M GPU diversion to China Cybernews",
+        "id": "a13"
+      },
+      {
+        "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+        "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+        "description": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T13:23:46.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.988Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+        "id": "a14"
+      },
+      {
+        "title": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei",
+        "url": "https://www.tikr.com/blog/qualcomm-huawei-patent-license-agreement-ai-5g?ref=yahoofinance&.tsrc=rss",
+        "description": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T12:54:01.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+        "id": "a16"
+      },
+      {
+        "title": "Qualcomm Takes Arm to Court Over Withheld Chip Testing Tools and Leaked Deal Threats",
+        "url": "https://www.tikr.com/blog/qualcomm-arm-trial-chip-testing-tools-license-dispute?ref=yahoofinance&.tsrc=rss",
+        "description": "Key Stats for Arm Holdings StockPrice change for Arm Holdings stock in the last 6 months: 107%$ARM Stock Price as of Oct. 2: $30752-Week High: $453$ARM Stock Price Target: $289What Happened?Arm Holdings (ARM:NASDAQ) is back in court with one of its biggest customers.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T12:47:59.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key Stats for Arm Holdings StockPrice change for Arm Holdings stock in the last 6 months: 107%$ARM Stock Price as of Oct. 2: $30752-Week High: $453$ARM Stock Price Target: $289What Happened?Arm Holdings (ARM:NASDAQ) is back in court with one of its biggest customers.",
+        "id": "a17"
+      },
+      {
+        "title": "Our minds aren’t equipped to handle AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+        "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-05T10:00:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:09.175Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+        "id": "a21"
+      },
+      {
+        "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
+        "url": "https://ipfray.com/access-advance-strengthens-asia-presence-with-executive-ip-licensing-hires-in-china-taiwan/",
+        "description": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-05T07:52:08.000Z",
+        "fetchedAt": "2026-10-05T16:26:14.490Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
+        "id": "a22"
+      },
+      {
+        "title": "China's ASML DUV stockpile spurs calls to close export-control loophole - digitimes.com",
+        "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmI0R09TZU83NnZGUzktSlVZZVNpQjEwUTFVT2pCZjhvSE9uaDZrN19xaUxvUm90ZU44OG41LXFWN1Z4cUNXN1hQN09KZnZGRW51bzY2SzgzZ2UzbUljNWd5cjN6ZlFyaHVoRm9hbnVGWFV0TWhFOURpUW9UdkZKTEJkUVdXNzJWMlhYWkxR?oc=5",
+        "description": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T07:14:05.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "digitimes.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes.com",
+        "id": "a23"
+      },
+      {
+        "title": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China - Analytics Insight",
+        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnpzY19tU1g3X2ZEeWcwTTA3cU0teGY1T19WRHgxRWw0alJhOWtULUZLMVByRk5abExJUVdubXA2dllUNUtYRVVldmIyT19ZdGlVZGZlR0N6b2FlUHpNVHpTZXBNZXMtY2dwNHh0YkFrWEhfWjVnTkFmOXZHOHQ3NG1pV090WjBQZ0JwV1Z6NXJzSUhZNWtVeU9UekxqQ0o1UWp1X0tpMEgzblgwRHhyWlU1VEdGMy1PTjIxOU0xdGpCRlhrZ1HSAcYBQVVfeXFMT256c2NfbVNYN19mRHlnME0wN3FNLXhmNU9fVkR4MUVsNGpSYTlrVC1GSzFQckZOWmxMSVFXbm1wNnZZVDVLWEVVZXZiMk9fWXRpVWRmZUdDem9hZVB6TVR6U2VwTWVzLWNncDR4dGJBa1hIX1o1Z05BZjl2Rzh0NzRtaVdPdFowUGdCcFdWejVyc0lIWTVrVXlPVHpMakNKNVFqdV9LaTBIM25YMER4clpVNVRHRjMtT04yMTlNMXRqQkZYa2dR?oc=5",
+        "description": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T07:05:51.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Analytics Insight",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
+        "id": "a24"
+      },
       {
         "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
         "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn?oc=5",
@@ -345,7 +857,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T02:44:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:53.763Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
@@ -355,26 +867,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
-        "id": "a5"
-      },
-      {
-        "title": "‘Unwelcome and unsafe’: Why Japanese companies are retreating from China at a historic rate",
-        "url": "https://www.cnbc.com/2026/10/05/japanese-companies-leaving-china-takaichi-comment-taiwan.html",
-        "description": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T02:15:12.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.818Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Japanese companies are leaving China at record pace, as a diplomatic freeze and a slowing economy force businesses to reassess their presence.",
-        "id": "a6"
+        "id": "a29"
       },
       {
         "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - Reuters",
@@ -384,7 +877,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T01:55:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:52.668Z",
+        "fetchedAt": "2026-10-05T16:26:15.047Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "geopoliticalBypass": true,
@@ -394,7 +887,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
-        "id": "a7"
+        "id": "a30"
       },
       {
         "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - The Wire China",
@@ -404,7 +897,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-04T23:30:19.000Z",
-        "fetchedAt": "2026-10-05T07:42:53.763Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Wire China",
         "geopoliticalBypass": true,
@@ -414,65 +907,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
-        "id": "a8"
-      },
-      {
-        "title": "US Lead in AI Over China Narrows After DeepSeek Gains, BI Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-04/us-lead-in-ai-over-china-narrows-after-deepseek-gains-bi-says",
-        "description": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T21:03:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:46.006Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence.",
-        "id": "a9"
-      },
-      {
-        "title": "Bull run for Japan stocks at risk, warns boss of biggest trading house",
-        "url": "https://www.ft.com/content/1fdb8380-2fac-474a-a184-616c0a29feb6?syn-25a6b1a6=1",
-        "description": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T21:00:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:48.383Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Mitsubishi Corp chief says companies must deploy cash more efficiently amid fears bond yields may hit equities",
-        "id": "a10"
-      },
-      {
-        "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3Iwd0t3M0NfdGM3SWMyajBvLVRleFdCZWRsSU84cnhJbGxzRlZKN2cxR2syYkRvN0JYZ1ZjMXViN0w0RlNESktPVXNkRTh5OHlKTjloRnlzTnViVWFyNFY0NGpzV2Zkdm4wOE1LcUZmMDU5eFE?oc=5",
-        "description": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T18:15:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:53.763Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "finance.biggo.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
-        "id": "a11"
+        "id": "a31"
       },
       {
         "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
@@ -481,8 +916,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T14:22:05.000Z",
-        "fetchedAt": "2026-10-05T07:42:53.763Z",
+        "publishedAt": "2026-10-04T19:35:40.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Simply Wall Street",
         "geopoliticalBypass": true,
@@ -492,45 +927,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
-        "id": "a12"
+        "id": "a32"
       },
       {
-        "title": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control - AD HOC NEWS",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNallwME9TZ2tMWjVpYWFoVVJvY2t0MlNHUzFETDZBdnBxUFIzcGpnWk5EOWFHY3lFUFVvaFdaclN4c2RUc0V5bHQzc0JTMGhaM3lHZEhDenk2ZkRwREQzbFcwTHAzYVc4T2lmWW4wVWNERFpJaHh3eEFObTJwbzlKWktYS0xReXpzc08yUDdXVG9FMVBLcVlBOVZTMHMxd2tSU3drMEZHQ2RmZS1iN2NUaGV3eWFiRXhJLVZCbGhpbFZKVkFLV2UyLWZDMnVUYmtVdi02aU8ydlF4bWM?oc=5",
-        "description": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
+        "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3Iwd0t3M0NfdGM3SWMyajBvLVRleFdCZWRsSU84cnhJbGxzRlZKN2cxR2syYkRvN0JYZ1ZjMXViN0w0RlNESktPVXNkRTh5OHlKTjloRnlzTnViVWFyNFY0NGpzV2Zkdm4wOE1LcUZmMDU5eFE?oc=5",
+        "description": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T10:30:57.000Z",
-        "fetchedAt": "2026-10-05T07:42:53.764Z",
+        "publishedAt": "2026-10-04T18:15:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:16.194Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "AD HOC NEWS",
+        "googleNewsSource": "finance.biggo.com",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Nvidia Insures Its Own Boom: Chipmaker Weighs Default Cover as Smuggling Arrest Tests Export Control AD HOC NEWS",
-        "id": "a13"
-      },
-      {
-        "title": "Micron Technology vs. Qualcomm: What Revenue Trends Tell Investors About These Tech Companies",
-        "url": "https://www.fool.com/coverage/charts/2026/10/04/micron-technology-vs-qualcomm-what-revenue-trends-tell-investors-about-these-tech-companies/?.tsrc=rss",
-        "description": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-04T05:40:12.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Micron's revenue surged 432% over two years while Qualcomm's declined, widening a gap that raises questions about sector dynamics and competitive positioning.",
-        "id": "a14"
+        "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+        "id": "a33"
       },
       {
         "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
@@ -540,7 +957,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-03T15:02:01.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.797Z",
+        "fetchedAt": "2026-10-05T16:26:07.841Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -549,118 +966,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
-        "id": "a17"
-      },
-      {
-        "title": "Broadcom, Qualcomm, and Sensata Technologies Stocks Trade Up, What You Need To Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/broadcom-qualcomm-sensata-technologies-stocks-003003380.html?.tsrc=rss",
-        "description": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-03T00:30:03.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A number of stocks jumped in the afternoon session after weaker-than-expected U.S. employment data cooled Treasury yields, easing interest rate pressure.",
-        "id": "a18"
-      },
-      {
-        "title": "Why Qualcomm (QCOM) Outpaced the Stock Market Today",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-outpaced-stock-204503928.html?.tsrc=rss",
-        "description": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T20:45:03.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The latest trading day saw Qualcomm (QCOM) settling at $184.87, representing a +1.53% change from its previous close.",
-        "id": "a19"
-      },
-      {
-        "title": "China targets 1M 50G-PON ports by 2030",
-        "url": "https://www.lightreading.com/optical-networking/china-targets-1m-50g-pon-ports-by-2030",
-        "description": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "source": "Light Reading",
-        "sourceId": "light-reading",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-02T14:12:21.000Z",
-        "fetchedAt": "2026-10-05T07:42:52.267Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China's optical industry is seeking to deploy 1 million 50G-PON ports by 2030 at a time when AI traffic is creating demand for new optical, but also squeezing production capacity.",
-        "id": "a20"
-      },
-      {
-        "title": "Investors Heavily Search QUALCOMM Incorporated (QCOM): Here is What You Need to Know",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-heavily-search-qualcomm-incorporated-120006412.html?.tsrc=rss",
-        "description": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T12:00:06.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (QCOM) has received quite a bit of attention from Zacks.com users lately. Therefore, it is wise to be aware of the facts that can impact the stock's prospects.",
-        "id": "a22"
-      },
-      {
-        "title": "Rare earth rivalries creating difficulties for trade secret strategy",
-        "url": "https://www.iam-media.com/index.php/trade-secrets/article/rare-earth-rivalries-creating-difficulties-trade-secret-strategy",
-        "description": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-02T11:40:00.000Z",
-        "fetchedAt": "2026-10-05T07:42:50.087Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China’s protection of rare earth know-how and emerging US litigation show why IP teams must manage their crown jewel-secrets with care",
-        "id": "a23"
-      },
-      {
-        "title": "Opinion: China’s role in the future of global SEP licensing",
-        "url": "https://ipfray.com/opinion-chinas-role-in-the-future-of-global-sep-licensing/",
-        "description": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "source": "IP Fray",
-        "sourceId": "ip-fray",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-02T08:00:09.000Z",
-        "fetchedAt": "2026-10-05T07:42:51.994Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "In this guest contribution, Via Licensing Alliance's President Kevin Mack reflects on his last visit to China, and the evolution of patent licensing he has witnessed there.",
-        "id": "a24"
+        "id": "a34"
       }
     ]
   },
@@ -856,42 +1162,145 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-05T07:42:53.807Z",
-    "date": "2026-10-05",
+    "generatedAt": "2026-10-05T16:26:16.236Z",
+    "date": "2026-10-06",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "One article today covering Semiconductors. Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter an",
+      "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases ",
+          "text": "Platform & Ecosystem Partners: Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM ",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "platform-partner"
+        },
+        {
+          "text": "Semiconductors: Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+          "articleIds": [
+            "a11"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "Mobile Chips: Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fa",
+          "articleIds": [
+            "a18"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those",
           "articleIds": [
             "a21"
           ],
-          "subCategory": "semiconductors"
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
       {
-        "title": "Qualcomm Is Losing Apple and Adding Amazon. Is the Stock Ready?",
-        "url": "https://www.tikr.com/blog/qualcomm-is-losing-apple-and-adding-amazon-is-the-stock-ready?ref=yahoofinance&.tsrc=rss",
-        "description": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+        "title": "The best early October Prime Day deals happening now",
+        "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+        "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 5th was another big one. Now, there are some great headphone deals from Sony, in addition to weekend drops of deals from Apple, Beats, and Kindle-related ones from Amazon. No more major updates will be made to this article ahead of the sale beginning on October 6th. Microsoft Surface Pro (13-inch, Snapdragon X2 Elite) The latest Surface Pro is speedy and elegant, with a 13-inch OLED touchscreen and the Snapdragon X2 Elite processor. It doesn’t include a keyboard, though. Where to Buy: $1799.99 $1499.99 at Best Buy (16GB RAM, 512GB SSD) Fujifilm Instax Mini Evo Fujifilm’s stylish Instax Mini Evo is the best instant camera overall. With it, you can choose which photos to print, while also boasting good image quality. Where to Buy: $234 $199.99 at Amazon $234.99 $199.99 at Best Buy $234 $199.99 at B&H Photo Apple iPad Air M4 The latest iteration of Apple’s iPad Air features an M4 processor and better connectivity under the hood, resulting in great performance whether you’re gaming or doing AI-related tasks. Read our review. Where to Buy: $749 $649 at Amazon (128GB, Wi-Fi) $749 $649 at Best Buy (128GB, Wi-Fi) LG C6 OLED TV While a relatively minor upgrade over the C5 if you’re getting a 65-inch or smaller screen, the 77- and 83-inch C6 utilize an improved Tandem OLED screen with incredible brightness. Where to Buy: $2699 $1499.99 at Amazon (65-inch) $2699 $1499.99 at Best Buy (65-inch) Fujifilm Instax Mini 13 The Fujifilm Instax Mini 13 is a fun gift for students starting a new chapter. It prints credit card-sized photos in seconds, and the new self-timer makes it easier to snap group photos with friends. Where to Buy: $93.95 at Amazon $93.99 at Best Buy $93.99 at Target iPad (2025) Apple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review. Where to Buy: $449 $399 at Amazon (128GB, Wi-Fi) $449 $399 at Best Buy (128GB, Wi-Fi) Star Wars Zero Company This XCOM-inspired twist of a Star Wars tactics game is as good as it sounds. Snag the game on its first-ever discount. Where to Buy: $59.99 $47.99 at Amazon $59.99 $47.99 at Best Buy Sony WH-1000XM5 The XM5 deliver better audio and noise cancellation than the XM4 (and even the refreshed XM4C that cost more), though they aren’t as compact. Read our review. Where to Buy: $399.99 $198 at Amazon $399.99 $198 at Best Buy Sony WH-1000XM6 headphones Sony made subtle improvements to every facet of the WH-1000XM6, from sound quality to ANC performance, while wisely bringing back the foldable, travel-friendly design last seen on the XM4. Where to Buy: $458 $378 at Amazon $458 $378 at Best Buy $458 $378 at B&H Photo Sony WF-1000XM6 earbuds The Sony WF-1000XM6 earbuds have top-notch noise-canceling performance with excellent, balanced sound, if you can get a good seal in your ears. Read our review. Where to Buy: $329.99 $258 at Amazon $329.99 $258 at Best Buy $329.99 $258 at Sony Sony Bravia 6 OLED TV The first Sony OLED with four HDMI 2.1 ports. It competes with the LG C6 in terms of brightness and specs, and this is its first big price drop. Where to Buy: $1500 $1098 at Amazon (55-inch) $2000 $1298 at Amazon (65-inch) Belkin Charging Case Pro While it won’t charge your Switch 2 any faster than the cheaper Belkin option, the clever battery-meets-kickstand with a built-in display simply looks better. Where to Buy: $99.99 $80.74 at Amazon (sand) $99.99 $84.99 at Belkin (sand) Nex Playground The Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whack-a-Mole Deluxe. Where to Buy: $299 $239 at Amazon $299 $239 at Walmart $299 $239 at Best Buy Kindle Scribe Colorsoft The Kindle Scribe Colorsoft is Amazon’s first note-taking e-reader with a color screen. It features an 11-inch display, a slimmer design, an improved interface, an updated stylus, and a new AI-powered search feature that can quickly summarize documents. Where to Buy: $629.99 $479.99 at Amazon (32GB) $629.99 $479.99 at Best Buy (32GB) $679.99 $519.99 at Amazon (64GB) Kindle Scribe 32GB The third-gen Kindle Scribe 32GB is even bigger than its 10.2-inch predecessor; it offers an 11-inch display with 300ppi resolution and the same great battery life that Kindles are known for. Where to Buy: $499.99 $379.99 at Amazon $499.99 $379.99 at Best Buy iPad Mini (2024) The seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review. Where to Buy: $599 $499 at Amazon (128GB, Wi-Fi) $599 $449 at Best Buy (128GB, Wi-Fi) $699 $599 at Amazon (256GB, Wi-Fi) Apple 13-inch MacBook Air (M5) Powered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review. Where to Buy: $1299 $1099 at Amazon $1299 $1099 at Best Buy Apple MacBook Air (15-inch, M5, 2026) The 15-inch version of the M5 MacBook Air has better speakers and a slightly better GPU than the base 13-inch model. Where to Buy: $1499 $1299 at Amazon $1499 $1299 at Best Buy $1499 at B&H Photo Beats Studio Pro Despite the familiar design, there were plenty of upgrades in the latest Studio Pro, including noise cancellation, transparency mode, and lossless USB-C audio. Here’s our review. Where to Buy: $349.99 $149.95 at Amazon $349.99 $219.95 at Walmart $349.99 $149.99 at Best Buy Beats Powerbeats Pro 2 The latest Powerbeats Pro are a no-brainer for athletes. They pack fantastic sound and thumping bass, along with active noise cancellation, IPX4 water resistance, and heart rate monitoring. Read our review. Where to Buy: $278.99 $179.95 at Amazon (with 2 years AppleCare+) $249 $224.95 at Walmart $249.99 $179.99 at Best Buy Beats Powerbeats Fit A new version of the Fit Pro wireless earbuds, which are upgraded with a redesigned wing tip that Beats says is 20 percent more flexible, a smaller case, and other advantages. Where to Buy: $199.99 $159.95 at Amazon $199.99 $159.99 at Best Buy $199.95 $159.95 at B&H Photo Roku Ultra Roku’s latest Ultra streamer has built-in ethernet, a rechargeable voice remote with backlit buttons, and AirPlay 2 support. You can also control it with Amazon Alexa through a compatible smart speaker. The Roku Channel app lets you stream over 400 free live TV stations, plus exclusive movies like Weird: The Al Yankovic Story. Where to Buy: $149.99 $99.99 at Amazon $149.99 $99.99 at Best Buy $149.99 $99.99 at B&H Photo Roku Streaming Stick Plus Roku’s Streaming Stick Plus supports 4K playback and features a slim design, so it won’t block nearby ports. It plugs straight into your TV’s HDMI port and can be powered by your TV’s USB port, so you don’t need an additional plug. It also comes with Roku’s Voice Remote, giving you hands-free control. Where to Buy: $59.99 $34.99 at Amazon $59.99 $34.99 at Walmart $59.99 $34.99 at Best Buy Kindle Colorsoft (16GB) The 16GB Kindle Colorsoft is Amazon’s latest color e-reader. It features a 7-inch 300ppi screen, an adjustable frontlight, and a battery that can last up to eight weeks. Where to Buy: $249.99 $189.99 at Amazon $249.99 $189.99 at Best Buy $249.99 $189.99 at Target Kindle Paperwhite Signature Edition The 2024 version of the Paperwhite is steeply discounted, and nearly identical to the latest model. The Signature Edition includes double the storage (to 32GB), no ads, and wireless charging. Read our review. Where to Buy: $199.99 $169.99 at Amazon $199.99 $169.99 at Best Buy $199.99 $169.99 at Target Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target iPhone 16E The iPhone 16E is the spiritual successor to the iPhone SE, bringing flagship-level performance for less than the standard 16. We really wish it included MagSafe for $599, but those upgrading from older iPhones will probably be satisfied with what’s included. Where to Buy: $599.99 $519.99 at Best Buy (128GB) Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) iPhone Air The iPhone Air is Apple’s thinnest iPhone yet at 5.6mm, featuring a 6.5-inch ProMotion display, a 48MP fusion camera, and an 18MP front camera with Center Stage support. But its single rear camera and “meh” battery life mean it’s not for everyone. Where to Buy: $999.99 $839.99 at Best Buy (256GB) Apple AirPods Max (second-gen) Apple’s new iteration of its priciest, most powerful headphones deliver minor updates for first-gen owners. But those who are jumping in will especially appreciate their big, bold sound. Read our review. Where to Buy: $549 $429 at Amazon $549 $429 at Best Buy Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) Microsoft Surface Laptop (13.8-inch, 2026) A powerful tablet that can turn into a laptop when you purchase the keyboard+trackpad accessory. This model features an OLED screen, the Snapdragon X2 Elite, 16GB RAM and a 512GB SSD. Read our coverage. Where to Buy: $1599.99 $1299.99 at Best Buy (16GB RAM/512GB) $1599.99 $1299.99 at Microsoft",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-05T14:10:19.000Z",
+        "fetchedAt": "2026-10-05T16:26:09.175Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 5th was another big one. Now, there are some great headphone deals from Sony, in addition to weekend drops of deals from Apple, Beats, and Kindle-related ones from Amazon.",
+        "id": "a8"
+      },
+      {
+        "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+        "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
+        "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-02T12:58:51.000Z",
-        "fetchedAt": "2026-10-05T07:42:45.894Z",
+        "publishedAt": "2026-10-05T13:34:42.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+        "id": "a11"
+      },
+      {
+        "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+        "url": "https://247wallst.com/investing/2026/10/05/prediction-qualcomm-could-be-on-the-verge-of-a-major-transformation/?.tsrc=rss",
+        "description": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-05T12:45:42.000Z",
+        "fetchedAt": "2026-10-05T16:26:07.898Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+        "id": "a18"
+      },
+      {
+        "title": "Google admits not every Android app runs great on Intel Googlebooks",
+        "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+        "description": "This Asus Googlebook is one of the Intel models that may have issues. | Photo: Antonio G. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. Today, in a statement to Android Authority, it admitted that while every app is available, some may not offer smooth performance on every Googlebook. The vast majority of Android apps run smoothly across both Intel and Qualcomm Googlebooks right out of the box. Because many Android apps were o … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-05T10:58:22.000Z",
+        "fetchedAt": "2026-10-05T16:26:09.175Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
           "oem",
           "platform-partner"
         ],
-        "summary": "Key TakeawaysAmazon’s Sept. 8 custom silicon deal gives Qualcomm’s data center plan a named customer, with revenue starting in the December quarter and warrants tied to up to $60 billion of purchases over 10 years.",
+        "summary": "This Asus Googlebook is one of the Intel models that may have issues. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. Today, in a statement to Android Authority, it admitted that while every app is available, some may not offer smooth performance on every Googlebook. The vast majority of Android apps run smoothly across both Intel and Qualcomm Googlebooks right out of the box.",
+        "id": "a20"
+      },
+      {
+        "title": "Our minds aren’t equipped to handle AI",
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+        "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-05T10:00:00.000Z",
+        "fetchedAt": "2026-10-05T16:26:09.175Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
         "id": "a21"
       }
     ]
@@ -18231,6 +18640,1077 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 27
+  },
+  "archive-2026-10-06": {
+    "generatedAt": "2026-10-05T16:26:16.238Z",
+    "date": "2026-10-06",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), IoT & XR (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "IoT & XR: Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedd",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "iot-xr"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fa",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+            "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
+            "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T15:16:48.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+            "id": "a3"
+          },
+          {
+            "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+            "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
+            "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T14:31:22.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+            "id": "a6"
+          },
+          {
+            "title": "Embedded Systems Market 2026: Trends and Forecast to 2030 | Capitalize on Edge AI as Intel, Qualcomm, Nvidia, NXP Semiconductors, and Arm Accelerate the Market to $180.07 Billion",
+            "url": "https://finance.yahoo.com/technology/articles/embedded-systems-market-2026-trends-133600443.html?.tsrc=rss",
+            "description": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:36:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "iot-xr",
+            "subLabel": "IoT & XR",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
+            "id": "a10"
+          },
+          {
+            "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+            "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
+            "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:34:42.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+            "id": "a11"
+          },
+          {
+            "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+            "url": "https://247wallst.com/investing/2026/10/05/prediction-qualcomm-could-be-on-the-verge-of-a-major-transformation/?.tsrc=rss",
+            "description": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T12:45:42.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+            "id": "a18"
+          },
+          {
+            "title": "Qualcomm Licenses Patents on Huawei’s LogicFolding Chip Tech",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
+            "description": "Qualcomm Inc. has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:00:03.000Z",
+            "fetchedAt": "2026-10-05T16:26:08.384Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "has agreed to license patents underpinning Huawei Technologies Co.’s novel LogicFolding chipmaking technique, a win for the Chinese company and its push to advance in overseas AI markets.",
+            "id": "a26"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Patent Litigation (2 articles). A total of 6 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "patent-litigation"
+            },
+            {
+              "text": "IP / Intellectual Property: Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPS1VVb0RTQ1NhSkFHMXd2RENIQ0xsSjVyTkFKYlVSUmRrOXdCRjVwR0psNEdzdjdEa1Y2bkNDcW9WUkIxampaT3JFSm9NaWJBcXF0ZkFsOUtjcjRfWmNZOU8zaXBQWDdlS2U3c1FyQklSM2NVN3N5Z1BxMjRJVjczcGE3MzdjbmtIMWk1S0s5aXE1c0xrVm5wN2FpY25laTlvSGhsbHdRM1FvODB5ZW52YjZtcjgzM3pj?oc=5",
+            "description": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T15:27:15.000Z",
+            "fetchedAt": "2026-10-05T16:26:15.047Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "ip-legal",
+            "subCategory": "patent-litigation",
+            "subLabel": "Patent Litigation",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
+            "id": "a2"
+          },
+          {
+            "title": "Huawei, Qualcomm agree to broad patent license deal",
+            "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
+            "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-05T15:05:16.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.560Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+            "id": "a5"
+          },
+          {
+            "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
+            "url": "https://qz.com/huawei-qualcomm-patent-license-deal-100526?.tsrc=rss",
+            "description": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:30:12.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+            "id": "a12"
+          },
+          {
+            "title": "Qualcomm, Arm Reportedly Head Back To Court With Billions In Potential Royalties At Stake",
+            "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-arm-reportedly-head-back-to-court-with-billions-in-potential-royalties-at-stake/cZDpUMSRBjT?.tsrc=rss",
+            "description": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:14:39.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "patent-litigation",
+            "subLabel": "Patent Litigation",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is seeking relief that could halt billions of dollars in royalty payments to Arm as their licensing dispute returns to a Delaware federal court, according to Reuters.",
+            "id": "a15"
+          },
+          {
+            "title": "Qualcomm, Huawei reach patent accord",
+            "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
+            "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-05T11:17:51.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.137Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+            "id": "a19"
+          },
+          {
+            "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+            "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:01:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:15.047Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "id": "a25"
+          }
+        ]
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles). A total of 18 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "market-performance: Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when marke",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: 05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industria",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "How Much Could You Lose In Qualcomm Stock?",
+            "url": "https://www.trefis.com/articles/617553/how-much-could-you-lose-in-qualcomm-stock/2026-10-05?.tsrc=rss",
+            "description": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T15:34:37.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
+            "id": "a1"
+          },
+          {
+            "title": "Huawei Says Qualcomm Will Pay for Its Patents for the First Time. Here’s What It Means for Qualcomm Stock",
+            "url": "https://www.tikr.com/blog/huawei-says-qualcomm-will-pay-for-its-patents-for-the-first-time-heres-what-it-means-for-qualcomm-stock?ref=yahoofinance&.tsrc=rss",
+            "description": "Key Stats for Qualcomm StockCurrent Price: $184. 87Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~110%Annualized IRR: ~20% / yearWhat Happened?Huawei has paid Qualcomm (QCOM:NASDAQ) for patents since 2001.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T15:16:42.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key Stats for Qualcomm StockCurrent Price: $184. 87Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~110%Annualized IRR: ~20% / yearWhat Happened?Huawei has paid Qualcomm (QCOM:NASDAQ) for patents since 2001.",
+            "id": "a4"
+          },
+          {
+            "title": "From Overseas Range Records to Zero-Carbon Factories: OMODA & JAECOO to Showcase Green Technology Credentials at 2026 International User Summit in October",
+            "url": "https://finance.yahoo.com/technology/articles/overseas-range-records-zero-carbon-141300690.html?.tsrc=rss",
+            "description": "WUHU, China, Oct. 05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T14:13:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
+            "id": "a7"
+          },
+          {
+            "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - constructionreviewonline.com",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmV2Y1FPRWgycVpqZVVWajgwYThqS004NTZRbEJFVFZiMk1KcmFyNkVZN084bTZERVlXb3NDbzJYQWtWdUxrV0c0ckhkYkI0NmtSWTZZR2QwdzdZSVJ0NzJjYUxMMGJIak5Mell0cWlVVExwMmFKSkFBaUg5bVN0TGh5MTNTbTBMbFNSM251SUx3X01JbkhEX1dsSU5DWGpQU1J1eGNOaVNWX3Z4Mk8wLVVJT0VyMXlkVnJPRV9VNVk?oc=5",
+            "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:58:40.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "constructionreviewonline.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
+            "id": "a9"
+          },
+          {
+            "title": "US arrests tech executive over alleged $300M GPU diversion to China - Cybernews",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYVZmUU9GdXlDZjJwcTkzeENhd0xsbGExc0tQeFdLbl9EcTRrRUVpNTdMNk5FSGNEMWw4ZW9RSEZMRDBhY1E4cjZKVlhQdDg3SUJiTC1Qb0FZNEZfQTNBWGhLVUJRSUhXVXVXekFmOUZLb1BzX0gxTUxQZ0pkTlRZempScS1JM1U1b21aUW9SSU1ZaVJYaG9kUWVKOGZwTGs?oc=5",
+            "description": "US arrests tech executive over alleged $300M GPU diversion to China Cybernews",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:30:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Cybernews",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US arrests tech executive over alleged $300M GPU diversion to China Cybernews",
+            "id": "a13"
+          },
+          {
+            "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
+            "url": "https://www.cnbc.com/2026/10/05/china-banks-consolidation-economy.html",
+            "description": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:23:46.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.988Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
+            "id": "a14"
+          },
+          {
+            "title": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei",
+            "url": "https://www.tikr.com/blog/qualcomm-huawei-patent-license-agreement-ai-5g?ref=yahoofinance&.tsrc=rss",
+            "description": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T12:54:01.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm Takes Arm to Court Over Withheld Chip Testing Tools and Leaked Deal Threats",
+            "url": "https://www.tikr.com/blog/qualcomm-arm-trial-chip-testing-tools-license-dispute?ref=yahoofinance&.tsrc=rss",
+            "description": "Key Stats for Arm Holdings StockPrice change for Arm Holdings stock in the last 6 months: 107%$ARM Stock Price as of Oct. 2: $30752-Week High: $453$ARM Stock Price Target: $289What Happened?Arm Holdings (ARM:NASDAQ) is back in court with one of its biggest customers.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T12:47:59.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key Stats for Arm Holdings StockPrice change for Arm Holdings stock in the last 6 months: 107%$ARM Stock Price as of Oct. 2: $30752-Week High: $453$ARM Stock Price Target: $289What Happened?Arm Holdings (ARM:NASDAQ) is back in court with one of its biggest customers.",
+            "id": "a17"
+          },
+          {
+            "title": "Our minds aren’t equipped to handle AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+            "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-05T10:00:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:09.175Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+            "id": "a21"
+          },
+          {
+            "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
+            "url": "https://ipfray.com/access-advance-strengthens-asia-presence-with-executive-ip-licensing-hires-in-china-taiwan/",
+            "description": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-05T07:52:08.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.490Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
+            "id": "a22"
+          },
+          {
+            "title": "China's ASML DUV stockpile spurs calls to close export-control loophole - digitimes.com",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmI0R09TZU83NnZGUzktSlVZZVNpQjEwUTFVT2pCZjhvSE9uaDZrN19xaUxvUm90ZU44OG41LXFWN1Z4cUNXN1hQN09KZnZGRW51bzY2SzgzZ2UzbUljNWd5cjN6ZlFyaHVoRm9hbnVGWFV0TWhFOURpUW9UdkZKTEJkUVdXNzJWMlhYWkxR?oc=5",
+            "description": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T07:14:05.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "digitimes.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes.com",
+            "id": "a23"
+          },
+          {
+            "title": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China - Analytics Insight",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnpzY19tU1g3X2ZEeWcwTTA3cU0teGY1T19WRHgxRWw0alJhOWtULUZLMVByRk5abExJUVdubXA2dllUNUtYRVVldmIyT19ZdGlVZGZlR0N6b2FlUHpNVHpTZXBNZXMtY2dwNHh0YkFrWEhfWjVnTkFmOXZHOHQ3NG1pV090WjBQZ0JwV1Z6NXJzSUhZNWtVeU9UekxqQ0o1UWp1X0tpMEgzblgwRHhyWlU1VEdGMy1PTjIxOU0xdGpCRlhrZ1HSAcYBQVVfeXFMT256c2NfbVNYN19mRHlnME0wN3FNLXhmNU9fVkR4MUVsNGpSYTlrVC1GSzFQckZOWmxMSVFXbm1wNnZZVDVLWEVVZXZiMk9fWXRpVWRmZUdDem9hZVB6TVR6U2VwTWVzLWNncDR4dGJBa1hIX1o1Z05BZjl2Rzh0NzRtaVdPdFowUGdCcFdWejVyc0lIWTVrVXlPVHpMakNKNVFqdV9LaTBIM25YMER4clpVNVRHRjMtT04yMTlNMXRqQkZYa2dR?oc=5",
+            "description": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T07:05:51.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Analytics Insight",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
+            "id": "a24"
+          },
+          {
+            "title": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic - The Times of India",
+            "url": "https://news.google.com/rss/articles/CBMi0gJBVV95cUxQWklSdjZwSjAwQ0VRdzZ3ZnREX25PNjZRQi1OcTBWd0JsUUUzaFcyR19HSUhRMFVfQllIcjd2akItY3dPcGdndlV6RnRSS3ZnSjRIOWx5eFc5QXM3cGJNMzI2ZVdUWTJqNWl5eThMNlEwbVkzb2lWcXVOb0N0eUQ1VTFVblAzclpVeXdjSWFDMGpPem9VUXpBclU2RjZZQ1pzd2hfRktuNWZVeE9Id2NDZF9XUGlzT2NNVXhBeEhIZ18tRElxbElRLS14d2JoU0U0cy1Xc1ZIS3U5VUVYbGNyZDhfWlV1WFU3bEQ5V05wRTFxRDlQM3E2MlJTMHpXa1U5S1VDSENwLWJnX3g4X2s5QVNiVmNEMmszNG5lbldodzRET2lFX1hIZkdQclRFZURfWEJycWRyNGJvN05CTDc5eXE2bGFsZlhGeUd6dHl0bThmZ9IB1wJBVV95cUxNRGJhSk5YRGwzdlZRcVFRcU9WWkc1V1k2QUVmanpJZzF6V0dmbWRxTFozQ0lIRGtRbkFwaUI3anVnalJCem90WUw0SVpPdDhHaDRVTno4ZzZRWDU0NF9fdFhfQnVucXM5MnBhaS1PbVRxTnVlRldsRXc1MTIzbEhxd1I3WHFFUXZ3dmFJX3NtcEFmZ1dCZE9GdWVEUi1Sc1JOMnhlREZtelNLTF9KN0s5Z1RLbGFuXzY5VFpiQWU3TU93a2dwbjZIY21WcGRsRkZMZ1dGSTNuMnlWMHB6ZS1qZ3AtT0pTNUpYZFZIVm92YVBaSFlzQWxRekY1VUFhQWdBcTQzRTV5TmVXdjBXa1E2ZTJ4bjlFeXRETHkxMnZyQS05V0laY2FzLUhaZ0lqVHRlUThpekJkQ1YzT0xGbTY1MnNuUE42OHE5dXhVWEM5bTQ4Y0pFYVdn?oc=5",
+            "description": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T02:44:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Times of India",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "California man arrested on charges of smuggling banned Nvidia chips to China; follows arrest of Super Mic The Times of India",
+            "id": "a29"
+          },
+          {
+            "title": "US accuses California woman of spying for China, surveilling Taiwan president's son - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQYVprczY5LXJrN3V2RGJsdy04X1QzV1kzTkhraE5zeVR4QjI1SWhLTmlJWkx5WEVCQWM2S01DU09URWQ2QmlpMTNwWVFtY1FxdnZWYnk1V0UyMlVkYk50V3AycWF6SUFUQWIzUHBFOGhIQW5lUE9HZWxDanY1ajNncXhWSVROSUNyOTUzckNtT3F5bUpXRHFaSTZmNzZ6TzluQjdZUVZOc1oxbzRDeEdEZnpBUWhOTFBldGtNOG9BR2lzZw?oc=5",
+            "description": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T01:55:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:15.047Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US accuses California woman of spying for China, surveilling Taiwan president's son Reuters",
+            "id": "a30"
+          },
+          {
+            "title": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together - The Wire China",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMV81Y3dXa2NtbmtsN3kzaXJFM3BrUmM3QTd2TmMwYXZkeE52SlJVSWxpSi00TkI3VWZKNnBVZE1MY0JnNTdOeFhjY2JoNUp1LWlCSFhjckNOaFNNZHI3V0ljN3d4clhPcVdtb1lUYWJqanJlUnhmMFVUSHJWR2RzWWs1Z2ZXNzJTT0JmQ3JPOWgyazdXZ2pkcTVXOG5uZk93WXQ3eElsc2dydG9P?oc=5",
+            "description": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T23:30:19.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Wire China",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chips, China And Trade Secrets: How an Arrest In Brussels Could Tie Them Together The Wire China",
+            "id": "a31"
+          },
+          {
+            "title": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending - Simply Wall Street",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQWkJpVGNNbm9idEo2b2doX0dING8wTXg0dll5dFFLOXNxbjAyWU1KOFdveHJxYnA2cWZvWEZRV0hnOEZTWUpuYWhrY2NnVlMySUJPMC1QSTFsdnl6dUY5SU82bVVteGV0N18yYnNhQml1R25BemVqYlREMHF0VDVHQlE2YTZTdlRneEFfVDZZNEc1TmRfWms3bjBoVGR1MkpfVWx0Yy1qZ0dFdkdzak9PZlkycUxabXJfTktzUjhRRDBxYzVMcVlPYUV6cVdfYU90R3c2NTV4T0JYemPSAeABQVVfeXFMTmtpMlVNcHk1U0JyV2Ruc3hDeXdoTVVHMGItcUdFMGZXa3pwVTVPX2xZSkhXTUtEalVHamFCNTZyWnBENDFpRms5S0RSamNrNmVwZlRPRExxS2JkZUN4dkxtZmtKc0FXS21QSFcyelA3X25NbXd0QzVraDR3NFVILVUtT3Z4Q21sLXg2M3lJOXhfZjdXQVU2OS1CdlB6VF9pMWhZdnh1dGlXbXlRN1FESU4wVFRZdW5CdnZJTnQwdFNRbFBUMGpqUnZqb0lxXzQ0SlhPb2RCOHJQb3hrUm9INEk?oc=5",
+            "description": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T19:35:40.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Simply Wall Street",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Marvell Stock And 2 US Industrial Policy Plays Backed By National Security Spending Simply Wall Street",
+            "id": "a32"
+          },
+          {
+            "title": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes - finance.biggo.com",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBaR3Iwd0t3M0NfdGM3SWMyajBvLVRleFdCZWRsSU84cnhJbGxzRlZKN2cxR2syYkRvN0JYZ1ZjMXViN0w0RlNESktPVXNkRTh5OHlKTjloRnlzTnViVWFyNFY0NGpzV2Zkdm4wOE1LcUZmMDU5eFE?oc=5",
+            "description": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-04T18:15:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:16.194Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "finance.biggo.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China Stockpiles 343 DUV Systems; U.S. Urges Closing Export Control Loopholes finance.biggo.com",
+            "id": "a33"
+          },
+          {
+            "title": "Jack Dorsey’s Bitchat disappears from app stores in India after government order",
+            "url": "https://techcrunch.com/2026/10/03/jack-dorseys-bitchat-disappears-from-app-stores-in-india-after-government-order/",
+            "description": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-03T15:02:01.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.841Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Bitchat has become largely unavailable in India as a result of the restrictions.",
+            "id": "a34"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles), Wireless Communication (1 article). A total of 9 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "IP / Intellectual Property: Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "ip"
+            },
+            {
+              "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "market-performance: Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NA",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
+              "articleIds": [
+                "a27"
+              ],
+              "subCategory": "huawei"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
+            "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
+            "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T15:16:48.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+            "id": "a3"
+          },
+          {
+            "title": "Huawei, Qualcomm agree to broad patent license deal",
+            "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
+            "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-05T15:05:16.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.560Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
+            "id": "a5"
+          },
+          {
+            "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
+            "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
+            "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T14:31:22.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
+            "id": "a6"
+          },
+          {
+            "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
+            "url": "https://qz.com/huawei-qualcomm-patent-license-deal-100526?.tsrc=rss",
+            "description": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:30:12.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
+            "id": "a12"
+          },
+          {
+            "title": "Qualcomm Secures Major Multiyear AI and 5G Patent License Agreement With Huawei",
+            "url": "https://www.tikr.com/blog/qualcomm-huawei-patent-license-agreement-ai-5g?ref=yahoofinance&.tsrc=rss",
+            "description": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T12:54:01.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in the last 6 months: 47%$QCOM Stock Price as of Oct. 2: $18552-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) has agreed to a broad, multi-year patent license deal with Huawei.",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm, Huawei reach patent accord",
+            "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
+            "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-05T11:17:51.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.137Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
+            "id": "a19"
+          },
+          {
+            "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUkY5N1ZDbkF3MXJ6RkVKYjVkeHpELXIzM0lfLWRiVGZzalNUbWFHRnBJYmR2TkFSRV9vNXhyWi0yYXVyNndFenlzd3h1Ri1DdXljRk4taWQ0NUw3NkNjVlRWSjRrMUxyUHhRRzVObDk3LVJJLVBJQ3NiWXA0eU1QV1lLTDdNZHdkYnZvMmV4YU9tM2lsSTFqdHp5OVpFTXd4VW9XQ0lLYkpWeVFFSXZFbG5KVQ?oc=5",
+            "description": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T06:01:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:15.047Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
+            "id": "a25"
+          },
+          {
+            "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
+            "url": "https://ipfray.com/huawei-qualcomm-sign-broad-multi-year-cross-patent-licensing-agreement/",
+            "description": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-05T06:00:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:14.490Z",
+            "fetchStrategy": "rss",
+            "section": "competitors",
+            "subCategory": "huawei",
+            "subLabel": "Huawei",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
+            "id": "a27"
+          },
+          {
+            "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
+            "url": "https://www.iam-media.com/article/huawei-qualcomm-strike-5g-ai-patent-cross-licence",
+            "description": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-05T05:00:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:11.810Z",
+            "fetchStrategy": "rss",
+            "section": "competitors",
+            "subCategory": "huawei",
+            "subLabel": "Huawei",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
+            "id": "a28"
+          }
+        ]
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-05T16:26:16.236Z",
+        "date": "2026-10-06",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (2 articles), Semiconductors (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Platform & Ecosystem Partners: Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM ",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "platform-partner"
+            },
+            {
+              "text": "Semiconductors: Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+              "articleIds": [
+                "a11"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fa",
+              "articleIds": [
+                "a18"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those",
+              "articleIds": [
+                "a21"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "The best early October Prime Day deals happening now",
+            "url": "https://www.theverge.com/gadgets/999447/best-early-amazon-prime-day-big-deals-sale-october",
+            "description": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 5th was another big one. Now, there are some great headphone deals from Sony, in addition to weekend drops of deals from Apple, Beats, and Kindle-related ones from Amazon. No more major updates will be made to this article ahead of the sale beginning on October 6th. Microsoft Surface Pro (13-inch, Snapdragon X2 Elite) The latest Surface Pro is speedy and elegant, with a 13-inch OLED touchscreen and the Snapdragon X2 Elite processor. It doesn’t include a keyboard, though. Where to Buy: $1799.99 $1499.99 at Best Buy (16GB RAM, 512GB SSD) Fujifilm Instax Mini Evo Fujifilm’s stylish Instax Mini Evo is the best instant camera overall. With it, you can choose which photos to print, while also boasting good image quality. Where to Buy: $234 $199.99 at Amazon $234.99 $199.99 at Best Buy $234 $199.99 at B&H Photo Apple iPad Air M4 The latest iteration of Apple’s iPad Air features an M4 processor and better connectivity under the hood, resulting in great performance whether you’re gaming or doing AI-related tasks. Read our review. Where to Buy: $749 $649 at Amazon (128GB, Wi-Fi) $749 $649 at Best Buy (128GB, Wi-Fi) LG C6 OLED TV While a relatively minor upgrade over the C5 if you’re getting a 65-inch or smaller screen, the 77- and 83-inch C6 utilize an improved Tandem OLED screen with incredible brightness. Where to Buy: $2699 $1499.99 at Amazon (65-inch) $2699 $1499.99 at Best Buy (65-inch) Fujifilm Instax Mini 13 The Fujifilm Instax Mini 13 is a fun gift for students starting a new chapter. It prints credit card-sized photos in seconds, and the new self-timer makes it easier to snap group photos with friends. Where to Buy: $93.95 at Amazon $93.99 at Best Buy $93.99 at Target iPad (2025) Apple’s entry-level iPad is an excellent tablet for casual use, even if it is getting a little long in the tooth. Its high-res screen is great for watching video, and its A16 processor is still fast enough to handle light games and productivity apps. Read our review. Where to Buy: $449 $399 at Amazon (128GB, Wi-Fi) $449 $399 at Best Buy (128GB, Wi-Fi) Star Wars Zero Company This XCOM-inspired twist of a Star Wars tactics game is as good as it sounds. Snag the game on its first-ever discount. Where to Buy: $59.99 $47.99 at Amazon $59.99 $47.99 at Best Buy Sony WH-1000XM5 The XM5 deliver better audio and noise cancellation than the XM4 (and even the refreshed XM4C that cost more), though they aren’t as compact. Read our review. Where to Buy: $399.99 $198 at Amazon $399.99 $198 at Best Buy Sony WH-1000XM6 headphones Sony made subtle improvements to every facet of the WH-1000XM6, from sound quality to ANC performance, while wisely bringing back the foldable, travel-friendly design last seen on the XM4. Where to Buy: $458 $378 at Amazon $458 $378 at Best Buy $458 $378 at B&H Photo Sony WF-1000XM6 earbuds The Sony WF-1000XM6 earbuds have top-notch noise-canceling performance with excellent, balanced sound, if you can get a good seal in your ears. Read our review. Where to Buy: $329.99 $258 at Amazon $329.99 $258 at Best Buy $329.99 $258 at Sony Sony Bravia 6 OLED TV The first Sony OLED with four HDMI 2.1 ports. It competes with the LG C6 in terms of brightness and specs, and this is its first big price drop. Where to Buy: $1500 $1098 at Amazon (55-inch) $2000 $1298 at Amazon (65-inch) Belkin Charging Case Pro While it won’t charge your Switch 2 any faster than the cheaper Belkin option, the clever battery-meets-kickstand with a built-in display simply looks better. Where to Buy: $99.99 $80.74 at Amazon (sand) $99.99 $84.99 at Belkin (sand) Nex Playground The Nex Playground is a motion-controlled console that connects to your TV and uses a built-in camera and AI to track your movements as you play. Designed for ages five and up, it comes with games like Fruit Ninja and Whack-a-Mole Deluxe. Where to Buy: $299 $239 at Amazon $299 $239 at Walmart $299 $239 at Best Buy Kindle Scribe Colorsoft The Kindle Scribe Colorsoft is Amazon’s first note-taking e-reader with a color screen. It features an 11-inch display, a slimmer design, an improved interface, an updated stylus, and a new AI-powered search feature that can quickly summarize documents. Where to Buy: $629.99 $479.99 at Amazon (32GB) $629.99 $479.99 at Best Buy (32GB) $679.99 $519.99 at Amazon (64GB) Kindle Scribe 32GB The third-gen Kindle Scribe 32GB is even bigger than its 10.2-inch predecessor; it offers an 11-inch display with 300ppi resolution and the same great battery life that Kindles are known for. Where to Buy: $499.99 $379.99 at Amazon $499.99 $379.99 at Best Buy iPad Mini (2024) The seventh-gen iPad Mini comes with Apple’s A17 Pro chip and support for Apple Intelligence. It’s also compatible with the Apple Pencil Pro and offers faster Wi-Fi and USB-C speeds. Read our review. Where to Buy: $599 $499 at Amazon (128GB, Wi-Fi) $599 $449 at Best Buy (128GB, Wi-Fi) $699 $599 at Amazon (256GB, Wi-Fi) Apple 13-inch MacBook Air (M5) Powered by Apple’s new M5 chip, the latest MacBook Airs are more powerful than prior models and offer double the base storage (512GB). They also support faster wireless standards, specifically Wi-Fi 7 and Bluetooth 6. Read our review. Where to Buy: $1299 $1099 at Amazon $1299 $1099 at Best Buy Apple MacBook Air (15-inch, M5, 2026) The 15-inch version of the M5 MacBook Air has better speakers and a slightly better GPU than the base 13-inch model. Where to Buy: $1499 $1299 at Amazon $1499 $1299 at Best Buy $1499 at B&H Photo Beats Studio Pro Despite the familiar design, there were plenty of upgrades in the latest Studio Pro, including noise cancellation, transparency mode, and lossless USB-C audio. Here’s our review. Where to Buy: $349.99 $149.95 at Amazon $349.99 $219.95 at Walmart $349.99 $149.99 at Best Buy Beats Powerbeats Pro 2 The latest Powerbeats Pro are a no-brainer for athletes. They pack fantastic sound and thumping bass, along with active noise cancellation, IPX4 water resistance, and heart rate monitoring. Read our review. Where to Buy: $278.99 $179.95 at Amazon (with 2 years AppleCare+) $249 $224.95 at Walmart $249.99 $179.99 at Best Buy Beats Powerbeats Fit A new version of the Fit Pro wireless earbuds, which are upgraded with a redesigned wing tip that Beats says is 20 percent more flexible, a smaller case, and other advantages. Where to Buy: $199.99 $159.95 at Amazon $199.99 $159.99 at Best Buy $199.95 $159.95 at B&H Photo Roku Ultra Roku’s latest Ultra streamer has built-in ethernet, a rechargeable voice remote with backlit buttons, and AirPlay 2 support. You can also control it with Amazon Alexa through a compatible smart speaker. The Roku Channel app lets you stream over 400 free live TV stations, plus exclusive movies like Weird: The Al Yankovic Story. Where to Buy: $149.99 $99.99 at Amazon $149.99 $99.99 at Best Buy $149.99 $99.99 at B&H Photo Roku Streaming Stick Plus Roku’s Streaming Stick Plus supports 4K playback and features a slim design, so it won’t block nearby ports. It plugs straight into your TV’s HDMI port and can be powered by your TV’s USB port, so you don’t need an additional plug. It also comes with Roku’s Voice Remote, giving you hands-free control. Where to Buy: $59.99 $34.99 at Amazon $59.99 $34.99 at Walmart $59.99 $34.99 at Best Buy Kindle Colorsoft (16GB) The 16GB Kindle Colorsoft is Amazon’s latest color e-reader. It features a 7-inch 300ppi screen, an adjustable frontlight, and a battery that can last up to eight weeks. Where to Buy: $249.99 $189.99 at Amazon $249.99 $189.99 at Best Buy $249.99 $189.99 at Target Kindle Paperwhite Signature Edition The 2024 version of the Paperwhite is steeply discounted, and nearly identical to the latest model. The Signature Edition includes double the storage (to 32GB), no ads, and wireless charging. Read our review. Where to Buy: $199.99 $169.99 at Amazon $199.99 $169.99 at Best Buy $199.99 $169.99 at Target Bose SoundLink Plus While the Max is an awesome, powerful speaker, the Plus packs a ton of performance into a more portable form factor. It has an IP67 rating, and it’s easy to clean, too. Read our review. Where to Buy: $269 $179 at Amazon $269 $179 at Best Buy $269 $179 at Bose Bose SoundLink Max Bose’s SoundLink Max improves on the smaller Flex with true stereo sound — and very powerful sound at that. It’s got a removable handle for easy transport, and there’s an aux input for playing audio when you want to listen at a higher quality than what Bluetooth can deliver. Read our review. Where to Buy: $399 $279 at Amazon $399 $279 at Best Buy $399 $279 at Bose Belkin Qi2.2 25W 2-in-1 foldable charging dock Slap a recent iPhone onto this charging pad and it’ll charge at fast 25W speeds. It can also charge AirPods, and includes a cord and wall adapter. Where to Buy: $60 $42.99 at Amazon $100 $75 at Amazon (w/ Apple Watch support) Belkin Charging Case for Nintendo Switch 2 The case features an integrated power bank and a small pocket to stow an AirTag (or other similarly sized Bluetooth tracker). Where to Buy: $69.99 $59.49 at Amazon (in black or sand) Asus ProArt 27-inch 1440p USB-C monitor An affordable color-accurate monitor that can easily connect to a MacBook or Windows machine that has USB-C video support. It’s a good price for a fully-featured 1440p monitor. Where to Buy: $299 $275 at Amazon Belkin MagSafe 15W 2-in-1 wireless charging dock A slick 2-in-1 charger that can charge your magnet-friendly iPhone or Pixel at a relatively speedy pace. Its extra charging pad supports AirPods, the Apple Watch, and other Qi-ready accessories. Where to Buy: $120 $59.99 at Amazon Ring Battery Doorbell 2K At more than half-off, the second-gen version is a good deal if you want 2K video and easy installation. However, its battery is built-in, so you’ll need to disconnect the doorbell to charge via USB-C. Where to Buy: $99.99 $39.99 at Amazon $99.99 $39.99 at Best Buy Bissell ProHeat 2X Revolution Pet Pro Plus carpet cleaner Bissell’s Little Green is handy, but doesn’t cut it for big jobs. If you have pets and a lot of carpet to clean, this is one of the most powerful upright carpet cleaners in its price range. Where to Buy: $279.99 $209.99 at Amazon $279.99 $209.99 at Bissell Ring Floodlight Cam 2K This model requires wired power, and provides 2K resolution (with AI tuning) and 6x digital zoom. It’s bright (2,000 lumens), and provides a loud alarm if you need to use it. Where to Buy: $199.99 $99.99 at Amazon Ring Battery Doorbell 4K Pro The highest-end battery-powered option of the lineup. It can record in 4K with 10x digital zoom, and its battery can be swapped for another as it recharges. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy Amazon Fire HD 8 tablet The eight-inch tablet with lockscreen ads has 4GB RAM (respectable for streaming apps and mobile games), plus 64GB of storage and a microSD slot for viewing locally-stored media. This model doesn’t support Google Play Store, though it’s easy to sideload it. Where to Buy: $129.99 $79.99 at Amazon (4GB RAM, 64GB) $99.99 $54.99 at Best Buy (3GB RAM, 32GB) Ecovacs Deebot X12 OmniCyclone The X12 OmniCyclone uses AI to identify and blast stains to help ensure they’re properly cleaned with minimal passes. It includes a dock, which empties the vac, washes its rolling mop with heated, pressurized water, and refills its reservoirs. Where to Buy: $1499.99 $799 at Amazon $1499.99 $841.99 at Best Buy $1499.99 $842 at Ecovacs Blink Mini pan and tilt camera The panning and tilting accessory gives the Blink Mini some new powers, including 360-degree control via the Blink app. Also included is the camera, which is usually $25 by itself. Where to Buy: $39.99 $23.99 at Amazon $39.99 $23.99 at Best Buy Amazon Fire TV Stick 4K Plus The latest version of Amazon’s zippy Fire TV Stick 4K streams in 4K resolution, as its name suggests, and features support for Wi-Fi 6, Dolby Atmos / Vision, and HDR10 Plus. Where to Buy: $69.99 $37.99 at Amazon $69.99 $37.99 at Best Buy Amazon Fire TV Stick 4K Max (2023, latest model) Amazon’s highest-end streaming stick supports Wi-Fi 6E and offers double the storage of its predecessor. It also displays widgets and artwork when idle, while continuing to offer a terrific selection of streaming apps. Plus, it runs on the new and improved Fire TV OS, which makes it easier to find something to watch. Where to Buy: $84.99 $44.99 at Amazon $84.99 $44.99 at Best Buy Amazon Fire TV Cube (2022, latest model) The hybrid Echo and Fire TV is faster than its predecessor with extensive hands-free voice control capabilities, support for Wi-Fi 6E, and excellent performance. Read our review. Where to Buy: $199.99 $89.99 at Amazon $199.99 $89.99 at Best Buy Amazon Echo Spot Amazon’s smart speaker-meets-alarm clock has a 2.83-inch squared-off display for showing the time, weather, album art, and other bits of info you may want at your bedside. Unlike the original, there’s no camera to worry about having in your bedroom — though it does have a mutable mic for Alexa voice controls. Read our review. Where to Buy: $109.99 $54.99 at Amazon $109.99 $54.99 at Best Buy $109.99 $54.99 at Target iPhone 16E The iPhone 16E is the spiritual successor to the iPhone SE, bringing flagship-level performance for less than the standard 16. We really wish it included MagSafe for $599, but those upgrading from older iPhones will probably be satisfied with what’s included. Where to Buy: $599.99 $519.99 at Best Buy (128GB) Amazon Echo Dot Max The Echo Dot Max is an elegant redesign of Amazon’s orb-shaped smart speaker, with high-quality knit fabric, a flat face, a new LED ring, and touch controls. It’s the first Echo Dot with Amazon’s improved two-way speaker system and support for its new AI-powered assistant, Alexa Plus, which is enabled out of the box. Where to Buy: $119.99 $79.99 at Amazon $119.99 $79.99 at Best Buy $119.99 $79.99 at Target Amazon Echo Dot (Fifth-Gen) Amazon’s Echo Dot is an affordable way to add a smart speaker to your space. The small, powerful speaker offers surprisingly robust sound, and it’s great for controlling smart home devices, including those compatible with Matter. The Dot also offers faster response times than its predecessor, and it can act as an extender for an Eero Wi-Fi system. Read our review. Where to Buy: $79.99 $39.99 at Amazon $79.99 $39.99 at Best Buy $79.99 $39.99 at Target Amazon Echo Show 11 (2025) The Echo Show 11 features an 11-inch screen and 1080p resolution. It includes Alexa Plus and can be used as a smart home hub with support Thread, Matter, and Zigbee smart home protocols. Read our review. Where to Buy: $249.99 $149.99 at Amazon $249.99 $149.99 at Best Buy $249.99 $149.99 at Target Amazon Echo Show 15 The new year is the perfect time to reset your routines and get organized, and the Echo Show 15 is a great tool for doing just that. Designed to function as a shared household hub, it keeps calendars, schedules, reminders, to-do lists, and notes visible at a glance, making it easier to keep on top of things. As an Alexa-enabled smart display, you can also add events by voice and control compatible smart home devices. Where to Buy: $349.99 $249.99 at Amazon $349.99 $249.99 at Best Buy $349.99 $249.99 at Target Eero Pro 6E tri-band router Eero’s Pro 6E mesh router is the Amazon-owned company’s last-gen model. It supports the 6GHz Wi-Fi band with speeds of up to 1.3Gbps and covers up to 2,000 square feet with one unit. Wired speeds can go up to 2.5Gbps. Read our review. Where to Buy: $199.99 $149.99 at Amazon (single pack) $499.99 $374.99 at Best Buy (three-pack) $499.99 $374.99 at Amazon (three-pack) iPhone Air The iPhone Air is Apple’s thinnest iPhone yet at 5.6mm, featuring a 6.5-inch ProMotion display, a 48MP fusion camera, and an 18MP front camera with Center Stage support. But its single rear camera and “meh” battery life mean it’s not for everyone. Where to Buy: $999.99 $839.99 at Best Buy (256GB) Apple AirPods Max (second-gen) Apple’s new iteration of its priciest, most powerful headphones deliver minor updates for first-gen owners. But those who are jumping in will especially appreciate their big, bold sound. Read our review. Where to Buy: $549 $429 at Amazon $549 $429 at Best Buy Samsung 32-inch Movingstyle smart display Similar to LG’s rollable StanbyME display, the Movingstyle Essential is a 32-inch 4K display on a base that’s height-adjustable (and supports swiveling, pivoting and tilting). Unlike LG’s model, though, this one has no built-in battery. Where to Buy: $699.99 $499.99 at Amazon Dreame X50 Ultra With high suction power, an improved brush system, and the ability to scale thresholds up to 6cm, the X50 Ultra stands out as a great robot vacuum and mop hybrid. Where to Buy: $1099.99 $899.99 at Amazon (for Prime members) $1099.99 $849.99 at Dreame (with free account) Microsoft Surface Laptop (13.8-inch, 2026) A powerful tablet that can turn into a laptop when you purchase the keyboard+trackpad accessory. This model features an OLED screen, the Snapdragon X2 Elite, 16GB RAM and a 512GB SSD. Read our coverage. Where to Buy: $1599.99 $1299.99 at Best Buy (16GB RAM/512GB) $1599.99 $1299.99 at Microsoft",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-05T14:10:19.000Z",
+            "fetchedAt": "2026-10-05T16:26:09.175Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Amazon and other retailers are knocking down prices on popular products for October Prime Day, which starts October 6th at 3AM ET and lasts through 3AM ET on the 8th if you’re on the East Coast (12AM PT). October Prime Day offers a glimpse of deals that will likely be available again during Black Friday and Cyber Monday. So, with the holiday shopping season officially underway, you can get some of your shopping out of the way before things get busier as we approach the holidays. The most recent update to this post on October 5th was another big one. Now, there are some great headphone deals from Sony, in addition to weekend drops of deals from Apple, Beats, and Kindle-related ones from Amazon.",
+            "id": "a8"
+          },
+          {
+            "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
+            "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
+            "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T13:34:42.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+            "id": "a11"
+          },
+          {
+            "title": "Prediction: Qualcomm Could Be on the Verge of a Major Transformation",
+            "url": "https://247wallst.com/investing/2026/10/05/prediction-qualcomm-could-be-on-the-verge-of-a-major-transformation/?.tsrc=rss",
+            "description": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-05T12:45:42.000Z",
+            "fetchedAt": "2026-10-05T16:26:07.898Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm is entering data center and automotive markets at full speed while Apple shrinks its handset business and analysts pile on with downward revisions. Whether those new revenue streams arrive fast enough to fill the gap will decide everything for shareholders.",
+            "id": "a18"
+          },
+          {
+            "title": "Google admits not every Android app runs great on Intel Googlebooks",
+            "url": "https://www.theverge.com/tech/1004643/google-android-apps-intel-googlebooks-performance",
+            "description": "This Asus Googlebook is one of the Intel models that may have issues. | Photo: Antonio G. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. Today, in a statement to Android Authority, it admitted that while every app is available, some may not offer smooth performance on every Googlebook. The vast majority of Android apps run smoothly across both Intel and Qualcomm Googlebooks right out of the box. Because many Android apps were o … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-05T10:58:22.000Z",
+            "fetchedAt": "2026-10-05T16:26:09.175Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "This Asus Googlebook is one of the Intel models that may have issues. Di Benedetto / The Verge Google has waited until the day its new Googlebook laptops hit the market to admit that Intel-based models may have issues running some Android apps. Before now, Google has emphasized that the Android-based Googlebooks give owners access to the \"entire Play Store library\" of apps, along with some clever interactions with Android phones and tablets. Today, in a statement to Android Authority, it admitted that while every app is available, some may not offer smooth performance on every Googlebook. The vast majority of Android apps run smoothly across both Intel and Qualcomm Googlebooks right out of the box.",
+            "id": "a20"
+          },
+          {
+            "title": "Our minds aren’t equipped to handle AI",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1003794/ai-education-computational-model-thought",
+            "description": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-05T10:00:00.000Z",
+            "fetchedAt": "2026-10-05T16:26:09.175Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Norbert Wiener, godfather of cybernetics, once said, \"The thought of every age is reflected in its technique.\" For the past century, our thought has been reflected in our computers, including by those in the AI industry. Google's Demis Hassabis calls the brain \"a biological approximation to a Turing machine.\" Elon Musk puts it more bluntly, declaring that \"people should just think of the brain as a biological computer.\" (Musk's brain often worries me.) But humans are more complex than a straightforward comparison to computers gives us credit for - and far more than most of the AI industry seems to appreciate. And as their products push e … Read the full story at The Verge.",
+            "id": "a21"
+          }
+        ]
+      }
+    },
+    "totalArticles": 44
   }
 };
 
