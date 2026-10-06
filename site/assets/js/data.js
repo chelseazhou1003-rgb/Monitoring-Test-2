@@ -2,30 +2,50 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
+          "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
           "articleIds": [
-            "a13"
+            "a2"
           ],
           "subCategory": "ip"
         },
         {
           "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
           "articleIds": [
-            "a27"
+            "a22"
           ],
           "subCategory": "huawei"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+        "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+        "source": "Fierce Wireless",
+        "sourceId": "fierce-wireless",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-06T18:45:59.000Z",
+        "fetchedAt": "2026-10-06T21:54:30.333Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+        "id": "a2"
+      },
       {
         "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1jTTlRb0JQXzNTOUlGaVJtWTdBZzRhbm5uZDNUWmVEWERqa3lUNkthSGZGTGdJaHRqX3RGbS1OLU9DNlFZOG1OelVpM3dfa0FPa05FVEJMWTZvS2VhTHRCZ2xSNTNqWkdEcFhpdDZDVlZwdzNRZURZRVh1LTJZTXVJaDBNVm1C?oc=5",
@@ -34,7 +54,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T07:08:12.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
+        "fetchedAt": "2026-10-06T21:54:31.802Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "조선일보",
         "section": "ip-legal",
@@ -45,7 +65,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-        "id": "a13"
+        "id": "a11"
       },
       {
         "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -55,7 +75,7 @@ export const NEWS_DATA = {
         "sourceId": "law360-ip",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T22:02:09.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.007Z",
+        "fetchedAt": "2026-10-06T21:54:31.679Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Law360",
         "section": "ip-legal",
@@ -66,7 +86,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-        "id": "a18"
+        "id": "a15"
       },
       {
         "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -76,7 +96,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T15:05:16.000Z",
-        "fetchedAt": "2026-10-06T17:25:45.505Z",
+        "fetchedAt": "2026-10-06T21:54:29.965Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -86,7 +106,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-        "id": "a24"
+        "id": "a19"
       },
       {
         "title": "Qualcomm, Huawei reach patent accord",
@@ -96,7 +116,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T11:17:51.000Z",
-        "fetchedAt": "2026-10-06T17:25:45.392Z",
+        "fetchedAt": "2026-10-06T21:54:29.624Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -106,7 +126,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "id": "a25"
+        "id": "a20"
       },
       {
         "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
@@ -116,7 +136,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T06:00:00.000Z",
-        "fetchedAt": "2026-10-06T17:25:47.321Z",
+        "fetchedAt": "2026-10-06T21:54:30.089Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "huawei",
@@ -126,7 +146,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
-        "id": "a27"
+        "id": "a22"
       },
       {
         "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
@@ -136,7 +156,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T05:00:00.000Z",
-        "fetchedAt": "2026-10-06T17:25:43.154Z",
+        "fetchedAt": "2026-10-06T21:54:28.087Z",
         "fetchStrategy": "rss",
         "section": "competitors",
         "subCategory": "huawei",
@@ -146,12 +166,12 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
-        "id": "a28"
+        "id": "a23"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -161,21 +181,21 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its sharehol",
           "articleIds": [
-            "a1"
+            "a4"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
           "articleIds": [
-            "a2"
+            "a5"
           ],
           "subCategory": "iot-xr"
         },
         {
           "text": "Mobile Chips: One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
           "articleIds": [
-            "a3"
+            "a6"
           ],
           "subCategory": "mobile-chips"
         }
@@ -190,7 +210,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T17:00:19.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -198,7 +218,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
-        "id": "a1"
+        "id": "a4"
       },
       {
         "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
@@ -208,7 +228,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T16:53:00.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "iot-xr",
@@ -216,7 +236,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
-        "id": "a2"
+        "id": "a5"
       },
       {
         "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
@@ -226,7 +246,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T16:15:02.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -234,53 +254,100 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-        "id": "a3"
+        "id": "a6"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+      "keyTakeaways": [
+        {
+          "text": "Data Center: As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "data-center"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+        "url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?.tsrc=rss",
+        "description": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-06T19:04:00.000Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "data-center",
+        "subLabel": "Data Center",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+        "id": "a1"
+      }
+    ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "FRAND & Licensing: Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+          "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
           "articleIds": [
-            "a6"
-          ],
-          "subCategory": "frand-licensing"
-        },
-        {
-          "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-          "articleIds": [
-            "a13"
+            "a2"
           ],
           "subCategory": "ip"
         },
         {
+          "text": "FRAND & Licensing: Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "frand-licensing"
+        },
+        {
           "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
           "articleIds": [
-            "a15"
+            "a13"
           ],
           "subCategory": "patent-litigation"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+        "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+        "source": "Fierce Wireless",
+        "sourceId": "fierce-wireless",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-06T18:45:59.000Z",
+        "fetchedAt": "2026-10-06T21:54:30.333Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "ip",
+        "subLabel": "IP / Intellectual Property",
+        "competitors": [
+          "huawei"
+        ],
+        "stakeholders": [],
+        "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+        "id": "a2"
+      },
       {
         "title": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal - 조선일보",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2xDV2FmWkdxVzZvOXJRTHlYdjlBTlVnanEwRWdYVFNnRllhUmdfU1hoNGIzZmRzekVpcUkybVg5T3E4STZfY3dvd2tVRGdhZDZoSVVFX3hoSEVNZ0hNVENZZWhscnJiak5lTWh5Y3o4SUswdHJ2UkVvem91RF9rMzNuci1qdUtK?oc=5",
@@ -289,7 +356,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T15:33:19.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
+        "fetchedAt": "2026-10-06T21:54:31.802Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "조선일보",
         "section": "ip-legal",
@@ -298,7 +365,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
@@ -308,7 +375,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T07:08:12.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
+        "fetchedAt": "2026-10-06T21:54:31.802Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "조선일보",
         "section": "ip-legal",
@@ -319,7 +386,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-        "id": "a13"
+        "id": "a11"
       },
       {
         "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
@@ -329,7 +396,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T23:58:35.000Z",
-        "fetchedAt": "2026-10-06T17:25:47.918Z",
+        "fetchedAt": "2026-10-06T21:54:30.642Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "ip-legal",
@@ -338,7 +405,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
-        "id": "a15"
+        "id": "a13"
       },
       {
         "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -348,7 +415,7 @@ export const NEWS_DATA = {
         "sourceId": "law360-ip",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T22:02:09.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.007Z",
+        "fetchedAt": "2026-10-06T21:54:31.679Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Law360",
         "section": "ip-legal",
@@ -359,7 +426,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-        "id": "a18"
+        "id": "a15"
       },
       {
         "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -369,7 +436,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T15:05:16.000Z",
-        "fetchedAt": "2026-10-06T17:25:45.505Z",
+        "fetchedAt": "2026-10-06T21:54:29.965Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -379,7 +446,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-        "id": "a24"
+        "id": "a19"
       },
       {
         "title": "Qualcomm, Huawei reach patent accord",
@@ -389,7 +456,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T11:17:51.000Z",
-        "fetchedAt": "2026-10-06T17:25:45.392Z",
+        "fetchedAt": "2026-10-06T21:54:29.624Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -399,48 +466,48 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "id": "a25"
+        "id": "a20"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-06T17:25:49.245Z",
+    "generatedAt": "2026-10-06T21:54:31.846Z",
     "date": "2026-10-07",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "Skyworks vs Qualcomm: Why One Chip Maker Is Rewarding Shareholders While the Other Suspends Dividends",
-        "topHeadlineId": "a1",
+        "topHeadlineId": "a4",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), IoT & XR (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 6,
-        "topHeadline": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal - 조선일보",
-        "topHeadlineId": "a6",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 7 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 1,
+        "topHeadline": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+        "topHeadlineId": "a1",
+        "briefingSummary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 17,
-        "topHeadline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-        "topHeadlineId": "a4",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources."
+        "articleCount": 10,
+        "topHeadline": "What Should Qualcomm Stock Investors Be Watching Now?",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 6,
-        "topHeadline": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
-        "topHeadlineId": "a13",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
@@ -450,27 +517,34 @@ export const NEWS_DATA = {
         "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       }
     },
-    "totalArticles": 32
+    "totalArticles": 28
   },
   "macro-environment": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+          "text": "Customers & Partners: Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year ",
           "articleIds": [
-            "a4"
+            "a3"
+          ],
+          "subCategory": "customers-partners"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Congress Enacts First Law Restricting U.S. Investment in China Legis1",
+          "articleIds": [
+            "a7"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "market-performance: The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
           "articleIds": [
-            "a17"
+            "a14"
           ],
           "subCategory": "market-performance"
         }
@@ -478,23 +552,22 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-        "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-        "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "What Should Qualcomm Stock Investors Be Watching Now?",
+        "url": "https://www.trefis.com/articles/617670/what-should-qualcomm-stock-investors-be-watching-now/2026-10-06?.tsrc=rss",
+        "description": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T15:52:22.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.918Z",
+        "publishedAt": "2026-10-06T17:33:07.000Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
         "competitors": [],
         "stakeholders": [],
-        "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-        "id": "a4"
+        "summary": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
+        "id": "a3"
       },
       {
         "title": "Congress Enacts First Law Restricting U.S. Investment in China - Legis1",
@@ -503,8 +576,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T15:49:09.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
+        "publishedAt": "2026-10-06T16:05:12.000Z",
+        "fetchedAt": "2026-10-06T21:54:31.802Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Legis1",
         "geopoliticalBypass": true,
@@ -514,45 +587,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Congress Enacts First Law Restricting U.S. Investment in China Legis1",
-        "id": "a5"
-      },
-      {
-        "title": "AI to See Massive Adoption 'Unseen' in Previous Tech Cycles, Says Neostellar Principal",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-06/ai-to-see-adoption-unseen-in-previous-cycles-says-lee-video",
-        "description": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence. Willy Lee, Principal at Neostellar, offers his view from the VC world when it comes to AI investments and the IPO market. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T14:42:15.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.998Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence. Willy Lee, Principal at Neostellar, offers his view from the VC world when it comes to AI investments and the IPO market.",
         "id": "a7"
-      },
-      {
-        "title": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
-        "url": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
-        "description": "Rep. John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the yuan as a global currency.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T13:47:49.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.918Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the yuan as a global currency.",
-        "id": "a8"
       },
       {
         "title": "Mistral unveils new AI model it says rivals best open systems from China",
@@ -562,7 +597,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T13:00:01.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.918Z",
+        "fetchedAt": "2026-10-06T21:54:25.573Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -574,44 +609,6 @@ export const NEWS_DATA = {
         "id": "a9"
       },
       {
-        "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-        "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-        "description": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T12:59:10.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.918Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-        "id": "a10"
-      },
-      {
-        "title": "Wayve CEO Kendall on the Future of Driving",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-06/wayve-ceo-kendall-on-the-future-of-driving-video",
-        "description": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie on the sidelines of the JPMorgan Tech Stars conference in London. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-06T12:16:43.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.999Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie on the sidelines of the JPMorgan Tech Stars conference in London.",
-        "id": "a11"
-      },
-      {
         "title": "OMODA & JAECOO Builds a New Global Intelligent Green Mobility Ecosystem",
         "url": "https://finance.yahoo.com/technology/articles/omoda-jaecoo-builds-global-intelligent-113100809.html?.tsrc=rss",
         "description": "WUHU, China, Oct. 06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
@@ -619,7 +616,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T11:31:00.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.604Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -628,7 +625,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
-        "id": "a12"
+        "id": "a10"
       },
       {
         "title": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt - Evertiq",
@@ -638,7 +635,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-06T06:35:27.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
+        "fetchedAt": "2026-10-06T21:54:31.802Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Evertiq",
         "geopoliticalBypass": true,
@@ -648,26 +645,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
-        "id": "a14"
-      },
-      {
-        "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-        "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
-        "description": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T23:14:39.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.918Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-        "id": "a16"
+        "id": "a12"
       },
       {
         "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -677,7 +655,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T22:09:32.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -685,27 +663,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
-        "id": "a17"
-      },
-      {
-        "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - Construction Review",
-        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmV2Y1FPRWgycVpqZVVWajgwYThqS004NTZRbEJFVFZiMk1KcmFyNkVZN084bTZERVlXb3NDbzJYQWtWdUxrV0c0ckhkYkI0NmtSWTZZR2QwdzdZSVJ0NzJjYUxMMGJIak5Mell0cWlVVExwMmFKSkFBaUg5bVN0TGh5MTNTbTBMbFNSM251SUx3X01JbkhEX1dsSU5DWGpQU1J1eGNOaVNWX3Z4Mk8wLVVJT0VyMXlkVnJPRV9VNVk?oc=5",
-        "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T21:23:46.000Z",
-        "fetchedAt": "2026-10-06T17:25:49.214Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Construction Review",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
-        "id": "a19"
+        "id": "a14"
       },
       {
         "title": "Qualcomm Can Grow Even as U.S. EV Sales Fall",
@@ -715,7 +673,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-05T20:45:34.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
+        "fetchedAt": "2026-10-06T21:54:25.603Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -723,26 +681,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "electric vehicle sales are sliding, yet Qualcomm's automotive revenue keeps climbing at a pace that defies the headline numbers. The reason has less to do with EVs than with something most investors overlook entirely.",
-        "id": "a20"
-      },
-      {
-        "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
-        "url": "https://finance.yahoo.com/video/china-fully-catching-one-part-190000163.html?.tsrc=rss",
-        "description": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-05T19:00:00.000Z",
-        "fetchedAt": "2026-10-06T17:25:40.934Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
-        "id": "a21"
+        "id": "a16"
       },
       {
         "title": "Nokia promotes new China licensing head amid growing regional momentum",
@@ -752,7 +691,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T17:58:17.000Z",
-        "fetchedAt": "2026-10-06T17:25:47.321Z",
+        "fetchedAt": "2026-10-06T21:54:30.089Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -761,7 +700,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Dazhi Wang takes the reins after Simon Zhao's move to pool operator Access Advance.",
-        "id": "a22"
+        "id": "a17"
       },
       {
         "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
@@ -771,7 +710,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T17:13:13.000Z",
-        "fetchedAt": "2026-10-06T17:25:45.505Z",
+        "fetchedAt": "2026-10-06T21:54:29.965Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -780,7 +719,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-        "id": "a23"
+        "id": "a18"
       },
       {
         "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
@@ -790,7 +729,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-05T07:52:08.000Z",
-        "fetchedAt": "2026-10-06T17:25:47.321Z",
+        "fetchedAt": "2026-10-06T21:54:30.089Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -799,7 +738,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
-        "id": "a26"
+        "id": "a21"
       }
     ]
   },
@@ -995,7 +934,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-06T17:25:49.242Z",
+    "generatedAt": "2026-10-06T21:54:31.844Z",
     "date": "2026-10-07",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -19302,11 +19241,11 @@ export const NEWS_DATA = {
     "totalArticles": 40
   },
   "archive-2026-10-07": {
-    "generatedAt": "2026-10-06T17:25:49.245Z",
+    "generatedAt": "2026-10-06T21:54:31.847Z",
     "date": "2026-10-07",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -19316,21 +19255,21 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its sharehol",
               "articleIds": [
-                "a1"
+                "a4"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
               "articleIds": [
-                "a2"
+                "a5"
               ],
               "subCategory": "iot-xr"
             },
             {
               "text": "Mobile Chips: One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
               "articleIds": [
-                "a3"
+                "a6"
               ],
               "subCategory": "mobile-chips"
             }
@@ -19345,7 +19284,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T17:00:19.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -19353,7 +19292,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
-            "id": "a1"
+            "id": "a4"
           },
           {
             "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
@@ -19363,7 +19302,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T16:53:00.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "iot-xr",
@@ -19371,7 +19310,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
-            "id": "a2"
+            "id": "a5"
           },
           {
             "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
@@ -19381,7 +19320,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T16:15:02.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -19389,42 +19328,62 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-            "id": "a3"
+            "id": "a6"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "FRAND & Licensing: Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+              "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
               "articleIds": [
-                "a6"
-              ],
-              "subCategory": "frand-licensing"
-            },
-            {
-              "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-              "articleIds": [
-                "a13"
+                "a2"
               ],
               "subCategory": "ip"
             },
             {
+              "text": "FRAND & Licensing: Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "frand-licensing"
+            },
+            {
               "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
               "articleIds": [
-                "a15"
+                "a13"
               ],
               "subCategory": "patent-litigation"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+            "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "source": "Fierce Wireless",
+            "sourceId": "fierce-wireless",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-06T18:45:59.000Z",
+            "fetchedAt": "2026-10-06T21:54:30.333Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "id": "a2"
+          },
           {
             "title": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2xDV2FmWkdxVzZvOXJRTHlYdjlBTlVnanEwRWdYVFNnRllhUmdfU1hoNGIzZmRzekVpcUkybVg5T3E4STZfY3dvd2tVRGdhZDZoSVVFX3hoSEVNZ0hNVENZZWhscnJiak5lTWh5Y3o4SUswdHJ2UkVvem91RF9rMzNuci1qdUtK?oc=5",
@@ -19433,7 +19392,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T15:33:19.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
+            "fetchedAt": "2026-10-06T21:54:31.802Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "조선일보",
             "section": "ip-legal",
@@ -19442,7 +19401,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
-            "id": "a6"
+            "id": "a8"
           },
           {
             "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
@@ -19452,7 +19411,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T07:08:12.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
+            "fetchedAt": "2026-10-06T21:54:31.802Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "조선일보",
             "section": "ip-legal",
@@ -19463,7 +19422,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-            "id": "a13"
+            "id": "a11"
           },
           {
             "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
@@ -19473,7 +19432,7 @@ export const NEWS_DATA = {
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-05T23:58:35.000Z",
-            "fetchedAt": "2026-10-06T17:25:47.918Z",
+            "fetchedAt": "2026-10-06T21:54:30.642Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Reuters",
             "section": "ip-legal",
@@ -19482,7 +19441,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
-            "id": "a15"
+            "id": "a13"
           },
           {
             "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -19492,7 +19451,7 @@ export const NEWS_DATA = {
             "sourceId": "law360-ip",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T22:02:09.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.007Z",
+            "fetchedAt": "2026-10-06T21:54:31.679Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Law360",
             "section": "ip-legal",
@@ -19503,7 +19462,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-            "id": "a18"
+            "id": "a15"
           },
           {
             "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -19513,7 +19472,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-05T15:05:16.000Z",
-            "fetchedAt": "2026-10-06T17:25:45.505Z",
+            "fetchedAt": "2026-10-06T21:54:29.965Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -19523,7 +19482,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-            "id": "a24"
+            "id": "a19"
           },
           {
             "title": "Qualcomm, Huawei reach patent accord",
@@ -19533,7 +19492,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-05T11:17:51.000Z",
-            "fetchedAt": "2026-10-06T17:25:45.392Z",
+            "fetchedAt": "2026-10-06T21:54:29.624Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -19543,40 +19502,74 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-            "id": "a25"
+            "id": "a20"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+          "keyTakeaways": [
+            {
+              "text": "Data Center: As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "data-center"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+            "url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?.tsrc=rss",
+            "description": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-06T19:04:00.000Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+            "id": "a1"
+          }
+        ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
+              "text": "Customers & Partners: Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year ",
               "articleIds": [
-                "a4"
+                "a3"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Congress Enacts First Law Restricting U.S. Investment in China Legis1",
+              "articleIds": [
+                "a7"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "market-performance: The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
               "articleIds": [
-                "a17"
+                "a14"
               ],
               "subCategory": "market-performance"
             }
@@ -19584,23 +19577,22 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-            "url": "https://www.cnbc.com/2026/10/06/trade-deficit-hits-105point6-billion-widest-since-just-before-trump-tariffs-enacted-last-year.html",
-            "description": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "What Should Qualcomm Stock Investors Be Watching Now?",
+            "url": "https://www.trefis.com/articles/617670/what-should-qualcomm-stock-investors-be-watching-now/2026-10-06?.tsrc=rss",
+            "description": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T15:52:22.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.918Z",
+            "publishedAt": "2026-10-06T17:33:07.000Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
             "competitors": [],
             "stakeholders": [],
-            "summary": "That marked a 13.7% jump from July and was ahead of the Dow Jones consensus estimate for $102 billion.",
-            "id": "a4"
+            "summary": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
+            "id": "a3"
           },
           {
             "title": "Congress Enacts First Law Restricting U.S. Investment in China - Legis1",
@@ -19609,8 +19601,8 @@ export const NEWS_DATA = {
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T15:49:09.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
+            "publishedAt": "2026-10-06T16:05:12.000Z",
+            "fetchedAt": "2026-10-06T21:54:31.802Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Legis1",
             "geopoliticalBypass": true,
@@ -19620,45 +19612,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Congress Enacts First Law Restricting U.S. Investment in China Legis1",
-            "id": "a5"
-          },
-          {
-            "title": "AI to See Massive Adoption 'Unseen' in Previous Tech Cycles, Says Neostellar Principal",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-06/ai-to-see-adoption-unseen-in-previous-cycles-says-lee-video",
-            "description": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence. Willy Lee, Principal at Neostellar, offers his view from the VC world when it comes to AI investments and the IPO market. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T14:42:15.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.998Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "American AI companies’ performance lead over China narrowed sharply in past months to a record low after labs such as DeepSeek gained ground, threatening US tech supremacy, according to Bloomberg Intelligence. Willy Lee, Principal at Neostellar, offers his view from the VC world when it comes to AI investments and the IPO market.",
             "id": "a7"
-          },
-          {
-            "title": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
-            "url": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
-            "description": "Rep. John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the yuan as a global currency.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T13:47:49.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.918Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the yuan as a global currency.",
-            "id": "a8"
           },
           {
             "title": "Mistral unveils new AI model it says rivals best open systems from China",
@@ -19668,7 +19622,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T13:00:01.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.918Z",
+            "fetchedAt": "2026-10-06T21:54:25.573Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -19680,44 +19634,6 @@ export const NEWS_DATA = {
             "id": "a9"
           },
           {
-            "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
-            "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
-            "description": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T12:59:10.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.918Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
-            "id": "a10"
-          },
-          {
-            "title": "Wayve CEO Kendall on the Future of Driving",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-06/wayve-ceo-kendall-on-the-future-of-driving-video",
-            "description": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie on the sidelines of the JPMorgan Tech Stars conference in London. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-06T12:16:43.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.999Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Wayve CEO Alex Kendall discusses the future of driving, the market for autonomous vehicles in the US and China, as well as the possibility of a future IPO. He spoke with Bloomberg TV's Tom Mackenzie on the sidelines of the JPMorgan Tech Stars conference in London.",
-            "id": "a11"
-          },
-          {
             "title": "OMODA & JAECOO Builds a New Global Intelligent Green Mobility Ecosystem",
             "url": "https://finance.yahoo.com/technology/articles/omoda-jaecoo-builds-global-intelligent-113100809.html?.tsrc=rss",
             "description": "WUHU, China, Oct. 06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
@@ -19725,7 +19641,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T11:31:00.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.604Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -19734,7 +19650,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
-            "id": "a12"
+            "id": "a10"
           },
           {
             "title": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt - Evertiq",
@@ -19744,7 +19660,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T06:35:27.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
+            "fetchedAt": "2026-10-06T21:54:31.802Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Evertiq",
             "geopoliticalBypass": true,
@@ -19754,26 +19670,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
-            "id": "a14"
-          },
-          {
-            "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
-            "url": "https://www.cnbc.com/2026/10/06/russia-gold-hong-kong-china-western-sanctions.html",
-            "description": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-05T23:14:39.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.918Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-            "id": "a16"
+            "id": "a12"
           },
           {
             "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -19783,7 +19680,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-05T22:09:32.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -19791,27 +19688,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
-            "id": "a17"
-          },
-          {
-            "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - Construction Review",
-            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmV2Y1FPRWgycVpqZVVWajgwYThqS004NTZRbEJFVFZiMk1KcmFyNkVZN084bTZERVlXb3NDbzJYQWtWdUxrV0c0ckhkYkI0NmtSWTZZR2QwdzdZSVJ0NzJjYUxMMGJIak5Mell0cWlVVExwMmFKSkFBaUg5bVN0TGh5MTNTbTBMbFNSM251SUx3X01JbkhEX1dsSU5DWGpQU1J1eGNOaVNWX3Z4Mk8wLVVJT0VyMXlkVnJPRV9VNVk?oc=5",
-            "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-05T21:23:46.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Construction Review",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
-            "id": "a19"
+            "id": "a14"
           },
           {
             "title": "Qualcomm Can Grow Even as U.S. EV Sales Fall",
@@ -19821,7 +19698,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-05T20:45:34.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
+            "fetchedAt": "2026-10-06T21:54:25.603Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -19829,26 +19706,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "electric vehicle sales are sliding, yet Qualcomm's automotive revenue keeps climbing at a pace that defies the headline numbers. The reason has less to do with EVs than with something most investors overlook entirely.",
-            "id": "a20"
-          },
-          {
-            "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
-            "url": "https://finance.yahoo.com/video/china-fully-catching-one-part-190000163.html?.tsrc=rss",
-            "description": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-05T19:00:00.000Z",
-            "fetchedAt": "2026-10-06T17:25:40.934Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
-            "id": "a21"
+            "id": "a16"
           },
           {
             "title": "Nokia promotes new China licensing head amid growing regional momentum",
@@ -19858,7 +19716,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T17:58:17.000Z",
-            "fetchedAt": "2026-10-06T17:25:47.321Z",
+            "fetchedAt": "2026-10-06T21:54:30.089Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -19867,7 +19725,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Dazhi Wang takes the reins after Simon Zhao's move to pool operator Access Advance.",
-            "id": "a22"
+            "id": "a17"
           },
           {
             "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
@@ -19877,7 +19735,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-05T17:13:13.000Z",
-            "fetchedAt": "2026-10-06T17:25:45.505Z",
+            "fetchedAt": "2026-10-06T21:54:29.965Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -19886,7 +19744,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-            "id": "a23"
+            "id": "a18"
           },
           {
             "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
@@ -19896,7 +19754,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T07:52:08.000Z",
-            "fetchedAt": "2026-10-06T17:25:47.321Z",
+            "fetchedAt": "2026-10-06T21:54:30.089Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -19905,35 +19763,55 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
-            "id": "a26"
+            "id": "a21"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "competitors",
         "sectionTitle": "Competitors",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
+              "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
               "articleIds": [
-                "a13"
+                "a2"
               ],
               "subCategory": "ip"
             },
             {
               "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
               "articleIds": [
-                "a27"
+                "a22"
               ],
               "subCategory": "huawei"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+            "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "source": "Fierce Wireless",
+            "sourceId": "fierce-wireless",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-06T18:45:59.000Z",
+            "fetchedAt": "2026-10-06T21:54:30.333Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "id": "a2"
+          },
           {
             "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
             "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1jTTlRb0JQXzNTOUlGaVJtWTdBZzRhbm5uZDNUWmVEWERqa3lUNkthSGZGTGdJaHRqX3RGbS1OLU9DNlFZOG1OelVpM3dfa0FPa05FVEJMWTZvS2VhTHRCZ2xSNTNqWkdEcFhpdDZDVlZwdzNRZURZRVh1LTJZTXVJaDBNVm1C?oc=5",
@@ -19942,7 +19820,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-06T07:08:12.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.214Z",
+            "fetchedAt": "2026-10-06T21:54:31.802Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "조선일보",
             "section": "ip-legal",
@@ -19953,7 +19831,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-            "id": "a13"
+            "id": "a11"
           },
           {
             "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -19963,7 +19841,7 @@ export const NEWS_DATA = {
             "sourceId": "law360-ip",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T22:02:09.000Z",
-            "fetchedAt": "2026-10-06T17:25:49.007Z",
+            "fetchedAt": "2026-10-06T21:54:31.679Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Law360",
             "section": "ip-legal",
@@ -19974,7 +19852,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-            "id": "a18"
+            "id": "a15"
           },
           {
             "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -19984,7 +19862,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-05T15:05:16.000Z",
-            "fetchedAt": "2026-10-06T17:25:45.505Z",
+            "fetchedAt": "2026-10-06T21:54:29.965Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -19994,7 +19872,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-            "id": "a24"
+            "id": "a19"
           },
           {
             "title": "Qualcomm, Huawei reach patent accord",
@@ -20004,7 +19882,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-05T11:17:51.000Z",
-            "fetchedAt": "2026-10-06T17:25:45.392Z",
+            "fetchedAt": "2026-10-06T21:54:29.624Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -20014,7 +19892,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-            "id": "a25"
+            "id": "a20"
           },
           {
             "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
@@ -20024,7 +19902,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T06:00:00.000Z",
-            "fetchedAt": "2026-10-06T17:25:47.321Z",
+            "fetchedAt": "2026-10-06T21:54:30.089Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "huawei",
@@ -20034,7 +19912,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
-            "id": "a27"
+            "id": "a22"
           },
           {
             "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
@@ -20044,7 +19922,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-05T05:00:00.000Z",
-            "fetchedAt": "2026-10-06T17:25:43.154Z",
+            "fetchedAt": "2026-10-06T21:54:28.087Z",
             "fetchStrategy": "rss",
             "section": "competitors",
             "subCategory": "huawei",
@@ -20054,12 +19932,12 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
-            "id": "a28"
+            "id": "a23"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-06T17:25:49.242Z",
+        "generatedAt": "2026-10-06T21:54:31.844Z",
         "date": "2026-10-07",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -20070,7 +19948,7 @@ export const NEWS_DATA = {
         "articles": []
       }
     },
-    "totalArticles": 32
+    "totalArticles": 28
   }
 };
 

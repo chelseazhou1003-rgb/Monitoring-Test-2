@@ -1,28 +1,48 @@
 {
-  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "generatedAt": "2026-10-06T21:54:31.844Z",
   "date": "2026-10-07",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
+        "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
         "articleIds": [
-          "a13"
+          "a2"
         ],
         "subCategory": "ip"
       },
       {
         "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
         "articleIds": [
-          "a27"
+          "a22"
         ],
         "subCategory": "huawei"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+      "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+      "source": "Fierce Wireless",
+      "sourceId": "fierce-wireless",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-06T18:45:59.000Z",
+      "fetchedAt": "2026-10-06T21:54:30.333Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "ip",
+      "subLabel": "IP / Intellectual Property",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+      "id": "a2"
+    },
     {
       "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1jTTlRb0JQXzNTOUlGaVJtWTdBZzRhbm5uZDNUWmVEWERqa3lUNkthSGZGTGdJaHRqX3RGbS1OLU9DNlFZOG1OelVpM3dfa0FPa05FVEJMWTZvS2VhTHRCZ2xSNTNqWkdEcFhpdDZDVlZwdzNRZURZRVh1LTJZTXVJaDBNVm1C?oc=5",
@@ -31,7 +51,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T07:08:12.000Z",
-      "fetchedAt": "2026-10-06T17:25:49.214Z",
+      "fetchedAt": "2026-10-06T21:54:31.802Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "section": "ip-legal",
@@ -42,7 +62,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-      "id": "a13"
+      "id": "a11"
     },
     {
       "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -52,7 +72,7 @@
       "sourceId": "law360-ip",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T22:02:09.000Z",
-      "fetchedAt": "2026-10-06T17:25:49.007Z",
+      "fetchedAt": "2026-10-06T21:54:31.679Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Law360",
       "section": "ip-legal",
@@ -63,7 +83,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-      "id": "a18"
+      "id": "a15"
     },
     {
       "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -73,7 +93,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-06T17:25:45.505Z",
+      "fetchedAt": "2026-10-06T21:54:29.965Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -83,7 +103,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a24"
+      "id": "a19"
     },
     {
       "title": "Qualcomm, Huawei reach patent accord",
@@ -93,7 +113,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-06T17:25:45.392Z",
+      "fetchedAt": "2026-10-06T21:54:29.624Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -103,7 +123,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a25"
+      "id": "a20"
     },
     {
       "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
@@ -113,7 +133,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T06:00:00.000Z",
-      "fetchedAt": "2026-10-06T17:25:47.321Z",
+      "fetchedAt": "2026-10-06T21:54:30.089Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "huawei",
@@ -123,7 +143,7 @@
       ],
       "stakeholders": [],
       "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
-      "id": "a27"
+      "id": "a22"
     },
     {
       "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
@@ -133,7 +153,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T05:00:00.000Z",
-      "fetchedAt": "2026-10-06T17:25:43.154Z",
+      "fetchedAt": "2026-10-06T21:54:28.087Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "huawei",
@@ -143,7 +163,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
-      "id": "a28"
+      "id": "a23"
     }
   ]
 }

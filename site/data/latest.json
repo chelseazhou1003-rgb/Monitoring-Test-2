@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-10-06T17:25:49.245Z",
+  "generatedAt": "2026-10-06T21:54:31.846Z",
   "date": "2026-10-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Skyworks vs Qualcomm: Why One Chip Maker Is Rewarding Shareholders While the Other Suspends Dividends",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a4",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), IoT & XR (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 6,
-      "topHeadline": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal - 조선일보",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 7 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+      "topHeadlineId": "a1",
+      "briefingSummary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 17,
-      "topHeadline": "Trade deficit hits $105.6 billion, widest since just before Trump tariffs enacted last year",
-      "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (2 articles). A total of 17 articles were aggregated from monitored sources."
+      "articleCount": 10,
+      "topHeadline": "What Should Qualcomm Stock Investors Be Watching Now?",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 6,
-      "topHeadline": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
-      "topHeadlineId": "a13",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Huawei (2 articles). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
@@ -45,5 +45,5 @@
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 32
+  "totalArticles": 28
 }

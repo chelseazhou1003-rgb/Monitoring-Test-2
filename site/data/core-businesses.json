@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "generatedAt": "2026-10-06T21:54:31.844Z",
   "date": "2026-10-07",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Semiconductors: Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its sharehol",
         "articleIds": [
-          "a1"
+          "a4"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
         "articleIds": [
-          "a2"
+          "a5"
         ],
         "subCategory": "iot-xr"
       },
       {
         "text": "Mobile Chips: One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
         "articleIds": [
-          "a3"
+          "a6"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T17:00:19.000Z",
-      "fetchedAt": "2026-10-06T17:25:40.934Z",
+      "fetchedAt": "2026-10-06T21:54:25.603Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:53:00.000Z",
-      "fetchedAt": "2026-10-06T17:25:40.934Z",
+      "fetchedAt": "2026-10-06T21:54:25.603Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:15:02.000Z",
-      "fetchedAt": "2026-10-06T17:25:40.934Z",
+      "fetchedAt": "2026-10-06T21:54:25.603Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -82,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-      "id": "a3"
+      "id": "a6"
     }
   ]
 }

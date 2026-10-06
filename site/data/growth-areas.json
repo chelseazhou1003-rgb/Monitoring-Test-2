@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "generatedAt": "2026-10-06T21:54:31.844Z",
   "date": "2026-10-07",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
+      "url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?.tsrc=rss",
+      "description": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-06T19:04:00.000Z",
+      "fetchedAt": "2026-10-06T21:54:25.603Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+      "id": "a1"
+    }
+  ]
 }
