@@ -1,35 +1,74 @@
 {
-  "generatedAt": "2026-10-06T03:21:15.643Z",
+  "generatedAt": "2026-10-06T10:48:28.095Z",
   "date": "2026-10-06",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 19 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Customers & Partners: Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+        "text": "Geopolitics & Export Controls: John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the renminbi as a global currency.",
         "articleIds": [
-          "a2"
-        ],
-        "subCategory": "customers-partners"
-      },
-      {
-        "text": "Geopolitics & Export Controls: The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-        "articleIds": [
-          "a3"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
+        "text": "Customers & Partners: Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "customers-partners"
+      },
+      {
         "text": "market-performance: The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
         "articleIds": [
-          "a4"
+          "a8"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "House China committee chair urges Fed to review Hong Kong’s access to dollar lifeline",
+      "url": "https://www.cnbc.com/2026/10/06/hong-kong-fed-fima-dollar-liquidity-china-moolenaar.html",
+      "description": "Rep. John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the renminbi as a global currency.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-06T09:58:14.000Z",
+      "fetchedAt": "2026-10-06T10:48:21.956Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "John Moolenaar wants the Fed to rethink Hong Kong’s access to a dollar-liquidity facility as China promotes the renminbi as a global currency.",
+      "id": "a1"
+    },
+    {
+      "title": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt - Evertiq",
+      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnBTLW1HdGRDcXJfRzFnc2VHMHZLSklOVlg1RURERWtWZHE4aFVoUy1wTlIzNmFCdnJyWUgtMk1TNGRNOTkxa1JXZG1KaG5rRGNPLVhVUUVFNEZyN20xdkYtRGEtZWliX1V3ZWNhYkxhX0tUeTFwRGdGUmZnSHI2bUxnWi12OWpWV1p4TWwwb0MtWE5tQUNkei1QZ0dpdw?oc=5",
+      "description": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-06T06:35:27.000Z",
+      "fetchedAt": "2026-10-06T10:48:28.045Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Evertiq",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
+      "id": "a3"
+    },
     {
       "title": "CNBC's The China Connection newsletter: Starbucks enters Xinjiang in calculated geopolitical risk",
       "url": "https://www.cnbc.com/2026/10/06/starbucks-luckin-china-xinjiang-forced-labour-export-trade-.html",
@@ -38,7 +77,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T23:41:11.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.190Z",
+      "fetchedAt": "2026-10-06T10:48:21.956Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -47,7 +86,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Starbucks struck one of Asia's most closely watched deals last year. Now it is getting headaches over choices made by a partner that leans toward Beijing.",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "Russian gold floods Hong Kong as Western sanctions redraw bullion trade",
@@ -57,7 +96,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T23:14:39.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.190Z",
+      "fetchedAt": "2026-10-06T10:48:21.956Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -66,7 +105,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The surge underscores how Russia's gold trade has been rerouted after its invasion of Ukraine in 2022 shut its producers out of major Western markets.",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -76,7 +115,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T22:09:32.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.169Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -84,27 +123,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
-      "id": "a4"
+      "id": "a8"
     },
     {
-      "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - Construction Review",
+      "title": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline - constructionreviewonline.com",
       "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPbmV2Y1FPRWgycVpqZVVWajgwYThqS004NTZRbEJFVFZiMk1KcmFyNkVZN084bTZERVlXb3NDbzJYQWtWdUxrV0c0ckhkYkI0NmtSWTZZR2QwdzdZSVJ0NzJjYUxMMGJIak5Mell0cWlVVExwMmFKSkFBaUg5bVN0TGh5MTNTbTBMbFNSM251SUx3X01JbkhEX1dsSU5DWGpQU1J1eGNOaVNWX3Z4Mk8wLVVJT0VyMXlkVnJPRV9VNVk?oc=5",
-      "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
+      "description": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T21:23:46.000Z",
-      "fetchedAt": "2026-10-06T03:21:15.594Z",
+      "fetchedAt": "2026-10-06T10:48:28.045Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "Construction Review",
+      "googleNewsSource": "constructionreviewonline.com",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline Construction Review",
-      "id": "a6"
+      "summary": "$630bn+ US Semiconductor Megaprojects in Rush to Break Ground before CHIPS Act Deadline constructionreviewonline.com",
+      "id": "a10"
     },
     {
       "title": "Qualcomm Can Grow Even as U.S. EV Sales Fall",
@@ -114,7 +153,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T20:45:34.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.168Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -122,47 +161,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "electric vehicle sales are sliding, yet Qualcomm's automotive revenue keeps climbing at a pace that defies the headline numbers. The reason has less to do with EVs than with something most investors overlook entirely.",
-      "id": "a7"
-    },
-    {
-      "title": "Nvidia enfrenta preguntas sobre contrabando de chips de IA en China",
-      "url": "https://www.bloomberg.com/news/features/2026-10-05/nvidia-enfrenta-preguntas-sobre-contrabando-de-chips-de-ia-en-china",
-      "description": "Los chips de IA de la empresa siguen llegando a China a pesar de las restricciones estadounidenses. Las autoridades se preguntan por qué la empresa no detectó las señales de alerta.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T20:10:52.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.603Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Los chips de IA de la empresa siguen llegando a China a pesar de las restricciones estadounidenses. Las autoridades se preguntan por qué la empresa no detectó las señales de alerta.",
-      "id": "a8"
-    },
-    {
-      "title": "Nvidia-Backed Reflection Unveils Open AI Model, Taking on China",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/nvidia-backed-reflection-unveils-open-ai-model-taking-on-china",
-      "description": "Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T19:00:00.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.603Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
-      "id": "a9"
+      "id": "a11"
     },
     {
       "title": "China is 'fully' catching up on one part of the AI race, but the US has nothing to fear",
@@ -172,7 +171,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T19:00:00.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.169Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -181,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Business Insider Today executive editor and anchor Dan DeFrancesco chats with Futurum chief market strategist Shay Boloor about China \"closing in\" on the US's progress with AI.",
-      "id": "a10"
+      "id": "a12"
     },
     {
       "title": "Hyundai CEO says only a ‘level playing field’ can minimize damage from China",
@@ -191,7 +190,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-05T18:41:48.000Z",
-      "fetchedAt": "2026-10-06T03:21:10.060Z",
+      "fetchedAt": "2026-10-06T10:48:22.751Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -200,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Hyundai CEO José Muñoz, center, doesn’t think his company needs a strategy to combat Chinese imports. Hawkins / The Verge There's been a lot of doom and gloom from the auto industry lately when the subject of China comes up. Automaker CEOs, in particular, warn that allowing low-cost, high-tech Chinese electric vehicles to be sold in the US would effectively spell the end of their businesses. Hyundai CEO José Muñoz is not as pessimistic as some of his counterparts. He says he's confident the right mix of protectionist policies and improvements on the product side can keep China at bay.",
-      "id": "a11"
+      "id": "a13"
     },
     {
       "title": "Nokia promotes new China licensing head amid growing regional momentum",
@@ -210,7 +209,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T17:58:17.000Z",
-      "fetchedAt": "2026-10-06T03:21:13.946Z",
+      "fetchedAt": "2026-10-06T10:48:25.496Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -219,7 +218,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dazhi Wang takes the reins after Simon Zhao's move to pool operator Access Advance.",
-      "id": "a12"
+      "id": "a14"
     },
     {
       "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
@@ -229,7 +228,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T17:13:13.000Z",
-      "fetchedAt": "2026-10-06T03:21:13.847Z",
+      "fetchedAt": "2026-10-06T10:48:25.493Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -238,7 +237,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-      "id": "a13"
+      "id": "a15"
     },
     {
       "title": "China shuts hundreds of banks as Beijing moves to shore up its financial system",
@@ -248,7 +247,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T16:41:00.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.190Z",
+      "fetchedAt": "2026-10-06T10:48:21.956Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -257,7 +256,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Beijing shuttered 670 mainly rural banks last year in a bid to create fewer, larger and better-capitalized lenders.",
-      "id": "a15"
+      "id": "a17"
     },
     {
       "title": "How Much Could You Lose In Qualcomm Stock?",
@@ -267,7 +266,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T15:34:37.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.168Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -275,7 +274,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock has returned 44% over the past six months, against 17.2% for the S&P 500. But Qualcomm has traded through many market shocks since 2007. So how much has the stock lost when markets turned, and how long did it stay down.",
-      "id": "a17"
+      "id": "a19"
     },
     {
       "title": "Huawei Says Qualcomm Will Pay for Its Patents for the First Time. Here’s What It Means for Qualcomm Stock",
@@ -285,7 +284,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T15:16:42.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.168Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -293,7 +292,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockCurrent Price: $184. 87Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~110%Annualized IRR: ~20% / yearWhat Happened?Huawei has paid Qualcomm (QCOM:NASDAQ) for patents since 2001.",
-      "id": "a19"
+      "id": "a21"
     },
     {
       "title": "From Overseas Range Records to Zero-Carbon Factories: OMODA & JAECOO to Showcase Green Technology Credentials at 2026 International User Summit in October",
@@ -303,7 +302,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T14:13:00.000Z",
-      "fetchedAt": "2026-10-06T03:21:09.332Z",
+      "fetchedAt": "2026-10-06T10:48:22.169Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -312,7 +311,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "05, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "US arrests tech executive over alleged $300M GPU diversion to China - Cybernews",
@@ -322,7 +321,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:33:01.000Z",
-      "fetchedAt": "2026-10-06T03:21:15.594Z",
+      "fetchedAt": "2026-10-06T10:48:28.046Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Cybernews",
       "geopoliticalBypass": true,
@@ -332,7 +331,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US arrests tech executive over alleged $300M GPU diversion to China Cybernews",
-      "id": "a25"
+      "id": "a27"
     },
     {
       "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
@@ -342,7 +341,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T07:52:08.000Z",
-      "fetchedAt": "2026-10-06T03:21:13.946Z",
+      "fetchedAt": "2026-10-06T10:48:25.496Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -351,47 +350,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Simon Zhao, formerly at Nokia, and Matt Chen, formerly at Tencent, have joined the Access Advance team, after the patent pool administrator also saw several new Chinese licensors and licensees join its programs this year.",
-      "id": "a28"
-    },
-    {
-      "title": "China's ASML DUV stockpile spurs calls to close export-control loophole - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZmI0R09TZU83NnZGUzktSlVZZVNpQjEwUTFVT2pCZjhvSE9uaDZrN19xaUxvUm90ZU44OG41LXFWN1Z4cUNXN1hQN09KZnZGRW51bzY2SzgzZ2UzbUljNWd5cjN6ZlFyaHVoRm9hbnVGWFV0TWhFOURpUW9UdkZKTEJkUVdXNzJWMlhYWkxR?oc=5",
-      "description": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T07:14:05.000Z",
-      "fetchedAt": "2026-10-06T03:21:15.594Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "digitimes",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China's ASML DUV stockpile spurs calls to close export-control loophole digitimes",
       "id": "a29"
-    },
-    {
-      "title": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China - Analytics Insight",
-      "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbnpzY19tU1g3X2ZEeWcwTTA3cU0teGY1T19WRHgxRWw0alJhOWtULUZLMVByRk5abExJUVdubXA2dllUNUtYRVVldmIyT19ZdGlVZGZlR0N6b2FlUHpNVHpTZXBNZXMtY2dwNHh0YkFrWEhfWjVnTkFmOXZHOHQ3NG1pV090WjBQZ0JwV1Z6NXJzSUhZNWtVeU9UekxqQ0o1UWp1X0tpMEgzblgwRHhyWlU1VEdGMy1PTjIxOU0xdGpCRlhrZ1HSAcYBQVVfeXFMT256c2NfbVNYN19mRHlnME0wN3FNLXhmNU9fVkR4MUVsNGpSYTlrVC1GSzFQckZOWmxMSVFXbm1wNnZZVDVLWEVVZXZiMk9fWXRpVWRmZUdDem9hZVB6TVR6U2VwTWVzLWNncDR4dGJBa1hIX1o1Z05BZjl2Rzh0NzRtaVdPdFowUGdCcFdWejVyc0lIWTVrVXlPVHpMakNKNVFqdV9LaTBIM25YMER4clpVNVRHRjMtT04yMTlNMXRqQkZYa2dR?oc=5",
-      "description": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T07:05:51.000Z",
-      "fetchedAt": "2026-10-06T03:21:15.594Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Analytics Insight",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "California Man Arrested Over Alleged USD 300 Million AI Chip Smuggling to China Analytics Insight",
-      "id": "a30"
     }
   ]
 }
