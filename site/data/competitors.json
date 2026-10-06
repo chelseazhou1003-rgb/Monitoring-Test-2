@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:55:58.870Z",
+  "generatedAt": "2026-10-06T03:21:15.643Z",
   "date": "2026-10-06",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,28 +9,28 @@
       {
         "text": "IP / Intellectual Property: Huawei And Qualcomm Strike Patent Licensing Deal Law360",
         "articleIds": [
-          "a2"
+          "a5"
         ],
         "subCategory": "ip"
       },
       {
         "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
         "articleIds": [
-          "a16"
+          "a18"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Semiconductors: On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qua",
         "articleIds": [
-          "a19"
+          "a21"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Huawei: The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other techn",
         "articleIds": [
-          "a30"
+          "a33"
         ],
         "subCategory": "huawei"
       }
@@ -45,7 +45,7 @@
       "sourceId": "law360-ip",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T22:02:09.000Z",
-      "fetchedAt": "2026-10-05T22:55:58.706Z",
+      "fetchedAt": "2026-10-06T03:21:15.462Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Law360",
       "section": "ip-legal",
@@ -56,7 +56,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
@@ -66,7 +66,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T15:16:48.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -76,7 +76,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -86,7 +86,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-05T22:55:56.559Z",
+      "fetchedAt": "2026-10-06T03:21:13.847Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -96,7 +96,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a18"
+      "id": "a20"
     },
     {
       "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
@@ -106,7 +106,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T14:31:22.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -116,7 +116,7 @@
       ],
       "stakeholders": [],
       "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
-      "id": "a19"
+      "id": "a21"
     },
     {
       "title": "Huawei and Qualcomm sign broad multi-year patent license deal",
@@ -126,7 +126,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:30:12.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -136,7 +136,7 @@
       ],
       "stakeholders": [],
       "summary": "The agreement covers 5G, AI, compute, and networking technologies, and is expected to push the total value of Huawei's patent deals past $6.9 billion",
-      "id": "a24"
+      "id": "a26"
     },
     {
       "title": "Qualcomm, Huawei reach patent accord",
@@ -146,7 +146,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-05T22:55:57.180Z",
+      "fetchedAt": "2026-10-06T03:21:13.618Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -156,7 +156,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a25"
+      "id": "a27"
     },
     {
       "title": "Huawei agrees to a multi-year patent licensing deal with Qualcomm - Reuters",
@@ -166,7 +166,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T06:01:00.000Z",
-      "fetchedAt": "2026-10-05T22:55:57.682Z",
+      "fetchedAt": "2026-10-06T03:21:14.417Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -177,7 +177,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei agrees to a multi-year patent licensing deal with Qualcomm Reuters",
-      "id": "a29"
+      "id": "a31"
     },
     {
       "title": "Huawei, Qualcomm sign broad, multi-year patent cross-licensing agreement",
@@ -187,7 +187,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T06:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:55:56.304Z",
+      "fetchedAt": "2026-10-06T03:21:13.946Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "huawei",
@@ -197,7 +197,7 @@
       ],
       "stakeholders": [],
       "summary": "The deal covers a range of technology fields, including 5G, compute, AI, and networking, and Qualcomm’s purchase of certain Huawei U.S. patents in the areas of compute, AI, networking, and other technologies.",
-      "id": "a30"
+      "id": "a33"
     },
     {
       "title": "Huawei, Qualcomm strike 5G, AI patent cross-licence",
@@ -207,7 +207,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T05:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:55:54.472Z",
+      "fetchedAt": "2026-10-06T03:21:12.094Z",
       "fetchStrategy": "rss",
       "section": "competitors",
       "subCategory": "huawei",
@@ -217,7 +217,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm also acquires Huawei assets for the first time, covering computing, AI, networking and other technologies",
-      "id": "a31"
+      "id": "a34"
     }
   ]
 }

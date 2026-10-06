@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:55:58.870Z",
+  "generatedAt": "2026-10-06T03:21:15.643Z",
   "date": "2026-10-06",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
         "articleIds": [
-          "a5"
+          "a9"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
         "articleIds": [
-          "a22"
+          "a24"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T19:00:00.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.248Z",
+      "fetchedAt": "2026-10-06T03:21:09.603Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -42,7 +42,7 @@
         "platform-partner"
       ],
       "summary": "Reflection AI, an artificial intelligence startup from two former Google DeepMind researchers, has unveiled a new open-weight model that it says rivals leading options in the US and China.",
-      "id": "a5"
+      "id": "a9"
     },
     {
       "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
@@ -52,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:34:42.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -62,7 +62,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-      "id": "a22"
+      "id": "a24"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-05T22:55:58.870Z",
+  "generatedAt": "2026-10-06T03:21:15.643Z",
   "date": "2026-10-06",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Semiconductors: Elon Musk confirmed talks between his ambitious Texas chip venture and the world's largest foundry, sending one semiconductor giant to a record high while splitting the broader chip sector in an unusu",
         "articleIds": [
-          "a10"
+          "a14"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
         "articleIds": [
-          "a16"
+          "a18"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "IoT & XR: Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedd",
         "articleIds": [
-          "a21"
+          "a23"
         ],
         "subCategory": "iot-xr"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T17:02:39.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Elon Musk confirmed talks between his ambitious Texas chip venture and the world's largest foundry, sending one semiconductor giant to a record high while splitting the broader chip sector in an unusual way.",
-      "id": "a10"
+      "id": "a14"
     },
     {
       "title": "Qualcomm and Arm begin new trial over chip testing tools",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T16:22:42.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- Chipmaker Qualcomm and chip technology firm Arm Holdings started a new trial on Monday, with Qualcomm claiming Arm withheld chip testing tools required under their contract.",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T15:16:48.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -84,7 +84,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T14:31:22.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -104,7 +104,7 @@
       ],
       "stakeholders": [],
       "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
-      "id": "a19"
+      "id": "a21"
     },
     {
       "title": "Embedded Systems Market 2026: Trends and Forecast to 2030 | Capitalize on Edge AI as Intel, Qualcomm, Nvidia, NXP Semiconductors, and Arm Accelerate the Market to $180.07 Billion",
@@ -114,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:36:00.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -122,7 +122,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
-      "id": "a21"
+      "id": "a23"
     },
     {
       "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
@@ -132,7 +132,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T13:34:42.000Z",
-      "fetchedAt": "2026-10-05T22:55:52.106Z",
+      "fetchedAt": "2026-10-06T03:21:09.332Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -142,7 +142,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-      "id": "a22"
+      "id": "a24"
     }
   ]
 }
