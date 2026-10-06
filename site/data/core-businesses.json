@@ -1,169 +1,88 @@
 {
-  "generatedAt": "2026-10-06T10:48:28.095Z",
-  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "date": "2026-10-07",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), IoT & XR (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Qualcomm Pays Into Huawei Patent Portfolio in 3D Chip Architecture Deal Tech Times",
+        "text": "Semiconductors: Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its sharehol",
         "articleIds": [
-          "a7"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Wireless Communication: Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
+        "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
         "articleIds": [
-          "a20"
-        ],
-        "subCategory": "wireless"
-      },
-      {
-        "text": "IoT & XR: Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedd",
-        "articleIds": [
-          "a25"
+          "a2"
         ],
         "subCategory": "iot-xr"
+      },
+      {
+        "text": "Mobile Chips: One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
     {
-      "title": "Qualcomm Pays Into Huawei Patent Portfolio in 3D Chip Architecture Deal - Tech Times",
-      "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0pud3lVQlBQVW9ielpvV1hJRDVFZFNjMWl3TG8xTnNhcV9laTA2YWYyVnQ5Rk5lWmdoUUx2VDBJeUZwQkRJR28zN3VxSHdQMjROS3lNWnJLT3BkQnlObnVTNDNBMmMwM3lpQjVya184ZFRVeWViUHNDSWxNazNUQnlPWmJiX1FSZXQxZlhjVm5IQnoxUUVDREYyMC11aERqVE8wTEwydjJKcVZURThCdUxmbGhPdmZaY2c?oc=5",
-      "description": "Qualcomm Pays Into Huawei Patent Portfolio in 3D Chip Architecture Deal Tech Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T22:31:31.000Z",
-      "fetchedAt": "2026-10-06T10:48:28.046Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Tech Times",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "Qualcomm Pays Into Huawei Patent Portfolio in 3D Chip Architecture Deal Tech Times",
-      "id": "a7"
-    },
-    {
-      "title": "Taiwan Semiconductor Gains 2% to Record as Musk Confirms Early Terafab Talks; Broadcom Rises 2%, Qualcomm Pulls Back",
-      "url": "https://247wallst.com/investing/2026/10/05/taiwan-semiconductor-gains-2-to-record-as-musk-confirms-early-terafab-talks-broadcom-rises-2-qualcomm-pulls-back/?.tsrc=rss",
-      "description": "Elon Musk confirmed talks between his ambitious Texas chip venture and the world's largest foundry, sending one semiconductor giant to a record high while splitting the broader chip sector in an unusual way.",
+      "title": "Skyworks vs Qualcomm: Why One Chip Maker Is Rewarding Shareholders While the Other Suspends Dividends",
+      "url": "https://247wallst.com/investing/2026/10/06/skyworks-vs-qualcomm-why-one-chip-maker-is-rewarding-shareholders-while-the-other-suspends-dividends/?.tsrc=rss",
+      "description": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T17:02:39.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.168Z",
+      "publishedAt": "2026-10-06T17:00:19.000Z",
+      "fetchedAt": "2026-10-06T17:25:40.934Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Elon Musk confirmed talks between his ambitious Texas chip venture and the world's largest foundry, sending one semiconductor giant to a record high while splitting the broader chip sector in an unusual way.",
-      "id": "a16"
+      "summary": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
+      "id": "a1"
     },
     {
-      "title": "Qualcomm and Arm begin new trial over chip testing tools",
-      "url": "https://finance.yahoo.com/technology/articles/qualcomm-arm-begin-trial-over-162242328.html?.tsrc=rss",
-      "description": "Investing.com -- Chipmaker Qualcomm and chip technology firm Arm Holdings started a new trial on Monday, with Qualcomm claiming Arm withheld chip testing tools required under their contract.",
+      "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
+      "url": "https://finance.yahoo.com/technology/articles/embedded-systems-global-strategic-business-165300382.html?.tsrc=rss",
+      "description": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T16:22:42.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.168Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Investing.com -- Chipmaker Qualcomm and chip technology firm Arm Holdings started a new trial on Monday, with Qualcomm claiming Arm withheld chip testing tools required under their contract.",
-      "id": "a18"
-    },
-    {
-      "title": "Qualcomm Signs Huawei to Its First 5G Patent Deal as Licensing Revenue Slips",
-      "url": "https://www.tikr.com/blog/qualcomm-signs-huawei-to-its-first-5g-patent-deal-as-licensing-revenue-slips?ref=yahoofinance&.tsrc=rss",
-      "description": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0. 8% at 11:09 a.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T15:16:48.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.168Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM:NASDAQ) stock traded at about $183 on Monday morning, October 5, down 0.",
-      "id": "a20"
-    },
-    {
-      "title": "PTC Rallies on Deal; Qualcomm Up on Chip Patent Licensing | Stock Movers",
-      "url": "https://finance.yahoo.com/video/ptc-rallies-deal-qualcomm-chip-143122350.html?.tsrc=rss",
-      "description": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T14:31:22.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.168Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "On this episode of Stock Movers: - PTC (PTC) shares are rallying as Schneider Electric agreed to buy PTC for about $22.6 billion in an all-cash deal to tap into the artificial-intelligence boom. - Qualcomm (QCOM) shares are higher as the company agreed to license patents underpinning Huawei Technologies Co.'s novel LogicFolding chipmaking technique. - Taiwan Semiconductor (TSM) shares are gaining with sentiment boosted by discussions between the Taiwanese chip giant and Elon Musk's Terafab on potential collaboration",
-      "id": "a23"
-    },
-    {
-      "title": "Embedded Systems Market 2026: Trends and Forecast to 2030 | Capitalize on Edge AI as Intel, Qualcomm, Nvidia, NXP Semiconductors, and Arm Accelerate the Market to $180.07 Billion",
-      "url": "https://finance.yahoo.com/technology/articles/embedded-systems-market-2026-trends-133600443.html?.tsrc=rss",
-      "description": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T13:36:00.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.169Z",
+      "publishedAt": "2026-10-06T16:53:00.000Z",
+      "fetchedAt": "2026-10-06T17:25:40.934Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
       "subLabel": "IoT & XR",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Boost ROI through edge AI, energy-efficient designs, embedded security, regional sourcing, domestic semiconductor investment and cost-optimized systemsDublin, Oct. 05, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems Market Report 2026\" has been added to ResearchAndMarkets.com's offering. The global embedded systems market is experiencing strong growth, supported by expanding consumer electronics production, increased use of embedded controllers in automotive applications, continued industrial automat",
-      "id": "a25"
+      "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
+      "id": "a2"
     },
     {
-      "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
-      "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
-      "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
+      "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/06/qualcomm-vs-sk-hynix-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "description": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T13:34:42.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.169Z",
+      "publishedAt": "2026-10-06T16:15:02.000Z",
+      "fetchedAt": "2026-10-06T17:25:40.934Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
       "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-      "id": "a26"
+      "stakeholders": [],
+      "summary": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
+      "id": "a3"
     }
   ]
 }

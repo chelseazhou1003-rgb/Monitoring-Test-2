@@ -1,35 +1,54 @@
 {
-  "generatedAt": "2026-10-06T10:48:28.095Z",
-  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "date": "2026-10-07",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "FRAND & Licensing: Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "frand-licensing"
+      },
       {
         "text": "IP / Intellectual Property: Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
         "articleIds": [
-          "a2"
+          "a13"
         ],
         "subCategory": "ip"
       },
       {
         "text": "Patent Litigation: Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
         "articleIds": [
-          "a4"
+          "a15"
         ],
         "subCategory": "patent-litigation"
-      },
-      {
-        "text": "FRAND & Licensing: has agreed to license patents related to Huawei Technologies Co.’s novel LogicFolding chipmaking technique as part of a wide-ranging pact, a win for the Chinese company’s technological ambitions.",
-        "articleIds": [
-          "a30"
-        ],
-        "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOT2xDV2FmWkdxVzZvOXJRTHlYdjlBTlVnanEwRWdYVFNnRllhUmdfU1hoNGIzZmRzekVpcUkybVg5T3E4STZfY3dvd2tVRGdhZDZoSVVFX3hoSEVNZ0hNVENZZWhscnJiak5lTWh5Y3o4SUswdHJ2UkVvem91RF9rMzNuci1qdUtK?oc=5",
+      "description": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-06T15:33:19.000Z",
+      "fetchedAt": "2026-10-06T17:25:49.214Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "조선일보",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Huawei Reverses Royalty Flow with Qualcomm in Cross-Licensing Deal 조선일보",
+      "id": "a6"
+    },
     {
       "title": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow - 조선일보",
       "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZE1jTTlRb0JQXzNTOUlGaVJtWTdBZzRhbm5uZDNUWmVEWERqa3lUNkthSGZGTGdJaHRqX3RGbS1OLU9DNlFZOG1OelVpM3dfa0FPa05FVEJMWTZvS2VhTHRCZ2xSNTNqWkdEcFhpdDZDVlZwdzNRZURZRVh1LTJZTXVJaDBNVm1C?oc=5",
@@ -38,7 +57,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T07:08:12.000Z",
-      "fetchedAt": "2026-10-06T10:48:28.046Z",
+      "fetchedAt": "2026-10-06T17:25:49.214Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "section": "ip-legal",
@@ -49,7 +68,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei, Qualcomm Reverse 25-Year Patent Fee Flow 조선일보",
-      "id": "a2"
+      "id": "a13"
     },
     {
       "title": "Qualcomm and Arm kick off trial, potential for huge damages in focus - Reuters",
@@ -59,7 +78,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T23:58:35.000Z",
-      "fetchedAt": "2026-10-06T10:48:26.831Z",
+      "fetchedAt": "2026-10-06T17:25:47.918Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -68,7 +87,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Arm kick off trial, potential for huge damages in focus Reuters",
-      "id": "a4"
+      "id": "a15"
     },
     {
       "title": "Huawei And Qualcomm Strike Patent Licensing Deal - Law360",
@@ -78,7 +97,7 @@
       "sourceId": "law360-ip",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T22:02:09.000Z",
-      "fetchedAt": "2026-10-06T10:48:27.854Z",
+      "fetchedAt": "2026-10-06T17:25:49.007Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Law360",
       "section": "ip-legal",
@@ -89,7 +108,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei And Qualcomm Strike Patent Licensing Deal Law360",
-      "id": "a9"
+      "id": "a18"
     },
     {
       "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -99,7 +118,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-06T10:48:25.493Z",
+      "fetchedAt": "2026-10-06T17:25:45.505Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -109,7 +128,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "Qualcomm, Huawei reach patent accord",
@@ -119,7 +138,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-06T10:48:26.371Z",
+      "fetchedAt": "2026-10-06T17:25:45.392Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -129,25 +148,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a28"
-    },
-    {
-      "title": "Qualcomm Licenses Patents Linked to Huawei LogicFolding Tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-05/qualcomm-licenses-patents-on-huawei-s-logicfolding-chip-tech",
-      "description": "Qualcomm Inc. has agreed to license patents related to Huawei Technologies Co.’s novel LogicFolding chipmaking technique as part of a wide-ranging pact, a win for the Chinese company’s technological ambitions.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T06:00:03.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.338Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "has agreed to license patents related to Huawei Technologies Co.’s novel LogicFolding chipmaking technique as part of a wide-ranging pact, a win for the Chinese company’s technological ambitions.",
-      "id": "a30"
+      "id": "a25"
     }
   ]
 }

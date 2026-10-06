@@ -1,40 +1,11 @@
 {
-  "generatedAt": "2026-10-06T10:48:28.096Z",
-  "date": "2026-10-06",
+  "generatedAt": "2026-10-06T17:25:49.242Z",
+  "date": "2026-10-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Semiconductors. Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-    "keyTakeaways": [
-      {
-        "text": "Semiconductors: Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-        "articleIds": [
-          "a26"
-        ],
-        "subCategory": "semiconductors"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Qualcomm vs. Arm Holdings Q4 2026 trial: royalties and contract breach",
-      "url": "https://qz.com/qualcomm-arm-trial-royalties-contract-breach-100526?.tsrc=rss",
-      "description": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T13:34:42.000Z",
-      "fetchedAt": "2026-10-06T10:48:22.169Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Qualcomm alleges Arm withheld chip testing tools and leaked a termination threat that damaged a potential deal with Meta Platforms",
-      "id": "a26"
-    }
-  ]
+  "articles": []
 }
