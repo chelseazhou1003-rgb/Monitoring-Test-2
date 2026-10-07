@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-06T21:54:31.844Z",
+  "generatedAt": "2026-10-07T01:50:08.164Z",
   "date": "2026-10-07",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T19:04:00.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.603Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
-      "id": "a1"
+      "id": "a2"
     }
   ]
 }

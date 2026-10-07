@@ -1,35 +1,62 @@
 {
-  "generatedAt": "2026-10-06T21:54:31.844Z",
+  "generatedAt": "2026-10-07T01:50:08.164Z",
   "date": "2026-10-07",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Supply Chain: US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "supply-chain"
+      },
       {
         "text": "Customers & Partners: Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year ",
         "articleIds": [
-          "a3"
+          "a4"
         ],
         "subCategory": "customers-partners"
       },
       {
-        "text": "Geopolitics & Export Controls: Congress Enacts First Law Restricting U.S. Investment in China Legis1",
+        "text": "market-performance: Despite these near-term challenges, Qualcomm’s outlook is strengthening. Improving business conditions could provide the catalyst for a meaningful recovery in its share price.",
         "articleIds": [
-          "a7"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "market-performance: The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
-        "articleIds": [
-          "a14"
+          "a8"
         ],
         "subCategory": "market-performance"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Congress Enacts First Law Restricting U.S. Investment in China Legis1",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion - Supply Chain Digital",
+      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TZ2pQSkUwbF8xemFCY091UDBUTzRnQTJzbXdwWGNab3lfTXloMHlDRjR1dWJZSTJZTmc1ckpMaF8tLWctMzZVcTRMNFBmcU9ZRlFRdFByRklGcWgtNGpselBn?oc=5",
+      "description": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T00:17:51.000Z",
+      "fetchedAt": "2026-10-07T01:50:08.140Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Supply Chain Digital",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
+      "id": "a1"
+    },
     {
       "title": "What Should Qualcomm Stock Investors Be Watching Now?",
       "url": "https://www.trefis.com/articles/617670/what-should-qualcomm-stock-investors-be-watching-now/2026-10-06?.tsrc=rss",
@@ -38,7 +65,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T17:33:07.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.603Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -46,7 +73,25 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
-      "id": "a3"
+      "id": "a4"
+    },
+    {
+      "title": "Why It’s Time to Load Up on Qualcomm Stock",
+      "url": "https://www.barchart.com/story/news/4987573/why-its-time-to-load-up-on-qualcomm-stock?.tsrc=rss",
+      "description": "Despite these near-term challenges, Qualcomm’s outlook is strengthening. Improving business conditions could provide the catalyst for a meaningful recovery in its share price.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-06T16:06:45.000Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Despite these near-term challenges, Qualcomm’s outlook is strengthening. Improving business conditions could provide the catalyst for a meaningful recovery in its share price.",
+      "id": "a8"
     },
     {
       "title": "Congress Enacts First Law Restricting U.S. Investment in China - Legis1",
@@ -56,7 +101,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:05:12.000Z",
-      "fetchedAt": "2026-10-06T21:54:31.802Z",
+      "fetchedAt": "2026-10-07T01:50:08.140Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Legis1",
       "geopoliticalBypass": true,
@@ -66,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Congress Enacts First Law Restricting U.S. Investment in China Legis1",
-      "id": "a7"
+      "id": "a9"
     },
     {
       "title": "Mistral unveils new AI model it says rivals best open systems from China",
@@ -76,7 +121,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T13:00:01.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.573Z",
+      "fetchedAt": "2026-10-07T01:50:00.778Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -85,7 +130,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "OMODA & JAECOO Builds a New Global Intelligent Green Mobility Ecosystem",
@@ -95,7 +140,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T11:31:00.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.604Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -104,7 +149,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt - Evertiq",
@@ -114,7 +159,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T06:35:27.000Z",
-      "fetchedAt": "2026-10-06T21:54:31.802Z",
+      "fetchedAt": "2026-10-07T01:50:08.140Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Evertiq",
       "geopoliticalBypass": true,
@@ -124,7 +169,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -134,7 +179,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T22:09:32.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.603Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -142,7 +187,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The ISM report showed that the Purchasing Managers' Index for services came in at 54.9% in September, roughly in line with expectations.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "Qualcomm Can Grow Even as U.S. EV Sales Fall",
@@ -152,7 +197,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T20:45:34.000Z",
-      "fetchedAt": "2026-10-06T21:54:25.603Z",
+      "fetchedAt": "2026-10-07T01:50:00.801Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -170,7 +215,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T17:58:17.000Z",
-      "fetchedAt": "2026-10-06T21:54:30.089Z",
+      "fetchedAt": "2026-10-07T01:50:05.423Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -189,7 +234,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T17:13:13.000Z",
-      "fetchedAt": "2026-10-06T21:54:29.965Z",
+      "fetchedAt": "2026-10-07T01:50:05.346Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -208,7 +253,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T07:52:08.000Z",
-      "fetchedAt": "2026-10-06T21:54:30.089Z",
+      "fetchedAt": "2026-10-07T01:50:05.423Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-10-06T21:54:31.846Z",
+  "generatedAt": "2026-10-07T01:50:08.166Z",
   "date": "2026-10-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Skyworks vs Qualcomm: Why One Chip Maker Is Rewarding Shareholders While the Other Suspends Dividends",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a5",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), IoT & XR (1 article), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 7,
+      "articleCount": 5,
       "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 7 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a2",
       "briefingSummary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 10,
-      "topHeadline": "What Should Qualcomm Stock Investors Be Watching Now?",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
+      "articleCount": 12,
+      "topHeadline": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion - Supply Chain Digital",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 7,
       "topHeadline": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (5 articles), Huawei (2 articles). A total of 7 articles were aggregated from monitored sources."
     },
     "stakeholders": {
