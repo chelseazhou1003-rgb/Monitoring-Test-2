@@ -1,21 +1,48 @@
 {
-  "generatedAt": "2026-10-07T09:21:03.537Z",
-  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T22:17:19.325Z",
+  "date": "2026-10-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), Embodied AI & Robotics (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "embodied-ai-robotics"
+      },
       {
         "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
         "articleIds": [
-          "a2"
+          "a23"
         ],
         "subCategory": "data-center"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Sequoia, Nvidia Back Mecka AI’s Robotics Push",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
+      "description": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T18:06:08.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "embodied-ai-robotics",
+      "subLabel": "Embodied AI & Robotics",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a8"
+    },
     {
       "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
       "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
@@ -24,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T05:20:00.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -34,7 +61,7 @@
         "oem"
       ],
       "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-      "id": "a2"
+      "id": "a23"
     },
     {
       "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
@@ -44,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T19:04:00.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -52,7 +79,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
-      "id": "a5"
+      "id": "a25"
     }
   ]
 }

@@ -1,35 +1,109 @@
 {
-  "generatedAt": "2026-10-07T09:21:03.537Z",
-  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T22:17:19.325Z",
+  "date": "2026-10-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (1 article), IoT & XR (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article), IoT & XR (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its sharehol",
+        "text": "Semiconductors: Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
         "articleIds": [
-          "a8"
+          "a9"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
+        "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
         "articleIds": [
-          "a9"
-        ],
-        "subCategory": "iot-xr"
-      },
-      {
-        "text": "Mobile Chips: One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-        "articleIds": [
-          "a10"
+          "a16"
         ],
         "subCategory": "mobile-chips"
+      },
+      {
+        "text": "IoT & XR: Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems ",
+        "articleIds": [
+          "a29"
+        ],
+        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
+      "url": "https://www.fool.com/coverage/charts/2026/10/07/broadcom-vs-qualcomm-rapid-growth-vs-flat-revenue/?.tsrc=rss",
+      "description": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T17:20:02.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+      "id": "a9"
+    },
+    {
+      "title": "Qualcomm vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/07/qualcomm-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "description": "Qualcomm trades at a discount valuation, while Taiwan Semiconductor Manufacturing commands a premium reflecting its foundry dominance and 45% net margin.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T14:40:01.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm trades at a discount valuation, while Taiwan Semiconductor Manufacturing commands a premium reflecting its foundry dominance and 45% net margin.",
+      "id": "a13"
+    },
+    {
+      "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-lags-industry-date-whats-131300857.html?.tsrc=rss",
+      "description": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T13:13:00.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+      "id": "a16"
+    },
+    {
+      "title": "Qualcomm Could Have a Much Bigger AI Story Than Investors Think",
+      "url": "https://247wallst.com/investing/2026/10/07/qcom-could-have-a-much-bigger-ai-story-than-investors-think/?.tsrc=rss",
+      "description": "Qualcomm still gets priced like a smartphone supplier, but two hyperscaler custom silicon deals about to generate revenue suggest the market is missing something significant about where this company is actually headed.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T11:15:34.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm still gets priced like a smartphone supplier, but two hyperscaler custom silicon deals about to generate revenue suggest the market is missing something significant about where this company is actually headed.",
+      "id": "a20"
+    },
     {
       "title": "Skyworks vs Qualcomm: Why One Chip Maker Is Rewarding Shareholders While the Other Suspends Dividends",
       "url": "https://247wallst.com/investing/2026/10/06/skyworks-vs-qualcomm-why-one-chip-maker-is-rewarding-shareholders-while-the-other-suspends-dividends/?.tsrc=rss",
@@ -38,7 +112,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T17:00:19.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +120,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Two chip makers faced the same brutal quarter of weak handset demand and squeezed margins, then made opposite bets on how to keep investors happy. The choice one of them made could define its shareholder relationship for a decade.",
-      "id": "a8"
+      "id": "a28"
     },
     {
       "title": "Embedded Systems - Global Strategic Business Report: Capture $71 Billion in Growth Through 2032 as Intel, Qualcomm, NXP Semiconductors, and STMicroelectronics Accelerate AI and IoT Disruption",
@@ -56,7 +130,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:53:00.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "iot-xr",
@@ -64,43 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Capitalize on IoT, AI, 5G and smart-device demand with insights into high-opportunity segments, regional trends and competitive positioning.Dublin, Oct. 06, 2026 (GLOBE NEWSWIRE) -- \"Embedded Systems - Global Strategic Business Report\" has been added to ResearchAndMarkets.com's offering. Global Embedded Systems Market to Reach US$182.3 Billion by 2032, Driven by IoT, AI and 5G Adoption The global embedded systems market, estimated at US$111.3 billion in 2025, is projected to reach US$182.3 billi",
-      "id": "a9"
-    },
-    {
-      "title": "Qualcomm vs. SK hynix: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/06/qualcomm-vs-sk-hynix-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-      "description": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-06T16:15:02.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "One commands mobile connectivity and licensing; the other dominates AI memory chips with a 44% net margin. Their risk profiles and valuations diverge sharply.",
-      "id": "a10"
-    },
-    {
-      "title": "Qualcomm y Huawei suscriben un acuerdo de patentes",
-      "url": "https://www.mobileworldlive.com/spanish/qualcomm-y-huawei-suscriben-un-acuerdo-de-patentes/",
-      "description": "Qualcomm ha formalizado su segundo acuerdo de licencia de patentes en pocas semanas, esta vez con Huawei, que supone la Read more... The post Qualcomm y Huawei suscriben un acuerdo de patentes appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-05T08:03:21.000Z",
-      "fetchedAt": "2026-10-07T09:20:55.138Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm ha formalizado su segundo acuerdo de licencia de patentes en pocas semanas, esta vez con Huawei, que supone la Read more... The post Qualcomm y Huawei suscriben un acuerdo de patentes appeared first on Mobile World Live.",
-      "id": "a20"
+      "id": "a29"
     }
   ]
 }

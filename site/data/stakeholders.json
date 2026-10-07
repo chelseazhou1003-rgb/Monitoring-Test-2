@@ -1,21 +1,102 @@
 {
-  "generatedAt": "2026-10-07T09:21:03.537Z",
-  "date": "2026-10-07",
+  "generatedAt": "2026-10-07T22:17:19.325Z",
+  "date": "2026-10-08",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Data Center. Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+    "summary": "Today's Qualcomm coverage in this section spans Embodied AI & Robotics (1 article), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "embodied-ai-robotics"
+      },
+      {
+        "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+        "articleIds": [
+          "a16"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Platform & Ecosystem Partners: SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-o",
+        "articleIds": [
+          "a18"
+        ],
+        "subCategory": "platform-partner"
+      },
       {
         "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
         "articleIds": [
-          "a2"
+          "a23"
         ],
         "subCategory": "data-center"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Sequoia, Nvidia Back Mecka AI’s Robotics Push",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-07/sequoia-nvidia-back-mecka-ai-s-robotics-push-video",
+      "description": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T18:06:08.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "embodied-ai-robotics",
+      "subLabel": "Embodied AI & Robotics",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a8"
+    },
+    {
+      "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-lags-industry-date-whats-131300857.html?.tsrc=rss",
+      "description": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T13:13:00.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+      "id": "a16"
+    },
+    {
+      "title": "Arista Announces Rack-Scale Architectures for Scale-Up and Scale-Out AI Fabrics",
+      "url": "https://finance.yahoo.com/technology/ai/articles/arista-announces-rack-scale-architectures-130000082.html?.tsrc=rss",
+      "description": "SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-out AI infrastructure. Engineered in partnership with leading compute technology companies such as AMD, Arm, Broadcom, d-Matrix, Meta, Microsoft, and Qualcomm, see quotes here, this effort leverages the Ethernet for Scale-up Networks (ESUN) initiative. With this set of platforms, Arista extends Ether",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T13:00:00.000Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-out AI infrastructure. Engineered in partnership with leading compute technology companies such as AMD, Arm, Broadcom, d-Matrix, Meta, Microsoft, and Qualcomm, see quotes here, this effort leverages the Ethernet for Scale-up Networks (ESUN) initiative. With this set of platforms, Arista extends Ether",
+      "id": "a18"
+    },
     {
       "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
       "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
@@ -24,7 +105,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T05:20:00.000Z",
-      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchedAt": "2026-10-07T22:17:13.434Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -34,7 +115,7 @@
         "oem"
       ],
       "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-      "id": "a2"
+      "id": "a23"
     }
   ]
 }
