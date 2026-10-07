@@ -1,11 +1,40 @@
 {
-  "generatedAt": "2026-10-07T01:50:08.164Z",
+  "generatedAt": "2026-10-07T09:21:03.537Z",
   "date": "2026-10-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
+      "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
+      "description": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T05:20:00.000Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+      "id": "a2"
+    }
+  ]
 }

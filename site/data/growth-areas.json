@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-07T01:50:08.164Z",
+  "generatedAt": "2026-10-07T09:21:03.537Z",
   "date": "2026-10-07",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "One article today covering Data Center. As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Data Center: As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
+        "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
         "articleIds": [
           "a2"
         ],
@@ -17,6 +17,26 @@
   },
   "articles": [
     {
+      "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
+      "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
+      "description": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T05:20:00.000Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
+      "id": "a2"
+    },
+    {
       "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
       "url": "https://www.fool.com/investing/2026/10/06/qualcomms-ai-infrastructure-pivot-is-underapprecia/?.tsrc=rss",
       "description": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
@@ -24,7 +44,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T19:04:00.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +52,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
-      "id": "a2"
+      "id": "a5"
     }
   ]
 }

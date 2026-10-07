@@ -1,42 +1,80 @@
 {
-  "generatedAt": "2026-10-07T01:50:08.164Z",
+  "generatedAt": "2026-10-07T09:21:03.537Z",
   "date": "2026-10-07",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (2 articles), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Supply Chain: US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
         "articleIds": [
-          "a1"
+          "a4"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Customers & Partners: Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year ",
         "articleIds": [
-          "a4"
+          "a7"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "market-performance: Despite these near-term challenges, Qualcomm’s outlook is strengthening. Improving business conditions could provide the catalyst for a meaningful recovery in its share price.",
         "articleIds": [
-          "a8"
+          "a11"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Congress Enacts First Law Restricting U.S. Investment in China Legis1",
-        "articleIds": [
-          "a9"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Hisense opens China front in InterDigital patent battle",
+      "url": "https://www.iam-media.com/article/hisense-opens-china-front-in-interdigital-patent-battle",
+      "description": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-10-07T07:32:21.000Z",
+      "fetchedAt": "2026-10-07T09:20:53.507Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
+      "id": "a1"
+    },
+    {
+      "title": "The taxman comes for China’s offshore riches",
+      "url": "https://www.ft.com/content/f31baf40-a753-4cca-86e1-1373f08d99e2?syn-25a6b1a6=1",
+      "description": "The crackdown has rattled the country’s wealthiest people and the businesses in Hong Kong, Singapore and Tokyo that manage their money",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T02:27:55.000Z",
+      "fetchedAt": "2026-10-07T09:20:51.625Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The crackdown has rattled the country’s wealthiest people and the businesses in Hong Kong, Singapore and Tokyo that manage their money",
+      "id": "a3"
+    },
     {
       "title": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion - Supply Chain Digital",
       "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TZ2pQSkUwbF8xemFCY091UDBUTzRnQTJzbXdwWGNab3lfTXloMHlDRjR1dWJZSTJZTmc1ckpMaF8tLWctMzZVcTRMNFBmcU9ZRlFRdFByRklGcWgtNGpselBn?oc=5",
@@ -45,7 +83,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T00:17:51.000Z",
-      "fetchedAt": "2026-10-07T01:50:08.140Z",
+      "fetchedAt": "2026-10-07T09:21:03.504Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Supply Chain Digital",
       "geopoliticalBypass": true,
@@ -55,7 +93,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "What Should Qualcomm Stock Investors Be Watching Now?",
@@ -65,7 +103,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T17:33:07.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -73,7 +111,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "Why It’s Time to Load Up on Qualcomm Stock",
@@ -83,7 +121,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:06:45.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -91,7 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Despite these near-term challenges, Qualcomm’s outlook is strengthening. Improving business conditions could provide the catalyst for a meaningful recovery in its share price.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Congress Enacts First Law Restricting U.S. Investment in China - Legis1",
@@ -101,7 +139,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T16:05:12.000Z",
-      "fetchedAt": "2026-10-07T01:50:08.140Z",
+      "fetchedAt": "2026-10-07T09:21:03.504Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Legis1",
       "geopoliticalBypass": true,
@@ -111,17 +149,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Congress Enacts First Law Restricting U.S. Investment in China Legis1",
-      "id": "a9"
+      "id": "a12"
     },
     {
-      "title": "Mistral unveils new AI model it says rivals best open systems from China",
-      "url": "https://www.cnbc.com/2026/10/06/mistral-ai-model-le-chonk.html",
-      "description": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
+      "title": "DeepSeek considers doubling latest funding round to up to $15 billion, sources say",
+      "url": "https://www.cnbc.com/2026/10/06/deepseek-funding-round.html",
+      "description": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-06T13:00:01.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.778Z",
+      "publishedAt": "2026-10-06T12:59:10.000Z",
+      "fetchedAt": "2026-10-07T09:20:51.062Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -129,8 +167,8 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Western developers are racing to compete with Chinese companies in open weight and open source AI.",
-      "id": "a10"
+      "summary": "China's DeepSeek weighs upsizing funding round to up to $14.9 billion, sources tell CNBC, and the final amount could still change in final talks.",
+      "id": "a13"
     },
     {
       "title": "OMODA & JAECOO Builds a New Global Intelligent Green Mobility Ecosystem",
@@ -140,7 +178,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T11:31:00.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchedAt": "2026-10-07T09:20:51.255Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -149,27 +187,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "06, 2026 (GLOBE NEWSWIRE) -- The 2026 OMODA&JAECOO International User Summit will grandly kick off from October 18 to 24 in Wuhu, China. OMODA & JAECOO will combine full-stack technology and industrial resources to present the global implementation results in artificial intelligence, intelligent vehicles, and new energy across the summit. Rooftop solar panels at OMODA & JAECOO's green factory in Wuhu generate electricity for production. R&D Spending Rises 28.3% Year-on-Year as",
-      "id": "a11"
-    },
-    {
-      "title": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt - Evertiq",
-      "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnBTLW1HdGRDcXJfRzFnc2VHMHZLSklOVlg1RURERWtWZHE4aFVoUy1wTlIzNmFCdnJyWUgtMk1TNGRNOTkxa1JXZG1KaG5rRGNPLVhVUUVFNEZyN20xdkYtRGEtZWliX1V3ZWNhYkxhX0tUeTFwRGdGUmZnSHI2bUxnWi12OWpWV1p4TWwwb0MtWE5tQUNkei1QZ0dpdw?oc=5",
-      "description": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-06T06:35:27.000Z",
-      "fetchedAt": "2026-10-07T01:50:08.140Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Evertiq",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "X-FAB breaks ground on Chips Act-funded cleanroom in Erfurt Evertiq",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "Nasdaq 100 Hits Record Highs As Investors Shrug Off Pressure From Soaring Yields — NVDA, SPCX, CRML, TSLA, QCOM In Focus",
@@ -179,7 +197,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-05T22:09:32.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
+      "fetchedAt": "2026-10-07T09:20:51.254Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -190,24 +208,6 @@
       "id": "a15"
     },
     {
-      "title": "Qualcomm Can Grow Even as U.S. EV Sales Fall",
-      "url": "https://247wallst.com/investing/2026/10/05/qualcomm-can-grow-even-as-u-s-ev-sales-fall/?.tsrc=rss",
-      "description": "U.S. electric vehicle sales are sliding, yet Qualcomm's automotive revenue keeps climbing at a pace that defies the headline numbers. The reason has less to do with EVs than with something most investors overlook entirely.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-05T20:45:34.000Z",
-      "fetchedAt": "2026-10-07T01:50:00.801Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "electric vehicle sales are sliding, yet Qualcomm's automotive revenue keeps climbing at a pace that defies the headline numbers. The reason has less to do with EVs than with something most investors overlook entirely.",
-      "id": "a16"
-    },
-    {
       "title": "Nokia promotes new China licensing head amid growing regional momentum",
       "url": "https://ipfray.com/nokia-promotes-new-china-licensing-head-amid-growing-regional-momentum/",
       "description": "Dazhi Wang takes the reins after Simon Zhao's move to pool operator Access Advance.",
@@ -215,7 +215,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T17:58:17.000Z",
-      "fetchedAt": "2026-10-07T01:50:05.423Z",
+      "fetchedAt": "2026-10-07T09:21:02.042Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -224,7 +224,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dazhi Wang takes the reins after Simon Zhao's move to pool operator Access Advance.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
@@ -234,7 +234,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T17:13:13.000Z",
-      "fetchedAt": "2026-10-07T01:50:05.346Z",
+      "fetchedAt": "2026-10-07T09:20:55.410Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -243,7 +243,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-      "id": "a18"
+      "id": "a17"
     },
     {
       "title": "Access Advance strengthens Asia presence with executive IP licensing hires in China, Taiwan",
@@ -253,7 +253,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-05T07:52:08.000Z",
-      "fetchedAt": "2026-10-07T01:50:05.423Z",
+      "fetchedAt": "2026-10-07T09:21:02.042Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
