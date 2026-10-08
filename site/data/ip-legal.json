@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-10-08T02:17:43.245Z",
+  "generatedAt": "2026-10-08T09:30:51.741Z",
   "date": "2026-10-08",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (2 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (3 articles). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "FRAND & Licensing: Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal withou",
+        "text": "FRAND & Licensing: Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty",
         "articleIds": [
-          "a17"
+          "a5"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: The companies will have access to each other's patent portfolios.",
         "articleIds": [
-          "a22"
+          "a26"
         ],
         "subCategory": "ip"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Arm Holdings (ARM) Heads To Trial Over Billions In Royalty Payments",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-heads-trial-051146266.html?.tsrc=rss",
+      "description": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-08T05:11:46.000Z",
+      "fetchedAt": "2026-10-08T09:30:41.299Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
+      "id": "a5"
+    },
     {
       "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
       "url": "https://ipfray.com/qualcomm-huawei-disagreement-reflects-inherently-subjective-nature-of-unpacking-complex-license-plus-deals/",
@@ -31,7 +49,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-08T02:17:41.246Z",
+      "fetchedAt": "2026-10-08T09:30:48.968Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -41,7 +59,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a17"
+      "id": "a21"
     },
     {
       "title": "Why Investors Are Celebrating Qualcomm Striking a Licensing Deal with Huawei — Which Is Still on the Entity List",
@@ -51,7 +69,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T13:00:58.000Z",
-      "fetchedAt": "2026-10-08T02:17:36.587Z",
+      "fetchedAt": "2026-10-08T09:30:41.299Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -61,7 +79,7 @@
       ],
       "stakeholders": [],
       "summary": "The companies will have access to each other's patent portfolios.",
-      "id": "a22"
+      "id": "a26"
     },
     {
       "title": "Qualcomm (QCOM) Stock Looks Fully Valued On Royalty Dispute And License Deals",
@@ -71,7 +89,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T12:16:44.000Z",
-      "fetchedAt": "2026-10-08T02:17:36.587Z",
+      "fetchedAt": "2026-10-08T09:30:41.299Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -79,7 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM has ridden a strong multi‑year share price climb while signing high profile licensing deals and fighting a major royalty dispute, which naturally raises the question of whether the current market value lines up with the cash the business is expected to generate. With the stock at US$181.03 at the last close, the conversation has shifted from headlines to what those agreements and conflicts could mean for long term cash flows. Over the past 3 years, QUALCOMM has returned 71.8%,...",
-      "id": "a24"
+      "id": "a28"
     },
     {
       "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -89,7 +107,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-06T18:45:59.000Z",
-      "fetchedAt": "2026-10-08T02:17:41.583Z",
+      "fetchedAt": "2026-10-08T09:30:50.311Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -99,7 +117,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "id": "a30"
+      "id": "a32"
     },
     {
       "title": "Huawei, Qualcomm agree to broad patent license deal",
@@ -109,7 +127,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-08T02:17:41.376Z",
+      "fetchedAt": "2026-10-08T09:30:48.978Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -119,7 +137,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a32"
+      "id": "a34"
     },
     {
       "title": "Qualcomm, Huawei reach patent accord",
@@ -129,7 +147,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-08T02:17:41.019Z",
+      "fetchedAt": "2026-10-08T09:30:50.131Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -139,7 +157,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a33"
+      "id": "a35"
     }
   ]
 }
