@@ -2,24 +2,24 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "FRAND & Licensing: Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal withou",
           "articleIds": [
-            "a21"
+            "a24"
           ],
           "subCategory": "frand-licensing"
         },
         {
-          "text": "IP / Intellectual Property: The companies will have access to each other's patent portfolios.",
+          "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
           "articleIds": [
-            "a26"
+            "a29"
           ],
           "subCategory": "ip"
         }
@@ -34,7 +34,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-07T15:09:28.000Z",
-        "fetchedAt": "2026-10-08T09:30:48.968Z",
+        "fetchedAt": "2026-10-08T16:58:38.225Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -44,27 +44,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-        "id": "a21"
-      },
-      {
-        "title": "Why Investors Are Celebrating Qualcomm Striking a Licensing Deal with Huawei — Which Is Still on the Entity List",
-        "url": "https://www.barchart.com/story/news/5005843/why-investors-are-celebrating-qualcomm-striking-a-licensing-deal-with-huawei-which-is-still-on-the-entity-list?.tsrc=rss",
-        "description": "The companies will have access to each other's patent portfolios.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T13:00:58.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "The companies will have access to each other's patent portfolios.",
-        "id": "a26"
+        "id": "a24"
       },
       {
         "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -74,7 +54,7 @@ export const NEWS_DATA = {
         "sourceId": "fierce-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-06T18:45:59.000Z",
-        "fetchedAt": "2026-10-08T09:30:50.311Z",
+        "fetchedAt": "2026-10-08T16:58:38.836Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -84,69 +64,29 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-        "id": "a32"
-      },
-      {
-        "title": "Huawei, Qualcomm agree to broad patent license deal",
-        "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
-        "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
-        "source": "Light Reading",
-        "sourceId": "light-reading",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-05T15:05:16.000Z",
-        "fetchedAt": "2026-10-08T09:30:48.978Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-        "id": "a34"
-      },
-      {
-        "title": "Qualcomm, Huawei reach patent accord",
-        "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
-        "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-05T11:17:51.000Z",
-        "fetchedAt": "2026-10-08T09:30:50.131Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "id": "a35"
+        "id": "a29"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Semiconductors: Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
           "articleIds": [
-            "a19"
+            "a22"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
           "articleIds": [
-            "a25"
+            "a27"
           ],
           "subCategory": "mobile-chips"
         }
@@ -161,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T17:20:02.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -169,7 +109,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
-        "id": "a19"
+        "id": "a22"
       },
       {
         "title": "Qualcomm vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
@@ -179,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T14:40:01.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -187,7 +127,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm trades at a discount valuation, while Taiwan Semiconductor Manufacturing commands a premium reflecting its foundry dominance and 45% net margin.",
-        "id": "a22"
+        "id": "a25"
       },
       {
         "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
@@ -197,7 +137,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T13:13:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -207,49 +147,24 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
-        "id": "a25"
-      },
-      {
-        "title": "Qualcomm Could Have a Much Bigger AI Story Than Investors Think",
-        "url": "https://247wallst.com/investing/2026/10/07/qcom-could-have-a-much-bigger-ai-story-than-investors-think/?.tsrc=rss",
-        "description": "Qualcomm still gets priced like a smartphone supplier, but two hyperscaler custom silicon deals about to generate revenue suggest the market is missing something significant about where this company is actually headed.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T11:15:34.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm still gets priced like a smartphone supplier, but two hyperscaler custom silicon deals about to generate revenue suggest the market is missing something significant about where this company is actually headed.",
-        "id": "a29"
+        "id": "a27"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Embodied AI & Robotics (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Embodied AI & Robotics. Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds techn",
       "keyTakeaways": [
         {
           "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "embodied-ai-robotics"
-        },
-        {
-          "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-          "articleIds": [
-            "a31"
-          ],
-          "subCategory": "data-center"
         }
       ]
     },
@@ -262,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T18:09:28.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -272,49 +187,29 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
-        "id": "a17"
-      },
-      {
-        "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
-        "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
-        "description": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T05:20:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-        "id": "a31"
+        "id": "a20"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (3 articles). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "FRAND & Licensing: Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty",
           "articleIds": [
-            "a5"
+            "a12"
           ],
           "subCategory": "frand-licensing"
         },
         {
-          "text": "IP / Intellectual Property: The companies will have access to each other's patent portfolios.",
+          "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
           "articleIds": [
-            "a26"
+            "a29"
           ],
           "subCategory": "ip"
         }
@@ -329,7 +224,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T05:11:46.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -337,7 +232,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
-        "id": "a5"
+        "id": "a12"
       },
       {
         "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
@@ -347,7 +242,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-07T15:09:28.000Z",
-        "fetchedAt": "2026-10-08T09:30:48.968Z",
+        "fetchedAt": "2026-10-08T16:58:38.225Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -357,45 +252,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-        "id": "a21"
-      },
-      {
-        "title": "Why Investors Are Celebrating Qualcomm Striking a Licensing Deal with Huawei — Which Is Still on the Entity List",
-        "url": "https://www.barchart.com/story/news/5005843/why-investors-are-celebrating-qualcomm-striking-a-licensing-deal-with-huawei-which-is-still-on-the-entity-list?.tsrc=rss",
-        "description": "The companies will have access to each other's patent portfolios.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T13:00:58.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "The companies will have access to each other's patent portfolios.",
-        "id": "a26"
-      },
-      {
-        "title": "Qualcomm (QCOM) Stock Looks Fully Valued On Royalty Dispute And License Deals",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-looks-fully-121644865.html?.tsrc=rss",
-        "description": "QUALCOMM has ridden a strong multi‑year share price climb while signing high profile licensing deals and fighting a major royalty dispute, which naturally raises the question of whether the current market value lines up with the cash the business is expected to generate. With the stock at US$181.03 at the last close, the conversation has shifted from headlines to what those agreements and conflicts could mean for long term cash flows. Over the past 3 years, QUALCOMM has returned 71.8%,...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T12:16:44.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "QUALCOMM has ridden a strong multi‑year share price climb while signing high profile licensing deals and fighting a major royalty dispute, which naturally raises the question of whether the current market value lines up with the cash the business is expected to generate. With the stock at US$181.03 at the last close, the conversation has shifted from headlines to what those agreements and conflicts could mean for long term cash flows. Over the past 3 years, QUALCOMM has returned 71.8%,...",
-        "id": "a28"
+        "id": "a24"
       },
       {
         "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -405,7 +262,7 @@ export const NEWS_DATA = {
         "sourceId": "fierce-wireless",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-06T18:45:59.000Z",
-        "fetchedAt": "2026-10-08T09:30:50.311Z",
+        "fetchedAt": "2026-10-08T16:58:38.836Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -415,147 +272,107 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-        "id": "a32"
-      },
-      {
-        "title": "Huawei, Qualcomm agree to broad patent license deal",
-        "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
-        "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
-        "source": "Light Reading",
-        "sourceId": "light-reading",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-05T15:05:16.000Z",
-        "fetchedAt": "2026-10-08T09:30:48.978Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-        "id": "a34"
-      },
-      {
-        "title": "Qualcomm, Huawei reach patent accord",
-        "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
-        "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-05T11:17:51.000Z",
-        "fetchedAt": "2026-10-08T09:30:50.131Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "ip",
-        "subLabel": "IP / Intellectual Property",
-        "competitors": [
-          "huawei"
-        ],
-        "stakeholders": [],
-        "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-        "id": "a35"
+        "id": "a29"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-08T09:30:51.744Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.503Z",
+    "date": "2026-10-09",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
+        "articleCount": 3,
         "topHeadline": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
-        "topHeadlineId": "a19",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a22",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 7,
+        "articleCount": 3,
         "topHeadline": "Arm Holdings (ARM) Heads To Trial Over Billions In Royalty Payments",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (3 articles). A total of 7 articles were aggregated from monitored sources."
+        "topHeadlineId": "a12",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 2,
+        "articleCount": 1,
         "topHeadline": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
-        "topHeadlineId": "a17",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Embodied AI & Robotics (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources."
+        "topHeadlineId": "a20",
+        "briefingSummary": "One article today covering Embodied AI & Robotics. Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds techn"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 21,
-        "topHeadline": "After a yearslong slump, China's real estate market may be set for a turnaround",
+        "articleCount": 23,
+        "topHeadline": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Customers & Partners (2 articles). A total of 21 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 23 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
-        "articleCount": 5,
+        "articleCount": 2,
         "topHeadline": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
-        "topHeadlineId": "a21",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources."
+        "topHeadlineId": "a24",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 4,
-        "topHeadline": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
-        "topHeadlineId": "a17",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Embodied AI & Robotics (1 article), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
+        "topHeadline": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Embodied AI & Robotics (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 43
+    "totalArticles": 36
   },
   "macro-environment": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Customers & Partners (2 articles). A total of 21 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 23 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.",
+          "text": "Geopolitics & Export Controls: President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
+          "text": "Supply Chain: Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+          "articleIds": [
+            "a3"
+          ],
+          "subCategory": "supply-chain"
+        },
+        {
           "text": "Customers & Partners: It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs,",
           "articleIds": [
-            "a2"
+            "a10"
           ],
           "subCategory": "customers-partners"
         },
         {
           "text": "market-performance: QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUAL",
           "articleIds": [
-            "a8"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Supply Chain: Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-          "articleIds": [
             "a13"
           ],
-          "subCategory": "supply-chain"
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "After a yearslong slump, China's real estate market may be set for a turnaround",
-        "url": "https://www.cnbc.com/2026/10/08/chinas-real-estate-market-may-be-set-for-a-turnaround-sp-says.html",
-        "description": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.",
+        "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+        "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+        "description": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-08T09:27:31.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
+        "publishedAt": "2026-10-08T16:50:30.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.123Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -563,18 +380,177 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "A recovery in China's largest cities real estate markets could come as soon as next year, the S&P ratings agency said.",
+        "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
         "id": "a1"
       },
       {
-        "title": "The Story of Europe's Decline Isn't So Simple",
+        "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
+        "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
+        "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-08T16:30:00.000Z",
+        "fetchedAt": "2026-10-08T16:58:38.225Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+        "id": "a2"
+      },
+      {
+        "title": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement - Tom's Hardware",
+        "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQcVlvUEJaRDJBY3dPYUtMcDA4bFlDSVFtY0cyaE5iLVdKYkdXUk96WFVvdzBBQ3hEYjhGeDdkTGswWTdrYmFsYmFFd0t2WVhhOWNVTDk1Z0tKTHRzVndzam9zWDh0QU83Mk1OS05kNFJlVGR1eWJLZm14M3NtN0dvZjlDaGdmcFgxVW42VnM0QUk5aEU4b2txa2o0cGNLblhIalpyeURSek96NjYydENxbE5kb2dqT3ZxMUxZWFA5YXpjZTdpaDgxTGE3UXJCWDZZOVgzV3ZLY0JtaXphZVhkT3BVanNQR2VoVUNsZllIZGF1NFVTV2FhQ1JleElHb2J5Z3FnaVY1OFZ0ZUlJcWM2aHk0RkIwbURLRW9INnJlY1FtNzJGU3R3WTIwUlJGaHNUSzV4VUtkYnI5ZVo0RE9WYTBJU3hXR0hsRUV6SzBmSG1DSjhQSFE?oc=5",
+        "description": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-08T16:24:54.000Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Tom's Hardware",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+        "id": "a3"
+      },
+      {
+        "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+        "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+        "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-08T15:49:36.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.123Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+        "id": "a4"
+      },
+      {
+        "title": "Europe’s Chips Act 2.0 must start with demand - Teknologiateollisuus ry",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlBaRnJUN0xITDJMaUdRRE9mUDR5SEJmMlQydnk0SklEZnBCUnR5THVzVzJlNTZKaHVBNGQ4YzBranRMLUU0a2wzWmtyenB3akh0azAtU2RJakdsTzRDQ0w0X1B4MlV2LWxKVU83NVhnamQtbWx6OEdQRUNkNmRBZWhub09XZG8?oc=5",
+        "description": "Europe’s Chips Act 2.0 must start with demand Teknologiateollisuus ry",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-08T14:10:51.000Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Teknologiateollisuus ry",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Europe’s Chips Act 2.0 must start with demand Teknologiateollisuus ry",
+        "id": "a5"
+      },
+      {
+        "title": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” - TIKR.com",
+        "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVElrTVV0N1pDSV9sTnZ1ZEliQUl1UkNkZGp1UXVtRFBIejlsN0Z4MThwVzRaSzlkRXRaQzJaOE5fbVdqNTFlMlZMdWhGVk1YeXNJc1QwQUI4REJmWkJRcUlVUGsxZU5qTE9nc0d6NXNFWjZreHQ4NmhIRGlzMm9JbVBVMW1uSlF0dFlpVVY5YzhFNE4wRERJZ3pWbFEyUjF3RjlNQUx6UEdQYmpOYUZPM1ZXZ004WFNqdl9Yc3dpZzJNbms?oc=5",
+        "description": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” TIKR.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-08T14:06:04.000Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TIKR.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” TIKR.com",
+        "id": "a6"
+      },
+      {
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+        "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-08T13:20:32.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.051Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+        "id": "a7"
+      },
+      {
+        "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+        "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+        "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-08T12:53:39.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.051Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+        "id": "a8"
+      },
+      {
+        "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
+        "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
+        "description": "Space-based systems could detect and track incoming missile threats and intercept them either from land or space.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-08T11:04:39.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.123Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Space-based systems could detect and track incoming missile threats and intercept them either from land or space.",
+        "id": "a9"
+      },
+      {
+        "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
         "url": "https://www.bloomberg.com/news/videos/2026-10-08/the-story-of-europe-s-decline-isn-t-so-simple-video",
         "description": "It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor. (Source: Bloomberg)",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T08:13:13.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.480Z",
+        "fetchedAt": "2026-10-08T16:58:35.384Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -583,26 +559,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor.",
-        "id": "a2"
-      },
-      {
-        "title": "Huawei doubles down on smartphones as EV sales slow",
-        "url": "https://www.cnbc.com/2026/10/08/huawei-china-smartphone-ev-slow.html",
-        "description": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-08T08:04:11.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chinese tech company Huawei wants to rebuild its consumer business after U.S. sanctions halved segment revenue.",
-        "id": "a3"
+        "id": "a10"
       },
       {
         "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
@@ -612,7 +569,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T05:30:49.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
+        "fetchedAt": "2026-10-08T16:58:35.123Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -621,45 +578,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
-        "id": "a4"
-      },
-      {
-        "title": "Bitget CEO Gracy Chen on the cryptocurrency market",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-08/bitget-ceo-gracy-chen-on-the-cryptocurrency-market-video",
-        "description": "Gracy Chen, CEO of Bitget, discusses recent swings in bitcoin and other crypto assets in what she describes as a \"monkey\" market. She speaks exclusively on “Bloomberg: The China Show”. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-08T04:57:38.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.480Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Gracy Chen, CEO of Bitget, discusses recent swings in bitcoin and other crypto assets in what she describes as a \"monkey\" market. She speaks exclusively on “Bloomberg: The China Show”.",
-        "id": "a6"
-      },
-      {
-        "title": "Trump says he is not keen on a deal with Iran as U.S. reportedly prepares for 'massive bombing'",
-        "url": "https://www.cnbc.com/2026/10/08/us-iran-war-trump-hormuz.html",
-        "description": "The U.S. president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-08T03:29:29.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "president and his national security team have discussed possibly resuming large-scale U.S. military operations in the coming weeks, NBC News reported.",
-        "id": "a7"
+        "id": "a11"
       },
       {
         "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
@@ -669,7 +588,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T00:15:53.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -677,7 +596,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUALCOMM shares have eased in the past week, with a 7 day share price return of down 3.76% and a 90 day move of down 7.32%. This comes even though the 1 year total shareholder return of 7.77% and 3 year total shareholder return of 69.85% point to momentum that has built over a longer stretch as...",
-        "id": "a8"
+        "id": "a13"
       },
       {
         "title": "China races to build data centres in bid for AI supremacy",
@@ -687,7 +606,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T00:15:04.000Z",
-        "fetchedAt": "2026-10-08T09:30:42.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.713Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -696,83 +615,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia",
-        "id": "a9"
+        "id": "a14"
       },
       {
-        "title": "China Stocks Slide as Tech Losses, Tepid Holiday Spending Weigh",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-07/china-s-weak-holiday-spending-casts-shadow-as-markets-reopen",
-        "description": "Chinese shares fell following a week-long break as inflation-induced weakness in Asia’s technology sector added to pressure from sluggish holiday spending.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "Recommendations on the proposal for a Chips Act 2.0 - Teknologiateollisuus ry",
+        "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2toTm1iOEIyQWFSbkRmYk00SzNaVFpaWC1SYVEycHVJaHBVbllIU21YU2k2NEFMMUN3Q0prX3pDU1U0WjlOTDhwdFFYQkFHS3hpNkJzZXEzcWhRZUhRbHdZZGZpWWFManVOSDk3eExvazFCckNZdHNEZXBWRERSTE53Y2VSUmFVZS1QTmRPclY?oc=5",
+        "description": "Recommendations on the proposal for a Chips Act 2.0 Teknologiateollisuus ry",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T23:41:18.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.480Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chinese shares fell following a week-long break as inflation-induced weakness in Asia’s technology sector added to pressure from sluggish holiday spending.",
-        "id": "a10"
-      },
-      {
-        "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
-        "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
-        "description": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is the third vehicle to be released on BMW's next-generation Neue Klasse platform, following the iX3 and i3 models. The iX4 50 xDrive will come first in March 2027, followed by an even more high-performance M60 xDrive version later in the year. The automaker is positioning this new lineup as its bulwark against t … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-07T22:01:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:42.036Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-10-07T22:10:01.000Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Teknologiateollisuus ry",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is the third vehicle to be released on BMW's next-generation Neue Klasse platform, following the iX3 and i3 models. The iX4 50 xDrive will come first in March 2027, followed by an even more high-performance M60 xDrive version later in the year. The automaker is positioning this new lineup as its bulwark against t … Read the full story at The Verge.",
-        "id": "a11"
-      },
-      {
-        "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
-        "url": "https://www.cnbc.com/2026/10/07/levi-strauss-levi-q3-2026-earnings.html",
-        "description": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T21:31:40.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
-        "id": "a12"
-      },
-      {
-        "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
-        "url": "https://www.cnbc.com/2026/10/07/supertanker-from-us-to-china-chartered-for-76-million-source.html",
-        "description": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T20:33:34.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-        "id": "a13"
+        "summary": "Recommendations on the proposal for a Chips Act 2.0 Teknologiateollisuus ry",
+        "id": "a15"
       },
       {
         "title": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit - Reuters",
@@ -782,7 +645,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T20:07:43.000Z",
-        "fetchedAt": "2026-10-08T09:30:50.601Z",
+        "fetchedAt": "2026-10-08T16:58:39.287Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "geopoliticalBypass": true,
@@ -792,7 +655,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit Reuters",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency - National Security Journal",
@@ -802,7 +665,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T20:04:08.000Z",
-        "fetchedAt": "2026-10-08T09:30:51.695Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "National Security Journal",
         "geopoliticalBypass": true,
@@ -812,7 +675,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency National Security Journal",
-        "id": "a15"
+        "id": "a17"
       },
       {
         "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -822,7 +685,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T19:43:58.000Z",
-        "fetchedAt": "2026-10-08T09:30:51.695Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Stocktwits",
         "geopoliticalBypass": true,
@@ -832,7 +695,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-        "id": "a16"
+        "id": "a18"
+      },
+      {
+        "title": "US issues first outbound investment fine over Chinese robotics AI deal - South China Morning Post",
+        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
+        "description": "US issues first outbound investment fine over Chinese robotics AI deal South China Morning Post",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-07T19:27:59.000Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "South China Morning Post",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US issues first outbound investment fine over Chinese robotics AI deal South China Morning Post",
+        "id": "a19"
       },
       {
         "title": "How US Export Controls Left $70,000,000,000 On The Table For Huawei - The Daily Caller",
@@ -842,7 +725,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T17:30:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:51.695Z",
+        "fetchedAt": "2026-10-08T16:58:40.450Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Daily Caller",
         "geopoliticalBypass": true,
@@ -852,7 +735,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "How US Export Controls Left $70,000,000,000 On The Table For Huawei The Daily Caller",
-        "id": "a18"
+        "id": "a21"
       },
       {
         "title": "Processors and Graphics Chips Stocks Q2 Results: Benchmarking Qualcomm (NASDAQ:QCOM)",
@@ -862,7 +745,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T17:04:47.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -870,7 +753,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how processors and graphics chips stocks fared in Q2, starting with Qualcomm (NASDAQ:QCOM).",
-        "id": "a20"
+        "id": "a23"
       },
       {
         "title": "Qualcomm Government Technologies and OKSI Announce Collaboration to Deploy OMNISCIENCE Autonomy Software Portfolio",
@@ -880,7 +763,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T14:07:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -888,36 +771,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "LOS ANGELES, October 07, 2026--OKSI and Qualcomm Government Technologies, Inc. (QGOV), a division of Qualcomm Technologies, Inc., today announced a collaboration to deploy OKSI's OMNISCIENCETM autonomy software portfolio on Qualcomm technologies. OMNISCIENCE delivers AI/ML-enabled capabilities through computer vision — including visual navigation, object detection and recognition, mission execution and more — purpose-built to bring autonomy to unmanned platforms operating in complex, communicati",
-        "id": "a23"
-      },
-      {
-        "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
-        "url": "https://www.cnbc.com/2026/10/07/webull-china-national-security-risk-congress.html",
-        "description": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T13:46:28.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.156Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-        "id": "a24"
+        "id": "a26"
       },
       {
         "title": "Hisense opens China front in InterDigital patent battle",
-        "url": "https://www.iam-media.com/article/hisense-opens-china-front-in-interdigital-patent-battle",
+        "url": "https://www.iam-media.com/index.php/article/hisense-opens-china-front-in-interdigital-patent-battle",
         "description": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-07T07:32:21.000Z",
-        "fetchedAt": "2026-10-08T09:30:43.717Z",
+        "fetchedAt": "2026-10-08T16:58:36.993Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -926,7 +790,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
-        "id": "a30"
+        "id": "a28"
       },
       {
         "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
@@ -936,7 +800,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-05T17:13:13.000Z",
-        "fetchedAt": "2026-10-08T09:30:48.978Z",
+        "fetchedAt": "2026-10-08T16:58:38.593Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -945,7 +809,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-        "id": "a33"
+        "id": "a30"
       }
     ]
   },
@@ -1141,44 +1005,79 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-08T09:30:51.741Z",
-    "date": "2026-10-08",
+    "generatedAt": "2026-10-08T16:58:40.483Z",
+    "date": "2026-10-09",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Embodied AI & Robotics (1 article), Mobile Chips (1 article), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Embodied AI & Robotics (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corpora",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "embodied-ai-robotics"
         },
         {
           "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
           "articleIds": [
-            "a25"
-          ],
-          "subCategory": "mobile-chips"
-        },
-        {
-          "text": "Platform & Ecosystem Partners: SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-o",
-          "articleIds": [
             "a27"
           ],
-          "subCategory": "platform-partner"
-        },
-        {
-          "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-          "articleIds": [
-            "a31"
-          ],
-          "subCategory": "data-center"
+          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
+        "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
+        "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-08T16:30:00.000Z",
+        "fetchedAt": "2026-10-08T16:58:38.225Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+        "id": "a2"
+      },
+      {
+        "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+        "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+        "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+        "source": "TechCrunch",
+        "sourceId": "techcrunch",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-08T13:20:32.000Z",
+        "fetchedAt": "2026-10-08T16:58:35.051Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "platform-partner"
+        ],
+        "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+        "id": "a7"
+      },
       {
         "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
         "url": "https://finance.yahoo.com/video/sequoia-nvidia-back-mecka-ais-180928298.html?.tsrc=rss",
@@ -1187,7 +1086,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T18:09:28.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -1197,7 +1096,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
@@ -1207,7 +1106,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-07T13:13:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
+        "fetchedAt": "2026-10-08T16:58:35.219Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1217,47 +1116,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
-        "id": "a25"
-      },
-      {
-        "title": "Arista Announces Rack-Scale Architectures for Scale-Up and Scale-Out AI Fabrics",
-        "url": "https://finance.yahoo.com/technology/ai/articles/arista-announces-rack-scale-architectures-130000082.html?.tsrc=rss",
-        "description": "SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-out AI infrastructure. Engineered in partnership with leading compute technology companies such as AMD, Arm, Broadcom, d-Matrix, Meta, Microsoft, and Qualcomm, see quotes here, this effort leverages the Ethernet for Scale-up Networks (ESUN) initiative. With this set of platforms, Arista extends Ether",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T13:00:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "SANTA CLARA, Calif., October 07, 2026--Arista Networks (NYSE: ANET), a leader in AI fabric networking, today announced its open Ethernet rack-scale portfolio to power high-density scale-up and scale-out AI infrastructure. Engineered in partnership with leading compute technology companies such as AMD, Arm, Broadcom, d-Matrix, Meta, Microsoft, and Qualcomm, see quotes here, this effort leverages the Ethernet for Scale-up Networks (ESUN) initiative. With this set of platforms, Arista extends Ether",
         "id": "a27"
-      },
-      {
-        "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
-        "url": "https://www.fool.com/investing/2026/10/07/prediction-a-1000-investment-in-qualcomm-today-cou/?.tsrc=rss",
-        "description": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-07T05:20:00.000Z",
-        "fetchedAt": "2026-10-08T09:30:41.299Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-        "id": "a31"
       }
     ]
   },
@@ -21269,6 +21128,892 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 43
+  },
+  "archive-2026-10-09": {
+    "generatedAt": "2026-10-08T16:58:40.503Z",
+    "date": "2026-10-09",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+              "articleIds": [
+                "a22"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+              "articleIds": [
+                "a27"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
+            "url": "https://www.fool.com/coverage/charts/2026/10/07/broadcom-vs-qualcomm-rapid-growth-vs-flat-revenue/?.tsrc=rss",
+            "description": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T17:20:02.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+            "id": "a22"
+          },
+          {
+            "title": "Qualcomm vs. Taiwan Semiconductor Manufacturing: Which Technology Stock Is a Better Buy in 2026?",
+            "url": "https://www.fool.com/coverage/better-buy/2026/10/07/qualcomm-vs-taiwan-semiconductor-manufacturing-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+            "description": "Qualcomm trades at a discount valuation, while Taiwan Semiconductor Manufacturing commands a premium reflecting its foundry dominance and 45% net margin.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T14:40:01.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm trades at a discount valuation, while Taiwan Semiconductor Manufacturing commands a premium reflecting its foundry dominance and 45% net margin.",
+            "id": "a25"
+          },
+          {
+            "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-lags-industry-date-whats-131300857.html?.tsrc=rss",
+            "description": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T13:13:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+            "id": "a27"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "FRAND & Licensing: Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "frand-licensing"
+            },
+            {
+              "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+              "articleIds": [
+                "a29"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Arm Holdings (ARM) Heads To Trial Over Billions In Royalty Payments",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-heads-trial-051146266.html?.tsrc=rss",
+            "description": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T05:11:46.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
+            "id": "a12"
+          },
+          {
+            "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
+            "url": "https://ipfray.com/qualcomm-huawei-disagreement-reflects-inherently-subjective-nature-of-unpacking-complex-license-plus-deals/",
+            "description": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-07T15:09:28.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.225Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
+            "id": "a24"
+          },
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+            "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "source": "Fierce Wireless",
+            "sourceId": "fierce-wireless",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-06T18:45:59.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.836Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "id": "a29"
+          }
+        ]
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "One article today covering Embodied AI & Robotics. Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds techn",
+          "keyTakeaways": [
+            {
+              "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
+              "articleIds": [
+                "a20"
+              ],
+              "subCategory": "embodied-ai-robotics"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
+            "url": "https://finance.yahoo.com/video/sequoia-nvidia-back-mecka-ais-180928298.html?.tsrc=rss",
+            "description": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T18:09:28.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "embodied-ai-robotics",
+            "subLabel": "Embodied AI & Robotics",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
+            "id": "a20"
+          }
+        ]
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 23 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Supply Chain: Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "supply-chain"
+            },
+            {
+              "text": "Customers & Partners: It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs,",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "customers-partners"
+            },
+            {
+              "text": "market-performance: QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUAL",
+              "articleIds": [
+                "a13"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+            "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+            "description": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T16:50:30.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.123Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran, according to reports.",
+            "id": "a1"
+          },
+          {
+            "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
+            "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
+            "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-08T16:30:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.225Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+            "id": "a2"
+          },
+          {
+            "title": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement - Tom's Hardware",
+            "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQcVlvUEJaRDJBY3dPYUtMcDA4bFlDSVFtY0cyaE5iLVdKYkdXUk96WFVvdzBBQ3hEYjhGeDdkTGswWTdrYmFsYmFFd0t2WVhhOWNVTDk1Z0tKTHRzVndzam9zWDh0QU83Mk1OS05kNFJlVGR1eWJLZm14M3NtN0dvZjlDaGdmcFgxVW42VnM0QUk5aEU4b2txa2o0cGNLblhIalpyeURSek96NjYydENxbE5kb2dqT3ZxMUxZWFA5YXpjZTdpaDgxTGE3UXJCWDZZOVgzV3ZLY0JtaXphZVhkT3BVanNQR2VoVUNsZllIZGF1NFVTV2FhQ1JleElHb2J5Z3FnaVY1OFZ0ZUlJcWM2aHk0RkIwbURLRW9INnJlY1FtNzJGU3R3WTIwUlJGaHNUSzV4VUtkYnI5ZVo0RE9WYTBJU3hXR0hsRUV6SzBmSG1DSjhQSFE?oc=5",
+            "description": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T16:24:54.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Tom's Hardware",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Department of War dishes out $1.5 billion loan commitment to boost semiconductor supply chain — Wolfspeed to focus on national security applications as part of 30-year agreement Tom's Hardware",
+            "id": "a3"
+          },
+          {
+            "title": "Inflation on many everyday items was entirely due to tariffs, NY Fed says",
+            "url": "https://www.cnbc.com/2026/10/08/inflation-tariffs-trump-fed-consumer-goods.html",
+            "description": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T15:49:36.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.123Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tariffs added 2.9 percentage points to inflation in 67 categories of goods by February 2026, researchers at the New York Federal Reserve found.",
+            "id": "a4"
+          },
+          {
+            "title": "Europe’s Chips Act 2.0 must start with demand - Teknologiateollisuus ry",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOMlBaRnJUN0xITDJMaUdRRE9mUDR5SEJmMlQydnk0SklEZnBCUnR5THVzVzJlNTZKaHVBNGQ4YzBranRMLUU0a2wzWmtyenB3akh0azAtU2RJakdsTzRDQ0w0X1B4MlV2LWxKVU83NVhnamQtbWx6OEdQRUNkNmRBZWhub09XZG8?oc=5",
+            "description": "Europe’s Chips Act 2.0 must start with demand Teknologiateollisuus ry",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T14:10:51.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Teknologiateollisuus ry",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Europe’s Chips Act 2.0 must start with demand Teknologiateollisuus ry",
+            "id": "a5"
+          },
+          {
+            "title": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” - TIKR.com",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVElrTVV0N1pDSV9sTnZ1ZEliQUl1UkNkZGp1UXVtRFBIejlsN0Z4MThwVzRaSzlkRXRaQzJaOE5fbVdqNTFlMlZMdWhGVk1YeXNJc1QwQUI4REJmWkJRcUlVUGsxZU5qTE9nc0d6NXNFWjZreHQ4NmhIRGlzMm9JbVBVMW1uSlF0dFlpVVY5YzhFNE4wRERJZ3pWbFEyUjF3RjlNQUx6UEdQYmpOYUZPM1ZXZ004WFNqdl9Yc3dpZzJNbms?oc=5",
+            "description": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” TIKR.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T14:06:04.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TIKR.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Wolfspeed Soars 6% on $1.5 Billion Department of War Loan for “Critical National Security Applications” TIKR.com",
+            "id": "a6"
+          },
+          {
+            "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+            "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+            "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-08T13:20:32.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.051Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+            "id": "a7"
+          },
+          {
+            "title": "Uber and China’s Pony.ai plan to launch robotaxis in London",
+            "url": "https://techcrunch.com/2026/10/08/uber-and-chinas-pony-ai-plan-to-launch-robotaxis-in-london/",
+            "description": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-08T12:53:39.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.051Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The two companies said on Thursday that they would begin testing Pony.ai's Gen-7 robotaxis in London in the coming weeks.",
+            "id": "a8"
+          },
+          {
+            "title": "Russia, China hypersonic missile threats fuel need for space defense, satellite CEO says",
+            "url": "https://www.cnbc.com/2026/10/08/space-missile-defense-interceptors-russia-china.html",
+            "description": "Space-based systems could detect and track incoming missile threats and intercept them either from land or space.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T11:04:39.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.123Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Space-based systems could detect and track incoming missile threats and intercept them either from land or space.",
+            "id": "a9"
+          },
+          {
+            "title": "What Everyone Gets Wrong About the Economic Problems in Europe",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-08/the-story-of-europe-s-decline-isn-t-so-simple-video",
+            "description": "It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T08:13:13.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.384Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "It has been two years since the publication of the Draghi report and the problems the report identified about European competitiveness are far from solved: Demographic challenges, rising energy costs, and a lagging tech sector still cast a shadow over Europe. But according to the economist and policy analyst Dominik Leusder (who also writes the Leusder of Last Resort Substack) the Draghi report might have mismeasured the true scale of Europe's issues, and he asks if the popular narrative of European decline is an accurate one. We also speak about whether Europe needs a frontier AI model, why long, wine-soaked lunches are not a good way to measure productivity, and the state of Europe's vexed relationship with China as a trade partner and competitor.",
+            "id": "a10"
+          },
+          {
+            "title": "America shut out Chinese EVs. Britain welcomed them — and now faces a difficult choice",
+            "url": "https://www.cnbc.com/2026/10/08/autos-china-evs-uk-tariffs-hybrid-cars.html",
+            "description": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T05:30:49.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.123Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Britain faces a finely balanced choice over whether to follow the EU in imposing tariffs on Chinese EVs.",
+            "id": "a11"
+          },
+          {
+            "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-qualcomm-qcom-stock-001553155.html?.tsrc=rss",
+            "description": "QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUALCOMM shares have eased in the past week, with a 7 day share price return of down 3.76% and a 90 day move of down 7.32%. This comes even though the 1 year total shareholder return of 7.77% and 3 year total shareholder return of 69.85% point to momentum that has built over a longer stretch as...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T00:15:53.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUALCOMM shares have eased in the past week, with a 7 day share price return of down 3.76% and a 90 day move of down 7.32%. This comes even though the 1 year total shareholder return of 7.77% and 3 year total shareholder return of 69.85% point to momentum that has built over a longer stretch as...",
+            "id": "a13"
+          },
+          {
+            "title": "China races to build data centres in bid for AI supremacy",
+            "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+            "description": "Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-08T00:15:04.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.713Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Beijing is rolling out computing infrastructure at breakneck speed in Inner Mongolia",
+            "id": "a14"
+          },
+          {
+            "title": "Recommendations on the proposal for a Chips Act 2.0 - Teknologiateollisuus ry",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc2toTm1iOEIyQWFSbkRmYk00SzNaVFpaWC1SYVEycHVJaHBVbllIU21YU2k2NEFMMUN3Q0prX3pDU1U0WjlOTDhwdFFYQkFHS3hpNkJzZXEzcWhRZUhRbHdZZGZpWWFManVOSDk3eExvazFCckNZdHNEZXBWRERSTE53Y2VSUmFVZS1QTmRPclY?oc=5",
+            "description": "Recommendations on the proposal for a Chips Act 2.0 Teknologiateollisuus ry",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T22:10:01.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Teknologiateollisuus ry",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Recommendations on the proposal for a Chips Act 2.0 Teknologiateollisuus ry",
+            "id": "a15"
+          },
+          {
+            "title": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNTmhZeDBxeWpDY0RHb29BS3M2bEpkeWwtVDlHRTVWLXJ3ZzZwY0pBOVNHRDAyUmJub3FzNTlWZXlkelZ0LUw3VW02S05rSUk2eWhMUS05bmM3XzBGS0RUTHVKeEVfNmgzM2ZLUGFrYVFueVAzSGY4WmlJRXFjc0NnbEMwV2I2ZGVacDUyaW0tTWI4VG4tQlNDSjZHMTdXa2tXSmI4U3NjR29qaTZ3Q0hWYmFjUkg5bEo5RXU1ZDZhRWdJc3M?oc=5",
+            "description": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T20:07:43.000Z",
+            "fetchedAt": "2026-10-08T16:58:39.287Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit Reuters",
+            "id": "a16"
+          },
+          {
+            "title": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency - National Security Journal",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxOZDRjWkMxeUpNd3ZfVk0yZnlnSU5fd0RYTnBZd3l0Q2s0ZTQyZGwzWlpDRFFTZ0dhay13YnpKSm91THlKenI2bmVlcFZldW9zVFZMdGpBcDFCN3owUEViUFlYWHcyelloLW9wbXIyRDJabk5mUDY2QllidEVWc0dPTTdPQTRIV2F1dU95aG9fNUtLc0g2OGs0YTlORFl2U0xSNWF2cEk3dDJxQndJVGNRa1FYTE9aakgwWElRZGdVMlZoRkZOR0RpaTFwQjdSTlRpUUV4RmlpYjBKa3JQ?oc=5",
+            "description": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency National Security Journal",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T20:04:08.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "National Security Journal",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency National Security Journal",
+            "id": "a17"
+          },
+          {
+            "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
+            "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T19:43:58.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Stocktwits",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+            "id": "a18"
+          },
+          {
+            "title": "US issues first outbound investment fine over Chinese robotics AI deal - South China Morning Post",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd01kSV85N0o3MDFlbThLT3hReUdWaUFjdkRDcEE5X1FkWEk0UHlXTnhFcElrRWpKRzJtNkZsUU5SQi1uNEZXVHhWeW9EN0czNHpQNWNFeXpld1ZrZnI3NkhUREhHMndwbWZ1THdNdHhHZ3JRcVZzZ3dyc2lxY0x4VGNVTU1rX3VuMmhJVkNQald2UkFIOENYbl8zYzJWRWlsQVlwN05RQUFkazFfeXdqVkdRYVBRODBpWjhYcGtSRlhqNUx6NGVR0gHHAUFVX3lxTFBCNGo2WVBWc2l0LWhwRDdCOHN3NXJXSnBjNEFuelJyOUJwdTNLdndjMnIwVjFZeE03dVJTd2pxOHBoWHZ5SmxEZVdvMF84QzNyb0x3NkR4N1hNWFpjSHo3X3BNYkRYSmpxdDhJMWhKVDVBRW51ZDBZdmFfZXRPaFNxMXVWZ3UwNVpTSTlYQ185dzRGYmR6b0lNZ3VuaGxRRVNlNkYwTG5NZ1NiVElGUHBGZFlGVmpRR0tGOGtvMzUzUk5YUlZ2aTQ?oc=5",
+            "description": "US issues first outbound investment fine over Chinese robotics AI deal South China Morning Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T19:27:59.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "South China Morning Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US issues first outbound investment fine over Chinese robotics AI deal South China Morning Post",
+            "id": "a19"
+          },
+          {
+            "title": "How US Export Controls Left $70,000,000,000 On The Table For Huawei - The Daily Caller",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNclJrNXdxcmNkWHh5bzQ2aU5aam5McW1tX3BmSWJlVzZaM2VjVnRweWVhNDFaclhKdll2NzhvRmJtek81Z0ppQU5yTGNjTXVGbDYwS0VNcjF3OE43dTVwaVFNVG5fYW9PbVJzM1B0LVZSU0pVVFk2LUpQbHUzWk5vMDVUU284TmRPWnVsVA?oc=5",
+            "description": "How US Export Controls Left $70,000,000,000 On The Table For Huawei The Daily Caller",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T17:30:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:40.450Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Daily Caller",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "How US Export Controls Left $70,000,000,000 On The Table For Huawei The Daily Caller",
+            "id": "a21"
+          },
+          {
+            "title": "Processors and Graphics Chips Stocks Q2 Results: Benchmarking Qualcomm (NASDAQ:QCOM)",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/processors-graphics-chips-stocks-q2-170447975.html?.tsrc=rss",
+            "description": "The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how processors and graphics chips stocks fared in Q2, starting with Qualcomm (NASDAQ:QCOM).",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T17:04:47.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how processors and graphics chips stocks fared in Q2, starting with Qualcomm (NASDAQ:QCOM).",
+            "id": "a23"
+          },
+          {
+            "title": "Qualcomm Government Technologies and OKSI Announce Collaboration to Deploy OMNISCIENCE Autonomy Software Portfolio",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-government-technologies-oksi-announce-140700097.html?.tsrc=rss",
+            "description": "LOS ANGELES, October 07, 2026--OKSI and Qualcomm Government Technologies, Inc. (QGOV), a division of Qualcomm Technologies, Inc., today announced a collaboration to deploy OKSI's OMNISCIENCETM autonomy software portfolio on Qualcomm technologies. OMNISCIENCE delivers AI/ML-enabled capabilities through computer vision — including visual navigation, object detection and recognition, mission execution and more — purpose-built to bring autonomy to unmanned platforms operating in complex, communicati",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T14:07:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "LOS ANGELES, October 07, 2026--OKSI and Qualcomm Government Technologies, Inc. (QGOV), a division of Qualcomm Technologies, Inc., today announced a collaboration to deploy OKSI's OMNISCIENCETM autonomy software portfolio on Qualcomm technologies. OMNISCIENCE delivers AI/ML-enabled capabilities through computer vision — including visual navigation, object detection and recognition, mission execution and more — purpose-built to bring autonomy to unmanned platforms operating in complex, communicati",
+            "id": "a26"
+          },
+          {
+            "title": "Hisense opens China front in InterDigital patent battle",
+            "url": "https://www.iam-media.com/index.php/article/hisense-opens-china-front-in-interdigital-patent-battle",
+            "description": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-07T07:32:21.000Z",
+            "fetchedAt": "2026-10-08T16:58:36.993Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
+            "id": "a28"
+          },
+          {
+            "title": "InCoax shifts to direct sales amid changes in Nokia relationship",
+            "url": "https://www.lightreading.com/cable-technology/incoax-shifts-to-direct-sales-amid-changes-in-nokia-relationship",
+            "description": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-05T17:13:13.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.593Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
+            "id": "a30"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "FRAND & Licensing: Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal withou",
+              "articleIds": [
+                "a24"
+              ],
+              "subCategory": "frand-licensing"
+            },
+            {
+              "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+              "articleIds": [
+                "a29"
+              ],
+              "subCategory": "ip"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
+            "url": "https://ipfray.com/qualcomm-huawei-disagreement-reflects-inherently-subjective-nature-of-unpacking-complex-license-plus-deals/",
+            "description": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-07T15:09:28.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.225Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "frand-licensing",
+            "subLabel": "FRAND & Licensing",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
+            "id": "a24"
+          },
+          {
+            "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
+            "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
+            "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "source": "Fierce Wireless",
+            "sourceId": "fierce-wireless",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-06T18:45:59.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.836Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "ip",
+            "subLabel": "IP / Intellectual Property",
+            "competitors": [
+              "huawei"
+            ],
+            "stakeholders": [],
+            "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
+            "id": "a29"
+          }
+        ]
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-08T16:58:40.483Z",
+        "date": "2026-10-09",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Embodied AI & Robotics (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corpora",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
+              "articleIds": [
+                "a20"
+              ],
+              "subCategory": "embodied-ai-robotics"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+              "articleIds": [
+                "a27"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
+            "url": "https://ipfray.com/oppo-nidec-have-taken-qi-wireless-power-patent-pool-license-via-announces-during-ai-licensing-focused-summit/",
+            "description": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-08T16:30:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:38.225Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
+            "id": "a2"
+          },
+          {
+            "title": "China’s Manus raises over $500M in first funding round since split with Meta",
+            "url": "https://techcrunch.com/2026/10/08/chinas-manus-raises-over-500m-in-first-funding-round-since-split-with-meta/",
+            "description": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-08T13:20:32.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.051Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Boyu Capital and IDG Capital led the funding round, and existing shareholders Tencent, HSG (formerly known as Sequoia China), ZhenFund, and others also participated.",
+            "id": "a7"
+          },
+          {
+            "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
+            "url": "https://finance.yahoo.com/video/sequoia-nvidia-back-mecka-ais-180928298.html?.tsrc=rss",
+            "description": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T18:09:28.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "embodied-ai-robotics",
+            "subLabel": "Embodied AI & Robotics",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
+            "id": "a20"
+          },
+          {
+            "title": "QCOM Lags Industry Year to Date: What's the Next Move for Investors?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-lags-industry-date-whats-131300857.html?.tsrc=rss",
+            "description": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-07T13:13:00.000Z",
+            "fetchedAt": "2026-10-08T16:58:35.219Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm faces handset weakness, a faster Apple revenue drop and margin pressure, while its data-center push remains unproven amid competition.",
+            "id": "a27"
+          }
+        ]
+      }
+    },
+    "totalArticles": 36
   }
 };
 

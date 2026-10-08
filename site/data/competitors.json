@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-08T09:30:51.741Z",
-  "date": "2026-10-08",
+  "generatedAt": "2026-10-08T16:58:40.483Z",
+  "date": "2026-10-09",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (4 articles), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "FRAND & Licensing: Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal withou",
         "articleIds": [
-          "a21"
+          "a24"
         ],
         "subCategory": "frand-licensing"
       },
       {
-        "text": "IP / Intellectual Property: The companies will have access to each other's patent portfolios.",
+        "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
         "articleIds": [
-          "a26"
+          "a29"
         ],
         "subCategory": "ip"
       }
@@ -31,7 +31,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-08T09:30:48.968Z",
+      "fetchedAt": "2026-10-08T16:58:38.225Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -41,27 +41,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a21"
-    },
-    {
-      "title": "Why Investors Are Celebrating Qualcomm Striking a Licensing Deal with Huawei — Which Is Still on the Entity List",
-      "url": "https://www.barchart.com/story/news/5005843/why-investors-are-celebrating-qualcomm-striking-a-licensing-deal-with-huawei-which-is-still-on-the-entity-list?.tsrc=rss",
-      "description": "The companies will have access to each other's patent portfolios.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-07T13:00:58.000Z",
-      "fetchedAt": "2026-10-08T09:30:41.299Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "The companies will have access to each other's patent portfolios.",
-      "id": "a26"
+      "id": "a24"
     },
     {
       "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -71,7 +51,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-06T18:45:59.000Z",
-      "fetchedAt": "2026-10-08T09:30:50.311Z",
+      "fetchedAt": "2026-10-08T16:58:38.836Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -81,47 +61,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "id": "a32"
-    },
-    {
-      "title": "Huawei, Qualcomm agree to broad patent license deal",
-      "url": "https://www.lightreading.com/5g/huawei-qualcomm-agree-to-broad-patent-license-deal",
-      "description": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-05T15:05:16.000Z",
-      "fetchedAt": "2026-10-08T09:30:48.978Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "Huawei and Qualcomm agree to multi-year deal to license their patent portfolios across 5G, compute, AI and networking.",
-      "id": "a34"
-    },
-    {
-      "title": "Qualcomm, Huawei reach patent accord",
-      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-huawei-reach-patent-accord/",
-      "description": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-05T11:17:51.000Z",
-      "fetchedAt": "2026-10-08T09:30:50.131Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "Qualcomm reached a second patent licensing deal in just under a fortnight through an agreement with Huawei which involves acquiring some of the Chinese vendor’s US-registered technologies. The post Qualcomm, Huawei reach patent accord appeared first on Mobile World Live.",
-      "id": "a35"
+      "id": "a29"
     }
   ]
 }
