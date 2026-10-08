@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-10-08T16:58:40.503Z",
+  "generatedAt": "2026-10-08T22:30:08.787Z",
   "date": "2026-10-09",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 3,
+      "articleCount": 1,
       "topHeadline": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
-      "topHeadlineId": "a22",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a17",
+      "briefingSummary": "One article today covering Semiconductors. Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconduct"
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 3,
       "topHeadline": "Arm Holdings (ARM) Heads To Trial Over Billions In Royalty Payments",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a13",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
-      "topHeadlineId": "a20",
+      "topHeadlineId": "a16",
       "briefingSummary": "One article today covering Embodied AI & Robotics. Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds techn"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 23,
-      "topHeadline": "Oil prices jump as Iran steps up tanker attacks, hurricane threatens U.S. Gulf production",
+      "articleCount": 15,
+      "topHeadline": "Pentagon unveils US$350 million quantum computing push as China rivalry grows - South China Morning Post",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 23 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 2,
       "topHeadline": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
-      "topHeadlineId": "a24",
+      "topHeadlineId": "a18",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
+      "articleCount": 2,
       "topHeadline": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Embodied AI & Robotics (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a9",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Embodied AI & Robotics (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 36
+  "totalArticles": 24
 }

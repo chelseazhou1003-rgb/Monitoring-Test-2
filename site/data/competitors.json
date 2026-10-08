@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:58:40.483Z",
+  "generatedAt": "2026-10-08T22:30:08.784Z",
   "date": "2026-10-09",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,14 +9,14 @@
       {
         "text": "FRAND & Licensing: Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal withou",
         "articleIds": [
-          "a24"
+          "a18"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
         "articleIds": [
-          "a29"
+          "a20"
         ],
         "subCategory": "ip"
       }
@@ -31,7 +31,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-08T16:58:38.225Z",
+      "fetchedAt": "2026-10-08T22:30:06.639Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -41,7 +41,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a24"
+      "id": "a18"
     },
     {
       "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -51,7 +51,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-06T18:45:59.000Z",
-      "fetchedAt": "2026-10-08T16:58:38.836Z",
+      "fetchedAt": "2026-10-08T22:30:07.269Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -61,7 +61,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "id": "a29"
+      "id": "a20"
     }
   ]
 }

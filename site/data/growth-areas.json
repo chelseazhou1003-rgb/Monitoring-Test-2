@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-08T16:58:40.483Z",
+  "generatedAt": "2026-10-08T22:30:08.784Z",
   "date": "2026-10-09",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
         "articleIds": [
-          "a20"
+          "a16"
         ],
         "subCategory": "embodied-ai-robotics"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T18:09:28.000Z",
-      "fetchedAt": "2026-10-08T16:58:35.219Z",
+      "fetchedAt": "2026-10-08T22:30:02.643Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
-      "id": "a20"
+      "id": "a16"
     }
   ]
 }
