@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-07T22:17:19.325Z",
+  "generatedAt": "2026-10-08T02:17:43.245Z",
   "date": "2026-10-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,14 +9,14 @@
       {
         "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
         "articleIds": [
-          "a8"
+          "a12"
         ],
         "subCategory": "embodied-ai-robotics"
       },
       {
         "text": "Data Center: Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
         "articleIds": [
-          "a23"
+          "a28"
         ],
         "subCategory": "data-center"
       }
@@ -31,7 +31,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T18:06:08.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "fetchedAt": "2026-10-08T02:17:36.820Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",
@@ -41,7 +41,7 @@
         "platform-partner"
       ],
       "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft’s M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "id": "a8"
+      "id": "a12"
     },
     {
       "title": "Prediction: A $1,000 Investment in Qualcomm Today Could Be Worth This Much by 2030 as AI Moves to the Edge",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T05:20:00.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchedAt": "2026-10-08T02:17:36.587Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -61,7 +61,7 @@
         "oem"
       ],
       "summary": "Qualcomm locked in two major AI data center customers and a renewed Apple deal this fall, and the stock hasn't fully priced it in yet.",
-      "id": "a23"
+      "id": "a28"
     },
     {
       "title": "Qualcomm's AI Infrastructure Pivot Is Underappreciated",
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-06T19:04:00.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchedAt": "2026-10-08T02:17:36.587Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -79,7 +79,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As the tech company's AI data center product sales start to heat up, it looks like a candidate to outperform the S&P 500.",
-      "id": "a25"
+      "id": "a29"
     }
   ]
 }

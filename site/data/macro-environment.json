@@ -1,42 +1,117 @@
 {
-  "generatedAt": "2026-10-07T22:17:19.325Z",
+  "generatedAt": "2026-10-08T02:17:43.245Z",
   "date": "2026-10-08",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), Supply Chain (2 articles), Customers & Partners (2 articles). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (3 articles), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in ",
+        "text": "Geopolitics & Export Controls: President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Supply Chain: Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+        "text": "market-performance: QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUAL",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "supply-chain"
-      },
-      {
-        "text": "market-performance: The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how processors and graphics chips stocks fared in Q2, starting with Q",
-        "articleIds": [
-          "a10"
+          "a2"
         ],
         "subCategory": "market-performance"
       },
       {
+        "text": "Supply Chain: Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "supply-chain"
+      },
+      {
         "text": "Customers & Partners: LOS ANGELES, October 07, 2026--OKSI and Qualcomm Government Technologies, Inc. (QGOV), a division of Qualcomm Technologies, Inc., today announced a collaboration to deploy OKSI's OMNISCIENCETM autonom",
         "articleIds": [
-          "a14"
+          "a19"
         ],
         "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Oil gains as Middle East hostilities stoke supply worries",
+      "url": "https://www.cnbc.com/2026/10/08/oil-prices-today-brent-wti-hormuz.html",
+      "description": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-08T01:46:56.000Z",
+      "fetchedAt": "2026-10-08T02:17:36.493Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "President Donald Trump and his national security team have talked about possibly restarting large-scale U.S. military operations in Iran in the coming weeks, NBC News reported.",
+      "id": "a1"
+    },
+    {
+      "title": "Why Did QUALCOMM (QCOM) Stock Drop After Its Latest Update?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-did-qualcomm-qcom-stock-001553155.html?.tsrc=rss",
+      "description": "QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUALCOMM shares have eased in the past week, with a 7 day share price return of down 3.76% and a 90 day move of down 7.32%. This comes even though the 1 year total shareholder return of 7.77% and 3 year total shareholder return of 69.85% point to momentum that has built over a longer stretch as...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-08T00:15:53.000Z",
+      "fetchedAt": "2026-10-08T02:17:36.587Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QUALCOMM (QCOM) has put a fresh US$4.60b shelf registration in place for up to 25,000,000 common shares. This gives the chip designer extra flexibility to tap equity markets as conditions evolve. QUALCOMM shares have eased in the past week, with a 7 day share price return of down 3.76% and a 90 day move of down 7.32%. This comes even though the 1 year total shareholder return of 7.77% and 3 year total shareholder return of 69.85% point to momentum that has built over a longer stretch as...",
+      "id": "a2"
+    },
+    {
+      "title": "China races to build AI data centres across energy-rich hinterland",
+      "url": "https://www.ft.com/content/e1dd8bff-b06d-4a40-bbb7-c0a6a36f1c8e?syn-25a6b1a6=1",
+      "description": "In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-08T00:15:04.000Z",
+      "fetchedAt": "2026-10-08T02:17:37.281Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "In the first report of a three-part series, how Inner Mongolia became the engine room for the nation’s vast AI ambition",
+      "id": "a3"
+    },
+    {
+      "title": "China Stocks Fluctuate as Investors Assess Holiday Spending Data",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-07/china-s-weak-holiday-spending-casts-shadow-as-markets-reopen",
+      "description": "Chinese shares fluctuated after returning from a week-long break, as investors weighed sluggish holiday spending against lingering hopes for fresh economic stimulus.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T23:41:18.000Z",
+      "fetchedAt": "2026-10-08T02:17:36.820Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Chinese shares fluctuated after returning from a week-long break, as investors weighed sluggish holiday spending against lingering hopes for fresh economic stimulus.",
+      "id": "a4"
+    },
     {
       "title": "BMW’s iX4 SUV is a 428-mile defensive weapon against China’s EV takeover",
       "url": "https://www.theverge.com/transportation/1006837/bmw-ix4-ev-range-price-specs-tesla-china",
@@ -45,7 +120,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-07T22:01:00.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.885Z",
+      "fetchedAt": "2026-10-08T02:17:37.398Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -54,7 +129,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "While much of the automotive world sits dumbfounded as China gobbles up all its customers, BMW continues to roll out extremely well-crafted, technologically advanced electric vehicles that impress in both drive quality and price. The latest is the BMW iX4, a coupe-shaped SUV that puts a sportier spin on the automaker's iX3. The iX4 is the third vehicle to be released on BMW's next-generation Neue Klasse platform, following the iX3 and i3 models. The iX4 50 xDrive will come first in March 2027, followed by an even more high-performance M60 xDrive version later in the year. The automaker is positioning this new lineup as its bulwark against t … Read the full story at The Verge.",
-      "id": "a1"
+      "id": "a5"
     },
     {
       "title": "Levi Strauss hikes profit guidance after tariff refunds, but its sales outlook is less optimistic",
@@ -64,7 +139,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T21:31:40.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.171Z",
+      "fetchedAt": "2026-10-08T02:17:36.493Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -73,7 +148,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Levi Strauss on Wednesday posted earnings that beat expectations, though it saw benefits from tariff refunds.",
-      "id": "a2"
+      "id": "a6"
     },
     {
       "title": "US Agrees to Loan for Chipmaker That Went Bankrupt Last Year",
@@ -83,7 +158,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T20:59:55.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "fetchedAt": "2026-10-08T02:17:36.820Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -92,7 +167,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The US Defense Department pledged to issue a conditional loan to Wolfspeed Inc., the chipmaker that filed for bankruptcy last year, for as much as $1.5 billion to support the development of materials that the firm described as key to national security.",
-      "id": "a3"
+      "id": "a7"
     },
     {
       "title": "Supertanker chartered from Gulf Coast to China for $76 million, 10 times higher than pre-war level",
@@ -102,7 +177,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T20:33:34.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.171Z",
+      "fetchedAt": "2026-10-08T02:17:36.493Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -111,7 +186,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Shipping costs have exploded as the war in the Persian Gulf has led to a shortage of available tankers.",
-      "id": "a4"
+      "id": "a8"
     },
     {
       "title": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit - Reuters",
@@ -121,7 +196,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T20:07:43.000Z",
-      "fetchedAt": "2026-10-07T22:17:18.037Z",
+      "fetchedAt": "2026-10-08T02:17:41.941Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "geopoliticalBypass": true,
@@ -131,7 +206,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "FIFA says unpaid court sanction over alleged AI misuse justifies tossing antitrust lawsuit Reuters",
-      "id": "a5"
+      "id": "a9"
     },
     {
       "title": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency - National Security Journal",
@@ -141,7 +216,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T20:04:08.000Z",
-      "fetchedAt": "2026-10-07T22:17:19.275Z",
+      "fetchedAt": "2026-10-08T02:17:43.200Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "National Security Journal",
       "geopoliticalBypass": true,
@@ -151,7 +226,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Donald Trump Just Gave Democrats the Playbook To Chip Away at What Is Left of His Crash and Burn Presidency National Security Journal",
-      "id": "a6"
+      "id": "a10"
     },
     {
       "title": "UPS Worker Missed Email, Letting China Get F-35 Parts",
@@ -161,7 +236,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T19:17:08.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "fetchedAt": "2026-10-08T02:17:36.820Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -170,7 +245,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China managed to get a hold of parts from an F-35 stealth fighter jet after a United Parcel Service Inc. employee missed an email warning not to route the shipment through Hong Kong, according to a person briefed on the incident.",
-      "id": "a7"
+      "id": "a11"
+    },
+    {
+      "title": "How US Export Controls Left $70,000,000,000 On The Table For Huawei - The Daily Caller",
+      "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNclJrNXdxcmNkWHh5bzQ2aU5aam5McW1tX3BmSWJlVzZaM2VjVnRweWVhNDFaclhKdll2NzhvRmJtek81Z0ppQU5yTGNjTXVGbDYwS0VNcjF3OE43dTVwaVFNVG5fYW9PbVJzM1B0LVZSU0pVVFk2LUpQbHUzWk5vMDVUU284TmRPWnVsVA?oc=5",
+      "description": "How US Export Controls Left $70,000,000,000 On The Table For Huawei The Daily Caller",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-07T17:30:00.000Z",
+      "fetchedAt": "2026-10-08T02:17:43.200Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Daily Caller",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "How US Export Controls Left $70,000,000,000 On The Table For Huawei The Daily Caller",
+      "id": "a13"
     },
     {
       "title": "Processors and Graphics Chips Stocks Q2 Results: Benchmarking Qualcomm (NASDAQ:QCOM)",
@@ -180,7 +275,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T17:04:47.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchedAt": "2026-10-08T02:17:36.587Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -188,26 +283,28 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The end of the earnings season is always a good time to take a step back and see who shined (and who didn’t). Let’s take a look at how processors and graphics chips stocks fared in Q2, starting with Qualcomm (NASDAQ:QCOM).",
-      "id": "a10"
+      "id": "a15"
     },
     {
-      "title": "Alibaba’s Joe Tsai Says Open Source Is Europe’s Best Shot at AI",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-07/alibaba-s-joe-tsai-says-open-source-is-europe-s-best-shot-at-ai",
-      "description": "Alibaba Group Holding Ltd. Chairman Joe Tsai said open-source artificial intelligence is Europe’s best route to technological independence from the US and China, and urged the region to build out its own computing infrastructure to train and run AI models.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "China slaps down EU request for voluntary curbs on hybrid car exports",
+      "url": "https://www.ft.com/content/32e1c801-fe7d-4389-b3fc-ab687cbb087b?syn-25a6b1a6=1",
+      "description": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
+      "source": "Financial Times",
+      "sourceId": "ft",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-07T16:09:40.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.439Z",
+      "publishedAt": "2026-10-07T16:56:00.000Z",
+      "fetchedAt": "2026-10-08T02:17:37.281Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
-      "stakeholders": [],
-      "summary": "Alibaba Group Holding Ltd. Chairman Joe Tsai said open-source artificial intelligence is Europe’s best route to technological independence from the US and China, and urged the region to build out its own computing infrastructure to train and run AI models.",
-      "id": "a11"
+      "stakeholders": [
+        "regulators"
+      ],
+      "summary": "European Commission now considering temporary limits to control surging shipments that could trigger serious trade conflict",
+      "id": "a16"
     },
     {
       "title": "Qualcomm Government Technologies and OKSI Announce Collaboration to Deploy OMNISCIENCE Autonomy Software Portfolio",
@@ -217,7 +314,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T14:07:00.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.434Z",
+      "fetchedAt": "2026-10-08T02:17:36.587Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -225,7 +322,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "LOS ANGELES, October 07, 2026--OKSI and Qualcomm Government Technologies, Inc. (QGOV), a division of Qualcomm Technologies, Inc., today announced a collaboration to deploy OKSI's OMNISCIENCETM autonomy software portfolio on Qualcomm technologies. OMNISCIENCE delivers AI/ML-enabled capabilities through computer vision — including visual navigation, object detection and recognition, mission execution and more — purpose-built to bring autonomy to unmanned platforms operating in complex, communicati",
-      "id": "a14"
+      "id": "a19"
     },
     {
       "title": "Trading platform Webull's China ties create national security risk, congressional panel finds; stock drops 18%",
@@ -235,7 +332,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T13:46:28.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.171Z",
+      "fetchedAt": "2026-10-08T02:17:36.493Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -244,7 +341,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A congressional committee says trading platform Webull is not the ordinary U.S. company it claims, but exposes customer data to Chinese surveillance risk.",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "Taiwan indicts 10 for alleged resale of US chips to China - The Straits Times",
@@ -254,7 +351,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-07T09:20:00.000Z",
-      "fetchedAt": "2026-10-07T22:17:19.275Z",
+      "fetchedAt": "2026-10-08T02:17:43.200Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Straits Times",
       "geopoliticalBypass": true,
@@ -264,7 +361,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Taiwan indicts 10 for alleged resale of US chips to China The Straits Times",
-      "id": "a21"
+      "id": "a26"
     },
     {
       "title": "Hisense opens China front in InterDigital patent battle",
@@ -274,7 +371,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T07:32:21.000Z",
-      "fetchedAt": "2026-10-07T22:17:15.598Z",
+      "fetchedAt": "2026-10-08T02:17:39.543Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -283,44 +380,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
-      "id": "a22"
-    },
-    {
-      "title": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion - Supply Chain Digital",
-      "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9TZ2pQSkUwbF8xemFCY091UDBUTzRnQTJzbXdwWGNab3lfTXloMHlDRjR1dWJZSTJZTmc1ckpMaF8tLWctMzZVcTRMNFBmcU9ZRlFRdFByRklGcWgtNGpselBn?oc=5",
-      "description": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-07T00:17:51.000Z",
-      "fetchedAt": "2026-10-07T22:17:19.275Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Supply Chain Digital",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "supply-chain",
-      "subLabel": "Supply Chain",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "US Advanced Semiconductor Packaging Market - Size, Strategic Insights, and Forecasts, 2026-2031 | AI, 5G, CHIPS Act, and Reshoring Drive Growth to USD 11.7 Billion Supply Chain Digital",
-      "id": "a24"
-    },
-    {
-      "title": "What Should Qualcomm Stock Investors Be Watching Now?",
-      "url": "https://www.trefis.com/articles/617670/what-should-qualcomm-stock-investors-be-watching-now/2026-10-06?.tsrc=rss",
-      "description": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-06T17:33:07.000Z",
-      "fetchedAt": "2026-10-07T22:17:13.434Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) stock has returned 45% over the past six months, against 18.2% for the S&P 500. If you own it after a run like that, your worry is what could interrupt it. Sales fell 4.0% from a year earlier in the latest quarter. On top of that, management has warned that one large customer is buying less. Which customer is it, and how quickly is it pulling back.",
       "id": "a27"
     },
     {
@@ -331,7 +390,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-05T17:13:13.000Z",
-      "fetchedAt": "2026-10-07T22:17:17.422Z",
+      "fetchedAt": "2026-10-08T02:17:41.376Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -340,7 +399,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "InCoax said it is moving to a direct sales model to approach customers that were previously subject to 'contractual restrictions.' The move also comes amid a change in InCoax's sales relationship with Nokia.",
-      "id": "a30"
+      "id": "a31"
     }
   ]
 }
