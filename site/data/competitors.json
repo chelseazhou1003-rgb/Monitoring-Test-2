@@ -1,31 +1,24 @@
 {
-  "generatedAt": "2026-10-09T09:39:52.114Z",
-  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "date": "2026-10-10",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Wireless Communication (1 article), IP / Intellectual Property (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Wireless Communication (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Wireless Communication: Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
         "articleIds": [
-          "a9"
+          "a17"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
         "articleIds": [
-          "a12"
+          "a20"
         ],
         "subCategory": "frand-licensing"
-      },
-      {
-        "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-        "articleIds": [
-          "a30"
-        ],
-        "subCategory": "ip"
       }
     ]
   },
@@ -38,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T03:42:26.000Z",
-      "fetchedAt": "2026-10-09T09:39:52.089Z",
+      "fetchedAt": "2026-10-09T16:37:59.924Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "section": "core-businesses",
@@ -49,7 +42,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
-      "id": "a9"
+      "id": "a17"
     },
     {
       "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
@@ -59,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-09T09:39:45.763Z",
+      "fetchedAt": "2026-10-09T16:37:52.390Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -69,7 +62,7 @@
       ],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-      "id": "a12"
+      "id": "a20"
     },
     {
       "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
@@ -79,7 +72,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-09T09:39:50.224Z",
+      "fetchedAt": "2026-10-09T16:37:57.419Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -90,26 +83,6 @@
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
       "id": "a28"
-    },
-    {
-      "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
-      "url": "https://www.fierce-network.com/sponsored/huawei-and-qualcomm-announce-broad-patent-license-agreement",
-      "description": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "source": "Fierce Wireless",
-      "sourceId": "fierce-wireless",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-06T18:45:59.000Z",
-      "fetchedAt": "2026-10-09T09:39:50.517Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "ip",
-      "subLabel": "IP / Intellectual Property",
-      "competitors": [
-        "huawei"
-      ],
-      "stakeholders": [],
-      "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "id": "a30"
     }
   ]
 }

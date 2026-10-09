@@ -1,35 +1,55 @@
 {
-  "generatedAt": "2026-10-09T09:39:52.114Z",
-  "date": "2026-10-09",
+  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "date": "2026-10-10",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Wireless Communication (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
         "articleIds": [
-          "a1"
+          "a11"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
         "articleIds": [
-          "a9"
+          "a17"
         ],
         "subCategory": "wireless"
-      },
-      {
-        "text": "Semiconductors: The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
-        "articleIds": [
-          "a11"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
+      "url": "https://247wallst.com/investing/2026/10/09/apple-drops-3-on-reported-iphone-18-pro-component-order-cuts-skyworks-slips-qualcomm-treads-water/?.tsrc=rss",
+      "description": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T13:31:32.000Z",
+      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
+      "id": "a5"
+    },
     {
       "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
       "url": "https://finance.yahoo.com/technology/articles/tejas-networks-qualcomm-jointly-demonstrate-092700196.html?.tsrc=rss",
@@ -38,7 +58,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:27:00.000Z",
-      "fetchedAt": "2026-10-09T09:39:45.763Z",
+      "fetchedAt": "2026-10-09T16:37:52.390Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -46,7 +66,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-      "id": "a1"
+      "id": "a11"
     },
     {
       "title": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI - Startup Fortune",
@@ -56,7 +76,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T03:42:26.000Z",
-      "fetchedAt": "2026-10-09T09:39:52.089Z",
+      "fetchedAt": "2026-10-09T16:37:59.924Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "section": "core-businesses",
@@ -67,26 +87,26 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
-      "id": "a9"
+      "id": "a17"
     },
     {
-      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - eu.36kr.com",
+      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - 36Kr",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTDJfOXRNcl9QVXJiUlBPUl9oem11U2poSkw2RVh6RHpJd3VGa0tmUUJBRTlINW9zcFdjVW1UdHc0OW5lX1NYUmV6dE1rNGwtQU1V?oc=5",
-      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. eu.36kr.com",
+      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. 36Kr",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T00:33:10.000Z",
-      "fetchedAt": "2026-10-09T09:39:52.089Z",
+      "fetchedAt": "2026-10-09T16:37:59.924Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "eu.36kr.com",
+      "googleNewsSource": "36Kr",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
       "summary": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
-      "id": "a11"
+      "id": "a19"
     }
   ]
 }
