@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:35:23.457Z",
+  "generatedAt": "2026-10-09T09:39:52.114Z",
   "date": "2026-10-09",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corpora",
         "articleIds": [
-          "a15"
+          "a22"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-09T02:35:21.693Z",
+      "fetchedAt": "2026-10-09T09:39:50.224Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a15"
+      "id": "a22"
     }
   ]
 }

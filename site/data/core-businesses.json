@@ -1,15 +1,29 @@
 {
-  "generatedAt": "2026-10-09T02:35:23.457Z",
+  "generatedAt": "2026-10-09T09:39:52.114Z",
   "date": "2026-10-09",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "One article today covering Semiconductors. The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Wireless Communication (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Wireless Communication: Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "wireless"
+      },
       {
         "text": "Semiconductors: The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
         "articleIds": [
-          "a2"
+          "a11"
         ],
         "subCategory": "semiconductors"
       }
@@ -17,23 +31,62 @@
   },
   "articles": [
     {
-      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - 36 Kr",
+      "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
+      "url": "https://finance.yahoo.com/technology/articles/tejas-networks-qualcomm-jointly-demonstrate-092700196.html?.tsrc=rss",
+      "description": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T09:27:00.000Z",
+      "fetchedAt": "2026-10-09T09:39:45.763Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
+      "id": "a1"
+    },
+    {
+      "title": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI - Startup Fortune",
+      "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOHhRRy1MZU85dGlKdDFWYS03Z1ZNMkl0MU50LUZWNm9Xc2V0TkNMYVV2anhMajR6UEdhQnFFcjV1clJJNkxRQ29ZOVJrdXdzUnd6bVlxV2sxbzlqT29LbkpYakJhd29QLTVKTkFiVkZSdXNhS2UwQXhUUjlWTnJjOTdnUFM4TDQ3WnpaaWlzbl9jUnM?oc=5",
+      "description": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T03:42:26.000Z",
+      "fetchedAt": "2026-10-09T09:39:52.089Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Startup Fortune",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [
+        "huawei"
+      ],
+      "stakeholders": [],
+      "summary": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
+      "id": "a9"
+    },
+    {
+      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - eu.36kr.com",
       "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTDJfOXRNcl9QVXJiUlBPUl9oem11U2poSkw2RVh6RHpJd3VGa0tmUUJBRTlINW9zcFdjVW1UdHc0OW5lX1NYUmV6dE1rNGwtQU1V?oc=5",
-      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. 36 Kr",
+      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. eu.36kr.com",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T00:33:10.000Z",
-      "fetchedAt": "2026-10-09T02:35:23.419Z",
+      "fetchedAt": "2026-10-09T09:39:52.089Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "36 Kr",
+      "googleNewsSource": "eu.36kr.com",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
       "summary": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
-      "id": "a2"
+      "id": "a11"
     }
   ]
 }

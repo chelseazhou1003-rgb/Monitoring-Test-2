@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T02:35:23.457Z",
+  "generatedAt": "2026-10-09T09:39:52.114Z",
   "date": "2026-10-09",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,14 +9,14 @@
       {
         "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
         "articleIds": [
-          "a3"
+          "a12"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "IP / Intellectual Property: Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
         "articleIds": [
-          "a23"
+          "a30"
         ],
         "subCategory": "ip"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-09T02:35:17.047Z",
+      "fetchedAt": "2026-10-09T09:39:45.763Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -41,7 +41,7 @@
       ],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-      "id": "a3"
+      "id": "a12"
     },
     {
       "title": "Arm Holdings (ARM) Heads To Trial Over Billions In Royalty Payments",
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T05:11:46.000Z",
-      "fetchedAt": "2026-10-09T02:35:17.047Z",
+      "fetchedAt": "2026-10-09T09:39:45.763Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -59,7 +59,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm Holdings (NasdaqGS:ARM) and Qualcomm have entered a high-stakes federal trial over alleged breaches of their chip licensing agreements. The case centers on billions of dollars in potential royalty payments linked to Qualcomm designs that incorporate Arm architecture. Legal arguments focus on whether Qualcomm's use of Arm technology through certain partners falls within existing contract terms or requires fresh licenses. The Qualcomm royalty dispute could alter how Arm structures future...",
-      "id": "a19"
+      "id": "a26"
     },
     {
       "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
@@ -69,7 +69,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-09T02:35:21.693Z",
+      "fetchedAt": "2026-10-09T09:39:50.224Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -79,7 +79,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a21"
+      "id": "a28"
     },
     {
       "title": "Huawei and Qualcomm Announce Broad Patent License Agreement",
@@ -89,7 +89,7 @@
       "sourceId": "fierce-wireless",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-06T18:45:59.000Z",
-      "fetchedAt": "2026-10-09T02:35:21.979Z",
+      "fetchedAt": "2026-10-09T09:39:50.517Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -99,7 +99,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Announce Broad Patent License Agreement lbarrick Tue, 10/06/2026 - 14:45",
-      "id": "a23"
+      "id": "a30"
     }
   ]
 }
