@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "generatedAt": "2026-10-09T21:20:15.796Z",
   "date": "2026-10-10",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "Patent Litigation: Qualcomm and Arm set for jury verdict in contract breach feud Reuters",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "patent-litigation"
       },
@@ -31,7 +31,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T12:28:10.000Z",
-      "fetchedAt": "2026-10-09T16:37:58.562Z",
+      "fetchedAt": "2026-10-09T21:20:14.503Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -40,7 +40,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Arm set for jury verdict in contract breach feud Reuters",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
@@ -50,7 +50,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -70,7 +70,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-09T16:37:57.419Z",
+      "fetchedAt": "2026-10-09T21:20:13.876Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -80,7 +80,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a28"
+      "id": "a26"
     }
   ]
 }

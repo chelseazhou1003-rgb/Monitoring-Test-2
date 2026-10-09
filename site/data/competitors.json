@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "generatedAt": "2026-10-09T21:20:15.796Z",
   "date": "2026-10-10",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -31,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T03:42:26.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "section": "core-businesses",
@@ -52,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -72,7 +72,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-09T16:37:57.419Z",
+      "fetchedAt": "2026-10-09T21:20:13.876Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -82,7 +82,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a28"
+      "id": "a26"
     }
   ]
 }

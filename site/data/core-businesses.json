@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "generatedAt": "2026-10-09T21:20:15.796Z",
   "date": "2026-10-10",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
+        "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
         "articleIds": [
-          "a5"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
         "articleIds": [
-          "a11"
+          "a10"
         ],
         "subCategory": "mobile-chips"
       },
@@ -31,6 +31,42 @@
   },
   "articles": [
     {
+      "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
+      "description": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T19:20:06.000Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
+      "id": "a1"
+    },
+    {
+      "title": "Qualcomm CFO talks AI, data centers, and next big bet on robots",
+      "url": "https://www.thestreet.com/investing/stocks/qualcomm-cfo-talks-ai-data-centers-and-next-big-bet-on-robots-qcom?.tsrc=rss",
+      "description": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T17:33:00.000Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
+      "id": "a3"
+    },
+    {
       "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
       "url": "https://247wallst.com/investing/2026/10/09/apple-drops-3-on-reported-iphone-18-pro-component-order-cuts-skyworks-slips-qualcomm-treads-water/?.tsrc=rss",
       "description": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
@@ -38,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -48,7 +84,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
@@ -58,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:27:00.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -66,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-      "id": "a11"
+      "id": "a10"
     },
     {
       "title": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI - Startup Fortune",
@@ -76,7 +112,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T03:42:26.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "section": "core-businesses",
@@ -97,7 +133,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T00:33:10.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "36Kr",
       "section": "core-businesses",

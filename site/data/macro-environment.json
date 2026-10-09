@@ -1,28 +1,69 @@
 {
-  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "generatedAt": "2026-10-09T21:20:15.796Z",
   "date": "2026-10-10",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles). A total of 18 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
+        "text": "Geopolitics & Export Controls: The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about poten",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: The company's positive catalysts may take years to boost QCOM stock.",
         "articleIds": [
-          "a23"
+          "a22"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Trump Visa Crackdown Raises Questions for Tech Talent",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video",
+      "description": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T17:58:44.000Z",
+      "fetchedAt": "2026-10-09T21:20:07.726Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a2"
+    },
+    {
+      "title": "China & Taiwan Update, October 9, 2026 - Institute for the Study of War",
+      "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTmhrNF94Znk3YVRMSElZXzY0UThrTUFKWk0zTzlQWHRTb0tXNm1zZ0RRVDU0MGF5YmlVNDdDZjc0ZWtqZkpaMWh3cFJsN0VGczgtWlZKcEJYVXNubGtNOHFQS2ZBTjlUQ1NHaDh0UGk5b1YxZWdFaHU2WE1TQTFDRzhiNmRmUUdWaWJJSG5BMA?oc=5",
+      "description": "China & Taiwan Update, October 9, 2026 Institute for the Study of War",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T17:27:07.000Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Institute for the Study of War",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China & Taiwan Update, October 9, 2026 Institute for the Study of War",
+      "id": "a4"
+    },
     {
       "title": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte - The Manila Times",
       "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3QxaDRwUllMRXpnLXc4c1IyMXoyeTlYU3FLTWxYei1naDJTYzhlRUVVNkx5Z1Azd1d0emZkZjVQamk3djF4aHdRNHVZQkgtd2ZKYlhMeEF1UVVMQ3hIdzdCQVUwR3lLWG5SWlNsTzNudnVKNU5uczlYN0V3NXlwVi0yaFZfX0FZZHFOVWthRTVXOG9pMFpxOGQ3YWhreTNIRm5BTVczQ0NwNXNBU013TlpMZjAxdWdUUlBDQVg5SmJiOVNJRE9UZXNwN1ktNnpIOXYyNXZFNkdkaV9XbWJpM3lOVkNwYU1LVmJQRVhCRWFLd1FlVVFleXRn0gH_AUFVX3lxTE5yMWdjejdaSmhnRVRLSmhieERPMGNkQmM1WU9uVDlRSVdWa240NVZreUZRX0Npbnhvc3JwOUJiM3RnY2tXUDFydjNWU0h6ZHZMeWNuWVZKRXVLUUJNMlpyZ2s5c29qNkhZb1gwUjJwaHQxa0d0cUdNUHpEQ2hYNUl0NGRreW13bDFvRW1NTTFBZC1CMURfaVcyeHlhOEJuVW0xdDJteGFCcmlVcWZ1dVZPRDMwQmZFRnFuRExhRWJYS3h6OFpUSmFNazhDQ3JkemZYYTNjb1NoQWZHSXN1ZXZPR0RSdm1mWE16MmRyU0hRQmZmX2lOTUtyX0QyMlpZVQ?oc=5",
@@ -31,7 +72,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T16:03:00.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Manila Times",
       "geopoliticalBypass": true,
@@ -41,26 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
-      "id": "a1"
-    },
-    {
-      "title": "China and EU avert trade conflict with ‘understanding’ on hybrid cars",
-      "url": "https://www.ft.com/content/2823ef6f-b3d7-494b-b131-414c02d6a59f?syn-25a6b1a6=1",
-      "description": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T15:41:56.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.689Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "European trade commissioner says Beijing has agreed to restrict vehicle exports in deal that shows negotiation ‘brings results’",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
@@ -70,7 +92,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T15:03:10.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.339Z",
+      "fetchedAt": "2026-10-09T21:20:07.323Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -79,46 +101,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-      "id": "a3"
-    },
-    {
-      "title": "OpenAI and Anthropic poach Trump officials as industry fights for Washington’s trust",
-      "url": "https://www.cnbc.com/2026/10/09/openai-anthropic-poach-trump-officials.html",
-      "description": "AI labs have been looking to people with political experience as frontier tech is increasingly viewed as a national security issue.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T13:49:54.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.339Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "AI labs have been looking to people with political experience as frontier tech is increasingly viewed as a national security issue.",
-      "id": "a4"
-    },
-    {
-      "title": "China’s Readout of China–EU Trade and Investment Talks - Inside China | Fred Gao",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5YTkt0dndKNHZUNXFEWEtNb0p1QnRkR0VBc0d2MGNRX2ZleDlYV2drZFRhX3JJWDVQM2dOSTBBbjlBTlI4ZndndlE0RW9QREZpSnFHUm5xZE53dVBqTl8xRUJ0WGZ3bWJUa0N6NVhR?oc=5",
-      "description": "China’s Readout of China–EU Trade and Investment Talks Inside China | Fred Gao",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T12:23:29.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Inside China | Fred Gao",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China’s Readout of China–EU Trade and Investment Talks Inside China | Fred Gao",
-      "id": "a7"
+      "id": "a6"
     },
     {
       "title": "Bessent: China Is #1 Economic, Military Threat — Trump Moves to End Dependence - Newsmax",
@@ -127,8 +110,8 @@
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T11:43:38.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "publishedAt": "2026-10-09T11:43:00.000Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Newsmax",
       "geopoliticalBypass": true,
@@ -138,45 +121,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bessent: China Is #1 Economic, Military Threat — Trump Moves to End Dependence Newsmax",
-      "id": "a8"
-    },
-    {
-      "title": "Burnham Says UK Will Curb Non-Compete Clauses After Tech, AI Startup Outcry",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-09/burnham-says-uk-will-curb-non-compete-clauses-after-tech-ai-startup-outcry",
-      "description": "The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies, an issue that has drawn the ire of the nation’s technology startups.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T11:26:54.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.451Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The UK is set to curb hiring restrictions that force employees to wait before moving jobs or starting companies, an issue that has drawn the ire of the nation’s technology startups.",
       "id": "a9"
-    },
-    {
-      "title": "China Is Trouncing the US in Consumer Adoption of Generative AI",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-09/china-is-trouncing-the-us-in-consumer-adoption-of-generative-ai",
-      "description": "The US scores high on AI capability, but lags China in adoption.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T10:30:01.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.451Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The US scores high on AI capability, but lags China in adoption.",
-      "id": "a10"
     },
     {
       "title": "How CHIPS Act Drives U.S. NAND Flash Market Growth - Kings Research",
@@ -186,7 +131,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:11:07.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Kings Research",
       "geopoliticalBypass": true,
@@ -196,7 +141,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "How CHIPS Act Drives U.S. NAND Flash Market Growth Kings Research",
-      "id": "a12"
+      "id": "a11"
     },
     {
       "title": "Access Advance boosts China footprint with new hire, offices",
@@ -206,7 +151,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-09T08:24:15.000Z",
-      "fetchedAt": "2026-10-09T16:37:55.358Z",
+      "fetchedAt": "2026-10-09T21:20:10.370Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -215,7 +160,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-      "id": "a13"
+      "id": "a12"
     },
     {
       "title": "Tsai Ing-wen's provocative trip to the US: an outright sellout of Taiwan - China Military Online",
@@ -225,7 +170,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:57:40.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "China Military Online",
       "geopoliticalBypass": true,
@@ -235,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tsai Ing-wen's provocative trip to the US: an outright sellout of Taiwan China Military Online",
-      "id": "a14"
+      "id": "a13"
     },
     {
       "title": "China and EU trade envoys seek ways to ease tensions over growing imbalances - Bozeman Daily Chronicle",
@@ -245,7 +190,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:48:42.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Bozeman Daily Chronicle",
       "geopoliticalBypass": true,
@@ -255,7 +200,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China and EU trade envoys seek ways to ease tensions over growing imbalances Bozeman Daily Chronicle",
-      "id": "a15"
+      "id": "a14"
     },
     {
       "title": "The long way to China: What chip smuggling reveals about trade today - I by IMD",
@@ -265,7 +210,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:13:05.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "I by IMD",
       "geopoliticalBypass": true,
@@ -275,6 +220,26 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The long way to China: What chip smuggling reveals about trade today I by IMD",
+      "id": "a15"
+    },
+    {
+      "title": "Two-Bit Film Reviewing Tamil YouTuber Calls Starlink Privacy Concerns ‘Hypocrisy’, Exposes His Own Stupidity; Ignores National Security Concerns - TheCommuneMag",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQ1AyRkg1U0ZudmtpWUVrZXRhbGRoUGhhT2lSODJBaXRFTDRJWGZEcWUzRFpianFxQnZmVkhqeFBGZkpYWmI0bXJUTG92SVNCZGxFZjg1LTlZWHpLUFVqa2ptSThaN1ljZWFvS2swLS1YekNaYXFuUEM3T1BvV2kxM29oQ1B0RWxiTEFIZ2pjM2VZcEhUU2ZkMXRpSnVrTGw4aS04b2dBX2lDbVpqd1ViS3podUcteEd4NW9MWklRTF8xNGRoM0c3LUlUbVA?oc=5",
+      "description": "Two-Bit Film Reviewing Tamil YouTuber Calls Starlink Privacy Concerns ‘Hypocrisy’, Exposes His Own Stupidity; Ignores National Security Concerns TheCommuneMag",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T04:30:14.000Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "TheCommuneMag",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Two-Bit Film Reviewing Tamil YouTuber Calls Starlink Privacy Concerns ‘Hypocrisy’, Exposes His Own Stupidity; Ignores National Security Concerns TheCommuneMag",
       "id": "a16"
     },
     {
@@ -285,7 +250,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T00:55:50.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "World Socialist Web Site",
       "geopoliticalBypass": true,
@@ -305,7 +270,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T21:33:59.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
+      "fetchedAt": "2026-10-09T21:20:15.762Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "South China Morning Post",
       "geopoliticalBypass": true,
@@ -318,26 +283,6 @@
       "id": "a21"
     },
     {
-      "title": "Christophe Fouquet: China Can't Replicate 30 Years of EUV in Five — But Restrictions Will Make It Try - BigGo Finance",
-      "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1NY19jbVZNaUhseXpqTVMyVnRpeThOY0dGc2xOMW5JSFJubFo0TURBdXRRdnpxZGN3bG1jUEZpdzlNZkxaSUhKX1JGbjlkUy1EZFRRLU1LOFFGUXM?oc=5",
-      "description": "Christophe Fouquet: China Can't Replicate 30 Years of EUV in Five — But Restrictions Will Make It Try BigGo Finance",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-08T20:08:00.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "BigGo Finance",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Christophe Fouquet: China Can't Replicate 30 Years of EUV in Five — But Restrictions Will Make It Try BigGo Finance",
-      "id": "a22"
-    },
-    {
       "title": "Why Qualcomm Stock Now Looks Poised to Surge Over the Longer Term",
       "url": "https://www.barchart.com/story/news/5111328/why-qualcomm-stock-now-looks-poised-to-surge-over-the-longer-term?.tsrc=rss",
       "description": "The company's positive catalysts may take years to boost QCOM stock.",
@@ -345,7 +290,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T19:15:20.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -353,7 +298,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The company's positive catalysts may take years to boost QCOM stock.",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
@@ -363,7 +308,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T18:28:14.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -371,27 +316,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Applied Materials has nearly closed a once-wide revenue gap, posting consecutive quarterly gains while Qualcomm's latest results show a marked slowdown.",
-      "id": "a24"
-    },
-    {
-      "title": "America’s chip war against China is building China’s AI Empire - BLiTZ - Fears None But God",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQWWNVYUhjRndnbGg1eFZCN1pCX25GbVZ2NGlQaE0waloycnFzMWJsSllxdllBZ3JTZks3U19pYXdfeDk1UFRjV01PU1lYM0JrR3htcjMtVHU0emFlRFNJOGN0WElxc2V0cWZIZGlCcVlUbVEtaWNQXzdwbzJLUzVlSzctWmpJTm5JOUpaVHZMc0l1cXVIbUw1RVM1MXc?oc=5",
-      "description": "America’s chip war against China is building China’s AI Empire BLiTZ - Fears None But God",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-08T18:05:42.000Z",
-      "fetchedAt": "2026-10-09T16:37:59.924Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "BLiTZ - Fears None But God",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "America’s chip war against China is building China’s AI Empire BLiTZ - Fears None But God",
-      "id": "a25"
+      "id": "a23"
     },
     {
       "title": "Is Marvell Stock Priced Right Against Its Peers?",
@@ -401,7 +326,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T17:58:39.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -409,7 +334,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investors in Marvell Technology (MRVL) have seen the stock return 220.8% over the past twelve months, making it the top performer in a group of five chipmakers. That peer group includes NVIDIA, Broadcom, Advanced Micro Devices and Qualcomm. Yet the underlying financials reveal a different hierarchy, with the company ranking only fourth of the five on revenue growth, and fourth on operating margin. So how much are buyers now paying for Marvell's earnings, next to those peers.",
-      "id": "a26"
+      "id": "a24"
     },
     {
       "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -419,7 +344,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-09T16:37:57.419Z",
+      "fetchedAt": "2026-10-09T21:20:13.876Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -430,7 +355,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a27"
+      "id": "a25"
     },
     {
       "title": "Hisense opens China front in InterDigital patent battle",
@@ -440,7 +365,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T07:32:21.000Z",
-      "fetchedAt": "2026-10-09T16:37:55.358Z",
+      "fetchedAt": "2026-10-09T21:20:10.370Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -449,7 +374,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The TV maker has challenged four InterDigital video codec patents in China, adding to its UPC counterclaim and Brazil antitrust action",
-      "id": "a29"
+      "id": "a27"
     }
   ]
 }

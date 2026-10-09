@@ -1,28 +1,49 @@
 {
-  "generatedAt": "2026-10-09T16:37:59.965Z",
+  "generatedAt": "2026-10-09T21:20:15.796Z",
   "date": "2026-10-10",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about poten",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
         "articleIds": [
-          "a5"
+          "a7"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Geopolitics & Export Controls: During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corpora",
-        "articleIds": [
-          "a27"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Trump Visa Crackdown Raises Questions for Tech Talent",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video",
+      "description": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T17:58:44.000Z",
+      "fetchedAt": "2026-10-09T21:20:07.726Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a2"
+    },
     {
       "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
       "url": "https://247wallst.com/investing/2026/10/09/apple-drops-3-on-reported-iphone-18-pro-component-order-cuts-skyworks-slips-qualcomm-treads-water/?.tsrc=rss",
@@ -31,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-09T16:37:52.390Z",
+      "fetchedAt": "2026-10-09T21:20:07.427Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -41,7 +62,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -51,7 +72,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-09T16:37:57.419Z",
+      "fetchedAt": "2026-10-09T21:20:13.876Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -62,7 +83,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a27"
+      "id": "a25"
     }
   ]
 }
