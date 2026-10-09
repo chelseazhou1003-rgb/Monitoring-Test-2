@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-10-08T22:30:08.784Z",
+  "generatedAt": "2026-10-09T02:35:23.457Z",
   "date": "2026-10-09",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Embodied AI & Robotics (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Geopolitics & Export Controls. During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corpora",
         "articleIds": [
-          "a9"
+          "a15"
         ],
         "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "Embodied AI & Robotics: Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the",
-        "articleIds": [
-          "a16"
-        ],
-        "subCategory": "embodied-ai-robotics"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-08T22:30:06.639Z",
+      "fetchedAt": "2026-10-09T02:35:21.693Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -42,27 +35,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a9"
-    },
-    {
-      "title": "Sequoia, Nvidia Back Mecka AI's Robotics Push",
-      "url": "https://finance.yahoo.com/video/sequoia-nvidia-back-mecka-ais-180928298.html?.tsrc=rss",
-      "description": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-07T18:09:28.000Z",
-      "fetchedAt": "2026-10-08T22:30:02.643Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "embodied-ai-robotics",
-      "subLabel": "Embodied AI & Robotics",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Mecka AI has raised $60 million in Series B funding led by Sequoia Capital, with backing from Nvidia, Microsoft's M12 and Qualcomm, as it builds technology to help robots understand and operate in the physical world. CEO and cofounder Josh Gao discusses the enormous data challenge facing robotics, how Mecka captures everything from physical interactions to force and pressure, and why scaling physical AI will require major investments across sensors, infrastructure and real-world data collection. He joins Ed Ludlow on \"Bloomberg Tech.\"",
-      "id": "a16"
+      "id": "a15"
     }
   ]
 }

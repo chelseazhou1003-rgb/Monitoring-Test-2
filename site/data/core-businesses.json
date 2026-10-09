@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-08T22:30:08.784Z",
+  "generatedAt": "2026-10-09T02:35:23.457Z",
   "date": "2026-10-09",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "One article today covering Semiconductors. Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconduct",
+    "summary": "One article today covering Semiconductors. The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
+        "text": "Semiconductors: The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
         "articleIds": [
-          "a17"
+          "a2"
         ],
         "subCategory": "semiconductors"
       }
@@ -17,22 +17,23 @@
   },
   "articles": [
     {
-      "title": "Broadcom vs. Qualcomm: Rapid Growth vs. Flat Revenue",
-      "url": "https://www.fool.com/coverage/charts/2026/10/07/broadcom-vs-qualcomm-rapid-growth-vs-flat-revenue/?.tsrc=rss",
-      "description": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
+      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - 36 Kr",
+      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTDJfOXRNcl9QVXJiUlBPUl9oem11U2poSkw2RVh6RHpJd3VGa0tmUUJBRTlINW9zcFdjVW1UdHc0OW5lX1NYUmV6dE1rNGwtQU1V?oc=5",
+      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. 36 Kr",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-07T17:20:02.000Z",
-      "fetchedAt": "2026-10-08T22:30:02.643Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-10-09T00:33:10.000Z",
+      "fetchedAt": "2026-10-09T02:35:23.419Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "36 Kr",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Broadcom's revenue has nearly tripled in two years while Qualcomm's has stalled, widening a gap that could reshape competitive dynamics in semiconductors.",
-      "id": "a17"
+      "summary": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
+      "id": "a2"
     }
   ]
 }
