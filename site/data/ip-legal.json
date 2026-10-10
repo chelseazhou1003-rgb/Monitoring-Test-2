@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-10T19:33:35.951Z",
+  "generatedAt": "2026-10-10T22:58:24.728Z",
   "date": "2026-10-11",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
         "articleIds": [
-          "a4"
+          "a5"
         ],
         "subCategory": "patent-litigation"
       },
       {
         "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
         "articleIds": [
-          "a8"
+          "a9"
         ],
         "subCategory": "ip"
       },
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T11:42:15.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-      "id": "a4"
+      "id": "a5"
     },
     {
       "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T23:13:09.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -66,25 +66,6 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-      "id": "a8"
-    },
-    {
-      "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5",
-      "description": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T21:38:35.000Z",
-      "fetchedAt": "2026-10-10T19:33:34.771Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
       "id": "a9"
     },
     {
@@ -95,7 +76,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",

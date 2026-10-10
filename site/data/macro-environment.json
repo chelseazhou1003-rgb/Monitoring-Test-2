@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:33:35.951Z",
+  "generatedAt": "2026-10-10T22:58:24.728Z",
   "date": "2026-10-11",
   "section": "macro-environment",
   "sectionTitle": "Macro",
@@ -31,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T18:57:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:35.911Z",
+      "fetchedAt": "2026-10-10T22:58:24.700Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Brand Icon Image",
       "geopoliticalBypass": true,
@@ -51,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T17:03:01.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -69,7 +69,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-10T14:00:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.928Z",
+      "fetchedAt": "2026-10-10T22:58:16.677Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -83,7 +83,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-      "id": "a3"
+      "id": "a4"
     },
     {
       "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
@@ -93,7 +93,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T02:10:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:35.911Z",
+      "fetchedAt": "2026-10-10T22:58:24.700Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Straits Times",
       "geopoliticalBypass": true,
@@ -103,7 +103,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-      "id": "a5"
+      "id": "a6"
     },
     {
       "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -113,7 +113,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T02:09:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.213Z",
+      "fetchedAt": "2026-10-10T22:58:16.065Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -122,7 +122,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "id": "a6"
+      "id": "a7"
     },
     {
       "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
@@ -132,7 +132,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T01:03:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -140,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
@@ -150,7 +150,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T21:11:31.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.724Z",
+      "fetchedAt": "2026-10-10T22:58:16.392Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -169,7 +169,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T15:03:10.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.213Z",
+      "fetchedAt": "2026-10-10T22:58:16.065Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -182,13 +182,13 @@
     },
     {
       "title": "Access Advance boosts China footprint with new hire, offices",
-      "url": "https://www.iam-media.com/index.php/article/access-advance-boosts-china-footprint-new-hire-offices",
+      "url": "https://www.iam-media.com/article/access-advance-boosts-china-footprint-new-hire-offices",
       "description": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-09T08:24:15.000Z",
-      "fetchedAt": "2026-10-10T19:33:29.886Z",
+      "fetchedAt": "2026-10-10T22:58:18.507Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -207,7 +207,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:33.957Z",
+      "fetchedAt": "2026-10-10T22:58:22.921Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

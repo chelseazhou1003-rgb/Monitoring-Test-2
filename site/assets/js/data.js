@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,14 +12,14 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
           "articleIds": [
-            "a3"
+            "a4"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
           "articleIds": [
-            "a8"
+            "a9"
           ],
           "subCategory": "ip"
         },
@@ -41,7 +41,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.928Z",
+        "fetchedAt": "2026-10-10T22:58:16.677Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -55,7 +55,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -65,7 +65,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -75,7 +75,7 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-        "id": "a8"
+        "id": "a9"
       },
       {
         "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
@@ -85,7 +85,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T23:15:57.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -100,17 +100,17 @@ export const NEWS_DATA = {
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
+          "text": "Semiconductors: About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
           "articleIds": [
-            "a11"
+            "a3"
           ],
           "subCategory": "semiconductors"
         },
@@ -125,6 +125,25 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcGM1M2tBNnl3S2xMc3RqV21kX1VYWkZtNkN4anZnTlpnMWJQcEhVbEtfLW80VC1tM01jTnNVWHBhNTM3aTdnZTI4S1g0anJvdml4WFFFZnFFT0ZGYnh3?oc=5",
+        "description": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-10T17:01:47.000Z",
+        "fetchedAt": "2026-10-10T22:58:23.553Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+        "id": "a3"
+      },
+      {
         "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
         "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
         "description": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
@@ -132,7 +151,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T19:20:06.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -150,7 +169,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T17:33:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -168,7 +187,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -188,7 +207,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T09:27:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -201,7 +220,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -212,24 +231,24 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
           "articleIds": [
-            "a4"
+            "a5"
           ],
           "subCategory": "patent-litigation"
         },
         {
           "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
           "articleIds": [
-            "a8"
+            "a9"
           ],
           "subCategory": "ip"
         },
@@ -251,7 +270,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T11:42:15.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -259,7 +278,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -269,7 +288,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -279,25 +298,6 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-        "id": "a8"
-      },
-      {
-        "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5",
-        "description": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-09T21:38:35.000Z",
-        "fetchedAt": "2026-10-10T19:33:34.771Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "ip-legal",
-        "subCategory": "patent-litigation",
-        "subLabel": "Patent Litigation",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
         "id": "a9"
       },
       {
@@ -308,7 +308,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T23:15:57.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -323,22 +323,22 @@ export const NEWS_DATA = {
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-10T19:33:35.955Z",
+    "generatedAt": "2026-10-10T22:58:24.732Z",
     "date": "2026-10-11",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
-        "topHeadline": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
-        "topHeadlineId": "a11",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 5,
+        "topHeadline": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 4,
+        "articleCount": 3,
         "topHeadline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-        "topHeadlineId": "a4",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -358,21 +358,21 @@ export const NEWS_DATA = {
         "title": "Competitors",
         "articleCount": 3,
         "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a4",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 3,
         "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a4",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 24
   },
   "macro-environment": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -404,7 +404,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T18:57:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:35.911Z",
+        "fetchedAt": "2026-10-10T22:58:24.700Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Brand Icon Image",
         "geopoliticalBypass": true,
@@ -424,7 +424,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T17:03:01.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -442,7 +442,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.928Z",
+        "fetchedAt": "2026-10-10T22:58:16.677Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -456,7 +456,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
@@ -466,7 +466,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T02:10:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:35.911Z",
+        "fetchedAt": "2026-10-10T22:58:24.700Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -476,7 +476,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -486,7 +486,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T02:09:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.213Z",
+        "fetchedAt": "2026-10-10T22:58:16.065Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -495,7 +495,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
@@ -505,7 +505,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T01:03:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -513,7 +513,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-        "id": "a7"
+        "id": "a8"
       },
       {
         "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
@@ -523,7 +523,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T21:11:31.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.724Z",
+        "fetchedAt": "2026-10-10T22:58:16.392Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -542,7 +542,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T15:03:10.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.213Z",
+        "fetchedAt": "2026-10-10T22:58:16.065Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -555,13 +555,13 @@ export const NEWS_DATA = {
       },
       {
         "title": "Access Advance boosts China footprint with new hire, offices",
-        "url": "https://www.iam-media.com/index.php/article/access-advance-boosts-china-footprint-new-hire-offices",
+        "url": "https://www.iam-media.com/article/access-advance-boosts-china-footprint-new-hire-offices",
         "description": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-09T08:24:15.000Z",
-        "fetchedAt": "2026-10-10T19:33:29.886Z",
+        "fetchedAt": "2026-10-10T22:58:18.507Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -580,7 +580,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-08T16:30:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:33.957Z",
+        "fetchedAt": "2026-10-10T22:58:22.921Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -787,7 +787,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-10T19:33:35.951Z",
+    "generatedAt": "2026-10-10T22:58:24.728Z",
     "date": "2026-10-11",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -797,7 +797,7 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
           "articleIds": [
-            "a3"
+            "a4"
           ],
           "subCategory": "geopolitics-export-controls"
         },
@@ -819,7 +819,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.928Z",
+        "fetchedAt": "2026-10-10T22:58:16.677Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -833,7 +833,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -843,7 +843,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-10T19:33:27.381Z",
+        "fetchedAt": "2026-10-10T22:58:16.234Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -863,7 +863,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-08T16:30:00.000Z",
-        "fetchedAt": "2026-10-10T19:33:33.957Z",
+        "fetchedAt": "2026-10-10T22:58:22.921Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -22459,21 +22459,21 @@ export const NEWS_DATA = {
     "totalArticles": 28
   },
   "archive-2026-10-11": {
-    "generatedAt": "2026-10-10T19:33:35.956Z",
+    "generatedAt": "2026-10-10T22:58:24.732Z",
     "date": "2026-10-11",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
+              "text": "Semiconductors: About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
               "articleIds": [
-                "a11"
+                "a3"
               ],
               "subCategory": "semiconductors"
             },
@@ -22488,6 +22488,25 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcGM1M2tBNnl3S2xMc3RqV21kX1VYWkZtNkN4anZnTlpnMWJQcEhVbEtfLW80VC1tM01jTnNVWHBhNTM3aTdnZTI4S1g0anJvdml4WFFFZnFFT0ZGYnh3?oc=5",
+            "description": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-10T17:01:47.000Z",
+            "fetchedAt": "2026-10-10T22:58:23.553Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+            "id": "a3"
+          },
+          {
             "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
             "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
             "description": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
@@ -22495,7 +22514,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T19:20:06.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22513,7 +22532,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T17:33:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22531,7 +22550,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22551,7 +22570,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T09:27:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22564,24 +22583,24 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
               "articleIds": [
-                "a4"
+                "a5"
               ],
               "subCategory": "patent-litigation"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
               "articleIds": [
-                "a8"
+                "a9"
               ],
               "subCategory": "ip"
             },
@@ -22603,7 +22622,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T11:42:15.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -22611,7 +22630,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -22621,7 +22640,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -22631,25 +22650,6 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "id": "a8"
-          },
-          {
-            "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNWnN4TkxuZW5GVFJLOEc3UW10R0FPUUgtaUVRSzRjWWR3R2tUSTNyNkxwdDhULXJnMTA3VXFwUFdtbHlteW84WDBEM0YxdjUtbGxrRzhjXzJNeG5yNlp1NE14MkxfX1BidU1vMXZ2ZEpqSF9Hb2R3UExlZGpjRUJVRzU1bVluLVk0U3lIT3ZmdnJOeHN0R0xFd3BmZGRndUtNSzRvck5iYkZyN21vaXc?oc=5",
-            "description": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T21:38:35.000Z",
-            "fetchedAt": "2026-10-10T19:33:34.771Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
             "id": "a9"
           },
           {
@@ -22660,7 +22660,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22675,7 +22675,7 @@ export const NEWS_DATA = {
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22686,7 +22686,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -22718,7 +22718,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T18:57:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:35.911Z",
+            "fetchedAt": "2026-10-10T22:58:24.700Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Brand Icon Image",
             "geopoliticalBypass": true,
@@ -22738,7 +22738,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T17:03:01.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -22756,7 +22756,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.928Z",
+            "fetchedAt": "2026-10-10T22:58:16.677Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22770,7 +22770,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
@@ -22780,7 +22780,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T02:10:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:35.911Z",
+            "fetchedAt": "2026-10-10T22:58:24.700Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Straits Times",
             "geopoliticalBypass": true,
@@ -22790,7 +22790,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -22800,7 +22800,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T02:09:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.213Z",
+            "fetchedAt": "2026-10-10T22:58:16.065Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22809,7 +22809,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-            "id": "a6"
+            "id": "a7"
           },
           {
             "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
@@ -22819,7 +22819,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T01:03:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
@@ -22827,7 +22827,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-            "id": "a7"
+            "id": "a8"
           },
           {
             "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
@@ -22837,7 +22837,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T21:11:31.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.724Z",
+            "fetchedAt": "2026-10-10T22:58:16.392Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22856,7 +22856,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T15:03:10.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.213Z",
+            "fetchedAt": "2026-10-10T22:58:16.065Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22869,13 +22869,13 @@ export const NEWS_DATA = {
           },
           {
             "title": "Access Advance boosts China footprint with new hire, offices",
-            "url": "https://www.iam-media.com/index.php/article/access-advance-boosts-china-footprint-new-hire-offices",
+            "url": "https://www.iam-media.com/article/access-advance-boosts-china-footprint-new-hire-offices",
             "description": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-09T08:24:15.000Z",
-            "fetchedAt": "2026-10-10T19:33:29.886Z",
+            "fetchedAt": "2026-10-10T22:58:18.507Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22894,7 +22894,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:33.957Z",
+            "fetchedAt": "2026-10-10T22:58:22.921Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22910,7 +22910,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22920,14 +22920,14 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
               "articleIds": [
-                "a3"
+                "a4"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
               "articleIds": [
-                "a8"
+                "a9"
               ],
               "subCategory": "ip"
             },
@@ -22949,7 +22949,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.928Z",
+            "fetchedAt": "2026-10-10T22:58:16.677Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22963,7 +22963,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -22973,7 +22973,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -22983,7 +22983,7 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-            "id": "a8"
+            "id": "a9"
           },
           {
             "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
@@ -22993,7 +22993,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -23008,7 +23008,7 @@ export const NEWS_DATA = {
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-10T19:33:35.951Z",
+        "generatedAt": "2026-10-10T22:58:24.728Z",
         "date": "2026-10-11",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -23018,7 +23018,7 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
               "articleIds": [
-                "a3"
+                "a4"
               ],
               "subCategory": "geopolitics-export-controls"
             },
@@ -23040,7 +23040,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.928Z",
+            "fetchedAt": "2026-10-10T22:58:16.677Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23054,7 +23054,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -23064,7 +23064,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T19:33:27.381Z",
+            "fetchedAt": "2026-10-10T22:58:16.234Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23084,7 +23084,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T19:33:33.957Z",
+            "fetchedAt": "2026-10-10T22:58:22.921Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",

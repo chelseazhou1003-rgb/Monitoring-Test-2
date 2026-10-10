@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T19:33:35.951Z",
+  "generatedAt": "2026-10-10T22:58:24.728Z",
   "date": "2026-10-11",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
         "articleIds": [
-          "a3"
+          "a4"
         ],
         "subCategory": "geopolitics-export-controls"
       },
@@ -31,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-10T14:00:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.928Z",
+      "fetchedAt": "2026-10-10T22:58:16.677Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -45,7 +45,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-      "id": "a3"
+      "id": "a4"
     },
     {
       "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -55,7 +55,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +75,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:33.957Z",
+      "fetchedAt": "2026-10-10T22:58:22.921Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

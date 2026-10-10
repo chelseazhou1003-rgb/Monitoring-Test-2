@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-10T19:33:35.951Z",
+  "generatedAt": "2026-10-10T22:58:24.728Z",
   "date": "2026-10-11",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
+        "text": "Semiconductors: About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
         "articleIds": [
-          "a11"
+          "a3"
         ],
         "subCategory": "semiconductors"
       },
@@ -24,6 +24,25 @@
   },
   "articles": [
     {
+      "title": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcGM1M2tBNnl3S2xMc3RqV21kX1VYWkZtNkN4anZnTlpnMWJQcEhVbEtfLW80VC1tM01jTnNVWHBhNTM3aTdnZTI4S1g0anJvdml4WFFFZnFFT0ZGYnh3?oc=5",
+      "description": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T17:01:47.000Z",
+      "fetchedAt": "2026-10-10T22:58:23.553Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+      "id": "a3"
+    },
+    {
       "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
       "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
       "description": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
@@ -31,7 +50,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T19:20:06.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -49,7 +68,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T17:33:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -67,7 +86,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -87,7 +106,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:27:00.000Z",
-      "fetchedAt": "2026-10-10T19:33:27.381Z",
+      "fetchedAt": "2026-10-10T22:58:16.234Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
