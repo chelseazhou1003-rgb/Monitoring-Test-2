@@ -1,35 +1,53 @@
 {
-  "generatedAt": "2026-10-10T07:45:51.965Z",
+  "generatedAt": "2026-10-10T14:47:23.303Z",
   "date": "2026-10-10",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article), Patent Litigation (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
+        "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "ip"
-      },
-      {
-        "text": "Patent Litigation: Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-        "articleIds": [
-          "a5"
+          "a2"
         ],
         "subCategory": "patent-litigation"
       },
       {
+        "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "ip"
+      },
+      {
         "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
         "articleIds": [
-          "a21"
+          "a18"
         ],
         "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
+      "url": "https://www.tikr.com/blog/qualcomm-waits-on-a-jury-arm-has-a-443-million-customer-on-the-line?ref=yahoofinance&.tsrc=rss",
+      "description": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T11:42:15.000Z",
+      "fetchedAt": "2026-10-10T14:47:17.342Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "patent-litigation",
+      "subLabel": "Patent Litigation",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
+      "id": "a2"
+    },
     {
       "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
       "url": "https://www.trefis.com/articles/618142/should-qualcomm-stock-holders-look-at-first-solar-instead/2026-10-09?.tsrc=rss",
@@ -38,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T23:13:09.000Z",
-      "fetchedAt": "2026-10-10T07:45:44.142Z",
+      "fetchedAt": "2026-10-10T14:47:17.342Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -48,7 +66,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-      "id": "a4"
+      "id": "a6"
     },
     {
       "title": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case - Reuters",
@@ -58,7 +76,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T21:38:35.000Z",
-      "fetchedAt": "2026-10-10T07:45:50.783Z",
+      "fetchedAt": "2026-10-10T14:47:22.129Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -67,7 +85,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Arm jury to return next week after deliberations in contract dispute case Reuters",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "Qualcomm (QCOM) Signs Broad Multi Year Patent Deal",
@@ -77,7 +95,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-10T07:45:44.142Z",
+      "fetchedAt": "2026-10-10T14:47:17.342Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -87,7 +105,7 @@
       ],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-      "id": "a21"
+      "id": "a18"
     },
     {
       "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
@@ -97,7 +115,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-10T07:45:49.435Z",
+      "fetchedAt": "2026-10-10T14:47:21.184Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -107,7 +125,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a24"
+      "id": "a20"
     }
   ]
 }
