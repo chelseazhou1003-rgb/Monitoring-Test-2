@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:18:27.316Z",
+  "generatedAt": "2026-10-10T07:45:51.965Z",
   "date": "2026-10-10",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -23,7 +23,7 @@
       {
         "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
         "articleIds": [
-          "a22"
+          "a21"
         ],
         "subCategory": "frand-licensing"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T23:13:09.000Z",
-      "fetchedAt": "2026-10-10T01:18:20.783Z",
+      "fetchedAt": "2026-10-10T07:45:44.142Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -58,7 +58,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T21:38:35.000Z",
-      "fetchedAt": "2026-10-10T01:18:26.045Z",
+      "fetchedAt": "2026-10-10T07:45:50.783Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -77,7 +77,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T23:15:57.000Z",
-      "fetchedAt": "2026-10-10T01:18:20.783Z",
+      "fetchedAt": "2026-10-10T07:45:44.142Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -87,7 +87,7 @@
       ],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-      "id": "a22"
+      "id": "a21"
     },
     {
       "title": "Qualcomm-Huawei disagreement reflects inherently subjective nature of unpacking complex “license-plus” deals",
@@ -97,7 +97,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T15:09:28.000Z",
-      "fetchedAt": "2026-10-10T01:18:25.542Z",
+      "fetchedAt": "2026-10-10T07:45:49.435Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -107,7 +107,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm's and Huawei's divergent interpretations of their license-plus-patent-transfer agreement are just the latest example of how two parties can take different perspectives on the same deal without anyone necessarily lying.",
-      "id": "a26"
+      "id": "a24"
     }
   ]
 }

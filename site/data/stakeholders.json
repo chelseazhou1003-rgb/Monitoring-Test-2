@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T01:18:27.316Z",
+  "generatedAt": "2026-10-10T07:45:51.965Z",
   "date": "2026-10-10",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -16,7 +16,7 @@
       {
         "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
         "articleIds": [
-          "a12"
+          "a13"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T17:58:44.000Z",
-      "fetchedAt": "2026-10-10T01:18:21.185Z",
+      "fetchedAt": "2026-10-10T07:45:44.393Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -52,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-10T01:18:20.783Z",
+      "fetchedAt": "2026-10-10T07:45:44.142Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -62,7 +62,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -72,7 +72,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-10T01:18:25.542Z",
+      "fetchedAt": "2026-10-10T07:45:49.435Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -83,7 +83,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a25"
+      "id": "a23"
     }
   ]
 }

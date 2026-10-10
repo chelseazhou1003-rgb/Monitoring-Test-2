@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-10T01:18:27.352Z",
+  "generatedAt": "2026-10-10T07:45:51.968Z",
   "date": "2026-10-10",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
       "topHeadlineId": "a7",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,17 +25,17 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 18,
-      "topHeadline": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
+      "articleCount": 16,
+      "topHeadline": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles). A total of 18 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (1 article). A total of 16 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
       "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 34
+  "totalArticles": 30
 }
