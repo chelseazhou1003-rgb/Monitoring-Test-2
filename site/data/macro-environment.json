@@ -1,28 +1,104 @@
 {
-  "generatedAt": "2026-10-09T21:20:15.796Z",
+  "generatedAt": "2026-10-10T01:18:27.316Z",
   "date": "2026-10-10",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles). A total of 18 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles). A total of 18 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about poten",
+        "text": "Geopolitics & Export Controls: Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
         "articleIds": [
-          "a2"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: The company's positive catalysts may take years to boost QCOM stock.",
         "articleIds": [
-          "a22"
+          "a23"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
+      "url": "https://www.thestreet.com/investing/qualcomm-huawei-deal-lands-as-us-tightens-china-tech-rules?.tsrc=rss",
+      "description": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T01:03:00.000Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
+      "id": "a1"
+    },
+    {
+      "title": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte - The Manila Times",
+      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3QxaDRwUllMRXpnLXc4c1IyMXoyeTlYU3FLTWxYei1naDJTYzhlRUVVNkx5Z1Azd1d0emZkZjVQamk3djF4aHdRNHVZQkgtd2ZKYlhMeEF1UVVMQ3hIdzdCQVUwR3lLWG5SWlNsTzNudnVKNU5uczlYN0V3NXlwVi0yaFZfX0FZZHFOVWthRTVXOG9pMFpxOGQ3YWhreTNIRm5BTVczQ0NwNXNBU013TlpMZjAxdWdUUlBDQVg5SmJiOVNJRE9UZXNwN1ktNnpIOXYyNXZFNkdkaV9XbWJpM3lOVkNwYU1LVmJQRVhCRWFLd1FlVVFleXRn0gH_AUFVX3lxTE5yMWdjejdaSmhnRVRLSmhieERPMGNkQmM1WU9uVDlRSVdWa240NVZreUZRX0Npbnhvc3JwOUJiM3RnY2tXUDFydjNWU0h6ZHZMeWNuWVZKRXVLUUJNMlpyZ2s5c29qNkhZb1gwUjJwaHQxa0d0cUdNUHpEQ2hYNUl0NGRreW13bDFvRW1NTTFBZC1CMURfaVcyeHlhOEJuVW0xdDJteGFCcmlVcWZ1dVZPRDMwQmZFRnFuRExhRWJYS3h6OFpUSmFNazhDQ3JkemZYYTNjb1NoQWZHSXN1ZXZPR0RSdm1mWE16MmRyU0hRQmZmX2lOTUtyX0QyMlpZVQ?oc=5",
+      "description": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T00:54:36.000Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Manila Times",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
+      "id": "a2"
+    },
+    {
+      "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
+      "url": "https://www.cnbc.com/2026/10/09/trump-putin-diesel-russia-sanctions-ukraine.html",
+      "description": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T23:16:50.000Z",
+      "fetchedAt": "2026-10-10T01:18:20.656Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Ukraine President Volodymyr Zelenskyy said in a searing statement that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "id": "a3"
+    },
+    {
+      "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
+      "description": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-09T21:11:31.000Z",
+      "fetchedAt": "2026-10-10T01:18:21.185Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
+      "id": "a6"
+    },
     {
       "title": "Trump Visa Crackdown Raises Questions for Tech Talent",
       "url": "https://www.bloomberg.com/news/videos/2026-10-09/trump-visa-crackdown-raises-questions-for-tech-talent-video",
@@ -31,7 +107,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T17:58:44.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.726Z",
+      "fetchedAt": "2026-10-10T01:18:21.185Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -42,7 +118,7 @@
         "platform-partner"
       ],
       "summary": "The Trump administration has suspended Microsoft, Adobe and several other companies and universities from a program used to sponsor foreign workers for permanent residency, citing concerns about potential abuse. Erickson Immigration Group attorney Hiba Anver explains why restrictions on employment-based immigration could have broader implications for the technology industry’s talent pipeline. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
-      "id": "a2"
+      "id": "a8"
     },
     {
       "title": "China & Taiwan Update, October 9, 2026 - Institute for the Study of War",
@@ -52,7 +128,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T17:27:07.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Institute for the Study of War",
       "geopoliticalBypass": true,
@@ -62,27 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China & Taiwan Update, October 9, 2026 Institute for the Study of War",
-      "id": "a4"
-    },
-    {
-      "title": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte - The Manila Times",
-      "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPa3QxaDRwUllMRXpnLXc4c1IyMXoyeTlYU3FLTWxYei1naDJTYzhlRUVVNkx5Z1Azd1d0emZkZjVQamk3djF4aHdRNHVZQkgtd2ZKYlhMeEF1UVVMQ3hIdzdCQVUwR3lLWG5SWlNsTzNudnVKNU5uczlYN0V3NXlwVi0yaFZfX0FZZHFOVWthRTVXOG9pMFpxOGQ3YWhreTNIRm5BTVczQ0NwNXNBU013TlpMZjAxdWdUUlBDQVg5SmJiOVNJRE9UZXNwN1ktNnpIOXYyNXZFNkdkaV9XbWJpM3lOVkNwYU1LVmJQRVhCRWFLd1FlVVFleXRn0gH_AUFVX3lxTE5yMWdjejdaSmhnRVRLSmhieERPMGNkQmM1WU9uVDlRSVdWa240NVZreUZRX0Npbnhvc3JwOUJiM3RnY2tXUDFydjNWU0h6ZHZMeWNuWVZKRXVLUUJNMlpyZ2s5c29qNkhZb1gwUjJwaHQxa0d0cUdNUHpEQ2hYNUl0NGRreW13bDFvRW1NTTFBZC1CMURfaVcyeHlhOEJuVW0xdDJteGFCcmlVcWZ1dVZPRDMwQmZFRnFuRExhRWJYS3h6OFpUSmFNazhDQ3JkemZYYTNjb1NoQWZHSXN1ZXZPR0RSdm1mWE16MmRyU0hRQmZmX2lOTUtyX0QyMlpZVQ?oc=5",
-      "description": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T16:03:00.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Manila Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The banana chip witch hunt: China, CALE88 and the weaponization of national security against Sara Duterte The Manila Times",
-      "id": "a5"
+      "id": "a10"
     },
     {
       "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
@@ -92,7 +148,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T15:03:10.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.323Z",
+      "fetchedAt": "2026-10-10T01:18:20.656Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -101,7 +157,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-      "id": "a6"
+      "id": "a11"
     },
     {
       "title": "Bessent: China Is #1 Economic, Military Threat — Trump Moves to End Dependence - Newsmax",
@@ -111,7 +167,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T11:43:00.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Newsmax",
       "geopoliticalBypass": true,
@@ -121,7 +177,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bessent: China Is #1 Economic, Military Threat — Trump Moves to End Dependence Newsmax",
-      "id": "a9"
+      "id": "a13"
     },
     {
       "title": "How CHIPS Act Drives U.S. NAND Flash Market Growth - Kings Research",
@@ -131,7 +187,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:11:07.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Kings Research",
       "geopoliticalBypass": true,
@@ -141,7 +197,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "How CHIPS Act Drives U.S. NAND Flash Market Growth Kings Research",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Access Advance boosts China footprint with new hire, offices",
@@ -151,7 +207,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-09T08:24:15.000Z",
-      "fetchedAt": "2026-10-09T21:20:10.370Z",
+      "fetchedAt": "2026-10-10T01:18:23.355Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -160,7 +216,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-      "id": "a12"
+      "id": "a16"
     },
     {
       "title": "Tsai Ing-wen's provocative trip to the US: an outright sellout of Taiwan - China Military Online",
@@ -170,7 +226,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:57:40.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "China Military Online",
       "geopoliticalBypass": true,
@@ -180,7 +236,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tsai Ing-wen's provocative trip to the US: an outright sellout of Taiwan China Military Online",
-      "id": "a13"
+      "id": "a17"
     },
     {
       "title": "China and EU trade envoys seek ways to ease tensions over growing imbalances - Bozeman Daily Chronicle",
@@ -190,7 +246,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:48:42.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Bozeman Daily Chronicle",
       "geopoliticalBypass": true,
@@ -200,7 +256,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China and EU trade envoys seek ways to ease tensions over growing imbalances Bozeman Daily Chronicle",
-      "id": "a14"
+      "id": "a18"
     },
     {
       "title": "The long way to China: What chip smuggling reveals about trade today - I by IMD",
@@ -210,7 +266,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T07:13:05.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "I by IMD",
       "geopoliticalBypass": true,
@@ -220,7 +276,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The long way to China: What chip smuggling reveals about trade today I by IMD",
-      "id": "a15"
+      "id": "a19"
     },
     {
       "title": "Two-Bit Film Reviewing Tamil YouTuber Calls Starlink Privacy Concerns ‘Hypocrisy’, Exposes His Own Stupidity; Ignores National Security Concerns - TheCommuneMag",
@@ -230,7 +286,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T04:30:14.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TheCommuneMag",
       "geopoliticalBypass": true,
@@ -240,47 +296,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Two-Bit Film Reviewing Tamil YouTuber Calls Starlink Privacy Concerns ‘Hypocrisy’, Exposes His Own Stupidity; Ignores National Security Concerns TheCommuneMag",
-      "id": "a16"
-    },
-    {
-      "title": "Philippine impeachment trial escalates campaign against Duterte over alleged China ties - World Socialist Web Site",
-      "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5kdmR1emlqeGF1SDNpS095akdrZURPQm9udmp1WldYenU3dE0xOVVkRkRjUmpxQnhLZTZfeEVyb29jVmJFakRZRzNtVWgzUnRwWGF1d0k4RlpEMTM5Si1MNVpqSTdFRDFL?oc=5",
-      "description": "Philippine impeachment trial escalates campaign against Duterte over alleged China ties World Socialist Web Site",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T00:55:50.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "World Socialist Web Site",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Philippine impeachment trial escalates campaign against Duterte over alleged China ties World Socialist Web Site",
-      "id": "a18"
-    },
-    {
-      "title": "Pentagon unveils US$350 million quantum computing push as China rivalry grows - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbkVLeXp3T2dJZHFPdUhLUUtIUDYzODVsX0xRbDdYR1ZnMmsxNmRVTkNQMnFzcWFTaTFoTE5hMzVKOU9fZHNtVFpTT2NsdEtJWEQ0NHVjVnRXMkVvSDZhYTVFclR0Y014Q3ZkSVVJSmg3RV9ET0pYZU54UXJkWkJLQzlHZS1hRmhpUHNPNXlLdjU4X1Rad2hwMFRwcUkwTTEwMENieDMxZDBsTnhMYzFhRmVpdDg4SlhXT3pGTVJSS09NbzB2Y3BYV0xhN3hnZzN0SFNJ0gHTAUFVX3lxTE9uRUt5endPZ0lkcU91SEtRS0hQNjM4NWxfTFFsN1hHVmcyazE2ZFVOQ1AycXNxYVNpMWhMTmEzNUo5T19kc21UWlNPY2x0S0lYRDQ0dWNWdFcyRW9INmFhNUVyVHRjTXhDdmRJVUlKaDdFX0RPSlhlTnhRcmRaQktDOUdlLWFGaGlQc081eUt2NThfVFp3aHAwVHBxSTBNMTAwQ2J4MzFkMGxOeExjMWFGZWl0ODhKWFdPekZNUlJLT01vMHZjcFhXTGE3eGdnM3RIU0k?oc=5",
-      "description": "Pentagon unveils US$350 million quantum computing push as China rivalry grows South China Morning Post",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-08T21:33:59.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "South China Morning Post",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Pentagon unveils US$350 million quantum computing push as China rivalry grows South China Morning Post",
-      "id": "a21"
+      "id": "a20"
     },
     {
       "title": "Why Qualcomm Stock Now Looks Poised to Surge Over the Longer Term",
@@ -290,7 +306,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T19:15:20.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -298,7 +314,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The company's positive catalysts may take years to boost QCOM stock.",
-      "id": "a22"
+      "id": "a23"
     },
     {
       "title": "Applied Materials vs. Qualcomm: What Revenue Trends Tell Investors About These Artificial Intelligence Companies",
@@ -308,7 +324,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-08T18:28:14.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -316,24 +332,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Applied Materials has nearly closed a once-wide revenue gap, posting consecutive quarterly gains while Qualcomm's latest results show a marked slowdown.",
-      "id": "a23"
-    },
-    {
-      "title": "Is Marvell Stock Priced Right Against Its Peers?",
-      "url": "https://www.trefis.com/articles/617939/is-marvell-stock-priced-right-against-its-peers/2026-10-08?.tsrc=rss",
-      "description": "Investors in Marvell Technology (MRVL) have seen the stock return 220.8% over the past twelve months, making it the top performer in a group of five chipmakers. That peer group includes NVIDIA, Broadcom, Advanced Micro Devices and Qualcomm. Yet the underlying financials reveal a different hierarchy, with the company ranking only fourth of the five on revenue growth, and fourth on operating margin. So how much are buyers now paying for Marvell's earnings, next to those peers.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-08T17:58:39.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Investors in Marvell Technology (MRVL) have seen the stock return 220.8% over the past twelve months, making it the top performer in a group of five chipmakers. That peer group includes NVIDIA, Broadcom, Advanced Micro Devices and Qualcomm. Yet the underlying financials reveal a different hierarchy, with the company ranking only fourth of the five on revenue growth, and fourth on operating margin. So how much are buyers now paying for Marvell's earnings, next to those peers.",
       "id": "a24"
     },
     {
@@ -344,7 +342,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-09T21:20:13.876Z",
+      "fetchedAt": "2026-10-10T01:18:25.542Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -365,7 +363,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-07T07:32:21.000Z",
-      "fetchedAt": "2026-10-09T21:20:10.370Z",
+      "fetchedAt": "2026-10-10T01:18:23.355Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

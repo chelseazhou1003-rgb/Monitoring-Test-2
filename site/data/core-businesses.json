@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-09T21:20:15.796Z",
+  "generatedAt": "2026-10-10T01:18:27.316Z",
   "date": "2026-10-10",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
         "articleIds": [
-          "a1"
+          "a7"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
         "articleIds": [
-          "a10"
+          "a14"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
         "articleIds": [
-          "a17"
+          "a21"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T19:20:06.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-      "id": "a1"
+      "id": "a7"
     },
     {
       "title": "Qualcomm CFO talks AI, data centers, and next big bet on robots",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T17:33:00.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
-      "id": "a3"
+      "id": "a9"
     },
     {
       "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -84,7 +84,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a7"
+      "id": "a12"
     },
     {
       "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T09:27:00.000Z",
-      "fetchedAt": "2026-10-09T21:20:07.427Z",
+      "fetchedAt": "2026-10-10T01:18:20.783Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -102,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-      "id": "a10"
+      "id": "a14"
     },
     {
       "title": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI - Startup Fortune",
@@ -112,7 +112,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T03:42:26.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
+      "fetchedAt": "2026-10-10T01:18:27.283Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "section": "core-businesses",
@@ -123,26 +123,7 @@
       ],
       "stakeholders": [],
       "summary": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI Startup Fortune",
-      "id": "a17"
-    },
-    {
-      "title": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. - 36Kr",
-      "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE9BTDJfOXRNcl9QVXJiUlBPUl9oem11U2poSkw2RVh6RHpJd3VGa0tmUUJBRTlINW9zcFdjVW1UdHc0OW5lX1NYUmV6dE1rNGwtQU1V?oc=5",
-      "description": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips. 36Kr",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T00:33:10.000Z",
-      "fetchedAt": "2026-10-09T21:20:15.762Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "36Kr",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The day Qualcomm paid Huawei marks the fork in the road for two distinct development paths of Chinese chips.",
-      "id": "a19"
+      "id": "a21"
     }
   ]
 }

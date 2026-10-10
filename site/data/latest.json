@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-09T21:20:15.798Z",
+  "generatedAt": "2026-10-10T01:18:27.352Z",
   "date": "2026-10-10",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
+      "articleCount": 5,
       "topHeadline": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 3,
-      "topHeadline": "Qualcomm and Arm set for jury verdict in contract breach feud - Reuters",
-      "topHeadlineId": "a8",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article), Patent Litigation (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -26,24 +26,24 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 18,
-      "topHeadline": "Trump Visa Crackdown Raises Questions for Tech Talent",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles). A total of 18 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (2 articles). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 3,
-      "topHeadline": "Huawei and Qualcomm Sign First Patent Deal Covering 5G and AI - Startup Fortune",
-      "topHeadlineId": "a17",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Wireless Communication (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), IP / Intellectual Property (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 3,
       "topHeadline": "Trump Visa Crackdown Raises Questions for Tech Talent",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a8",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 34
 }
