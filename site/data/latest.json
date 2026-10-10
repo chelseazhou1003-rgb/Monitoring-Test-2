@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-10T14:47:23.305Z",
-  "date": "2026-10-10",
+  "generatedAt": "2026-10-10T19:33:35.955Z",
+  "date": "2026-10-11",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a11",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), FRAND & Licensing (2 articles), IP / Intellectual Property (1 article). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 11,
-      "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
+      "articleCount": 10,
+      "topHeadline": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China - Brand Icon Image",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles). A total of 11 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles), Geopolitics & Export Controls (1 article), IP / Intellectual Property (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 28
+  "totalArticles": 24
 }
