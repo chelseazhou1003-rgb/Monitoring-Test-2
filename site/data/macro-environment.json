@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:58:24.728Z",
+  "generatedAt": "2026-10-11T02:14:00.864Z",
   "date": "2026-10-11",
   "section": "macro-environment",
   "sectionTitle": "Macro",
@@ -7,7 +7,7 @@
     "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
+        "text": "Geopolitics & Export Controls: QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
         "articleIds": [
           "a1"
         ],
@@ -16,13 +16,33 @@
       {
         "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5",
+      "description": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T22:18:37.000Z",
+      "fetchedAt": "2026-10-11T02:14:00.828Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Quantum Computing Report",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+      "id": "a1"
+    },
     {
       "title": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China - Brand Icon Image",
       "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnlmT1cwN2pkRHhVSHZjWTZWRUg4Y2tsTXhPZjRoV3hmNk8tOFBwMnFXOHRNVWF5WUY3ZURMRVowQTk5Wl9qNkdWdWJzbUlQYUJMZVBNZkg1dmR0SlBLQTY4c0c3MS1SN01scGxQX3dmUkczaDNxRjJ3UDRZX1A4eG53MjZMZlU?oc=5",
@@ -31,7 +51,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T18:57:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:24.700Z",
+      "fetchedAt": "2026-10-11T02:14:00.828Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Brand Icon Image",
       "geopoliticalBypass": true,
@@ -41,7 +61,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
-      "id": "a1"
+      "id": "a2"
     },
     {
       "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -51,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T17:03:01.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.234Z",
+      "fetchedAt": "2026-10-11T02:13:54.940Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -59,7 +79,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-      "id": "a2"
+      "id": "a3"
+    },
+    {
+      "title": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China - NDTV Profit",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEhLbjc1Q2luOGNST2RSNVJQMmJNRXhybkl0UUprRWdRbG9vMmNCZ1l3TkZBbHZmRjduRmh3ckRfcU45Z2dBeTBYMUxOR0dBaWNDU1Mwckh3RW82M3RUNHZLTUhXQWs2a2lrb2J5emhoYzlIeWEtcmZPaS00cHpnM2lKbGhlUGNjYVdLLWo1Nzg3alV4bHkyNl9zMEFhaWxjaUFEUUtwNG0xUEtxTVVkUElXTERnRGJFRXdiVFljSkYzbXFWSHI5NUtqcDTSAdQBQVVfeXFMTU9EMzVuTklXQkpVaURLeEZ5OEx4VzF4N0YyYWlndkxvWVlCZlp4SVNEWnRjU2VSMHpGcG80bjdjcExBdktveHdQWVBWV0hOLXZodm5pVWUzS2doRGJRdHZsQVc4UVJVY0hCN25NQTdwZHJ4SWdHREtrREY1ZDBFNWNpdnhSeWp3cXB2RUFuV3VjTWRNNFZQN0p0Y1ZsZGVxd3E2b2p3bFBOUkdUNXV6MVBDT2V1ZkxMZ05mdHYwcXR3aWJ6NW9xTjE4ZklKcEVCU0kxZFE?oc=5",
+      "description": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-10T16:46:57.000Z",
+      "fetchedAt": "2026-10-11T02:14:00.828Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "NDTV Profit",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+      "id": "a4"
     },
     {
       "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
@@ -69,7 +109,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-10T14:00:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.677Z",
+      "fetchedAt": "2026-10-11T02:13:55.380Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -83,27 +123,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-      "id": "a4"
-    },
-    {
-      "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
-      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaWZpUmMxWlFHRGR6djZTUlhheXlCR1dBUXZJM3RQbXNSWTlsd1JSU2lELWdiWUNkWUl2eHFhVHF3QjZKVEdQWmZOME9WTC1BOVNCSXdka1pnUmlReW40MFVEb2xfaDlWM3JnYU1yaTNqLWZYbnlzeTQ5M2dFZjJsNFVDRmNXenFybzJWb1Z0c2NUWWFoeE9mdFJZOHdZOXJVMElhVTc4clBsRksxNmxGR0hHMUNxdk5od0p6dlNzYnNsOHIzZThGdVJNaGZuT2FXOFJUTGZzV19KcEROTmw0d3duRFNyNGxkYXJFVjFyWWxlTERHN1RZ?oc=5",
-      "description": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-10T02:10:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:24.700Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Straits Times",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-      "id": "a6"
+      "id": "a5"
     },
     {
       "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -113,7 +133,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T02:09:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.065Z",
+      "fetchedAt": "2026-10-11T02:13:54.850Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -132,7 +152,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T01:03:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.234Z",
+      "fetchedAt": "2026-10-11T02:13:54.940Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -143,25 +163,6 @@
       "id": "a8"
     },
     {
-      "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
-      "description": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-09T21:11:31.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.392Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-      "id": "a10"
-    },
-    {
       "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
       "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
       "description": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
@@ -169,7 +170,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T15:03:10.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.065Z",
+      "fetchedAt": "2026-10-11T02:13:54.851Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -178,7 +179,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-      "id": "a13"
+      "id": "a12"
     },
     {
       "title": "Access Advance boosts China footprint with new hire, offices",
@@ -188,7 +189,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-09T08:24:15.000Z",
-      "fetchedAt": "2026-10-10T22:58:18.507Z",
+      "fetchedAt": "2026-10-11T02:13:57.025Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -197,7 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-      "id": "a16"
+      "id": "a15"
     },
     {
       "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -207,7 +208,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:22.921Z",
+      "fetchedAt": "2026-10-11T02:13:59.140Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -218,7 +219,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a18"
+      "id": "a17"
     }
   ]
 }

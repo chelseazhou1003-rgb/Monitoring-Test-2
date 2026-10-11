@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-10T22:58:24.728Z",
+  "generatedAt": "2026-10-11T02:14:00.864Z",
   "date": "2026-10-11",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
         "articleIds": [
-          "a4"
+          "a5"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
         "articleIds": [
-          "a14"
+          "a13"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-10T14:00:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.677Z",
+      "fetchedAt": "2026-10-11T02:13:55.380Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -45,7 +45,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-      "id": "a4"
+      "id": "a5"
     },
     {
       "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -55,7 +55,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-10T22:58:16.234Z",
+      "fetchedAt": "2026-10-11T02:13:54.940Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -65,7 +65,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a14"
+      "id": "a13"
     },
     {
       "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -75,7 +75,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-08T16:30:00.000Z",
-      "fetchedAt": "2026-10-10T22:58:22.921Z",
+      "fetchedAt": "2026-10-11T02:13:59.140Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -86,7 +86,7 @@
         "oem"
       ],
       "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-      "id": "a18"
+      "id": "a17"
     }
   ]
 }

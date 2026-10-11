@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -12,7 +12,7 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
           "articleIds": [
-            "a4"
+            "a5"
           ],
           "subCategory": "geopolitics-export-controls"
         },
@@ -26,7 +26,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
           "articleIds": [
-            "a17"
+            "a16"
           ],
           "subCategory": "frand-licensing"
         }
@@ -41,7 +41,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.677Z",
+        "fetchedAt": "2026-10-11T02:13:55.380Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -55,7 +55,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -65,7 +65,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -85,7 +85,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T23:15:57.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -95,54 +95,35 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-        "id": "a17"
+        "id": "a16"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+          "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
           "articleIds": [
-            "a3"
+            "a10"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
           "articleIds": [
-            "a15"
+            "a14"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
-      {
-        "title": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcGM1M2tBNnl3S2xMc3RqV21kX1VYWkZtNkN4anZnTlpnMWJQcEhVbEtfLW80VC1tM01jTnNVWHBhNTM3aTdnZTI4S1g0anJvdml4WFFFZnFFT0ZGYnh3?oc=5",
-        "description": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-10T17:01:47.000Z",
-        "fetchedAt": "2026-10-10T22:58:23.553Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
-        "id": "a3"
-      },
       {
         "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
         "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
@@ -151,7 +132,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T19:20:06.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -159,7 +140,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-        "id": "a11"
+        "id": "a10"
       },
       {
         "title": "Qualcomm CFO talks AI, data centers, and next big bet on robots",
@@ -169,7 +150,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T17:33:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -177,7 +158,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
-        "id": "a12"
+        "id": "a11"
       },
       {
         "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -187,7 +168,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -197,7 +178,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-        "id": "a14"
+        "id": "a13"
       },
       {
         "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
@@ -207,7 +188,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T09:27:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -215,12 +196,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-        "id": "a15"
+        "id": "a14"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -231,7 +212,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -241,7 +222,7 @@ export const NEWS_DATA = {
         {
           "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "patent-litigation"
         },
@@ -255,7 +236,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
           "articleIds": [
-            "a17"
+            "a16"
           ],
           "subCategory": "frand-licensing"
         }
@@ -270,7 +251,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T11:42:15.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -278,7 +259,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -288,7 +269,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -308,7 +289,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-08T23:15:57.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -318,26 +299,26 @@ export const NEWS_DATA = {
         ],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-        "id": "a17"
+        "id": "a16"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-10T22:58:24.732Z",
+    "generatedAt": "2026-10-11T02:14:00.868Z",
     "date": "2026-10-11",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
+        "topHeadlineId": "a10",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 3,
         "topHeadline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-        "topHeadlineId": "a5",
+        "topHeadlineId": "a6",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "growth-areas": {
@@ -350,7 +331,7 @@ export const NEWS_DATA = {
       "macro-environment": {
         "title": "Macro",
         "articleCount": 10,
-        "topHeadline": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China - Brand Icon Image",
+        "topHeadline": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
         "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources."
       },
@@ -358,21 +339,21 @@ export const NEWS_DATA = {
         "title": "Competitors",
         "articleCount": 3,
         "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-        "topHeadlineId": "a4",
+        "topHeadlineId": "a5",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 3,
         "topHeadline": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
-        "topHeadlineId": "a4",
+        "topHeadlineId": "a5",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 24
+    "totalArticles": 23
   },
   "macro-environment": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -380,7 +361,7 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
+          "text": "Geopolitics & Export Controls: QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
           "articleIds": [
             "a1"
           ],
@@ -389,13 +370,33 @@ export const NEWS_DATA = {
         {
           "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
           "articleIds": [
-            "a2"
+            "a3"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
+        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5",
+        "description": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-10T22:18:37.000Z",
+        "fetchedAt": "2026-10-11T02:14:00.828Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Quantum Computing Report",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+        "id": "a1"
+      },
       {
         "title": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China - Brand Icon Image",
         "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnlmT1cwN2pkRHhVSHZjWTZWRUg4Y2tsTXhPZjRoV3hmNk8tOFBwMnFXOHRNVWF5WUY3ZURMRVowQTk5Wl9qNkdWdWJzbUlQYUJMZVBNZkg1dmR0SlBLQTY4c0c3MS1SN01scGxQX3dmUkczaDNxRjJ3UDRZX1A4eG53MjZMZlU?oc=5",
@@ -404,7 +405,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T18:57:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:24.700Z",
+        "fetchedAt": "2026-10-11T02:14:00.828Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Brand Icon Image",
         "geopoliticalBypass": true,
@@ -414,7 +415,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -424,7 +425,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T17:03:01.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -432,7 +433,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-        "id": "a2"
+        "id": "a3"
+      },
+      {
+        "title": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China - NDTV Profit",
+        "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEhLbjc1Q2luOGNST2RSNVJQMmJNRXhybkl0UUprRWdRbG9vMmNCZ1l3TkZBbHZmRjduRmh3ckRfcU45Z2dBeTBYMUxOR0dBaWNDU1Mwckh3RW82M3RUNHZLTUhXQWs2a2lrb2J5emhoYzlIeWEtcmZPaS00cHpnM2lKbGhlUGNjYVdLLWo1Nzg3alV4bHkyNl9zMEFhaWxjaUFEUUtwNG0xUEtxTVVkUElXTERnRGJFRXdiVFljSkYzbXFWSHI5NUtqcDTSAdQBQVVfeXFMTU9EMzVuTklXQkpVaURLeEZ5OEx4VzF4N0YyYWlndkxvWVlCZlp4SVNEWnRjU2VSMHpGcG80bjdjcExBdktveHdQWVBWV0hOLXZodm5pVWUzS2doRGJRdHZsQVc4UVJVY0hCN25NQTdwZHJ4SWdHREtrREY1ZDBFNWNpdnhSeWp3cXB2RUFuV3VjTWRNNFZQN0p0Y1ZsZGVxd3E2b2p3bFBOUkdUNXV6MVBDT2V1ZkxMZ05mdHYwcXR3aWJ6NW9xTjE4ZklKcEVCU0kxZFE?oc=5",
+        "description": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-10T16:46:57.000Z",
+        "fetchedAt": "2026-10-11T02:14:00.828Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "NDTV Profit",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+        "id": "a4"
       },
       {
         "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
@@ -442,7 +463,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.677Z",
+        "fetchedAt": "2026-10-11T02:13:55.380Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -456,27 +477,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a4"
-      },
-      {
-        "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
-        "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaWZpUmMxWlFHRGR6djZTUlhheXlCR1dBUXZJM3RQbXNSWTlsd1JSU2lELWdiWUNkWUl2eHFhVHF3QjZKVEdQWmZOME9WTC1BOVNCSXdka1pnUmlReW40MFVEb2xfaDlWM3JnYU1yaTNqLWZYbnlzeTQ5M2dFZjJsNFVDRmNXenFybzJWb1Z0c2NUWWFoeE9mdFJZOHdZOXJVMElhVTc4clBsRksxNmxGR0hHMUNxdk5od0p6dlNzYnNsOHIzZThGdVJNaGZuT2FXOFJUTGZzV19KcEROTmw0d3duRFNyNGxkYXJFVjFyWWxlTERHN1RZ?oc=5",
-        "description": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-10T02:10:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:24.700Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Straits Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-        "id": "a6"
+        "id": "a5"
       },
       {
         "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -486,7 +487,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T02:09:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.065Z",
+        "fetchedAt": "2026-10-11T02:13:54.850Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -505,7 +506,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T01:03:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -516,25 +517,6 @@ export const NEWS_DATA = {
         "id": "a8"
       },
       {
-        "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
-        "description": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-09T21:11:31.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.392Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-        "id": "a10"
-      },
-      {
         "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
         "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
         "description": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
@@ -542,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T15:03:10.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.065Z",
+        "fetchedAt": "2026-10-11T02:13:54.851Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -551,7 +533,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-        "id": "a13"
+        "id": "a12"
       },
       {
         "title": "Access Advance boosts China footprint with new hire, offices",
@@ -561,7 +543,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-09T08:24:15.000Z",
-        "fetchedAt": "2026-10-10T22:58:18.507Z",
+        "fetchedAt": "2026-10-11T02:13:57.025Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -570,7 +552,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-        "id": "a16"
+        "id": "a15"
       },
       {
         "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -580,7 +562,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-08T16:30:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:22.921Z",
+        "fetchedAt": "2026-10-11T02:13:59.140Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -591,7 +573,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-        "id": "a18"
+        "id": "a17"
       }
     ]
   },
@@ -787,7 +769,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-10T22:58:24.728Z",
+    "generatedAt": "2026-10-11T02:14:00.864Z",
     "date": "2026-10-11",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -797,14 +779,14 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
           "articleIds": [
-            "a4"
+            "a5"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
           "articleIds": [
-            "a14"
+            "a13"
           ],
           "subCategory": "semiconductors"
         }
@@ -819,7 +801,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-10T14:00:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.677Z",
+        "fetchedAt": "2026-10-11T02:13:55.380Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -833,7 +815,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -843,7 +825,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-10T22:58:16.234Z",
+        "fetchedAt": "2026-10-11T02:13:54.940Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -853,7 +835,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-        "id": "a14"
+        "id": "a13"
       },
       {
         "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -863,7 +845,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-08T16:30:00.000Z",
-        "fetchedAt": "2026-10-10T22:58:22.921Z",
+        "fetchedAt": "2026-10-11T02:13:59.140Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -874,7 +856,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-        "id": "a18"
+        "id": "a17"
       }
     ]
   },
@@ -22459,53 +22441,34 @@ export const NEWS_DATA = {
     "totalArticles": 28
   },
   "archive-2026-10-11": {
-    "generatedAt": "2026-10-10T22:58:24.732Z",
+    "generatedAt": "2026-10-11T02:14:00.868Z",
     "date": "2026-10-11",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
+              "text": "Semiconductors: ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
               "articleIds": [
-                "a3"
+                "a10"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
               "articleIds": [
-                "a15"
+                "a14"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
-          {
-            "title": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTFBHcGM1M2tBNnl3S2xMc3RqV21kX1VYWkZtNkN4anZnTlpnMWJQcEhVbEtfLW80VC1tM01jTnNVWHBhNTM3aTdnZTI4S1g0anJvdml4WFFFZnFFT0ZGYnh3?oc=5",
-            "description": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T17:01:47.000Z",
-            "fetchedAt": "2026-10-10T22:58:23.553Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "About IncomeShares QUALCOMM (QCOM) Options ETP (QUOY.DE) Reuters",
-            "id": "a3"
-          },
           {
             "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
             "url": "https://www.fool.com/coverage/better-buy/2026/10/09/better-artificial-intelligence-stock-asml-vs-qualcomm/?.tsrc=rss",
@@ -22514,7 +22477,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T19:20:06.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22522,7 +22485,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ASML controls the machinery behind every advanced chip, while Qualcomm powers the devices that use them, but their risk profiles and valuations tell very different stories.",
-            "id": "a11"
+            "id": "a10"
           },
           {
             "title": "Qualcomm CFO talks AI, data centers, and next big bet on robots",
@@ -22532,7 +22495,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T17:33:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22540,7 +22503,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "In an exclusive interview, Qualcomm CFO Akash Palkhiwala reveals the company’s push away from its smartphone roots.",
-            "id": "a12"
+            "id": "a11"
           },
           {
             "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -22550,7 +22513,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22560,7 +22523,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "id": "a14"
+            "id": "a13"
           },
           {
             "title": "Tejas Networks and Qualcomm jointly demonstrate 6G Integrated Sensing and Communications (ISAC) technology at India Mobile Congress 2026",
@@ -22570,7 +22533,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T09:27:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22578,12 +22541,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Tejas Networks (BSE: 540595) (NSE: TEJASNET) in collaboration with Qualcomm Technologies is demonstrating Integrated Sensing and Communication (ISAC) at the India Mobile Congress (IMC) 2026.",
-            "id": "a15"
+            "id": "a14"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22593,7 +22556,7 @@ export const NEWS_DATA = {
             {
               "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "patent-litigation"
             },
@@ -22607,7 +22570,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
               "articleIds": [
-                "a17"
+                "a16"
               ],
               "subCategory": "frand-licensing"
             }
@@ -22622,7 +22585,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T11:42:15.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -22630,7 +22593,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -22640,7 +22603,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -22660,7 +22623,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22670,12 +22633,12 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "id": "a17"
+            "id": "a16"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22686,7 +22649,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -22694,7 +22657,7 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
+              "text": "Geopolitics & Export Controls: QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
               "articleIds": [
                 "a1"
               ],
@@ -22703,13 +22666,33 @@ export const NEWS_DATA = {
             {
               "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
               "articleIds": [
-                "a2"
+                "a3"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5",
+            "description": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-10T22:18:37.000Z",
+            "fetchedAt": "2026-10-11T02:14:00.828Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Quantum Computing Report",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
+            "id": "a1"
+          },
           {
             "title": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China - Brand Icon Image",
             "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNMnlmT1cwN2pkRHhVSHZjWTZWRUg4Y2tsTXhPZjRoV3hmNk8tOFBwMnFXOHRNVWF5WUY3ZURMRVowQTk5Wl9qNkdWdWJzbUlQYUJMZVBNZkg1dmR0SlBLQTY4c0c3MS1SN01scGxQX3dmUkczaDNxRjJ3UDRZX1A4eG53MjZMZlU?oc=5",
@@ -22718,7 +22701,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T18:57:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:24.700Z",
+            "fetchedAt": "2026-10-11T02:14:00.828Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Brand Icon Image",
             "geopoliticalBypass": true,
@@ -22728,7 +22711,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Super Micro-Linked Contractor Pleads Guilty in Illegal AI Chip Export Scheme to China Brand Icon Image",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -22738,7 +22721,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T17:03:01.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -22746,7 +22729,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-            "id": "a2"
+            "id": "a3"
+          },
+          {
+            "title": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China - NDTV Profit",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNNEhLbjc1Q2luOGNST2RSNVJQMmJNRXhybkl0UUprRWdRbG9vMmNCZ1l3TkZBbHZmRjduRmh3ckRfcU45Z2dBeTBYMUxOR0dBaWNDU1Mwckh3RW82M3RUNHZLTUhXQWs2a2lrb2J5emhoYzlIeWEtcmZPaS00cHpnM2lKbGhlUGNjYVdLLWo1Nzg3alV4bHkyNl9zMEFhaWxjaUFEUUtwNG0xUEtxTVVkUElXTERnRGJFRXdiVFljSkYzbXFWSHI5NUtqcDTSAdQBQVVfeXFMTU9EMzVuTklXQkpVaURLeEZ5OEx4VzF4N0YyYWlndkxvWVlCZlp4SVNEWnRjU2VSMHpGcG80bjdjcExBdktveHdQWVBWV0hOLXZodm5pVWUzS2doRGJRdHZsQVc4UVJVY0hCN25NQTdwZHJ4SWdHREtrREY1ZDBFNWNpdnhSeWp3cXB2RUFuV3VjTWRNNFZQN0p0Y1ZsZGVxd3E2b2p3bFBOUkdUNXV6MVBDT2V1ZkxMZ05mdHYwcXR3aWJ6NW9xTjE4ZklKcEVCU0kxZFE?oc=5",
+            "description": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-10T16:46:57.000Z",
+            "fetchedAt": "2026-10-11T02:14:00.828Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "NDTV Profit",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Super Micro Contractor Pleads Guilty In $2.5 Billion AI Chip Diversion Case Linked To China NDTV Profit",
+            "id": "a4"
           },
           {
             "title": "Will Warner Bros. kill Skydance — or will David Ellison kill Warner Bros?",
@@ -22756,7 +22759,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.677Z",
+            "fetchedAt": "2026-10-11T02:13:55.380Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22770,27 +22773,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a4"
-          },
-          {
-            "title": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China - The Straits Times",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOaWZpUmMxWlFHRGR6djZTUlhheXlCR1dBUXZJM3RQbXNSWTlsd1JSU2lELWdiWUNkWUl2eHFhVHF3QjZKVEdQWmZOME9WTC1BOVNCSXdka1pnUmlReW40MFVEb2xfaDlWM3JnYU1yaTNqLWZYbnlzeTQ5M2dFZjJsNFVDRmNXenFybzJWb1Z0c2NUWWFoeE9mdFJZOHdZOXJVMElhVTc4clBsRksxNmxGR0hHMUNxdk5od0p6dlNzYnNsOHIzZThGdVJNaGZuT2FXOFJUTGZzV19KcEROTmw0d3duRFNyNGxkYXJFVjFyWWxlTERHN1RZ?oc=5",
-            "description": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T02:10:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:24.700Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Straits Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Super Micro contractor pleads guilty in scheme to divert AI servers with Nvidia chips to China The Straits Times",
-            "id": "a6"
+            "id": "a5"
           },
           {
             "title": "Trump's diesel agreement with Putin accused of contradicting Russia sanctions law",
@@ -22800,7 +22783,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T02:09:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.065Z",
+            "fetchedAt": "2026-10-11T02:13:54.850Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22819,7 +22802,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T01:03:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
@@ -22830,25 +22813,6 @@ export const NEWS_DATA = {
             "id": "a8"
           },
           {
-            "title": "Super Micro Case ‘Fixer’ Pleads Guilty to Diverting AI Tech",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-09/super-micro-case-fixer-pleads-guilty-to-diverting-ai-servers",
-            "description": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-09T21:11:31.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.392Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A man charged along with Super Micro Computer Inc. co-founder Yih-Shyan “Wally” Liaw of conspiring to send cutting-edge chips to China in violation of US export controls pleaded guilty, according to court documents.",
-            "id": "a10"
-          },
-          {
             "title": "China and Europe agree to cut Chinese hybrid vehicle exports by half",
             "url": "https://www.cnbc.com/2026/10/09/china-europe-hybrid-vehicle-exports-deal.html",
             "description": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
@@ -22856,7 +22820,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T15:03:10.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.065Z",
+            "fetchedAt": "2026-10-11T02:13:54.851Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22865,7 +22829,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Europe's trade chief Maroš Sefčovič cast the two days of talks with China's Commerce Minister Wang Wentao in Beijing as a positive first step.",
-            "id": "a13"
+            "id": "a12"
           },
           {
             "title": "Access Advance boosts China footprint with new hire, offices",
@@ -22875,7 +22839,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-09T08:24:15.000Z",
-            "fetchedAt": "2026-10-10T22:58:18.507Z",
+            "fetchedAt": "2026-10-11T02:13:57.025Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22884,7 +22848,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Recent Access Advance and Nokia appointments in the country highlight the strategic importance of the Asian market",
-            "id": "a16"
+            "id": "a15"
           },
           {
             "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -22894,7 +22858,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:22.921Z",
+            "fetchedAt": "2026-10-11T02:13:59.140Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22905,12 +22869,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "id": "a18"
+            "id": "a17"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22920,7 +22884,7 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
               "articleIds": [
-                "a4"
+                "a5"
               ],
               "subCategory": "geopolitics-export-controls"
             },
@@ -22934,7 +22898,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei pate",
               "articleIds": [
-                "a17"
+                "a16"
               ],
               "subCategory": "frand-licensing"
             }
@@ -22949,7 +22913,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.677Z",
+            "fetchedAt": "2026-10-11T02:13:55.380Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22963,7 +22927,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Should Qualcomm Stock Holders Look At First Solar Instead?",
@@ -22973,7 +22937,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -22993,7 +22957,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-08T23:15:57.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -23003,12 +22967,12 @@ export const NEWS_DATA = {
             ],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) and Huawei have entered a multi-year cross-license agreement covering 5G, AI, compute, and networking technologies. The deal includes Qualcomm's purchase of select Huawei patents, which remains subject to regulatory approval in the United States. This is the first broad cross-license between Huawei and Qualcomm for 5G and emerging technologies, potentially affecting future royalty structures for both firms. The new Huawei Qualcomm cross-license and patent purchase is...",
-            "id": "a17"
+            "id": "a16"
           }
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-10T22:58:24.728Z",
+        "generatedAt": "2026-10-11T02:14:00.864Z",
         "date": "2026-10-11",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -23018,14 +22982,14 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply",
               "articleIds": [
-                "a4"
+                "a5"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
               "articleIds": [
-                "a14"
+                "a13"
               ],
               "subCategory": "semiconductors"
             }
@@ -23040,7 +23004,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-10T14:00:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.677Z",
+            "fetchedAt": "2026-10-11T02:13:55.380Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23054,7 +23018,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Peter Kafka, chief correspondent at Business Insider and host of the Channels podcast, about the gigantic Warner Bros.-Paramount merger and the future of the company now simply called Skydance. Skydance is owned by David Ellison, son of Oracle CEO Larry Ellison, and its deal to acquire Warner Bros. Discovery officially closed the day Peter and I spoke. There are some grand ambitions here, but the reality is that acquiring Warner never goes well for anyone. AOL failed, AT&T failed, and Discovery failed — although it did succeed in flipping these assets to Skydance.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
@@ -23064,7 +23028,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-10T22:58:16.234Z",
+            "fetchedAt": "2026-10-11T02:13:54.940Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23074,7 +23038,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-            "id": "a14"
+            "id": "a13"
           },
           {
             "title": "OPPO, Nidec have taken Qi Wireless Power patent pool license, Via announces during AI licensing-focused Summit",
@@ -23084,7 +23048,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-08T16:30:00.000Z",
-            "fetchedAt": "2026-10-10T22:58:22.921Z",
+            "fetchedAt": "2026-10-11T02:13:59.140Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23095,12 +23059,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "During its annual Bridge Summit in San Francisco today, which will largely focus on opportunities and strategies in AI patent licensing, Via Licensing Alliance announced Japan’s Nidec Mobility Corporation and China’s OPPO – already a licensor – have both taken a license in Via's Qi Wireless Power patent pool.",
-            "id": "a18"
+            "id": "a17"
           }
         ]
       }
     },
-    "totalArticles": 24
+    "totalArticles": 23
   }
 };
 
