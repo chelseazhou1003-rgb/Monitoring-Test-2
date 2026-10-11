@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-11T15:58:42.521Z",
-  "date": "2026-10-11",
+  "generatedAt": "2026-10-11T20:36:58.016Z",
+  "date": "2026-10-12",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
-      "topHeadline": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-      "topHeadlineId": "a11",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a10",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), IP / Intellectual Property (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 11,
-      "topHeadline": "Ukraine Shows How Musk's Starlink Can Be National Security Risk In Conflict - News18",
+      "articleCount": 9,
+      "topHeadline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), Customers & Partners (1 article). A total of 11 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Should Qualcomm Stock Holders Look At First Solar Instead?",
-      "topHeadlineId": "a13",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans IP / Intellectual Property (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a12",
+      "briefingSummary": "One article today covering IP / Intellectual Property. Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, H"
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Apple Drops 3% on Reported iPhone 18 Pro Component Order Cuts; Skyworks Slips, Qualcomm Treads Water",
-      "topHeadlineId": "a16",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a15",
+      "briefingSummary": "One article today covering Semiconductors. Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises que"
     }
   },
-  "totalArticles": 24
+  "totalArticles": 18
 }
