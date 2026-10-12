@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:01:05.043Z",
+  "generatedAt": "2026-10-12T06:36:10.330Z",
   "date": "2026-10-12",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is ",
         "articleIds": [
-          "a15"
+          "a17"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T13:31:32.000Z",
-      "fetchedAt": "2026-10-12T00:00:56.884Z",
+      "fetchedAt": "2026-10-12T06:36:02.059Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Apple just got hit with a report that it slashed iPhone 18 Pro component orders, and the fallout is splitting the chip sector in a way that raises questions about whether premium smartphone demand is cracking at exactly the wrong moment.",
-      "id": "a15"
+      "id": "a17"
     }
   ]
 }

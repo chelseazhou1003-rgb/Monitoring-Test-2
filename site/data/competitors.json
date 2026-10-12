@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T00:01:05.043Z",
+  "generatedAt": "2026-10-12T06:36:10.330Z",
   "date": "2026-10-12",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,7 +9,7 @@
       {
         "text": "IP / Intellectual Property: Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year pate",
         "articleIds": [
-          "a12"
+          "a14"
         ],
         "subCategory": "ip"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T23:13:09.000Z",
-      "fetchedAt": "2026-10-12T00:00:56.884Z",
+      "fetchedAt": "2026-10-12T06:36:02.059Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",
@@ -34,7 +34,7 @@
       ],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) and First Solar (FSLR) are both filed under semiconductors, and each holds patents that competitors want to use. On October 5, 2026, Huawei announced it had agreed to a multi-year patent licensing deal with Qualcomm. solar panel maker First Solar is actively suing rivals over its own patent rights. Yet when these two companies released their latest financial reports, they delivered completely different messages to shareholders. So which way does Qualcomm's out",
-      "id": "a12"
+      "id": "a14"
     }
   ]
 }
