@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-12T16:10:22.047Z",
+  "generatedAt": "2026-10-12T23:15:15.748Z",
   "date": "2026-10-13",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (1 article), Customers & Partners (1 article). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 11 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Andy Burnham says events at Gloucestershire base used by US military were ‘almost certainly directed’ by Islamic Revolutionary Guards",
+        "text": "Geopolitics & Export Controls: Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ",
+        "text": "market-performance: Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, partic",
         "articleIds": [
-          "a5"
+          "a3"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
         "articleIds": [
-          "a18"
+          "a23"
         ],
         "subCategory": "customers-partners"
       }
@@ -31,14 +31,14 @@
   },
   "articles": [
     {
-      "title": "UK imposes new sanctions on Iran over RAF Fairford incident",
-      "url": "https://www.ft.com/content/f7ef12e0-7719-4cac-a3a2-27b85b6ab99b?syn-25a6b1a6=1",
-      "description": "Andy Burnham says events at Gloucestershire base used by US military were ‘almost certainly directed’ by Islamic Revolutionary Guards",
-      "source": "Financial Times",
-      "sourceId": "ft",
+      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T15:43:05.000Z",
-      "fetchedAt": "2026-10-12T16:10:14.508Z",
+      "publishedAt": "2026-10-12T23:00:01.000Z",
+      "fetchedAt": "2026-10-12T23:15:06.652Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -46,8 +46,85 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Andy Burnham says events at Gloucestershire base used by US military were ‘almost certainly directed’ by Islamic Revolutionary Guards",
+      "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
       "id": "a1"
+    },
+    {
+      "title": "What Changed In Qualcomm's Story?",
+      "url": "https://www.trefis.com/articles/618342/what-changed-in-qualcomms-story/2026-10-12?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T21:55:37.000Z",
+      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
+      "id": "a3"
+    },
+    {
+      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+      "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+      "description": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T18:32:03.000Z",
+      "fetchedAt": "2026-10-12T23:15:06.652Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "id": "a4"
+    },
+    {
+      "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zam1IQWJzZ1RQVXlKbGdDd2NUYVVCQXpmRnVXclgzVnJwM1VhSDN4MmhTXzlYWnNuekRGeVJFdV8tcmNHMUlTYVZON3FKNDc2dTRCZg?oc=5",
+      "description": "China's first general-purpose high-performance chip Loongson launched 當代中國",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T16:41:22.000Z",
+      "fetchedAt": "2026-10-12T23:15:15.709Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "當代中國",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
+      "id": "a5"
+    },
+    {
+      "title": "Drone firm executives held over China-chip claims - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
+      "description": "Drone firm executives held over China-chip claims Taipei Times",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "fetchedAt": "2026-10-12T23:15:15.709Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Taipei Times",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Drone firm executives held over China-chip claims Taipei Times",
+      "id": "a7"
     },
     {
       "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
@@ -57,7 +134,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:49.000Z",
-      "fetchedAt": "2026-10-12T16:10:14.003Z",
+      "fetchedAt": "2026-10-12T23:15:06.779Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -65,7 +142,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) did not get a verdict in its lawsuit against Arm Holdings.",
-      "id": "a5"
+      "id": "a13"
     },
     {
       "title": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help - Accounting Today",
@@ -75,7 +152,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:00.000Z",
-      "fetchedAt": "2026-10-12T16:10:22.009Z",
+      "fetchedAt": "2026-10-12T23:15:15.709Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Accounting Today",
       "geopoliticalBypass": true,
@@ -85,26 +162,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help Accounting Today",
-      "id": "a7"
-    },
-    {
-      "title": "Beckham, Yao Ming attend NBA China Games in a boost to Macao's live events",
-      "url": "https://www.cnbc.com/2026/10/12/beckham-yao-ming-nba-china-games-liev-events.html",
-      "description": "The NBA China Games brought Chinese and U.S. basketball fans to Macao, which is spending big to broaden its reputation beyond a gambling mecca.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T12:04:36.000Z",
-      "fetchedAt": "2026-10-12T16:10:13.904Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The NBA China Games brought Chinese and U.S. basketball fans to Macao, which is spending big to broaden its reputation beyond a gambling mecca.",
-      "id": "a10"
+      "id": "a15"
     },
     {
       "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -114,7 +172,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-12T07:59:41.000Z",
-      "fetchedAt": "2026-10-12T16:10:16.669Z",
+      "fetchedAt": "2026-10-12T23:15:09.240Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -123,7 +181,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-      "id": "a11"
+      "id": "a18"
     },
     {
       "title": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall - ad-hoc-news.de",
@@ -133,7 +191,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T05:01:23.000Z",
-      "fetchedAt": "2026-10-12T16:10:22.010Z",
+      "fetchedAt": "2026-10-12T23:15:15.710Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "ad-hoc-news.de",
       "geopoliticalBypass": true,
@@ -143,46 +201,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-      "id": "a12"
-    },
-    {
-      "title": "Why China is importing a record amount of gold — and what it means for prices",
-      "url": "https://www.cnbc.com/2026/10/12/china-gold-buying-interest-rate-.html",
-      "description": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T00:51:10.000Z",
-      "fetchedAt": "2026-10-12T16:10:13.904Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Beijing’s push to diversify away from the dollar and Chinese households’ search for a safe place to put their savings has fueled China’s record gold buying.",
-      "id": "a13"
-    },
-    {
-      "title": "Meet The Early Movers In America's $3T Push For Manufacturing Construction - Bisnow",
-      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1dSbFVqZTV3Z1pfX1pIR0NfeE9KZy1qNUM3cVlOSFZUeGVtSmJrN1BjWnI3dDNrY1FjQ1Q4WWNmdlloRUJWdzBMR0pnejNXLXFvRFpkX1dqWDZqQ0xVd3JmUEFJRW1IVmI1SFlGb3hxWENISmVaLXBWdzRINGRsVHh3ZVU0Zi15R1MydnNNX05ZbUFkZzVUWDM2LTFtSm16WWNrOWM0c2xGdElnU0hPZXR1bHB0VUxtNTBrcGItUTdvQk5JNHdVb0Z4VQ?oc=5",
-      "description": "Meet The Early Movers In America's $3T Push For Manufacturing Construction Bisnow",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-11T22:30:02.000Z",
-      "fetchedAt": "2026-10-12T16:10:22.010Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Bisnow",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Meet The Early Movers In America's $3T Push For Manufacturing Construction Bisnow",
-      "id": "a15"
+      "id": "a19"
     },
     {
       "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -192,7 +211,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T17:03:01.000Z",
-      "fetchedAt": "2026-10-12T16:10:14.003Z",
+      "fetchedAt": "2026-10-12T23:15:06.779Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -200,7 +219,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-      "id": "a18"
+      "id": "a23"
     },
     {
       "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
@@ -210,7 +229,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T01:03:00.000Z",
-      "fetchedAt": "2026-10-12T16:10:14.003Z",
+      "fetchedAt": "2026-10-12T23:15:06.779Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -218,7 +237,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-      "id": "a20"
+      "id": "a25"
     }
   ]
 }
