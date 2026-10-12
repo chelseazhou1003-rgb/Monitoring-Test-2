@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-11T20:36:57.993Z",
+  "generatedAt": "2026-10-12T00:01:05.043Z",
   "date": "2026-10-12",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-09T23:13:09.000Z",
-      "fetchedAt": "2026-10-11T20:36:51.059Z",
+      "fetchedAt": "2026-10-12T00:00:56.884Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "ip",

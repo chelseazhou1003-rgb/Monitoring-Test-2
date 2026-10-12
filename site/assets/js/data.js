@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -27,7 +27,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -42,7 +42,7 @@ export const NEWS_DATA = {
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -52,14 +52,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: The mobile chipmaker is struggling to keep up with its higher-growth peers.",
           "articleIds": [
-            "a3"
+            "a4"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "wireless"
         }
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T16:50:00.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -82,7 +82,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
@@ -92,7 +92,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-11T09:29:51.000Z",
-        "fetchedAt": "2026-10-11T20:36:53.376Z",
+        "fetchedAt": "2026-10-12T00:00:59.422Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -100,7 +100,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
@@ -110,7 +110,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T19:20:06.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -128,7 +128,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T17:33:00.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -146,7 +146,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -161,7 +161,7 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -172,7 +172,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -204,7 +204,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T11:42:15.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -222,7 +222,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T23:13:09.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "ip",
@@ -237,14 +237,14 @@ export const NEWS_DATA = {
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-11T20:36:58.016Z",
+    "generatedAt": "2026-10-12T00:01:05.046Z",
     "date": "2026-10-12",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
         "topHeadline": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a4",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -264,7 +264,7 @@ export const NEWS_DATA = {
       "macro-environment": {
         "title": "Macro",
         "articleCount": 9,
-        "topHeadline": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
+        "topHeadline": "Key Projects In America's $3T Manufacturing Boom - Bisnow",
         "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources."
       },
@@ -286,7 +286,7 @@ export const NEWS_DATA = {
     "totalArticles": 18
   },
   "macro-environment": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -294,7 +294,7 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
+          "text": "Geopolitics & Export Controls: Key Projects In America's $3T Manufacturing Boom Bisnow",
           "articleIds": [
             "a1"
           ],
@@ -311,6 +311,26 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Key Projects In America's $3T Manufacturing Boom - Bisnow",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1dSbFVqZTV3Z1pfX1pIR0NfeE9KZy1qNUM3cVlOSFZUeGVtSmJrN1BjWnI3dDNrY1FjQ1Q4WWNmdlloRUJWdzBMR0pnejNXLXFvRFpkX1dqWDZqQ0xVd3JmUEFJRW1IVmI1SFlGb3hxWENISmVaLXBWdzRINGRsVHh3ZVU0Zi15R1MydnNNX05ZbUFkZzVUWDM2LTFtSm16WWNrOWM0c2xGdElnU0hPZXR1bHB0VUxtNTBrcGItUTdvQk5JNHdVb0Z4VQ?oc=5",
+        "description": "Key Projects In America's $3T Manufacturing Boom Bisnow",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-11T22:30:02.000Z",
+        "fetchedAt": "2026-10-12T00:01:05.021Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Bisnow",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key Projects In America's $3T Manufacturing Boom Bisnow",
+        "id": "a1"
+      },
+      {
         "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
         "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
         "description": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
@@ -318,7 +338,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T20:00:01.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.468Z",
+        "fetchedAt": "2026-10-12T00:00:57.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -327,7 +347,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "VW chief calls for France and Germany to co-operate on China car fightback",
@@ -337,7 +357,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T18:09:24.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.468Z",
+        "fetchedAt": "2026-10-12T00:00:57.377Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -346,7 +366,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "Ukraine Shows How Musk's Starlink Can Be National Security Risk In Conflict - News18",
@@ -356,7 +376,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T09:34:29.000Z",
-        "fetchedAt": "2026-10-11T20:36:57.968Z",
+        "fetchedAt": "2026-10-12T00:01:05.021Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "News18",
         "geopoliticalBypass": true,
@@ -366,7 +386,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukraine Shows How Musk's Starlink Can Be National Security Risk In Conflict News18",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Super Micro-Linked Contractor Pleads Guilty in $2.5bn Nvidia AI Chip Smuggling Scheme to China - Tekedia",
@@ -376,7 +396,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T08:16:46.000Z",
-        "fetchedAt": "2026-10-11T20:36:57.968Z",
+        "fetchedAt": "2026-10-12T00:01:05.021Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Tekedia",
         "geopoliticalBypass": true,
@@ -386,7 +406,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Super Micro-Linked Contractor Pleads Guilty in $2.5bn Nvidia AI Chip Smuggling Scheme to China Tekedia",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "Super micro-linked contractor pleads guilty in illegal AI Chip exports to China - Daijiworld",
@@ -396,7 +416,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-11T03:58:58.000Z",
-        "fetchedAt": "2026-10-11T20:36:57.968Z",
+        "fetchedAt": "2026-10-12T00:01:05.022Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Daijiworld",
         "geopoliticalBypass": true,
@@ -406,26 +426,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Super micro-linked contractor pleads guilty in illegal AI Chip exports to China Daijiworld",
-        "id": "a7"
-      },
-      {
-        "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5",
-        "description": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-10T22:18:37.000Z",
-        "fetchedAt": "2026-10-11T20:36:57.968Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Quantum Computing Report",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
         "id": "a8"
       },
       {
@@ -436,7 +436,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T17:03:01.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -454,7 +454,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-10T01:03:00.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -472,7 +472,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-09T08:24:15.000Z",
-        "fetchedAt": "2026-10-11T20:36:53.376Z",
+        "fetchedAt": "2026-10-12T00:00:59.422Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -677,7 +677,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-11T20:36:57.993Z",
+    "generatedAt": "2026-10-12T00:01:05.043Z",
     "date": "2026-10-12",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -702,7 +702,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-09T13:31:32.000Z",
-        "fetchedAt": "2026-10-11T20:36:51.059Z",
+        "fetchedAt": "2026-10-12T00:00:56.884Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -22929,11 +22929,11 @@ export const NEWS_DATA = {
     "totalArticles": 24
   },
   "archive-2026-10-12": {
-    "generatedAt": "2026-10-11T20:36:58.016Z",
+    "generatedAt": "2026-10-12T00:01:05.046Z",
     "date": "2026-10-12",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -22943,14 +22943,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: The mobile chipmaker is struggling to keep up with its higher-growth peers.",
               "articleIds": [
-                "a3"
+                "a4"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "wireless"
             }
@@ -22965,7 +22965,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T16:50:00.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22973,7 +22973,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
@@ -22983,7 +22983,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-11T09:29:51.000Z",
-            "fetchedAt": "2026-10-11T20:36:53.376Z",
+            "fetchedAt": "2026-10-12T00:00:59.422Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -22991,7 +22991,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Better Artificial Intelligence Stock: ASML vs. QUALCOMM",
@@ -23001,7 +23001,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T19:20:06.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23019,7 +23019,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T17:33:00.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23037,7 +23037,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23052,7 +23052,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -23084,7 +23084,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T11:42:15.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -23102,7 +23102,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -23117,7 +23117,7 @@ export const NEWS_DATA = {
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -23128,7 +23128,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -23136,7 +23136,7 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), Customers & Partners (1 article). A total of 9 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
+              "text": "Geopolitics & Export Controls: Key Projects In America's $3T Manufacturing Boom Bisnow",
               "articleIds": [
                 "a1"
               ],
@@ -23153,6 +23153,26 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "Key Projects In America's $3T Manufacturing Boom - Bisnow",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPU1dSbFVqZTV3Z1pfX1pIR0NfeE9KZy1qNUM3cVlOSFZUeGVtSmJrN1BjWnI3dDNrY1FjQ1Q4WWNmdlloRUJWdzBMR0pnejNXLXFvRFpkX1dqWDZqQ0xVd3JmUEFJRW1IVmI1SFlGb3hxWENISmVaLXBWdzRINGRsVHh3ZVU0Zi15R1MydnNNX05ZbUFkZzVUWDM2LTFtSm16WWNrOWM0c2xGdElnU0hPZXR1bHB0VUxtNTBrcGItUTdvQk5JNHdVb0Z4VQ?oc=5",
+            "description": "Key Projects In America's $3T Manufacturing Boom Bisnow",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-11T22:30:02.000Z",
+            "fetchedAt": "2026-10-12T00:01:05.021Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bisnow",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key Projects In America's $3T Manufacturing Boom Bisnow",
+            "id": "a1"
+          },
+          {
             "title": "EU ‘safeguards’ hybrid car sector from Chinese imports under new deal",
             "url": "https://www.ft.com/content/7e48dd50-957c-4f45-ad24-ce628ca7e06a?syn-25a6b1a6=1",
             "description": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
@@ -23160,7 +23180,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T20:00:01.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.468Z",
+            "fetchedAt": "2026-10-12T00:00:57.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23169,7 +23189,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Auto sector welcomes ‘understanding’ reached with Beijing but other industries warn China’s huge trade surplus will persist without further action",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "VW chief calls for France and Germany to co-operate on China car fightback",
@@ -23179,7 +23199,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T18:09:24.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.468Z",
+            "fetchedAt": "2026-10-12T00:00:57.377Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23188,7 +23208,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "‘When it matters, we have found solutions together’, Oliver Blume says ahead of Paris Motor Show",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "Ukraine Shows How Musk's Starlink Can Be National Security Risk In Conflict - News18",
@@ -23198,7 +23218,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T09:34:29.000Z",
-            "fetchedAt": "2026-10-11T20:36:57.968Z",
+            "fetchedAt": "2026-10-12T00:01:05.021Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "News18",
             "geopoliticalBypass": true,
@@ -23208,7 +23228,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukraine Shows How Musk's Starlink Can Be National Security Risk In Conflict News18",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Super Micro-Linked Contractor Pleads Guilty in $2.5bn Nvidia AI Chip Smuggling Scheme to China - Tekedia",
@@ -23218,7 +23238,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T08:16:46.000Z",
-            "fetchedAt": "2026-10-11T20:36:57.968Z",
+            "fetchedAt": "2026-10-12T00:01:05.021Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Tekedia",
             "geopoliticalBypass": true,
@@ -23228,7 +23248,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Super Micro-Linked Contractor Pleads Guilty in $2.5bn Nvidia AI Chip Smuggling Scheme to China Tekedia",
-            "id": "a6"
+            "id": "a7"
           },
           {
             "title": "Super micro-linked contractor pleads guilty in illegal AI Chip exports to China - Daijiworld",
@@ -23238,7 +23258,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-11T03:58:58.000Z",
-            "fetchedAt": "2026-10-11T20:36:57.968Z",
+            "fetchedAt": "2026-10-12T00:01:05.022Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Daijiworld",
             "geopoliticalBypass": true,
@@ -23248,26 +23268,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Super micro-linked contractor pleads guilty in illegal AI Chip exports to China Daijiworld",
-            "id": "a7"
-          },
-          {
-            "title": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 - Quantum Computing Report",
-            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbmJ6dzVNRkNWWU0wS0x4V2gyYmNRaUM4RUowX3ZxcGFjX1lkU3lCOTJvbzdTVVZURW5IZzZmSG50N1llY2p5TFNGdGR6Skd3RXJBdEg4VkxrVlRQLTlBQ19qV3FMNW5vQ3oyUXpHSnpYZllkd1dJNVQ0c210OTV0amtKOE41TV9kcFpQdC1yYThuUnRFVUVMdTE5VnA3T0NPTkhMLUVCc2ticjc3MWJaRVBBN3hSZzTSAbwBQVVfeXFMUERUWk4wZXUwVVZWbjlraWM5NXZBUnItMUxrSnNfTkRFdDhFYlpyYzJWTDFieGR5eS01TmFmNkpIMkgxT2t0OXliQ05nNTRSZWJXVkdGRnNWb21aZzFSWjk5M0tkWWZ0RmN2Mk1pd1J2U3RqRWY0VU1FLWtGeXhNaTlZMENTYThmY1lCS1FSZXNNdFpRU2RCYWU0Y2lZNFgtVGs0cnNEQkNieVgtRHVHVUtjMlRsanZpSWxZY1Q?oc=5",
-            "description": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T22:18:37.000Z",
-            "fetchedAt": "2026-10-11T20:36:57.968Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Quantum Computing Report",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QuIC Whitepaper Calls for Industrial Scale-Up Infrastructure in EU Chips Act 2.0 Quantum Computing Report",
             "id": "a8"
           },
           {
@@ -23278,7 +23278,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T17:03:01.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -23296,7 +23296,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-10T01:03:00.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
@@ -23314,7 +23314,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-09T08:24:15.000Z",
-            "fetchedAt": "2026-10-11T20:36:53.376Z",
+            "fetchedAt": "2026-10-12T00:00:59.422Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23328,7 +23328,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23353,7 +23353,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T23:13:09.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "ip",
@@ -23368,7 +23368,7 @@ export const NEWS_DATA = {
         ]
       },
       "stakeholders": {
-        "generatedAt": "2026-10-11T20:36:57.993Z",
+        "generatedAt": "2026-10-12T00:01:05.043Z",
         "date": "2026-10-12",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -23393,7 +23393,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-09T13:31:32.000Z",
-            "fetchedAt": "2026-10-11T20:36:51.059Z",
+            "fetchedAt": "2026-10-12T00:00:56.884Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
