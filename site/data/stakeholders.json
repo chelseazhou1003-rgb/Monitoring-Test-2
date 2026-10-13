@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-10-13T19:33:58.122Z",
+  "generatedAt": "2026-10-13T23:27:08.989Z",
   "date": "2026-10-14",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Wireless Communication. gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
     "keyTakeaways": [
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a24"
+          "a31"
         ],
         "subCategory": "wireless"
-      },
-      {
-        "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
-        "articleIds": [
-          "a26"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-13T19:33:56.219Z",
+      "fetchedAt": "2026-10-13T23:27:05.778Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -41,47 +34,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a24"
-    },
-    {
-      "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-amazon-now-why-123724378.html?.tsrc=rss",
-      "description": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T14:26:24.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-      "id": "a26"
-    },
-    {
-      "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gfiber-qualcomm-gemtek-unveil-ai-140900025.html?.tsrc=rss",
-      "description": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T14:09:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-      "id": "a27"
+      "id": "a31"
     }
   ]
 }

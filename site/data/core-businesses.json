@@ -1,35 +1,53 @@
 {
-  "generatedAt": "2026-10-13T19:33:58.122Z",
+  "generatedAt": "2026-10-13T23:27:08.988Z",
   "date": "2026-10-14",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (6 articles), Semiconductors (3 articles), Mobile Chips (2 articles). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (5 articles), Semiconductors (4 articles), Mobile Chips (1 article). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. To",
+        "text": "Semiconductors: In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
         "articleIds": [
-          "a7"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: AUSTIN, Texas, October 13, 2026--Lumenci today announced that Derek Aberle has joined its Advisory Board.",
-        "articleIds": [
-          "a8"
+          "a6"
         ],
         "subCategory": "semiconductors"
       },
       {
+        "text": "Mobile Chips: Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. To",
+        "articleIds": [
+          "a14"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
         "text": "Wireless Communication: Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next",
         "articleIds": [
-          "a13"
+          "a22"
         ],
         "subCategory": "wireless"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm (QCOM) Rises As Market Takes a Dip: Key Facts",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-rises-market-takes-204504484.html?.tsrc=rss",
+      "description": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T20:45:04.000Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
+      "id": "a6"
+    },
     {
       "title": "How Much Of Qualcomm Stock Rides On One Business?",
       "url": "https://www.trefis.com/articles/618499/how-much-of-qualcomm-stock-rides-on-one-business/2026-10-13?.tsrc=rss",
@@ -38,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T16:24:55.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -46,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. Total revenue fell 4.0% from a year earlier, and a segment that makes up more than half of sales deserves close attention. So what is hurting Qualcomm's phone chip sales.",
-      "id": "a7"
+      "id": "a14"
     },
     {
       "title": "Former Qualcomm President Derek Aberle Joins iLumOS Advisory Board",
@@ -56,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T13:00:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AUSTIN, Texas, October 13, 2026--Lumenci today announced that Derek Aberle has joined its Advisory Board.",
-      "id": "a8"
+      "id": "a15"
     },
     {
       "title": "QUALCOMM Incorporated (QCOM) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -74,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T12:00:05.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Zacks.com users have recently been watching Qualcomm (QCOM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "id": "a11"
+      "id": "a18"
     },
     {
       "title": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
@@ -92,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T08:27:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next-generation connectivity into the home.",
-      "id": "a13"
+      "id": "a22"
     },
     {
       "title": "Fibocom Showcases SC153 5G Smart Module at NetworkX, Leveraging a Qualcomm Platform to Accelerate 5G Smart Device Development",
@@ -110,7 +128,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T06:37:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -118,7 +136,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
-      "id": "a14"
+      "id": "a23"
     },
     {
       "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
@@ -128,7 +146,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T22:51:01.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -136,7 +154,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
-      "id": "a21"
+      "id": "a28"
     },
     {
       "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -146,7 +164,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-13T19:33:56.219Z",
+      "fetchedAt": "2026-10-13T23:27:05.778Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -156,7 +174,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a24"
+      "id": "a31"
     },
     {
       "title": "Can Qualcomm's Advanced 6G Research Boost Its Future Growth Prospects?",
@@ -166,7 +184,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T15:17:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
+      "fetchedAt": "2026-10-13T23:27:00.594Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -174,57 +192,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM is advancing 6G technology with AI-driven networks, Giga-MIMO and industry partnerships to improve connectivity and prepare for next-generation wireless networks.",
-      "id": "a25"
-    },
-    {
-      "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-amazon-now-why-123724378.html?.tsrc=rss",
-      "description": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T14:26:24.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-      "id": "a26"
-    },
-    {
-      "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
-      "url": "https://finance.yahoo.com/technology/ai/articles/gfiber-qualcomm-gemtek-unveil-ai-140900025.html?.tsrc=rss",
-      "description": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T14:09:00.000Z",
-      "fetchedAt": "2026-10-13T19:33:50.939Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-      "id": "a27"
+      "id": "a32"
     },
     {
       "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
-      "url": "https://www.iam-media.com/index.php/article/huawei-qualcomm-5g-cross-licence-netlist-micron-600-million-settlement-hisense-takes-interdigital-spat-china-zync-v-bmw-itc-case-revival-uspto-data-outage-silence-plus-much-more",
+      "url": "https://www.iam-media.com/article/huawei-qualcomm-5g-cross-licence-netlist-micron-600-million-settlement-hisense-takes-interdigital-spat-china-zync-v-bmw-itc-case-revival-uspto-data-outage-silence-plus-much-more",
       "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-11T09:29:51.000Z",
-      "fetchedAt": "2026-10-13T19:33:53.613Z",
+      "fetchedAt": "2026-10-13T23:27:03.458Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -232,7 +210,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a29"
+      "id": "a34"
     }
   ]
 }
