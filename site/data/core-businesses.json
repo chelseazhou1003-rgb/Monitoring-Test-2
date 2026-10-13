@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-12T23:15:15.748Z",
+  "generatedAt": "2026-10-13T03:54:49.827Z",
   "date": "2026-10-13",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Semiconductors: One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
         "articleIds": [
-          "a2"
+          "a4"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a6"
+          "a10"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
         "articleIds": [
-          "a9"
+          "a12"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T22:51:01.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.673Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
-      "id": "a2"
+      "id": "a4"
     },
     {
       "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -56,7 +56,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-12T23:15:11.904Z",
+      "fetchedAt": "2026-10-13T03:54:46.225Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -66,7 +66,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a6"
+      "id": "a10"
     },
     {
       "title": "Can Qualcomm's Advanced 6G Research Boost Its Future Growth Prospects?",
@@ -76,7 +76,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T15:17:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.673Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -84,7 +84,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM is advancing 6G technology with AI-driven networks, Giga-MIMO and industry partnerships to improve connectivity and prepare for next-generation wireless networks.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T14:26:24.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.673Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -104,7 +104,7 @@
         "platform-partner"
       ],
       "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
@@ -114,7 +114,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T14:09:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -124,7 +124,7 @@
         "platform-partner"
       ],
       "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-      "id": "a10"
+      "id": "a13"
     },
     {
       "title": "Broadcom vs. Qualcomm: One Owns the Data Center. The Other Is Betting on AI Everywhere Else",
@@ -134,7 +134,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:13:57.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -142,7 +142,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Broadcom dwarfs Qualcomm, but Qualcomm pays more and costs less. Which AI chip stock is the better buy for dividend investors today?",
-      "id": "a11"
+      "id": "a14"
     },
     {
       "title": "The OnePlus 16 is the company’s most interesting phone in years",
@@ -152,7 +152,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-12T13:13:53.000Z",
-      "fetchedAt": "2026-10-12T23:15:07.221Z",
+      "fetchedAt": "2026-10-13T03:54:42.172Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -162,7 +162,7 @@
         "oem"
       ],
       "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen 6 chipset, and up to 1TB of storage and 16GB of RAM. That's backed up by an enormous 9,000mAh silicon-carbon battery, one of the biggest seen in any Android flagship yet. 100W wired and 50W wireless charging complete the power setup.",
-      "id": "a12"
+      "id": "a15"
     },
     {
       "title": "Cellid Joins Qualcomm's the Snapdragon START program to accelerate the development of AR glasses",
@@ -172,7 +172,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -180,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Cellid Inc., a developer of displays and spatial recognition engines for next-generation AR glasses, today announced that it has joined Snapdragon® START (Snapdragon Scalable Turnkey AI-Ready Toolkit), a development support program for personal AI devices designed by Qualcomm Technologies, Inc. (\"Qualcomm Technologies\").",
-      "id": "a14"
+      "id": "a17"
     },
     {
       "title": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
@@ -190,7 +190,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T12:06:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -201,7 +201,7 @@
         "platform-partner"
       ],
       "summary": "Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
-      "id": "a17"
+      "id": "a20"
     },
     {
       "title": "Qualcomm (QCOM) Puts 6G Sensing Into View Beyond Today’s 5G Networks",
@@ -211,7 +211,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T00:15:24.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -219,7 +219,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) and Tejas Networks have showcased a next generation 6G integrated sensing proof of concept for wireless networks. The joint effort combines sensing, communications and on device AI to support future connectivity use cases beyond current 5G systems. The 6G trial forms part of Qualcomm's broader effort to expand into network infrastructure and applications that stretch beyond smartphones. The Qualcomm and Tejas 6G integrated sensing milestone is important, and...",
-      "id": "a20"
+      "id": "a23"
     },
     {
       "title": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
@@ -229,7 +229,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-11T16:50:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -237,7 +237,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-      "id": "a21"
+      "id": "a24"
     },
     {
       "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
@@ -247,7 +247,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-11T09:29:51.000Z",
-      "fetchedAt": "2026-10-12T23:15:09.240Z",
+      "fetchedAt": "2026-10-13T03:54:44.164Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -255,7 +255,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a22"
+      "id": "a25"
     }
   ]
 }

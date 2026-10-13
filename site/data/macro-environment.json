@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-12T23:15:15.748Z",
+  "generatedAt": "2026-10-13T03:54:49.827Z",
   "date": "2026-10-13",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+        "text": "Geopolitics & Export Controls: Drone firm executives held over China-chip claims Taipei Times",
         "articleIds": [
           "a1"
         ],
@@ -16,14 +16,14 @@
       {
         "text": "market-performance: Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, partic",
         "articleIds": [
-          "a3"
+          "a5"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
         "articleIds": [
-          "a23"
+          "a26"
         ],
         "subCategory": "customers-partners"
       }
@@ -31,90 +31,14 @@
   },
   "articles": [
     {
-      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-      "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T23:00:01.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.652Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-      "id": "a1"
-    },
-    {
-      "title": "What Changed In Qualcomm's Story?",
-      "url": "https://www.trefis.com/articles/618342/what-changed-in-qualcomms-story/2026-10-12?.tsrc=rss",
-      "description": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T21:55:37.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-      "id": "a3"
-    },
-    {
-      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
-      "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
-      "description": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T18:32:03.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.652Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "id": "a4"
-    },
-    {
-      "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
-      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zam1IQWJzZ1RQVXlKbGdDd2NUYVVCQXpmRnVXclgzVnJwM1VhSDN4MmhTXzlYWnNuekRGeVJFdV8tcmNHMUlTYVZON3FKNDc2dTRCZg?oc=5",
-      "description": "China's first general-purpose high-performance chip Loongson launched 當代中國",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T16:41:22.000Z",
-      "fetchedAt": "2026-10-12T23:15:15.709Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "當代中國",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
-      "id": "a5"
-    },
-    {
       "title": "Drone firm executives held over China-chip claims - Taipei Times",
       "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
       "description": "Drone firm executives held over China-chip claims Taipei Times",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T16:00:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:15.709Z",
+      "publishedAt": "2026-10-13T03:28:20.000Z",
+      "fetchedAt": "2026-10-13T03:54:49.789Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Taipei Times",
       "geopoliticalBypass": true,
@@ -124,7 +48,122 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Drone firm executives held over China-chip claims Taipei Times",
-      "id": "a7"
+      "id": "a1"
+    },
+    {
+      "title": "China resorts to Nvidia gaming chips in search for AI firepower",
+      "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
+      "description": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T00:15:06.000Z",
+      "fetchedAt": "2026-10-13T03:54:42.043Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+      "id": "a2"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
+      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
+      "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T23:00:01.000Z",
+      "fetchedAt": "2026-10-13T03:54:40.545Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+      "id": "a3"
+    },
+    {
+      "title": "What Changed In Qualcomm's Story?",
+      "url": "https://www.trefis.com/articles/618342/what-changed-in-qualcomms-story/2026-10-12?.tsrc=rss",
+      "description": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T21:55:37.000Z",
+      "fetchedAt": "2026-10-13T03:54:40.673Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
+      "id": "a5"
+    },
+    {
+      "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
+      "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T19:21:16.000Z",
+      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Stocktwits",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+      "id": "a6"
+    },
+    {
+      "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
+      "url": "https://www.cnbc.com/2026/10/12/trump-russia-diesel-putin.html",
+      "description": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T18:32:03.000Z",
+      "fetchedAt": "2026-10-13T03:54:40.545Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
+      "id": "a8"
+    },
+    {
+      "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
+      "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTE0zam1IQWJzZ1RQVXlKbGdDd2NUYVVCQXpmRnVXclgzVnJwM1VhSDN4MmhTXzlYWnNuekRGeVJFdV8tcmNHMUlTYVZON3FKNDc2dTRCZg?oc=5",
+      "description": "China's first general-purpose high-performance chip Loongson launched 當代中國",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T16:41:22.000Z",
+      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "當代中國",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
+      "id": "a9"
     },
     {
       "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
@@ -134,7 +173,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:49.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -142,7 +181,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) did not get a verdict in its lawsuit against Arm Holdings.",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help - Accounting Today",
@@ -152,7 +191,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:15.709Z",
+      "fetchedAt": "2026-10-13T03:54:49.789Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Accounting Today",
       "geopoliticalBypass": true,
@@ -162,7 +201,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help Accounting Today",
-      "id": "a15"
+      "id": "a18"
     },
     {
       "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -172,7 +211,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-12T07:59:41.000Z",
-      "fetchedAt": "2026-10-12T23:15:09.240Z",
+      "fetchedAt": "2026-10-13T03:54:44.164Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -181,7 +220,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-      "id": "a18"
+      "id": "a21"
     },
     {
       "title": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall - ad-hoc-news.de",
@@ -191,7 +230,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T05:01:23.000Z",
-      "fetchedAt": "2026-10-12T23:15:15.710Z",
+      "fetchedAt": "2026-10-13T03:54:49.789Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "ad-hoc-news.de",
       "geopoliticalBypass": true,
@@ -201,7 +240,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-      "id": "a19"
+      "id": "a22"
     },
     {
       "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
@@ -211,7 +250,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T17:03:01.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -219,25 +258,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-      "id": "a23"
-    },
-    {
-      "title": "Qualcomm-Huawei deal lands as U.S. tightens China tech rules",
-      "url": "https://www.thestreet.com/investing/qualcomm-huawei-deal-lands-as-us-tightens-china-tech-rules?.tsrc=rss",
-      "description": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-10T01:03:00.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm and Huawei deepen ties, despite a looming FCC vote on rules that would restrict Chinese electronics.",
-      "id": "a25"
+      "id": "a26"
     }
   ]
 }

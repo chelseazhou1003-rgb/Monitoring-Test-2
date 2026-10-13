@@ -1,21 +1,46 @@
 {
-  "generatedAt": "2026-10-12T23:15:15.748Z",
+  "generatedAt": "2026-10-13T03:54:49.827Z",
   "date": "2026-10-13",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering Patent Litigation. Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their",
+    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "FRAND & Licensing: Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
+        "articleIds": [
+          "a7"
+        ],
+        "subCategory": "frand-licensing"
+      },
       {
         "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
         "articleIds": [
-          "a24"
+          "a27"
         ],
         "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
+    {
+      "title": "AI Is Blowing Up Tech’s Money Rules. How Arm Could Make Qualcomm Pay More.",
+      "url": "https://www.barchart.com/story/news/6258465/ai-is-blowing-up-techs-money-rules-how-arm-could-make-qualcomm-pay-more?.tsrc=rss",
+      "description": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T19:18:16.000Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
+      "id": "a7"
+    },
     {
       "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
       "url": "https://www.tikr.com/blog/qualcomm-waits-on-a-jury-arm-has-a-443-million-customer-on-the-line?ref=yahoofinance&.tsrc=rss",
@@ -24,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-10T11:42:15.000Z",
-      "fetchedAt": "2026-10-12T23:15:06.779Z",
+      "fetchedAt": "2026-10-13T03:54:40.674Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -32,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-      "id": "a24"
+      "id": "a27"
     }
   ]
 }
