@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-13T03:54:49.827Z",
+  "generatedAt": "2026-10-13T12:12:56.945Z",
   "date": "2026-10-13",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Drone firm executives held over China-chip claims Taipei Times",
+        "text": "Geopolitics & Export Controls: Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
         "articleIds": [
           "a1"
         ],
@@ -16,68 +16,62 @@
       {
         "text": "market-performance: Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, partic",
         "articleIds": [
-          "a5"
+          "a11"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-        "articleIds": [
-          "a26"
-        ],
-        "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
     {
-      "title": "Drone firm executives held over China-chip claims - Taipei Times",
-      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
-      "description": "Drone firm executives held over China-chip claims Taipei Times",
+      "title": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUHllb09hbTlVdHI0c1h0RGxjYlhQaFdGZnJGUHZ1ejRmakRYM09sMDQtS0pTQTZzMzBETzBqSHdEZXRMREJIUEZVaE00Mm1WZGZvU1JnZ08zNkItdURYZFpLMEc?oc=5",
+      "description": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T03:28:20.000Z",
-      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "publishedAt": "2026-10-13T10:54:44.000Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "Taipei Times",
+      "googleNewsSource": "Binance",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Drone firm executives held over China-chip claims Taipei Times",
+      "summary": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
       "id": "a1"
     },
     {
-      "title": "China resorts to Nvidia gaming chips in search for AI firepower",
-      "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-      "description": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
-      "source": "Financial Times",
-      "sourceId": "ft",
+      "title": "Free ration to national security, Modi Govt’s decisions have reached every section: CM - The Hitavada",
+      "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVG5rR042NGdoc2daNDZFaDM4TkRwd0lZZWJBdHkxc0pya2h1dlFiRWxyUWQwelBtc29fYXZweTgzQ2kyQzRHN1JUeEFuRXJTYUtXZklFeHdpMkR0TU1ZbVBRSUxoeTlrN0sxcVk3aW51S2dlUldoOGVqTTFzVEpZUjZEUlFsWndzeS1XSXdkTndiZmdyTnN1RC1Ga1MxVGEyZTZUYUk3aGJraU8zUzB4dEJrZVY4V3Jta3JIOHAxcGx1SUVuamdEZkh1ZE0zQQ?oc=5",
+      "description": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T00:15:06.000Z",
-      "fetchedAt": "2026-10-13T03:54:42.043Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-10-13T10:23:55.000Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Hitavada",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+      "summary": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
       "id": "a2"
     },
     {
-      "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-      "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-      "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
+      "title": "Sitharaman: Investor Interest in India Extends Beyond AI",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-13/sitharaman-investor-interest-in-india-extends-beyond-ai-video",
+      "description": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T23:00:01.000Z",
-      "fetchedAt": "2026-10-13T03:54:40.545Z",
+      "publishedAt": "2026-10-13T09:13:15.000Z",
+      "fetchedAt": "2026-10-13T12:12:49.121Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -85,8 +79,88 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+      "summary": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology.",
       "id": "a3"
+    },
+    {
+      "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+      "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+      "description": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T06:20:55.000Z",
+      "fetchedAt": "2026-10-13T12:12:48.857Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+      "id": "a6"
+    },
+    {
+      "title": "OPINION | US-China decoupling has spurred R&D in both countries - Moneycontrol.com",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNiSmRheVJSaklpT2VrQjF5ZzVjZTh4bTJMeEFpUklWUDB2Ni00RHhNdW5uWHc2aGVoVllXWV9SV3dOTC11M3V0LVFWd1FuNzZ3TjYzb2VmdFU4eGJGNlY0Rk5GaW1pc2ZPZ0Q5eVdvTFU3bHd1QzZYYzduX2xTRmZ5R0IwNEdUb2Z4VnpXSWpCNXRJM2NWMUJnXzI5SVEzRjVrQ2R4YXlLRkhwV2fSAbMBQVVfeXFMTXAzR1BYcnlueVNVTEE0bUtBYm1faUxuX2VoSU9SVnJBY3BUb2tzU1pqLW5uV0pPakIwX2NXeWFhQ0cycXo4c1ZWcGUxYjdhOEZsTjNuaGc0ZXJEZDhDR0EzQUVCdDBGcDRZakhXTExOekNyRHZKVjZ3VHBJRkdqdmxkZS1tcDFfZ0FOekdDOUZsYmRMZWNGMzBDOFQtMkpoY0JtSVJKX1hQT1VRSG4zX2dUNGM?oc=5",
+      "description": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T06:03:17.000Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Moneycontrol.com",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+      "id": "a7"
+    },
+    {
+      "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+      "description": "CXMT Corp. said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T05:07:13.000Z",
+      "fetchedAt": "2026-10-13T12:12:49.121Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+      "id": "a8"
+    },
+    {
+      "title": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl - ad-hoc-news.de",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjlnQkZkbUlkZjlSX19tX3c4VHJMMnhIZHVhVU11VUlLdFVZSTd5ZVBEaERMcWR3UFNuZlBJWHJzay0ycUZkYWtuLVFRN3lBNzFkbG95TjQ5WlJPZHNJbHhzTEdqX3ZPejV6aWZwTGppTHB1bDd6UXV3elZwRnhkV3dUSGhPTmJNY0t2blZsT0Q5VnlBdFdqYmxaR0dmZjBhSkVFbGtUYVZ5cWdQSUpnOHNjdzNVVDEzQm5Jczg0UC1SR1hsVEk4WVkteGo4QXJNUy1UVGFTOUE?oc=5",
+      "description": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T05:01:18.000Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "ad-hoc-news.de",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+      "id": "a9"
     },
     {
       "title": "What Changed In Qualcomm's Story?",
@@ -96,7 +170,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T21:55:37.000Z",
-      "fetchedAt": "2026-10-13T03:54:40.673Z",
+      "fetchedAt": "2026-10-13T12:12:48.961Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -104,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -114,7 +188,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T19:21:16.000Z",
-      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Stocktwits",
       "geopoliticalBypass": true,
@@ -124,7 +198,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "id": "a6"
+      "id": "a12"
     },
     {
       "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
@@ -134,7 +208,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T18:32:03.000Z",
-      "fetchedAt": "2026-10-13T03:54:40.545Z",
+      "fetchedAt": "2026-10-13T12:12:48.857Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -143,7 +217,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
@@ -153,7 +227,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T16:41:22.000Z",
-      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "當代中國",
       "geopoliticalBypass": true,
@@ -163,7 +237,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
-      "id": "a9"
+      "id": "a15"
+    },
+    {
+      "title": "Drone firm executives held over China-chip claims - Taipei Times",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
+      "description": "Drone firm executives held over China-chip claims Taipei Times",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-12T16:00:00.000Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Taipei Times",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Drone firm executives held over China-chip claims Taipei Times",
+      "id": "a17"
     },
     {
       "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
@@ -173,7 +267,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:49.000Z",
-      "fetchedAt": "2026-10-13T03:54:40.674Z",
+      "fetchedAt": "2026-10-13T12:12:48.962Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -181,7 +275,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) did not get a verdict in its lawsuit against Arm Holdings.",
-      "id": "a16"
+      "id": "a23"
     },
     {
       "title": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help - Accounting Today",
@@ -191,7 +285,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T13:00:00.000Z",
-      "fetchedAt": "2026-10-13T03:54:49.789Z",
+      "fetchedAt": "2026-10-13T12:12:56.901Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Accounting Today",
       "geopoliticalBypass": true,
@@ -201,7 +295,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help Accounting Today",
-      "id": "a18"
+      "id": "a25"
     },
     {
       "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -211,7 +305,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-12T07:59:41.000Z",
-      "fetchedAt": "2026-10-13T03:54:44.164Z",
+      "fetchedAt": "2026-10-13T12:12:51.573Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -220,45 +314,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-      "id": "a21"
-    },
-    {
-      "title": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall - ad-hoc-news.de",
-      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm1ManZrVTBXLTJYNnBmWU16UjBFTHFMMkJSQVVhOEVlRlFROHZpZ1RLVFVzajVfQjRqLU0ybU9FRmtNeng0OEZWSGdORF9YcG1waWpVUG01UWRJb2lyaVh5SENJSHk3bU5scjhwS3hybTZBbTJvMng3RlBiVVFBNDJQSVNwWU5qejNFcS1PZHE2ZHphVk5lZFFTM2E4cnM1aVRnQnVzMldaZHBmWTVuclhmZmdMM2RjOWt2Q0NqbGo0RThL?oc=5",
-      "description": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T05:01:23.000Z",
-      "fetchedAt": "2026-10-13T03:54:49.789Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "ad-hoc-news.de",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-      "id": "a22"
-    },
-    {
-      "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-      "url": "https://www.fool.com/coverage/better-buy/2026/10/10/advanced-micro-devices-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-      "description": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-10T17:03:01.000Z",
-      "fetchedAt": "2026-10-13T03:54:40.674Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "customers-partners",
-      "subLabel": "Customers & Partners",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-      "id": "a26"
+      "id": "a28"
     }
   ]
 }

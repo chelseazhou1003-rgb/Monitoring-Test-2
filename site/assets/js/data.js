@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,37 +13,73 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (5 articles), Semiconductors (4 articles), Mobile Chips (3 articles). A total of 12 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (7 articles), Semiconductors (3 articles), Mobile Chips (3 articles). A total of 13 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
+          "text": "Wireless Communication: Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next",
           "articleIds": [
             "a4"
-          ],
-          "subCategory": "semiconductors"
-        },
-        {
-          "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-          "articleIds": [
-            "a10"
           ],
           "subCategory": "wireless"
         },
         {
+          "text": "Semiconductors: One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
+          "articleIds": [
+            "a10"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
           "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
           "articleIds": [
-            "a12"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
+        "url": "https://finance.yahoo.com/technology/ai/articles/gemtek-qualcomm-gfiber-collaborate-bring-082700766.html?.tsrc=rss",
+        "description": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. and gFiber, Inc. to bring Edge AI and next-generation connectivity into the home.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T08:27:00.000Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next-generation connectivity into the home.",
+        "id": "a4"
+      },
+      {
+        "title": "Fibocom Showcases SC153 5G Smart Module at NetworkX, Leveraging a Qualcomm Platform to Accelerate 5G Smart Device Development",
+        "url": "https://finance.yahoo.com/technology/articles/fibocom-showcases-sc153-5g-smart-063700317.html?.tsrc=rss",
+        "description": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T06:37:00.000Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
+        "id": "a5"
+      },
       {
         "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
         "url": "https://www.fool.com/coverage/better-buy/2026/10/12/broadcom-vs-qualcomm-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
@@ -52,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T22:51:01.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.673Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +96,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
-        "id": "a4"
+        "id": "a10"
       },
       {
         "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -70,7 +106,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-12T16:35:02.000Z",
-        "fetchedAt": "2026-10-13T03:54:46.225Z",
+        "fetchedAt": "2026-10-13T12:12:53.426Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -80,7 +116,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-        "id": "a10"
+        "id": "a16"
       },
       {
         "title": "Can Qualcomm's Advanced 6G Research Boost Its Future Growth Prospects?",
@@ -90,7 +126,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T15:17:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.673Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -98,7 +134,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QCOM is advancing 6G technology with AI-driven networks, Giga-MIMO and industry partnerships to improve connectivity and prepare for next-generation wireless networks.",
-        "id": "a11"
+        "id": "a18"
       },
       {
         "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
@@ -108,7 +144,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T14:26:24.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.673Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -118,7 +154,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-        "id": "a12"
+        "id": "a19"
       },
       {
         "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
@@ -128,7 +164,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T14:09:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -138,7 +174,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-        "id": "a13"
+        "id": "a20"
       },
       {
         "title": "Broadcom vs. Qualcomm: One Owns the Data Center. The Other Is Betting on AI Everywhere Else",
@@ -148,7 +184,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T13:13:57.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -156,7 +192,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Broadcom dwarfs Qualcomm, but Qualcomm pays more and costs less. Which AI chip stock is the better buy for dividend investors today?",
-        "id": "a14"
+        "id": "a21"
       },
       {
         "title": "The OnePlus 16 is the company’s most interesting phone in years",
@@ -166,7 +202,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-12T13:13:53.000Z",
-        "fetchedAt": "2026-10-13T03:54:42.172Z",
+        "fetchedAt": "2026-10-13T12:12:49.650Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -176,7 +212,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen 6 chipset, and up to 1TB of storage and 16GB of RAM. That's backed up by an enormous 9,000mAh silicon-carbon battery, one of the biggest seen in any Android flagship yet. 100W wired and 50W wireless charging complete the power setup.",
-        "id": "a15"
+        "id": "a22"
       },
       {
         "title": "Cellid Joins Qualcomm's the Snapdragon START program to accelerate the development of AR glasses",
@@ -186,7 +222,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T13:00:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -194,7 +230,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Cellid Inc., a developer of displays and spatial recognition engines for next-generation AR glasses, today announced that it has joined Snapdragon® START (Snapdragon Scalable Turnkey AI-Ready Toolkit), a development support program for personal AI devices designed by Qualcomm Technologies, Inc. (\"Qualcomm Technologies\").",
-        "id": "a17"
+        "id": "a24"
       },
       {
         "title": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
@@ -204,7 +240,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T12:06:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -215,7 +251,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
-        "id": "a20"
+        "id": "a27"
       },
       {
         "title": "Qualcomm (QCOM) Puts 6G Sensing Into View Beyond Today’s 5G Networks",
@@ -225,7 +261,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T00:15:24.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -233,25 +269,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) and Tejas Networks have showcased a next generation 6G integrated sensing proof of concept for wireless networks. The joint effort combines sensing, communications and on device AI to support future connectivity use cases beyond current 5G systems. The 6G trial forms part of Qualcomm's broader effort to expand into network infrastructure and applications that stretch beyond smartphones. The Qualcomm and Tejas 6G integrated sensing milestone is important, and...",
-        "id": "a23"
-      },
-      {
-        "title": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
-        "url": "https://www.fool.com/investing/2026/10/11/qualcomm-looks-cheap-next-to-its-ai-chip-peers-her/?.tsrc=rss",
-        "description": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-11T16:50:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-        "id": "a24"
+        "id": "a29"
       },
       {
         "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
@@ -261,7 +279,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-11T09:29:51.000Z",
-        "fetchedAt": "2026-10-13T03:54:44.164Z",
+        "fetchedAt": "2026-10-13T12:12:51.573Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -269,12 +287,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a25"
+        "id": "a30"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -285,26 +303,19 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering FRAND & Licensing. Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees w",
       "keyTakeaways": [
         {
           "text": "FRAND & Licensing: Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
           "articleIds": [
-            "a7"
+            "a13"
           ],
           "subCategory": "frand-licensing"
-        },
-        {
-          "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
-          "articleIds": [
-            "a27"
-          ],
-          "subCategory": "patent-litigation"
         }
       ]
     },
@@ -317,7 +328,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T19:18:16.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -325,45 +336,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
-        "id": "a7"
-      },
-      {
-        "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-        "url": "https://www.tikr.com/blog/qualcomm-waits-on-a-jury-arm-has-a-443-million-customer-on-the-line?ref=yahoofinance&.tsrc=rss",
-        "description": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-10T11:42:15.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "patent-litigation",
-        "subLabel": "Patent Litigation",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-        "id": "a27"
+        "id": "a13"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-13T03:54:49.830Z",
+    "generatedAt": "2026-10-13T12:12:56.947Z",
     "date": "2026-10-13",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 12,
-        "topHeadline": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
+        "articleCount": 13,
+        "topHeadline": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
         "topHeadlineId": "a4",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (5 articles), Semiconductors (4 articles), Mobile Chips (3 articles). A total of 12 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (7 articles), Semiconductors (3 articles), Mobile Chips (3 articles). A total of 13 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 2,
+        "articleCount": 1,
         "topHeadline": "AI Is Blowing Up Tech’s Money Rules. How Arm Could Make Qualcomm Pay More.",
-        "topHeadlineId": "a7",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources."
+        "topHeadlineId": "a13",
+        "briefingSummary": "One article today covering FRAND & Licensing. Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees w"
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -374,10 +367,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 12,
-        "topHeadline": "Drone firm executives held over China-chip claims - Taipei Times",
+        "articleCount": 15,
+        "topHeadline": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test - Binance",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -388,24 +381,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 6,
-        "topHeadline": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
-        "topHeadlineId": "a10",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 6 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Geopolitics & Export Controls (1 article). A total of 7 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 32
+    "totalArticles": 36
   },
   "macro-environment": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Drone firm executives held over China-chip claims Taipei Times",
+          "text": "Geopolitics & Export Controls: Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
           "articleIds": [
             "a1"
           ],
@@ -414,68 +407,62 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, partic",
           "articleIds": [
-            "a5"
+            "a11"
           ],
           "subCategory": "market-performance"
-        },
-        {
-          "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-          "articleIds": [
-            "a26"
-          ],
-          "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
       {
-        "title": "Drone firm executives held over China-chip claims - Taipei Times",
-        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
-        "description": "Drone firm executives held over China-chip claims Taipei Times",
+        "title": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test - Binance",
+        "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUHllb09hbTlVdHI0c1h0RGxjYlhQaFdGZnJGUHZ1ejRmakRYM09sMDQtS0pTQTZzMzBETzBqSHdEZXRMREJIUEZVaE00Mm1WZGZvU1JnZ08zNkItdURYZFpLMEc?oc=5",
+        "description": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-13T03:28:20.000Z",
-        "fetchedAt": "2026-10-13T03:54:49.789Z",
+        "publishedAt": "2026-10-13T10:54:44.000Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Taipei Times",
+        "googleNewsSource": "Binance",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Drone firm executives held over China-chip claims Taipei Times",
+        "summary": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
         "id": "a1"
       },
       {
-        "title": "China resorts to Nvidia gaming chips in search for AI firepower",
-        "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-        "description": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
-        "source": "Financial Times",
-        "sourceId": "ft",
+        "title": "Free ration to national security, Modi Govt’s decisions have reached every section: CM - The Hitavada",
+        "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVG5rR042NGdoc2daNDZFaDM4TkRwd0lZZWJBdHkxc0pya2h1dlFiRWxyUWQwelBtc29fYXZweTgzQ2kyQzRHN1JUeEFuRXJTYUtXZklFeHdpMkR0TU1ZbVBRSUxoeTlrN0sxcVk3aW51S2dlUldoOGVqTTFzVEpZUjZEUlFsWndzeS1XSXdkTndiZmdyTnN1RC1Ga1MxVGEyZTZUYUk3aGJraU8zUzB4dEJrZVY4V3Jta3JIOHAxcGx1SUVuamdEZkh1ZE0zQQ?oc=5",
+        "description": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-13T00:15:06.000Z",
-        "fetchedAt": "2026-10-13T03:54:42.043Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-10-13T10:23:55.000Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The Hitavada",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+        "summary": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
         "id": "a2"
       },
       {
-        "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-        "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-        "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "Sitharaman: Investor Interest in India Extends Beyond AI",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-13/sitharaman-investor-interest-in-india-extends-beyond-ai-video",
+        "description": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-12T23:00:01.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.545Z",
+        "publishedAt": "2026-10-13T09:13:15.000Z",
+        "fetchedAt": "2026-10-13T12:12:49.121Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -483,8 +470,88 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+        "summary": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology.",
         "id": "a3"
+      },
+      {
+        "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+        "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+        "description": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T06:20:55.000Z",
+        "fetchedAt": "2026-10-13T12:12:48.857Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+        "id": "a6"
+      },
+      {
+        "title": "OPINION | US-China decoupling has spurred R&D in both countries - Moneycontrol.com",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNiSmRheVJSaklpT2VrQjF5ZzVjZTh4bTJMeEFpUklWUDB2Ni00RHhNdW5uWHc2aGVoVllXWV9SV3dOTC11M3V0LVFWd1FuNzZ3TjYzb2VmdFU4eGJGNlY0Rk5GaW1pc2ZPZ0Q5eVdvTFU3bHd1QzZYYzduX2xTRmZ5R0IwNEdUb2Z4VnpXSWpCNXRJM2NWMUJnXzI5SVEzRjVrQ2R4YXlLRkhwV2fSAbMBQVVfeXFMTXAzR1BYcnlueVNVTEE0bUtBYm1faUxuX2VoSU9SVnJBY3BUb2tzU1pqLW5uV0pPakIwX2NXeWFhQ0cycXo4c1ZWcGUxYjdhOEZsTjNuaGc0ZXJEZDhDR0EzQUVCdDBGcDRZakhXTExOekNyRHZKVjZ3VHBJRkdqdmxkZS1tcDFfZ0FOekdDOUZsYmRMZWNGMzBDOFQtMkpoY0JtSVJKX1hQT1VRSG4zX2dUNGM?oc=5",
+        "description": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T06:03:17.000Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Moneycontrol.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+        "id": "a7"
+      },
+      {
+        "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+        "description": "CXMT Corp. said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T05:07:13.000Z",
+        "fetchedAt": "2026-10-13T12:12:49.121Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+        "id": "a8"
+      },
+      {
+        "title": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl - ad-hoc-news.de",
+        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjlnQkZkbUlkZjlSX19tX3c4VHJMMnhIZHVhVU11VUlLdFVZSTd5ZVBEaERMcWR3UFNuZlBJWHJzay0ycUZkYWtuLVFRN3lBNzFkbG95TjQ5WlJPZHNJbHhzTEdqX3ZPejV6aWZwTGppTHB1bDd6UXV3elZwRnhkV3dUSGhPTmJNY0t2blZsT0Q5VnlBdFdqYmxaR0dmZjBhSkVFbGtUYVZ5cWdQSUpnOHNjdzNVVDEzQm5Jczg0UC1SR1hsVEk4WVkteGo4QXJNUy1UVGFTOUE?oc=5",
+        "description": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T05:01:18.000Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "ad-hoc-news.de",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+        "id": "a9"
       },
       {
         "title": "What Changed In Qualcomm's Story?",
@@ -494,7 +561,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T21:55:37.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.673Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -502,7 +569,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-        "id": "a5"
+        "id": "a11"
       },
       {
         "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -512,7 +579,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T19:21:16.000Z",
-        "fetchedAt": "2026-10-13T03:54:49.789Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Stocktwits",
         "geopoliticalBypass": true,
@@ -522,7 +589,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-        "id": "a6"
+        "id": "a12"
       },
       {
         "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
@@ -532,7 +599,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T18:32:03.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.545Z",
+        "fetchedAt": "2026-10-13T12:12:48.857Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -541,7 +608,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-        "id": "a8"
+        "id": "a14"
       },
       {
         "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
@@ -551,7 +618,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T16:41:22.000Z",
-        "fetchedAt": "2026-10-13T03:54:49.789Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "當代中國",
         "geopoliticalBypass": true,
@@ -561,7 +628,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
-        "id": "a9"
+        "id": "a15"
+      },
+      {
+        "title": "Drone firm executives held over China-chip claims - Taipei Times",
+        "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
+        "description": "Drone firm executives held over China-chip claims Taipei Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-12T16:00:00.000Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Taipei Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Drone firm executives held over China-chip claims Taipei Times",
+        "id": "a17"
       },
       {
         "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
@@ -571,7 +658,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T13:00:49.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -579,7 +666,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) did not get a verdict in its lawsuit against Arm Holdings.",
-        "id": "a16"
+        "id": "a23"
       },
       {
         "title": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help - Accounting Today",
@@ -589,7 +676,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T13:00:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:49.789Z",
+        "fetchedAt": "2026-10-13T12:12:56.901Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Accounting Today",
         "geopoliticalBypass": true,
@@ -599,7 +686,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help Accounting Today",
-        "id": "a18"
+        "id": "a25"
       },
       {
         "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -609,7 +696,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-12T07:59:41.000Z",
-        "fetchedAt": "2026-10-13T03:54:44.164Z",
+        "fetchedAt": "2026-10-13T12:12:51.573Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -618,45 +705,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-        "id": "a21"
-      },
-      {
-        "title": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall - ad-hoc-news.de",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm1ManZrVTBXLTJYNnBmWU16UjBFTHFMMkJSQVVhOEVlRlFROHZpZ1RLVFVzajVfQjRqLU0ybU9FRmtNeng0OEZWSGdORF9YcG1waWpVUG01UWRJb2lyaVh5SENJSHk3bU5scjhwS3hybTZBbTJvMng3RlBiVVFBNDJQSVNwWU5qejNFcS1PZHE2ZHphVk5lZFFTM2E4cnM1aVRnQnVzMldaZHBmWTVuclhmZmdMM2RjOWt2Q0NqbGo0RThL?oc=5",
-        "description": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-12T05:01:23.000Z",
-        "fetchedAt": "2026-10-13T03:54:49.789Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "ad-hoc-news.de",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-        "id": "a22"
-      },
-      {
-        "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-        "url": "https://www.fool.com/coverage/better-buy/2026/10/10/advanced-micro-devices-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-        "description": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-10T17:03:01.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-        "id": "a26"
+        "id": "a28"
       }
     ]
   },
@@ -852,44 +901,72 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-13T03:54:49.827Z",
+    "generatedAt": "2026-10-13T12:12:56.945Z",
     "date": "2026-10-13",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Geopolitics & Export Controls (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
         {
           "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
           "articleIds": [
-            "a10"
+            "a16"
           ],
           "subCategory": "wireless"
         },
         {
           "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
           "articleIds": [
-            "a12"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Platform & Ecosystem Partners: NVIDIA and Palantir hit record highs as valuations, bearish sentiment and historical comparisons suggest the AI rally may have further to run.",
           "articleIds": [
-            "a19"
+            "a26"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Semiconductors: Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
           "articleIds": [
-            "a20"
+            "a27"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+        "description": "CXMT Corp. said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-13T05:07:13.000Z",
+        "fetchedAt": "2026-10-13T12:12:49.121Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+        "id": "a8"
+      },
       {
         "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
         "url": "https://www.lightreading.com/broadband/gfiber-teams-with-gemtek-and-qualcomm-on-wi-fi-8-router",
@@ -898,7 +975,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-12T16:35:02.000Z",
-        "fetchedAt": "2026-10-13T03:54:46.225Z",
+        "fetchedAt": "2026-10-13T12:12:53.426Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -908,7 +985,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-        "id": "a10"
+        "id": "a16"
       },
       {
         "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
@@ -918,7 +995,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T14:26:24.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.673Z",
+        "fetchedAt": "2026-10-13T12:12:48.961Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -928,7 +1005,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-        "id": "a12"
+        "id": "a19"
       },
       {
         "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
@@ -938,7 +1015,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T14:09:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -948,7 +1025,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-        "id": "a13"
+        "id": "a20"
       },
       {
         "title": "The OnePlus 16 is the company’s most interesting phone in years",
@@ -958,7 +1035,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-12T13:13:53.000Z",
-        "fetchedAt": "2026-10-13T03:54:42.172Z",
+        "fetchedAt": "2026-10-13T12:12:49.650Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -968,7 +1045,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen 6 chipset, and up to 1TB of storage and 16GB of RAM. That's backed up by an enormous 9,000mAh silicon-carbon battery, one of the biggest seen in any Android flagship yet. 100W wired and 50W wireless charging complete the power setup.",
-        "id": "a15"
+        "id": "a22"
       },
       {
         "title": "Zacks Investment Ideas feature highlights: Meta Platform, NVIDIA, Palantir, Cisco, SanDisk and Qualcomm",
@@ -978,7 +1055,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T12:10:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -988,7 +1065,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "NVIDIA and Palantir hit record highs as valuations, bearish sentiment and historical comparisons suggest the AI rally may have further to run.",
-        "id": "a19"
+        "id": "a26"
       },
       {
         "title": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
@@ -998,7 +1075,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-12T12:06:00.000Z",
-        "fetchedAt": "2026-10-13T03:54:40.674Z",
+        "fetchedAt": "2026-10-13T12:12:48.962Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -1009,7 +1086,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
-        "id": "a20"
+        "id": "a27"
       }
     ]
   },
@@ -23745,41 +23822,77 @@ export const NEWS_DATA = {
     "totalArticles": 20
   },
   "archive-2026-10-13": {
-    "generatedAt": "2026-10-13T03:54:49.830Z",
+    "generatedAt": "2026-10-13T12:12:56.948Z",
     "date": "2026-10-13",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (5 articles), Semiconductors (4 articles), Mobile Chips (3 articles). A total of 12 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (7 articles), Semiconductors (3 articles), Mobile Chips (3 articles). A total of 13 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
+              "text": "Wireless Communication: Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next",
               "articleIds": [
                 "a4"
-              ],
-              "subCategory": "semiconductors"
-            },
-            {
-              "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-              "articleIds": [
-                "a10"
               ],
               "subCategory": "wireless"
             },
             {
+              "text": "Semiconductors: One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
               "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
               "articleIds": [
-                "a12"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
+            "url": "https://finance.yahoo.com/technology/ai/articles/gemtek-qualcomm-gfiber-collaborate-bring-082700766.html?.tsrc=rss",
+            "description": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. and gFiber, Inc. to bring Edge AI and next-generation connectivity into the home.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T08:27:00.000Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next-generation connectivity into the home.",
+            "id": "a4"
+          },
+          {
+            "title": "Fibocom Showcases SC153 5G Smart Module at NetworkX, Leveraging a Qualcomm Platform to Accelerate 5G Smart Device Development",
+            "url": "https://finance.yahoo.com/technology/articles/fibocom-showcases-sc153-5g-smart-063700317.html?.tsrc=rss",
+            "description": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T06:37:00.000Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
+            "id": "a5"
+          },
           {
             "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
             "url": "https://www.fool.com/coverage/better-buy/2026/10/12/broadcom-vs-qualcomm-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
@@ -23788,7 +23901,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T22:51:01.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.673Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23796,7 +23909,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "One trades at half the earnings multiple of the other, but profitability and risk profiles tell starkly different stories.",
-            "id": "a4"
+            "id": "a10"
           },
           {
             "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -23806,7 +23919,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-12T16:35:02.000Z",
-            "fetchedAt": "2026-10-13T03:54:46.225Z",
+            "fetchedAt": "2026-10-13T12:12:53.426Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -23816,7 +23929,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-            "id": "a10"
+            "id": "a16"
           },
           {
             "title": "Can Qualcomm's Advanced 6G Research Boost Its Future Growth Prospects?",
@@ -23826,7 +23939,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T15:17:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.673Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -23834,7 +23947,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QCOM is advancing 6G technology with AI-driven networks, Giga-MIMO and industry partnerships to improve connectivity and prepare for next-generation wireless networks.",
-            "id": "a11"
+            "id": "a18"
           },
           {
             "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
@@ -23844,7 +23957,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T14:26:24.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.673Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23854,7 +23967,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-            "id": "a12"
+            "id": "a19"
           },
           {
             "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
@@ -23864,7 +23977,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T14:09:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -23874,7 +23987,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-            "id": "a13"
+            "id": "a20"
           },
           {
             "title": "Broadcom vs. Qualcomm: One Owns the Data Center. The Other Is Betting on AI Everywhere Else",
@@ -23884,7 +23997,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T13:13:57.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23892,7 +24005,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Broadcom dwarfs Qualcomm, but Qualcomm pays more and costs less. Which AI chip stock is the better buy for dividend investors today?",
-            "id": "a14"
+            "id": "a21"
           },
           {
             "title": "The OnePlus 16 is the company’s most interesting phone in years",
@@ -23902,7 +24015,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-12T13:13:53.000Z",
-            "fetchedAt": "2026-10-13T03:54:42.172Z",
+            "fetchedAt": "2026-10-13T12:12:49.650Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23912,7 +24025,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen 6 chipset, and up to 1TB of storage and 16GB of RAM. That's backed up by an enormous 9,000mAh silicon-carbon battery, one of the biggest seen in any Android flagship yet. 100W wired and 50W wireless charging complete the power setup.",
-            "id": "a15"
+            "id": "a22"
           },
           {
             "title": "Cellid Joins Qualcomm's the Snapdragon START program to accelerate the development of AR glasses",
@@ -23922,7 +24035,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T13:00:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23930,7 +24043,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Cellid Inc., a developer of displays and spatial recognition engines for next-generation AR glasses, today announced that it has joined Snapdragon® START (Snapdragon Scalable Turnkey AI-Ready Toolkit), a development support program for personal AI devices designed by Qualcomm Technologies, Inc. (\"Qualcomm Technologies\").",
-            "id": "a17"
+            "id": "a24"
           },
           {
             "title": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
@@ -23940,7 +24053,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T12:06:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23951,7 +24064,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
-            "id": "a20"
+            "id": "a27"
           },
           {
             "title": "Qualcomm (QCOM) Puts 6G Sensing Into View Beyond Today’s 5G Networks",
@@ -23961,7 +24074,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T00:15:24.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -23969,25 +24082,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) and Tejas Networks have showcased a next generation 6G integrated sensing proof of concept for wireless networks. The joint effort combines sensing, communications and on device AI to support future connectivity use cases beyond current 5G systems. The 6G trial forms part of Qualcomm's broader effort to expand into network infrastructure and applications that stretch beyond smartphones. The Qualcomm and Tejas 6G integrated sensing milestone is important, and...",
-            "id": "a23"
-          },
-          {
-            "title": "Qualcomm Doesn't Look Cheap Next to Its AI Chip Peers. Here's Why.",
-            "url": "https://www.fool.com/investing/2026/10/11/qualcomm-looks-cheap-next-to-its-ai-chip-peers-her/?.tsrc=rss",
-            "description": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-11T16:50:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The mobile chipmaker is struggling to keep up with its higher-growth peers.",
-            "id": "a24"
+            "id": "a29"
           },
           {
             "title": "Huawei-Qualcomm 5G cross licence; Netlist, Micron $600 million settlement; Hisense takes InterDigital spat to China; Zync v BMW ITC case revival; USPTO data outage silence;&nbsp;plus much more",
@@ -23997,7 +24092,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-11T09:29:51.000Z",
-            "fetchedAt": "2026-10-13T03:54:44.164Z",
+            "fetchedAt": "2026-10-13T12:12:51.573Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -24005,31 +24100,24 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a25"
+            "id": "a30"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "One article today covering FRAND & Licensing. Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees w",
           "keyTakeaways": [
             {
               "text": "FRAND & Licensing: Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
               "articleIds": [
-                "a7"
+                "a13"
               ],
               "subCategory": "frand-licensing"
-            },
-            {
-              "text": "Patent Litigation: Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaw",
-              "articleIds": [
-                "a27"
-              ],
-              "subCategory": "patent-litigation"
             }
           ]
         },
@@ -24042,7 +24130,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T19:18:16.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -24050,30 +24138,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
-            "id": "a7"
-          },
-          {
-            "title": "Qualcomm Waits on a Jury: Arm Has a $443 Million Customer on the Line",
-            "url": "https://www.tikr.com/blog/qualcomm-waits-on-a-jury-arm-has-a-443-million-customer-on-the-line?ref=yahoofinance&.tsrc=rss",
-            "description": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T11:42:15.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm (QCOM:NASDAQ) will have to wait until at least Tuesday, October 13, to learn whether a jury agrees that Arm Holdings (ARM:NASDAQ) broke their licensing agreements. Jurors in Wilmington, Delaware, deliberated for about four hours on Friday, October 9, without reaching a verdict, Reuters reported.",
-            "id": "a27"
+            "id": "a13"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -24084,15 +24154,15 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Drone firm executives held over China-chip claims Taipei Times",
+              "text": "Geopolitics & Export Controls: Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
               "articleIds": [
                 "a1"
               ],
@@ -24101,68 +24171,62 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, partic",
               "articleIds": [
-                "a5"
+                "a11"
               ],
               "subCategory": "market-performance"
-            },
-            {
-              "text": "Customers & Partners: AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-              "articleIds": [
-                "a26"
-              ],
-              "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
           {
-            "title": "Drone firm executives held over China-chip claims - Taipei Times",
-            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
-            "description": "Drone firm executives held over China-chip claims Taipei Times",
+            "title": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test - Binance",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUHllb09hbTlVdHI0c1h0RGxjYlhQaFdGZnJGUHZ1ejRmakRYM09sMDQtS0pTQTZzMzBETzBqSHdEZXRMREJIUEZVaE00Mm1WZGZvU1JnZ08zNkItdURYZFpLMEc?oc=5",
+            "description": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-13T03:28:20.000Z",
-            "fetchedAt": "2026-10-13T03:54:49.789Z",
+            "publishedAt": "2026-10-13T10:54:44.000Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "Taipei Times",
+            "googleNewsSource": "Binance",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Drone firm executives held over China-chip claims Taipei Times",
+            "summary": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
             "id": "a1"
           },
           {
-            "title": "China resorts to Nvidia gaming chips in search for AI firepower",
-            "url": "https://www.ft.com/content/9dbd99db-6b0c-43bd-b7be-849f129df098?syn-25a6b1a6=1",
-            "description": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
-            "source": "Financial Times",
-            "sourceId": "ft",
+            "title": "Free ration to national security, Modi Govt’s decisions have reached every section: CM - The Hitavada",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQVG5rR042NGdoc2daNDZFaDM4TkRwd0lZZWJBdHkxc0pya2h1dlFiRWxyUWQwelBtc29fYXZweTgzQ2kyQzRHN1JUeEFuRXJTYUtXZklFeHdpMkR0TU1ZbVBRSUxoeTlrN0sxcVk3aW51S2dlUldoOGVqTTFzVEpZUjZEUlFsWndzeS1XSXdkTndiZmdyTnN1RC1Ga1MxVGEyZTZUYUk3aGJraU8zUzB4dEJrZVY4V3Jta3JIOHAxcGx1SUVuamdEZkh1ZE0zQQ?oc=5",
+            "description": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-13T00:15:06.000Z",
-            "fetchedAt": "2026-10-13T03:54:42.043Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-10-13T10:23:55.000Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Hitavada",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "The country’s tech giants are snapping up products never designed for advanced AI to satisfy soaring computing demands",
+            "summary": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
             "id": "a2"
           },
           {
-            "title": "CNBC's The China Connection newsletter: How a gold-buying spree helps the yuan go global",
-            "url": "https://www.cnbc.com/2026/10/12/cnbc-china-connection-newsletter-gold-purchases-yuan-globalization.html",
-            "description": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "Sitharaman: Investor Interest in India Extends Beyond AI",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-13/sitharaman-investor-interest-in-india-extends-beyond-ai-video",
+            "description": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-12T23:00:01.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.545Z",
+            "publishedAt": "2026-10-13T09:13:15.000Z",
+            "fetchedAt": "2026-10-13T12:12:49.121Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24170,8 +24234,88 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Plans to develop a gold trading hub in Hong Kong coincide with China's growing gold reserves.",
+            "summary": "India's Nirmala Sitharaman says India is a viable alternative destination for international capital alongside the US and China, with strengths in AI, semiconductors and green technology.",
             "id": "a3"
+          },
+          {
+            "title": "Visa gets Beijing's green light for bank card business after 40 years of working with China",
+            "url": "https://www.cnbc.com/2026/10/13/visa-china-green-light-bank-card-business-.html",
+            "description": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T06:20:55.000Z",
+            "fetchedAt": "2026-10-13T12:12:48.857Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The incremental approval comes as the U.S. and Chinese presidents are due to meet for a third time this year next month.",
+            "id": "a6"
+          },
+          {
+            "title": "OPINION | US-China decoupling has spurred R&D in both countries - Moneycontrol.com",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQQlNiSmRheVJSaklpT2VrQjF5ZzVjZTh4bTJMeEFpUklWUDB2Ni00RHhNdW5uWHc2aGVoVllXWV9SV3dOTC11M3V0LVFWd1FuNzZ3TjYzb2VmdFU4eGJGNlY0Rk5GaW1pc2ZPZ0Q5eVdvTFU3bHd1QzZYYzduX2xTRmZ5R0IwNEdUb2Z4VnpXSWpCNXRJM2NWMUJnXzI5SVEzRjVrQ2R4YXlLRkhwV2fSAbMBQVVfeXFMTXAzR1BYcnlueVNVTEE0bUtBYm1faUxuX2VoSU9SVnJBY3BUb2tzU1pqLW5uV0pPakIwX2NXeWFhQ0cycXo4c1ZWcGUxYjdhOEZsTjNuaGc0ZXJEZDhDR0EzQUVCdDBGcDRZakhXTExOekNyRHZKVjZ3VHBJRkdqdmxkZS1tcDFfZ0FOekdDOUZsYmRMZWNGMzBDOFQtMkpoY0JtSVJKX1hQT1VRSG4zX2dUNGM?oc=5",
+            "description": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T06:03:17.000Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Moneycontrol.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
+            "id": "a7"
+          },
+          {
+            "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+            "description": "CXMT Corp. said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T05:07:13.000Z",
+            "fetchedAt": "2026-10-13T12:12:49.121Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+            "id": "a8"
+          },
+          {
+            "title": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl - ad-hoc-news.de",
+            "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNNjlnQkZkbUlkZjlSX19tX3c4VHJMMnhIZHVhVU11VUlLdFVZSTd5ZVBEaERMcWR3UFNuZlBJWHJzay0ycUZkYWtuLVFRN3lBNzFkbG95TjQ5WlJPZHNJbHhzTEdqX3ZPejV6aWZwTGppTHB1bDd6UXV3elZwRnhkV3dUSGhPTmJNY0t2blZsT0Q5VnlBdFdqYmxaR0dmZjBhSkVFbGtUYVZ5cWdQSUpnOHNjdzNVVDEzQm5Jczg0UC1SR1hsVEk4WVkteGo4QXJNUy1UVGFTOUE?oc=5",
+            "description": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T05:01:18.000Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ad-hoc-news.de",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
+            "id": "a9"
           },
           {
             "title": "What Changed In Qualcomm's Story?",
@@ -24181,7 +24325,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T21:55:37.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.673Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -24189,7 +24333,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-            "id": "a5"
+            "id": "a11"
           },
           {
             "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -24199,7 +24343,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T19:21:16.000Z",
-            "fetchedAt": "2026-10-13T03:54:49.789Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Stocktwits",
             "geopoliticalBypass": true,
@@ -24209,7 +24353,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-            "id": "a6"
+            "id": "a12"
           },
           {
             "title": "Trump defends Russia diesel deal after bipartisan pushback: 'I made the right choice'",
@@ -24219,7 +24363,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T18:32:03.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.545Z",
+            "fetchedAt": "2026-10-13T12:12:48.857Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24228,7 +24372,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukraine President Volodymyr Zelenskyy said that the U.S. easing sanctions on Moscow \"plays into Russia's hands.\"",
-            "id": "a8"
+            "id": "a14"
           },
           {
             "title": "China's first general-purpose high-performance chip Loongson launched - 當代中國",
@@ -24238,7 +24382,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T16:41:22.000Z",
-            "fetchedAt": "2026-10-13T03:54:49.789Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "當代中國",
             "geopoliticalBypass": true,
@@ -24248,7 +24392,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's first general-purpose high-performance chip Loongson launched 當代中國",
-            "id": "a9"
+            "id": "a15"
+          },
+          {
+            "title": "Drone firm executives held over China-chip claims - Taipei Times",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBOOHlma01Gb01HSGprU2syT0kxZ3BvWEpKLWprS19vTXJLdG9DS29rWjhEQ3F5OWJBcllDZUhoMGNKaVNQVFhLQTVrR1VqemtFRFFEQUpuVlA1NnNwM2NGbzBtNHV4UmgxTlpfNTZnbW1YT0lxV1lXb3d3?oc=5",
+            "description": "Drone firm executives held over China-chip claims Taipei Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-12T16:00:00.000Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Taipei Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Drone firm executives held over China-chip claims Taipei Times",
+            "id": "a17"
           },
           {
             "title": "Qualcomm and Arm Trial Ends in Hung Jury Over Licensing Breach Allegations",
@@ -24258,7 +24422,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T13:00:49.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -24266,7 +24430,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 34%$QCOM Stock Price as of Oct. 9: $17652-Week High: $260$QCOM Stock Price Target: $194What Happened?Qualcomm (QCOM:NASDAQ) did not get a verdict in its lawsuit against Arm Holdings.",
-            "id": "a16"
+            "id": "a23"
           },
           {
             "title": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help - Accounting Today",
@@ -24276,7 +24440,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T13:00:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:49.789Z",
+            "fetchedAt": "2026-10-13T12:12:56.901Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Accounting Today",
             "geopoliticalBypass": true,
@@ -24286,7 +24450,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The CHIPS Act's GAAP gap: FASB's fix arrives too late to help Accounting Today",
-            "id": "a18"
+            "id": "a25"
           },
           {
             "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -24296,7 +24460,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-12T07:59:41.000Z",
-            "fetchedAt": "2026-10-13T03:54:44.164Z",
+            "fetchedAt": "2026-10-13T12:12:51.573Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24305,50 +24469,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-            "id": "a21"
-          },
-          {
-            "title": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall - ad-hoc-news.de",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQYm1ManZrVTBXLTJYNnBmWU16UjBFTHFMMkJSQVVhOEVlRlFROHZpZ1RLVFVzajVfQjRqLU0ybU9FRmtNeng0OEZWSGdORF9YcG1waWpVUG01UWRJb2lyaVh5SENJSHk3bU5scjhwS3hybTZBbTJvMng3RlBiVVFBNDJQSVNwWU5qejNFcS1PZHE2ZHphVk5lZFFTM2E4cnM1aVRnQnVzMldaZHBmWTVuclhmZmdMM2RjOWt2Q0NqbGo0RThL?oc=5",
-            "description": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-12T05:01:23.000Z",
-            "fetchedAt": "2026-10-13T03:54:49.789Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "ad-hoc-news.de",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Micron's $35 Billion Buyback Runs Into a CHIPS Act Wall ad-hoc-news.de",
-            "id": "a22"
-          },
-          {
-            "title": "Advanced Micro Devices vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/10/10/advanced-micro-devices-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-            "description": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-10T17:03:01.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "AMD's net margin doubled while Qualcomm trades at a fraction of its rival's valuation, but customer concentration and competitive threats complicate both bets.",
-            "id": "a26"
+            "id": "a28"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -24359,44 +24485,72 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-13T03:54:49.827Z",
+        "generatedAt": "2026-10-13T12:12:56.945Z",
         "date": "2026-10-13",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (2 articles), Mobile Chips (2 articles), Geopolitics & Export Controls (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
             {
               "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
               "articleIds": [
-                "a10"
+                "a16"
               ],
               "subCategory": "wireless"
             },
             {
               "text": "Mobile Chips: Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the ",
               "articleIds": [
-                "a12"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Platform & Ecosystem Partners: NVIDIA and Palantir hit record highs as valuations, bearish sentiment and historical comparisons suggest the AI rally may have further to run.",
               "articleIds": [
-                "a19"
+                "a26"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Semiconductors: Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
               "articleIds": [
-                "a20"
+                "a27"
               ],
               "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "China’s CXMT Claims Memory Advances Ahead of Samsung, Hynix",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-13/china-s-cxmt-claims-memory-breakthrough-ahead-of-samsung-hynix",
+            "description": "CXMT Corp. said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-13T05:07:13.000Z",
+            "fetchedAt": "2026-10-13T12:12:49.121Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "said it achieved a breakthrough in chip technology that rivals like Samsung Electronics Co. had pursued for years, an unsubstantiated claim that jolted stocks and reflects China’s aggressive push into a critical sphere.",
+            "id": "a8"
+          },
           {
             "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
             "url": "https://www.lightreading.com/broadband/gfiber-teams-with-gemtek-and-qualcomm-on-wi-fi-8-router",
@@ -24405,7 +24559,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-12T16:35:02.000Z",
-            "fetchedAt": "2026-10-13T03:54:46.225Z",
+            "fetchedAt": "2026-10-13T12:12:53.426Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -24415,7 +24569,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-            "id": "a10"
+            "id": "a16"
           },
           {
             "title": "Qualcomm (QCOM) Has Amazon Now. Why Is It Still Priced Like a Phone Stock?",
@@ -24425,7 +24579,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T14:26:24.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.673Z",
+            "fetchedAt": "2026-10-13T12:12:48.961Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -24435,7 +24589,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Qualcomm (NASDAQ:QCOM) signed one of the world’s biggest cloud operators as a long-term chip customer last month. Yet the stock still trades at a steep discount to the semiconductor sector, as if the company were just a smartphone supplier watching its biggest phone customer walk away. If you’ve owned an Android phone, Qualcomm probably made […]",
-            "id": "a12"
+            "id": "a19"
           },
           {
             "title": "gFiber, Qualcomm, and Gemtek Unveil an AI-Native Wi-Fi 8 Broadband Gateway at Network X 2026",
@@ -24445,7 +24599,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T14:09:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -24455,7 +24609,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Powered by the Qualcomm Dragonwing™ NPro A8 Elite Platform, the gFiber Wi-Fi 8 Premium Gateway combines next-generation Wi-Fi 8 connectivity with privacy-focused on-device AI compute and agentic AI capabilities—transforming the home gateway into an intelligent service platformVIENNA, Oct. 12, 2026 (GLOBE NEWSWIRE) -- gFiber (formerly Google Fiber), Qualcomm Technologies, Inc., and Gemtek Technology announced a landmark collaboration to develop and debut an AI-native, Wi-Fi 8, symmetrical 20 gig",
-            "id": "a13"
+            "id": "a20"
           },
           {
             "title": "The OnePlus 16 is the company’s most interesting phone in years",
@@ -24465,7 +24619,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-12T13:13:53.000Z",
-            "fetchedAt": "2026-10-13T03:54:42.172Z",
+            "fetchedAt": "2026-10-13T12:12:49.650Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -24475,7 +24629,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Today the OnePlus 16 launched in China, the company's first flagship phone since quitting both the US and European markets this summer. As luck would have it, it also looks like the company's best phone in some time. Like most OnePlus phones, the 16 is positioned around performance, with a Snapdragon 8 Elite Extreme Gen 6 chipset, and up to 1TB of storage and 16GB of RAM. That's backed up by an enormous 9,000mAh silicon-carbon battery, one of the biggest seen in any Android flagship yet. 100W wired and 50W wireless charging complete the power setup.",
-            "id": "a15"
+            "id": "a22"
           },
           {
             "title": "Zacks Investment Ideas feature highlights: Meta Platform, NVIDIA, Palantir, Cisco, SanDisk and Qualcomm",
@@ -24485,7 +24639,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T12:10:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -24495,7 +24649,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "NVIDIA and Palantir hit record highs as valuations, bearish sentiment and historical comparisons suggest the AI rally may have further to run.",
-            "id": "a19"
+            "id": "a26"
           },
           {
             "title": "Zacks Investment Ideas feature highlights: Qualcomm, Alphabet, Tesla, AMD, Amazon, Taiwan Semiconductor, NVIDIA, Intel, Apple, Broadcom and SpaceX",
@@ -24505,7 +24659,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-12T12:06:00.000Z",
-            "fetchedAt": "2026-10-13T03:54:40.674Z",
+            "fetchedAt": "2026-10-13T12:12:48.962Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24516,12 +24670,12 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Record profits at Samsung, Taiwan Semiconductor's 50% revenue growth and SpaceX's $40 billion chip funding plan offer clues to AI spending's staying power.",
-            "id": "a20"
+            "id": "a27"
           }
         ]
       }
     },
-    "totalArticles": 32
+    "totalArticles": 36
   }
 };
 
