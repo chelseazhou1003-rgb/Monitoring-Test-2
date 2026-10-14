@@ -1,21 +1,50 @@
 {
-  "generatedAt": "2026-10-14T08:03:10.093Z",
+  "generatedAt": "2026-10-14T14:04:43.552Z",
   "date": "2026-10-14",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Wireless Communication. gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Wireless Communication (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
+        "articleIds": [
+          "a9"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a34"
+          "a28"
         ],
         "subCategory": "wireless"
       }
     ]
   },
   "articles": [
+    {
+      "title": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus - Simply Wall Street",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS2JqTTFWY2VXMzVSZ2MtQnVxYVZ5WVI3b3FnQlp6dF9EMS13Sk43OE1IbnM0SWkxaF8tOGZHd1ZrbDB5TWtDY3hwMGU3eW56ZGtRMUVpVWhsYTJCNTkxRXJSUGpqTy03cFpsLTB0VVZDZ2ZUM2hOSU9Hc05uQmVmOFhPZHdwb1ZPNFRkME9RcDI5WUpaTWhrbmZtemFKeUl1dW9tSEd5T2V4djRwNjRjRUhacDRzcURfV3ZnTVE1bFFhbTJpek4wNS03RWxWQkFyTUVEYnNSQ2IzakI5M215bXRDY3FzNlN1b1FNaFhB0gHzAUFVX3lxTE55S2xBWUJ4N1R0eldlVk15OTY1QUF4ZklvVk5nLW9QYTE3UG9wdm9GNjA5d3YxZHRwdnROdE5sZi1GQkcxV3VYZmc1ZDcyWmhyWlhvclJqRFBISExIaThmaTJTcmxQcl9GUGRmOXRzVDFMUlRGMm9vel9McDlrUVdFZlY3eV84UTNlZmNDMTNYbWpERHlRc0R2Smh5dF9BczdkRVdtUVpBaEdlUWJpSUZsM3FQSjc5RzR4QW0tbGF2VlpIb194ZjhicjZlSWVxdTMxd1Y3MC1WRUx2bVhBSC1IYnUySVFJY0dDZjYydW14Q0lYSQ?oc=5",
+      "description": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T05:01:07.000Z",
+      "fetchedAt": "2026-10-14T14:04:43.514Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Simply Wall Street",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
+      "id": "a9"
+    },
     {
       "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
       "url": "https://www.lightreading.com/broadband/gfiber-teams-with-gemtek-and-qualcomm-on-wi-fi-8-router",
@@ -24,7 +53,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-14T08:03:07.250Z",
+      "fetchedAt": "2026-10-14T14:04:41.066Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -34,7 +63,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a34"
+      "id": "a28"
     }
   ]
 }

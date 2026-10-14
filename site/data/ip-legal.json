@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-10-14T08:03:10.093Z",
+  "generatedAt": "2026-10-14T14:04:43.552Z",
   "date": "2026-10-14",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles), FRAND & Licensing (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement Reuters",
         "articleIds": [
-          "a12"
+          "a14"
         ],
         "subCategory": "patent-litigation"
-      },
-      {
-        "text": "FRAND & Licensing: Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
-        "articleIds": [
-          "a33"
-        ],
-        "subCategory": "frand-licensing"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T21:25:41.000Z",
-      "fetchedAt": "2026-10-14T08:03:08.935Z",
+      "fetchedAt": "2026-10-14T14:04:42.209Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -40,7 +33,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement Reuters",
-      "id": "a12"
+      "id": "a14"
     },
     {
       "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -50,7 +43,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-13T20:17:09.000Z",
-      "fetchedAt": "2026-10-14T08:03:06.703Z",
+      "fetchedAt": "2026-10-14T14:04:41.366Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -58,7 +51,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-      "id": "a15"
+      "id": "a16"
     },
     {
       "title": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
@@ -68,7 +61,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T19:59:49.000Z",
-      "fetchedAt": "2026-10-14T08:03:02.574Z",
+      "fetchedAt": "2026-10-14T14:04:36.317Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -76,7 +69,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware federal jury has ruled that Arm Holdings breached its licensing agreement with Qualcomm, while awarding Arm only nominal damages on separate claims.",
-      "id": "a16"
+      "id": "a17"
     },
     {
       "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute",
@@ -86,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T18:09:01.000Z",
-      "fetchedAt": "2026-10-14T08:03:02.574Z",
+      "fetchedAt": "2026-10-14T14:04:36.317Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -94,25 +87,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- Arm Holdings shares erased gains and dropped over 3% on Tuesday after a Delaware jury ruled against the company in a breach of contract case brought by Qualcomm.",
-      "id": "a18"
-    },
-    {
-      "title": "AI Is Blowing Up Tech’s Money Rules. How Arm Could Make Qualcomm Pay More.",
-      "url": "https://www.barchart.com/story/news/6258465/ai-is-blowing-up-techs-money-rules-how-arm-could-make-qualcomm-pay-more?.tsrc=rss",
-      "description": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-12T19:18:16.000Z",
-      "fetchedAt": "2026-10-14T08:03:02.574Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm and Arm’s $1.88 royalty fight shows how AI is straining licensing deals. Investors should watch who can turn rising demand into higher fees without sacrificing customers or profitable growth.",
-      "id": "a33"
+      "id": "a19"
     }
   ]
 }
