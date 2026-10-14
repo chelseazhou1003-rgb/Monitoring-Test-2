@@ -1,28 +1,157 @@
 {
-  "generatedAt": "2026-10-14T14:04:43.552Z",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T18:57:28.287Z",
+  "date": "2026-10-15",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
+        "text": "Geopolitics & Export Controls: Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
         "articleIds": [
-          "a2"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
+        "text": "Customers & Partners: Europe is emerging as a key battleground for the global robotaxi industry as US and Chinese companies look to expand autonomous driving beyond their home markets. Frank McCleary, a partner at Arthur D",
         "articleIds": [
-          "a12"
+          "a2"
+        ],
+        "subCategory": "customers-partners"
+      },
+      {
+        "text": "Supply Chain: ASML is racing to expand capacity as demand for the advanced chipmaking equipment needed to power the AI boom stretches years into the future. Intesa Sanpaolo analyst Antonella Frongillo discusses why",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "supply-chain"
+      },
+      {
+        "text": "market-performance: Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking yo",
+        "articleIds": [
+          "a7"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
+      "url": "https://www.lightreading.com/smartphones-devices/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013-omdia",
+      "description": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026. #pressrelease",
+      "source": "Light Reading",
+      "sourceId": "light-reading",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-14T17:53:07.000Z",
+      "fetchedAt": "2026-10-14T18:57:26.118Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
+      "id": "a1"
+    },
+    {
+      "title": "US, Chinese Robotaxi Rivals Race for Europe",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/us-chinese-robotaxi-rivals-race-for-europe-video",
+      "description": "Europe is emerging as a key battleground for the global robotaxi industry as US and Chinese companies look to expand autonomous driving beyond their home markets. Frank McCleary, a partner at Arthur D. Little, discusses Europe’s fragmented but evolving regulatory landscape, why Chinese operators see an opportunity there as the US remains largely closed to them, and whether experience gained deploying autonomous vehicles in China translates to cities overseas. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T17:33:20.000Z",
+      "fetchedAt": "2026-10-14T18:57:22.247Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Europe is emerging as a key battleground for the global robotaxi industry as US and Chinese companies look to expand autonomous driving beyond their home markets. Frank McCleary, a partner at Arthur D. Little, discusses Europe’s fragmented but evolving regulatory landscape, why Chinese operators see an opportunity there as the US remains largely closed to them, and whether experience gained deploying autonomous vehicles in China translates to cities overseas. He joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a2"
+    },
+    {
+      "title": "ASML Struggles to Keep Up With High AI Demand",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-14/asml-struggles-to-keep-up-with-high-ai-demand-video",
+      "description": "ASML is racing to expand capacity as demand for the advanced chipmaking equipment needed to power the AI boom stretches years into the future. Intesa Sanpaolo analyst Antonella Frongillo discusses why semiconductor equipment makers are already talking with customers about demand into 2029 and 2030, and why she sees further upside for ASML despite uncertainty around its China business and new regulatory restrictions. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T17:28:10.000Z",
+      "fetchedAt": "2026-10-14T18:57:22.247Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "ASML is racing to expand capacity as demand for the advanced chipmaking equipment needed to power the AI boom stretches years into the future. Intesa Sanpaolo analyst Antonella Frongillo discusses why semiconductor equipment makers are already talking with customers about demand into 2029 and 2030, and why she sees further upside for ASML despite uncertainty around its China business and new regulatory restrictions. She joins Ed Ludlow on \"Bloomberg Tech.\" (Source: Bloomberg)",
+      "id": "a3"
+    },
+    {
+      "title": "Iowa, Michigan Hit by Weak Exports Ahead of Tight Midterm Races",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/iowa-michigan-hit-by-weak-exports-ahead-of-tight-midterm-races",
+      "description": "Iowa and Michigan are among US states with competitive Senate races that appear hardest hit by President Donald Trump’s tariff agenda, with exports falling relative to before his second term began.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T16:40:32.000Z",
+      "fetchedAt": "2026-10-14T18:57:22.247Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Iowa and Michigan are among US states with competitive Senate races that appear hardest hit by President Donald Trump’s tariff agenda, with exports falling relative to before his second term began.",
+      "id": "a5"
+    },
+    {
+      "title": "AI chiefs sound alarm on security risks",
+      "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
+      "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-14T16:10:07.000Z",
+      "fetchedAt": "2026-10-14T18:57:26.189Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
+      "id": "a6"
+    },
+    {
+      "title": "Qualcomm Vs. Intel: The Market is Refuting Both AI Rebrand Attempts",
+      "url": "https://247wallst.com/investing/2026/10/14/qualcomm-vs-intel-the-market-is-refuting-both-ai-rebrand-attempts/?.tsrc=rss",
+      "description": "Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking you to fund a roadmap that has yet to book its first dollar.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T14:45:52.000Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking you to fund a roadmap that has yet to book its first dollar.",
+      "id": "a7"
+    },
     {
       "title": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
       "url": "https://www.ft.com/content/37085602-726a-44dc-a859-51caab38eb75?syn-25a6b1a6=1",
@@ -31,7 +160,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T11:09:54.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.987Z",
+      "fetchedAt": "2026-10-14T18:57:22.690Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,7 +169,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Moscow ignores Donald Trump’s ‘energy ceasefire’ while Kyiv’s forces experience connectivity problems on Elon Musk’s satellite network",
-      "id": "a2"
+      "id": "a9"
     },
     {
       "title": "Scimplify raises $25M to challenge China’s grip on critical materials with AI",
@@ -50,7 +179,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-14T11:00:00.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.237Z",
+      "fetchedAt": "2026-10-14T18:57:22.123Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -59,7 +188,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Scimplify's annualized revenue run rate has tripled to $200 million as it eyes U.S.",
-      "id": "a3"
+      "id": "a10"
     },
     {
       "title": "How Trump’s tariffs and Iran war are becoming liabilities in Michigan’s Senate race",
@@ -69,7 +198,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T10:30:01.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.141Z",
+      "fetchedAt": "2026-10-14T18:57:22.112Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -78,26 +207,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Republicans are largely leaving Trump out of general election ads, with some battleground candidates breaking from him on tariffs and Iran.",
-      "id": "a4"
-    },
-    {
-      "title": "AI Robots: China Is Beating the US to $5 Trillion Market",
-      "url": "https://www.bloomberg.com/news/newsletters/2026-10-14/ai-robots-china-is-beating-the-us-to-5-trillion-market",
-      "description": "Chinese firms are at the forefront of the most advanced physical AI hardware, such as robotic hands.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T10:28:01.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.399Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Chinese firms are at the forefront of the most advanced physical AI hardware, such as robotic hands.",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
@@ -107,7 +217,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T07:31:36.000Z",
-      "fetchedAt": "2026-10-14T14:04:43.514Z",
+      "fetchedAt": "2026-10-14T18:57:28.248Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Stocktwits",
       "geopoliticalBypass": true,
@@ -117,7 +227,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits - Fox News",
@@ -127,7 +237,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T06:51:07.000Z",
-      "fetchedAt": "2026-10-14T14:04:43.514Z",
+      "fetchedAt": "2026-10-14T18:57:28.248Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Fox News",
       "geopoliticalBypass": true,
@@ -137,7 +247,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump announces massive oil, gas and mineral exploration plans in Greenland, touts national security benefits Fox News",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus - Simply Wall Street",
@@ -147,7 +257,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T05:01:07.000Z",
-      "fetchedAt": "2026-10-14T14:04:43.514Z",
+      "fetchedAt": "2026-10-14T18:57:28.248Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Simply Wall Street",
       "geopoliticalBypass": true,
@@ -159,26 +269,7 @@
         "oem"
       ],
       "summary": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
-      "id": "a9"
-    },
-    {
-      "title": "China's producer prices rise at fastest pace since June 2022, beating expectations",
-      "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
-      "description": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T03:14:48.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.141Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
-      "id": "a10"
+      "id": "a15"
     },
     {
       "title": "Justice Department says North Koreans have infiltrated dozens of US companies",
@@ -188,7 +279,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-14T01:30:42.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.237Z",
+      "fetchedAt": "2026-10-14T18:57:22.123Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -197,7 +288,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
-      "id": "a11"
+      "id": "a16"
     },
     {
       "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
@@ -207,7 +298,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T23:37:15.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.317Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -215,26 +306,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-      "id": "a12"
-    },
-    {
-      "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
-      "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
-      "description": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T23:05:12.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.141Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "id": "a13"
+      "id": "a17"
     },
     {
       "title": "Is Qualcomm (QCOM) a Good or Bad Investment at Today’s Price?",
@@ -244,7 +316,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T18:19:47.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.317Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -252,27 +324,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) closed at $174.43 on October 12. The stock has returned 32.9% during the last six months, compared to a 21.2% return for the Insider Monkey Billionaire Index and 14.0% for State Street SPDR S&P 500 ETF Trust. Qualcomm does two different things. It designs the chips inside a great many phones, and […]",
-      "id": "a18"
-    },
-    {
-      "title": "Nvidia's China Troubles Deepen as Rivalry Takes New Turn - TradingView",
-      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOeHdlZVVKaVVJSUdmTVJDeDVIU2t3Qy03aFNzRG5QWTJ1bmxoWGN4aDI0bFBCZUkwNEV0RFRNMVdOTEw4c0tlcmZnYmQtbllaRFBqOUNjcWxDU1RQNm41Ym0yRDg4dTVWRnctdFl1Uk9CRnkyUGY2SlNEdWtCalVRMml1QVdPd2hvb1NVLWp0V01EcW5fZmhBTmpGYy1yaVM2dHQzOThaZ1NEcm44cnQtR1VNSzR0TkU?oc=5",
-      "description": "Nvidia's China Troubles Deepen as Rivalry Takes New Turn TradingView",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T16:29:07.000Z",
-      "fetchedAt": "2026-10-14T14:04:43.514Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "TradingView",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia's China Troubles Deepen as Rivalry Takes New Turn TradingView",
-      "id": "a20"
+      "id": "a22"
     },
     {
       "title": "17 Years with China: What Really Makes a Partnership Work",
@@ -282,7 +334,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-13T13:00:00.000Z",
-      "fetchedAt": "2026-10-14T14:04:37.429Z",
+      "fetchedAt": "2026-10-14T18:57:22.847Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -291,17 +343,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times.",
-      "id": "a23"
+      "id": "a26"
     },
     {
       "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
-      "url": "https://www.iam-media.com/article/novartis-inks-78-billion-mrna-deal-chinese-company-abogen",
+      "url": "https://www.iam-media.com/index.php/article/novartis-inks-78-billion-mrna-deal-chinese-company-abogen",
       "description": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-12T07:59:41.000Z",
-      "fetchedAt": "2026-10-14T14:04:39.318Z",
+      "fetchedAt": "2026-10-14T18:57:24.351Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

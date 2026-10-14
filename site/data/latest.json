@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-14T14:04:43.555Z",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T18:57:28.289Z",
+  "date": "2026-10-15",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 9,
+      "articleCount": 6,
       "topHeadline": "Arm guilty of breaching Qualcomm licence agreement",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 9 articles were aggregated from monitored sources."
+      "topHeadlineId": "a12",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles), Wireless Communication (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 4,
-      "topHeadline": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters",
-      "topHeadlineId": "a14",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a8",
       "briefingSummary": "One article today covering Data Center. Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet "
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles). A total of 15 articles were aggregated from monitored sources."
+      "articleCount": 17,
+      "topHeadline": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 17 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus - Simply Wall Street",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Wireless Communication (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 31
+  "totalArticles": 33
 }

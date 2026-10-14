@@ -1,21 +1,41 @@
 {
-  "generatedAt": "2026-10-14T14:04:43.552Z",
-  "date": "2026-10-14",
+  "generatedAt": "2026-10-14T18:57:28.287Z",
+  "date": "2026-10-15",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (5 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Patent Litigation: Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement Reuters",
+        "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
         "articleIds": [
-          "a14"
+          "a4"
         ],
         "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
+    {
+      "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
+      "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T17:14:19.000Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "patent-litigation",
+      "subLabel": "Patent Litigation",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+      "id": "a4"
+    },
     {
       "title": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement - Reuters",
       "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPQ3B0dlZXT01OUXZmR2FEMXhoVWx5RnpzUk92dzNtR0dWSWZFZGkyTzlpQmc1VmNxc0N6VTBtTndzZUd0NzVYMGxIQUU3VEFaTUZnUnhVMmlpSWhjM1YxLWxKQWMxTFN2M0g1cTVKV20wWUc3LVMtZ0MzRXY1c1AxSTgzUjlQV21kb19uSmZndHdYVDVlQzZ2X2VjN210SWN0cWRZeDVkY1BaV21H?oc=5",
@@ -24,7 +44,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T21:25:41.000Z",
-      "fetchedAt": "2026-10-14T14:04:42.209Z",
+      "fetchedAt": "2026-10-14T18:57:27.007Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "ip-legal",
@@ -33,7 +53,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Delaware jury awards Qualcomm $2 in damages, finds Arm breached license agreement Reuters",
-      "id": "a14"
+      "id": "a18"
     },
     {
       "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -43,7 +63,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-13T20:17:09.000Z",
-      "fetchedAt": "2026-10-14T14:04:41.366Z",
+      "fetchedAt": "2026-10-14T18:57:26.337Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -51,7 +71,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-      "id": "a16"
+      "id": "a20"
     },
     {
       "title": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
@@ -61,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T19:59:49.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.317Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -69,7 +89,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware federal jury has ruled that Arm Holdings breached its licensing agreement with Qualcomm, while awarding Arm only nominal damages on separate claims.",
-      "id": "a17"
+      "id": "a21"
     },
     {
       "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute",
@@ -79,7 +99,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T18:09:01.000Z",
-      "fetchedAt": "2026-10-14T14:04:36.317Z",
+      "fetchedAt": "2026-10-14T18:57:22.226Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -87,7 +107,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- Arm Holdings shares erased gains and dropped over 3% on Tuesday after a Delaware jury ruled against the company in a breach of contract case brought by Qualcomm.",
-      "id": "a19"
+      "id": "a23"
     }
   ]
 }
