@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-14T02:11:04.573Z",
+  "generatedAt": "2026-10-14T08:03:10.093Z",
   "date": "2026-10-14",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,21 +9,21 @@
       {
         "text": "Semiconductors: In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
         "articleIds": [
-          "a11"
+          "a14"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. To",
         "articleIds": [
-          "a18"
+          "a20"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next",
         "articleIds": [
-          "a25"
+          "a29"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T20:45:04.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
-      "id": "a11"
+      "id": "a14"
     },
     {
       "title": "How Much Of Qualcomm Stock Rides On One Business?",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T16:24:55.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. Total revenue fell 4.0% from a year earlier, and a segment that makes up more than half of sales deserves close attention. So what is hurting Qualcomm's phone chip sales.",
-      "id": "a18"
+      "id": "a20"
     },
     {
       "title": "Former Qualcomm President Derek Aberle Joins iLumOS Advisory Board",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T13:00:00.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "AUSTIN, Texas, October 13, 2026--Lumenci today announced that Derek Aberle has joined its Advisory Board.",
-      "id": "a19"
+      "id": "a22"
     },
     {
       "title": "QUALCOMM Incorporated (QCOM) Is a Trending Stock: Facts to Know Before Betting on It",
@@ -92,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T12:00:05.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -100,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Zacks.com users have recently been watching Qualcomm (QCOM) quite a bit. Thus, it is worth knowing the facts that could determine the stock's prospects.",
-      "id": "a21"
+      "id": "a24"
     },
     {
       "title": "Gemtek, Qualcomm and gFiber Collaborate to Bring Edge AI to Wi-Fi 8 Broadband Gateways",
@@ -110,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T08:27:00.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -118,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Gemtek Technology Co., Ltd. announced it is highlighting an AI-native Wi-Fi 8 broadband gateway at Network X 2026, developed in collaboration with Qualcomm Technologies, Inc. to bring Edge AI and next-generation connectivity into the home.",
-      "id": "a25"
+      "id": "a29"
     },
     {
       "title": "Fibocom Showcases SC153 5G Smart Module at NetworkX, Leveraging a Qualcomm Platform to Accelerate 5G Smart Device Development",
@@ -128,7 +128,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T06:37:00.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -136,7 +136,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "As AI applications increasingly extend to end devices, smart devices are evolving from basic data connectivity toward real-time interaction and intelligent experiences, creating greater demand for high-speed, stable, low-latency wireless connectivity.",
-      "id": "a26"
+      "id": "a30"
     },
     {
       "title": "Broadcom vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
@@ -146,7 +146,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T22:51:01.000Z",
-      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchedAt": "2026-10-14T08:03:02.574Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -164,7 +164,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-14T02:11:02.326Z",
+      "fetchedAt": "2026-10-14T08:03:07.250Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -184,7 +184,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-11T09:29:51.000Z",
-      "fetchedAt": "2026-10-14T02:11:00.749Z",
+      "fetchedAt": "2026-10-14T08:03:04.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
