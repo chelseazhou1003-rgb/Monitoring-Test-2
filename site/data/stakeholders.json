@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-13T23:27:08.989Z",
+  "generatedAt": "2026-10-14T02:11:04.573Z",
   "date": "2026-10-14",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a31"
+          "a34"
         ],
         "subCategory": "wireless"
       }
@@ -24,7 +24,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-13T23:27:05.778Z",
+      "fetchedAt": "2026-10-14T02:11:02.326Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a31"
+      "id": "a34"
     }
   ]
 }

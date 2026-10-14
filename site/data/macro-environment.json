@@ -1,28 +1,122 @@
 {
-  "generatedAt": "2026-10-13T23:27:08.988Z",
+  "generatedAt": "2026-10-14T02:11:04.573Z",
   "date": "2026-10-14",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
+        "text": "Geopolitics & Export Controls: The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: QUALCOMM Incorporated (NASDAQ:QCOM) closed at $174.43 on October 12. The stock has returned 32.9% during the last six months, compared to a 21.2% return for the Insider Monkey Billionaire Index and 14",
+        "text": "market-performance: JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
         "articleIds": [
-          "a11"
+          "a5"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Producer prices in China rise at fastest pace since June 2022, beating expectations",
+      "url": "https://www.cnbc.com/2026/10/14/producer-prices-in-china-rise-fastest-since-june-2022-on-fuel-costs.html",
+      "description": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T02:07:20.000Z",
+      "fetchedAt": "2026-10-14T02:10:58.402Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The increase was higher than the 4.5% expected by economists polled by Reuters, and higher than the 3.8% seen in the previous month.",
+      "id": "a1"
+    },
+    {
+      "title": "China’s Producer Prices Jolted by Oil as Inflation Rebounds",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-14/china-s-producer-prices-jolted-by-100-oil-as-inflation-rebounds",
+      "description": "China’s consumer and producer inflation swung higher last month, as escalating hostilities in the Middle East sent oil prices surging past $100 a barrel and goods related to AI became more expensive.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T01:32:36.000Z",
+      "fetchedAt": "2026-10-14T02:10:58.539Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s consumer and producer inflation swung higher last month, as escalating hostilities in the Middle East sent oil prices surging past $100 a barrel and goods related to AI became more expensive.",
+      "id": "a2"
+    },
+    {
+      "title": "Justice Department says North Koreans have infiltrated dozens of U.S. companies",
+      "url": "https://techcrunch.com/2026/10/13/justice-department-says-north-koreans-have-infiltrated-dozens-of-u-s-companies/",
+      "description": "U.S. authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-14T01:30:42.000Z",
+      "fetchedAt": "2026-10-14T02:10:58.364Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "authorities warn that sanctioned hackers are increasingly targeting Americans to act as facilitators between breached U.S. companies and Pyongyang.",
+      "id": "a3"
+    },
+    {
+      "title": "China's exports likely grew by double-digits in September",
+      "url": "https://www.cnbc.com/2026/10/14/chinas-exports-likely-grew-by-double-digits-in-september.html",
+      "description": "The country's customs agency is due to release September trade data on Wednesday.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-14T01:16:02.000Z",
+      "fetchedAt": "2026-10-14T02:10:58.402Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The country's customs agency is due to release September trade data on Wednesday.",
+      "id": "a4"
+    },
+    {
+      "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
+      "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-while-nasdaq-drops-as-memory-chipmakers-sell-off-bac-gme-spcx-arm-qcom-in-focus/cZxBUZgRBYr?.tsrc=rss",
+      "description": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-13T23:37:15.000Z",
+      "fetchedAt": "2026-10-14T02:10:58.419Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
+      "id": "a5"
+    },
     {
       "title": "Goldman says investors are looking for 'profitable' Chinese business growth overseas",
       "url": "https://www.cnbc.com/2026/10/14/goldman-says-investors-seek-profitable-chinese-business-growth-abroad.html",
@@ -31,7 +125,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T23:05:12.000Z",
-      "fetchedAt": "2026-10-13T23:27:00.488Z",
+      "fetchedAt": "2026-10-14T02:10:58.402Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,7 +134,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Sluggish consumer demand in China has pushed many companies, such as electric car brands, to accelerate plans for entering other countries.",
-      "id": "a1"
+      "id": "a6"
     },
     {
       "title": "Anthropic Asks Appeals Court to Rehear Fight Over Security Risk",
@@ -50,7 +144,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T22:24:46.000Z",
-      "fetchedAt": "2026-10-13T23:27:01.234Z",
+      "fetchedAt": "2026-10-14T02:10:58.539Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -59,7 +153,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anthropic PBC urged the federal appeals court in Washington to revisit its decision upholding the Trump administration’s designation of the artificial intelligence company as a supply-chain risk to US national security.",
-      "id": "a2"
+      "id": "a7"
     },
     {
       "title": "Why China Wants to Master the Robotic Hand",
@@ -69,7 +163,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T21:01:04.000Z",
-      "fetchedAt": "2026-10-13T23:27:01.234Z",
+      "fetchedAt": "2026-10-14T02:10:58.539Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -78,7 +172,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China is making a big bet on humanoid robots, with dexterous hands as its focus. It’s a key to building a stronger manufacturing base while addressing a slowly shrinking workforce.",
-      "id": "a4"
+      "id": "a9"
     },
     {
       "title": "China's Robotic Hands Key to $5 Trillion AI Humanoid Development Race",
@@ -88,7 +182,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T21:00:29.000Z",
-      "fetchedAt": "2026-10-13T23:27:01.234Z",
+      "fetchedAt": "2026-10-14T02:10:58.539Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -97,26 +191,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Advanced humanoid hardware is one of the strategic high-tech fields where China has an early lead over the US.",
-      "id": "a5"
-    },
-    {
-      "title": "Why this little known Chinese chipmaker has caused a global stock rout",
-      "url": "https://www.cnbc.com/2026/10/13/cxmt-memory-chip-stock-rout.html",
-      "description": "China's leading memory chipmaker CXMT has reportedly made progress on new designs.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T20:05:58.000Z",
-      "fetchedAt": "2026-10-13T23:27:00.488Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China's leading memory chipmaker CXMT has reportedly made progress on new designs.",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Bank of America fined $1.2bn over money laundering failures",
@@ -126,7 +201,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T20:00:06.000Z",
-      "fetchedAt": "2026-10-13T23:27:01.139Z",
+      "fetchedAt": "2026-10-14T02:10:59.055Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -135,7 +210,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US bank failed to flag $5bn in suspicious transactions linked to suspected illicit finance from China and the southern US border",
-      "id": "a9"
+      "id": "a13"
     },
     {
       "title": "Is Qualcomm (QCOM) a Good or Bad Investment at Today’s Price?",
@@ -145,7 +220,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T18:19:47.000Z",
-      "fetchedAt": "2026-10-13T23:27:00.594Z",
+      "fetchedAt": "2026-10-14T02:10:58.419Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -153,7 +228,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) closed at $174.43 on October 12. The stock has returned 32.9% during the last six months, compared to a 21.2% return for the Insider Monkey Billionaire Index and 14.0% for State Street SPDR S&P 500 ETF Trust. Qualcomm does two different things. It designs the chips inside a great many phones, and […]",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Nvidia's China Troubles Deepen as Rivalry Takes New Turn - TradingView",
@@ -163,7 +238,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T16:29:07.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.943Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TradingView",
       "geopoliticalBypass": true,
@@ -173,7 +248,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia's China Troubles Deepen as Rivalry Takes New Turn TradingView",
-      "id": "a13"
+      "id": "a17"
     },
     {
       "title": "17 Years with China: What Really Makes a Partnership Work",
@@ -183,7 +258,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-13T13:00:00.000Z",
-      "fetchedAt": "2026-10-13T23:27:01.414Z",
+      "fetchedAt": "2026-10-14T02:10:59.273Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -192,27 +267,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Honya Europe's Robert Tarantowicz shares 17 years of lessons on PCB sourcing in China, quality, trust, and risk management. The post 17 Years with China: What Really Makes a Partnership Work appeared first on EE Times.",
-      "id": "a16"
-    },
-    {
-      "title": "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in - Crypto Briefing",
-      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0ydjVqQzhYc1FwdHRtVVpfTUJWU2I4a1Q0cTFXVjFYYnRab0pJd3NEbTlLUUZzREZ2andLaFlMSVlHNl9QQ1A1U29NTTB3M3A1cUhiS1hWWmtsSklRUDNwZy1EWHRnY3IzWTVSMmRBbVFCUkRG?oc=5",
-      "description": "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in Crypto Briefing",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T12:58:14.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.944Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Crypto Briefing",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Nvidia’s share of China’s AI chip market falls to 34% as Huawei closes in Crypto Briefing",
-      "id": "a17"
+      "id": "a20"
     },
     {
       "title": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks - CoinDesk",
@@ -222,7 +277,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T11:41:37.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.943Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "CoinDesk",
       "geopoliticalBypass": true,
@@ -232,27 +287,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Bitcoin rebounds above $83,000, decoupling from tumbling Korean stocks CoinDesk",
-      "id": "a19"
+      "id": "a22"
     },
     {
-      "title": "Kospi falls over 4% as decoupling from US chip stocks deepens - 헤럴드경제",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFAyYms5Y1Nad3JDY2VsWUE5RmFCTE5yS1VDa0tNS0NkMVp2cEo2YmpDUUtfTTZTbXBlQ2pYNnlDb2M0eFgtM3BMbV95dWw3Qkp2OWhhR19Tcw?oc=5",
-      "description": "Kospi falls over 4% as decoupling from US chip stocks deepens 헤럴드경제",
+      "title": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test - Binance",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9BUHllb09hbTlVdHI0c1h0RGxjYlhQaFdGZnJGUHZ1ejRmakRYM09sMDQtS0pTQTZzMzBETzBqSHdEZXRMREJIUEZVaE00Mm1WZGZvU1JnZ08zNkItdURYZFpLMEc?oc=5",
+      "description": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T11:40:00.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.943Z",
+      "publishedAt": "2026-10-13T10:54:44.000Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "헤럴드경제",
+      "googleNewsSource": "Binance",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Kospi falls over 4% as decoupling from US chip stocks deepens 헤럴드경제",
-      "id": "a20"
+      "summary": "Crypto News | Bitcoin Reclaims $83K While KOSPI Crashes 6% and Altcoins Lag — CPI Wednesday Is the Decoupling’s First Real Test Binance",
+      "id": "a23"
     },
     {
       "title": "Free ration to national security, Modi Govt’s decisions have reached every section: CM - The Hitavada",
@@ -262,7 +317,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T10:23:55.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.944Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Hitavada",
       "geopoliticalBypass": true,
@@ -272,7 +327,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Free ration to national security, Modi Govt’s decisions have reached every section: CM The Hitavada",
-      "id": "a21"
+      "id": "a24"
     },
     {
       "title": "OPINION | US-China decoupling has spurred R&D in both countries - Moneycontrol.com",
@@ -282,7 +337,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T06:03:17.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.943Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Moneycontrol.com",
       "geopoliticalBypass": true,
@@ -292,7 +347,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "OPINION | US-China decoupling has spurred R&D in both countries Moneycontrol.com",
-      "id": "a24"
+      "id": "a27"
     },
     {
       "title": "China smartphone shipments fall for sixth straight quarter - IDC - Reuters",
@@ -302,7 +357,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T05:13:00.000Z",
-      "fetchedAt": "2026-10-13T23:27:07.737Z",
+      "fetchedAt": "2026-10-14T02:11:03.348Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "geopoliticalBypass": true,
@@ -312,7 +367,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China smartphone shipments fall for sixth straight quarter - IDC Reuters",
-      "id": "a25"
+      "id": "a28"
     },
     {
       "title": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl - ad-hoc-news.de",
@@ -322,7 +377,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T05:01:18.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.944Z",
+      "fetchedAt": "2026-10-14T02:11:04.527Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "ad-hoc-news.de",
       "geopoliticalBypass": true,
@@ -332,7 +387,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Micron's Buyback Clock Starts December 2026 — But CHIPS Act Strings and a Taiwan Strike Vote Compl ad-hoc-news.de",
-      "id": "a26"
+      "id": "a29"
     },
     {
       "title": "Drone firm executives held over China-chip claims - Taipei Times",
@@ -342,7 +397,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T03:28:20.000Z",
-      "fetchedAt": "2026-10-13T23:27:08.943Z",
+      "fetchedAt": "2026-10-14T02:11:04.526Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Taipei Times",
       "geopoliticalBypass": true,
@@ -352,7 +407,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Drone firm executives held over China-chip claims Taipei Times",
-      "id": "a27"
+      "id": "a30"
     },
     {
       "title": "What Changed In Qualcomm's Story?",
@@ -362,7 +417,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-12T21:55:37.000Z",
-      "fetchedAt": "2026-10-13T23:27:00.594Z",
+      "fetchedAt": "2026-10-14T02:10:58.419Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -370,7 +425,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) stock is currently priced at 20.0 times earnings, trading below the 21.9 multiple of the S&P 500. Investors paying that price need a clear understanding of what they are buying, particularly as the company shifts its public priorities. Back in July 2025, executives anchored their presentations on sales targets for automotive and IoT chips, which power connected consumer and industrial devices. By the latest call, those figures had taken a back seat. So what does Qualcomm lead wit",
-      "id": "a29"
+      "id": "a32"
     },
     {
       "title": "Novartis inks $7.8 billion mRNA deal with Chinese company Abogen",
@@ -380,7 +435,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-12T07:59:41.000Z",
-      "fetchedAt": "2026-10-13T23:27:03.458Z",
+      "fetchedAt": "2026-10-14T02:11:00.749Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -389,7 +444,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Meanwhile, the US is reportedly considering allowing US-China pharma deals to continue, in contrast with more cautious approach to China in other key sectors",
-      "id": "a33"
+      "id": "a35"
     }
   ]
 }
