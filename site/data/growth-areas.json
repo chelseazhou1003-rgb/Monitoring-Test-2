@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T06:30:08.037Z",
+  "generatedAt": "2026-10-15T12:09:49.128Z",
   "date": "2026-10-15",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
         "articleIds": [
-          "a1"
+          "a9"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T06:16:06.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.255Z",
+      "fetchedAt": "2026-10-15T12:09:42.395Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,17 +32,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
-      "id": "a1"
+      "id": "a9"
     },
     {
       "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/bytedance-in-talks-to-secure-mediatek-ai-chips-for-data-centers",
+      "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-talks-secure-mediatek-ai-023911406.html?.tsrc=rss",
       "description": "ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T02:39:11.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.560Z",
+      "fetchedAt": "2026-10-15T12:09:42.395Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T11:15:37.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.255Z",
+      "fetchedAt": "2026-10-15T12:09:42.395Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -68,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-      "id": "a21"
+      "id": "a25"
     }
   ]
 }

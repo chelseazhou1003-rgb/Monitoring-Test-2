@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T06:30:08.037Z",
+  "generatedAt": "2026-10-15T12:09:49.128Z",
   "date": "2026-10-15",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
         "articleIds": [
-          "a16"
+          "a20"
         ],
         "subCategory": "patent-litigation"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.255Z",
+      "fetchedAt": "2026-10-15T12:09:42.395Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-      "id": "a16"
+      "id": "a20"
     },
     {
       "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -44,7 +44,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-13T20:17:09.000Z",
-      "fetchedAt": "2026-10-15T06:30:05.370Z",
+      "fetchedAt": "2026-10-15T12:09:46.887Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -52,7 +52,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-      "id": "a27"
+      "id": "a29"
     },
     {
       "title": "ARM-QCOM Lawsuit: Delaware Jury Delivers Verdict In High-Stakes Qualcomm-ARM Licensing Battle",
@@ -62,7 +62,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T19:59:49.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.255Z",
+      "fetchedAt": "2026-10-15T12:09:42.395Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -70,24 +70,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware federal jury has ruled that Arm Holdings breached its licensing agreement with Qualcomm, while awarding Arm only nominal damages on separate claims.",
-      "id": "a28"
-    },
-    {
-      "title": "Arm shares fall after jury rules in favor of Qualcomm in license dispute",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-shares-fall-jury-rules-180901625.html?.tsrc=rss",
-      "description": "Investing.com -- Arm Holdings shares erased gains and dropped over 3% on Tuesday after a Delaware jury ruled against the company in a breach of contract case brought by Qualcomm.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T18:09:01.000Z",
-      "fetchedAt": "2026-10-15T06:29:59.255Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Investing.com -- Arm Holdings shares erased gains and dropped over 3% on Tuesday after a Delaware jury ruled against the company in a breach of contract case brought by Qualcomm.",
       "id": "a30"
     }
   ]

@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-10-15T06:30:08.040Z",
+  "generatedAt": "2026-10-15T12:09:49.129Z",
   "date": "2026-10-15",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Arm guilty of breaching Qualcomm licence agreement",
-      "topHeadlineId": "a22",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a26",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article), Wireless Communication (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
-      "topHeadlineId": "a16",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a20",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a9",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 23,
-      "topHeadline": "ASML says US restrictions on DUV sales to China would be counterproductive and speed up China’s chip-equipment push - Global Times",
-      "topHeadlineId": "a2",
+      "topHeadline": "TP-Link pledges $1B US investment amid mounting government resistance",
+      "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
@@ -39,10 +39,10 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 5,
-      "topHeadline": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
     }
   },
   "totalArticles": 39
