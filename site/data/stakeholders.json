@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-15T00:57:07.361Z",
+  "generatedAt": "2026-10-15T06:30:08.037Z",
   "date": "2026-10-15",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Apple is planning to launch Apple Intelligence in mainland China in December. This is a huge market for the company. Bloomberg's Mark Gurman broke the news and has more on \"Bloomberg The Close.\" (Sour",
+        "text": "Geopolitics & Export Controls: Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
         "articleIds": [
-          "a2"
+          "a6"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
         "articleIds": [
-          "a6"
+          "a16"
         ],
         "subCategory": "patent-litigation"
       },
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a25"
+          "a33"
         ],
         "subCategory": "wireless"
       }
@@ -31,15 +31,16 @@
   },
   "articles": [
     {
-      "title": "Apple to Release AI Platform in Mainland China",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-14/apple-to-release-ai-platform-in-mainland-china-video",
-      "description": "Apple is planning to launch Apple Intelligence in mainland China in December. This is a huge market for the company. Bloomberg's Mark Gurman broke the news and has more on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
+      "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYUlCMVliQjFlM2xmc1pRZzNjbXRCVkVlVHdYOUVvNnQwMWRFWnlMYmx0Q2s2OXFWM2FkSEZXRXpWSDZkV2tWQ3ZnenNNWFFOV05HODEwNUNWTS1udFdvM0Fucy1lRVVsT0hKWXduSnVBQUhzUVZ1MTN4M1ZjZ0Q3bnlCa1hvZUtJZjA0RFBJeTJFNlZEaHhya01GYXRrcmpPaVNaV2tldTlhcGFYbG1iRHFMSlpsaWFqMmozVERFU3NaY2h6aUZwalI4X2xNMXpwXzljWFFhckFQYlktVjE2bmZXcnhqSXFDNUHSAeoBQVVfeXFMTmFJQjFZYkIxZTNsZnNaUWczY210QlZFZVR3WDlFbzZ0MDFkRVp5TGJsdENrNjlxVjNhZEhGV0V6Vkg2ZFdrVkN2Z3pzTVhRTldORzgxMDVDVk0tbnRXbzNBbnMtZUVVbE9ISll3bkp1QUFIc1FWdTEzeDNWY2dEN255QmtYb2VLSWYwNERQSXkyRTZWRGh4cmtNRmF0a3JqT2lTWldrZXU5YXBhWGxtYkRxTEpabGlhajJqM1RERVNzWmNoemlGcGpSOF9sTTF6cF85Y1hRYXJBUGJZLVYxNm5mV3J4aklxQzVB?oc=5",
+      "description": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T20:50:55.000Z",
-      "fetchedAt": "2026-10-15T00:57:01.137Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-10-15T04:57:00.000Z",
+      "fetchedAt": "2026-10-15T06:30:07.993Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -48,29 +49,8 @@
       "stakeholders": [
         "oem"
       ],
-      "summary": "Apple is planning to launch Apple Intelligence in mainland China in December. This is a huge market for the company. Bloomberg's Mark Gurman broke the news and has more on \"Bloomberg The Close.\" (Source: Bloomberg)",
-      "id": "a2"
-    },
-    {
-      "title": "Apple Prepares to Debut First AI Features in China in December",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-14/apple-prepares-to-debut-first-ai-features-in-china-in-december",
-      "description": "Apple Inc. is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T19:50:37.000Z",
-      "fetchedAt": "2026-10-15T00:57:01.137Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "is gearing up to release its artificial intelligence platform in mainland China, following a lengthy regulatory delay that has kept the company’s AI features out of one of its most important markets.",
-      "id": "a3"
+      "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
+      "id": "a6"
     },
     {
       "title": "The AI race is back on",
@@ -80,7 +60,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-14T19:06:03.000Z",
-      "fetchedAt": "2026-10-15T00:57:01.411Z",
+      "fetchedAt": "2026-10-15T06:29:59.735Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -91,7 +71,7 @@
         "platform-partner"
       ],
       "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed.",
-      "id": "a4"
+      "id": "a14"
     },
     {
       "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
@@ -101,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T00:57:00.865Z",
+      "fetchedAt": "2026-10-15T06:29:59.255Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -111,7 +91,7 @@
         "platform-partner"
       ],
       "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-      "id": "a6"
+      "id": "a16"
     },
     {
       "title": "AI chiefs sound alarm on security risks",
@@ -121,7 +101,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-15T00:57:05.248Z",
+      "fetchedAt": "2026-10-15T06:30:05.238Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -132,29 +112,7 @@
         "platform-partner"
       ],
       "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-      "id": "a7"
-    },
-    {
-      "title": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus - Simply Wall Street",
-      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQS2JqTTFWY2VXMzVSZ2MtQnVxYVZ5WVI3b3FnQlp6dF9EMS13Sk43OE1IbnM0SWkxaF8tOGZHd1ZrbDB5TWtDY3hwMGU3eW56ZGtRMUVpVWhsYTJCNTkxRXJSUGpqTy03cFpsLTB0VVZDZ2ZUM2hOSU9Hc05uQmVmOFhPZHdwb1ZPNFRkME9RcDI5WUpaTWhrbmZtemFKeUl1dW9tSEd5T2V4djRwNjRjRUhacDRzcURfV3ZnTVE1bFFhbTJpek4wNS03RWxWQkFyTUVEYnNSQ2IzakI5M215bXRDY3FzNlN1b1FNaFhB0gHzAUFVX3lxTE55S2xBWUJ4N1R0eldlVk15OTY1QUF4ZklvVk5nLW9QYTE3UG9wdm9GNjA5d3YxZHRwdnROdE5sZi1GQkcxV3VYZmc1ZDcyWmhyWlhvclJqRFBISExIaThmaTJTcmxQcl9GUGRmOXRzVDFMUlRGMm9vel9McDlrUVdFZlY3eV84UTNlZmNDMTNYbWpERHlRc0R2Smh5dF9BczdkRVdtUVpBaEdlUWJpSUZsM3FQSjc5RzR4QW0tbGF2VlpIb194ZjhicjZlSWVxdTMxd1Y3MC1WRUx2bVhBSC1IYnUySVFJY0dDZjYydW14Q0lYSQ?oc=5",
-      "description": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T05:01:07.000Z",
-      "fetchedAt": "2026-10-15T00:57:07.320Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Simply Wall Street",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "China Export Growth Puts Lenovo Stock And Manufacturing Shares In Focus Simply Wall Street",
-      "id": "a15"
+      "id": "a17"
     },
     {
       "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -164,7 +122,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-15T00:57:05.742Z",
+      "fetchedAt": "2026-10-15T06:30:05.751Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -174,7 +132,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a25"
+      "id": "a33"
     }
   ]
 }

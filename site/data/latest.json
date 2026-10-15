@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-15T00:57:07.364Z",
+  "generatedAt": "2026-10-15T06:30:08.040Z",
   "date": "2026-10-15",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Arm guilty of breaching Qualcomm licence agreement",
-      "topHeadlineId": "a12",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a22",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 4,
       "topHeadline": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
-      "topHeadlineId": "a6",
+      "topHeadlineId": "a16",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (4 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
-      "topHeadlineId": "a11",
-      "briefingSummary": "One article today covering Data Center. Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet "
+      "articleCount": 3,
+      "topHeadline": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 16,
-      "topHeadline": "Ukraine blindsided by Starlink restrictions and intelligence gaps",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (4 articles). A total of 16 articles were aggregated from monitored sources."
+      "articleCount": 23,
+      "topHeadline": "ASML says US restrictions on DUV sales to China would be counterproductive and speed up China’s chip-equipment push - Global Times",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 7,
-      "topHeadline": "Apple to Release AI Platform in Mainland China",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 39
 }

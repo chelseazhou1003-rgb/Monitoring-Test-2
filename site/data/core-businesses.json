@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-10-15T00:57:07.361Z",
+  "generatedAt": "2026-10-15T06:30:08.037Z",
   "date": "2026-10-15",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (2 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (2 articles), Semiconductors (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
         "articleIds": [
-          "a12"
+          "a22"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
         "articleIds": [
-          "a17"
+          "a26"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
         "articleIds": [
-          "a25"
+          "a33"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T09:08:32.000Z",
-      "fetchedAt": "2026-10-15T00:57:05.248Z",
+      "fetchedAt": "2026-10-15T06:30:05.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-      "id": "a12"
+      "id": "a22"
     },
     {
       "title": "Qualcomm (QCOM) Rises As Market Takes a Dip: Key Facts",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T20:45:04.000Z",
-      "fetchedAt": "2026-10-15T00:57:00.865Z",
+      "fetchedAt": "2026-10-15T06:29:59.255Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
-      "id": "a17"
+      "id": "a26"
     },
     {
       "title": "How Much Of Qualcomm Stock Rides On One Business?",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T16:24:55.000Z",
-      "fetchedAt": "2026-10-15T00:57:00.865Z",
+      "fetchedAt": "2026-10-15T06:29:59.255Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -82,25 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Phone chip revenue is the central metric to watch at Qualcomm (QCOM). Handset chips generated $5.1 billion in fiscal Q3 2026, accounting for more than half of the company's $9.9 billion in revenue. Total revenue fell 4.0% from a year earlier, and a segment that makes up more than half of sales deserves close attention. So what is hurting Qualcomm's phone chip sales.",
-      "id": "a22"
-    },
-    {
-      "title": "Former Qualcomm President Derek Aberle Joins iLumOS Advisory Board",
-      "url": "https://finance.yahoo.com/technology/ai/articles/former-qualcomm-president-derek-aberle-130000817.html?.tsrc=rss",
-      "description": "AUSTIN, Texas, October 13, 2026--Lumenci today announced that Derek Aberle has joined its Advisory Board.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T13:00:00.000Z",
-      "fetchedAt": "2026-10-15T00:57:00.865Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "AUSTIN, Texas, October 13, 2026--Lumenci today announced that Derek Aberle has joined its Advisory Board.",
-      "id": "a23"
+      "id": "a31"
     },
     {
       "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
@@ -110,7 +92,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-15T00:57:05.742Z",
+      "fetchedAt": "2026-10-15T06:30:05.751Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -120,7 +102,7 @@
         "platform-partner"
       ],
       "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a25"
+      "id": "a33"
     }
   ]
 }
