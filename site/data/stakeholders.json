@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:33:33.581Z",
+  "generatedAt": "2026-10-15T23:20:04.808Z",
   "date": "2026-10-16",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
         "articleIds": [
-          "a8"
+          "a10"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
+        "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
         "articleIds": [
-          "a20"
+          "a22"
         ],
         "subCategory": "patent-litigation"
       }
@@ -31,7 +31,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:15:09.000Z",
-      "fetchedAt": "2026-10-15T20:33:23.987Z",
+      "fetchedAt": "2026-10-15T23:19:57.518Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -42,7 +42,7 @@
         "oem"
       ],
       "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -52,7 +52,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T04:57:00.000Z",
-      "fetchedAt": "2026-10-15T20:33:33.545Z",
+      "fetchedAt": "2026-10-15T23:20:04.784Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -64,17 +64,17 @@
         "oem"
       ],
       "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-      "id": "a13"
+      "id": "a16"
     },
     {
-      "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+      "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
-      "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+      "description": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T20:33:24.105Z",
+      "fetchedAt": "2026-10-15T23:19:57.653Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -83,8 +83,8 @@
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-      "id": "a20"
+      "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
+      "id": "a22"
     },
     {
       "title": "AI chiefs sound alarm on security risks",
@@ -94,7 +94,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-15T20:33:29.928Z",
+      "fetchedAt": "2026-10-15T23:20:02.524Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -105,7 +105,7 @@
         "platform-partner"
       ],
       "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-      "id": "a21"
+      "id": "a23"
     },
     {
       "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
@@ -115,7 +115,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T12:40:35.000Z",
-      "fetchedAt": "2026-10-15T20:33:29.928Z",
+      "fetchedAt": "2026-10-15T23:20:02.524Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

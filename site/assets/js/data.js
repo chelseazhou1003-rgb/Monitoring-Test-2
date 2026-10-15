@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
           "articleIds": [
-            "a6"
+            "a8"
           ],
           "subCategory": "semiconductors"
         },
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:57:01.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T09:08:32.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.929Z",
+        "fetchedAt": "2026-10-15T23:20:02.524Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -76,23 +76,48 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "on-device-ai"
+        },
         {
           "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
           "articleIds": [
-            "a10"
+            "a13"
           ],
           "subCategory": "data-center"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
+        "description": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-15T20:23:13.000Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
+        "fetchStrategy": "rss",
+        "section": "growth-areas",
+        "subCategory": "on-device-ai",
+        "subLabel": "On-Device AI / Edge AI",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+        "id": "a2"
+      },
       {
         "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
         "url": "https://stocktwits.com/news-articles/markets/equity/qcom-avgo-nvda-stocks-in-focus-as-byte-dance-reportedly-closes-in-on-a-media-tech-pact-for-ai-data-center-chips/cZxWNP1RBA4?.tsrc=rss",
@@ -101,7 +126,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T06:16:06.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -109,7 +134,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
-        "id": "a10"
+        "id": "a13"
       },
       {
         "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
@@ -119,7 +144,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T02:39:11.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -127,12 +152,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-        "id": "a17"
+        "id": "a19"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -140,9 +165,9 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
+          "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
           "articleIds": [
-            "a20"
+            "a22"
           ],
           "subCategory": "patent-litigation"
         }
@@ -150,14 +175,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+        "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
         "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
-        "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+        "description": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T17:14:19.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -166,8 +191,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "platform-partner"
         ],
-        "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-        "id": "a20"
+        "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
+        "id": "a22"
       },
       {
         "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -177,7 +202,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-13T20:17:09.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.586Z",
+        "fetchedAt": "2026-10-15T23:20:03.149Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -190,36 +215,36 @@ export const NEWS_DATA = {
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-15T20:33:33.585Z",
+    "generatedAt": "2026-10-15T23:20:04.809Z",
     "date": "2026-10-16",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 2,
         "topHeadline": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
-        "topHeadlineId": "a6",
+        "topHeadlineId": "a8",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 2,
-        "topHeadline": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
-        "topHeadlineId": "a20",
+        "topHeadline": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
+        "topHeadlineId": "a22",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 2,
-        "topHeadline": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
-        "topHeadlineId": "a10",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 3,
+        "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 21,
-        "topHeadline": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
+        "articleCount": 20,
+        "topHeadline": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -232,22 +257,22 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 5,
         "topHeadline": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-        "topHeadlineId": "a8",
+        "topHeadlineId": "a10",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 32
   },
   "macro-environment": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+          "text": "Geopolitics & Export Controls: A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
           "articleIds": [
             "a1"
           ],
@@ -256,20 +281,39 @@ export const NEWS_DATA = {
         {
           "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
           "articleIds": [
-            "a4"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
         {
           "text": "market-performance: Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking yo",
           "articleIds": [
-            "a23"
+            "a24"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
+        "url": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
+        "description": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-15T21:10:51.000Z",
+        "fetchedAt": "2026-10-15T23:19:58.458Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+        "id": "a1"
+      },
       {
         "title": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
         "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
@@ -278,7 +322,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T17:44:01.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.399Z",
+        "fetchedAt": "2026-10-15T23:19:57.912Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -287,7 +331,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
@@ -297,7 +341,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-15T16:45:37.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.340Z",
+        "fetchedAt": "2026-10-15T23:19:57.571Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -306,7 +350,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US - TechCrunch",
@@ -316,7 +360,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T16:45:37.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechCrunch",
         "geopoliticalBypass": true,
@@ -326,7 +370,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -336,7 +380,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-15T14:10:47.000Z",
-        "fetchedAt": "2026-10-15T20:33:28.939Z",
+        "fetchedAt": "2026-10-15T23:20:02.288Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -345,7 +389,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -355,7 +399,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T13:00:00.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.326Z",
+        "fetchedAt": "2026-10-15T23:20:02.780Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -364,7 +408,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "Strengthening America’s AI Chip Export Controls - American Compass",
@@ -374,7 +418,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:48:35.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.544Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "American Compass",
         "geopoliticalBypass": true,
@@ -384,7 +428,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Strengthening America’s AI Chip Export Controls American Compass",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
@@ -394,7 +438,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:15:09.000Z",
-        "fetchedAt": "2026-10-15T20:33:23.987Z",
+        "fetchedAt": "2026-10-15T23:19:57.518Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -405,7 +449,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing - Bisinfotech",
@@ -415,7 +459,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T10:29:14.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bisinfotech",
         "geopoliticalBypass": true,
@@ -425,7 +469,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing Bisinfotech",
-        "id": "a9"
+        "id": "a11"
+      },
+      {
+        "title": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier - Seoul Economic Daily",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWl6eHdHelBuZ0xSclh6NjhYWmNlR0wwYTRxRlpoUHVJcWlEZU1BMnpSRzhYcWd4RUVueEppaUVoVi1hM1JtLVVBOENOeTAzZVl1bzNnS1FvUk81YjJQSGNHYWdSLVJsZGhLT1huQWV6TkJfNjVxZlg1NmZqYVNWRnFwOTNQTE9HLWtGdVBaanpiYTY4Rlh0eWRuSC1wYkhjQ3c?oc=5",
+        "description": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-15T08:45:06.000Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Seoul Economic Daily",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
+        "id": "a12"
       },
       {
         "title": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' - 아시아경제",
@@ -435,7 +499,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T05:25:41.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "아시아경제",
         "geopoliticalBypass": true,
@@ -445,7 +509,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' 아시아경제",
-        "id": "a11"
+        "id": "a14"
       },
       {
         "title": "China's path to 6G",
@@ -455,7 +519,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T05:00:00.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.326Z",
+        "fetchedAt": "2026-10-15T23:20:02.780Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -464,7 +528,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-        "id": "a12"
+        "id": "a15"
       },
       {
         "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -474,7 +538,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T04:57:00.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -486,27 +550,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-        "id": "a13"
-      },
-      {
-        "title": "Solidigm Seeks U.S. Nod for China Tools in Exchange for New Plant: Reuters - Seoul Economic Daily",
-        "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUFzb3lYY2JWa3RBa1I2NEhxd3pJMWFyUDJyT0NaS2JVX2JzSF9LSkJMeW94ZXNDaTlQcXRxUkxkajUtT0lmWmFZSnJXUGJCVG9DUVAxSzFITE52R3UxMXA3UlRkUVNJRGlBN0VMUHg1NUJXMU9jclZGUWVzSmFVcTNPSkxPRko0M2FkeGRpdXdUZS1oOWtGQnpNalByVDFUcC1BVEZvc3lxTDF4?oc=5",
-        "description": "Solidigm Seeks U.S. Nod for China Tools in Exchange for New Plant: Reuters Seoul Economic Daily",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-15T04:13:32.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Seoul Economic Daily",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nod for China Tools in Exchange for New Plant: Reuters Seoul Economic Daily",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - WTVB",
@@ -516,7 +560,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T03:49:48.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WTVB",
         "geopoliticalBypass": true,
@@ -526,7 +570,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say WTVB",
-        "id": "a15"
+        "id": "a17"
       },
       {
         "title": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders - digitimes",
@@ -536,7 +580,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T02:44:41.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -546,7 +590,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders digitimes",
-        "id": "a16"
+        "id": "a18"
       },
       {
         "title": "Pallone Calls Trump’s “Logic” on Lifting Russia Sanctions a Failure — “Putin Is Only Getting Richer” as Diesel Keeps Rising, Says National Security “Can Never Be a Bargaining Chip for Political Expediency or Approval Ratings” - NewsBreak: Local News & Alerts",
@@ -556,7 +600,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T00:00:52.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
         "geopoliticalBypass": true,
@@ -566,7 +610,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Pallone Calls Trump’s “Logic” on Lifting Russia Sanctions a Failure — “Putin Is Only Getting Richer” as Diesel Keeps Rising, Says National Security “Can Never Be a Bargaining Chip for Political Expediency or Approval Ratings” NewsBreak: Local News & Alerts",
-        "id": "a18"
+        "id": "a20"
       },
       {
         "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
@@ -576,7 +620,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T17:53:07.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.326Z",
+        "fetchedAt": "2026-10-15T23:20:02.780Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -585,7 +629,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-        "id": "a19"
+        "id": "a21"
       },
       {
         "title": "AI chiefs sound alarm on security risks",
@@ -595,7 +639,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.928Z",
+        "fetchedAt": "2026-10-15T23:20:02.524Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -606,26 +650,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "id": "a21"
-      },
-      {
-        "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
-        "url": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
-        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "source": "IPWatchdog",
-        "sourceId": "ipwatchdog",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-14T15:15:09.000Z",
-        "fetchedAt": "2026-10-15T20:33:27.342Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a22"
+        "id": "a23"
       },
       {
         "title": "Qualcomm Vs. Intel: The Market is Refuting Both AI Rebrand Attempts",
@@ -635,7 +660,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T14:45:52.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -643,24 +668,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking you to fund a roadmap that has yet to book its first dollar.",
-        "id": "a23"
-      },
-      {
-        "title": "How to Play Ambarella Stock as Qualcomm Eyes an Acquisition",
-        "url": "https://www.barchart.com/story/news/7594892/how-to-play-ambarella-stock-as-qualcomm-eyes-an-acquisition?.tsrc=rss",
-        "description": "Qualcomm takeover buzz recently lifted Ambarella stock. Here is what earnings, the CEO, and the risks say about whether AMBA stock is worth buying now.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-14T13:00:02.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm takeover buzz recently lifted Ambarella stock. Here is what earnings, the CEO, and the risks say about whether AMBA stock is worth buying now.",
         "id": "a24"
       },
       {
@@ -671,7 +678,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.928Z",
+        "fetchedAt": "2026-10-15T23:20:02.524Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -878,7 +885,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-15T20:33:33.581Z",
+    "generatedAt": "2026-10-15T23:20:04.808Z",
     "date": "2026-10-16",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -888,14 +895,14 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
           "articleIds": [
-            "a8"
+            "a10"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
+          "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
           "articleIds": [
-            "a20"
+            "a22"
           ],
           "subCategory": "patent-litigation"
         }
@@ -910,7 +917,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:15:09.000Z",
-        "fetchedAt": "2026-10-15T20:33:23.987Z",
+        "fetchedAt": "2026-10-15T23:19:57.518Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -921,7 +928,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -931,7 +938,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T04:57:00.000Z",
-        "fetchedAt": "2026-10-15T20:33:33.545Z",
+        "fetchedAt": "2026-10-15T23:20:04.784Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -943,17 +950,17 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-        "id": "a13"
+        "id": "a16"
       },
       {
-        "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+        "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
         "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
-        "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+        "description": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T17:14:19.000Z",
-        "fetchedAt": "2026-10-15T20:33:24.105Z",
+        "fetchedAt": "2026-10-15T23:19:57.653Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -962,8 +969,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "platform-partner"
         ],
-        "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-        "id": "a20"
+        "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
+        "id": "a22"
       },
       {
         "title": "AI chiefs sound alarm on security risks",
@@ -973,7 +980,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.928Z",
+        "fetchedAt": "2026-10-15T23:20:02.524Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -984,7 +991,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "id": "a21"
+        "id": "a23"
       },
       {
         "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
@@ -994,7 +1001,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-15T20:33:29.928Z",
+        "fetchedAt": "2026-10-15T23:20:02.524Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -26252,11 +26259,11 @@ export const NEWS_DATA = {
     "totalArticles": 39
   },
   "archive-2026-10-16": {
-    "generatedAt": "2026-10-15T20:33:33.585Z",
+    "generatedAt": "2026-10-15T23:20:04.809Z",
     "date": "2026-10-16",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -26266,7 +26273,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
               "articleIds": [
-                "a6"
+                "a8"
               ],
               "subCategory": "semiconductors"
             },
@@ -26288,7 +26295,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:57:01.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26296,7 +26303,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-            "id": "a6"
+            "id": "a8"
           },
           {
             "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -26306,7 +26313,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T09:08:32.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.929Z",
+            "fetchedAt": "2026-10-15T23:20:02.524Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -26319,7 +26326,7 @@ export const NEWS_DATA = {
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -26327,9 +26334,9 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
+              "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
               "articleIds": [
-                "a20"
+                "a22"
               ],
               "subCategory": "patent-litigation"
             }
@@ -26337,14 +26344,14 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+            "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
             "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
-            "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+            "description": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T17:14:19.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26353,8 +26360,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "platform-partner"
             ],
-            "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-            "id": "a20"
+            "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
+            "id": "a22"
           },
           {
             "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -26364,7 +26371,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-13T20:17:09.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.586Z",
+            "fetchedAt": "2026-10-15T23:20:03.149Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26377,23 +26384,48 @@ export const NEWS_DATA = {
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "on-device-ai"
+            },
             {
               "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
               "articleIds": [
-                "a10"
+                "a13"
               ],
               "subCategory": "data-center"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
+            "description": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-15T20:23:13.000Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "on-device-ai",
+            "subLabel": "On-Device AI / Edge AI",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+            "id": "a2"
+          },
           {
             "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
             "url": "https://stocktwits.com/news-articles/markets/equity/qcom-avgo-nvda-stocks-in-focus-as-byte-dance-reportedly-closes-in-on-a-media-tech-pact-for-ai-data-center-chips/cZxWNP1RBA4?.tsrc=rss",
@@ -26402,7 +26434,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T06:16:06.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -26410,7 +26442,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
-            "id": "a10"
+            "id": "a13"
           },
           {
             "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
@@ -26420,7 +26452,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T02:39:11.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -26428,20 +26460,20 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-            "id": "a17"
+            "id": "a19"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+              "text": "Geopolitics & Export Controls: A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
               "articleIds": [
                 "a1"
               ],
@@ -26450,20 +26482,39 @@ export const NEWS_DATA = {
             {
               "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
               "articleIds": [
-                "a4"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
             {
               "text": "market-performance: Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking yo",
               "articleIds": [
-                "a23"
+                "a24"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Trump weighs easing restrictions on Russian and Iranian ‘shadow fleet’",
+            "url": "https://www.ft.com/content/6dfa9879-589a-4af3-9374-b546a945a219?syn-25a6b1a6=1",
+            "description": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-15T21:10:51.000Z",
+            "fetchedAt": "2026-10-15T23:19:58.458Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A White House desperate to lower fuel costs ahead of US midterm elections could allow blacklisted vessels back into global trade",
+            "id": "a1"
+          },
           {
             "title": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
             "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
@@ -26472,7 +26523,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T17:44:01.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.399Z",
+            "fetchedAt": "2026-10-15T23:19:57.912Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26481,7 +26532,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
@@ -26491,7 +26542,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-15T16:45:37.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.340Z",
+            "fetchedAt": "2026-10-15T23:19:57.571Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26500,7 +26551,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US - TechCrunch",
@@ -26510,7 +26561,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T16:45:37.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechCrunch",
             "geopoliticalBypass": true,
@@ -26520,7 +26571,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -26530,7 +26581,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-15T14:10:47.000Z",
-            "fetchedAt": "2026-10-15T20:33:28.939Z",
+            "fetchedAt": "2026-10-15T23:20:02.288Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26539,7 +26590,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -26549,7 +26600,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T13:00:00.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.326Z",
+            "fetchedAt": "2026-10-15T23:20:02.780Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26558,7 +26609,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-            "id": "a5"
+            "id": "a7"
           },
           {
             "title": "Strengthening America’s AI Chip Export Controls - American Compass",
@@ -26568,7 +26619,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:48:35.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.544Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "American Compass",
             "geopoliticalBypass": true,
@@ -26578,7 +26629,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Strengthening America’s AI Chip Export Controls American Compass",
-            "id": "a7"
+            "id": "a9"
           },
           {
             "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
@@ -26588,7 +26639,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:15:09.000Z",
-            "fetchedAt": "2026-10-15T20:33:23.987Z",
+            "fetchedAt": "2026-10-15T23:19:57.518Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26599,7 +26650,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing - Bisinfotech",
@@ -26609,7 +26660,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T10:29:14.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Bisinfotech",
             "geopoliticalBypass": true,
@@ -26619,7 +26670,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing Bisinfotech",
-            "id": "a9"
+            "id": "a11"
+          },
+          {
+            "title": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier - Seoul Economic Daily",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWl6eHdHelBuZ0xSclh6NjhYWmNlR0wwYTRxRlpoUHVJcWlEZU1BMnpSRzhYcWd4RUVueEppaUVoVi1hM1JtLVVBOENOeTAzZVl1bzNnS1FvUk81YjJQSGNHYWdSLVJsZGhLT1huQWV6TkJfNjVxZlg1NmZqYVNWRnFwOTNQTE9HLWtGdVBaanpiYTY4Rlh0eWRuSC1wYkhjQ3c?oc=5",
+            "description": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-15T08:45:06.000Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Seoul Economic Daily",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
+            "id": "a12"
           },
           {
             "title": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' - 아시아경제",
@@ -26629,7 +26700,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T05:25:41.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "아시아경제",
             "geopoliticalBypass": true,
@@ -26639,7 +26710,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' 아시아경제",
-            "id": "a11"
+            "id": "a14"
           },
           {
             "title": "China's path to 6G",
@@ -26649,7 +26720,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T05:00:00.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.326Z",
+            "fetchedAt": "2026-10-15T23:20:02.780Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26658,7 +26729,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-            "id": "a12"
+            "id": "a15"
           },
           {
             "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -26668,7 +26739,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T04:57:00.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -26680,27 +26751,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-            "id": "a13"
-          },
-          {
-            "title": "Solidigm Seeks U.S. Nod for China Tools in Exchange for New Plant: Reuters - Seoul Economic Daily",
-            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZUFzb3lYY2JWa3RBa1I2NEhxd3pJMWFyUDJyT0NaS2JVX2JzSF9LSkJMeW94ZXNDaTlQcXRxUkxkajUtT0lmWmFZSnJXUGJCVG9DUVAxSzFITE52R3UxMXA3UlRkUVNJRGlBN0VMUHg1NUJXMU9jclZGUWVzSmFVcTNPSkxPRko0M2FkeGRpdXdUZS1oOWtGQnpNalByVDFUcC1BVEZvc3lxTDF4?oc=5",
-            "description": "Solidigm Seeks U.S. Nod for China Tools in Exchange for New Plant: Reuters Seoul Economic Daily",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-15T04:13:32.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Seoul Economic Daily",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nod for China Tools in Exchange for New Plant: Reuters Seoul Economic Daily",
-            "id": "a14"
+            "id": "a16"
           },
           {
             "title": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - WTVB",
@@ -26710,7 +26761,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T03:49:48.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WTVB",
             "geopoliticalBypass": true,
@@ -26720,7 +26771,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say WTVB",
-            "id": "a15"
+            "id": "a17"
           },
           {
             "title": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders - digitimes",
@@ -26730,7 +26781,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T02:44:41.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26740,7 +26791,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders digitimes",
-            "id": "a16"
+            "id": "a18"
           },
           {
             "title": "Pallone Calls Trump’s “Logic” on Lifting Russia Sanctions a Failure — “Putin Is Only Getting Richer” as Diesel Keeps Rising, Says National Security “Can Never Be a Bargaining Chip for Political Expediency or Approval Ratings” - NewsBreak: Local News & Alerts",
@@ -26750,7 +26801,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T00:00:52.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
             "geopoliticalBypass": true,
@@ -26760,7 +26811,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Pallone Calls Trump’s “Logic” on Lifting Russia Sanctions a Failure — “Putin Is Only Getting Richer” as Diesel Keeps Rising, Says National Security “Can Never Be a Bargaining Chip for Political Expediency or Approval Ratings” NewsBreak: Local News & Alerts",
-            "id": "a18"
+            "id": "a20"
           },
           {
             "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
@@ -26770,7 +26821,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T17:53:07.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.326Z",
+            "fetchedAt": "2026-10-15T23:20:02.780Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26779,7 +26830,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-            "id": "a19"
+            "id": "a21"
           },
           {
             "title": "AI chiefs sound alarm on security risks",
@@ -26789,7 +26840,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.928Z",
+            "fetchedAt": "2026-10-15T23:20:02.524Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26800,26 +26851,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a21"
-          },
-          {
-            "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
-            "url": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
-            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "source": "IPWatchdog",
-            "sourceId": "ipwatchdog",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-14T15:15:09.000Z",
-            "fetchedAt": "2026-10-15T20:33:27.342Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a22"
+            "id": "a23"
           },
           {
             "title": "Qualcomm Vs. Intel: The Market is Refuting Both AI Rebrand Attempts",
@@ -26829,7 +26861,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T14:45:52.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26837,24 +26869,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel and Qualcomm both showed up to earnings with a fresh AI identity, but investors have been voting with their feet ever since. One company is already cashing AI checks while the other is asking you to fund a roadmap that has yet to book its first dollar.",
-            "id": "a23"
-          },
-          {
-            "title": "How to Play Ambarella Stock as Qualcomm Eyes an Acquisition",
-            "url": "https://www.barchart.com/story/news/7594892/how-to-play-ambarella-stock-as-qualcomm-eyes-an-acquisition?.tsrc=rss",
-            "description": "Qualcomm takeover buzz recently lifted Ambarella stock. Here is what earnings, the CEO, and the risks say about whether AMBA stock is worth buying now.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-14T13:00:02.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm takeover buzz recently lifted Ambarella stock. Here is what earnings, the CEO, and the risks say about whether AMBA stock is worth buying now.",
             "id": "a24"
           },
           {
@@ -26865,7 +26879,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.928Z",
+            "fetchedAt": "2026-10-15T23:20:02.524Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26881,7 +26895,7 @@ export const NEWS_DATA = {
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -26892,7 +26906,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-15T20:33:33.581Z",
+        "generatedAt": "2026-10-15T23:20:04.808Z",
         "date": "2026-10-16",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -26902,14 +26916,14 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
               "articleIds": [
-                "a8"
+                "a10"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "Patent Litigation: Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms,",
+              "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
               "articleIds": [
-                "a20"
+                "a22"
               ],
               "subCategory": "patent-litigation"
             }
@@ -26924,7 +26938,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:15:09.000Z",
-            "fetchedAt": "2026-10-15T20:33:23.987Z",
+            "fetchedAt": "2026-10-15T23:19:57.518Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26935,7 +26949,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -26945,7 +26959,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T04:57:00.000Z",
-            "fetchedAt": "2026-10-15T20:33:33.545Z",
+            "fetchedAt": "2026-10-15T23:20:04.784Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -26957,17 +26971,17 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-            "id": "a13"
+            "id": "a16"
           },
           {
-            "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
+            "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
             "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
-            "description": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
+            "description": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T17:14:19.000Z",
-            "fetchedAt": "2026-10-15T20:33:24.105Z",
+            "fetchedAt": "2026-10-15T23:19:57.653Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26976,8 +26990,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "platform-partner"
             ],
-            "summary": "Earlier this month, a federal jury in Delaware found that Arm Holdings breached a key architectural licensing agreement with Qualcomm and interfered with its business relationship with Meta Platforms, awarding Qualcomm nominal damages of US$2 but confirming its right to continue custom CPU development under the license. The verdict primarily strengthened Qualcomm’s legal footing and business flexibility as Arm shifts its business model, clarifying Qualcomm’s ability to pursue its Oryon CPU...",
-            "id": "a20"
+            "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
+            "id": "a22"
           },
           {
             "title": "AI chiefs sound alarm on security risks",
@@ -26987,7 +27001,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.928Z",
+            "fetchedAt": "2026-10-15T23:20:02.524Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26998,7 +27012,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a21"
+            "id": "a23"
           },
           {
             "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
@@ -27008,7 +27022,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-15T20:33:29.928Z",
+            "fetchedAt": "2026-10-15T23:20:02.524Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",

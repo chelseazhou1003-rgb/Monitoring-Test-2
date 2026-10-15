@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T20:33:33.581Z",
+  "generatedAt": "2026-10-15T23:20:04.808Z",
   "date": "2026-10-16",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:57:01.000Z",
-      "fetchedAt": "2026-10-15T20:33:24.105Z",
+      "fetchedAt": "2026-10-15T23:19:57.653Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -49,7 +49,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T09:08:32.000Z",
-      "fetchedAt": "2026-10-15T20:33:29.929Z",
+      "fetchedAt": "2026-10-15T23:20:02.524Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
