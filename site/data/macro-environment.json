@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-15T12:09:49.128Z",
-  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T17:23:43.162Z",
+  "date": "2026-10-16",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (4 articles), Supply Chain (1 article). A total of 23 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 22 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's p",
+        "text": "Geopolitics & Export Controls: SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "Supply Chain: US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders digitimes",
+        "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
         "articleIds": [
-          "a14"
+          "a3"
         ],
         "subCategory": "supply-chain"
       },
@@ -31,6 +31,64 @@
   },
   "articles": [
     {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+      "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
+      "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-15T16:45:37.000Z",
+      "fetchedAt": "2026-10-15T17:23:36.726Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+      "id": "a1"
+    },
+    {
+      "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNLTFfSHdldEkwQ3VXT3FKYXVVUGxnWjExcDhydWNfa0haeW41VW1TU0IwNUk3Rk10bUxwOHhqdEtKOEtlZ0o4dHpVem5DX2dhLW93LUExMHhtdkxfaU1CQ2dRTllKaGN6QWltMnh2R29PbmliQjVaczJ6VGtLOWlpLUxwUHhjTmd4bUtHRzc2MkdEekRJX1ltSkFGLWVCenJ1cml6QmNMTVA2R3hWT0tHaVlWWXhQWGV0RHA0MGxSZ0F4TzRmOFU1MXRBbmtEd25qX1dzcWxwbw?oc=5",
+      "description": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T16:45:37.000Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "TechCrunch",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
+      "id": "a2"
+    },
+    {
+      "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
+      "url": "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool",
+      "description": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
+      "source": "Semiconductor Digest",
+      "sourceId": "semiconductor-digest",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-10-15T14:10:47.000Z",
+      "fetchedAt": "2026-10-15T17:23:40.276Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
+      "id": "a3"
+    },
+    {
       "title": "TP-Link pledges $1B US investment amid mounting government resistance",
       "url": "https://www.lightreading.com/regulatory-politics/tp-link-pledges-1b-us-investment-amid-mounting-government-resistance",
       "description": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
@@ -38,7 +96,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-15T13:00:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:47.216Z",
+      "fetchedAt": "2026-10-15T17:23:40.872Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -47,17 +105,37 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-      "id": "a1"
+      "id": "a4"
     },
     {
-      "title": "Nvidia must work with Chinese AI companies on safety, Jensen Huang tells CNBC",
+      "title": "Strengthening America’s AI Chip Export Controls - American Compass",
+      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPSm5Ca1M4dUx5SlRQNFZYa2NqaGNMelRrbXA5QTZJc3hWYmh1OWd0SWVEWk1jTVdWdWhxSEFmZG1Hb2ZXNkxsTFdSLVI5Skg5OUVhWC1ZZ0cyRHFvcWhUQXZYUDB5RlViakppNDNPQjZja1c3N2Fxclh2RjFXUU93VA?oc=5",
+      "description": "Strengthening America’s AI Chip Export Controls American Compass",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T12:48:35.000Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "American Compass",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Strengthening America’s AI Chip Export Controls American Compass",
+      "id": "a6"
+    },
+    {
+      "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
       "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
       "description": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T11:12:51.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.314Z",
+      "publishedAt": "2026-10-15T12:17:13.000Z",
+      "fetchedAt": "2026-10-15T17:23:37.427Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -66,17 +144,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
-      "id": "a2"
+      "id": "a7"
     },
     {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "description": "Eiliko. | Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality. And the company that made it, Energize Lab, doesn't seem to care. I bought an Eiliko from Amazon on August 29th. During a 10-minute conversation on August 30th, I asked the little bot: \"Do you ever tell anybody else what I'm saying?\" \"Your secrets are safe with me,\" it replied. With … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-15T11:00:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
+      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "description": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T12:15:09.000Z",
+      "fetchedAt": "2026-10-15T17:23:37.427Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -84,10 +162,10 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "platform-partner"
+        "oem"
       ],
-      "summary": "| Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality. And the company that made it, Energize Lab, doesn't seem to care. I bought an Eiliko from Amazon on August 29th.",
-      "id": "a3"
+      "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+      "id": "a8"
     },
     {
       "title": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing - Bisinfotech",
@@ -97,7 +175,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T10:29:14.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Bisinfotech",
       "geopoliticalBypass": true,
@@ -107,86 +185,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Telangana’s Semiconductor Moment: Why Chip Design Will Define India’s Global Standing Bisinfotech",
-      "id": "a4"
-    },
-    {
-      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division. Microsoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-15T10:05:07.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division. Microsoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso … Read the full story at The Verge.",
-      "id": "a5"
-    },
-    {
-      "title": "China indicates rare earths will keep flowing to EU, regardless of U.S. trade deal expiration",
-      "url": "https://www.cnbc.com/2026/10/15/china-rare-earth-exports-europe.html",
-      "description": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T09:02:31.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.314Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "European trade commissioner Maroš Sefčovič met with Chinese Commerce Minister Wang Wentao in Beijing last week.",
-      "id": "a6"
-    },
-    {
-      "title": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier - Seoul Economic Daily",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNSWl6eHdHelBuZ0xSclh6NjhYWmNlR0wwYTRxRlpoUHVJcWlEZU1BMnpSRzhYcWd4RUVueEppaUVoVi1hM1JtLVVBOENOeTAzZVl1bzNnS1FvUk81YjJQSGNHYWdSLVJsZGhLT1huQWV6TkJfNjVxZlg1NmZqYVNWRnFwOTNQTE9HLWtGdVBaanpiYTY4Rlh0eWRuSC1wYkhjQ3c?oc=5",
-      "description": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T08:45:06.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Seoul Economic Daily",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "EU Moves to Lift China Sanctions to Save German Chipmaking Materials Supplier Seoul Economic Daily",
-      "id": "a7"
-    },
-    {
-      "title": "US-China Locked in ‘Unwinnable’ War on AI, NYU’s Marcus Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-15/us-china-locked-in-unwinnable-war-on-ai-nyu-s-marcus-says",
-      "description": "The US-China artificial intelligence race will end in a tie rather than a decisive victory for either side, New York University professor Gary Marcus said.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T08:41:19.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.346Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The US-China artificial intelligence race will end in a tie rather than a decisive victory for either side, New York University professor Gary Marcus said.",
-      "id": "a8"
+      "id": "a9"
     },
     {
       "title": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' - 아시아경제",
@@ -196,7 +195,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T05:25:41.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "아시아경제",
       "geopoliticalBypass": true,
@@ -206,7 +205,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Throws More Support Behind CXMT... Party Secretary Visits, Stresses 'Full Support' 아시아경제",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "China's path to 6G",
@@ -216,7 +215,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-15T05:00:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:47.216Z",
+      "fetchedAt": "2026-10-15T17:23:40.872Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -225,7 +224,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-      "id": "a11"
+      "id": "a12"
     },
     {
       "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -235,7 +234,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T04:57:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -247,7 +246,7 @@
         "oem"
       ],
       "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "Solidigm Seeks U.S. Nod for China Tools in Exchange for New Plant: Reuters - Seoul Economic Daily",
@@ -257,7 +256,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T04:13:32.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Seoul Economic Daily",
       "geopoliticalBypass": true,
@@ -267,7 +266,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nod for China Tools in Exchange for New Plant: Reuters Seoul Economic Daily",
-      "id": "a13"
+      "id": "a14"
+    },
+    {
+      "title": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - WTVB",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTlRKZkxGOXJac0xRWk5sUEw5QndneWJCazQ4WDZybnB0cUVNdHZmbGdodV83eFhOVXJwUkpfWEhGVUNVU0dSaWV6blpvelRqRHRJcjkyYTFmdkwzZmpzVEtITUN6SkIxV0ZyakZZVjJLaDQtUV9BOFZmVGg2akgtZ1JWeGtVa3pHVFppcVVOVUh1YWgyTzV3S3Q3NVljR1RUSExPSldHXzZtWHFuc3dHaEhRRjBxVGpGRm44MlNVcWE3dnpWS1liT1pR?oc=5",
+      "description": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say WTVB",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T03:49:48.000Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "WTVB",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say WTVB",
+      "id": "a15"
     },
     {
       "title": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders - digitimes",
@@ -277,7 +296,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T02:44:41.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "digitimes",
       "geopoliticalBypass": true,
@@ -287,26 +306,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US urges chipmakers to use domestic capacity as CHIPS Act strategy shifts from fab subsidies to securing orders digitimes",
-      "id": "a14"
-    },
-    {
-      "title": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say - Bradenton Herald",
-      "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFA5bVdxRHJDNXlISkxmMnNxVUpWekc5bGtpckUzU1RLbnExVlR0NFZERDdfbU5oYVBjMFQ2WU5JRWVCeTlnT2dqRzZmcTZzRkdVQ0E1UUQ5cjdDZHcyR1ZGX0ZfaGlldXlVVEZCdGZR?oc=5",
-      "description": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say Bradenton Herald",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T02:23:09.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Bradenton Herald",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Exclusive-SK Hynix conditions new US factory on more US chip equipment exports to China, sources say Bradenton Herald",
       "id": "a16"
     },
     {
@@ -317,7 +316,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T00:00:52.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
       "geopoliticalBypass": true,
@@ -327,27 +326,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Pallone Calls Trump’s “Logic” on Lifting Russia Sanctions a Failure — “Putin Is Only Getting Richer” as Diesel Keeps Rising, Says National Security “Can Never Be a Bargaining Chip for Political Expediency or Approval Ratings” NewsBreak: Local News & Alerts",
-      "id": "a17"
-    },
-    {
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "description": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-14T19:06:03.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed.",
       "id": "a18"
     },
     {
@@ -358,7 +336,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T17:53:07.000Z",
-      "fetchedAt": "2026-10-15T12:09:47.216Z",
+      "fetchedAt": "2026-10-15T17:23:40.872Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -377,7 +355,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-15T12:09:46.539Z",
+      "fetchedAt": "2026-10-15T17:23:40.524Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -398,7 +376,7 @@
       "sourceId": "ipwatchdog",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-14T15:15:09.000Z",
-      "fetchedAt": "2026-10-15T12:09:45.202Z",
+      "fetchedAt": "2026-10-15T17:23:39.931Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -417,7 +395,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T14:45:52.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.395Z",
+      "fetchedAt": "2026-10-15T17:23:36.797Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -435,7 +413,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T13:00:02.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.395Z",
+      "fetchedAt": "2026-10-15T17:23:36.797Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -446,6 +424,27 @@
       "id": "a24"
     },
     {
+      "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
+      "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
+      "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-14T12:40:35.000Z",
+      "fetchedAt": "2026-10-15T17:23:40.524Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
+      "id": "a25"
+    },
+    {
       "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
       "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-while-nasdaq-drops-as-memory-chipmakers-sell-off-bac-gme-spcx-arm-qcom-in-focus/cZxBUZgRBYr?.tsrc=rss",
       "description": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
@@ -453,7 +452,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-13T23:37:15.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.396Z",
+      "fetchedAt": "2026-10-15T17:23:36.797Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -461,25 +460,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-      "id": "a27"
-    },
-    {
-      "title": "Is Qualcomm (QCOM) a Good or Bad Investment at Today’s Price?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-good-bad-investment-181947598.html?.tsrc=rss",
-      "description": "QUALCOMM Incorporated (NASDAQ:QCOM) closed at $174.43 on October 12. The stock has returned 32.9% during the last six months, compared to a 21.2% return for the Insider Monkey Billionaire Index and 14.0% for State Street SPDR S&P 500 ETF Trust. Qualcomm does two different things. It designs the chips inside a great many phones, and […]",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T18:19:47.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.396Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QUALCOMM Incorporated (NASDAQ:QCOM) closed at $174.43 on October 12. The stock has returned 32.9% during the last six months, compared to a 21.2% return for the Insider Monkey Billionaire Index and 14.0% for State Street SPDR S&P 500 ETF Trust. Qualcomm does two different things. It designs the chips inside a great many phones, and […]",
-      "id": "a31"
+      "id": "a28"
     }
   ]
 }

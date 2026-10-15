@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-15T12:09:49.128Z",
-  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T17:23:43.162Z",
+  "date": "2026-10-16",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Patent Litigation (1 article), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: | Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk",
+        "text": "Geopolitics & Export Controls: SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
         "articleIds": [
-          "a3"
+          "a8"
         ],
         "subCategory": "geopolitics-export-controls"
       },
@@ -19,26 +19,19 @@
           "a20"
         ],
         "subCategory": "patent-litigation"
-      },
-      {
-        "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-        "articleIds": [
-          "a32"
-        ],
-        "subCategory": "wireless"
       }
     ]
   },
   "articles": [
     {
-      "title": "Your secrets aren’t safe with this cute robot toy — they’re on Chinese servers ready to be hacked",
-      "url": "https://www.theverge.com/tech/1010727/eiliko-robot-hack-energize-lab",
-      "description": "Eiliko. | Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality. And the company that made it, Energize Lab, doesn't seem to care. I bought an Eiliko from Amazon on August 29th. During a 10-minute conversation on August 30th, I asked the little bot: \"Do you ever tell anybody else what I'm saying?\" \"Your secrets are safe with me,\" it replied. With … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-15T11:00:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
+      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
+      "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
+      "description": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T12:15:09.000Z",
+      "fetchedAt": "2026-10-15T17:23:37.427Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -46,31 +39,10 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "platform-partner"
+        "oem"
       ],
-      "summary": "| Photo by Sean Hollister / The Verge There's a new digital pet in town - a cute little marshmallow of a robot that can change its cartoony expressions to match your mood. But if you or your kids talk to \"Eiliko\" over Wi-Fi, it'll phone home to China. Its AI companion can store literally everything you tell it on Chinese servers, where hackers can easily gain access or even hijack its personality. And the company that made it, Energize Lab, doesn't seem to care. I bought an Eiliko from Amazon on August 29th.",
-      "id": "a3"
-    },
-    {
-      "title": "Big Walk skipped Xbox to boycott Microsoft’s involvement with Israel",
-      "url": "https://www.theverge.com/games/1011785/big-walk-house-house-microsoft-xbox-bds-boycott",
-      "description": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division. Microsoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-15T10:05:07.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Big Walk's co-op multiplayer walking adventure has proved popular since launching in August, but Xbox players have been excluded from the fun - and now the game's creators have explained why. Developer House House said in a blog post that it decided not to release Big Walk on Xbox consoles in accordance with the Palestinian-led BDS (Boycott, Divestment, Sanctions) movement, which has called to boycott Microsoft, including products under the company's gaming division. Microsoft was named a priority BDS target in June last year over contracts it has with the Israeli military and government, with the boycott specifically calling out Xbox conso … Read the full story at The Verge.",
-      "id": "a5"
+      "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+      "id": "a8"
     },
     {
       "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
@@ -80,7 +52,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T04:57:00.000Z",
-      "fetchedAt": "2026-10-15T12:09:49.102Z",
+      "fetchedAt": "2026-10-15T17:23:43.123Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -92,28 +64,7 @@
         "oem"
       ],
       "summary": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
-      "id": "a12"
-    },
-    {
-      "title": "The AI race is back on",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1011311/the-ai-race-is-back-on",
-      "description": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed. Google and Meta both unveiled frontier models they claim can go toe to toe with the best from OpenAI and Anthropic. Suddenly, the race is back on - and it's anyo … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-14T19:06:03.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.815Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Mark Zuckerberg at the Meta Connect developer conference. | Photo: Andrej Sokolow/dpa/picture alliance via Getty Images Last week, Anthropic and OpenAI looked like they had the AI race to themselves, pulling ahead with increasingly powerful models that left their rivals in the dust. Google seemed hopelessly far behind, while Meta, despite spending billions to revive its floundering AI ambitions, had yet to establish itself as a serious contender. Even the latest models coming out of China, impressive as they were, appeared to be playing catch-up. Then, in the space of a few days, everything changed.",
-      "id": "a18"
+      "id": "a13"
     },
     {
       "title": "How Qualcomm’s Legal Win Over Arm Could Reshape the Long-Term Thesis for QCOM Investors",
@@ -123,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.395Z",
+      "fetchedAt": "2026-10-15T17:23:36.797Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -143,7 +94,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-15T12:09:46.539Z",
+      "fetchedAt": "2026-10-15T17:23:40.524Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -157,24 +108,25 @@
       "id": "a21"
     },
     {
-      "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
-      "url": "https://www.lightreading.com/broadband/gfiber-teams-with-gemtek-and-qualcomm-on-wi-fi-8-router",
-      "description": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
+      "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
+      "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
+      "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
-      "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-15T12:09:47.216Z",
+      "publishedAt": "2026-10-14T12:40:35.000Z",
+      "fetchedAt": "2026-10-15T17:23:40.524Z",
       "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a32"
+      "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
+      "id": "a25"
     }
   ]
 }

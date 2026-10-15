@@ -1,35 +1,46 @@
 {
-  "generatedAt": "2026-10-15T12:09:49.128Z",
-  "date": "2026-10-15",
+  "generatedAt": "2026-10-15T17:23:43.162Z",
+  "date": "2026-10-16",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Semiconductors (1 article), Wireless Communication (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
+        "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
         "articleIds": [
-          "a26"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
-        "articleIds": [
-          "a28"
+          "a5"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Wireless Communication: gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
+        "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
         "articleIds": [
-          "a32"
+          "a27"
         ],
-        "subCategory": "wireless"
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
+      "url": "https://www.fool.com/coverage/better-buy/2026/10/15/intel-vs-qualcomm-which-tech-stock-is-a-better-buy-in-2026/?.tsrc=rss",
+      "description": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-15T12:57:01.000Z",
+      "fetchedAt": "2026-10-15T17:23:36.797Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
+      "id": "a5"
+    },
     {
       "title": "Arm guilty of breaching Qualcomm licence agreement",
       "url": "https://www.mobileworldlive.com/qualcomm/jury-finds-arm-breached-licence-agreement-with-qualcomm/",
@@ -38,7 +49,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T09:08:32.000Z",
-      "fetchedAt": "2026-10-15T12:09:46.539Z",
+      "fetchedAt": "2026-10-15T17:23:40.524Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -46,45 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-      "id": "a26"
-    },
-    {
-      "title": "Qualcomm (QCOM) Rises As Market Takes a Dip: Key Facts",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-rises-market-takes-204504484.html?.tsrc=rss",
-      "description": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-13T20:45:04.000Z",
-      "fetchedAt": "2026-10-15T12:09:42.395Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "In the closing of the recent trading day, Qualcomm (QCOM) stood at $176.86, denoting a +1.39% move from the preceding trading day.",
-      "id": "a28"
-    },
-    {
-      "title": "gFiber teams with Gemtek and Qualcomm on Wi-Fi 8 router",
-      "url": "https://www.lightreading.com/broadband/gfiber-teams-with-gemtek-and-qualcomm-on-wi-fi-8-router",
-      "description": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-12T16:35:02.000Z",
-      "fetchedAt": "2026-10-15T12:09:47.216Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "gFiber (formerly Google Fiber) is using the Network X show to debut an AI-capable Wi-Fi 8 gateway in partnership with Gemtek and Qualcomm.",
-      "id": "a32"
+      "id": "a27"
     }
   ]
 }
