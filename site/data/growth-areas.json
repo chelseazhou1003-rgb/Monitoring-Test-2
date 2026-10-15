@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-15T17:23:43.162Z",
+  "generatedAt": "2026-10-15T20:33:33.581Z",
   "date": "2026-10-16",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T06:16:06.000Z",
-      "fetchedAt": "2026-10-15T17:23:36.797Z",
+      "fetchedAt": "2026-10-15T20:33:24.105Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T02:39:11.000Z",
-      "fetchedAt": "2026-10-15T17:23:36.797Z",
+      "fetchedAt": "2026-10-15T20:33:24.105Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -51,24 +51,6 @@
       "stakeholders": [],
       "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
       "id": "a17"
-    },
-    {
-      "title": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
-      "url": "https://247wallst.com/investing/2026/10/14/qualcomm-at-175-the-narrative-shift-sending-capital-out-the-door/?.tsrc=rss",
-      "description": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-14T11:15:37.000Z",
-      "fetchedAt": "2026-10-15T17:23:36.797Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-      "id": "a26"
     }
   ]
 }

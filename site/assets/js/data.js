@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
           "articleIds": [
-            "a27"
+            "a26"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:57:01.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T09:08:32.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.524Z",
+        "fetchedAt": "2026-10-15T20:33:29.929Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -71,17 +71,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-        "id": "a27"
+        "id": "a26"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
@@ -101,7 +101,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T06:16:06.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -119,7 +119,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T02:39:11.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -128,29 +128,11 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
         "id": "a17"
-      },
-      {
-        "title": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
-        "url": "https://247wallst.com/investing/2026/10/14/qualcomm-at-175-the-narrative-shift-sending-capital-out-the-door/?.tsrc=rss",
-        "description": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-14T11:15:37.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-        "id": "a26"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -175,7 +157,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T17:14:19.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -195,7 +177,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-13T20:17:09.000Z",
-        "fetchedAt": "2026-10-15T17:23:41.014Z",
+        "fetchedAt": "2026-10-15T20:33:29.586Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -203,19 +185,19 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-        "id": "a29"
+        "id": "a27"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-15T17:23:43.164Z",
+    "generatedAt": "2026-10-15T20:33:33.585Z",
     "date": "2026-10-16",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 2,
         "topHeadline": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
-        "topHeadlineId": "a5",
+        "topHeadlineId": "a6",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -227,17 +209,17 @@ export const NEWS_DATA = {
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
         "topHeadlineId": "a10",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 22,
-        "topHeadline": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
+        "articleCount": 21,
+        "topHeadline": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 22 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -254,18 +236,18 @@ export const NEWS_DATA = {
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 34
+    "totalArticles": 32
   },
   "macro-environment": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 22 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+          "text": "Geopolitics & Export Controls: El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
           "articleIds": [
             "a1"
           ],
@@ -274,7 +256,7 @@ export const NEWS_DATA = {
         {
           "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
           "articleIds": [
-            "a3"
+            "a4"
           ],
           "subCategory": "supply-chain"
         },
@@ -289,6 +271,25 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
+        "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
+        "description": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-15T17:44:01.000Z",
+        "fetchedAt": "2026-10-15T20:33:24.399Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+        "id": "a1"
+      },
+      {
         "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
         "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
         "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
@@ -296,7 +297,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-15T16:45:37.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.726Z",
+        "fetchedAt": "2026-10-15T20:33:24.340Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -305,7 +306,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US - TechCrunch",
@@ -315,7 +316,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T16:45:37.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechCrunch",
         "geopoliticalBypass": true,
@@ -325,7 +326,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -335,7 +336,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-15T14:10:47.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.276Z",
+        "fetchedAt": "2026-10-15T20:33:28.939Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -344,7 +345,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -354,7 +355,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T13:00:00.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.872Z",
+        "fetchedAt": "2026-10-15T20:33:29.326Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -363,7 +364,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Strengthening America’s AI Chip Export Controls - American Compass",
@@ -373,7 +374,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:48:35.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.544Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "American Compass",
         "geopoliticalBypass": true,
@@ -383,25 +384,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Strengthening America’s AI Chip Export Controls American Compass",
-        "id": "a6"
-      },
-      {
-        "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-        "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-        "description": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-15T12:17:13.000Z",
-        "fetchedAt": "2026-10-15T17:23:37.427Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
         "id": "a7"
       },
       {
@@ -412,7 +394,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:15:09.000Z",
-        "fetchedAt": "2026-10-15T17:23:37.427Z",
+        "fetchedAt": "2026-10-15T20:33:23.987Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -433,7 +415,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T10:29:14.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bisinfotech",
         "geopoliticalBypass": true,
@@ -453,7 +435,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T05:25:41.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "아시아경제",
         "geopoliticalBypass": true,
@@ -473,7 +455,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T05:00:00.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.872Z",
+        "fetchedAt": "2026-10-15T20:33:29.326Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -492,7 +474,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T04:57:00.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -514,7 +496,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T04:13:32.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Seoul Economic Daily",
         "geopoliticalBypass": true,
@@ -534,7 +516,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T03:49:48.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WTVB",
         "geopoliticalBypass": true,
@@ -554,7 +536,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T02:44:41.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -574,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T00:00:52.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
         "geopoliticalBypass": true,
@@ -594,7 +576,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T17:53:07.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.872Z",
+        "fetchedAt": "2026-10-15T20:33:29.326Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -613,7 +595,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.524Z",
+        "fetchedAt": "2026-10-15T20:33:29.928Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -634,7 +616,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-14T15:15:09.000Z",
-        "fetchedAt": "2026-10-15T17:23:39.931Z",
+        "fetchedAt": "2026-10-15T20:33:27.342Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -653,7 +635,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T14:45:52.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -671,7 +653,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T13:00:02.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -689,7 +671,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.524Z",
+        "fetchedAt": "2026-10-15T20:33:29.928Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -701,24 +683,6 @@ export const NEWS_DATA = {
         ],
         "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
         "id": "a25"
-      },
-      {
-        "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-while-nasdaq-drops-as-memory-chipmakers-sell-off-bac-gme-spcx-arm-qcom-in-focus/cZxBUZgRBYr?.tsrc=rss",
-        "description": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-13T23:37:15.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-        "id": "a28"
       }
     ]
   },
@@ -914,7 +878,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-15T17:23:43.162Z",
+    "generatedAt": "2026-10-15T20:33:33.581Z",
     "date": "2026-10-16",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -946,7 +910,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:15:09.000Z",
-        "fetchedAt": "2026-10-15T17:23:37.427Z",
+        "fetchedAt": "2026-10-15T20:33:23.987Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -967,7 +931,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T04:57:00.000Z",
-        "fetchedAt": "2026-10-15T17:23:43.123Z",
+        "fetchedAt": "2026-10-15T20:33:33.545Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -989,7 +953,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-14T17:14:19.000Z",
-        "fetchedAt": "2026-10-15T17:23:36.797Z",
+        "fetchedAt": "2026-10-15T20:33:24.105Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -1009,7 +973,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.524Z",
+        "fetchedAt": "2026-10-15T20:33:29.928Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1030,7 +994,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-15T17:23:40.524Z",
+        "fetchedAt": "2026-10-15T20:33:29.928Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -26288,11 +26252,11 @@ export const NEWS_DATA = {
     "totalArticles": 39
   },
   "archive-2026-10-16": {
-    "generatedAt": "2026-10-15T17:23:43.164Z",
+    "generatedAt": "2026-10-15T20:33:33.585Z",
     "date": "2026-10-16",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -26302,14 +26266,14 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
               "articleIds": [
-                "a27"
+                "a26"
               ],
               "subCategory": "mobile-chips"
             }
@@ -26324,7 +26288,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:57:01.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26332,7 +26296,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -26342,7 +26306,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T09:08:32.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.524Z",
+            "fetchedAt": "2026-10-15T20:33:29.929Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -26350,12 +26314,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-            "id": "a27"
+            "id": "a26"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -26380,7 +26344,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T17:14:19.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26400,7 +26364,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-13T20:17:09.000Z",
-            "fetchedAt": "2026-10-15T17:23:41.014Z",
+            "fetchedAt": "2026-10-15T20:33:29.586Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26408,17 +26372,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-            "id": "a29"
+            "id": "a27"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
@@ -26438,7 +26402,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T06:16:06.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -26456,7 +26420,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T02:39:11.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -26465,37 +26429,19 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
             "id": "a17"
-          },
-          {
-            "title": "Qualcomm at $175: The Narrative Shift Sending Capital Out The Door",
-            "url": "https://247wallst.com/investing/2026/10/14/qualcomm-at-175-the-narrative-shift-sending-capital-out-the-door/?.tsrc=rss",
-            "description": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-14T11:15:37.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "data-center",
-            "subLabel": "Data Center",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm is betting its future on AI and data center chips while its smartphone business bleeds, and the December quarter will prove whether that bet pays off or exposes a company caught between two worlds.",
-            "id": "a26"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 22 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (2 articles). A total of 21 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
+              "text": "Geopolitics & Export Controls: El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
               "articleIds": [
                 "a1"
               ],
@@ -26504,7 +26450,7 @@ export const NEWS_DATA = {
             {
               "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
               "articleIds": [
-                "a3"
+                "a4"
               ],
               "subCategory": "supply-chain"
             },
@@ -26519,6 +26465,25 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "IA y robots humanoides: China desafía el liderazgo de EE.UU.",
+            "url": "https://www.bloomberg.com/news/features/2026-10-15/ia-y-robots-humanoides-china-desafia-el-liderazgo-de-ee-uu",
+            "description": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-15T17:44:01.000Z",
+            "fetchedAt": "2026-10-15T20:33:24.399Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "El hardware avanzado para robots humanoides es uno de los campos estratégicos de alta tecnología en los que China lleva ventaja sobre EE.UU.",
+            "id": "a1"
+          },
+          {
             "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US",
             "url": "https://techcrunch.com/2026/10/15/sk-hynix-bargains-for-chip-equipment-exports-to-its-china-facility-in-return-for-building-a-factory-in-us/",
             "description": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
@@ -26526,7 +26491,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-15T16:45:37.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.726Z",
+            "fetchedAt": "2026-10-15T20:33:24.340Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26535,7 +26500,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SK Hynix’s Solidigm is reportedly seeking U.S. approval to send more chipmaking equipment to China as it weighs building a new NAND chip factory in America.",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US - TechCrunch",
@@ -26545,7 +26510,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T16:45:37.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechCrunch",
             "geopoliticalBypass": true,
@@ -26555,7 +26520,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SK Hynix bargains for chip equipment exports to its China facility in return for building a factory in US TechCrunch",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -26565,7 +26530,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-15T14:10:47.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.276Z",
+            "fetchedAt": "2026-10-15T20:33:28.939Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26574,7 +26539,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -26584,7 +26549,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T13:00:00.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.872Z",
+            "fetchedAt": "2026-10-15T20:33:29.326Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26593,7 +26558,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Strengthening America’s AI Chip Export Controls - American Compass",
@@ -26603,7 +26568,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:48:35.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.544Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "American Compass",
             "geopoliticalBypass": true,
@@ -26613,25 +26578,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Strengthening America’s AI Chip Export Controls American Compass",
-            "id": "a6"
-          },
-          {
-            "title": "Nvidia CEO Jensen Huang urges U.S.-China dialogue on 'potentially dangerous' AI",
-            "url": "https://www.cnbc.com/2026/10/15/jensen-huang-nvidia-china-ai.html",
-            "description": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-15T12:17:13.000Z",
-            "fetchedAt": "2026-10-15T17:23:37.427Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Huang told CNBC he has ongoing \"dialogs\" with researchers in China.",
             "id": "a7"
           },
           {
@@ -26642,7 +26588,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:15:09.000Z",
-            "fetchedAt": "2026-10-15T17:23:37.427Z",
+            "fetchedAt": "2026-10-15T20:33:23.987Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26663,7 +26609,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T10:29:14.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Bisinfotech",
             "geopoliticalBypass": true,
@@ -26683,7 +26629,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T05:25:41.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "아시아경제",
             "geopoliticalBypass": true,
@@ -26703,7 +26649,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T05:00:00.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.872Z",
+            "fetchedAt": "2026-10-15T20:33:29.326Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26722,7 +26668,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T04:57:00.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -26744,7 +26690,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T04:13:32.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Seoul Economic Daily",
             "geopoliticalBypass": true,
@@ -26764,7 +26710,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T03:49:48.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WTVB",
             "geopoliticalBypass": true,
@@ -26784,7 +26730,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T02:44:41.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26804,7 +26750,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T00:00:52.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "NewsBreak: Local News &amp; Alerts",
             "geopoliticalBypass": true,
@@ -26824,7 +26770,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T17:53:07.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.872Z",
+            "fetchedAt": "2026-10-15T20:33:29.326Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26843,7 +26789,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.524Z",
+            "fetchedAt": "2026-10-15T20:33:29.928Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26864,7 +26810,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-14T15:15:09.000Z",
-            "fetchedAt": "2026-10-15T17:23:39.931Z",
+            "fetchedAt": "2026-10-15T20:33:27.342Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26883,7 +26829,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T14:45:52.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26901,7 +26847,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T13:00:02.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26919,7 +26865,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.524Z",
+            "fetchedAt": "2026-10-15T20:33:29.928Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26931,29 +26877,11 @@ export const NEWS_DATA = {
             ],
             "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
             "id": "a25"
-          },
-          {
-            "title": "S&P 500 Ends Flat, While Nasdaq Drops As Memory Chipmakers Sell Off — BAC, GME, SPCX, ARM, QCOM In Focus",
-            "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-ends-flat-while-nasdaq-drops-as-memory-chipmakers-sell-off-bac-gme-spcx-arm-qcom-in-focus/cZxBUZgRBYr?.tsrc=rss",
-            "description": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-13T23:37:15.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "JPMorgan, Goldman Sachs, Citi and Wells Fargo reported quarterly earnings on Tuesday, kicking off the earnings season.",
-            "id": "a28"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -26964,7 +26892,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-15T17:23:43.162Z",
+        "generatedAt": "2026-10-15T20:33:33.581Z",
         "date": "2026-10-16",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -26996,7 +26924,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:15:09.000Z",
-            "fetchedAt": "2026-10-15T17:23:37.427Z",
+            "fetchedAt": "2026-10-15T20:33:23.987Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27017,7 +26945,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T04:57:00.000Z",
-            "fetchedAt": "2026-10-15T17:23:43.123Z",
+            "fetchedAt": "2026-10-15T20:33:33.545Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -27039,7 +26967,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-14T17:14:19.000Z",
-            "fetchedAt": "2026-10-15T17:23:36.797Z",
+            "fetchedAt": "2026-10-15T20:33:24.105Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -27059,7 +26987,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.524Z",
+            "fetchedAt": "2026-10-15T20:33:29.928Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27080,7 +27008,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-15T17:23:40.524Z",
+            "fetchedAt": "2026-10-15T20:33:29.928Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27096,7 +27024,7 @@ export const NEWS_DATA = {
         ]
       }
     },
-    "totalArticles": 34
+    "totalArticles": 32
   }
 };
 
