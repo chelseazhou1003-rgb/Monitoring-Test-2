@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T11:56:13.840Z",
-  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T16:59:55.885Z",
+  "date": "2026-10-17",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
@@ -9,14 +9,14 @@
       {
         "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
         "articleIds": [
-          "a23"
+          "a22"
         ],
         "subCategory": "on-device-ai"
       },
       {
         "text": "Data Center: MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
         "articleIds": [
-          "a30"
+          "a26"
         ],
         "subCategory": "data-center"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T20:23:13.000Z",
-      "fetchedAt": "2026-10-16T11:56:07.475Z",
+      "fetchedAt": "2026-10-16T16:59:49.429Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T06:16:06.000Z",
-      "fetchedAt": "2026-10-16T11:56:07.475Z",
+      "fetchedAt": "2026-10-16T16:59:49.429Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
-      "id": "a30"
+      "id": "a26"
     },
     {
       "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T02:39:11.000Z",
-      "fetchedAt": "2026-10-16T11:56:07.475Z",
+      "fetchedAt": "2026-10-16T16:59:49.429Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-      "id": "a32"
+      "id": "a28"
     }
   ]
 }

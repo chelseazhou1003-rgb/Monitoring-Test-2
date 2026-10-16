@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-16T11:56:13.843Z",
-  "date": "2026-10-16",
+  "generatedAt": "2026-10-16T16:59:55.888Z",
+  "date": "2026-10-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 2,
-      "topHeadline": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
-      "topHeadlineId": "a28",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-      "topHeadlineId": "a14",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a19",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-      "topHeadlineId": "a23",
+      "topHeadlineId": "a22",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 30,
-      "topHeadline": "Nike's India campus is a long-term growth bet amid turnaround",
+      "articleCount": 24,
+      "topHeadline": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), market-performance (1 article), Supply Chain (1 article). A total of 30 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (1 article), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 4,
-      "topHeadline": "Chip Industry Week In Review",
-      "topHeadlineId": "a15",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 42
+  "totalArticles": 37
 }
