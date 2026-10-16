@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-16T20:06:40.036Z",
+  "generatedAt": "2026-10-16T23:02:47.548Z",
   "date": "2026-10-17",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso",
     "keyTakeaways": [
       {
         "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
@@ -12,13 +12,6 @@
           "a24"
         ],
         "subCategory": "frand-licensing"
-      },
-      {
-        "text": "Patent Litigation: The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-        "articleIds": [
-          "a38"
-        ],
-        "subCategory": "patent-litigation"
       }
     ]
   },
@@ -31,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-16T07:07:30.000Z",
-      "fetchedAt": "2026-10-16T20:06:36.726Z",
+      "fetchedAt": "2026-10-16T23:02:45.705Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -40,24 +33,6 @@
       "stakeholders": [],
       "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
       "id": "a24"
-    },
-    {
-      "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
-      "url": "https://ipfray.com/qualcomm-arm-each-claim-victory-in-architecture-licensing-standoff-jury-awards-2-damages/",
-      "description": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-10-13T20:17:09.000Z",
-      "fetchedAt": "2026-10-16T20:06:36.726Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The two chipmakers have been engaged in a long-running contractual dispute over use of Arm's processor architecture IP.",
-      "id": "a38"
     }
   ]
 }
