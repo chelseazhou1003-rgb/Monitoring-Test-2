@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T06:27:08.685Z",
+  "generatedAt": "2026-10-16T11:56:13.840Z",
   "date": "2026-10-16",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
         "articleIds": [
-          "a13"
+          "a28"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qu",
         "articleIds": [
-          "a26"
+          "a37"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:57:01.000Z",
-      "fetchedAt": "2026-10-16T06:27:02.677Z",
+      "fetchedAt": "2026-10-16T11:56:07.475Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-      "id": "a13"
+      "id": "a28"
     },
     {
       "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -49,7 +49,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T09:08:32.000Z",
-      "fetchedAt": "2026-10-16T06:27:06.601Z",
+      "fetchedAt": "2026-10-16T11:56:11.600Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-      "id": "a26"
+      "id": "a37"
     }
   ]
 }

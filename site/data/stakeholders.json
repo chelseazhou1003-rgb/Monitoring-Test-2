@@ -1,28 +1,49 @@
 {
-  "generatedAt": "2026-10-16T06:27:08.685Z",
+  "generatedAt": "2026-10-16T11:56:13.840Z",
   "date": "2026-10-16",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Patent Litigation (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
+        "articleIds": [
+          "a15"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
         "articleIds": [
-          "a22"
+          "a34"
         ],
         "subCategory": "patent-litigation"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments ste",
-        "articleIds": [
-          "a23"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Chip Industry Week In Review",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
+      "description": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "source": "Semiconductor Engineering",
+      "sourceId": "semiconductor-engineering",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-10-16T07:01:05.000Z",
+      "fetchedAt": "2026-10-16T11:56:09.182Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "id": "a15"
+    },
     {
       "title": "How Qualcomm’s Mixed Jury Verdict With Arm Could Inform the Long-Term Thesis for QCOM Investors",
       "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-legal-win-over-arm-171419466.html?.tsrc=rss",
@@ -31,7 +52,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-16T06:27:02.677Z",
+      "fetchedAt": "2026-10-16T11:56:07.475Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -41,7 +62,7 @@
         "platform-partner"
       ],
       "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
-      "id": "a22"
+      "id": "a34"
     },
     {
       "title": "AI chiefs sound alarm on security risks",
@@ -51,7 +72,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-16T06:27:06.601Z",
+      "fetchedAt": "2026-10-16T11:56:11.600Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -62,7 +83,7 @@
         "platform-partner"
       ],
       "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a35"
     },
     {
       "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
@@ -72,7 +93,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T12:40:35.000Z",
-      "fetchedAt": "2026-10-16T06:27:06.601Z",
+      "fetchedAt": "2026-10-16T11:56:11.600Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -83,7 +104,7 @@
         "platform-partner"
       ],
       "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-      "id": "a25"
+      "id": "a36"
     }
   ]
 }
