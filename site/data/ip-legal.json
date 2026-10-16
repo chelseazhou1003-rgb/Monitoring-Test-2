@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-15T23:20:04.808Z",
+  "generatedAt": "2026-10-16T01:41:34.505Z",
   "date": "2026-10-16",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
         "articleIds": [
-          "a22"
+          "a21"
         ],
         "subCategory": "patent-litigation"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T23:19:57.653Z",
+      "fetchedAt": "2026-10-16T01:41:26.473Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -34,7 +34,7 @@
         "platform-partner"
       ],
       "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
-      "id": "a22"
+      "id": "a21"
     },
     {
       "title": "Qualcomm, Arm each claim victory in architecture licensing standoff; jury awards $2 damages",
@@ -44,7 +44,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-13T20:17:09.000Z",
-      "fetchedAt": "2026-10-15T23:20:03.149Z",
+      "fetchedAt": "2026-10-16T01:41:32.725Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",

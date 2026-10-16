@@ -1,49 +1,28 @@
 {
-  "generatedAt": "2026-10-15T23:20:04.808Z",
+  "generatedAt": "2026-10-16T01:41:34.505Z",
   "date": "2026-10-16",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles), Patent Litigation (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Patent Litigation (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
+        "text": "Geopolitics & Export Controls: Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse The Economic Times",
         "articleIds": [
-          "a10"
+          "a16"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Patent Litigation: • Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its ",
         "articleIds": [
-          "a22"
+          "a21"
         ],
         "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Memory stocks are getting hammered. China and a 2029 oversupply are the big worries",
-      "url": "https://www.cnbc.com/2026/10/15/memory-stocks-micron-sk-hynix-samsung-china.html",
-      "description": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-15T12:15:09.000Z",
-      "fetchedAt": "2026-10-15T23:19:57.518Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "SK Hynix, Samsung and Micron have been some of the hardest-hit names in the latest tech sell-off.",
-      "id": "a10"
-    },
     {
       "title": "Why Samsung & SK Hynix Stocks Crashed After China's Big Chip Announcement | TechPulse - The Economic Times",
       "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOYUlCMVliQjFlM2xmc1pRZzNjbXRCVkVlVHdYOUVvNnQwMWRFWnlMYmx0Q2s2OXFWM2FkSEZXRXpWSDZkV2tWQ3ZnenNNWFFOV05HODEwNUNWTS1udFdvM0Fucy1lRVVsT0hKWXduSnVBQUhzUVZ1MTN4M1ZjZ0Q3bnlCa1hvZUtJZjA0RFBJeTJFNlZEaHhya01GYXRrcmpPaVNaV2tldTlhcGFYbG1iRHFMSlpsaWFqMmozVERFU3NaY2h6aUZwalI4X2xNMXpwXzljWFFhckFQYlktVjE2bmZXcnhqSXFDNUHSAeoBQVVfeXFMTmFJQjFZYkIxZTNsZnNaUWczY210QlZFZVR3WDlFbzZ0MDFkRVp5TGJsdENrNjlxVjNhZEhGV0V6Vkg2ZFdrVkN2Z3pzTVhRTldORzgxMDVDVk0tbnRXbzNBbnMtZUVVbE9ISll3bkp1QUFIc1FWdTEzeDNWY2dEN255QmtYb2VLSWYwNERQSXkyRTZWRGh4cmtNRmF0a3JqT2lTWldrZXU5YXBhWGxtYkRxTEpabGlhajJqM1RERVNzWmNoemlGcGpSOF9sTTF6cF85Y1hRYXJBUGJZLVYxNm5mV3J4aklxQzVB?oc=5",
@@ -52,7 +31,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T04:57:00.000Z",
-      "fetchedAt": "2026-10-15T23:20:04.784Z",
+      "fetchedAt": "2026-10-16T01:41:34.467Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -74,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-14T17:14:19.000Z",
-      "fetchedAt": "2026-10-15T23:19:57.653Z",
+      "fetchedAt": "2026-10-16T01:41:26.473Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -84,7 +63,7 @@
         "platform-partner"
       ],
       "summary": "• Earlier this month, a federal jury in Delaware delivered a mixed verdict in Qualcomm’s case against Arm, finding that Arm breached Qualcomm’s Architectural License Agreement and interfered with its business relationship with Meta Platforms, while awarding Qualcomm US$2 in nominal damages. Arm said the jury found for it on four other claims.",
-      "id": "a22"
+      "id": "a21"
     },
     {
       "title": "AI chiefs sound alarm on security risks",
@@ -94,7 +73,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T16:10:07.000Z",
-      "fetchedAt": "2026-10-15T23:20:02.524Z",
+      "fetchedAt": "2026-10-16T01:41:32.700Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -105,7 +84,7 @@
         "platform-partner"
       ],
       "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a22"
     },
     {
       "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
@@ -115,7 +94,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T12:40:35.000Z",
-      "fetchedAt": "2026-10-15T23:20:02.524Z",
+      "fetchedAt": "2026-10-16T01:41:32.700Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
