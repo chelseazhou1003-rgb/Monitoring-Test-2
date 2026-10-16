@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-16T16:59:55.888Z",
+  "generatedAt": "2026-10-16T20:06:40.038Z",
   "date": "2026-10-17",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
-      "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "topHeadlineId": "a4",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-      "topHeadlineId": "a19",
+      "topHeadlineId": "a24",
       "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-      "topHeadlineId": "a22",
+      "topHeadlineId": "a27",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 24,
-      "topHeadline": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
+      "articleCount": 29,
+      "topHeadline": "Trump says White House didn't order Starlink restrictions in Ukraine",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (22 articles), market-performance (1 article), Supply Chain (1 article). A total of 24 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (28 articles), Supply Chain (1 article). A total of 29 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 4,
       "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 37
+  "totalArticles": 42
 }

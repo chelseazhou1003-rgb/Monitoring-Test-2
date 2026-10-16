@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-10-16T16:59:55.885Z",
+  "generatedAt": "2026-10-16T20:06:40.036Z",
   "date": "2026-10-17",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
         "articleIds": [
-          "a4"
+          "a10"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-        "articleIds": [
-          "a25"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+      "url": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
+      "description": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-16T18:10:37.000Z",
+      "fetchedAt": "2026-10-16T20:06:31.688Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
+      "id": "a2"
+    },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
       "url": "https://www.theverge.com/tech/1012748/nvidia-rtx-spark-windows-arm-laptops-asus-hp-lenovo-impressions",
@@ -31,7 +49,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "fetchedAt": "2026-10-16T16:59:49.959Z",
+      "fetchedAt": "2026-10-16T20:06:32.220Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -42,25 +60,7 @@
         "platform-partner"
       ],
       "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-      "id": "a4"
-    },
-    {
-      "title": "The Sony Xperia 10 VI won’t be getting a promised update to Android 17",
-      "url": "https://www.theverge.com/tech/1012789/sony-xperia-10-vi-smartphone-android-17-update-security",
-      "description": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI won't be getting Android 17 after all. In the notice Sony explains that a \"detailed technical assessment\" revealed that \"limitations related to the device's storage configuration\" mean the Xperia 10 VI \"does not support an Android 17 upgrade experience that we consider adequate.\" As a result, the company has \"decided not to make this … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-16T12:36:11.000Z",
-      "fetchedAt": "2026-10-16T16:59:49.959Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "When the midrange Sony Xperia 10 VI was announced over two years ago with a Qualcomm Snapdragon 6 Gen 1 chipset and Android 14, Sony promised three major OS updates which would have included this year's Android 17 release. However, according to a notice posted to the company's UK support site, the Xperia 10 VI won't be getting Android 17 after all. In the notice Sony explains that a \"detailed technical assessment\" revealed that \"limitations related to the device's storage configuration\" mean the Xperia 10 VI \"does not support an Android 17 upgrade experience that we consider adequate.\" As a result, the company has \"decided not to make this … Read the full story at The Verge.",
-      "id": "a7"
+      "id": "a10"
     },
     {
       "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -70,7 +70,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:57:01.000Z",
-      "fetchedAt": "2026-10-16T16:59:49.429Z",
+      "fetchedAt": "2026-10-16T20:06:31.688Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -78,7 +78,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-      "id": "a25"
+      "id": "a30"
     },
     {
       "title": "Arm guilty of breaching Qualcomm licence agreement",
@@ -88,7 +88,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-14T09:08:32.000Z",
-      "fetchedAt": "2026-10-16T16:59:53.582Z",
+      "fetchedAt": "2026-10-16T20:06:38.229Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -96,7 +96,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-      "id": "a32"
+      "id": "a37"
     }
   ]
 }
