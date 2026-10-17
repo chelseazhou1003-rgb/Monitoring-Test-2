@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T19:43:53.173Z",
+  "generatedAt": "2026-10-17T21:46:52.098Z",
   "date": "2026-10-18",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -16,7 +16,7 @@
       {
         "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
         "articleIds": [
-          "a17"
+          "a16"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-17T14:00:00.000Z",
-      "fetchedAt": "2026-10-17T19:43:46.543Z",
+      "fetchedAt": "2026-10-17T21:46:45.053Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -53,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T18:10:37.000Z",
-      "fetchedAt": "2026-10-17T19:43:46.097Z",
+      "fetchedAt": "2026-10-17T21:46:44.564Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -61,7 +61,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:57:01.000Z",
-      "fetchedAt": "2026-10-17T19:43:46.097Z",
+      "fetchedAt": "2026-10-17T21:46:44.564Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -79,7 +79,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-      "id": "a25"
+      "id": "a24"
     }
   ]
 }
