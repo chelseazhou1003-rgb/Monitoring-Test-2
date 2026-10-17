@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-16T23:02:47.551Z",
+  "generatedAt": "2026-10-17T01:34:57.812Z",
   "date": "2026-10-17",
   "sections": {
     "core-businesses": {
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-      "topHeadlineId": "a27",
+      "topHeadlineId": "a26",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 30,
+      "articleCount": 28,
       "topHeadline": "Trump says White House didn't order Starlink restrictions in Ukraine",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (29 articles), Supply Chain (1 article). A total of 30 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (27 articles), Supply Chain (1 article). A total of 28 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 4,
       "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a8",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 42
+  "totalArticles": 40
 }
