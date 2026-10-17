@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T01:34:57.809Z",
+  "generatedAt": "2026-10-17T06:15:21.115Z",
   "date": "2026-10-17",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
         "articleIds": [
-          "a24"
+          "a25"
         ],
         "subCategory": "frand-licensing"
       }
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-16T07:07:30.000Z",
-      "fetchedAt": "2026-10-17T01:34:56.082Z",
+      "fetchedAt": "2026-10-17T06:15:18.696Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-      "id": "a24"
+      "id": "a25"
     }
   ]
 }

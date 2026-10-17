@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,24 +13,24 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
           "articleIds": [
-            "a3"
+            "a5"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
           "articleIds": [
-            "a8"
+            "a10"
           ],
           "subCategory": "mobile-chips"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T18:10:37.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.340Z",
+        "fetchedAt": "2026-10-17T06:15:08.788Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-16T15:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.710Z",
+        "fetchedAt": "2026-10-17T06:15:09.183Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -84,7 +84,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:57:01.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.340Z",
+        "fetchedAt": "2026-10-17T06:15:08.788Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -93,39 +93,21 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
         "id": "a29"
-      },
-      {
-        "title": "Arm guilty of breaching Qualcomm licence agreement",
-        "url": "https://www.mobileworldlive.com/qualcomm/jury-finds-arm-breached-licence-agreement-with-qualcomm/",
-        "description": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T09:08:32.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.644Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-        "id": "a36"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
           "articleIds": [
-            "a26"
+            "a27"
           ],
           "subCategory": "on-device-ai"
         },
@@ -147,7 +129,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T20:23:13.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.340Z",
+        "fetchedAt": "2026-10-17T06:15:08.788Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -155,7 +137,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-        "id": "a26"
+        "id": "a27"
       },
       {
         "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
@@ -165,7 +147,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T06:16:06.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.340Z",
+        "fetchedAt": "2026-10-17T06:15:08.788Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -174,29 +156,11 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
         "id": "a30"
-      },
-      {
-        "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
-        "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-talks-secure-mediatek-ai-023911406.html?.tsrc=rss",
-        "description": "ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-15T02:39:11.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.340Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-        "id": "a32"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -206,7 +170,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
           "articleIds": [
-            "a24"
+            "a25"
           ],
           "subCategory": "frand-licensing"
         }
@@ -221,7 +185,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-16T07:07:30.000Z",
-        "fetchedAt": "2026-10-17T01:34:56.082Z",
+        "fetchedAt": "2026-10-17T06:15:18.696Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -229,41 +193,41 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-        "id": "a24"
+        "id": "a25"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-17T01:34:57.812Z",
+    "generatedAt": "2026-10-17T06:15:21.117Z",
     "date": "2026-10-17",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
+        "articleCount": 3,
         "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-        "topHeadlineId": "a24",
+        "topHeadlineId": "a25",
         "briefingSummary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso"
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-        "topHeadlineId": "a26",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a27",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 28,
-        "topHeadline": "Trump says White House didn't order Starlink restrictions in Ukraine",
+        "articleCount": 27,
+        "topHeadline": "Should You Buy Qualcomm Stock For Its Cash?",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (27 articles), Supply Chain (1 article). A total of 28 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -274,39 +238,76 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 4,
+        "articleCount": 2,
         "topHeadline": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "topHeadlineId": "a10",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 40
+    "totalArticles": 35
   },
   "macro-environment": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (27 articles), Supply Chain (1 article). A total of 28 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+          "text": "Supply Chain: Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean ",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "supply-chain"
         },
         {
-          "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
+          "text": "Geopolitics & Export Controls: US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
           "articleIds": [
-            "a27"
+            "a2"
           ],
-          "subCategory": "supply-chain"
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Should You Buy Qualcomm Stock For Its Cash?",
+        "url": "https://www.trefis.com/articles/618987/should-you-buy-qualcomm-stock-for-its-cash/2026-10-16?.tsrc=rss",
+        "description": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-17T03:03:01.000Z",
+        "fetchedAt": "2026-10-17T06:15:08.788Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+        "id": "a1"
+      },
+      {
+        "title": "Trump exempts Russia from further sanctions mandated by new law",
+        "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+        "description": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-17T02:31:59.000Z",
+        "fetchedAt": "2026-10-17T06:15:09.059Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+        "id": "a2"
+      },
       {
         "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
         "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
@@ -315,7 +316,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T20:28:10.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.305Z",
+        "fetchedAt": "2026-10-17T06:15:08.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -324,7 +325,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "Why Taiwan Restricting Ai Chip Exports To China Changes Ever - ИФЗ РАН",
@@ -334,7 +335,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T18:27:38.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "ИФЗ РАН",
         "geopoliticalBypass": true,
@@ -344,7 +345,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Why Taiwan Restricting Ai Chip Exports To China Changes Ever ИФЗ РАН",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
@@ -354,7 +355,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T17:53:48.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.765Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "https://tech-insider.org/",
         "geopoliticalBypass": true,
@@ -364,7 +365,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
@@ -374,7 +375,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T17:50:50.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.305Z",
+        "fetchedAt": "2026-10-17T06:15:08.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -383,7 +384,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -393,7 +394,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T16:46:18.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.305Z",
+        "fetchedAt": "2026-10-17T06:15:08.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -402,7 +403,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "China proposes AI export curbs to manage security - Taipei Times",
@@ -412,7 +413,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T16:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Taipei Times",
         "geopoliticalBypass": true,
@@ -422,7 +423,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China proposes AI export curbs to manage security Taipei Times",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "After years of U.S. export bans, China plans its own: 40 AI, chip and solar technologies could be restricted - Fortune",
@@ -432,7 +433,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T14:33:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.765Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Fortune",
         "geopoliticalBypass": true,
@@ -442,7 +443,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "export bans, China plans its own: 40 AI, chip and solar technologies could be restricted Fortune",
-        "id": "a9"
+        "id": "a11"
       },
       {
         "title": "Taiwan plans to add AI servers and advanced semiconductors to export control list - Global Sources",
@@ -452,7 +453,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T13:55:01.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Global Sources",
         "geopoliticalBypass": true,
@@ -462,7 +463,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan plans to add AI servers and advanced semiconductors to export control list Global Sources",
-        "id": "a10"
+        "id": "a12"
       },
       {
         "title": "China proposes export controls on AI and chip design - Briefs Finance",
@@ -472,7 +473,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T13:24:10.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Briefs Finance",
         "geopoliticalBypass": true,
@@ -482,7 +483,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China proposes export controls on AI and chip design Briefs Finance",
-        "id": "a11"
+        "id": "a13"
       },
       {
         "title": "China proposes export controls on its advanced AI models and chip designs - The Next Web",
@@ -492,7 +493,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T13:10:06.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Next Web",
         "geopoliticalBypass": true,
@@ -502,27 +503,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China proposes export controls on its advanced AI models and chip designs The Next Web",
-        "id": "a12"
-      },
-      {
-        "title": "China moves to curb tech exports, including AI, citing national security risks - Bozeman Daily Chronicle",
-        "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOME1hMUdjNXRsZ2JmSnFQRjRmdEJPeE9UWTlJa0s5dUFTNUc3YWUxV3lMT1h1cUYyQ19GOVczeHFJRTNkV1d4QzlwY2kwQ1YwekRVZUJBN0x0c1dwTnQ0aTkwNWVTQnNpZE9BLVNZMVRTRDJxZl9aWXd1T3Rxam44VFRVejByMk9WUmlrZVktSGJRTTVwT3Bveld2eVU5ZzUyOHQ0a09Gamc0YmpKczlGNGhsV1BmTHl0aHgzRWdIRmowdTNGN3IyeUJUTUFtcUF3ZThMRUxlNy1HNmU3YlVpSm15aGhReEFnc25ldVpWcnNydnhleVdNR0h3aGJ4SXcta21TTXNXX3o3Zw?oc=5",
-        "description": "China moves to curb tech exports, including AI, citing national security risks Bozeman Daily Chronicle",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-16T12:20:52.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.765Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Bozeman Daily Chronicle",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China moves to curb tech exports, including AI, citing national security risks Bozeman Daily Chronicle",
-        "id": "a13"
+        "id": "a14"
       },
       {
         "title": "China Proposes AI Export Curbs on 23 Technologies [2026] - https://tech-insider.org/",
@@ -532,7 +513,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T12:08:19.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "https://tech-insider.org/",
         "geopoliticalBypass": true,
@@ -542,7 +523,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Proposes AI Export Curbs on 23 Technologies [2026] https://tech-insider.org/",
-        "id": "a14"
+        "id": "a15"
       },
       {
         "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security - National Institute of Standards and Technology (.gov)",
@@ -552,7 +533,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T12:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.765Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "National Institute of Standards and Technology (.gov)",
         "geopoliticalBypass": true,
@@ -562,7 +543,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security National Institute of Standards and Technology (.gov)",
-        "id": "a15"
+        "id": "a16"
       },
       {
         "title": "China plans AI export curbs to exert control over key tech - The Straits Times",
@@ -572,7 +553,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T11:45:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Straits Times",
         "geopoliticalBypass": true,
@@ -582,7 +563,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China plans AI export curbs to exert control over key tech The Straits Times",
-        "id": "a16"
+        "id": "a17"
       },
       {
         "title": "Nike's India campus is a long-term growth bet amid turnaround",
@@ -592,7 +573,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T11:00:01.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.305Z",
+        "fetchedAt": "2026-10-17T06:15:08.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -601,7 +582,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nike announced earlier this month that it's expanding into India. The retailer has been broadly struggling, especially in the China market.",
-        "id": "a17"
+        "id": "a18"
       },
       {
         "title": "China plans AI tech export curbs to manage security risks - The Edge Singapore",
@@ -611,7 +592,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T10:27:40.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Edge Singapore",
         "geopoliticalBypass": true,
@@ -621,7 +602,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China plans AI tech export curbs to manage security risks The Edge Singapore",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
@@ -631,7 +612,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T10:00:09.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.623Z",
+        "fetchedAt": "2026-10-17T06:15:09.059Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -640,7 +621,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Taiwan to Join US China Chip Curbs, Seek Criminal Penalties for AI Chip Smuggling - bloomingbit",
@@ -650,7 +631,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T09:31:40.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "bloomingbit",
         "geopoliticalBypass": true,
@@ -660,7 +641,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan to Join US China Chip Curbs, Seek Criminal Penalties for AI Chip Smuggling bloomingbit",
-        "id": "a20"
+        "id": "a21"
       },
       {
         "title": "Kung Ming-hsin Confirms: Criminal Liability for Illegal AI Chip Exports to China; Taiwan Plans to Expand Export Controls - BigGo Finance",
@@ -670,7 +651,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T09:26:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.079Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BigGo Finance",
         "geopoliticalBypass": true,
@@ -680,7 +661,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Kung Ming-hsin Confirms: Criminal Liability for Illegal AI Chip Exports to China; Taiwan Plans to Expand Export Controls BigGo Finance",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "China Plans AI Tech Export Curbs to Manage Security Risks - Bloomberg.com",
@@ -690,7 +671,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T08:46:44.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bloomberg.com",
         "geopoliticalBypass": true,
@@ -700,7 +681,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China Plans AI Tech Export Curbs to Manage Security Risks Bloomberg.com",
-        "id": "a22"
+        "id": "a23"
       },
       {
         "title": "Taiwan to Tighten AI Chip Export Controls to China... Smuggling to Bring Criminal Penalties - 아시아경제",
@@ -710,7 +691,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T07:26:13.000Z",
-        "fetchedAt": "2026-10-17T01:34:57.766Z",
+        "fetchedAt": "2026-10-17T06:15:21.080Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "아시아경제",
         "geopoliticalBypass": true,
@@ -720,7 +701,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan to Tighten AI Chip Export Controls to China... Smuggling to Bring Criminal Penalties 아시아경제",
-        "id": "a23"
+        "id": "a24"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -730,7 +711,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-16T07:01:05.000Z",
-        "fetchedAt": "2026-10-17T01:34:53.749Z",
+        "fetchedAt": "2026-10-17T06:15:10.026Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -741,26 +722,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a25"
-      },
-      {
-        "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
-        "url": "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool",
-        "description": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-        "source": "Semiconductor Digest",
-        "sourceId": "semiconductor-digest",
-        "sourceGroup": "semiconductor",
-        "publishedAt": "2026-10-15T14:10:47.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.443Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-        "id": "a27"
+        "id": "a26"
       },
       {
         "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -770,7 +732,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T13:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:56.073Z",
+        "fetchedAt": "2026-10-17T06:15:19.328Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -789,7 +751,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T05:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:56.073Z",
+        "fetchedAt": "2026-10-17T06:15:19.328Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -808,7 +770,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-14T17:53:07.000Z",
-        "fetchedAt": "2026-10-17T01:34:56.073Z",
+        "fetchedAt": "2026-10-17T06:15:19.329Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -817,49 +779,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
+        "id": "a32"
+      },
+      {
+        "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
+        "url": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
+        "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-14T15:15:09.000Z",
+        "fetchedAt": "2026-10-17T06:15:11.388Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
         "id": "a33"
-      },
-      {
-        "title": "AI chiefs sound alarm on security risks",
-        "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-        "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.644Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "id": "a34"
-      },
-      {
-        "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
-        "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
-        "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.644Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-        "id": "a35"
       }
     ]
   },
@@ -1055,24 +994,24 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-17T01:34:57.809Z",
+    "generatedAt": "2026-10-17T06:15:21.115Z",
     "date": "2026-10-17",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
           "articleIds": [
-            "a8"
+            "a10"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
           "articleIds": [
-            "a25"
+            "a26"
           ],
           "subCategory": "geopolitics-export-controls"
         }
@@ -1087,7 +1026,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-16T15:00:00.000Z",
-        "fetchedAt": "2026-10-17T01:34:52.710Z",
+        "fetchedAt": "2026-10-17T06:15:09.183Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -1098,7 +1037,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -1108,7 +1047,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-16T07:01:05.000Z",
-        "fetchedAt": "2026-10-17T01:34:53.749Z",
+        "fetchedAt": "2026-10-17T06:15:10.026Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -1119,49 +1058,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a25"
-      },
-      {
-        "title": "AI chiefs sound alarm on security risks",
-        "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-        "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T16:10:07.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.644Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-        "id": "a34"
-      },
-      {
-        "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
-        "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
-        "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T12:40:35.000Z",
-        "fetchedAt": "2026-10-17T01:34:55.644Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-        "id": "a35"
+        "id": "a26"
       }
     ]
   },
@@ -26312,28 +26209,28 @@ export const NEWS_DATA = {
     "totalArticles": 42
   },
   "archive-2026-10-17": {
-    "generatedAt": "2026-10-17T01:34:57.813Z",
+    "generatedAt": "2026-10-17T06:15:21.117Z",
     "date": "2026-10-17",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
               "articleIds": [
-                "a3"
+                "a5"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
               "articleIds": [
-                "a8"
+                "a10"
               ],
               "subCategory": "mobile-chips"
             }
@@ -26348,7 +26245,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T18:10:37.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.340Z",
+            "fetchedAt": "2026-10-17T06:15:08.788Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26356,7 +26253,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -26366,7 +26263,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-16T15:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.710Z",
+            "fetchedAt": "2026-10-17T06:15:09.183Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -26377,7 +26274,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -26387,7 +26284,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:57:01.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.340Z",
+            "fetchedAt": "2026-10-17T06:15:08.788Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26396,29 +26293,11 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
             "id": "a29"
-          },
-          {
-            "title": "Arm guilty of breaching Qualcomm licence agreement",
-            "url": "https://www.mobileworldlive.com/qualcomm/jury-finds-arm-breached-licence-agreement-with-qualcomm/",
-            "description": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T09:08:32.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.644Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A high-stakes legal showdown between two giants of the mobile industry reached a critical turning point, as a US jury found Arm breached its long-standing Architectural License Agreement (ALA) with Qualcomm. The post Arm guilty of breaching Qualcomm licence agreement appeared first on Mobile World Live.",
-            "id": "a36"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -26428,7 +26307,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
               "articleIds": [
-                "a24"
+                "a25"
               ],
               "subCategory": "frand-licensing"
             }
@@ -26443,7 +26322,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-16T07:07:30.000Z",
-            "fetchedAt": "2026-10-17T01:34:56.082Z",
+            "fetchedAt": "2026-10-17T06:15:18.696Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -26451,22 +26330,22 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-            "id": "a24"
+            "id": "a25"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles), On-Device AI / Edge AI (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans On-Device AI / Edge AI (1 article), Data Center (1 article). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
               "articleIds": [
-                "a26"
+                "a27"
               ],
               "subCategory": "on-device-ai"
             },
@@ -26488,7 +26367,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T20:23:13.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.340Z",
+            "fetchedAt": "2026-10-17T06:15:08.788Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -26496,7 +26375,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-            "id": "a26"
+            "id": "a27"
           },
           {
             "title": "QCOM, AVGO, NVDA Stocks In Focus As ByteDance Reportedly Closes In On A MediaTek Pact For AI Data Center Chips",
@@ -26506,7 +26385,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T06:16:06.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.340Z",
+            "fetchedAt": "2026-10-17T06:15:08.788Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "data-center",
@@ -26515,52 +26394,71 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "MediaTek’s potential deal with ByteDance highlights the growing competition in custom AI chips.",
             "id": "a30"
-          },
-          {
-            "title": "ByteDance in Talks to Secure MediaTek AI Chips for Data Centers",
-            "url": "https://finance.yahoo.com/technology/ai/articles/bytedance-talks-secure-mediatek-ai-023911406.html?.tsrc=rss",
-            "description": "ByteDance Ltd. is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-15T02:39:11.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.340Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "data-center",
-            "subLabel": "Data Center",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "is close to an agreement to buy MediaTek Inc. data center semiconductors, a deal that would secure vital components for TikTok’s owner while helping the Taiwanese chipmaker compete with Qualcomm Inc.",
-            "id": "a32"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (27 articles), Supply Chain (1 article). A total of 28 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (26 articles), Supply Chain (1 article). A total of 27 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
+              "text": "Supply Chain: Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean ",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "supply-chain"
             },
             {
-              "text": "Supply Chain: From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemic",
+              "text": "Geopolitics & Export Controls: US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
               "articleIds": [
-                "a27"
+                "a2"
               ],
-              "subCategory": "supply-chain"
+              "subCategory": "geopolitics-export-controls"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Should You Buy Qualcomm Stock For Its Cash?",
+            "url": "https://www.trefis.com/articles/618987/should-you-buy-qualcomm-stock-for-its-cash/2026-10-16?.tsrc=rss",
+            "description": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-17T03:03:01.000Z",
+            "fetchedAt": "2026-10-17T06:15:08.788Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+            "id": "a1"
+          },
+          {
+            "title": "Trump exempts Russia from further sanctions mandated by new law",
+            "url": "https://www.ft.com/content/836eddd7-3adc-4cbb-8527-7a0a7a277e50?syn-25a6b1a6=1",
+            "description": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-17T02:31:59.000Z",
+            "fetchedAt": "2026-10-17T06:15:09.059Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US president gives Putin a reprieve on threatened energy measures after cutting deal with Moscow to release diesel",
+            "id": "a2"
+          },
           {
             "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
             "url": "https://www.cnbc.com/2026/10/16/trump-denies-musk-claim-he-ordered-starlink-restrictions-in-ukraine.html",
@@ -26569,7 +26467,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T20:28:10.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.305Z",
+            "fetchedAt": "2026-10-17T06:15:08.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26578,7 +26476,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "Why Taiwan Restricting Ai Chip Exports To China Changes Ever - ИФЗ РАН",
@@ -26588,7 +26486,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T18:27:38.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "ИФЗ РАН",
             "geopoliticalBypass": true,
@@ -26598,7 +26496,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Why Taiwan Restricting Ai Chip Exports To China Changes Ever ИФЗ РАН",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
@@ -26608,7 +26506,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T17:53:48.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.765Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "https://tech-insider.org/",
             "geopoliticalBypass": true,
@@ -26618,7 +26516,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
@@ -26628,7 +26526,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T17:50:50.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.305Z",
+            "fetchedAt": "2026-10-17T06:15:08.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26637,7 +26535,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-            "id": "a5"
+            "id": "a7"
           },
           {
             "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -26647,7 +26545,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T16:46:18.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.305Z",
+            "fetchedAt": "2026-10-17T06:15:08.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26656,7 +26554,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-            "id": "a6"
+            "id": "a8"
           },
           {
             "title": "China proposes AI export curbs to manage security - Taipei Times",
@@ -26666,7 +26564,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T16:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Taipei Times",
             "geopoliticalBypass": true,
@@ -26676,7 +26574,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China proposes AI export curbs to manage security Taipei Times",
-            "id": "a7"
+            "id": "a9"
           },
           {
             "title": "After years of U.S. export bans, China plans its own: 40 AI, chip and solar technologies could be restricted - Fortune",
@@ -26686,7 +26584,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T14:33:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.765Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Fortune",
             "geopoliticalBypass": true,
@@ -26696,7 +26594,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "export bans, China plans its own: 40 AI, chip and solar technologies could be restricted Fortune",
-            "id": "a9"
+            "id": "a11"
           },
           {
             "title": "Taiwan plans to add AI servers and advanced semiconductors to export control list - Global Sources",
@@ -26706,7 +26604,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T13:55:01.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Global Sources",
             "geopoliticalBypass": true,
@@ -26716,7 +26614,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan plans to add AI servers and advanced semiconductors to export control list Global Sources",
-            "id": "a10"
+            "id": "a12"
           },
           {
             "title": "China proposes export controls on AI and chip design - Briefs Finance",
@@ -26726,7 +26624,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T13:24:10.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Briefs Finance",
             "geopoliticalBypass": true,
@@ -26736,7 +26634,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China proposes export controls on AI and chip design Briefs Finance",
-            "id": "a11"
+            "id": "a13"
           },
           {
             "title": "China proposes export controls on its advanced AI models and chip designs - The Next Web",
@@ -26746,7 +26644,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T13:10:06.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Next Web",
             "geopoliticalBypass": true,
@@ -26756,27 +26654,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China proposes export controls on its advanced AI models and chip designs The Next Web",
-            "id": "a12"
-          },
-          {
-            "title": "China moves to curb tech exports, including AI, citing national security risks - Bozeman Daily Chronicle",
-            "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOME1hMUdjNXRsZ2JmSnFQRjRmdEJPeE9UWTlJa0s5dUFTNUc3YWUxV3lMT1h1cUYyQ19GOVczeHFJRTNkV1d4QzlwY2kwQ1YwekRVZUJBN0x0c1dwTnQ0aTkwNWVTQnNpZE9BLVNZMVRTRDJxZl9aWXd1T3Rxam44VFRVejByMk9WUmlrZVktSGJRTTVwT3Bveld2eVU5ZzUyOHQ0a09Gamc0YmpKczlGNGhsV1BmTHl0aHgzRWdIRmowdTNGN3IyeUJUTUFtcUF3ZThMRUxlNy1HNmU3YlVpSm15aGhReEFnc25ldVpWcnNydnhleVdNR0h3aGJ4SXcta21TTXNXX3o3Zw?oc=5",
-            "description": "China moves to curb tech exports, including AI, citing national security risks Bozeman Daily Chronicle",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T12:20:52.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.765Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bozeman Daily Chronicle",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China moves to curb tech exports, including AI, citing national security risks Bozeman Daily Chronicle",
-            "id": "a13"
+            "id": "a14"
           },
           {
             "title": "China Proposes AI Export Curbs on 23 Technologies [2026] - https://tech-insider.org/",
@@ -26786,7 +26664,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T12:08:19.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "https://tech-insider.org/",
             "geopoliticalBypass": true,
@@ -26796,7 +26674,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Proposes AI Export Curbs on 23 Technologies [2026] https://tech-insider.org/",
-            "id": "a14"
+            "id": "a15"
           },
           {
             "title": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security - National Institute of Standards and Technology (.gov)",
@@ -26806,7 +26684,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T12:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.765Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "National Institute of Standards and Technology (.gov)",
             "geopoliticalBypass": true,
@@ -26816,7 +26694,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "New Chip-Based ‘Tape Measure’ for Light Could Revolutionize Mobile Timekeeping and Enhance National Security National Institute of Standards and Technology (.gov)",
-            "id": "a15"
+            "id": "a16"
           },
           {
             "title": "China plans AI export curbs to exert control over key tech - The Straits Times",
@@ -26826,7 +26704,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T11:45:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Straits Times",
             "geopoliticalBypass": true,
@@ -26836,7 +26714,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China plans AI export curbs to exert control over key tech The Straits Times",
-            "id": "a16"
+            "id": "a17"
           },
           {
             "title": "Nike's India campus is a long-term growth bet amid turnaround",
@@ -26846,7 +26724,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T11:00:01.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.305Z",
+            "fetchedAt": "2026-10-17T06:15:08.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26855,7 +26733,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nike announced earlier this month that it's expanding into India. The retailer has been broadly struggling, especially in the China market.",
-            "id": "a17"
+            "id": "a18"
           },
           {
             "title": "China plans AI tech export curbs to manage security risks - The Edge Singapore",
@@ -26865,7 +26743,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T10:27:40.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Edge Singapore",
             "geopoliticalBypass": true,
@@ -26875,7 +26753,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China plans AI tech export curbs to manage security risks The Edge Singapore",
-            "id": "a18"
+            "id": "a19"
           },
           {
             "title": "Republicans turn on Trump’s tariffs in battle for ‘political survival’",
@@ -26885,7 +26763,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T10:00:09.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.623Z",
+            "fetchedAt": "2026-10-17T06:15:09.059Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26894,7 +26772,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US president’s trade war has become an albatross for his party in crucial midterm election races",
-            "id": "a19"
+            "id": "a20"
           },
           {
             "title": "Taiwan to Join US China Chip Curbs, Seek Criminal Penalties for AI Chip Smuggling - bloomingbit",
@@ -26904,7 +26782,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T09:31:40.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "bloomingbit",
             "geopoliticalBypass": true,
@@ -26914,7 +26792,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan to Join US China Chip Curbs, Seek Criminal Penalties for AI Chip Smuggling bloomingbit",
-            "id": "a20"
+            "id": "a21"
           },
           {
             "title": "Kung Ming-hsin Confirms: Criminal Liability for Illegal AI Chip Exports to China; Taiwan Plans to Expand Export Controls - BigGo Finance",
@@ -26924,7 +26802,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T09:26:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.079Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "BigGo Finance",
             "geopoliticalBypass": true,
@@ -26934,7 +26812,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Kung Ming-hsin Confirms: Criminal Liability for Illegal AI Chip Exports to China; Taiwan Plans to Expand Export Controls BigGo Finance",
-            "id": "a21"
+            "id": "a22"
           },
           {
             "title": "China Plans AI Tech Export Curbs to Manage Security Risks - Bloomberg.com",
@@ -26944,7 +26822,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T08:46:44.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Bloomberg.com",
             "geopoliticalBypass": true,
@@ -26954,7 +26832,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China Plans AI Tech Export Curbs to Manage Security Risks Bloomberg.com",
-            "id": "a22"
+            "id": "a23"
           },
           {
             "title": "Taiwan to Tighten AI Chip Export Controls to China... Smuggling to Bring Criminal Penalties - 아시아경제",
@@ -26964,7 +26842,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T07:26:13.000Z",
-            "fetchedAt": "2026-10-17T01:34:57.766Z",
+            "fetchedAt": "2026-10-17T06:15:21.080Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "아시아경제",
             "geopoliticalBypass": true,
@@ -26974,7 +26852,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan to Tighten AI Chip Export Controls to China... Smuggling to Bring Criminal Penalties 아시아경제",
-            "id": "a23"
+            "id": "a24"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -26984,7 +26862,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T01:34:53.749Z",
+            "fetchedAt": "2026-10-17T06:15:10.026Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26995,26 +26873,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a25"
-          },
-          {
-            "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
-            "url": "https://www.semiconductor-digest.com/mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool/?utm_source=rss&utm_medium=rss&utm_campaign=mitsubishi-chemical-group-the-materials-supplier-hiding-inside-the-tool",
-            "description": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "source": "Semiconductor Digest",
-            "sourceId": "semiconductor-digest",
-            "sourceGroup": "semiconductor",
-            "publishedAt": "2026-10-15T14:10:47.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.443Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "id": "a27"
+            "id": "a26"
           },
           {
             "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -27024,7 +26883,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T13:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:56.073Z",
+            "fetchedAt": "2026-10-17T06:15:19.328Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27043,7 +26902,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T05:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:56.073Z",
+            "fetchedAt": "2026-10-17T06:15:19.328Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27062,7 +26921,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-14T17:53:07.000Z",
-            "fetchedAt": "2026-10-17T01:34:56.073Z",
+            "fetchedAt": "2026-10-17T06:15:19.329Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27071,54 +26930,31 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
+            "id": "a32"
+          },
+          {
+            "title": "Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent",
+            "url": "https://ipwatchdog.com/2026/10/14/federal-circuit-upholds-ptab-unpatentability-ruling-against-fungicide-combination-patent/",
+            "description": "The U.S. Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-14T15:15:09.000Z",
+            "fetchedAt": "2026-10-17T06:15:11.388Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Court of Appeals for the Federal Circuit (CAFC) issued a decision today in Syngenta Crop Protection AG v. UPL Ltd., affirming a Patent Trial and Appeal Board (PTAB) final written decision that held all challenged claims of a fungicide combination patent unpatentable. The CAFC rejected arguments from UPL Ltd. and affirmed the PTAB’s denial of leave for Syngenta Crop Protection AG to seek sanctions. The post Federal Circuit Upholds PTAB Unpatentability Ruling Against Fungicide Combination Patent appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
             "id": "a33"
-          },
-          {
-            "title": "AI chiefs sound alarm on security risks",
-            "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-            "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.644Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a34"
-          },
-          {
-            "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
-            "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
-            "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.644Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-            "id": "a35"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -27129,24 +26965,24 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-17T01:34:57.809Z",
+        "generatedAt": "2026-10-17T06:15:21.115Z",
         "date": "2026-10-17",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
               "articleIds": [
-                "a8"
+                "a10"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
               "articleIds": [
-                "a25"
+                "a26"
               ],
               "subCategory": "geopolitics-export-controls"
             }
@@ -27161,7 +26997,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-16T15:00:00.000Z",
-            "fetchedAt": "2026-10-17T01:34:52.710Z",
+            "fetchedAt": "2026-10-17T06:15:09.183Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -27172,7 +27008,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -27182,7 +27018,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T01:34:53.749Z",
+            "fetchedAt": "2026-10-17T06:15:10.026Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27193,54 +27029,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a25"
-          },
-          {
-            "title": "AI chiefs sound alarm on security risks",
-            "url": "https://www.mobileworldlive.com/google/ai-chiefs-sound-alarm-on-security-risks/",
-            "description": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T16:10:07.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.644Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Google DeepMind co-founder Demis Hassabis cautioned that recent AI-driven cyberattacks were “early warning shots”, as more serious incidents could emerge over time unless companies and governments stepped up efforts to secure AI systems. The post AI chiefs sound alarm on security risks appeared first on Mobile World Live.",
-            "id": "a34"
-          },
-          {
-            "title": "Google et Microsoft s’inquiètent également des risques liés à l’IA",
-            "url": "https://www.mobileworldlive.com/french/google-et-microsoft-sinquietent-egalement-des-risques-lies-a-lia/",
-            "description": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. Pour le Read more... The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T12:40:35.000Z",
-            "fetchedAt": "2026-10-17T01:34:55.644Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Les récentes cyberattaques pilotées par l’IA sont des « premiers coups de semonce », prévient à son tour Demis Hassabis. The post Google et Microsoft s’inquiètent également des risques liés à l’IA appeared first on Mobile World Live.",
-            "id": "a35"
+            "id": "a26"
           }
         ]
       }
     },
-    "totalArticles": 40
+    "totalArticles": 35
   }
 };
 
