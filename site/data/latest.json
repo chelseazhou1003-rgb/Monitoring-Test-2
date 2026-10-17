@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-17T14:27:16.389Z",
-  "date": "2026-10-17",
+  "generatedAt": "2026-10-17T17:33:21.847Z",
+  "date": "2026-10-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a2",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-      "topHeadlineId": "a24",
+      "topHeadlineId": "a22",
       "briefingSummary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso"
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-      "topHeadlineId": "a26",
+      "topHeadlineId": "a24",
       "briefingSummary": "One article today covering On-Device AI / Edge AI. Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Q"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 28,
-      "topHeadline": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), Supply Chain (3 articles). A total of 28 articles were aggregated from monitored sources."
+      "articleCount": 24,
+      "topHeadline": "Israeli settlers attack European diplomats in the West Bank",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), Supply Chain (3 articles). A total of 24 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 36
+  "totalArticles": 31
 }
