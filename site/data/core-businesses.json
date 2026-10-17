@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T06:15:21.115Z",
+  "generatedAt": "2026-10-17T11:12:13.445Z",
   "date": "2026-10-17",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
         "articleIds": [
-          "a5"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally h",
         "articleIds": [
-          "a10"
+          "a13"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T18:10:37.000Z",
-      "fetchedAt": "2026-10-17T06:15:08.788Z",
+      "fetchedAt": "2026-10-17T11:12:07.027Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "A week with RTX Spark: everything we’ve learned using Nvidia’s new laptops",
@@ -49,7 +49,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-16T15:00:00.000Z",
-      "fetchedAt": "2026-10-17T06:15:09.183Z",
+      "fetchedAt": "2026-10-17T11:12:07.591Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -60,7 +60,7 @@
         "platform-partner"
       ],
       "summary": "Nvidia’s new SoC is available in Windows laptops from six different manufacturers. We’ve collectively tested four of them so far. Di Benedetto / The Verge Nvidia's RTX Spark N1X processor is finally here, and we've been collectively testing a small fortune's worth of powerful laptops sporting this new \"superchip.\" RTX Spark is designed to be a high-performing Arm-based SoC for laptops and small desktop computers, rivaling the best from Apple, Intel, AMD, and Qualcomm. It has loads of cores, Nvidia RTX Blackwell graphics, and enough power and unified memory to run sizable local AI models. The flagship placement is inside Microsoft's Surface Laptop Ultra with a staggering 128GB of unified memory, which our own Tom Warren fully reviewed.",
-      "id": "a10"
+      "id": "a13"
     },
     {
       "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -70,7 +70,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T12:57:01.000Z",
-      "fetchedAt": "2026-10-17T06:15:08.788Z",
+      "fetchedAt": "2026-10-17T11:12:07.027Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -78,7 +78,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-      "id": "a29"
+      "id": "a23"
     }
   ]
 }
