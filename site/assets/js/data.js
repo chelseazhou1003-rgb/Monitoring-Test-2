@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
           "articleIds": [
-            "a2"
+            "a3"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
           "articleIds": [
-            "a18"
+            "a17"
           ],
           "subCategory": "semiconductors"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-17T14:00:00.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.956Z",
+        "fetchedAt": "2026-10-17T19:43:46.543Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -57,7 +57,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
@@ -67,7 +67,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T18:10:37.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.442Z",
+        "fetchedAt": "2026-10-17T19:43:46.097Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -75,7 +75,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-        "id": "a18"
+        "id": "a17"
       },
       {
         "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -85,7 +85,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T12:57:01.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.442Z",
+        "fetchedAt": "2026-10-17T19:43:46.097Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -93,12 +93,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-        "id": "a27"
+        "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -108,7 +108,7 @@ export const NEWS_DATA = {
         {
           "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
           "articleIds": [
-            "a24"
+            "a22"
           ],
           "subCategory": "on-device-ai"
         }
@@ -123,7 +123,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-15T20:23:13.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.442Z",
+        "fetchedAt": "2026-10-17T19:43:46.097Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "on-device-ai",
@@ -131,12 +131,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-        "id": "a24"
+        "id": "a22"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -146,7 +146,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
           "articleIds": [
-            "a22"
+            "a20"
           ],
           "subCategory": "frand-licensing"
         }
@@ -161,7 +161,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-16T07:07:30.000Z",
-        "fetchedAt": "2026-10-17T17:33:20.151Z",
+        "fetchedAt": "2026-10-17T19:43:50.680Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -169,41 +169,41 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-        "id": "a22"
+        "id": "a20"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-17T17:33:21.847Z",
+    "generatedAt": "2026-10-17T19:43:53.176Z",
     "date": "2026-10-18",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-        "topHeadlineId": "a2",
+        "topHeadlineId": "a3",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-        "topHeadlineId": "a22",
+        "topHeadlineId": "a20",
         "briefingSummary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso"
       },
       "growth-areas": {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
-        "topHeadlineId": "a24",
+        "topHeadlineId": "a22",
         "briefingSummary": "One article today covering On-Device AI / Edge AI. Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Q"
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 24,
-        "topHeadline": "Israeli settlers attack European diplomats in the West Bank",
+        "articleCount": 21,
+        "topHeadline": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), Supply Chain (3 articles). A total of 24 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -216,22 +216,22 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 2,
         "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-        "topHeadlineId": "a2",
+        "topHeadlineId": "a3",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 31
+    "totalArticles": 28
   },
   "macro-environment": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), Supply Chain (3 articles). A total of 24 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+          "text": "Geopolitics & Export Controls: Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
           "articleIds": [
             "a1"
           ],
@@ -240,7 +240,7 @@ export const NEWS_DATA = {
         {
           "text": "Supply Chain: Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories",
           "articleIds": [
-            "a6"
+            "a7"
           ],
           "subCategory": "supply-chain"
         }
@@ -248,14 +248,33 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+        "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+        "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-17T19:35:18.000Z",
+        "fetchedAt": "2026-10-17T19:43:46.160Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+        "id": "a1"
+      },
+      {
         "title": "Israeli settlers attack European diplomats in the West Bank",
         "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
         "description": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
         "source": "Financial Times",
         "sourceId": "ft",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-17T16:11:59.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.777Z",
+        "publishedAt": "2026-10-17T17:58:01.000Z",
+        "fetchedAt": "2026-10-17T19:43:46.379Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -264,7 +283,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -274,7 +293,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T12:53:53.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.777Z",
+        "fetchedAt": "2026-10-17T19:43:46.379Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -283,7 +302,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
@@ -293,7 +312,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T12:47:37.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.476Z",
+        "fetchedAt": "2026-10-17T19:43:46.306Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -302,7 +321,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "Taiwan criminalizes AI server smuggling to China with five-year prison terms - news.lavx.hu",
@@ -312,7 +331,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T12:40:40.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "news.lavx.hu",
         "geopoliticalBypass": true,
@@ -322,7 +341,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan criminalizes AI server smuggling to China with five-year prison terms news.lavx.hu",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "The EV Bust Creating a New Battery Boom",
@@ -332,7 +351,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T12:03:32.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.476Z",
+        "fetchedAt": "2026-10-17T19:43:46.306Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -341,7 +360,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells.",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
@@ -351,7 +370,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T12:00:11.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "South China Morning Post",
         "geopoliticalBypass": true,
@@ -361,25 +380,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-        "id": "a7"
-      },
-      {
-        "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-        "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-        "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-17T10:20:44.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.324Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
         "id": "a8"
       },
       {
@@ -390,7 +390,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T09:53:31.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.777Z",
+        "fetchedAt": "2026-10-17T19:43:46.379Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -409,7 +409,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T09:37:10.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "www.nationpathindia.com",
         "geopoliticalBypass": true,
@@ -429,7 +429,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T05:12:30.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "XenoSpectrum",
         "geopoliticalBypass": true,
@@ -449,7 +449,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T04:32:20.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NDTV",
         "geopoliticalBypass": true,
@@ -469,7 +469,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T03:03:01.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.442Z",
+        "fetchedAt": "2026-10-17T19:43:46.097Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -487,7 +487,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T22:00:29.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "PBS",
         "geopoliticalBypass": true,
@@ -507,7 +507,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T20:41:00.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
+        "fetchedAt": "2026-10-17T19:43:53.126Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EIN News",
         "geopoliticalBypass": true,
@@ -527,7 +527,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T20:28:10.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.324Z",
+        "fetchedAt": "2026-10-17T19:43:46.160Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -539,46 +539,6 @@ export const NEWS_DATA = {
         "id": "a16"
       },
       {
-        "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?oc=5",
-        "description": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-16T18:21:54.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-        "id": "a17"
-      },
-      {
-        "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
-        "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreUl6bkYwNWxydFNxVzVHbFhXNThPZU52WlRJcWpTVG8weEQwdmlLREZZMjljQkppRWNYTVV6VzdzWVphYThVRTFkcUdOd0xfd2JSRER5bWwwSWdsZ0lLNi1jd3dfRWI5YzZ3dmE3dmw4U0hDMk9BbTZxa3E?oc=5",
-        "description": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-16T17:53:48.000Z",
-        "fetchedAt": "2026-10-17T17:33:21.794Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "https://tech-insider.org/",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-        "id": "a19"
-      },
-      {
         "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
         "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
         "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
@@ -586,7 +546,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T17:50:50.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.324Z",
+        "fetchedAt": "2026-10-17T19:43:46.160Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -595,7 +555,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-        "id": "a20"
+        "id": "a18"
       },
       {
         "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -605,7 +565,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-16T16:46:18.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.324Z",
+        "fetchedAt": "2026-10-17T19:43:46.160Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -614,7 +574,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-        "id": "a21"
+        "id": "a19"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -624,7 +584,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-16T07:01:05.000Z",
-        "fetchedAt": "2026-10-17T17:33:18.112Z",
+        "fetchedAt": "2026-10-17T19:43:48.420Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -635,7 +595,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a23"
+        "id": "a21"
       },
       {
         "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -645,7 +605,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-15T14:10:47.000Z",
-        "fetchedAt": "2026-10-17T17:33:19.611Z",
+        "fetchedAt": "2026-10-17T19:43:50.098Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -654,7 +614,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-        "id": "a25"
+        "id": "a23"
       },
       {
         "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -664,7 +624,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T13:00:00.000Z",
-        "fetchedAt": "2026-10-17T17:33:20.197Z",
+        "fetchedAt": "2026-10-17T19:43:50.911Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -673,7 +633,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-        "id": "a26"
+        "id": "a24"
       },
       {
         "title": "China's path to 6G",
@@ -683,7 +643,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-15T05:00:00.000Z",
-        "fetchedAt": "2026-10-17T17:33:20.197Z",
+        "fetchedAt": "2026-10-17T19:43:50.911Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -692,26 +652,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-        "id": "a28"
-      },
-      {
-        "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
-        "url": "https://www.lightreading.com/smartphones-devices/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013-omdia",
-        "description": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026. #pressrelease",
-        "source": "Light Reading",
-        "sourceId": "light-reading",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-14T17:53:07.000Z",
-        "fetchedAt": "2026-10-17T17:33:20.197Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-        "id": "a29"
+        "id": "a26"
       }
     ]
   },
@@ -907,7 +848,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-17T17:33:21.843Z",
+    "generatedAt": "2026-10-17T19:43:53.173Z",
     "date": "2026-10-18",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -917,14 +858,14 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
           "articleIds": [
-            "a2"
+            "a3"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
           "articleIds": [
-            "a23"
+            "a21"
           ],
           "subCategory": "geopolitics-export-controls"
         }
@@ -939,7 +880,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-17T14:00:00.000Z",
-        "fetchedAt": "2026-10-17T17:33:16.956Z",
+        "fetchedAt": "2026-10-17T19:43:46.543Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -951,7 +892,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -961,7 +902,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-16T07:01:05.000Z",
-        "fetchedAt": "2026-10-17T17:33:18.112Z",
+        "fetchedAt": "2026-10-17T19:43:48.420Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -972,7 +913,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a23"
+        "id": "a21"
       }
     ]
   },
@@ -26967,11 +26908,11 @@ export const NEWS_DATA = {
     "totalArticles": 36
   },
   "archive-2026-10-18": {
-    "generatedAt": "2026-10-17T17:33:21.847Z",
+    "generatedAt": "2026-10-17T19:43:53.176Z",
     "date": "2026-10-18",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -26981,14 +26922,14 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
               "articleIds": [
-                "a2"
+                "a3"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
               "articleIds": [
-                "a18"
+                "a17"
               ],
               "subCategory": "semiconductors"
             }
@@ -27003,7 +26944,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-17T14:00:00.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.956Z",
+            "fetchedAt": "2026-10-17T19:43:46.543Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -27015,7 +26956,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
@@ -27025,7 +26966,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T18:10:37.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.442Z",
+            "fetchedAt": "2026-10-17T19:43:46.097Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -27033,7 +26974,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "id": "a18"
+            "id": "a17"
           },
           {
             "title": "Intel vs. Qualcomm: Which Tech Stock Is a Better Buy in 2026?",
@@ -27043,7 +26984,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T12:57:01.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.442Z",
+            "fetchedAt": "2026-10-17T19:43:46.097Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -27051,12 +26992,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's foundry turnaround has resulted in heavy losses and negative free cash flow, while Qualcomm generates robust cash with half the valuation multiple.",
-            "id": "a27"
+            "id": "a25"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -27066,7 +27007,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
               "articleIds": [
-                "a22"
+                "a20"
               ],
               "subCategory": "frand-licensing"
             }
@@ -27081,7 +27022,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-16T07:07:30.000Z",
-            "fetchedAt": "2026-10-17T17:33:20.151Z",
+            "fetchedAt": "2026-10-17T19:43:50.680Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -27089,12 +27030,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-            "id": "a22"
+            "id": "a20"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -27104,7 +27045,7 @@ export const NEWS_DATA = {
             {
               "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
               "articleIds": [
-                "a24"
+                "a22"
               ],
               "subCategory": "on-device-ai"
             }
@@ -27119,7 +27060,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-15T20:23:13.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.442Z",
+            "fetchedAt": "2026-10-17T19:43:46.097Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "on-device-ai",
@@ -27127,20 +27068,20 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-            "id": "a24"
+            "id": "a22"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), Supply Chain (3 articles). A total of 24 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+              "text": "Geopolitics & Export Controls: Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
               "articleIds": [
                 "a1"
               ],
@@ -27149,7 +27090,7 @@ export const NEWS_DATA = {
             {
               "text": "Supply Chain: Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories",
               "articleIds": [
-                "a6"
+                "a7"
               ],
               "subCategory": "supply-chain"
             }
@@ -27157,14 +27098,33 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+            "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+            "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-17T19:35:18.000Z",
+            "fetchedAt": "2026-10-17T19:43:46.160Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+            "id": "a1"
+          },
+          {
             "title": "Israeli settlers attack European diplomats in the West Bank",
             "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
             "description": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
             "source": "Financial Times",
             "sourceId": "ft",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T16:11:59.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.777Z",
+            "publishedAt": "2026-10-17T17:58:01.000Z",
+            "fetchedAt": "2026-10-17T19:43:46.379Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27173,7 +27133,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -27183,7 +27143,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T12:53:53.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.777Z",
+            "fetchedAt": "2026-10-17T19:43:46.379Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27192,7 +27152,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
@@ -27202,7 +27162,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T12:47:37.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.476Z",
+            "fetchedAt": "2026-10-17T19:43:46.306Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27211,7 +27171,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "Taiwan criminalizes AI server smuggling to China with five-year prison terms - news.lavx.hu",
@@ -27221,7 +27181,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T12:40:40.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "news.lavx.hu",
             "geopoliticalBypass": true,
@@ -27231,7 +27191,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan criminalizes AI server smuggling to China with five-year prison terms news.lavx.hu",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "The EV Bust Creating a New Battery Boom",
@@ -27241,7 +27201,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T12:03:32.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.476Z",
+            "fetchedAt": "2026-10-17T19:43:46.306Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27250,7 +27210,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells.",
-            "id": "a6"
+            "id": "a7"
           },
           {
             "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
@@ -27260,7 +27220,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T12:00:11.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "South China Morning Post",
             "geopoliticalBypass": true,
@@ -27270,25 +27230,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-            "id": "a7"
-          },
-          {
-            "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-            "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-            "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-17T10:20:44.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.324Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
             "id": "a8"
           },
           {
@@ -27299,7 +27240,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T09:53:31.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.777Z",
+            "fetchedAt": "2026-10-17T19:43:46.379Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27318,7 +27259,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T09:37:10.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "www.nationpathindia.com",
             "geopoliticalBypass": true,
@@ -27338,7 +27279,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T05:12:30.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "XenoSpectrum",
             "geopoliticalBypass": true,
@@ -27358,7 +27299,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T04:32:20.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "NDTV",
             "geopoliticalBypass": true,
@@ -27378,7 +27319,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T03:03:01.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.442Z",
+            "fetchedAt": "2026-10-17T19:43:46.097Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -27396,7 +27337,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T22:00:29.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "PBS",
             "geopoliticalBypass": true,
@@ -27416,7 +27357,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T20:41:00.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
+            "fetchedAt": "2026-10-17T19:43:53.126Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "EIN News",
             "geopoliticalBypass": true,
@@ -27436,7 +27377,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T20:28:10.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.324Z",
+            "fetchedAt": "2026-10-17T19:43:46.160Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27448,46 +27389,6 @@ export const NEWS_DATA = {
             "id": "a16"
           },
           {
-            "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?oc=5",
-            "description": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T18:21:54.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-            "id": "a17"
-          },
-          {
-            "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreUl6bkYwNWxydFNxVzVHbFhXNThPZU52WlRJcWpTVG8weEQwdmlLREZZMjljQkppRWNYTVV6VzdzWVphYThVRTFkcUdOd0xfd2JSRER5bWwwSWdsZ0lLNi1jd3dfRWI5YzZ3dmE3dmw4U0hDMk9BbTZxa3E?oc=5",
-            "description": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T17:53:48.000Z",
-            "fetchedAt": "2026-10-17T17:33:21.794Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "https://tech-insider.org/",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-            "id": "a19"
-          },
-          {
             "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
             "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
             "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
@@ -27495,7 +27396,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T17:50:50.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.324Z",
+            "fetchedAt": "2026-10-17T19:43:46.160Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27504,7 +27405,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-            "id": "a20"
+            "id": "a18"
           },
           {
             "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -27514,7 +27415,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-16T16:46:18.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.324Z",
+            "fetchedAt": "2026-10-17T19:43:46.160Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27523,7 +27424,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-            "id": "a21"
+            "id": "a19"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -27533,7 +27434,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T17:33:18.112Z",
+            "fetchedAt": "2026-10-17T19:43:48.420Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27544,7 +27445,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a23"
+            "id": "a21"
           },
           {
             "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -27554,7 +27455,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-15T14:10:47.000Z",
-            "fetchedAt": "2026-10-17T17:33:19.611Z",
+            "fetchedAt": "2026-10-17T19:43:50.098Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27563,7 +27464,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-            "id": "a25"
+            "id": "a23"
           },
           {
             "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -27573,7 +27474,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T13:00:00.000Z",
-            "fetchedAt": "2026-10-17T17:33:20.197Z",
+            "fetchedAt": "2026-10-17T19:43:50.911Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27582,7 +27483,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-            "id": "a26"
+            "id": "a24"
           },
           {
             "title": "China's path to 6G",
@@ -27592,7 +27493,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-15T05:00:00.000Z",
-            "fetchedAt": "2026-10-17T17:33:20.197Z",
+            "fetchedAt": "2026-10-17T19:43:50.911Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27601,31 +27502,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-            "id": "a28"
-          },
-          {
-            "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
-            "url": "https://www.lightreading.com/smartphones-devices/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013-omdia",
-            "description": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026. #pressrelease",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-14T17:53:07.000Z",
-            "fetchedAt": "2026-10-17T17:33:20.197Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-            "id": "a29"
+            "id": "a26"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -27636,7 +27518,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-17T17:33:21.843Z",
+        "generatedAt": "2026-10-17T19:43:53.173Z",
         "date": "2026-10-18",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -27646,14 +27528,14 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last ",
               "articleIds": [
-                "a2"
+                "a3"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
               "articleIds": [
-                "a23"
+                "a21"
               ],
               "subCategory": "geopolitics-export-controls"
             }
@@ -27668,7 +27550,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-17T14:00:00.000Z",
-            "fetchedAt": "2026-10-17T17:33:16.956Z",
+            "fetchedAt": "2026-10-17T19:43:46.543Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -27680,7 +27562,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Walter Piecyk, a partner and analyst at LightShed Partners who covers tech, media, and telecom, about SpaceX’s recently announced plan to become a major wireless carrier. Last week, SpaceX agreed to buy a big chunk of low-band spectrum to expand the Starlink network, spectrum that’s been traded around the telecom business for decades now. SpaceX’s ambitious plan is to use that spectrum to help build “the world’s most advanced mobile network.” Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. You can sign up here. Combined with news that the FCC approved the deployment of 15,000 next-gen Starlink satellites and the company’s previous agreement to purchase close to $20 billion worth of EchoStar spectrum last year, it’s now clear SpaceX is serious about competing with AT&T, Verizon, and T-Mobile.",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -27690,7 +27572,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-16T07:01:05.000Z",
-            "fetchedAt": "2026-10-17T17:33:18.112Z",
+            "fetchedAt": "2026-10-17T19:43:48.420Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -27701,12 +27583,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a23"
+            "id": "a21"
           }
         ]
       }
     },
-    "totalArticles": 31
+    "totalArticles": 28
   }
 };
 

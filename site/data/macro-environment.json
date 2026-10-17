@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-17T17:33:21.843Z",
+  "generatedAt": "2026-10-17T19:43:53.173Z",
   "date": "2026-10-18",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (21 articles), Supply Chain (3 articles). A total of 24 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
+        "text": "Geopolitics & Export Controls: Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
         "articleIds": [
           "a1"
         ],
@@ -16,7 +16,7 @@
       {
         "text": "Supply Chain: Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories",
         "articleIds": [
-          "a6"
+          "a7"
         ],
         "subCategory": "supply-chain"
       }
@@ -24,14 +24,33 @@
   },
   "articles": [
     {
+      "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
+      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
+      "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-17T19:35:18.000Z",
+      "fetchedAt": "2026-10-17T19:43:46.160Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
+      "id": "a1"
+    },
+    {
       "title": "Israeli settlers attack European diplomats in the West Bank",
       "url": "https://www.ft.com/content/35a08f82-6830-41fa-83ae-d3765f3970e0",
       "description": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
       "source": "Financial Times",
       "sourceId": "ft",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-17T16:11:59.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.777Z",
+      "publishedAt": "2026-10-17T17:58:01.000Z",
+      "fetchedAt": "2026-10-17T19:43:46.379Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,7 +59,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Belgian foreign minister says his government will ‘press for EU sanctions against those responsible for this violence’",
-      "id": "a1"
+      "id": "a2"
     },
     {
       "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
@@ -50,7 +69,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:53:53.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.777Z",
+      "fetchedAt": "2026-10-17T19:43:46.379Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -59,7 +78,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "President says restrictions only apply in Ukraine and are hampering efforts to intercept Russian attacks",
-      "id": "a3"
+      "id": "a4"
     },
     {
       "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
@@ -69,7 +88,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:47:37.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.476Z",
+      "fetchedAt": "2026-10-17T19:43:46.306Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -78,7 +97,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
-      "id": "a4"
+      "id": "a5"
     },
     {
       "title": "Taiwan criminalizes AI server smuggling to China with five-year prison terms - news.lavx.hu",
@@ -88,7 +107,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:40:40.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "news.lavx.hu",
       "geopoliticalBypass": true,
@@ -98,7 +117,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Taiwan criminalizes AI server smuggling to China with five-year prison terms news.lavx.hu",
-      "id": "a5"
+      "id": "a6"
     },
     {
       "title": "The EV Bust Creating a New Battery Boom",
@@ -108,7 +127,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:03:32.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.476Z",
+      "fetchedAt": "2026-10-17T19:43:46.306Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -117,7 +136,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells.",
-      "id": "a6"
+      "id": "a7"
     },
     {
       "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
@@ -127,7 +146,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:00:11.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "South China Morning Post",
       "geopoliticalBypass": true,
@@ -137,25 +156,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-      "id": "a7"
-    },
-    {
-      "title": "Trump waives broad new Russia sanctions and tariffs under Graham Act, citing national interest",
-      "url": "https://www.cnbc.com/2026/10/17/trump-waives-russia-related-sanctions-tariffs-before-they-take-effect-.html",
-      "description": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-17T10:20:44.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.324Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
       "id": "a8"
     },
     {
@@ -166,7 +166,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T09:53:31.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.777Z",
+      "fetchedAt": "2026-10-17T19:43:46.379Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -185,7 +185,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T09:37:10.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "www.nationpathindia.com",
       "geopoliticalBypass": true,
@@ -205,7 +205,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T05:12:30.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "XenoSpectrum",
       "geopoliticalBypass": true,
@@ -225,7 +225,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T04:32:20.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "NDTV",
       "geopoliticalBypass": true,
@@ -245,7 +245,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T03:03:01.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.442Z",
+      "fetchedAt": "2026-10-17T19:43:46.097Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -263,7 +263,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T22:00:29.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "PBS",
       "geopoliticalBypass": true,
@@ -283,7 +283,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T20:41:00.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
+      "fetchedAt": "2026-10-17T19:43:53.126Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "EIN News",
       "geopoliticalBypass": true,
@@ -303,7 +303,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T20:28:10.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.324Z",
+      "fetchedAt": "2026-10-17T19:43:46.160Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -315,46 +315,6 @@
       "id": "a16"
     },
     {
-      "title": "China pushes back as US lawmaker seeks blacklist of universities and tech labs - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPYkJONHlKenF6VVNjV25ZZXZZZjhVMjFaX0lzVkJaR3dZTG04RlNzMmd3UWlMMkt1bi1kWmI3dGt2VFRFdFVfZXJBWk1RdlZ5aW1WbzRMa3pPQ0ZTaktwS0R4V2JPTFFkVEVkZmxMcG1YQnU0TjZXTlZucVl2VmRndU9wc1U0ZjhmTjJDY2stbUswUGlmLVBUNUZxV1U2dUZIclZCZnh3NlRWWmQxclBJa3JwQ1VNd3QtbUt6UDctRjlQZFpZc19PRHFR0gHKAUFVX3lxTFAydnRjUU9nWWRLNWVQcHpKV1NkY1VLQ0tKUzlwSzluNXljWVowOVFMN3dkQ1pVb0FISnlFbElIdGpyOWszR0NOaGtVbEFlRmRhY3k3M1RIZ3JMM1RRTWFfVXJadm0tNEp4NzVVU0RZeGh2M2xIb2EwM1ZvZmp3cFJ6RTZwVGx3RHRaeUM3blJKQUNybE5BLXlUOWFWdzRGZGVDd19TcTFkSmowQmZnQXN2WHlYbXNtODRPRjhEQ2pxN1ZRYTlMZWFsV3c?oc=5",
-      "description": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-16T18:21:54.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "South China Morning Post",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China pushes back as US lawmaker seeks blacklist of universities and tech labs South China Morning Post",
-      "id": "a17"
-    },
-    {
-      "title": "China Export Controls: 40-Tech Hit List Explained [2026] - https://tech-insider.org/",
-      "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBreUl6bkYwNWxydFNxVzVHbFhXNThPZU52WlRJcWpTVG8weEQwdmlLREZZMjljQkppRWNYTVV6VzdzWVphYThVRTFkcUdOd0xfd2JSRER5bWwwSWdsZ0lLNi1jd3dfRWI5YzZ3dmE3dmw4U0hDMk9BbTZxa3E?oc=5",
-      "description": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-16T17:53:48.000Z",
-      "fetchedAt": "2026-10-17T17:33:21.794Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "https://tech-insider.org/",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Export Controls: 40-Tech Hit List Explained [2026] https://tech-insider.org/",
-      "id": "a19"
-    },
-    {
       "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
       "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
       "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
@@ -362,7 +322,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T17:50:50.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.324Z",
+      "fetchedAt": "2026-10-17T19:43:46.160Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -371,7 +331,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-      "id": "a20"
+      "id": "a18"
     },
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -381,7 +341,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T16:46:18.000Z",
-      "fetchedAt": "2026-10-17T17:33:16.324Z",
+      "fetchedAt": "2026-10-17T19:43:46.160Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -390,7 +350,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "raised market access issues for Mastercard and Citigroup in China during bilateral meetings in Bangkok this week, a U.S. Treasury official says.",
-      "id": "a21"
+      "id": "a19"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -400,7 +360,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-16T07:01:05.000Z",
-      "fetchedAt": "2026-10-17T17:33:18.112Z",
+      "fetchedAt": "2026-10-17T19:43:48.420Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -411,7 +371,7 @@
         "foundry"
       ],
       "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a23"
+      "id": "a21"
     },
     {
       "title": "Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool",
@@ -421,7 +381,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-15T14:10:47.000Z",
-      "fetchedAt": "2026-10-17T17:33:19.611Z",
+      "fetchedAt": "2026-10-17T19:43:50.098Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -430,7 +390,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "From engineering plastics in semiconductor wafer equipment to EUV dry resist precursors, MCG says its vertically integrated portfolio touches nearly every step of chipmaking The post Mitsubishi Chemical Group: The Materials Supplier Hiding Inside the Tool appeared first on Semiconductor Digest.",
-      "id": "a25"
+      "id": "a23"
     },
     {
       "title": "TP-Link pledges $1B US investment amid mounting government resistance",
@@ -440,7 +400,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-15T13:00:00.000Z",
-      "fetchedAt": "2026-10-17T17:33:20.197Z",
+      "fetchedAt": "2026-10-17T19:43:50.911Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -449,7 +409,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "TP-Link's effort to obtain an FCC waiver for a pair of Wi-Fi 8 routers is being stymied by a handful of state-led lawsuits and static from 21 state AGs over cybersecurity concerns and the supplier's purported links to China.",
-      "id": "a26"
+      "id": "a24"
     },
     {
       "title": "China's path to 6G",
@@ -459,7 +419,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-15T05:00:00.000Z",
-      "fetchedAt": "2026-10-17T17:33:20.197Z",
+      "fetchedAt": "2026-10-17T19:43:50.911Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -468,26 +428,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "6G is a key pillar of China's latest five-year plan and while companies have been tight-lipped on their plans, some details are emerging.",
-      "id": "a28"
-    },
-    {
-      "title": "Mainland China smartphone shipments drop to lowest Q3 level since 2013 – Omdia",
-      "url": "https://www.lightreading.com/smartphones-devices/mainland-china-smartphone-shipments-drop-to-lowest-q3-level-since-2013-omdia",
-      "description": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-14T17:53:07.000Z",
-      "fetchedAt": "2026-10-17T17:33:20.197Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Mainland China's smartphone shipments declined 12% YOY to 59.3 million units in 3Q 2026.",
-      "id": "a29"
+      "id": "a26"
     }
   ]
 }
