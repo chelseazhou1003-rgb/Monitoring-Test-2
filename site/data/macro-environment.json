@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-18T19:42:26.148Z",
+  "generatedAt": "2026-10-18T21:56:10.607Z",
   "date": "2026-10-19",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (1 article), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (1 article), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: General Ronald Clark looks to build up deterrence in region amid concerns about China’s ambitions",
@@ -23,7 +23,7 @@
       {
         "text": "Supply Chain: Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean ",
         "articleIds": [
-          "a18"
+          "a17"
         ],
         "subCategory": "supply-chain"
       }
@@ -38,7 +38,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T19:00:01.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.642Z",
+      "fetchedAt": "2026-10-18T21:56:04.432Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -57,7 +57,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T16:00:00.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.641Z",
+      "fetchedAt": "2026-10-18T21:56:04.432Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -76,7 +76,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T13:52:24.000Z",
-      "fetchedAt": "2026-10-18T19:42:17.956Z",
+      "fetchedAt": "2026-10-18T21:56:04.128Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -95,7 +95,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T12:12:41.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.024Z",
+      "fetchedAt": "2026-10-18T21:56:04.174Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -113,7 +113,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T11:03:00.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Global Times",
       "section": "macro-environment",
@@ -132,7 +132,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T10:21:47.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Cybernews",
       "geopoliticalBypass": true,
@@ -152,7 +152,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T07:32:48.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Dealroom",
       "geopoliticalBypass": true,
@@ -172,7 +172,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T06:22:00.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "AOL.ca",
       "geopoliticalBypass": true,
@@ -192,7 +192,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T05:15:26.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "geopoliticalBypass": true,
@@ -212,7 +212,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T04:25:53.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.235Z",
+      "fetchedAt": "2026-10-18T21:56:04.287Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -224,25 +224,6 @@
       "id": "a11"
     },
     {
-      "title": "Global economy set for AI-driven surge, FT survey suggests",
-      "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
-      "description": "Poll of 94 economists points to benefits reaching far beyond the US and China",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-18T04:00:09.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.642Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
-      "id": "a12"
-    },
-    {
       "title": "China proposes export curbs on AI, chip and solar technologies - United News of Bangladesh",
       "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWpOdmtYMnVJSGtqWXcyZ2NiOWo1VGtmMkFBN0JVV29aY2ZpajBia0VBZThZZDQ1eHl2WFJXZE9pYjVvRERyS1M2TnVjMnBOUFRhQzZqN0ZZb1hNTGVRTDlkS18xdXJOZW1sclR6VVRqbkw4ZXhYTGp5Qjl1TmlIYzJGWUdCYTgzNTFzWWVxOVFIb2dNejIycXl1aXpWZXV0VlFr?oc=5",
       "description": "China proposes export curbs on AI, chip and solar technologies United News of Bangladesh",
@@ -250,7 +231,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T03:47:56.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "United News of Bangladesh",
       "geopoliticalBypass": true,
@@ -260,7 +241,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China proposes export curbs on AI, chip and solar technologies United News of Bangladesh",
-      "id": "a13"
+      "id": "a12"
     },
     {
       "title": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems - Vision Times",
@@ -270,7 +251,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T00:58:12.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Vision Times",
       "geopoliticalBypass": true,
@@ -280,7 +261,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems Vision Times",
-      "id": "a14"
+      "id": "a13"
     },
     {
       "title": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion - news.sbs.co.kr",
@@ -290,7 +271,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T00:05:00.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "news.sbs.co.kr",
       "geopoliticalBypass": true,
@@ -300,7 +281,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion news.sbs.co.kr",
-      "id": "a15"
+      "id": "a14"
     },
     {
       "title": "China moves to curb tech exports, including AI, citing national security - Qatar Tribune",
@@ -310,7 +291,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T23:11:39.000Z",
-      "fetchedAt": "2026-10-18T19:42:26.113Z",
+      "fetchedAt": "2026-10-18T21:56:10.583Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Qatar Tribune",
       "geopoliticalBypass": true,
@@ -320,7 +301,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China moves to curb tech exports, including AI, citing national security Qatar Tribune",
-      "id": "a16"
+      "id": "a15"
     },
     {
       "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
@@ -330,7 +311,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:47:37.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.235Z",
+      "fetchedAt": "2026-10-18T21:56:04.287Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -339,7 +320,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
-      "id": "a17"
+      "id": "a16"
     },
     {
       "title": "Should You Buy Qualcomm Stock For Its Cash?",
@@ -349,7 +330,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T03:03:01.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.024Z",
+      "fetchedAt": "2026-10-18T21:56:04.174Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -357,7 +338,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-      "id": "a18"
+      "id": "a17"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -367,7 +348,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-16T07:01:05.000Z",
-      "fetchedAt": "2026-10-18T19:42:19.750Z",
+      "fetchedAt": "2026-10-18T21:56:05.572Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -378,7 +359,7 @@
         "foundry"
       ],
       "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a21"
+      "id": "a20"
     }
   ]
 }

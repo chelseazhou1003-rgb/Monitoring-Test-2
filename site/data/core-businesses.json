@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T19:42:26.148Z",
+  "generatedAt": "2026-10-18T21:56:10.607Z",
   "date": "2026-10-19",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
         "articleIds": [
-          "a19"
+          "a18"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T18:10:37.000Z",
-      "fetchedAt": "2026-10-18T19:42:18.024Z",
+      "fetchedAt": "2026-10-18T21:56:04.174Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-      "id": "a19"
+      "id": "a18"
     }
   ]
 }
