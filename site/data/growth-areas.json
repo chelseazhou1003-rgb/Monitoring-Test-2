@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:11:13.790Z",
+  "generatedAt": "2026-10-18T09:55:37.360Z",
   "date": "2026-10-18",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T20:23:13.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.529Z",
+      "fetchedAt": "2026-10-18T09:55:30.269Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",

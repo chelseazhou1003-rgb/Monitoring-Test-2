@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:11:13.790Z",
+  "generatedAt": "2026-10-18T09:55:37.360Z",
   "date": "2026-10-18",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-16T07:07:30.000Z",
-      "fetchedAt": "2026-10-18T05:11:11.939Z",
+      "fetchedAt": "2026-10-18T09:55:35.718Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",

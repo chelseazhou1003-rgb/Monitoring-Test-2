@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T05:11:13.790Z",
+  "generatedAt": "2026-10-18T09:55:37.360Z",
   "date": "2026-10-18",
   "section": "macro-environment",
   "sectionTitle": "Macro",
@@ -7,7 +7,7 @@
     "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Poll of 94 economists points to benefits reaching far beyond the US and China",
+        "text": "Geopolitics & Export Controls: Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub Dealroom",
         "articleIds": [
           "a1"
         ],
@@ -16,13 +16,72 @@
       {
         "text": "Supply Chain: Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories",
         "articleIds": [
-          "a11"
+          "a14"
         ],
         "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub - Dealroom",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlhEOUxVM21qbFFEZFktZi1mbG0zRkY5N19TODA2Ynd1ZEgtUl9LYk1SdkFnNVBvV2VKT1RSQlpkWWIydWFHYS05U1dKRjZ1anNHZ0dpVVdKbGV6WURJSDNDM2RUX2dWeV9qMS05U3FCOVFVVERiUVNLT1RZTXJXMldldDFXTmJsRGtNWnRNU0IxbVkxaXNrOW42eUt4VXRBNk82SkdoR0Y?oc=5",
+      "description": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub Dealroom",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-18T07:32:48.000Z",
+      "fetchedAt": "2026-10-18T09:55:37.322Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Dealroom",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub Dealroom",
+      "id": "a1"
+    },
+    {
+      "title": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors - 조선일보",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzhQZzZqNWtGc2lDblhhczgzdVBEaUotckNKbGNyREt1NmZJelAxb0VkVFhLb0t1OVJaQjhDMHlrRVAwRlNxZnZHTGFic294NFgzUm4ycGpqVUdoQWoyZ2NPb1o1a2dpd0I2bXBsVW9hdnFrRUNqZmVmbG5lWDlzb0c2Y3ota2dH?oc=5",
+      "description": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors 조선일보",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-18T05:15:26.000Z",
+      "fetchedAt": "2026-10-18T09:55:37.322Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "조선일보",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors 조선일보",
+      "id": "a2"
+    },
+    {
+      "title": "PBOC Deputy Urges Private Role in Sovereign Debt Restructuring",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-18/pboc-deputy-urges-private-role-in-sovereign-debt-restructuring",
+      "description": "China’s deputy central bank governor Xuan Changneng called for greater private-sector participation in sovereign debt restructuring as rising borrowing costs add to developing countries’ debt-servicing burdens.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-18T04:25:53.000Z",
+      "fetchedAt": "2026-10-18T09:55:30.718Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s deputy central bank governor Xuan Changneng called for greater private-sector participation in sovereign debt restructuring as rising borrowing costs add to developing countries’ debt-servicing burdens.",
+      "id": "a3"
+    },
     {
       "title": "Global economy set for AI-driven surge, FT survey suggests",
       "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
@@ -31,7 +90,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T04:00:09.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.785Z",
+      "fetchedAt": "2026-10-18T09:55:30.701Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -40,7 +99,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "China proposes export curbs on AI, chip and solar technologies - United News of Bangladesh",
@@ -50,7 +109,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T03:47:56.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.323Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "United News of Bangladesh",
       "geopoliticalBypass": true,
@@ -60,17 +119,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China proposes export curbs on AI, chip and solar technologies United News of Bangladesh",
-      "id": "a2"
+      "id": "a5"
     },
     {
-      "title": "Zelenskyy says Starlink speed limits in Ukraine are a ‘planned operation’",
+      "title": "Zelenskyy says Starlink speed limits are ‘planned operation’",
       "url": "https://www.ft.com/content/e26723df-9076-416c-957a-7fa3bd00b4d7?syn-25a6b1a6=1",
       "description": "Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks",
       "source": "Financial Times",
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T02:35:14.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.785Z",
+      "fetchedAt": "2026-10-18T09:55:30.701Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -79,7 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ukraine’s president says restrictions are hampering efforts to intercept Russian attacks",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems - Vision Times",
@@ -89,7 +148,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T00:58:12.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.323Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Vision Times",
       "geopoliticalBypass": true,
@@ -99,7 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems Vision Times",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion - news.sbs.co.kr",
@@ -109,7 +168,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T00:05:00.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.322Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "news.sbs.co.kr",
       "geopoliticalBypass": true,
@@ -119,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion news.sbs.co.kr",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "Trump waives broad new Russia sanctions, Zelenskyy condemns it as 'wrong'",
@@ -129,7 +188,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T19:35:18.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.478Z",
+      "fetchedAt": "2026-10-18T09:55:30.153Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -138,7 +197,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump signed the Graham Bill, which targeted Russia over its invasion of Ukraine, into law in September.",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
@@ -148,7 +207,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:47:37.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.579Z",
+      "fetchedAt": "2026-10-18T09:55:30.718Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -157,7 +216,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Taiwan criminalizes AI server smuggling to China with five-year prison terms - news.lavx.hu",
@@ -167,7 +226,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:40:40.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.323Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "news.lavx.hu",
       "geopoliticalBypass": true,
@@ -177,7 +236,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Taiwan criminalizes AI server smuggling to China with five-year prison terms news.lavx.hu",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan - 24/7 Wall St.",
@@ -187,7 +246,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:20:00.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.322Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "24/7 Wall St.",
       "geopoliticalBypass": true,
@@ -197,7 +256,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Smuggling Nvidia Chips Into China Is About to Become a Crime in Taiwan 24/7 Wall St.",
-      "id": "a10"
+      "id": "a13"
     },
     {
       "title": "The EV Bust Creating a New Battery Boom",
@@ -207,7 +266,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:03:32.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.580Z",
+      "fetchedAt": "2026-10-18T09:55:30.718Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -216,17 +275,17 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Factories built to supply America’s electric-vehicle boom are getting a second life making batteries for the power grid. As EV demand weakens and electricity demand from data centers and new factories strengthens, battery makers are shifting toward stationary storage, but the new market still relies on federal incentives and a supply chain that remains partly dependent on China. The shift is visible at TransGrid’s Atlas projects in Arizona, where the contractor Qcells is using LG Energy Solution’s US-made battery cells.",
-      "id": "a11"
+      "id": "a14"
     },
     {
       "title": "What will China’s proposed AI tech export bans mean for open-weight technologies? - South China Morning Post",
-      "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPcDc5d0xRMTZFZEVTR2F0aDdyemE4eWVPd0FXNXBYR3RpLXgyM04wb1BuX1VsaHhpZU5RUVpPZEpPMXVZWHBVVzAzU0lyTDhnYmNSeUhzZldyaWxsbmV1LVpjWHgybFREeXhKbVR5UmdlLURWakhRSWtMSng0Y3ZaVlBWay1LdUJ2ODhBWm96Nld3TnFlbWx2VDAxT05pMmo5M1FWbE44RnNnSEdTX29VMUZlSDh2MVZRWGt3OFp2MzJnY0JSQWNUZkVWSFZPN1AyVlF1ZmhEQ3ZWRER5eUF2RmZ2S0dHQ2drRVdMMkg5WTFVdmlMOUU2Ml9KdTNFZjg3THc?oc=5",
+      "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxObGloOXVBdlJIZENwUElJMDJzRVM1Vkl5c1lvOHB5bXk0X0F5TFFyZjZ3NmY3cTd5MjBJNGVjRmlIMUdmY1ZOSnJiQWp2Qlp1dllqRHV6LVNZNlByVjN1R0RRV1pzOFhwY3JQREhCTkZRdmkyamZvMlhFMEx0MmVOOUZIMUgtemRfQk9BbXJEakp0VnBmWi12aEpRMENSclJEVDc3NFBNU1BybEJ2aWFCa09fZTZnVVl0aG9MMExWc05iYnFqLWlNZUhpZEJpMG1UMXZLYnZHSFFwc2x3SW9RQnJGdklXbTFkV2tGN2FUU3dOSTE2cDBlRk1GaTh3QQ?oc=5",
       "description": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T12:00:11.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.322Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "South China Morning Post",
       "geopoliticalBypass": true,
@@ -236,7 +295,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "What will China’s proposed AI tech export bans mean for open-weight technologies? South China Morning Post",
-      "id": "a12"
+      "id": "a15"
     },
     {
       "title": "China moves to curb tech exports, including AI, citing national security risks - 毎日新聞",
@@ -246,7 +305,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T10:01:51.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
+      "fetchedAt": "2026-10-18T09:55:37.323Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "毎日新聞",
       "geopoliticalBypass": true,
@@ -256,47 +315,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China moves to curb tech exports, including AI, citing national security risks 毎日新聞",
-      "id": "a13"
-    },
-    {
-      "title": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry - www.nationpathindia.com",
-      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNMGhaMjBxaUlORXgyd3gzNWdnVlJ1cWhvMURpWUIxLXdxUm5UMHhRSnRFYlQ5UXJKczBTM2ZDWFA2b2hzdjRZTk9PaFVnc1RmRy1va0xPOUpjaGV2Y1FfSHpaQXJyMFZROGhWSVpiSjFVeWpQbXR6NnB5cDFIYXczbV9DMkIxdkVCemxhVzQxNUZwQQ?oc=5",
-      "description": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry www.nationpathindia.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-17T09:37:10.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "www.nationpathindia.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Proposes New Export Controls on AI Models and Chip Technologies Amid US Rivalry www.nationpathindia.com",
-      "id": "a14"
-    },
-    {
-      "title": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment - XenoSpectrum",
-      "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPc0pvaERDdHF5VU9UOERpbUgxQXRCSnljNWExUlhsaWlra3QxOWdlNzluWVQ3aFhvMlN1UmNhLVpuUnZKZE5NOXB4ZHFEMFVVbWZYQkJOSld0R1l0eGpGVWRIM3p6M01VSEpHMmxWa0dMRWtYRkxOTENhRnd3Q3JCZg?oc=5",
-      "description": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment XenoSpectrum",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-17T05:12:30.000Z",
-      "fetchedAt": "2026-10-18T05:11:13.756Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "XenoSpectrum",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Proposes Export Controls on 40 Technologies, Treating AI API Access Differently From Overseas Deployment XenoSpectrum",
-      "id": "a15"
+      "id": "a16"
     },
     {
       "title": "Should You Buy Qualcomm Stock For Its Cash?",
@@ -306,7 +325,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-17T03:03:01.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.529Z",
+      "fetchedAt": "2026-10-18T09:55:30.269Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -314,7 +333,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-      "id": "a16"
+      "id": "a17"
     },
     {
       "title": "Trump says White House didn't order Starlink restrictions in Ukraine",
@@ -324,7 +343,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T20:28:10.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.478Z",
+      "fetchedAt": "2026-10-18T09:55:30.153Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -333,26 +352,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ukrainian officials complained this week that SpaceX had limited internet connectivity without advance notice.",
-      "id": "a17"
-    },
-    {
-      "title": "NBA tightens betting rules, develops AI to flag suspicious wagers",
-      "url": "https://www.cnbc.com/2026/10/16/nba-tightens-betting-rules-develops-ai-to-flag-suspicious-wagers.html",
-      "description": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-16T17:50:50.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.478Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The NBA is tightening restrictions on bets and deploying AI to help identify suspicious wagering, according to two documents obtained by CNBC.",
-      "id": "a19"
+      "id": "a18"
     },
     {
       "title": "U.S. presses China on Mastercard, Citigroup market access in bilateral Bangkok talks, official says",
@@ -362,7 +362,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-16T16:46:18.000Z",
-      "fetchedAt": "2026-10-18T05:11:06.478Z",
+      "fetchedAt": "2026-10-18T09:55:30.153Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -381,7 +381,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-16T07:01:05.000Z",
-      "fetchedAt": "2026-10-18T05:11:07.933Z",
+      "fetchedAt": "2026-10-18T09:55:31.734Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -402,7 +402,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-15T14:10:47.000Z",
-      "fetchedAt": "2026-10-18T05:11:10.244Z",
+      "fetchedAt": "2026-10-18T09:55:35.248Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -421,7 +421,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-15T13:00:00.000Z",
-      "fetchedAt": "2026-10-18T05:11:12.096Z",
+      "fetchedAt": "2026-10-18T09:55:35.700Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
