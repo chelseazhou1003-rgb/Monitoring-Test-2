@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-18T14:10:08.149Z",
-  "date": "2026-10-18",
+  "generatedAt": "2026-10-18T17:34:21.913Z",
+  "date": "2026-10-19",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
@@ -9,7 +9,7 @@
       {
         "text": "FRAND & Licensing: Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding lega",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "frand-licensing"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T13:13:10.000Z",
-      "fetchedAt": "2026-10-18T14:10:02.515Z",
+      "fetchedAt": "2026-10-18T17:34:15.597Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
@@ -42,7 +42,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-16T07:07:30.000Z",
-      "fetchedAt": "2026-10-18T14:10:06.561Z",
+      "fetchedAt": "2026-10-18T17:34:20.135Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
-      "id": "a21"
+      "id": "a18"
     }
   ]
 }

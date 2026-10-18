@@ -1,0 +1,536 @@
+{
+  "generatedAt": "2026-10-18T17:34:21.915Z",
+  "date": "2026-10-19",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next",
+        "keyTakeaways": [
+          {
+            "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
+            "articleIds": [
+              "a17"
+            ],
+            "subCategory": "semiconductors"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+          "url": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
+          "description": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-16T18:10:37.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.597Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
+          "id": "a17"
+        }
+      ]
+    },
+    "ip-legal": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles). A total of 2 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "FRAND & Licensing: Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding lega",
+            "articleIds": [
+              "a3"
+            ],
+            "subCategory": "frand-licensing"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-verdict-risk-grows-131310835.html?.tsrc=rss",
+          "description": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T13:13:10.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.597Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "frand-licensing",
+          "subLabel": "FRAND & Licensing",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
+          "id": "a3"
+        },
+        {
+          "title": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
+          "url": "https://ipfray.com/qualcomm-transsion-sign-license-deal-through-end-of-2031-4g-5g-devices-now-all-covered-by-single-contract/",
+          "description": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
+          "source": "IP Fray",
+          "sourceId": "ip-fray",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-10-16T07:07:30.000Z",
+          "fetchedAt": "2026-10-18T17:34:20.135Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "frand-licensing",
+          "subLabel": "FRAND & Licensing",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to consolidate both contracts into one.",
+          "id": "a18"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "One article today covering On-Device AI / Edge AI. Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Q",
+        "keyTakeaways": [
+          {
+            "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
+            "articleIds": [
+              "a20"
+            ],
+            "subCategory": "on-device-ai"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm (QCOM) Unveils First AI Native Wi Fi 8 Gateway For Home Broadband",
+          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-unveils-first-ai-202313896.html?.tsrc=rss",
+          "description": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-15T20:23:13.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.597Z",
+          "fetchStrategy": "rss",
+          "section": "growth-areas",
+          "subCategory": "on-device-ai",
+          "subLabel": "On-Device AI / Edge AI",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
+          "id": "a20"
+        }
+      ]
+    },
+    "macro-environment": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (1 article), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+            "articleIds": [
+              "a1"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
+          {
+            "text": "market-performance: Arm Holdings (NasdaqGS:ARM) is in focus after a jury concluded it breached a long running architectural license agreement with Qualcomm and acted to disrupt Qualcomm’s business, raising fresh question",
+            "articleIds": [
+              "a4"
+            ],
+            "subCategory": "market-performance"
+          },
+          {
+            "text": "Supply Chain: Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean ",
+            "articleIds": [
+              "a16"
+            ],
+            "subCategory": "supply-chain"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "US threatens Europe over Starlink restrictions",
+          "url": "https://www.ft.com/content/d1e28d93-8574-4a46-946a-b261c401d6fa?syn-25a6b1a6=1",
+          "description": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+          "source": "Financial Times",
+          "sourceId": "ft",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T16:00:00.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.923Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Ambassador Andrew Puzder warns about ‘devastating’ retaliation if Brussels goes ahead with plans to limit spectrum access for non-EU companies",
+          "id": "a1"
+        },
+        {
+          "title": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
+          "url": "https://www.cnbc.com/2026/10/18/iran-us-war-rezaei-operational-plan-shipping-attacks.html",
+          "description": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T13:52:24.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.432Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Mohsen Rezaei, secretary of Iran's Supreme National Security Council, said the country's military has prepared a response to any new attacks.",
+          "id": "a2"
+        },
+        {
+          "title": "Arm Holdings (ARM) Faces License Breach Questions, Is The Valuation Still Too Rich?",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-faces-license-121241044.html?.tsrc=rss",
+          "description": "Arm Holdings (NasdaqGS:ARM) is in focus after a jury concluded it breached a long running architectural license agreement with Qualcomm and acted to disrupt Qualcomm’s business, raising fresh questions for investors. Arm Holdings shares have swung sharply, with the price down 6.94% over the past day and 17.35% over 30 days, yet still showing a 98.55% year to date share price return and a 3 year total shareholder return of about 7x. Recent volatility has picked up as investors weigh the jury’s...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T12:12:41.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.597Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Arm Holdings (NasdaqGS:ARM) is in focus after a jury concluded it breached a long running architectural license agreement with Qualcomm and acted to disrupt Qualcomm’s business, raising fresh questions for investors. Arm Holdings shares have swung sharply, with the price down 6.94% over the past day and 17.35% over 30 days, yet still showing a 98.55% year to date share price return and a 3 year total shareholder return of about 7x. Recent volatility has picked up as investors weigh the jury’s...",
+          "id": "a4"
+        },
+        {
+          "title": "Qualcomm seeks deeper AI cooperation with China, citing its strengths in tech commercialization - Global Times",
+          "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9pVExrU0gtMExCbC1CZldQMkh6bGo3T3NzZHEzU1plX1c4VjlLNVluSjB4QmxsUnA2MlgtdW83YWxGbVNCZ0hwZlR2QkxfYy0yYk5mSV9oOEw3dklrTEhYSW5B?oc=5",
+          "description": "Qualcomm seeks deeper AI cooperation with China, citing its strengths in tech commercialization Global Times",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T11:03:00.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Global Times",
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm seeks deeper AI cooperation with China, citing its strengths in tech commercialization Global Times",
+          "id": "a5"
+        },
+        {
+          "title": "China moves to tighten controls on AI exports, citing national security risks - Cybernews",
+          "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPbFpOSUIyS1BQMkZVd19sbWVObklIcWY1MWt3Nzg3U2R3VV9aZ0hiZ19jblRabkVZVmpuNm5fNkd0b3BDLWZOTkc3SVlGemxpQnRocmtiZXVMVzNSM3RodGpSZmVCTFNyRVduRWk1eTFQdGxwYlFyT3JKWWU5N0xSTTVn?oc=5",
+          "description": "China moves to tighten controls on AI exports, citing national security risks Cybernews",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T10:21:47.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Cybernews",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China moves to tighten controls on AI exports, citing national security risks Cybernews",
+          "id": "a6"
+        },
+        {
+          "title": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub - Dealroom",
+          "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdlhEOUxVM21qbFFEZFktZi1mbG0zRkY5N19TODA2Ynd1ZEgtUl9LYk1SdkFnNVBvV2VKT1RSQlpkWWIydWFHYS05U1dKRjZ1anNHZ0dpVVdKbGV6WURJSDNDM2RUX2dWeV9qMS05U3FCOVFVVERiUVNLT1RZTXJXMldldDFXTmJsRGtNWnRNU0IxbVkxaXNrOW42eUt4VXRBNk82SkdoR0Y?oc=5",
+          "description": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub Dealroom",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T07:32:48.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Dealroom",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub Dealroom",
+          "id": "a7"
+        },
+        {
+          "title": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQbzhQZzZqNWtGc2lDblhhczgzdVBEaUotckNKbGNyREt1NmZJelAxb0VkVFhLb0t1OVJaQjhDMHlrRVAwRlNxZnZHTGFic294NFgzUm4ycGpqVUdoQWoyZ2NPb1o1a2dpd0I2bXBsVW9hdnFrRUNqZmVmbG5lWDlzb0c2Y3ota2dH?oc=5",
+          "description": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors 조선일보",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T05:15:26.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "조선일보",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "U.S.-China AI Competition Expands to Model Control Beyond Semiconductors 조선일보",
+          "id": "a8"
+        },
+        {
+          "title": "PBOC Deputy Urges Private Role in Sovereign Debt Restructuring",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-18/pboc-deputy-urges-private-role-in-sovereign-debt-restructuring",
+          "description": "China’s deputy central bank governor Xuan Changneng called for greater private-sector participation in sovereign debt restructuring as rising borrowing costs add to developing countries’ debt-servicing burdens.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T04:25:53.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.648Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China’s deputy central bank governor Xuan Changneng called for greater private-sector participation in sovereign debt restructuring as rising borrowing costs add to developing countries’ debt-servicing burdens.",
+          "id": "a9"
+        },
+        {
+          "title": "Global economy set for AI-driven surge, FT survey suggests",
+          "url": "https://www.ft.com/content/c6aeb3a1-1874-4947-8ffc-4d993301244a?syn-25a6b1a6=1",
+          "description": "Poll of 94 economists points to benefits reaching far beyond the US and China",
+          "source": "Financial Times",
+          "sourceId": "ft",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T04:00:09.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.923Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Poll of 94 economists points to benefits reaching far beyond the US and China",
+          "id": "a10"
+        },
+        {
+          "title": "China proposes export curbs on AI, chip and solar technologies - United News of Bangladesh",
+          "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNOWpOdmtYMnVJSGtqWXcyZ2NiOWo1VGtmMkFBN0JVV29aY2ZpajBia0VBZThZZDQ1eHl2WFJXZE9pYjVvRERyS1M2TnVjMnBOUFRhQzZqN0ZZb1hNTGVRTDlkS18xdXJOZW1sclR6VVRqbkw4ZXhYTGp5Qjl1TmlIYzJGWUdCYTgzNTFzWWVxOVFIb2dNejIycXl1aXpWZXV0VlFr?oc=5",
+          "description": "China proposes export curbs on AI, chip and solar technologies United News of Bangladesh",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T03:47:56.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "United News of Bangladesh",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China proposes export curbs on AI, chip and solar technologies United News of Bangladesh",
+          "id": "a11"
+        },
+        {
+          "title": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems - Vision Times",
+          "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQcE5JMnpaZEx4Z1VZdWxHQ0RhYWpEOVdDZnYweXBMNjh5c0JjT2t4enNIbXpDRnJLNG92bEFjZ1ZaOHdBRWxXLW84a2xrNXVkU3E1U0w1blNIOElaQ25kMmhWMVYtNmNUR3phM05KQlF4R2t3RGRjQVlicmNaLW12X1Q4bl8wTnZsTXQyZ2dBV3JySzI3MG5HclBPTzFIWTRCWTIzUVl0eGRtTjk2X1Mxdkd6alo1RDcweVVYT3V0cXpEV2N2ZTZucGtzZHJxLWdHN0F2WmFjZ0J5THNjOWhoLTFRVHQwd2ltZ09BNURSeHRXWDJZT252QzBWWGVZQVgt?oc=5",
+          "description": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems Vision Times",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T00:58:12.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.893Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Vision Times",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China Proposes Export-Control Revisions for 23 AI Technologies to Further Secure Critical Infrastructure and Government Systems Vision Times",
+          "id": "a12"
+        },
+        {
+          "title": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion - news.sbs.co.kr",
+          "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9hRkxPcHFXSGluZm9YdUsyZ0oyWDNqSkV5OW1JY216aTgwY0NKSGR3VGN3ZGdaOUk5c2JmamczbmNWRTBSOVd0OGJXaVBqbEtOQTFTR19sd2NNZUJnVGVCRUhocDBrZw?oc=5",
+          "description": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion news.sbs.co.kr",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-18T00:05:00.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "news.sbs.co.kr",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Decoupling Deepens: Gangnam Stabilizes While Other Regions Surge One Year After Land Transaction Permit Expansion news.sbs.co.kr",
+          "id": "a13"
+        },
+        {
+          "title": "China moves to curb tech exports, including AI, citing national security - Qatar Tribune",
+          "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOd1lERndzQWRzMXlJdE53MkdKWk90N3JCNGtobEItREpQZGFRel8xSnhzR0x3Znh6cmZ6YjZxNmZpbEgtSUZVWnJ6UUozVUNGb2gxamRkM1VZSEhkZG96VFpoSUxkaU1FODk4SnRXN1Q5V2xTLTNtOF82NjQzWEhNVkJuT05vUWNxOFo4bXVIZHNhNFNNM3RaS09lcHpkTjkwV2F2MHN5RktrVExNQVY1Rl92OThIUzB1ZWF3bkdFRjJSQdIBxwFBVV95cUxOd3l1Q25MSTRIX3gyRy1YWm9KVFU4MU1ZeXlBU1BWN0laNkVLS0JQTlZlMktxemEzU29ncE9ieEJMZVlWbmMtQTNheW5pWllJUHpITjk3N0k3NG1MVmd6cFBhSkpDMUxaTkQwOHd6d2FUd1pOckF5dVlZeHpZNjJ6Q0ptTER1SUQ3SzF0aGdTbmJWMFhOaXJxVGpLbGxOb25UZWtwcXNhV2VURlhUU0w1cWNsQ0g2S29yRG1ZY3l4SVRQb0ZEUjRF?oc=5",
+          "description": "China moves to curb tech exports, including AI, citing national security Qatar Tribune",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-17T23:11:39.000Z",
+          "fetchedAt": "2026-10-18T17:34:21.892Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Qatar Tribune",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China moves to curb tech exports, including AI, citing national security Qatar Tribune",
+          "id": "a14"
+        },
+        {
+          "title": "Zelenskyy Says Starlink Speed Restrictions Look Deliberate",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-17/zelenskyy-says-starlink-restrictions-on-ukraine-look-deliberate",
+          "description": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-17T12:47:37.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.648Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Restrictions on Ukraine’s military use of SpaceX’s Starlink system appear to be deliberate and not the result of any technical problems, President Volodymyr Zelenskyy said, while denouncing a US decision to waive sanctions against Russia.",
+          "id": "a15"
+        },
+        {
+          "title": "Should You Buy Qualcomm Stock For Its Cash?",
+          "url": "https://www.trefis.com/articles/618987/should-you-buy-qualcomm-stock-for-its-cash/2026-10-16?.tsrc=rss",
+          "description": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-17T03:03:01.000Z",
+          "fetchedAt": "2026-10-18T17:34:15.597Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "supply-chain",
+          "subLabel": "Supply Chain",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
+          "id": "a16"
+        },
+        {
+          "title": "Chip Industry Week In Review",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
+          "description": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "source": "Semiconductor Engineering",
+          "sourceId": "semiconductor-engineering",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-10-16T07:01:05.000Z",
+          "fetchedAt": "2026-10-18T17:34:17.112Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [
+            "foundry"
+          ],
+          "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "id": "a19"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "stakeholders": {
+      "generatedAt": "2026-10-18T17:34:21.913Z",
+      "date": "2026-10-19",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "One article today covering Geopolitics & Export Controls. Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm ",
+        "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
+            "articleIds": [
+              "a19"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Chip Industry Week In Review",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-160/",
+          "description": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "source": "Semiconductor Engineering",
+          "sourceId": "semiconductor-engineering",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-10-16T07:01:05.000Z",
+          "fetchedAt": "2026-10-18T17:34:17.112Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [
+            "foundry"
+          ],
+          "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "id": "a19"
+        }
+      ]
+    }
+  },
+  "totalArticles": 21
+}
