@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T00:25:23.137Z",
+  "generatedAt": "2026-10-18T05:11:13.790Z",
   "date": "2026-10-18",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "On-Device AI / Edge AI: Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next gener",
         "articleIds": [
-          "a22"
+          "a23"
         ],
         "subCategory": "on-device-ai"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-15T20:23:13.000Z",
-      "fetchedAt": "2026-10-18T00:25:12.456Z",
+      "fetchedAt": "2026-10-18T05:11:06.529Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "on-device-ai",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) and broadband partners announced the world's first AI native Wi Fi 8 gateway for home networks. The new gateway is built on Qualcomm's latest platform that combines next generation Wi Fi 8 connectivity with on device edge AI compute. The product targets residential broadband providers looking to add agentic AI services directly in the home rather than relying only on cloud compute. The launch of this AI powered Wi Fi 8 gateway marks a push by Qualcomm to expand into...",
-      "id": "a22"
+      "id": "a23"
     }
   ]
 }
