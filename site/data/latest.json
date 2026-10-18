@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-18T09:55:37.362Z",
+  "generatedAt": "2026-10-18T14:10:08.151Z",
   "date": "2026-10-18",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 3,
-      "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
+      "topHeadlineId": "a19",
+      "briefingSummary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next"
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm, Transsion sign license deal through end  of 2031: 4G, 5G devices now all covered by single contract",
-      "topHeadlineId": "a21",
-      "briefingSummary": "One article today covering FRAND & Licensing. Qualcomm and Transsion not only renewed one of their two existing license agreements through the end of 2031, but also seized the opportunity to conso"
+      "articleCount": 2,
+      "topHeadline": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 21,
-      "topHeadline": "Taiwan to criminalise AI chip smuggling to China, plans $4B US supply hub - Dealroom",
+      "articleCount": 20,
+      "topHeadline": "Iran says it has a 'new operational plan' if the U.S. resumes attacks, as shipping vessels report strikes",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (3 articles). A total of 21 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (2 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "SpaceX’s ambitious, expensive gamble to replace AT&#038;T, T-Mobile, and Verizon",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Chip Industry Week In Review",
+      "topHeadlineId": "a22",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm "
     }
   },
-  "totalArticles": 28
+  "totalArticles": 25
 }
