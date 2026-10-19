@@ -1,21 +1,46 @@
 {
-  "generatedAt": "2026-10-19T11:18:17.240Z",
-  "date": "2026-10-19",
+  "generatedAt": "2026-10-19T17:47:28.697Z",
+  "date": "2026-10-20",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering FRAND & Licensing. Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intent",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "patent-litigation"
+      },
       {
         "text": "FRAND & Licensing: Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding lega",
         "articleIds": [
-          "a10"
+          "a24"
         ],
         "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+      "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
+      "description": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
+      "source": "EE Times",
+      "sourceId": "eetimes",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-10-19T16:13:37.000Z",
+      "fetchedAt": "2026-10-19T17:47:22.295Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "patent-litigation",
+      "subLabel": "Patent Litigation",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
+      "id": "a2"
+    },
     {
       "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
       "url": "https://finance.yahoo.com/markets/stocks/articles/arm-stock-verdict-risk-grows-131310835.html?.tsrc=rss",
@@ -24,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-18T13:13:10.000Z",
-      "fetchedAt": "2026-10-19T11:18:09.162Z",
+      "fetchedAt": "2026-10-19T17:47:21.922Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -32,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
-      "id": "a10"
+      "id": "a24"
     }
   ]
 }
