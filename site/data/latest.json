@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-19T05:23:00.100Z",
+  "generatedAt": "2026-10-19T11:18:17.350Z",
   "date": "2026-10-19",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 1,
       "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a13",
       "briefingSummary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next"
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a10",
+      "briefingSummary": "One article today covering FRAND & Licensing. Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intent"
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 12,
-      "topHeadline": "China’s economy picks up pace at 4.5% growth",
+      "topHeadline": "China moves to curb tech exports, including AI, citing risks to national security - Hot Springs Sentinel Record",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Supply Chain (1 article). A total of 12 articles were aggregated from monitored sources."
     },
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 1,
-      "topHeadline": "Chip Industry Week In Review",
-      "topHeadlineId": "a15",
-      "briefingSummary": "One article today covering Geopolitics & Export Controls. Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm "
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 16
+  "totalArticles": 14
 }
