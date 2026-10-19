@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-18T21:56:10.607Z",
+  "generatedAt": "2026-10-19T00:32:31.977Z",
   "date": "2026-10-19",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups rais",
         "articleIds": [
-          "a20"
+          "a18"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-16T07:01:05.000Z",
-      "fetchedAt": "2026-10-18T21:56:05.572Z",
+      "fetchedAt": "2026-10-19T00:32:26.751Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "foundry"
       ],
       "summary": "Fab expansion accelerates; China advances memory and EUV; Teradyne's test deal; SEMICON West and OCP highlights; 3D SiP; TSMC and ASML signals; 300mm fab spending; optical and 3D-compute startups raise fresh funding; quantum HW advances. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a20"
+      "id": "a18"
     }
   ]
 }
