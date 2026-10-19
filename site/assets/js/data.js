@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,45 +13,18 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next",
-      "keyTakeaways": [
-        {
-          "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
-          "articleIds": [
-            "a27"
-          ],
-          "subCategory": "semiconductors"
-        }
-      ]
+      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+      "keyTakeaways": []
     },
-    "articles": [
-      {
-        "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-        "url": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-        "description": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-16T18:10:37.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.922Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-        "id": "a27"
-      }
-    ]
+    "articles": []
   },
   "growth-areas": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -62,7 +35,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -72,14 +45,14 @@ export const NEWS_DATA = {
         {
           "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
           "articleIds": [
-            "a2"
+            "a4"
           ],
           "subCategory": "patent-litigation"
         },
         {
           "text": "FRAND & Licensing: Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding lega",
           "articleIds": [
-            "a24"
+            "a21"
           ],
           "subCategory": "frand-licensing"
         }
@@ -94,7 +67,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T16:13:37.000Z",
-        "fetchedAt": "2026-10-19T17:47:22.295Z",
+        "fetchedAt": "2026-10-19T22:39:13.174Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -102,7 +75,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
@@ -112,7 +85,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-18T13:13:10.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.922Z",
+        "fetchedAt": "2026-10-19T22:39:12.427Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -120,26 +93,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
-        "id": "a24"
+        "id": "a21"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-19T17:47:28.700Z",
+    "generatedAt": "2026-10-19T22:39:19.124Z",
     "date": "2026-10-20",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 1,
-        "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-        "topHeadlineId": "a27",
-        "briefingSummary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next"
+        "articleCount": 0,
+        "topHeadline": null,
+        "topHeadlineId": null,
+        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 2,
         "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-        "topHeadlineId": "a2",
+        "topHeadlineId": "a4",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources."
       },
       "growth-areas": {
@@ -151,10 +124,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 23,
-        "topHeadline": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor - Tech Times",
+        "articleCount": 20,
+        "topHeadline": "TP-Link taps Keytronic to bring broadband router assembly to the US",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 23 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 20 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -167,22 +140,22 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 4,
         "topHeadline": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-        "topHeadlineId": "a4",
+        "topHeadlineId": "a5",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Supply Chain (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 30
+    "totalArticles": 26
   },
   "macro-environment": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 23 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor Tech Times",
+          "text": "Geopolitics & Export Controls: Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited m",
           "articleIds": [
             "a1"
           ],
@@ -191,20 +164,58 @@ export const NEWS_DATA = {
         {
           "text": "Supply Chain: Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
         {
-          "text": "market-performance: On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of h",
+          "text": "market-performance: Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
           "articleIds": [
-            "a7"
+            "a10"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
+        "url": "https://www.lightreading.com/regulatory-politics/tp-link-taps-key-tronic-to-bring-broadband-router-assembly-to-the-us",
+        "description": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-19T20:30:00.000Z",
+        "fetchedAt": "2026-10-19T22:39:17.361Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
+        "id": "a1"
+      },
+      {
+        "title": "Japan Launches Probe in First Sampling Mission to a Moon of Mars",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-19/japan-launches-probe-in-first-sampling-mission-to-a-moon-of-mars",
+        "description": "Japan launched a probe bound for a moon of Mars, giving the nation a head start over China in the race to become the first to return samples from the Red Planet or one of its moons.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-19T20:05:35.000Z",
+        "fetchedAt": "2026-10-19T22:39:12.729Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Japan launched a probe bound for a moon of Mars, giving the nation a head start over China in the race to become the first to return samples from the Red Planet or one of its moons.",
+        "id": "a2"
+      },
       {
         "title": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor - Tech Times",
         "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3BxcEJTU3dqZjdtTlYzS1E2d3ktejZieXMzMGt3elpodjZydXlFS1c3SG1PY3FvYmFOa0kxbTFCUHJaYVV6QXdaQmVDUTlRbFk1SUplNXQ5WXU0OVlSQ0wzemJwMWRrRl9IQTh3MTNLamhTTGxwbWtCLTJZZ0t0NHR3aXhJYzE1R0FDRnlvNFVtcXVDTTRfSmNEaGdBNHdmd0VweGNCZ0RLcHJrTkVtSXNIUFgxaEY4MFJtWkcyajZfb2J0ODQwb3V0ci1FeHBV?oc=5",
@@ -213,7 +224,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T17:18:21.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Tech Times",
         "geopoliticalBypass": true,
@@ -223,25 +234,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor Tech Times",
-        "id": "a1"
-      },
-      {
-        "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-        "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-        "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T15:10:54.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.628Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
         "id": "a3"
       },
       {
@@ -252,7 +244,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-19T14:30:00.000Z",
-        "fetchedAt": "2026-10-19T17:47:22.179Z",
+        "fetchedAt": "2026-10-19T22:39:13.002Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -264,7 +256,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. Pritzker about all that, and he was surprisingly willing to dive right into the absolute existential weeds of what government is even for. You’ll hear him say — and it’s hard to disagree — that some problems are just collective action problems that require the government to do a lot of work.",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Swedish appeals court fines ex-national security adviser for gross negligence - SRN News",
@@ -274,7 +266,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T14:19:36.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.673Z",
+        "fetchedAt": "2026-10-19T22:39:19.091Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "SRN News",
         "geopoliticalBypass": true,
@@ -284,25 +276,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Swedish appeals court fines ex-national security adviser for gross negligence SRN News",
-        "id": "a6"
-      },
-      {
-        "title": "Coreweave Gets Stock Upgrade; Cleveland-Cliffs Jumps on Earnings | Stock Movers",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-19/coreweave-gets-stock-upgrade-cleveland-cliffs-earnings-video",
-        "description": "On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of heavy volatility related to concerns over the company’s debt. - Cleveland-Cliffs (CLIF) shares jumped after it reported third-quarter profit that topped analysts’ estimates as steel prices rose and Trump administration tariffs eroded US imports. - Intel (INTC) is gaining in the premarket as JPMorgan upgrades to neutral from underweight, noting that the chipmaker’s turnaround might take years, but the management’s execution has been solid. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T14:17:57.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.817Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of heavy volatility related to concerns over the company’s debt. - Cleveland-Cliffs (CLIF) shares jumped after it reported third-quarter profit that topped analysts’ estimates as steel prices rose and Trump administration tariffs eroded US imports. - Intel (INTC) is gaining in the premarket as JPMorgan upgrades to neutral from underweight, noting that the chipmaker’s turnaround might take years, but the management’s execution has been solid.",
         "id": "a7"
       },
       {
@@ -313,7 +286,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T14:01:13.000Z",
-        "fetchedAt": "2026-10-19T17:47:26.309Z",
+        "fetchedAt": "2026-10-19T22:39:16.699Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -327,33 +300,14 @@ export const NEWS_DATA = {
         "id": "a8"
       },
       {
-        "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
-        "description": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T13:37:53.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.817Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
-        "id": "a9"
-      },
-      {
         "title": "What lessons should Europe take from China’s tightening grip on its advanced AI? - Bruegel",
         "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2dnN25HUTluVkZ4cS1KejNlRjh6VktDeGlQYjcwUjRQVFNtZ3VYd3lINlFfYnNHUTgtdWN0TFJJYzBUdXVnYmFkbERjY3VTeVpxY3dDNUc3UmZtXzN3R2ZvRlVoeVJMNlpyazl1enRUZU00YVlIN21fWmtMSlRWSTFlZUdYbVV5d0FucDRyd3V6dTRJeE4tWHRJM25fMDFLcl9ZVk0yT09SOGM?oc=5",
         "description": "What lessons should Europe take from China’s tightening grip on its advanced AI? Bruegel",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T12:40:52.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "publishedAt": "2026-10-19T12:41:07.000Z",
+        "fetchedAt": "2026-10-19T22:39:19.091Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Bruegel",
         "geopoliticalBypass": true,
@@ -363,17 +317,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "What lessons should Europe take from China’s tightening grip on its advanced AI?",
-        "id": "a10"
+        "id": "a9"
       },
       {
-        "title": "Tech Stocks Pull S&P 500 Higher as Dip Buyers Step in After Rout",
+        "title": "Tech Stocks Pull S&P 500 Higher as Opportunistic Buyers Step In",
         "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout",
         "description": "Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T11:41:42.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.817Z",
+        "fetchedAt": "2026-10-19T22:39:12.729Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -382,7 +336,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
-        "id": "a11"
+        "id": "a10"
       },
       {
         "title": "CME plans tungsten futures as demand for weapons rises",
@@ -392,7 +346,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T10:30:57.000Z",
-        "fetchedAt": "2026-10-19T17:47:22.048Z",
+        "fetchedAt": "2026-10-19T22:39:12.922Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -401,7 +355,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
-        "id": "a12"
+        "id": "a11"
       },
       {
         "title": "JPMorgan announces $5 billion in investments in companies critical to US national security - AOL.ca",
@@ -411,7 +365,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T10:01:49.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "AOL.ca",
         "geopoliticalBypass": true,
@@ -421,7 +375,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "JPMorgan announces $5 billion in investments in companies critical to US national security AOL.ca",
-        "id": "a13"
+        "id": "a12"
       },
       {
         "title": "China moves to curb tech exports, including AI, citing risks to national security - Hot Springs Sentinel Record",
@@ -431,7 +385,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T09:00:00.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.673Z",
+        "fetchedAt": "2026-10-19T22:39:19.091Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Hot Springs Sentinel Record",
         "geopoliticalBypass": true,
@@ -441,7 +395,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China moves to curb tech exports, including AI, citing risks to national security Hot Springs Sentinel Record",
-        "id": "a14"
+        "id": "a13"
       },
       {
         "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
@@ -451,7 +405,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T07:48:53.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.628Z",
+        "fetchedAt": "2026-10-19T22:39:12.159Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -460,7 +414,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-        "id": "a15"
+        "id": "a14"
       },
       {
         "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power - digitimes",
@@ -470,7 +424,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T07:43:43.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -482,7 +436,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power digitimes",
-        "id": "a16"
+        "id": "a15"
       },
       {
         "title": "Avanci now has “critical mass” in China, but negotiations continue, says 5G boss",
@@ -492,7 +446,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-19T07:00:00.000Z",
-        "fetchedAt": "2026-10-19T17:47:23.902Z",
+        "fetchedAt": "2026-10-19T22:39:15.102Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -501,27 +455,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Laurie Fitzgerald tells IAM that Avanci is seeking to apply same formula to new adjacent markets",
-        "id": "a17"
-      },
-      {
-        "title": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition - digitimes",
-        "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXJ1YjhQUGVJUS1NamdDZjRJUWFZMDZWdnVzODlPYjRNR2pwYWRkN1R6REtCcXlDenB5MGd1Z2RUN1lDTHlDLUdyV2J1aUZBRjQ0ZkduYW1Tc2tGdFdLZkRjZDVMQTFqRWRyZWRBczBEOUl0cXpMWnM1Q085eDZjUExZeURob3AtYjhkUXlEb2pIWkM0?oc=5",
-        "description": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition digitimes",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T06:20:00.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "digitimes",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition digitimes",
-        "id": "a18"
+        "id": "a16"
       },
       {
         "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
@@ -531,7 +465,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T04:36:39.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.628Z",
+        "fetchedAt": "2026-10-19T22:39:12.159Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -540,7 +474,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
-        "id": "a19"
+        "id": "a17"
       },
       {
         "title": "Toyota to deploy gigacasting in China as Shanghai Lexus plant targets 2027 - digitimes",
@@ -550,7 +484,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T04:25:45.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -560,7 +494,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Toyota to deploy gigacasting in China as Shanghai Lexus plant targets 2027 digitimes",
-        "id": "a20"
+        "id": "a18"
       },
       {
         "title": "China probes Huawei-JAC Maextro V800 over brake pedal failure - digitimes",
@@ -570,7 +504,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T04:24:20.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -580,7 +514,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China probes Huawei-JAC Maextro V800 over brake pedal failure digitimes",
-        "id": "a21"
+        "id": "a19"
       },
       {
         "title": "China proposes export controls on solar-manufacturing technologies - ET Manufacturing",
@@ -590,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T02:59:53.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "ET Manufacturing",
         "geopoliticalBypass": true,
@@ -600,27 +534,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China proposes export controls on solar-manufacturing technologies ET Manufacturing",
-        "id": "a22"
-      },
-      {
-        "title": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies - Global Sanctions and Export Controls Blog",
-        "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzR6T2xvUUt2Njl6TUZXaWFPYWxRU3QwRTZKM0d6N2tQUFlLcE1yUWZZLWlXc0w0Y0pMUzRaNlp2LWRZSUUtTWFBY0YzYllNT0dQNGx0eFo5YXUyQkpaZE44aUUtTUhpd29vZ1NmdGc2bFZUd1pSMW9OekJ2ZUljekNvRTFaZ0dNdTNFcVNmNDJic0M1T1RreXNWRUZ6ckxTVUE4NVBPdmRjcjJYTHlObTlFZjhDWHZuVkl4YXcwTk83TE8y?oc=5",
-        "description": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies Global Sanctions and Export Controls Blog",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-18T20:25:24.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Global Sanctions and Export Controls Blog",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies Global Sanctions and Export Controls Blog",
-        "id": "a23"
+        "id": "a20"
       },
       {
         "title": "Arm Holdings (ARM) Faces License Breach Questions, Is The Valuation Still Too Rich?",
@@ -630,7 +544,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-18T12:12:41.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.922Z",
+        "fetchedAt": "2026-10-19T22:39:12.427Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -638,7 +552,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm Holdings (NasdaqGS:ARM) is in focus after a jury concluded it breached a long running architectural license agreement with Qualcomm and acted to disrupt Qualcomm’s business, raising fresh questions for investors. Arm Holdings shares have swung sharply, with the price down 6.94% over the past day and 17.35% over 30 days, yet still showing a 98.55% year to date share price return and a 3 year total shareholder return of about 7x. Recent volatility has picked up as investors weigh the jury’s...",
-        "id": "a25"
+        "id": "a22"
       },
       {
         "title": "Should You Buy Qualcomm Stock For Its Cash?",
@@ -648,7 +562,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-17T03:03:01.000Z",
-        "fetchedAt": "2026-10-19T17:47:21.922Z",
+        "fetchedAt": "2026-10-19T22:39:12.427Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "supply-chain",
@@ -656,7 +570,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-        "id": "a26"
+        "id": "a23"
       }
     ]
   },
@@ -852,7 +766,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-19T17:47:28.697Z",
+    "generatedAt": "2026-10-19T22:39:19.122Z",
     "date": "2026-10-20",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -862,14 +776,14 @@ export const NEWS_DATA = {
         {
           "text": "Platform & Ecosystem Partners: The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of",
           "articleIds": [
-            "a4"
+            "a5"
           ],
           "subCategory": "platform-partner"
         },
         {
           "text": "Supply Chain: Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
           "articleIds": [
-            "a5"
+            "a6"
           ],
           "subCategory": "supply-chain"
         },
@@ -891,7 +805,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-19T14:41:48.000Z",
-        "fetchedAt": "2026-10-19T17:47:22.178Z",
+        "fetchedAt": "2026-10-19T22:39:13.000Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -902,7 +816,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -912,7 +826,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-19T14:30:00.000Z",
-        "fetchedAt": "2026-10-19T17:47:22.179Z",
+        "fetchedAt": "2026-10-19T22:39:13.002Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -924,7 +838,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. Pritzker about all that, and he was surprisingly willing to dive right into the absolute existential weeds of what government is even for. You’ll hear him say — and it’s hard to disagree — that some problems are just collective action problems that require the government to do a lot of work.",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "The Workforce Behind the Roadmap",
@@ -934,7 +848,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T14:01:13.000Z",
-        "fetchedAt": "2026-10-19T17:47:26.309Z",
+        "fetchedAt": "2026-10-19T22:39:16.699Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -955,7 +869,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-19T07:43:43.000Z",
-        "fetchedAt": "2026-10-19T17:47:28.674Z",
+        "fetchedAt": "2026-10-19T22:39:19.092Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -967,7 +881,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power digitimes",
-        "id": "a16"
+        "id": "a15"
       }
     ]
   },
@@ -26168,49 +26082,22 @@ export const NEWS_DATA = {
     "totalArticles": 14
   },
   "archive-2026-10-20": {
-    "generatedAt": "2026-10-19T17:47:28.700Z",
+    "generatedAt": "2026-10-19T22:39:19.124Z",
     "date": "2026-10-20",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next",
-          "keyTakeaways": [
-            {
-              "text": "Semiconductors: A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor se",
-              "articleIds": [
-                "a27"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-            "url": "https://247wallst.com/investing/2026/10/16/arm-and-amd-fall-5-as-qualcomm-verdict-adds-to-chip-selloff-taiwan-semiconductor-slips/?.tsrc=rss",
-            "description": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-16T18:10:37.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.922Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next week, the pressure on the entire semiconductor sector may only be getting started.",
-            "id": "a27"
-          }
-        ]
+        "articles": []
       },
       "ip-legal": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -26220,14 +26107,14 @@ export const NEWS_DATA = {
             {
               "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
               "articleIds": [
-                "a2"
+                "a4"
               ],
               "subCategory": "patent-litigation"
             },
             {
               "text": "FRAND & Licensing: Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding lega",
               "articleIds": [
-                "a24"
+                "a21"
               ],
               "subCategory": "frand-licensing"
             }
@@ -26242,7 +26129,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T16:13:37.000Z",
-            "fetchedAt": "2026-10-19T17:47:22.295Z",
+            "fetchedAt": "2026-10-19T22:39:13.174Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26250,7 +26137,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "Arm Stock Verdict Risk Grows After Qualcomm License Breach Ruling",
@@ -26260,7 +26147,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-18T13:13:10.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.922Z",
+            "fetchedAt": "2026-10-19T22:39:12.427Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -26268,12 +26155,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Arm Holdings recently faced an adverse Delaware jury verdict that found the firm breached its architectural license agreement with Qualcomm and intentionally disrupted Qualcomm’s business, adding legal and operational pressure on its licensing model. The ruling directly challenges Arm Holdings’ relationships with major chip partners at the same time the firm is pushing deeper into higher value AGI CPU and compute subsystems licensing. This article examines how Arm Holdings’ long term royalty...",
-            "id": "a24"
+            "id": "a21"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -26284,15 +26171,15 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 23 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor Tech Times",
+              "text": "Geopolitics & Export Controls: Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited m",
               "articleIds": [
                 "a1"
               ],
@@ -26301,20 +26188,58 @@ export const NEWS_DATA = {
             {
               "text": "Supply Chain: Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
             {
-              "text": "market-performance: On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of h",
+              "text": "market-performance: Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
               "articleIds": [
-                "a7"
+                "a10"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
+            "url": "https://www.lightreading.com/regulatory-politics/tp-link-taps-key-tronic-to-bring-broadband-router-assembly-to-the-us",
+            "description": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-19T20:30:00.000Z",
+            "fetchedAt": "2026-10-19T22:39:17.361Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
+            "id": "a1"
+          },
+          {
+            "title": "Japan Launches Probe in First Sampling Mission to a Moon of Mars",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-19/japan-launches-probe-in-first-sampling-mission-to-a-moon-of-mars",
+            "description": "Japan launched a probe bound for a moon of Mars, giving the nation a head start over China in the race to become the first to return samples from the Red Planet or one of its moons.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-19T20:05:35.000Z",
+            "fetchedAt": "2026-10-19T22:39:12.729Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Japan launched a probe bound for a moon of Mars, giving the nation a head start over China in the race to become the first to return samples from the Red Planet or one of its moons.",
+            "id": "a2"
+          },
           {
             "title": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor - Tech Times",
             "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQd3BxcEJTU3dqZjdtTlYzS1E2d3ktejZieXMzMGt3elpodjZydXlFS1c3SG1PY3FvYmFOa0kxbTFCUHJaYVV6QXdaQmVDUTlRbFk1SUplNXQ5WXU0OVlSQ0wzemJwMWRrRl9IQTh3MTNLamhTTGxwbWtCLTJZZ0t0NHR3aXhJYzE1R0FDRnlvNFVtcXVDTTRfSmNEaGdBNHdmd0VweGNCZ0RLcHJrTkVtSXNIUFgxaEY4MFJtWkcyajZfb2J0ODQwb3V0ci1FeHBV?oc=5",
@@ -26323,7 +26248,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T17:18:21.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Tech Times",
             "geopoliticalBypass": true,
@@ -26333,25 +26258,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor Tech Times",
-            "id": "a1"
-          },
-          {
-            "title": "OpenAI bugging suspect's conduct could pose danger to U.S. national security, feds warn",
-            "url": "https://www.cnbc.com/2026/10/19/openai-bugging-suspect-alfozan-saudi-royal-family.html",
-            "description": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T15:10:54.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.628Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Saudi national Abdulrahman Alfozan is accused of planting a recording device in an executive conference room at OpenAI headquarters in San Francisco.",
             "id": "a3"
           },
           {
@@ -26362,7 +26268,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-19T14:30:00.000Z",
-            "fetchedAt": "2026-10-19T17:47:22.179Z",
+            "fetchedAt": "2026-10-19T22:39:13.002Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26374,7 +26280,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. Pritzker about all that, and he was surprisingly willing to dive right into the absolute existential weeds of what government is even for. You’ll hear him say — and it’s hard to disagree — that some problems are just collective action problems that require the government to do a lot of work.",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Swedish appeals court fines ex-national security adviser for gross negligence - SRN News",
@@ -26384,7 +26290,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T14:19:36.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.673Z",
+            "fetchedAt": "2026-10-19T22:39:19.091Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "SRN News",
             "geopoliticalBypass": true,
@@ -26394,25 +26300,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Swedish appeals court fines ex-national security adviser for gross negligence SRN News",
-            "id": "a6"
-          },
-          {
-            "title": "Coreweave Gets Stock Upgrade; Cleveland-Cliffs Jumps on Earnings | Stock Movers",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-19/coreweave-gets-stock-upgrade-cleveland-cliffs-earnings-video",
-            "description": "On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of heavy volatility related to concerns over the company’s debt. - Cleveland-Cliffs (CLIF) shares jumped after it reported third-quarter profit that topped analysts’ estimates as steel prices rose and Trump administration tariffs eroded US imports. - Intel (INTC) is gaining in the premarket as JPMorgan upgrades to neutral from underweight, noting that the chipmaker’s turnaround might take years, but the management’s execution has been solid. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T14:17:57.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.817Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "On this episode of Stock Movers: - CoreWeave (CRWV) share are higher in premarket trading as Goldman Sachs upgrades the cloud-computing provider to buy from neutral, a move that comes in the wake of heavy volatility related to concerns over the company’s debt. - Cleveland-Cliffs (CLIF) shares jumped after it reported third-quarter profit that topped analysts’ estimates as steel prices rose and Trump administration tariffs eroded US imports. - Intel (INTC) is gaining in the premarket as JPMorgan upgrades to neutral from underweight, noting that the chipmaker’s turnaround might take years, but the management’s execution has been solid.",
             "id": "a7"
           },
           {
@@ -26423,7 +26310,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T14:01:13.000Z",
-            "fetchedAt": "2026-10-19T17:47:26.309Z",
+            "fetchedAt": "2026-10-19T22:39:16.699Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26437,33 +26324,14 @@ export const NEWS_DATA = {
             "id": "a8"
           },
           {
-            "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
-            "description": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T13:37:53.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.817Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
-            "id": "a9"
-          },
-          {
             "title": "What lessons should Europe take from China’s tightening grip on its advanced AI? - Bruegel",
             "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPV2dnN25HUTluVkZ4cS1KejNlRjh6VktDeGlQYjcwUjRQVFNtZ3VYd3lINlFfYnNHUTgtdWN0TFJJYzBUdXVnYmFkbERjY3VTeVpxY3dDNUc3UmZtXzN3R2ZvRlVoeVJMNlpyazl1enRUZU00YVlIN21fWmtMSlRWSTFlZUdYbVV5d0FucDRyd3V6dTRJeE4tWHRJM25fMDFLcl9ZVk0yT09SOGM?oc=5",
             "description": "What lessons should Europe take from China’s tightening grip on its advanced AI? Bruegel",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T12:40:52.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "publishedAt": "2026-10-19T12:41:07.000Z",
+            "fetchedAt": "2026-10-19T22:39:19.091Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Bruegel",
             "geopoliticalBypass": true,
@@ -26473,17 +26341,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "What lessons should Europe take from China’s tightening grip on its advanced AI?",
-            "id": "a10"
+            "id": "a9"
           },
           {
-            "title": "Tech Stocks Pull S&P 500 Higher as Dip Buyers Step in After Rout",
+            "title": "Tech Stocks Pull S&P 500 Higher as Opportunistic Buyers Step In",
             "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-futures-climb-with-semiconductor-stocks-rebounding-after-rout",
             "description": "Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
             "source": "Bloomberg",
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T11:41:42.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.817Z",
+            "fetchedAt": "2026-10-19T22:39:12.729Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26492,7 +26360,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chips companies rallied in Monday trading, helping stocks rebound after the worst week for the tech-heavy Nasdaq 100 Index since the tariff turmoil of April 2025.",
-            "id": "a11"
+            "id": "a10"
           },
           {
             "title": "CME plans tungsten futures as demand for weapons rises",
@@ -26502,7 +26370,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T10:30:57.000Z",
-            "fetchedAt": "2026-10-19T17:47:22.048Z",
+            "fetchedAt": "2026-10-19T22:39:12.922Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26511,7 +26379,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China has restricted exports of critical mineral used in armour-piercing munitions",
-            "id": "a12"
+            "id": "a11"
           },
           {
             "title": "JPMorgan announces $5 billion in investments in companies critical to US national security - AOL.ca",
@@ -26521,7 +26389,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T10:01:49.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "AOL.ca",
             "geopoliticalBypass": true,
@@ -26531,7 +26399,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "JPMorgan announces $5 billion in investments in companies critical to US national security AOL.ca",
-            "id": "a13"
+            "id": "a12"
           },
           {
             "title": "China moves to curb tech exports, including AI, citing risks to national security - Hot Springs Sentinel Record",
@@ -26541,7 +26409,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T09:00:00.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.673Z",
+            "fetchedAt": "2026-10-19T22:39:19.091Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Hot Springs Sentinel Record",
             "geopoliticalBypass": true,
@@ -26551,7 +26419,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China moves to curb tech exports, including AI, citing risks to national security Hot Springs Sentinel Record",
-            "id": "a14"
+            "id": "a13"
           },
           {
             "title": "China's CXMT shares fall nearly 8% as investors look past chipmaker's profit turnaround",
@@ -26561,7 +26429,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T07:48:53.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.628Z",
+            "fetchedAt": "2026-10-19T22:39:12.159Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26570,7 +26438,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CXMT shares fell nearly 8% on Monday after the company released its earnings forecast for the first nine months of 2026.",
-            "id": "a15"
+            "id": "a14"
           },
           {
             "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power - digitimes",
@@ -26580,7 +26448,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T07:43:43.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26592,7 +26460,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power digitimes",
-            "id": "a16"
+            "id": "a15"
           },
           {
             "title": "Avanci now has “critical mass” in China, but negotiations continue, says 5G boss",
@@ -26602,7 +26470,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-19T07:00:00.000Z",
-            "fetchedAt": "2026-10-19T17:47:23.902Z",
+            "fetchedAt": "2026-10-19T22:39:15.102Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26611,27 +26479,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Laurie Fitzgerald tells IAM that Avanci is seeking to apply same formula to new adjacent markets",
-            "id": "a17"
-          },
-          {
-            "title": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition - digitimes",
-            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQaXJ1YjhQUGVJUS1NamdDZjRJUWFZMDZWdnVzODlPYjRNR2pwYWRkN1R6REtCcXlDenB5MGd1Z2RUN1lDTHlDLUdyV2J1aUZBRjQ0ZkduYW1Tc2tGdFdLZkRjZDVMQTFqRWRyZWRBczBEOUl0cXpMWnM1Q085eDZjUExZeURob3AtYjhkUXlEb2pIWkM0?oc=5",
-            "description": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition digitimes",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T06:20:00.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "digitimes",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's 420GWh storage boom enters a quality reset as Beijing reins in overcompetition digitimes",
-            "id": "a18"
+            "id": "a16"
           },
           {
             "title": "China's third-quarter economic growth quickens to 4.5% as exports surge, beating estimates",
@@ -26641,7 +26489,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T04:36:39.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.628Z",
+            "fetchedAt": "2026-10-19T22:39:12.159Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26650,7 +26498,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's economic growth accelerated in the third quarter, as foreign demand for the country's technological goods largely offset sluggish consumer demand.",
-            "id": "a19"
+            "id": "a17"
           },
           {
             "title": "Toyota to deploy gigacasting in China as Shanghai Lexus plant targets 2027 - digitimes",
@@ -26660,7 +26508,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T04:25:45.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26670,7 +26518,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Toyota to deploy gigacasting in China as Shanghai Lexus plant targets 2027 digitimes",
-            "id": "a20"
+            "id": "a18"
           },
           {
             "title": "China probes Huawei-JAC Maextro V800 over brake pedal failure - digitimes",
@@ -26680,7 +26528,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T04:24:20.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26690,7 +26538,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China probes Huawei-JAC Maextro V800 over brake pedal failure digitimes",
-            "id": "a21"
+            "id": "a19"
           },
           {
             "title": "China proposes export controls on solar-manufacturing technologies - ET Manufacturing",
@@ -26700,7 +26548,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T02:59:53.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "ET Manufacturing",
             "geopoliticalBypass": true,
@@ -26710,27 +26558,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China proposes export controls on solar-manufacturing technologies ET Manufacturing",
-            "id": "a22"
-          },
-          {
-            "title": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies - Global Sanctions and Export Controls Blog",
-            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQUzR6T2xvUUt2Njl6TUZXaWFPYWxRU3QwRTZKM0d6N2tQUFlLcE1yUWZZLWlXc0w0Y0pMUzRaNlp2LWRZSUUtTWFBY0YzYllNT0dQNGx0eFo5YXUyQkpaZE44aUUtTUhpd29vZ1NmdGc2bFZUd1pSMW9OekJ2ZUljekNvRTFaZ0dNdTNFcVNmNDJic0M1T1RreXNWRUZ6ckxTVUE4NVBPdmRjcjJYTHlObTlFZjhDWHZuVkl4YXcwTk83TE8y?oc=5",
-            "description": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies Global Sanctions and Export Controls Blog",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-18T20:25:24.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Global Sanctions and Export Controls Blog",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Proposes Expanded Export Controls on AI, Biopharma and Solar Energy Technologies Global Sanctions and Export Controls Blog",
-            "id": "a23"
+            "id": "a20"
           },
           {
             "title": "Arm Holdings (ARM) Faces License Breach Questions, Is The Valuation Still Too Rich?",
@@ -26740,7 +26568,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-18T12:12:41.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.922Z",
+            "fetchedAt": "2026-10-19T22:39:12.427Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -26748,7 +26576,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Arm Holdings (NasdaqGS:ARM) is in focus after a jury concluded it breached a long running architectural license agreement with Qualcomm and acted to disrupt Qualcomm’s business, raising fresh questions for investors. Arm Holdings shares have swung sharply, with the price down 6.94% over the past day and 17.35% over 30 days, yet still showing a 98.55% year to date share price return and a 3 year total shareholder return of about 7x. Recent volatility has picked up as investors weigh the jury’s...",
-            "id": "a25"
+            "id": "a22"
           },
           {
             "title": "Should You Buy Qualcomm Stock For Its Cash?",
@@ -26758,7 +26586,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-17T03:03:01.000Z",
-            "fetchedAt": "2026-10-19T17:47:21.922Z",
+            "fetchedAt": "2026-10-19T22:39:12.427Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "supply-chain",
@@ -26766,12 +26594,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Over the last twelve months, Qualcomm (QCOM) generated free cash flow equal to 5.5% of its market value. That outpaces the 4.4% yield for the median S&P 500 company. A yield above the median can mean a business that is either on sale or expected to shrink. Qualcomm's revenue fell in each of its last two quarters. So is that cash the sign of a business on sale, or of one that is shrinking.",
-            "id": "a26"
+            "id": "a23"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -26782,7 +26610,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-19T17:47:28.697Z",
+        "generatedAt": "2026-10-19T22:39:19.122Z",
         "date": "2026-10-20",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -26792,14 +26620,14 @@ export const NEWS_DATA = {
             {
               "text": "Platform & Ecosystem Partners: The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of",
               "articleIds": [
-                "a4"
+                "a5"
               ],
               "subCategory": "platform-partner"
             },
             {
               "text": "Supply Chain: Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
               "articleIds": [
-                "a5"
+                "a6"
               ],
               "subCategory": "supply-chain"
             },
@@ -26821,7 +26649,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-19T14:41:48.000Z",
-            "fetchedAt": "2026-10-19T17:47:22.178Z",
+            "fetchedAt": "2026-10-19T22:39:13.000Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -26832,7 +26660,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -26842,7 +26670,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-19T14:30:00.000Z",
-            "fetchedAt": "2026-10-19T17:47:22.179Z",
+            "fetchedAt": "2026-10-19T22:39:13.002Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26854,7 +26682,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. Pritzker about all that, and he was surprisingly willing to dive right into the absolute existential weeds of what government is even for. You’ll hear him say — and it’s hard to disagree — that some problems are just collective action problems that require the government to do a lot of work.",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "The Workforce Behind the Roadmap",
@@ -26864,7 +26692,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T14:01:13.000Z",
-            "fetchedAt": "2026-10-19T17:47:26.309Z",
+            "fetchedAt": "2026-10-19T22:39:16.699Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26885,7 +26713,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-19T07:43:43.000Z",
-            "fetchedAt": "2026-10-19T17:47:28.674Z",
+            "fetchedAt": "2026-10-19T22:39:19.092Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -26897,12 +26725,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power digitimes",
-            "id": "a16"
+            "id": "a15"
           }
         ]
       }
     },
-    "totalArticles": 30
+    "totalArticles": 26
   }
 };
 

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-19T17:47:28.700Z",
+  "generatedAt": "2026-10-19T22:39:19.124Z",
   "date": "2026-10-20",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 1,
-      "topHeadline": "Arm and AMD Fall 5% as Qualcomm Verdict Adds to Chip Selloff; Taiwan Semiconductor Slips",
-      "topHeadlineId": "a27",
-      "briefingSummary": "One article today covering Semiconductors. A Delaware jury just handed Arm a damaging verdict in its licensing battle with Qualcomm, and with a second ruling on its newest chip designs due next"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a4",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 23,
-      "topHeadline": "Taiwan to Criminalize Unauthorized AI Chip Exports to China: Smugglers Lose Safe Harbor - Tech Times",
+      "articleCount": 20,
+      "topHeadline": "TP-Link taps Keytronic to bring broadband router assembly to the US",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 23 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles), market-performance (3 articles), Supply Chain (2 articles). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 4,
       "topHeadline": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a5",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Supply Chain (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 30
+  "totalArticles": 26
 }
