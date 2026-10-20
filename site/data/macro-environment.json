@@ -1,22 +1,29 @@
 {
-  "generatedAt": "2026-10-20T17:33:57.280Z",
+  "generatedAt": "2026-10-20T20:54:40.416Z",
   "date": "2026-10-21",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Customers & Partners (1 article), market-performance (1 article). A total of 19 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Four founders from one of China's up-and-coming AI companies, Z.AI, worked on a study that was funded by a group accused of having ties to Chinese spies. Bloomberg's Kate O'Keeffe explains the tech an",
+        "text": "Customers & Partners: MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
         "articleIds": [
           "a1"
+        ],
+        "subCategory": "customers-partners"
+      },
+      {
+        "text": "Geopolitics & Export Controls: The Superstrike looks similar to Logitech’s previous high-end gaming mice, but has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics",
+        "articleIds": [
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 26%$QCOM Stock Price as of Oct. 19: $17452-Week High: $260$QCOM Stock Price Target: $195What Happened?Qualcomm (QCOM:NASDA",
         "articleIds": [
-          "a5"
+          "a7"
         ],
         "subCategory": "market-performance"
       }
@@ -24,14 +31,34 @@
   },
   "articles": [
     {
-      "title": "Z.AI Founds Worked with Accused Chinese Spy Group",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-20/z-ai-founds-worked-with-accused-chinese-spy-group-video",
-      "description": "Four founders from one of China's up-and-coming AI companies, Z.AI, worked on a study that was funded by a group accused of having ties to Chinese spies. Bloomberg's Kate O'Keeffe explains the tech and national security concerns with Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life - MSUToday",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1HNFFBX2UxdzdYc1FxSUFYNUlTRF83WDFVZm9SN0NRMUMzQXVxN0l1ZGdqNkkyMnZKLXJYeVJyaEU1TlRtSFJBM3ZZSHNFMjREeTlPb29UcktFZVlfdHo3WHJLeFJQdFRkaU1UU0VPWXdOTmZSRzJR?oc=5",
+      "description": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T17:29:08.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.281Z",
+      "publishedAt": "2026-10-20T20:32:58.000Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "MSUToday",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
+      "id": "a1"
+    },
+    {
+      "title": "Logitech’s refurbished G Pro X2 Superstrike is 35 percent off",
+      "url": "https://www.theverge.com/gadgets/1014764/logitech-x2-superstrike-haptics-wireless-gaming-mouse-deal-sale",
+      "description": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished through Logitech’s official eBay store for $131.74 (usually $179.99), and for even less with the code PROXPRODUCTS15 applied at checkout. It drops the price to just under $117. Logitech G Pro X2 Superstrike Where to Buy: $179.99 $117 at eBay (refurb, w/ code PROXPRODUCTS15) The G Pro X2 Superstrike came out earlier this year, and I went hands-on with it. Logitech’s companion software lets you customize the intensity of the haptics, from an extra punchy click to one that’s barely there. (You can also turn the click feel off completely, but that felt a bit strange.) The mouse also supports rapid trigger, and when used together with haptics, it lowers the click latency compared with other mice that have mechanical switches. The company followed up recently with the X3 Superstrike, though its differences may not matter much to those who aren’t competitive gamers. The X3 features a more responsive sensor, better battery life, and improved weight distribution. There are some other somewhat small changes to the specs. That said, none of these improvements makes the X2 feel obsolete, and Logitech is continuing to support and sell the mouse. So, if you want to give it a try, now’s your chance to save quite a bit of money on the purchase. Read our hands-on of the X2 Superstrike.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-20T20:00:00.000Z",
+      "fetchedAt": "2026-10-20T20:54:32.477Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -39,8 +66,8 @@
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Four founders from one of China's up-and-coming AI companies, Z.AI, worked on a study that was funded by a group accused of having ties to Chinese spies. Bloomberg's Kate O'Keeffe explains the tech and national security concerns with Ed Ludlow on “Bloomberg Tech.” (Source: Bloomberg)",
-      "id": "a1"
+      "summary": "The Superstrike looks similar to Logitech’s previous high-end gaming mice, but has haptics-based sensors instead of switches. | Image: Cameron Faulkner / The Verge Looking for a way to try the haptics-equipped G Pro X2 Superstrike wireless gaming mouse without spending full price? You probably aren’t alone. Logitech’s now-last-gen right-handed mouse is a great PC gaming companion that mimics the feel of mechanical switches with nothing but haptics. You can grab it refurbished through Logitech’s official eBay store for $131.74 (usually $179.99), and for even less with the code PROXPRODUCTS15 applied at checkout.",
+      "id": "a2"
     },
     {
       "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
@@ -49,8 +76,8 @@
       "source": "CNBC",
       "sourceId": "cnbc",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T16:43:42.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.151Z",
+      "publishedAt": "2026-10-20T18:06:13.000Z",
+      "fetchedAt": "2026-10-20T20:54:31.396Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -59,7 +86,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
-      "id": "a2"
+      "id": "a4"
     },
     {
       "title": "China defends DeepSeek after US ban of its AI from government systems - The Economic Times",
@@ -69,7 +96,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T15:22:42.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.244Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Economic Times",
       "geopoliticalBypass": true,
@@ -79,7 +106,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China defends DeepSeek after US ban of its AI from government systems The Economic Times",
-      "id": "a4"
+      "id": "a6"
     },
     {
       "title": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
@@ -89,7 +116,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T15:07:44.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.178Z",
+      "fetchedAt": "2026-10-20T20:54:31.531Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -97,7 +124,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 26%$QCOM Stock Price as of Oct. 19: $17452-Week High: $260$QCOM Stock Price Target: $195What Happened?Qualcomm (QCOM:NASDAQ) will cut jobs around the world.",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security - Newsquawk",
@@ -107,7 +134,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T13:54:36.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.243Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Newsquawk",
       "geopoliticalBypass": true,
@@ -117,66 +144,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security Newsquawk",
-      "id": "a7"
-    },
-    {
-      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
-      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
-      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-20T13:07:24.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.065Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
       "id": "a9"
-    },
-    {
-      "title": "China’s AI export order is a switch, not a wall - The Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHVPQlRCMEg4bTFZQW1mTjJsWHlTQTZ4aS13X0FpdHVabkg4Z1BFb0VYcWkwYjc2ZFJveTdvOGxjYThlWnhEZVREMkdUaWEtR3Y5aE1mUjIwT2VoNEl0NjUzemltcnpJLTE0U2drYnRoN0p2c2dsdDJPd1dJNURpeFdLaTZtaGhpZEVTT1ZPX1pZdU4wcWZsV2pDZ24zZnI0ZVhUODR1bEZTNGRaZHdhcFJIRmN1SWU3a1ZF0gHCAUFVX3lxTFB1WGNaN1NyNTdIVmg4bjcyNW1ORVBYU1FqdDJPOUdNbjVZemI0bWFqODQ4TzZLRGw1TFk3TUFkT0JYdXNpM0YwTU9tNXNhNzJSSnhvUW9Yc2tTT2NZSDhCZUJlZkdKR2o3RTBJd29KT0tkSGRvMy1ucHVaM09BeVRaUmlqOTRHcktFMUlQeU9ickxCNkE3Zm9ZZGEwa2pKcUprRHhpUHhBLVpKN1ZNV1dNSEREUFZjR3pnTEhyRkpEOHJR?oc=5",
-      "description": "China’s AI export order is a switch, not a wall The Indian Express",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T12:04:01.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.244Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Indian Express",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China’s AI export order is a switch, not a wall The Indian Express",
-      "id": "a11"
-    },
-    {
-      "title": "Governments, regulators increase scrutiny of China's DeepSeek - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
-      "description": "Governments, regulators increase scrutiny of China's DeepSeek Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T11:44:56.000Z",
-      "fetchedAt": "2026-10-20T17:33:56.034Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Governments, regulators increase scrutiny of China's DeepSeek Reuters",
-      "id": "a12"
     },
     {
       "title": "Why VW can't seem to catch a break in China, even with local help - Reuters",
@@ -185,8 +153,8 @@
       "source": "Reuters",
       "sourceId": "reuters",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T10:37:12.000Z",
-      "fetchedAt": "2026-10-20T17:33:56.034Z",
+      "publishedAt": "2026-10-20T13:51:27.000Z",
+      "fetchedAt": "2026-10-20T20:54:39.191Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "geopoliticalBypass": true,
@@ -196,7 +164,66 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Why VW can't seem to catch a break in China, even with local help Reuters",
-      "id": "a13"
+      "id": "a10"
+    },
+    {
+      "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
+      "url": "https://techcrunch.com/2026/10/20/us-orders-federal-agencies-to-remove-chinas-deepseek-ai-from-their-systems/",
+      "description": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "source": "TechCrunch",
+      "sourceId": "techcrunch",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-20T13:07:24.000Z",
+      "fetchedAt": "2026-10-20T20:54:31.402Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The US has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
+      "id": "a12"
+    },
+    {
+      "title": "China’s AI export order is a switch, not a wall - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOeHVPQlRCMEg4bTFZQW1mTjJsWHlTQTZ4aS13X0FpdHVabkg4Z1BFb0VYcWkwYjc2ZFJveTdvOGxjYThlWnhEZVREMkdUaWEtR3Y5aE1mUjIwT2VoNEl0NjUzemltcnpJLTE0U2drYnRoN0p2c2dsdDJPd1dJNURpeFdLaTZtaGhpZEVTT1ZPX1pZdU4wcWZsV2pDZ24zZnI0ZVhUODR1bEZTNGRaZHdhcFJIRmN1SWU3a1ZF0gHCAUFVX3lxTFB1WGNaN1NyNTdIVmg4bjcyNW1ORVBYU1FqdDJPOUdNbjVZemI0bWFqODQ4TzZLRGw1TFk3TUFkT0JYdXNpM0YwTU9tNXNhNzJSSnhvUW9Yc2tTT2NZSDhCZUJlZkdKR2o3RTBJd29KT0tkSGRvMy1ucHVaM09BeVRaUmlqOTRHcktFMUlQeU9ickxCNkE3Zm9ZZGEwa2pKcUprRHhpUHhBLVpKN1ZNV1dNSEREUFZjR3pnTEhyRkpEOHJR?oc=5",
+      "description": "China’s AI export order is a switch, not a wall The Indian Express",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-20T12:04:01.000Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Indian Express",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s AI export order is a switch, not a wall The Indian Express",
+      "id": "a14"
+    },
+    {
+      "title": "Governments, regulators increase scrutiny of China's DeepSeek - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPbVhkM1J5N0IzOXhOUDREMjd2N3J4eHJaNUREaWhaSWhISlNxMnBmWDZRXzYtczB3ME1xT0N2Z0hxWEdHU1MtSDdjVXBTMlBYdmd4NmFNNk9GRl9McmE3c2lQaFFoSG9KbEtiUnp0MGlqbVlOekpva3BUalZZUDgxc21KeGhCaFNGckszZ2k1anR4d2NQNmhwaklreTh3cHpwM3B5VQ?oc=5",
+      "description": "Governments, regulators increase scrutiny of China's DeepSeek Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-20T11:44:56.000Z",
+      "fetchedAt": "2026-10-20T20:54:39.191Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Governments, regulators increase scrutiny of China's DeepSeek Reuters",
+      "id": "a15"
     },
     {
       "title": "Chips Act 2.0: Europe's New Semiconductor Strategy - Bundesverband der Deutschen Industrie e.V.",
@@ -206,7 +233,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T08:54:30.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.243Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Bundesverband der Deutschen Industrie e.V.",
       "geopoliticalBypass": true,
@@ -216,7 +243,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chips Act 2.0: Europe's New Semiconductor Strategy Bundesverband der Deutschen Industrie e.V.",
-      "id": "a14"
+      "id": "a16"
     },
     {
       "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -226,7 +253,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-20T08:14:51.000Z",
-      "fetchedAt": "2026-10-20T17:33:55.449Z",
+      "fetchedAt": "2026-10-20T20:54:37.142Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -237,17 +264,17 @@
         "oem"
       ],
       "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-      "id": "a15"
+      "id": "a17"
     },
     {
-      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+      "title": "US Sanctions Chinese Venture Firm in Google AI Secrets Case",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
       "description": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T07:11:11.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.281Z",
+      "fetchedAt": "2026-10-20T20:54:31.825Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -258,7 +285,7 @@
         "platform-partner"
       ],
       "summary": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "The fake commute: How China's unemployed save face - Reuters",
@@ -268,7 +295,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T06:05:00.000Z",
-      "fetchedAt": "2026-10-20T17:33:56.034Z",
+      "fetchedAt": "2026-10-20T20:54:39.191Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "geopoliticalBypass": true,
@@ -278,26 +305,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The fake commute: How China's unemployed save face Reuters",
-      "id": "a17"
-    },
-    {
-      "title": "Copper is outshining gold this year. Investors say the rally can survive an AI correction",
-      "url": "https://www.cnbc.com/2026/10/20/copper-prices-ai-spending-demand.html",
-      "description": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S. stockpiles.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T05:57:34.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.151Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Copper is up 15.8% in 2026 as investors point to AI, grid and national security demand, tight supply and tariff-driven U.S.",
-      "id": "a18"
+      "id": "a19"
     },
     {
       "title": "How Taiwan's New AI Chip Export Controls Could Affect China｜Industry｜2026-10-20｜web only - 天下雜誌",
@@ -307,7 +315,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T02:37:35.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.244Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "天下雜誌",
       "geopoliticalBypass": true,
@@ -317,7 +325,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "How Taiwan's New AI Chip Export Controls Could Affect China｜Industry｜2026-10-20｜web only 天下雜誌",
-      "id": "a19"
+      "id": "a20"
     },
     {
       "title": "Q3 GDP growth on target; Xi on compute; Export controls; Fifth Plenum watch - Sinocism | Bill Bishop",
@@ -327,7 +335,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-19T22:59:47.000Z",
-      "fetchedAt": "2026-10-20T17:33:57.244Z",
+      "fetchedAt": "2026-10-20T20:54:40.380Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Sinocism | Bill Bishop",
       "geopoliticalBypass": true,
@@ -337,7 +345,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Q3 GDP growth on target; Xi on compute; Export controls; Fifth Plenum watch Sinocism | Bill Bishop",
-      "id": "a20"
+      "id": "a21"
     },
     {
       "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
@@ -347,7 +355,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-19T20:30:00.000Z",
-      "fetchedAt": "2026-10-20T17:33:54.102Z",
+      "fetchedAt": "2026-10-20T20:54:37.516Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -356,7 +364,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-      "id": "a21"
+      "id": "a22"
     },
     {
       "title": "The Workforce Behind the Roadmap",
@@ -366,7 +374,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-20T17:33:53.606Z",
+      "fetchedAt": "2026-10-20T20:54:36.570Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -377,25 +385,6 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a23"
-    },
-    {
-      "title": "US Moves to Bar China’s DeepSeek From Federal Agency Systems",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-19/us-moves-to-bar-deepseek-from-federal-agencies-and-contracts",
-      "description": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-19T13:37:53.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.281Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The Trump administration barred civilian US government agencies from using products or services from Chinese artificial intelligence startup DeepSeek, citing a potential threat to national security from the company’s operations in China.",
       "id": "a24"
     },
     {
@@ -406,7 +395,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-19T07:00:00.000Z",
-      "fetchedAt": "2026-10-20T17:33:52.357Z",
+      "fetchedAt": "2026-10-20T20:54:34.382Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

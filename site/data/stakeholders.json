@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T17:33:57.281Z",
+  "generatedAt": "2026-10-20T20:54:40.416Z",
   "date": "2026-10-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans ",
         "articleIds": [
-          "a15"
+          "a17"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-20T08:14:51.000Z",
-      "fetchedAt": "2026-10-20T17:33:55.449Z",
+      "fetchedAt": "2026-10-20T20:54:37.142Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,17 +35,17 @@
         "oem"
       ],
       "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-      "id": "a15"
+      "id": "a17"
     },
     {
-      "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
+      "title": "US Sanctions Chinese Venture Firm in Google AI Secrets Case",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
       "description": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T07:11:11.000Z",
-      "fetchedAt": "2026-10-20T17:33:50.281Z",
+      "fetchedAt": "2026-10-20T20:54:31.825Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +56,7 @@
         "platform-partner"
       ],
       "summary": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
-      "id": "a16"
+      "id": "a18"
     },
     {
       "title": "The Workforce Behind the Roadmap",
@@ -66,7 +66,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-20T17:33:53.606Z",
+      "fetchedAt": "2026-10-20T20:54:36.570Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,7 +77,7 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a23"
+      "id": "a24"
     }
   ]
 }
