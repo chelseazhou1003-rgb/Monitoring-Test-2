@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-20T06:40:32.356Z",
+  "generatedAt": "2026-10-20T12:16:37.061Z",
   "date": "2026-10-20",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
+      "topHeadlineId": "a2",
+      "briefingSummary": "One article today covering Semiconductors. EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters"
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "topHeadlineId": "a13",
+      "topHeadlineId": "a17",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "U.S. bans DeepSeek from government agency systems amid AI rift with China",
+      "articleCount": 21,
+      "topHeadline": "China’s AI export order is a switch, not a wall - The Indian Express",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), Supply Chain (1 article), market-performance (1 article). A total of 20 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Apple’s last-gen Mac Mini with the M4 is $150 off",
-      "topHeadlineId": "a14",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Supply Chain (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 26
+  "totalArticles": 27
 }
