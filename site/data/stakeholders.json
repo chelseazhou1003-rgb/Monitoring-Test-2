@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-20T12:16:37.059Z",
-  "date": "2026-10-20",
+  "generatedAt": "2026-10-20T17:33:57.281Z",
+  "date": "2026-10-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans ",
         "articleIds": [
-          "a5"
+          "a15"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -19,12 +19,12 @@
     {
       "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
       "url": "https://ipfray.com/oppo-wins-fast-charging-injunctions-in-china-as-its-5g-and-vvc-counteroffensive-challenges-asuss-licensing-campaign/",
-      "description": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China and India.",
+      "description": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
       "source": "IP Fray",
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-20T08:14:51.000Z",
-      "fetchedAt": "2026-10-20T12:16:35.219Z",
+      "fetchedAt": "2026-10-20T17:33:55.449Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -34,18 +34,18 @@
       "stakeholders": [
         "oem"
       ],
-      "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China and India.",
-      "id": "a5"
+      "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
+      "id": "a15"
     },
     {
       "title": "US Sanctions China’s Y Combinator in Google AI Secrets Case",
       "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
-      "description": "Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
+      "description": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T07:11:11.000Z",
-      "fetchedAt": "2026-10-20T12:16:24.702Z",
+      "fetchedAt": "2026-10-20T17:33:50.281Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -55,8 +55,8 @@
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "Washington has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
-      "id": "a7"
+      "summary": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
+      "id": "a16"
     },
     {
       "title": "The Workforce Behind the Roadmap",
@@ -66,7 +66,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-20T12:16:28.778Z",
+      "fetchedAt": "2026-10-20T17:33:53.606Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -77,7 +77,7 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a19"
+      "id": "a23"
     }
   ]
 }
