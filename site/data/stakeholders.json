@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-19T22:39:19.122Z",
+  "generatedAt": "2026-10-20T01:18:33.070Z",
   "date": "2026-10-20",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Platform & Ecosystem Partners: The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of",
         "articleIds": [
-          "a5"
+          "a10"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Supply Chain: Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those i",
         "articleIds": [
-          "a6"
+          "a11"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Geopolitics & Export Controls: For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network f",
         "articleIds": [
-          "a8"
+          "a13"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -38,7 +38,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-19T14:41:48.000Z",
-      "fetchedAt": "2026-10-19T22:39:13.000Z",
+      "fetchedAt": "2026-10-20T01:18:25.871Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -49,7 +49,7 @@
         "platform-partner"
       ],
       "summary": "The front view of the Mac Mini. | Image: The Verge Best Buy has a great deal for the rest of the day on the M4 Mac Mini base model that has 16GB RAM and a 256GB SSD. Normally, it doesn’t make a ton of sense to buy the M4 model for its usual $799 price given that the newer, faster M6 version has been available from Amazon for $779.99 (originally $899) for the past couple of weeks. However, at $649 it’s a much more tempting price. The M4 Mac Mini launched at $599 in 2024, and was an incredible value.",
-      "id": "a5"
+      "id": "a10"
     },
     {
       "title": "JB Pritzker thinks AI could help us live to 100 — or threaten us like nukes",
@@ -59,7 +59,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-19T14:30:00.000Z",
-      "fetchedAt": "2026-10-19T22:39:13.002Z",
+      "fetchedAt": "2026-10-20T01:18:25.874Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -71,7 +71,7 @@
         "platform-partner"
       ],
       "summary": "Today, I’m talking with Illinois Gov. JB Pritzker, who has a lot of thoughts about AI, tech, and privacy. If you’ve been listening to the show, you know that one of my running theories is that those issues are driving a big and maybe kind of unexpected political realignment — and with the midterms coming up next month, and early voting already underway in a lot of places, the stakes are pretty high right now. Pritzker about all that, and he was surprisingly willing to dive right into the absolute existential weeds of what government is even for. You’ll hear him say — and it’s hard to disagree — that some problems are just collective action problems that require the government to do a lot of work.",
-      "id": "a6"
+      "id": "a11"
     },
     {
       "title": "The Workforce Behind the Roadmap",
@@ -81,7 +81,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-19T22:39:16.699Z",
+      "fetchedAt": "2026-10-20T01:18:29.127Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -92,7 +92,7 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a8"
+      "id": "a13"
     },
     {
       "title": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power - digitimes",
@@ -102,7 +102,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-19T07:43:43.000Z",
-      "fetchedAt": "2026-10-19T22:39:19.092Z",
+      "fetchedAt": "2026-10-20T01:18:33.034Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "digitimes",
       "geopoliticalBypass": true,
@@ -114,7 +114,7 @@
         "oem"
       ],
       "summary": "Elon Musk points to China's 2028 DRAM supply surge to challenge Samsung, SK Hynix pricing power digitimes",
-      "id": "a15"
+      "id": "a19"
     }
   ]
 }
