@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-21T15:39:20.961Z",
-  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T19:40:15.269Z",
+  "date": "2026-10-22",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 2,
       "topHeadline": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources."
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "topHeadlineId": "a25",
-      "briefingSummary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Can Qualcomm's PickNik Acquisition Strengthen Its Robotics Edge?",
-      "topHeadlineId": "a21",
+      "topHeadlineId": "a22",
       "briefingSummary": "One article today covering Embodied AI & Robotics. QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth oppo"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "U.S. Orders Federal Agencies to Remove DeepSeek AI Products Over National Security Concerns - AI Insider",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources."
+      "articleCount": 23,
+      "topHeadline": "China skeptics raise alarm over Hochul's plan for upstate chip plant: 'Red flags here with yellow stars' - New York Post",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 23 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,10 +39,10 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 5,
-      "topHeadline": "Oppo wins second injunction against Asus in China",
-      "topHeadlineId": "a11",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Will TP-Link really make routers in the US? Here’s what it told us",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles). A total of 6 articles were aggregated from monitored sources."
     }
   },
   "totalArticles": 32

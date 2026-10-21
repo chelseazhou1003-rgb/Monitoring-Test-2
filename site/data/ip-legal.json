@@ -1,38 +1,11 @@
 {
-  "generatedAt": "2026-10-21T15:39:20.959Z",
-  "date": "2026-10-21",
+  "generatedAt": "2026-10-21T19:40:15.268Z",
+  "date": "2026-10-22",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan",
-    "keyTakeaways": [
-      {
-        "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
-        "articleIds": [
-          "a25"
-        ],
-        "subCategory": "patent-litigation"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
-      "description": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-      "source": "EE Times",
-      "sourceId": "eetimes",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-10-19T16:13:37.000Z",
-      "fetchedAt": "2026-10-21T15:39:13.889Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-      "id": "a25"
-    }
-  ]
+  "articles": []
 }
