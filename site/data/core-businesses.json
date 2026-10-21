@@ -1,22 +1,22 @@
 {
-  "generatedAt": "2026-10-21T10:37:26.866Z",
+  "generatedAt": "2026-10-21T15:39:20.959Z",
   "date": "2026-10-21",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (2 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
+        "text": "Semiconductors: Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
         "articleIds": [
-          "a4"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
         "articleIds": [
-          "a16"
+          "a20"
         ],
         "subCategory": "mobile-chips"
       }
@@ -24,22 +24,22 @@
   },
   "articles": [
     {
-      "title": "Qualcomm’s Effort to Market the Invisible",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video",
-      "description": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
+      "url": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
+      "description": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-21T08:01:01.000Z",
-      "fetchedAt": "2026-10-21T10:37:21.425Z",
+      "publishedAt": "2026-10-21T14:30:29.000Z",
+      "fetchedAt": "2026-10-21T15:39:12.830Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
-      "id": "a4"
+      "summary": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
+      "id": "a1"
     },
     {
       "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T18:07:15.000Z",
-      "fetchedAt": "2026-10-21T10:37:21.269Z",
+      "fetchedAt": "2026-10-21T15:39:12.830Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
-      "id": "a11"
+      "id": "a17"
     },
     {
       "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
@@ -67,7 +67,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T16:29:10.000Z",
-      "fetchedAt": "2026-10-21T10:37:25.684Z",
+      "fetchedAt": "2026-10-21T15:39:19.618Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -76,7 +76,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters",
-      "id": "a13"
+      "id": "a18"
     },
     {
       "title": "Qualcomm plans global job cuts after employee reviews",
@@ -86,7 +86,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-20T14:19:40.000Z",
-      "fetchedAt": "2026-10-21T10:37:24.724Z",
+      "fetchedAt": "2026-10-21T15:39:17.936Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -94,24 +94,6 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "id": "a16"
-    },
-    {
-      "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-slips-report-reveals-130247662.html?.tsrc=rss",
-      "description": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T13:02:47.000Z",
-      "fetchedAt": "2026-10-21T10:37:21.269Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
       "id": "a20"
     },
     {
@@ -122,7 +104,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-20T08:01:15.000Z",
-      "fetchedAt": "2026-10-21T10:37:24.724Z",
+      "fetchedAt": "2026-10-21T15:39:17.936Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",

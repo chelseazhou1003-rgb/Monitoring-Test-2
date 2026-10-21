@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T10:37:26.866Z",
+  "generatedAt": "2026-10-21T15:39:20.959Z",
   "date": "2026-10-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
         "articleIds": [
-          "a3"
+          "a11"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-21T10:37:23.285Z",
+      "fetchedAt": "2026-10-21T15:39:16.257Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "oem"
       ],
       "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-      "id": "a3"
+      "id": "a11"
     },
     {
       "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
@@ -45,7 +45,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-21T01:08:24.000Z",
-      "fetchedAt": "2026-10-21T10:37:26.836Z",
+      "fetchedAt": "2026-10-21T15:39:20.918Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Crypto Briefing",
       "geopoliticalBypass": true,
@@ -57,7 +57,7 @@
         "platform-partner"
       ],
       "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
-      "id": "a6"
+      "id": "a12"
     },
     {
       "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
@@ -67,7 +67,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T21:18:27.000Z",
-      "fetchedAt": "2026-10-21T10:37:26.836Z",
+      "fetchedAt": "2026-10-21T15:39:20.918Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Forkast News",
       "geopoliticalBypass": true,
@@ -79,7 +79,7 @@
         "platform-partner"
       ],
       "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -89,7 +89,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-20T08:14:51.000Z",
-      "fetchedAt": "2026-10-21T10:37:25.199Z",
+      "fetchedAt": "2026-10-21T15:39:18.236Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -110,7 +110,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-21T10:37:24.546Z",
+      "fetchedAt": "2026-10-21T15:39:17.777Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -121,7 +121,7 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a27"
+      "id": "a26"
     }
   ]
 }
