@@ -1,28 +1,46 @@
 {
-  "generatedAt": "2026-10-21T05:21:34.265Z",
+  "generatedAt": "2026-10-21T10:37:26.866Z",
   "date": "2026-10-21",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
+        "text": "Semiconductors: Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
         "articleIds": [
-          "a8"
+          "a4"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
         "articleIds": [
-          "a13"
+          "a16"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm’s Effort to Market the Invisible",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video",
+      "description": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-21T08:01:01.000Z",
+      "fetchedAt": "2026-10-21T10:37:21.425Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
+      "id": "a4"
+    },
     {
       "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
       "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI?.tsrc=rss",
@@ -31,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T18:07:15.000Z",
-      "fetchedAt": "2026-10-21T05:21:27.962Z",
+      "fetchedAt": "2026-10-21T10:37:21.269Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
@@ -49,7 +67,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T16:29:10.000Z",
-      "fetchedAt": "2026-10-21T05:21:33.075Z",
+      "fetchedAt": "2026-10-21T10:37:25.684Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -58,7 +76,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters",
-      "id": "a10"
+      "id": "a13"
     },
     {
       "title": "Qualcomm plans global job cuts after employee reviews",
@@ -68,7 +86,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-20T14:19:40.000Z",
-      "fetchedAt": "2026-10-21T05:21:32.114Z",
+      "fetchedAt": "2026-10-21T10:37:24.724Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -76,7 +94,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
@@ -86,7 +104,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T13:02:47.000Z",
-      "fetchedAt": "2026-10-21T05:21:27.962Z",
+      "fetchedAt": "2026-10-21T10:37:21.269Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -94,7 +112,25 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
-      "id": "a17"
+      "id": "a20"
+    },
+    {
+      "title": "Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas",
+      "url": "https://www.mobileworldlive.com/spanish/qualcomm-prepara-recortes-de-plantilla-en-todo-el-mundo-tras-las-evaluaciones-internas/",
+      "description": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-20T08:01:15.000Z",
+      "fetchedAt": "2026-10-21T10:37:24.724Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+      "id": "a23"
     }
   ]
 }

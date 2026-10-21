@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,48 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
+          "text": "Semiconductors: Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
           "articleIds": [
-            "a8"
+            "a4"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
           "articleIds": [
-            "a13"
+            "a16"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm’s Effort to Market the Invisible",
+        "url": "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video",
+        "description": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-21T08:01:01.000Z",
+        "fetchedAt": "2026-10-21T10:37:21.425Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
+        "id": "a4"
+      },
       {
         "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
         "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI?.tsrc=rss",
@@ -45,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T18:07:15.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
@@ -63,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T16:29:10.000Z",
-        "fetchedAt": "2026-10-21T05:21:33.075Z",
+        "fetchedAt": "2026-10-21T10:37:25.684Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "core-businesses",
@@ -72,7 +90,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters",
-        "id": "a10"
+        "id": "a13"
       },
       {
         "title": "Qualcomm plans global job cuts after employee reviews",
@@ -82,7 +100,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-20T14:19:40.000Z",
-        "fetchedAt": "2026-10-21T05:21:32.114Z",
+        "fetchedAt": "2026-10-21T10:37:24.724Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -90,7 +108,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-        "id": "a13"
+        "id": "a16"
       },
       {
         "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
@@ -100,7 +118,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T13:02:47.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -108,12 +126,30 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
-        "id": "a17"
+        "id": "a20"
+      },
+      {
+        "title": "Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas",
+        "url": "https://www.mobileworldlive.com/spanish/qualcomm-prepara-recortes-de-plantilla-en-todo-el-mundo-tras-las-evaluaciones-internas/",
+        "description": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-20T08:01:15.000Z",
+        "fetchedAt": "2026-10-21T10:37:24.724Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+        "id": "a23"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -123,7 +159,7 @@ export const NEWS_DATA = {
         {
           "text": "Embodied AI & Robotics: QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
           "articleIds": [
-            "a15"
+            "a18"
           ],
           "subCategory": "embodied-ai-robotics"
         }
@@ -138,7 +174,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T13:09:00.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "embodied-ai-robotics",
@@ -146,53 +182,28 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
-        "id": "a15"
+        "id": "a18"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan",
       "keyTakeaways": [
-        {
-          "text": "FRAND & Licensing: A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology ne",
-          "articleIds": [
-            "a5"
-          ],
-          "subCategory": "frand-licensing"
-        },
         {
           "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
           "articleIds": [
-            "a25"
+            "a26"
           ],
           "subCategory": "patent-litigation"
         }
       ]
     },
     "articles": [
-      {
-        "title": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-20/judge-reluctant-to-intervene-in-qualcomm-arm-licensing-talks",
-        "description": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-20T21:01:34.000Z",
-        "fetchedAt": "2026-10-21T05:21:28.034Z",
-        "fetchStrategy": "rss",
-        "section": "ip-legal",
-        "subCategory": "frand-licensing",
-        "subLabel": "FRAND & Licensing",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-        "id": "a5"
-      },
       {
         "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
         "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
@@ -201,7 +212,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T16:13:37.000Z",
-        "fetchedAt": "2026-10-21T05:21:28.837Z",
+        "fetchedAt": "2026-10-21T10:37:21.943Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -209,39 +220,39 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-        "id": "a25"
+        "id": "a26"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-21T05:21:34.267Z",
+    "generatedAt": "2026-10-21T10:37:26.868Z",
     "date": "2026-10-21",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 6,
+        "topHeadline": "Qualcomm’s Effort to Market the Invisible",
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 2,
-        "topHeadline": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 1,
+        "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
+        "topHeadlineId": "a26",
+        "briefingSummary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan"
       },
       "growth-areas": {
         "title": "Growth Areas",
         "articleCount": 1,
         "topHeadline": "Can Qualcomm's PickNik Acquisition Strengthen Its Robotics Edge?",
-        "topHeadlineId": "a15",
+        "topHeadlineId": "a18",
         "briefingSummary": "One article today covering Embodied AI & Robotics. QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth oppo"
       },
       "macro-environment": {
         "title": "Macro",
         "articleCount": 20,
-        "topHeadline": "China’s nightmare: becoming the next Japan",
+        "topHeadline": "China links patent rulings to customs enforcement: solar disputes could disrupt global deliveries before goods leave port",
         "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources."
       },
@@ -254,16 +265,16 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 4,
-        "topHeadline": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 5,
+        "topHeadline": "Oppo wins second injunction against Asus in China",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles). A total of 5 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 31
+    "totalArticles": 33
   },
   "macro-environment": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -271,7 +282,7 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
+          "text": "Geopolitics & Export Controls: A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement",
           "articleIds": [
             "a1"
           ],
@@ -280,20 +291,79 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: SpaceX reported solid earnings fueled by a big jump in its artificial-intelligence business.",
           "articleIds": [
-            "a3"
+            "a7"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Customers & Partners: MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
           "articleIds": [
-            "a7"
+            "a10"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China links patent rulings to customs enforcement: solar disputes could disrupt global deliveries before goods leave port",
+        "url": "https://ipfray.com/china-links-patent-rulings-to-customs-enforcement-solar-disputes-could-disrupt-global-deliveries-before-goods-leave-port/",
+        "description": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-21T08:22:06.000Z",
+        "fetchedAt": "2026-10-21T10:37:25.199Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
+        "id": "a1"
+      },
+      {
+        "title": "What drone patents reveal about the next wave of competition",
+        "url": "https://www.iam-media.com/article/what-drone-patents-reveal-about-the-next-wave-of-competition",
+        "description": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-21T08:20:00.000Z",
+        "fetchedAt": "2026-10-21T10:37:23.285Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
+        "id": "a2"
+      },
+      {
+        "title": "Oppo wins second injunction against Asus in China",
+        "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
+        "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-21T08:02:46.000Z",
+        "fetchedAt": "2026-10-21T10:37:23.285Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+        "id": "a3"
+      },
       {
         "title": "China’s nightmare: becoming the next Japan",
         "url": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
@@ -302,7 +372,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-21T03:00:04.000Z",
-        "fetchedAt": "2026-10-21T05:21:28.549Z",
+        "fetchedAt": "2026-10-21T10:37:21.734Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -311,7 +381,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
@@ -321,7 +391,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-21T01:08:24.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.226Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Crypto Briefing",
         "geopoliticalBypass": true,
@@ -333,7 +403,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
@@ -343,7 +413,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T23:47:57.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -351,7 +421,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SpaceX reported solid earnings fueled by a big jump in its artificial-intelligence business.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
@@ -361,7 +431,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T21:18:27.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.225Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Forkast News",
         "geopoliticalBypass": true,
@@ -373,7 +443,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Qualcomm (QCOM) Beats Stock Market Upswing: What Investors Need to Know",
@@ -383,7 +453,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T20:45:05.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -391,7 +461,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) concluded the recent trading session at $176.31, signifying a +1.6% move from its prior day's close.",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life - MSUToday",
@@ -401,7 +471,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T20:32:58.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.225Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "MSUToday",
         "geopoliticalBypass": true,
@@ -411,7 +481,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
@@ -421,7 +491,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T18:06:13.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.853Z",
+        "fetchedAt": "2026-10-21T10:37:21.183Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -430,7 +500,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
-        "id": "a9"
+        "id": "a12"
       },
       {
         "title": "China defends DeepSeek after US ban of its AI from government systems - The Economic Times",
@@ -440,7 +510,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T15:22:42.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.226Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Economic Times",
         "geopoliticalBypass": true,
@@ -450,7 +520,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China defends DeepSeek after US ban of its AI from government systems The Economic Times",
-        "id": "a11"
+        "id": "a14"
       },
       {
         "title": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
@@ -460,7 +530,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T15:07:44.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.962Z",
+        "fetchedAt": "2026-10-21T10:37:21.269Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -468,7 +538,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 26%$QCOM Stock Price as of Oct. 19: $17452-Week High: $260$QCOM Stock Price Target: $195What Happened?Qualcomm (QCOM:NASDAQ) will cut jobs around the world.",
-        "id": "a12"
+        "id": "a15"
       },
       {
         "title": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security - Newsquawk",
@@ -478,7 +548,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T13:54:36.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.225Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Newsquawk",
         "geopoliticalBypass": true,
@@ -488,7 +558,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security Newsquawk",
-        "id": "a14"
+        "id": "a17"
       },
       {
         "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
@@ -498,7 +568,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-20T13:07:24.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.860Z",
+        "fetchedAt": "2026-10-21T10:37:21.140Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -507,7 +577,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-        "id": "a16"
+        "id": "a19"
       },
       {
         "title": "China’s AI export order is a switch, not a wall - The Indian Express",
@@ -517,7 +587,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T12:04:01.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.226Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Indian Express",
         "geopoliticalBypass": true,
@@ -527,27 +597,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s AI export order is a switch, not a wall The Indian Express",
-        "id": "a18"
-      },
-      {
-        "title": "Chips Act 2.0: Europe's New Semiconductor Strategy - Bundesverband der Deutschen Industrie e.V.",
-        "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGwybXdaV3dWdkpGeWhtQjV3VUV6eHpNb2paUll5M2V6Z0xCRjlzV0R0ZDVMWWZJS2cxZDhQbXd0QXlIZ0tEQUpVZUdLbnBRdnlxLXhOZTEtdTZBTFhaY3lVTXhIb3lTcEpnSDdIX1NZS0NXZWd4eWVXa3o5ankzXzdWa0tVYjNoVnNj?oc=5",
-        "description": "Chips Act 2.0: Europe's New Semiconductor Strategy Bundesverband der Deutschen Industrie e.V.",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-20T08:54:30.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.225Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Bundesverband der Deutschen Industrie e.V.",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chips Act 2.0: Europe's New Semiconductor Strategy Bundesverband der Deutschen Industrie e.V.",
-        "id": "a19"
+        "id": "a21"
       },
       {
         "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -557,7 +607,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-20T08:14:51.000Z",
-        "fetchedAt": "2026-10-21T05:21:32.306Z",
+        "fetchedAt": "2026-10-21T10:37:25.199Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -568,27 +618,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-        "id": "a20"
-      },
-      {
-        "title": "The fake commute: How China's unemployed save face - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?oc=5",
-        "description": "The fake commute: How China's unemployed save face Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-20T06:05:00.000Z",
-        "fetchedAt": "2026-10-21T05:21:33.075Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The fake commute: How China's unemployed save face Reuters",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "The world’s finance chiefs see new risks — and less China angst",
@@ -598,7 +628,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T05:27:53.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.853Z",
+        "fetchedAt": "2026-10-21T10:37:21.183Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -607,26 +637,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-        "id": "a22"
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-        "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-        "description": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-19T23:00:02.000Z",
-        "fetchedAt": "2026-10-21T05:21:27.853Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
-        "id": "a23"
+        "id": "a24"
       },
       {
         "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
@@ -636,7 +647,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-19T20:30:00.000Z",
-        "fetchedAt": "2026-10-21T05:21:32.102Z",
+        "fetchedAt": "2026-10-21T10:37:24.903Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -645,7 +656,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-        "id": "a24"
+        "id": "a25"
       },
       {
         "title": "The Workforce Behind the Roadmap",
@@ -655,7 +666,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T14:01:13.000Z",
-        "fetchedAt": "2026-10-21T05:21:31.455Z",
+        "fetchedAt": "2026-10-21T10:37:24.546Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -666,7 +677,7 @@ export const NEWS_DATA = {
           "industry-assoc"
         ],
         "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-        "id": "a26"
+        "id": "a27"
       },
       {
         "title": "Avanci now has “critical mass” in China, but negotiations continue, says 5G boss",
@@ -676,7 +687,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-19T07:00:00.000Z",
-        "fetchedAt": "2026-10-21T05:21:30.629Z",
+        "fetchedAt": "2026-10-21T10:37:23.285Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -685,7 +696,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Laurie Fitzgerald tells IAM that Avanci is seeking to apply same formula to new adjacent markets",
-        "id": "a27"
+        "id": "a28"
       }
     ]
   },
@@ -881,23 +892,44 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-21T05:21:34.265Z",
+    "generatedAt": "2026-10-21T10:37:26.866Z",
     "date": "2026-10-21",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
+          "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
           "articleIds": [
-            "a2"
+            "a3"
           ],
           "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Oppo wins second injunction against Asus in China",
+        "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
+        "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+        "source": "IAM",
+        "sourceId": "iam",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-21T08:02:46.000Z",
+        "fetchedAt": "2026-10-21T10:37:23.285Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+        "id": "a3"
+      },
       {
         "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
         "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxR0MxTFpsR2pHTUlLakZiZ29JOGJfek55YV9kWmswdmxFQXZHd093WC12eTQ4S25vbDRwZW1lOXZManowTjcxYWR3R1I?oc=5",
@@ -906,7 +938,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-21T01:08:24.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.226Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Crypto Briefing",
         "geopoliticalBypass": true,
@@ -918,7 +950,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
@@ -928,7 +960,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-20T21:18:27.000Z",
-        "fetchedAt": "2026-10-21T05:21:34.225Z",
+        "fetchedAt": "2026-10-21T10:37:26.836Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Forkast News",
         "geopoliticalBypass": true,
@@ -940,7 +972,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -950,7 +982,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-20T08:14:51.000Z",
-        "fetchedAt": "2026-10-21T05:21:32.306Z",
+        "fetchedAt": "2026-10-21T10:37:25.199Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -961,7 +993,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-        "id": "a20"
+        "id": "a22"
       },
       {
         "title": "The Workforce Behind the Roadmap",
@@ -971,7 +1003,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-19T14:01:13.000Z",
-        "fetchedAt": "2026-10-21T05:21:31.455Z",
+        "fetchedAt": "2026-10-21T10:37:24.546Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -982,7 +1014,7 @@ export const NEWS_DATA = {
           "industry-assoc"
         ],
         "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-        "id": "a26"
+        "id": "a27"
       }
     ]
   },
@@ -25335,34 +25367,52 @@ export const NEWS_DATA = {
     "totalArticles": 27
   },
   "archive-2026-10-21": {
-    "generatedAt": "2026-10-21T05:21:34.267Z",
+    "generatedAt": "2026-10-21T10:37:26.869Z",
     "date": "2026-10-21",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
+              "text": "Semiconductors: Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
               "articleIds": [
-                "a8"
+                "a4"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
               "articleIds": [
-                "a13"
+                "a16"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Qualcomm’s Effort to Market the Invisible",
+            "url": "https://www.bloomberg.com/news/videos/2026-10-21/qualcomm-s-effort-to-market-the-invisible-video",
+            "description": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-21T08:01:01.000Z",
+            "fetchedAt": "2026-10-21T10:37:21.425Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Raja Rajamannar sits down with Qualcomm Chief Marketing Officer Don McGuire to discuss transforming invisible infrastructure into a consumer brand as AI moves into everyday devices.",
+            "id": "a4"
+          },
           {
             "title": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
             "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-to-reportedly-conduct-global-layoffs-in-performance-driven-overhaul/cZxAcMrRBHI?.tsrc=rss",
@@ -25371,7 +25421,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T18:07:15.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25379,7 +25429,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
-            "id": "a8"
+            "id": "a11"
           },
           {
             "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
@@ -25389,7 +25439,7 @@ export const NEWS_DATA = {
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T16:29:10.000Z",
-            "fetchedAt": "2026-10-21T05:21:33.075Z",
+            "fetchedAt": "2026-10-21T10:37:25.684Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Reuters",
             "section": "core-businesses",
@@ -25398,7 +25448,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters",
-            "id": "a10"
+            "id": "a13"
           },
           {
             "title": "Qualcomm plans global job cuts after employee reviews",
@@ -25408,7 +25458,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-20T14:19:40.000Z",
-            "fetchedAt": "2026-10-21T05:21:32.114Z",
+            "fetchedAt": "2026-10-21T10:37:24.724Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -25416,7 +25466,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-            "id": "a13"
+            "id": "a16"
           },
           {
             "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
@@ -25426,7 +25476,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T13:02:47.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25434,53 +25484,46 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
-            "id": "a17"
+            "id": "a20"
+          },
+          {
+            "title": "Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas",
+            "url": "https://www.mobileworldlive.com/spanish/qualcomm-prepara-recortes-de-plantilla-en-todo-el-mundo-tras-las-evaluaciones-internas/",
+            "description": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-20T08:01:15.000Z",
+            "fetchedAt": "2026-10-21T10:37:24.724Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+            "id": "a23"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan",
           "keyTakeaways": [
-            {
-              "text": "FRAND & Licensing: A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology ne",
-              "articleIds": [
-                "a5"
-              ],
-              "subCategory": "frand-licensing"
-            },
             {
               "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
               "articleIds": [
-                "a25"
+                "a26"
               ],
               "subCategory": "patent-litigation"
             }
           ]
         },
         "articles": [
-          {
-            "title": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-20/judge-reluctant-to-intervene-in-qualcomm-arm-licensing-talks",
-            "description": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-20T21:01:34.000Z",
-            "fetchedAt": "2026-10-21T05:21:28.034Z",
-            "fetchStrategy": "rss",
-            "section": "ip-legal",
-            "subCategory": "frand-licensing",
-            "subLabel": "FRAND & Licensing",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-            "id": "a5"
-          },
           {
             "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
             "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
@@ -25489,7 +25532,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T16:13:37.000Z",
-            "fetchedAt": "2026-10-21T05:21:28.837Z",
+            "fetchedAt": "2026-10-21T10:37:21.943Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -25497,12 +25540,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-            "id": "a25"
+            "id": "a26"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -25512,7 +25555,7 @@ export const NEWS_DATA = {
             {
               "text": "Embodied AI & Robotics: QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
               "articleIds": [
-                "a15"
+                "a18"
               ],
               "subCategory": "embodied-ai-robotics"
             }
@@ -25527,7 +25570,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T13:09:00.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "growth-areas",
             "subCategory": "embodied-ai-robotics",
@@ -25535,12 +25578,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
-            "id": "a15"
+            "id": "a18"
           }
         ]
       },
       "macro-environment": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -25548,7 +25591,7 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 20 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
+              "text": "Geopolitics & Export Controls: A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement",
               "articleIds": [
                 "a1"
               ],
@@ -25557,20 +25600,79 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: SpaceX reported solid earnings fueled by a big jump in its artificial-intelligence business.",
               "articleIds": [
-                "a3"
+                "a7"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Customers & Partners: MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
               "articleIds": [
-                "a7"
+                "a10"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "China links patent rulings to customs enforcement: solar disputes could disrupt global deliveries before goods leave port",
+            "url": "https://ipfray.com/china-links-patent-rulings-to-customs-enforcement-solar-disputes-could-disrupt-global-deliveries-before-goods-leave-port/",
+            "description": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-21T08:22:06.000Z",
+            "fetchedAt": "2026-10-21T10:37:25.199Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A patent fight in China could disrupt overseas deliveries before goods leave a port. With solar singled out for stronger protection, closer links between administrative rulings and customs enforcement may raise the stakes of licensing negotiations across global supply chains.",
+            "id": "a1"
+          },
+          {
+            "title": "What drone patents reveal about the next wave of competition",
+            "url": "https://www.iam-media.com/article/what-drone-patents-reveal-about-the-next-wave-of-competition",
+            "description": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-21T08:20:00.000Z",
+            "fetchedAt": "2026-10-21T10:37:23.285Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
+            "id": "a2"
+          },
+          {
+            "title": "Oppo wins second injunction against Asus in China",
+            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
+            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-21T08:02:46.000Z",
+            "fetchedAt": "2026-10-21T10:37:23.285Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+            "id": "a3"
+          },
           {
             "title": "China’s nightmare: becoming the next Japan",
             "url": "https://www.ft.com/content/512ef255-89c2-4128-becc-914885c3a2a5?syn-25a6b1a6=1",
@@ -25579,7 +25681,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-21T03:00:04.000Z",
-            "fetchedAt": "2026-10-21T05:21:28.549Z",
+            "fetchedAt": "2026-10-21T10:37:21.734Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25588,7 +25690,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Tokyo lost decades when a property bust led to an economic slump. Could the same phenomenon undo Xi Jinping’s ambitions?",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
@@ -25598,7 +25700,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-21T01:08:24.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.226Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Crypto Briefing",
             "geopoliticalBypass": true,
@@ -25610,7 +25712,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
@@ -25620,7 +25722,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T23:47:57.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25628,7 +25730,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SpaceX reported solid earnings fueled by a big jump in its artificial-intelligence business.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
@@ -25638,7 +25740,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T21:18:27.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.225Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Forkast News",
             "geopoliticalBypass": true,
@@ -25650,7 +25752,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Qualcomm (QCOM) Beats Stock Market Upswing: What Investors Need to Know",
@@ -25660,7 +25762,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T20:45:05.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25668,7 +25770,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) concluded the recent trading session at $176.31, signifying a +1.6% move from its prior day's close.",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life - MSUToday",
@@ -25678,7 +25780,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T20:32:58.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.225Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "MSUToday",
             "geopoliticalBypass": true,
@@ -25688,7 +25790,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life MSUToday",
-            "id": "a7"
+            "id": "a10"
           },
           {
             "title": "Trump sued over 50% tariffs on Canada in latest trade challenge",
@@ -25698,7 +25800,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T18:06:13.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.853Z",
+            "fetchedAt": "2026-10-21T10:37:21.183Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25707,7 +25809,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A new lawsuit challenges President Donald Trump's tariffs on a range of Canadian goods using Section 338 of the Tariff Act of 1930.",
-            "id": "a9"
+            "id": "a12"
           },
           {
             "title": "China defends DeepSeek after US ban of its AI from government systems - The Economic Times",
@@ -25717,7 +25819,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T15:22:42.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.226Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Economic Times",
             "geopoliticalBypass": true,
@@ -25727,7 +25829,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China defends DeepSeek after US ban of its AI from government systems The Economic Times",
-            "id": "a11"
+            "id": "a14"
           },
           {
             "title": "Qualcomm Cuts Global Workforce Following Performance Focused Employee Reviews",
@@ -25737,7 +25839,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T15:07:44.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.962Z",
+            "fetchedAt": "2026-10-21T10:37:21.269Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -25745,7 +25847,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key Stats for Qualcomm StockPrice change for Qualcomm stock in last 6 months: 26%$QCOM Stock Price as of Oct. 19: $17452-Week High: $260$QCOM Stock Price Target: $195What Happened?Qualcomm (QCOM:NASDAQ) will cut jobs around the world.",
-            "id": "a12"
+            "id": "a15"
           },
           {
             "title": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security - Newsquawk",
@@ -25755,7 +25857,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T13:54:36.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.225Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Newsquawk",
             "geopoliticalBypass": true,
@@ -25765,7 +25867,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's Commerce Ministry, on US order on DeepSeek, says China firmly opposes this and US move is discriminatory, politicises tech and trade issues under guise of national security Newsquawk",
-            "id": "a14"
+            "id": "a17"
           },
           {
             "title": "US orders federal agencies to remove China’s DeepSeek AI from their systems",
@@ -25775,7 +25877,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-20T13:07:24.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.860Z",
+            "fetchedAt": "2026-10-21T10:37:21.140Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25784,7 +25886,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "has ordered federal civilian agencies to remove DeepSeek products and third-party services built using its technology, citing national security concerns.",
-            "id": "a16"
+            "id": "a19"
           },
           {
             "title": "China’s AI export order is a switch, not a wall - The Indian Express",
@@ -25794,7 +25896,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T12:04:01.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.226Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Indian Express",
             "geopoliticalBypass": true,
@@ -25804,27 +25906,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s AI export order is a switch, not a wall The Indian Express",
-            "id": "a18"
-          },
-          {
-            "title": "Chips Act 2.0: Europe's New Semiconductor Strategy - Bundesverband der Deutschen Industrie e.V.",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNZGwybXdaV3dWdkpGeWhtQjV3VUV6eHpNb2paUll5M2V6Z0xCRjlzV0R0ZDVMWWZJS2cxZDhQbXd0QXlIZ0tEQUpVZUdLbnBRdnlxLXhOZTEtdTZBTFhaY3lVTXhIb3lTcEpnSDdIX1NZS0NXZWd4eWVXa3o5ankzXzdWa0tVYjNoVnNj?oc=5",
-            "description": "Chips Act 2.0: Europe's New Semiconductor Strategy Bundesverband der Deutschen Industrie e.V.",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-20T08:54:30.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.225Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bundesverband der Deutschen Industrie e.V.",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chips Act 2.0: Europe's New Semiconductor Strategy Bundesverband der Deutschen Industrie e.V.",
-            "id": "a19"
+            "id": "a21"
           },
           {
             "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -25834,7 +25916,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-20T08:14:51.000Z",
-            "fetchedAt": "2026-10-21T05:21:32.306Z",
+            "fetchedAt": "2026-10-21T10:37:25.199Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25845,27 +25927,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-            "id": "a20"
-          },
-          {
-            "title": "The fake commute: How China's unemployed save face - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPOGNrUFg3d1QxV2UtNVFtdjY3SUhSdnF3Q29tbEljbmZqUlFIeFB3QmowcEMtbWNWTHFYRXBKLWQwSk1PYmJrbGxiTFZ1c004VTF4SnJLZ1J2MGdwclZxQzNobmdjR2Q1RHE1SVpDWmllRzlzNXlNWmZmalBQN21nRHQtN2dCTXRxNGNKeUZja0d1Z3g4U3JLZjFaa1p6X2VYUFgzc2dB?oc=5",
-            "description": "The fake commute: How China's unemployed save face Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-20T06:05:00.000Z",
-            "fetchedAt": "2026-10-21T05:21:33.075Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The fake commute: How China's unemployed save face Reuters",
-            "id": "a21"
+            "id": "a22"
           },
           {
             "title": "The world’s finance chiefs see new risks — and less China angst",
@@ -25875,7 +25937,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T05:27:53.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.853Z",
+            "fetchedAt": "2026-10-21T10:37:21.183Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25884,26 +25946,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Debt, AI and Ukraine dominated the conversation at the IMF-World Bank meetings in Bangkok, while China, the focus in 2018, slipped into the background.",
-            "id": "a22"
-          },
-          {
-            "title": "CNBC's The China Connection newsletter: Navigating a tech-heavy world",
-            "url": "https://www.cnbc.com/2026/10/19/cnbcs-the-china-connection-newsletter-navigating-a-tech-heavy-world.html",
-            "description": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-19T23:00:02.000Z",
-            "fetchedAt": "2026-10-21T05:21:27.853Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "While economists and former central bankers discuss tech and monetary policy at the Bund Summit, companies are moving faster to capture new revenue.",
-            "id": "a23"
+            "id": "a24"
           },
           {
             "title": "TP-Link taps Keytronic to bring broadband router assembly to the US",
@@ -25913,7 +25956,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-19T20:30:00.000Z",
-            "fetchedAt": "2026-10-21T05:21:32.102Z",
+            "fetchedAt": "2026-10-21T10:37:24.903Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25922,7 +25965,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Amid efforts to obtain an FCC exemption on new Wi-Fi 8 routers, TP-Link has signed a letter of intent with Keytronic to assemble those devices in the US starting next year. Keytronic recently exited manufacturing operations in China.",
-            "id": "a24"
+            "id": "a25"
           },
           {
             "title": "The Workforce Behind the Roadmap",
@@ -25932,7 +25975,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T14:01:13.000Z",
-            "fetchedAt": "2026-10-21T05:21:31.455Z",
+            "fetchedAt": "2026-10-21T10:37:24.546Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25943,7 +25986,7 @@ export const NEWS_DATA = {
               "industry-assoc"
             ],
             "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-            "id": "a26"
+            "id": "a27"
           },
           {
             "title": "Avanci now has “critical mass” in China, but negotiations continue, says 5G boss",
@@ -25953,7 +25996,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-19T07:00:00.000Z",
-            "fetchedAt": "2026-10-21T05:21:30.629Z",
+            "fetchedAt": "2026-10-21T10:37:23.285Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25962,12 +26005,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Laurie Fitzgerald tells IAM that Avanci is seeking to apply same formula to new adjacent markets",
-            "id": "a27"
+            "id": "a28"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -25978,23 +26021,44 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-21T05:21:34.265Z",
+        "generatedAt": "2026-10-21T10:37:26.866Z",
         "date": "2026-10-21",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
+              "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
               "articleIds": [
-                "a2"
+                "a3"
               ],
               "subCategory": "geopolitics-export-controls"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Oppo wins second injunction against Asus in China",
+            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
+            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-21T08:02:46.000Z",
+            "fetchedAt": "2026-10-21T10:37:23.285Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
+            "id": "a3"
+          },
           {
             "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
             "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxR0MxTFpsR2pHTUlLakZiZ29JOGJfek55YV9kWmswdmxFQXZHd093WC12eTQ4S25vbDRwZW1lOXZManowTjcxYWR3R1I?oc=5",
@@ -26003,7 +26067,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-21T01:08:24.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.226Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Crypto Briefing",
             "geopoliticalBypass": true,
@@ -26015,7 +26079,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
@@ -26025,7 +26089,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-20T21:18:27.000Z",
-            "fetchedAt": "2026-10-21T05:21:34.225Z",
+            "fetchedAt": "2026-10-21T10:37:26.836Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Forkast News",
             "geopoliticalBypass": true,
@@ -26037,7 +26101,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -26047,7 +26111,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-20T08:14:51.000Z",
-            "fetchedAt": "2026-10-21T05:21:32.306Z",
+            "fetchedAt": "2026-10-21T10:37:25.199Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26058,7 +26122,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-            "id": "a20"
+            "id": "a22"
           },
           {
             "title": "The Workforce Behind the Roadmap",
@@ -26068,7 +26132,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-19T14:01:13.000Z",
-            "fetchedAt": "2026-10-21T05:21:31.455Z",
+            "fetchedAt": "2026-10-21T10:37:24.546Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26079,12 +26143,12 @@ export const NEWS_DATA = {
               "industry-assoc"
             ],
             "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-            "id": "a26"
+            "id": "a27"
           }
         ]
       }
     },
-    "totalArticles": 31
+    "totalArticles": 33
   }
 };
 

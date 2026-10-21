@@ -1,46 +1,21 @@
 {
-  "generatedAt": "2026-10-21T05:21:34.265Z",
+  "generatedAt": "2026-10-21T10:37:26.866Z",
   "date": "2026-10-21",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan",
     "keyTakeaways": [
-      {
-        "text": "FRAND & Licensing: A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology ne",
-        "articleIds": [
-          "a5"
-        ],
-        "subCategory": "frand-licensing"
-      },
       {
         "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
         "articleIds": [
-          "a25"
+          "a26"
         ],
         "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/judge-reluctant-to-intervene-in-qualcomm-arm-licensing-talks",
-      "description": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T21:01:34.000Z",
-      "fetchedAt": "2026-10-21T05:21:28.034Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "frand-licensing",
-      "subLabel": "FRAND & Licensing",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-      "id": "a5"
-    },
     {
       "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
       "url": "https://www.eetimes.com/qualcomm-wins-key-claims-against-arm-but-damages-total-just-2/",
@@ -49,7 +24,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T16:13:37.000Z",
-      "fetchedAt": "2026-10-21T05:21:28.837Z",
+      "fetchedAt": "2026-10-21T10:37:21.943Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -57,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-      "id": "a25"
+      "id": "a26"
     }
   ]
 }
