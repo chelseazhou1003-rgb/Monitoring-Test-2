@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-21T19:40:15.268Z",
+  "generatedAt": "2026-10-21T22:48:02.319Z",
   "date": "2026-10-22",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (2 articles). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
@@ -12,6 +12,13 @@
           "a4"
         ],
         "subCategory": "semiconductors"
+      },
+      {
+        "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
+        "articleIds": [
+          "a20"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
@@ -24,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-21T14:30:29.000Z",
-      "fetchedAt": "2026-10-21T19:40:07.710Z",
+      "fetchedAt": "2026-10-21T22:47:55.856Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -42,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T18:07:15.000Z",
-      "fetchedAt": "2026-10-21T19:40:07.710Z",
+      "fetchedAt": "2026-10-21T22:47:55.856Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +57,43 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
+      "id": "a18"
+    },
+    {
+      "title": "Qualcomm plans global job cuts after employee reviews",
+      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-plans-global-job-cuts-after-employee-reviews/",
+      "description": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-20T14:19:40.000Z",
+      "fetchedAt": "2026-10-21T22:48:00.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
       "id": "a20"
+    },
+    {
+      "title": "Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas",
+      "url": "https://www.mobileworldlive.com/spanish/qualcomm-prepara-recortes-de-plantilla-en-todo-el-mundo-tras-las-evaluaciones-internas/",
+      "description": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-10-20T08:01:15.000Z",
+      "fetchedAt": "2026-10-21T22:48:00.434Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "El fabricante de chips Qualcomm recortará, según se informa, un número indeterminado de puestos de trabajo tras las evaluaciones anuales Read more... The post Qualcomm prepara recortes de plantilla en todo el mundo tras las evaluaciones internas appeared first on Mobile World Live.",
+      "id": "a22"
     }
   ]
 }
