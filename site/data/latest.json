@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-10-20T20:54:40.419Z",
+  "generatedAt": "2026-10-21T00:10:01.328Z",
   "date": "2026-10-21",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Qualcomm To Reportedly Conduct Global Layoffs In Performance-Driven Overhaul",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
-      "topHeadlineId": "a23",
-      "briefingSummary": "One article today covering Patent Litigation. The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing finan"
+      "articleCount": 2,
+      "topHeadline": "Judge Reluctant to Set Rates in Qualcomm-Arm Licensing Talks",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Patent Litigation (1 article). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 1,
       "topHeadline": "Can Qualcomm's PickNik Acquisition Strengthen Its Robotics Edge?",
-      "topHeadlineId": "a11",
+      "topHeadlineId": "a14",
       "briefingSummary": "One article today covering Embodied AI & Robotics. QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth oppo"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 19,
-      "topHeadline": "MSU, Michigan Tech partner to advance dual-use technologies that improve everyday life - MSUToday",
+      "articleCount": 21,
+      "topHeadline": "S&P 500, Dow Gain As Earnings Season Sets In, While SpaceX Aids Nasdaq After-Hours — SPCX, BA, MMM, NFLX, QCOM In Focus",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Customers & Partners (1 article), market-performance (1 article). A total of 19 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 21 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
-      "topHeadlineId": "a17",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 28
+  "totalArticles": 32
 }
