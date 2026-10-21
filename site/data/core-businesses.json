@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:10:01.325Z",
+  "generatedAt": "2026-10-21T05:21:34.265Z",
   "date": "2026-10-21",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
         "articleIds": [
-          "a11"
+          "a13"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T18:07:15.000Z",
-      "fetchedAt": "2026-10-21T00:09:52.459Z",
+      "fetchedAt": "2026-10-21T05:21:27.962Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Semiconductor giant Qualcomm is launching worldwide layoffs following annual reviews to cultivate a stricter performance culture, according to a Reuters report.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows - Reuters",
@@ -49,7 +49,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T16:29:10.000Z",
-      "fetchedAt": "2026-10-21T00:10:00.110Z",
+      "fetchedAt": "2026-10-21T05:21:33.075Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -58,7 +58,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "EXCLUSIVE: Qualcomm to cut jobs worldwide in performance-focused layoffs, internal memo shows Reuters",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Qualcomm plans global job cuts after employee reviews",
@@ -68,7 +68,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-20T14:19:40.000Z",
-      "fetchedAt": "2026-10-21T00:09:59.502Z",
+      "fetchedAt": "2026-10-21T05:21:32.114Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -76,7 +76,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "id": "a11"
+      "id": "a13"
     },
     {
       "title": "Qualcomm Stock Climbs as Report Reveals Possible November Layoffs",
@@ -86,7 +86,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T13:02:47.000Z",
-      "fetchedAt": "2026-10-21T00:09:52.459Z",
+      "fetchedAt": "2026-10-21T05:21:27.962Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -94,7 +94,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm Plans Workforce Cuts After Annual Reviews, Report Says",
-      "id": "a16"
+      "id": "a17"
     }
   ]
 }

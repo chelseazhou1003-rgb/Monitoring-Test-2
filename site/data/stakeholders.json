@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:10:01.325Z",
+  "generatedAt": "2026-10-21T05:21:34.265Z",
   "date": "2026-10-21",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -7,7 +7,7 @@
     "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (4 articles). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
+        "text": "Geopolitics & Export Controls: Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
         "articleIds": [
           "a2"
         ],
@@ -17,6 +17,28 @@
   },
   "articles": [
     {
+      "title": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 - Crypto Briefing",
+      "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTFBxR0MxTFpsR2pHTUlLakZiZ29JOGJfek55YV9kWmswdmxFQXZHd093WC12eTQ4S25vbDRwZW1lOXZManowTjcxYWR3R1I?oc=5",
+      "description": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-21T01:08:24.000Z",
+      "fetchedAt": "2026-10-21T05:21:34.226Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Crypto Briefing",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Nvidia, Google, Intel and Anthropic lobbied against AI chip export restrictions in Q3 Crypto Briefing",
+      "id": "a2"
+    },
+    {
       "title": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon - Forkast News",
       "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOTFVMZy0yVkJCcjBIXzU5WVFwMlVlQ2hVZEdUT09PamRTbDhWQm9tSjFDZ2FZQ0loOXJDSzFJS3dGVEJyQTluY3NfTXpCejhfSi1QTDVyblI0WkxmZUhVdGVfRHZjSUxiTTNHU3haYzFOaVRnQXhpbjFFSXJrcFRETEJDc0VXbHBFT0FGWDI5UWZxWkdBUWxudg?oc=5",
       "description": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
@@ -24,7 +46,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T21:18:27.000Z",
-      "fetchedAt": "2026-10-21T00:10:01.285Z",
+      "fetchedAt": "2026-10-21T05:21:34.225Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Forkast News",
       "geopoliticalBypass": true,
@@ -36,7 +58,7 @@
         "platform-partner"
       ],
       "summary": "Google and Meta Open-Source TorchTPU: Decoupling Model Code from Silicon Forkast News",
-      "id": "a2"
+      "id": "a4"
     },
     {
       "title": "OPPO wins fast-charging injunctions in China as its 5G and VVC counteroffensive challenges ASUS’s licensing campaign",
@@ -46,7 +68,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-20T08:14:51.000Z",
-      "fetchedAt": "2026-10-21T00:09:57.920Z",
+      "fetchedAt": "2026-10-21T05:21:32.306Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -57,27 +79,6 @@
         "oem"
       ],
       "summary": "OPPO has obtained another first-instance fast-charging injunction against ASUS in China, bringing its wins on that front to two alongside its 5G and VVC patent counteroffensive. The dispute now spans Europe, China, and India.",
-      "id": "a19"
-    },
-    {
-      "title": "US Sanctions Chinese Venture Firm in Google AI Secrets Case",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-20/us-sanctions-china-s-y-combinator-in-google-ai-secrets-case",
-      "description": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-20T07:11:11.000Z",
-      "fetchedAt": "2026-10-21T00:09:52.612Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "The US government has blacklisted a Chinese venture firm established by ex-Microsoft Corp. AI scientist Lu Qi for alleged ties to a startup accused of stealing technology from Alphabet Inc.’s Google.",
       "id": "a20"
     },
     {
@@ -88,7 +89,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T14:01:13.000Z",
-      "fetchedAt": "2026-10-21T00:09:57.455Z",
+      "fetchedAt": "2026-10-21T05:21:31.455Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -99,7 +100,7 @@
         "industry-assoc"
       ],
       "summary": "For three years, every semiconductor conference has featured some version of the same slide: the industry doesn’t have enough people to build what it’s promising. This month, SEMI’s National Network for Microelectronics Education (NNME), backed by the National Science Foundation and the U.S. Department of Commerce, named its first Industry Advisory Committee to turn those warnings into a national strategy, against a projected U.S. shortfall of 127,000 to 157,000 workers by 2030. The post The Workforce Behind the Roadmap appeared first on Semiconductor Digest.",
-      "id": "a27"
+      "id": "a26"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:10:01.325Z",
+  "generatedAt": "2026-10-21T05:21:34.265Z",
   "date": "2026-10-21",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,14 +9,14 @@
       {
         "text": "FRAND & Licensing: A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology ne",
         "articleIds": [
-          "a3"
+          "a5"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "Patent Litigation: The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key C",
         "articleIds": [
-          "a26"
+          "a25"
         ],
         "subCategory": "patent-litigation"
       }
@@ -31,7 +31,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T21:01:34.000Z",
-      "fetchedAt": "2026-10-21T00:09:52.612Z",
+      "fetchedAt": "2026-10-21T05:21:28.034Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A federal judge weighing an antitrust claim against Arm Holdings Plc expressed reluctance to get involved in setting licensing fees that Qualcomm Inc. would have to pay Arm for using new technology needed to design the next generation of chips for computers, phones, vehicles and data centers.",
-      "id": "a3"
+      "id": "a5"
     },
     {
       "title": "Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2",
@@ -49,7 +49,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-19T16:13:37.000Z",
-      "fetchedAt": "2026-10-21T00:09:53.549Z",
+      "fetchedAt": "2026-10-21T05:21:28.837Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The verdict is the latest chapter in a four-year IP dispute between the two chip giants, safeguarding Qualcomm's custom processors while placing financial pressure on Arm. The post Qualcomm Wins Key Claims Against Arm, but Damages Total Just $2 appeared first on EE Times.",
-      "id": "a26"
+      "id": "a25"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T00:10:01.325Z",
+  "generatedAt": "2026-10-21T05:21:34.265Z",
   "date": "2026-10-21",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Embodied AI & Robotics: QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
         "articleIds": [
-          "a14"
+          "a15"
         ],
         "subCategory": "embodied-ai-robotics"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-20T13:09:00.000Z",
-      "fetchedAt": "2026-10-21T00:09:52.459Z",
+      "fetchedAt": "2026-10-21T05:21:27.962Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "embodied-ai-robotics",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM's planned PickNik Robotics acquisition could accelerate its physical AI ambitions, strengthen its Dragonwing ecosystem and unlock new growth opportunities.",
-      "id": "a14"
+      "id": "a15"
     }
   ]
 }
