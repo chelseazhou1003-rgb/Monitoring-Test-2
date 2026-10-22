@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T18:52:50.235Z",
+  "generatedAt": "2026-10-22T22:46:58.748Z",
   "date": "2026-10-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
         "articleIds": [
-          "a5"
+          "a11"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-22T16:47:17.000Z",
-      "fetchedAt": "2026-10-22T18:52:43.675Z",
+      "fetchedAt": "2026-10-22T22:46:53.367Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "Samsung and SK hynix Race to Upgrade China NAND Fabs as YMTC Overtakes Samsung in the Local Market - XenoSpectrum",
@@ -45,7 +45,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T03:25:39.000Z",
-      "fetchedAt": "2026-10-22T18:52:50.198Z",
+      "fetchedAt": "2026-10-22T22:46:58.712Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "XenoSpectrum",
       "geopoliticalBypass": true,
@@ -57,7 +57,7 @@
         "oem"
       ],
       "summary": "Samsung and SK hynix Race to Upgrade China NAND Fabs as YMTC Overtakes Samsung in the Local Market XenoSpectrum",
-      "id": "a17"
+      "id": "a21"
     },
     {
       "title": "Oppo wins second injunction against Asus in China",
@@ -67,7 +67,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-22T18:52:46.353Z",
+      "fetchedAt": "2026-10-22T22:46:55.564Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
