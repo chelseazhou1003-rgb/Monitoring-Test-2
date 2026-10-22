@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-22T14:10:50.289Z",
-  "date": "2026-10-22",
+  "generatedAt": "2026-10-22T18:52:50.235Z",
+  "date": "2026-10-23",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the bu",
         "articleIds": [
-          "a11"
+          "a18"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
         "articleIds": [
-          "a22"
+          "a27"
         ],
         "subCategory": "mobile-chips"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T03:20:39.000Z",
-      "fetchedAt": "2026-10-22T14:10:43.112Z",
+      "fetchedAt": "2026-10-22T18:52:43.713Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-      "id": "a11"
+      "id": "a18"
     },
     {
       "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-21T14:30:29.000Z",
-      "fetchedAt": "2026-10-22T14:10:43.112Z",
+      "fetchedAt": "2026-10-22T18:52:43.713Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
-      "id": "a15"
+      "id": "a22"
     },
     {
       "title": "Qualcomm plans global job cuts after employee reviews",
@@ -67,7 +67,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-20T14:19:40.000Z",
-      "fetchedAt": "2026-10-22T14:10:48.135Z",
+      "fetchedAt": "2026-10-22T18:52:48.010Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "id": "a22"
+      "id": "a27"
     }
   ]
 }
