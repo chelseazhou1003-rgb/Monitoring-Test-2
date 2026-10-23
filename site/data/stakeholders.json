@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:45:00.225Z",
+  "generatedAt": "2026-10-23T21:43:45.218Z",
   "date": "2026-10-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
         "articleIds": [
-          "a24"
+          "a23"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-23T18:44:56.104Z",
+      "fetchedAt": "2026-10-23T21:43:34.964Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "oem"
       ],
       "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-      "id": "a24"
+      "id": "a23"
     }
   ]
 }

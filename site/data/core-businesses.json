@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-23T18:45:00.225Z",
+  "generatedAt": "2026-10-23T21:43:45.218Z",
   "date": "2026-10-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this com",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T14:00:40.000Z",
-      "fetchedAt": "2026-10-23T18:44:51.389Z",
+      "fetchedAt": "2026-10-23T21:43:32.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-      "id": "a6"
+      "id": "a8"
     },
     {
       "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-23T18:44:51.389Z",
+      "fetchedAt": "2026-10-23T21:43:32.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a8"
+      "id": "a10"
     },
     {
       "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T20:45:16.000Z",
-      "fetchedAt": "2026-10-23T18:44:51.389Z",
+      "fetchedAt": "2026-10-23T21:43:32.263Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -68,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-      "id": "a16"
+      "id": "a17"
     }
   ]
 }
