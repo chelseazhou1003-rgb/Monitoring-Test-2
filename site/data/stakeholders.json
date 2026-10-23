@@ -1,43 +1,21 @@
 {
-  "generatedAt": "2026-10-23T07:57:33.267Z",
+  "generatedAt": "2026-10-23T13:50:39.902Z",
   "date": "2026-10-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry digitimes",
+        "text": "Geopolitics & Export Controls: Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
         "articleIds": [
-          "a5"
+          "a20"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
-    {
-      "title": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry - digitimes",
-      "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5iX2VaT2hxLW50c2d4Y3FsODNTcVkzY0lRT2VvR0NJOE5BckdvZUVIcTFrZWhCWFRzTEQwam81WlBtOVl2MFVQQWdTeEtFUkF2VlJfOU5CeGtVaHdJQkJaeGdhT1JHN20yZkMxMlZuSlNQUFlzQ1dXWUtXMA?oc=5",
-      "description": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry digitimes",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-23T03:24:14.000Z",
-      "fetchedAt": "2026-10-23T07:57:33.232Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "digitimes",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry digitimes",
-      "id": "a5"
-    },
     {
       "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
       "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
@@ -46,7 +24,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-22T16:47:17.000Z",
-      "fetchedAt": "2026-10-23T07:57:21.462Z",
+      "fetchedAt": "2026-10-23T13:50:32.127Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -57,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "id": "a16"
+      "id": "a20"
     },
     {
       "title": "Oppo wins second injunction against Asus in China",
@@ -67,7 +45,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-23T07:57:23.521Z",
+      "fetchedAt": "2026-10-23T13:50:35.806Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

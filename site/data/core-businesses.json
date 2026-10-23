@@ -1,52 +1,38 @@
 {
-  "generatedAt": "2026-10-23T07:57:33.267Z",
+  "generatedAt": "2026-10-23T13:50:39.901Z",
   "date": "2026-10-23",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), PC Chips & Computing (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "PC Chips & Computing: Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from ",
+        "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a8"
-        ],
-        "subCategory": "pc-chips-computing"
-      },
-      {
-        "text": "Semiconductors: Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-        "articleIds": [
-          "a11"
+          "a5"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Mobile Chips: Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cut",
-        "articleIds": [
-          "a31"
-        ],
-        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
     {
-      "title": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-      "url": "https://www.theverge.com/gadgets/1017144/global-pc-shipments-dropped-q3-2026-ram",
-      "description": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026, PC shipments had been growing for over two years straight. But over the last several months, RAM, SSDs, and chips from Intel, AMD, and Qualcomm have all gotten more expensive, leading to price hikes on everything from MacBooks to Raspberry Pis. C … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-22T21:30:39.000Z",
-      "fetchedAt": "2026-10-23T07:57:21.801Z",
+      "title": "What Would It Take For Qualcomm Stock To Move Higher?",
+      "url": "https://www.trefis.com/articles/620154/what-would-it-take-for-qualcomm-stock-to-move-higher/2026-10-23?.tsrc=rss",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-23T09:02:00.000Z",
+      "fetchedAt": "2026-10-23T13:50:32.147Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "pc-chips-computing",
-      "subLabel": "PC Chips & Computing",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Demand for new PCs took a hit after months of price hikes, with Counterpoint Research reporting global PC shipments fell 21 percent year-over-year in Q3 2026. That's in line with earlier reports from IDC and Omdia. It's not just PCs, either - that same quarter, smartphone shipments also hit a 14-year low. Counterpoint linked the decline in PC shipments to higher component prices. Up until Q2 2026, PC shipments had been growing for over two years straight.",
-      "id": "a8"
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "id": "a5"
     },
     {
       "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -56,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T20:45:16.000Z",
-      "fetchedAt": "2026-10-23T07:57:21.488Z",
+      "fetchedAt": "2026-10-23T13:50:32.147Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-      "id": "a11"
+      "id": "a15"
     },
     {
       "title": "Qualcomm (QCOM) Stock Stays Near Fair Value On Tokenized Trading Objections",
@@ -74,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T03:20:39.000Z",
-      "fetchedAt": "2026-10-23T07:57:21.488Z",
+      "fetchedAt": "2026-10-23T13:50:32.147Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,43 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-      "id": "a26"
-    },
-    {
-      "title": "AMD, QCOM Targets Raised While INTC, COHR Face Cuts — Susquehanna Sees ‘Modest Upside’ For Chip Earnings",
-      "url": "https://stocktwits.com/news-articles/markets/equity/amd-qcom-targets-raised-while-intc-cohr-face-cuts-susquehanna-sees-modest-upside-for-chip-earnings/cZxM53zRBvK?.tsrc=rss",
-      "description": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-21T14:30:29.000Z",
-      "fetchedAt": "2026-10-23T07:57:21.488Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Susquehanna expects AI demand to drive semiconductor earnings upside in the third quarter, even as its price-target revisions diverge across major chipmakers.",
-      "id": "a27"
-    },
-    {
-      "title": "Qualcomm plans global job cuts after employee reviews",
-      "url": "https://www.mobileworldlive.com/qualcomm/qualcomm-plans-global-job-cuts-after-employee-reviews/",
-      "description": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-20T14:19:40.000Z",
-      "fetchedAt": "2026-10-23T07:57:31.153Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Chipmaker Qualcomm reportedly will cut an undetermined number of jobs following recent annual employee reviews, with impacted staff set to be alerted next month. The post Qualcomm plans global job cuts after employee reviews appeared first on Mobile World Live.",
-      "id": "a31"
+      "id": "a28"
     }
   ]
 }

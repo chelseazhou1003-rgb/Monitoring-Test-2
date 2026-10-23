@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-23T07:57:33.269Z",
+  "generatedAt": "2026-10-23T13:50:39.903Z",
   "date": "2026-10-23",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "PC shipments dropped over 20 percent in Q3 due to RAM price hikes",
-      "topHeadlineId": "a8",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), PC Chips & Computing (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "What Would It Take For Qualcomm Stock To Move Higher?",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 1,
+      "topHeadline": "Two Dollars and a Test Suite",
+      "topHeadlineId": "a6",
+      "briefingSummary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips"
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 26,
-      "topHeadline": "Volvo Cars shares plunge 31% amid China, U.S. slump and fresh job cuts",
+      "topHeadline": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (1 article). A total of 26 articles were aggregated from monitored sources."
     },
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "TSMC reportedly surveys suppliers on rare-earth-free motors as China's export-control pause nears legal expiry - digitimes",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 2,
+      "topHeadline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
+      "topHeadlineId": "a20",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 34
+  "totalArticles": 32
 }
