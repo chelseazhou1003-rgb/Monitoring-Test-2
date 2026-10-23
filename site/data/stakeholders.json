@@ -1,42 +1,21 @@
 {
-  "generatedAt": "2026-10-23T13:50:39.902Z",
-  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T18:45:00.225Z",
+  "date": "2026-10-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Geopolitics & Export Controls. The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
+        "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
         "articleIds": [
-          "a20"
+          "a24"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "url": "https://techcrunch.com/2026/10/22/chinese-hackers-spied-on-thousands-of-companies-after-breaching-it-giant-connectwise/",
-      "description": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "source": "TechCrunch",
-      "sourceId": "techcrunch",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-22T16:47:17.000Z",
-      "fetchedAt": "2026-10-23T13:50:32.127Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "id": "a20"
-    },
     {
       "title": "Oppo wins second injunction against Asus in China",
       "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
@@ -45,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-23T13:50:35.806Z",
+      "fetchedAt": "2026-10-23T18:44:56.104Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,7 +35,7 @@
         "oem"
       ],
       "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-      "id": "a30"
+      "id": "a24"
     }
   ]
 }

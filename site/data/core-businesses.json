@@ -1,21 +1,39 @@
 {
-  "generatedAt": "2026-10-23T13:50:39.901Z",
-  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T18:45:00.225Z",
+  "date": "2026-10-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
     "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
+        "text": "Semiconductors: Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this com",
         "articleIds": [
-          "a5"
+          "a6"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
+      "url": "https://247wallst.com/investing/2026/10/23/prediction-this-chip-stock-could-be-a-sleeper-ai-winner/?.tsrc=rss",
+      "description": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-23T14:00:40.000Z",
+      "fetchedAt": "2026-10-23T18:44:51.389Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
+      "id": "a6"
+    },
     {
       "title": "What Would It Take For Qualcomm Stock To Move Higher?",
       "url": "https://www.trefis.com/articles/620154/what-would-it-take-for-qualcomm-stock-to-move-higher/2026-10-23?.tsrc=rss",
@@ -24,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-23T13:50:32.147Z",
+      "fetchedAt": "2026-10-23T18:44:51.389Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -42,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T20:45:16.000Z",
-      "fetchedAt": "2026-10-23T13:50:32.147Z",
+      "fetchedAt": "2026-10-23T18:44:51.389Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,25 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-      "id": "a15"
-    },
-    {
-      "title": "Qualcomm (QCOM) Stock Stays Near Fair Value On Tokenized Trading Objections",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-stays-near-032039918.html?.tsrc=rss",
-      "description": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-22T03:20:39.000Z",
-      "fetchedAt": "2026-10-23T13:50:32.147Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QUALCOMM has delivered a powerful long run for shareholders, and with the stock last closing at US$177.96, the real question for you now is whether that price still lines up with the cash flows the business can produce over time. QUALCOMM has returned 81.0% over the past 3 years, which puts a lot of accumulated optimism on the line if its future cash generation does not keep pace with that share price performance. Recent revenue pressure from weaker smartphone shipments and rising chip...",
-      "id": "a28"
+      "id": "a16"
     }
   ]
 }

@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-23T13:50:39.903Z",
-  "date": "2026-10-23",
+  "generatedAt": "2026-10-23T18:45:00.227Z",
+  "date": "2026-10-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
-      "topHeadline": "What Would It Take For Qualcomm Stock To Move Higher?",
-      "topHeadlineId": "a5",
+      "topHeadline": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Two Dollars and a Test Suite",
-      "topHeadlineId": "a6",
+      "topHeadlineId": "a9",
       "briefingSummary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips"
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 26,
-      "topHeadline": "Silicon Valley Democrats demand investigation into Starlink restrictions in Ukraine",
+      "articleCount": 20,
+      "topHeadline": "U.S. dropping some Canada tariffs, Susan Collins says as trade war looms over Maine Senate race",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (25 articles), market-performance (1 article). A total of 26 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (1 article). A total of 20 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Chinese hackers spied on thousands of companies after breaching IT giant ConnectWise",
-      "topHeadlineId": "a20",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Oppo wins second injunction against Asus in China",
+      "topHeadlineId": "a24",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago"
     }
   },
-  "totalArticles": 32
+  "totalArticles": 25
 }
