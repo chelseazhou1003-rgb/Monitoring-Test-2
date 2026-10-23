@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-22T22:46:58.748Z",
+  "generatedAt": "2026-10-23T02:00:22.020Z",
   "date": "2026-10-23",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
         "articleIds": [
-          "a11"
+          "a12"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-22T16:47:17.000Z",
-      "fetchedAt": "2026-10-22T22:46:53.367Z",
+      "fetchedAt": "2026-10-23T02:00:13.934Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Microsoft points the blame for ConnectWise's breach at a China-aligned hacker, which relied on AI agents to rapidly hack into thousands of its customers.",
-      "id": "a11"
+      "id": "a12"
     },
     {
       "title": "Samsung and SK hynix Race to Upgrade China NAND Fabs as YMTC Overtakes Samsung in the Local Market - XenoSpectrum",
@@ -45,7 +45,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T03:25:39.000Z",
-      "fetchedAt": "2026-10-22T22:46:58.712Z",
+      "fetchedAt": "2026-10-23T02:00:21.995Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "XenoSpectrum",
       "geopoliticalBypass": true,
@@ -57,7 +57,7 @@
         "oem"
       ],
       "summary": "Samsung and SK hynix Race to Upgrade China NAND Fabs as YMTC Overtakes Samsung in the Local Market XenoSpectrum",
-      "id": "a21"
+      "id": "a23"
     },
     {
       "title": "Oppo wins second injunction against Asus in China",
@@ -67,7 +67,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-21T08:02:46.000Z",
-      "fetchedAt": "2026-10-22T22:46:55.564Z",
+      "fetchedAt": "2026-10-23T02:00:16.970Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -78,7 +78,7 @@
         "oem"
       ],
       "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-      "id": "a26"
+      "id": "a29"
     }
   ]
 }
