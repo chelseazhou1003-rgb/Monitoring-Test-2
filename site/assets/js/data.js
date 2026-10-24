@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
           "articleIds": [
-            "a13"
+            "a12"
           ],
           "subCategory": "semiconductors"
         }
@@ -38,7 +38,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T17:32:25.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.547Z",
+        "fetchedAt": "2026-10-24T19:50:11.602Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -46,7 +46,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-        "id": "a13"
+        "id": "a12"
       },
       {
         "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -56,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:00:40.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.547Z",
+        "fetchedAt": "2026-10-24T19:50:11.602Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -64,7 +64,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-        "id": "a14"
+        "id": "a13"
       },
       {
         "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T09:02:00.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.547Z",
+        "fetchedAt": "2026-10-24T19:50:11.602Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -82,7 +82,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a15"
+        "id": "a14"
       },
       {
         "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -92,7 +92,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T20:45:16.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.547Z",
+        "fetchedAt": "2026-10-24T19:50:11.602Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -100,12 +100,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-        "id": "a18"
+        "id": "a17"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -116,7 +116,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -141,7 +141,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-24T00:00:00.000Z",
-        "fetchedAt": "2026-10-24T17:38:02.384Z",
+        "fetchedAt": "2026-10-24T19:50:12.271Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T08:03:27.000Z",
-        "fetchedAt": "2026-10-24T17:38:02.384Z",
+        "fetchedAt": "2026-10-24T19:50:12.271Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -167,19 +167,19 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-        "id": "a16"
+        "id": "a15"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-24T17:38:09.189Z",
+    "generatedAt": "2026-10-24T19:50:18.220Z",
     "date": "2026-10-25",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-        "topHeadlineId": "a13",
+        "topHeadlineId": "a12",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -198,10 +198,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 15,
-        "topHeadline": "Ukraine military says Starlink service restrictions have been lifted",
+        "articleCount": 14,
+        "topHeadline": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles). A total of 15 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -218,18 +218,18 @@ export const NEWS_DATA = {
         "briefingSummary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app"
       }
     },
-    "totalArticles": 22
+    "totalArticles": 21
   },
   "macro-environment": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles). A total of 15 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+          "text": "Geopolitics & Export Controls: Critics say prime minister’s proposal would turn country into an economic pariah",
           "articleIds": [
             "a1"
           ],
@@ -239,6 +239,25 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+        "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+        "description": "Critics say prime minister’s proposal would turn country into an economic pariah",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-24T19:19:48.000Z",
+        "fetchedAt": "2026-10-24T19:50:12.086Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
+        "id": "a1"
+      },
+      {
         "title": "Ukraine military says Starlink service restrictions have been lifted",
         "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
         "description": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
@@ -246,7 +265,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T13:16:04.000Z",
-        "fetchedAt": "2026-10-24T17:38:02.179Z",
+        "fetchedAt": "2026-10-24T19:50:12.086Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -255,7 +274,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-        "id": "a1"
+        "id": "a2"
       },
       {
         "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
@@ -265,7 +284,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T13:00:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.417Z",
+        "fetchedAt": "2026-10-24T19:50:11.479Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -274,7 +293,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-        "id": "a2"
+        "id": "a3"
       },
       {
         "title": "It’s time to find a new browser",
@@ -284,7 +303,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-24T12:00:00.000Z",
-        "fetchedAt": "2026-10-24T17:38:02.272Z",
+        "fetchedAt": "2026-10-24T19:50:12.134Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -293,7 +312,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O … Read the full story at The Verge.",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data - Newswav",
@@ -303,7 +322,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T11:00:04.000Z",
-        "fetchedAt": "2026-10-24T17:38:09.153Z",
+        "fetchedAt": "2026-10-24T19:50:18.194Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Newswav",
         "geopoliticalBypass": true,
@@ -313,17 +332,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data Newswav",
-        "id": "a4"
+        "id": "a5"
       },
       {
-        "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+        "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
         "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-        "description": "Benjamin Netanyahu said he is exploring the use of cryptocurrency to circumvent potential financial sanctions on Israel, drawing criticism from opposition figures who said it would turn the Jewish state into an economic pariah like Iran.",
+        "description": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T10:54:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.754Z",
+        "fetchedAt": "2026-10-24T19:50:11.800Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -331,8 +350,8 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Benjamin Netanyahu said he is exploring the use of cryptocurrency to circumvent potential financial sanctions on Israel, drawing criticism from opposition figures who said it would turn the Jewish state into an economic pariah like Iran.",
-        "id": "a5"
+        "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
+        "id": "a6"
       },
       {
         "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -342,7 +361,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T07:29:42.000Z",
-        "fetchedAt": "2026-10-24T17:38:09.153Z",
+        "fetchedAt": "2026-10-24T19:50:18.194Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "electronics.economictimes.indiatimes.com",
         "geopoliticalBypass": true,
@@ -352,25 +371,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-        "id": "a6"
-      },
-      {
-        "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
-        "url": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
-        "description": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-24T04:00:23.000Z",
-        "fetchedAt": "2026-10-24T17:38:02.179Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
         "id": "a7"
       },
       {
@@ -381,7 +381,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.754Z",
+        "fetchedAt": "2026-10-24T19:50:11.800Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -402,7 +402,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T21:26:59.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.417Z",
+        "fetchedAt": "2026-10-24T19:50:11.479Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -421,7 +421,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T19:50:26.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.417Z",
+        "fetchedAt": "2026-10-24T19:50:11.479Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -433,26 +433,6 @@ export const NEWS_DATA = {
         "id": "a11"
       },
       {
-        "title": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate - Legis1",
-        "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85MWJuUFBYUU5jY29pSkpKM2NCVjZxQXZsWmFOeFBqWW5nQW95STVoNElEZ0NrTFBUWVVoTVphb29YMTlxbm5idllERy1sQndwZEw2Szl3NjBsSU1IQk11TlJwbkFyZEJ1NHkyRl9yU1J6WFd2ZmQ5YWRCcw?oc=5",
-        "description": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T18:00:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:09.153Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Legis1",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-        "id": "a12"
-      },
-      {
         "title": "Chip Industry Week In Review",
         "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
         "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -460,7 +440,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T07:01:23.000Z",
-        "fetchedAt": "2026-10-24T17:38:03.280Z",
+        "fetchedAt": "2026-10-24T19:50:13.154Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -469,7 +449,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a17"
+        "id": "a16"
       },
       {
         "title": "US pumps $400M into semiconductor R&D",
@@ -479,7 +459,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-22T15:04:10.000Z",
-        "fetchedAt": "2026-10-24T17:38:07.572Z",
+        "fetchedAt": "2026-10-24T19:50:16.074Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -488,7 +468,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-        "id": "a19"
+        "id": "a18"
       },
       {
         "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -498,7 +478,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-22T08:16:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:04.258Z",
+        "fetchedAt": "2026-10-24T19:50:14.552Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -507,7 +487,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-        "id": "a20"
+        "id": "a19"
       },
       {
         "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -517,7 +497,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-22T07:02:07.000Z",
-        "fetchedAt": "2026-10-24T17:38:03.280Z",
+        "fetchedAt": "2026-10-24T19:50:13.154Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -526,7 +506,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-        "id": "a21"
+        "id": "a20"
       }
     ]
   },
@@ -722,7 +702,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-24T17:38:09.185Z",
+    "generatedAt": "2026-10-24T19:50:18.217Z",
     "date": "2026-10-25",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -747,7 +727,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-24T17:38:01.754Z",
+        "fetchedAt": "2026-10-24T19:50:11.800Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -25486,11 +25466,11 @@ export const NEWS_DATA = {
     "totalArticles": 22
   },
   "archive-2026-10-25": {
-    "generatedAt": "2026-10-24T17:38:09.189Z",
+    "generatedAt": "2026-10-24T19:50:18.220Z",
     "date": "2026-10-25",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -25500,7 +25480,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
               "articleIds": [
-                "a13"
+                "a12"
               ],
               "subCategory": "semiconductors"
             }
@@ -25515,7 +25495,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T17:32:25.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.547Z",
+            "fetchedAt": "2026-10-24T19:50:11.602Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25523,7 +25503,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-            "id": "a13"
+            "id": "a12"
           },
           {
             "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -25533,7 +25513,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:00:40.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.547Z",
+            "fetchedAt": "2026-10-24T19:50:11.602Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25541,7 +25521,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-            "id": "a14"
+            "id": "a13"
           },
           {
             "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -25551,7 +25531,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T09:02:00.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.547Z",
+            "fetchedAt": "2026-10-24T19:50:11.602Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25559,7 +25539,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a15"
+            "id": "a14"
           },
           {
             "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -25569,7 +25549,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T20:45:16.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.547Z",
+            "fetchedAt": "2026-10-24T19:50:11.602Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25577,12 +25557,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-            "id": "a18"
+            "id": "a17"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -25607,7 +25587,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-24T00:00:00.000Z",
-            "fetchedAt": "2026-10-24T17:38:02.384Z",
+            "fetchedAt": "2026-10-24T19:50:12.271Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -25625,7 +25605,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T08:03:27.000Z",
-            "fetchedAt": "2026-10-24T17:38:02.384Z",
+            "fetchedAt": "2026-10-24T19:50:12.271Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -25633,12 +25613,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-            "id": "a16"
+            "id": "a15"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -25649,15 +25629,15 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles). A total of 15 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
+              "text": "Geopolitics & Export Controls: Critics say prime minister’s proposal would turn country into an economic pariah",
               "articleIds": [
                 "a1"
               ],
@@ -25667,6 +25647,25 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
+            "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
+            "description": "Critics say prime minister’s proposal would turn country into an economic pariah",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-24T19:19:48.000Z",
+            "fetchedAt": "2026-10-24T19:50:12.086Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
+            "id": "a1"
+          },
+          {
             "title": "Ukraine military says Starlink service restrictions have been lifted",
             "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
             "description": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
@@ -25674,7 +25673,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T13:16:04.000Z",
-            "fetchedAt": "2026-10-24T17:38:02.179Z",
+            "fetchedAt": "2026-10-24T19:50:12.086Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25683,7 +25682,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Slowdown in drone communication system hampered Kyiv’s ability to defend itself against Russian strikes",
-            "id": "a1"
+            "id": "a2"
           },
           {
             "title": "Ukraine says Starlink and Starshield high speed restrictions have been lifted",
@@ -25693,7 +25692,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T13:00:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.417Z",
+            "fetchedAt": "2026-10-24T19:50:11.479Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25702,7 +25701,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-            "id": "a2"
+            "id": "a3"
           },
           {
             "title": "It’s time to find a new browser",
@@ -25712,7 +25711,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-24T12:00:00.000Z",
-            "fetchedAt": "2026-10-24T17:38:02.272Z",
+            "fetchedAt": "2026-10-24T19:50:12.134Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25721,7 +25720,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O … Read the full story at The Verge.",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data - Newswav",
@@ -25731,7 +25730,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T11:00:04.000Z",
-            "fetchedAt": "2026-10-24T17:38:09.153Z",
+            "fetchedAt": "2026-10-24T19:50:18.194Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Newswav",
             "geopoliticalBypass": true,
@@ -25741,17 +25740,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data Newswav",
-            "id": "a4"
+            "id": "a5"
           },
           {
-            "title": "Netanyahu Says Israel Mulls Crypto Ahead of Possible Sanctions",
+            "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
             "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-            "description": "Benjamin Netanyahu said he is exploring the use of cryptocurrency to circumvent potential financial sanctions on Israel, drawing criticism from opposition figures who said it would turn the Jewish state into an economic pariah like Iran.",
+            "description": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
             "source": "Bloomberg",
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T10:54:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.754Z",
+            "fetchedAt": "2026-10-24T19:50:11.800Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25759,8 +25758,8 @@ export const NEWS_DATA = {
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Benjamin Netanyahu said he is exploring the use of cryptocurrency to circumvent potential financial sanctions on Israel, drawing criticism from opposition figures who said it would turn the Jewish state into an economic pariah like Iran.",
-            "id": "a5"
+            "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
+            "id": "a6"
           },
           {
             "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -25770,7 +25769,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T07:29:42.000Z",
-            "fetchedAt": "2026-10-24T17:38:09.153Z",
+            "fetchedAt": "2026-10-24T19:50:18.194Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "electronics.economictimes.indiatimes.com",
             "geopoliticalBypass": true,
@@ -25780,25 +25779,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-            "id": "a6"
-          },
-          {
-            "title": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
-            "url": "https://www.ft.com/content/f9592534-1a3d-409d-9a57-f05919440032?syn-25a6b1a6=1",
-            "description": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-24T04:00:23.000Z",
-            "fetchedAt": "2026-10-24T17:38:02.179Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
             "id": "a7"
           },
           {
@@ -25809,7 +25789,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.754Z",
+            "fetchedAt": "2026-10-24T19:50:11.800Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25830,7 +25810,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T21:26:59.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.417Z",
+            "fetchedAt": "2026-10-24T19:50:11.479Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25849,7 +25829,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T19:50:26.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.417Z",
+            "fetchedAt": "2026-10-24T19:50:11.479Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25861,26 +25841,6 @@ export const NEWS_DATA = {
             "id": "a11"
           },
           {
-            "title": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate - Legis1",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE85MWJuUFBYUU5jY29pSkpKM2NCVjZxQXZsWmFOeFBqWW5nQW95STVoNElEZ0NrTFBUWVVoTVphb29YMTlxbm5idllERy1sQndwZEw2Szl3NjBsSU1IQk11TlJwbkFyZEJ1NHkyRl9yU1J6WFd2ZmQ5YWRCcw?oc=5",
-            "description": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T18:00:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:09.153Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Legis1",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-            "id": "a12"
-          },
-          {
             "title": "Chip Industry Week In Review",
             "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
             "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -25888,7 +25848,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T07:01:23.000Z",
-            "fetchedAt": "2026-10-24T17:38:03.280Z",
+            "fetchedAt": "2026-10-24T19:50:13.154Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25897,7 +25857,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a17"
+            "id": "a16"
           },
           {
             "title": "US pumps $400M into semiconductor R&D",
@@ -25907,7 +25867,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-22T15:04:10.000Z",
-            "fetchedAt": "2026-10-24T17:38:07.572Z",
+            "fetchedAt": "2026-10-24T19:50:16.074Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25916,7 +25876,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-            "id": "a19"
+            "id": "a18"
           },
           {
             "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -25926,7 +25886,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-22T08:16:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:04.258Z",
+            "fetchedAt": "2026-10-24T19:50:14.552Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25935,7 +25895,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "id": "a20"
+            "id": "a19"
           },
           {
             "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -25945,7 +25905,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-22T07:02:07.000Z",
-            "fetchedAt": "2026-10-24T17:38:03.280Z",
+            "fetchedAt": "2026-10-24T19:50:13.154Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25954,12 +25914,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "id": "a21"
+            "id": "a20"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -25970,7 +25930,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-24T17:38:09.185Z",
+        "generatedAt": "2026-10-24T19:50:18.217Z",
         "date": "2026-10-25",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -25995,7 +25955,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-24T17:38:01.754Z",
+            "fetchedAt": "2026-10-24T19:50:11.800Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26011,7 +25971,7 @@ export const NEWS_DATA = {
         ]
       }
     },
-    "totalArticles": 22
+    "totalArticles": 21
   }
 };
 

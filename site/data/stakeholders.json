@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:38:09.185Z",
+  "generatedAt": "2026-10-24T19:50:18.217Z",
   "date": "2026-10-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -24,7 +24,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T02:08:35.000Z",
-      "fetchedAt": "2026-10-24T17:38:01.754Z",
+      "fetchedAt": "2026-10-24T19:50:11.800Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

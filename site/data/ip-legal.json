@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T17:38:09.185Z",
+  "generatedAt": "2026-10-24T19:50:18.217Z",
   "date": "2026-10-25",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -24,7 +24,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-24T17:38:02.384Z",
+      "fetchedAt": "2026-10-24T19:50:12.271Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -42,7 +42,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T08:03:27.000Z",
-      "fetchedAt": "2026-10-24T17:38:02.384Z",
+      "fetchedAt": "2026-10-24T19:50:12.271Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-      "id": "a16"
+      "id": "a15"
     }
   ]
 }

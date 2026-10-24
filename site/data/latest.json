@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-24T17:38:09.189Z",
+  "generatedAt": "2026-10-24T19:50:18.220Z",
   "date": "2026-10-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-      "topHeadlineId": "a13",
+      "topHeadlineId": "a12",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "Ukraine military says Starlink service restrictions have been lifted",
+      "articleCount": 14,
+      "topHeadline": "Israel central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles). A total of 15 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app"
     }
   },
-  "totalArticles": 22
+  "totalArticles": 21
 }
