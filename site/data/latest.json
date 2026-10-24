@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-24T09:49:11.863Z",
+  "generatedAt": "2026-10-24T14:07:52.538Z",
   "date": "2026-10-24",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a13",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a9",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 14,
-      "topHeadline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
+      "articleCount": 15,
+      "topHeadline": "Ukraine military says Starlink service restrictions have been lifted",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (15 articles). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 1,
       "topHeadline": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a8",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app"
     }
   },
-  "totalArticles": 21
+  "totalArticles": 22
 }

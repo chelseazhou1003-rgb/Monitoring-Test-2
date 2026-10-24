@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T09:49:11.861Z",
+  "generatedAt": "2026-10-24T14:07:52.536Z",
   "date": "2026-10-24",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
         "articleIds": [
-          "a2"
+          "a8"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T02:08:35.000Z",
-      "fetchedAt": "2026-10-24T09:49:04.982Z",
+      "fetchedAt": "2026-10-24T14:07:46.506Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +35,7 @@
         "platform-partner"
       ],
       "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-      "id": "a2"
+      "id": "a8"
     }
   ]
 }
