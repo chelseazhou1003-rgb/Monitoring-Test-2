@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -38,7 +38,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T17:32:25.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.801Z",
+        "fetchedAt": "2026-10-24T09:49:04.905Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -56,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:00:40.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.801Z",
+        "fetchedAt": "2026-10-24T09:49:04.905Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T09:02:00.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.801Z",
+        "fetchedAt": "2026-10-24T09:49:04.905Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -92,7 +92,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T20:45:16.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.801Z",
+        "fetchedAt": "2026-10-24T09:49:04.905Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -100,12 +100,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-        "id": "a20"
+        "id": "a17"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -116,7 +116,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -141,7 +141,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-24T00:00:00.000Z",
-        "fetchedAt": "2026-10-24T05:04:45.768Z",
+        "fetchedAt": "2026-10-24T09:49:05.428Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T08:03:27.000Z",
-        "fetchedAt": "2026-10-24T05:04:45.768Z",
+        "fetchedAt": "2026-10-24T09:49:05.428Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -172,7 +172,7 @@ export const NEWS_DATA = {
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-24T05:04:51.261Z",
+    "generatedAt": "2026-10-24T09:49:11.863Z",
     "date": "2026-10-24",
     "sections": {
       "core-businesses": {
@@ -198,10 +198,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 19,
+        "articleCount": 14,
         "topHeadline": "Pegasus spyware founder urges governments to trust his tech and ditch US AI",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles). A total of 19 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -212,21 +212,21 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 2,
+        "articleCount": 1,
         "topHeadline": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
         "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources."
+        "briefingSummary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app"
       }
     },
-    "totalArticles": 27
+    "totalArticles": 21
   },
   "macro-environment": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles). A total of 19 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
@@ -246,7 +246,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T04:00:23.000Z",
-        "fetchedAt": "2026-10-24T05:04:45.423Z",
+        "fetchedAt": "2026-10-24T09:49:05.213Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -265,7 +265,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.969Z",
+        "fetchedAt": "2026-10-24T09:49:04.982Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -286,7 +286,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T22:29:30.000Z",
-        "fetchedAt": "2026-10-24T05:04:45.423Z",
+        "fetchedAt": "2026-10-24T09:49:05.213Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -305,7 +305,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T21:26:59.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.784Z",
+        "fetchedAt": "2026-10-24T09:49:04.916Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -324,7 +324,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T19:50:26.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.784Z",
+        "fetchedAt": "2026-10-24T09:49:04.916Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -343,7 +343,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T18:00:35.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.150Z",
+        "fetchedAt": "2026-10-24T09:49:11.830Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Legis1",
         "geopoliticalBypass": true,
@@ -363,7 +363,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-23T17:35:15.000Z",
-        "fetchedAt": "2026-10-24T05:04:45.533Z",
+        "fetchedAt": "2026-10-24T09:49:05.275Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -382,7 +382,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:07:43.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.150Z",
+        "fetchedAt": "2026-10-24T09:49:11.830Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Data Center Dynamics",
         "geopoliticalBypass": true,
@@ -402,7 +402,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T11:25:00.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.151Z",
+        "fetchedAt": "2026-10-24T09:49:11.831Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
@@ -415,26 +415,6 @@ export const NEWS_DATA = {
         "id": "a12"
       },
       {
-        "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
-        "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQ3llVldfaVVKbXZTWnBfUXNpZEp0d3o5VzVBczhqZkVMNlhWa1RxOG00WVpydmtNaUptTjl6Z3BrRFl5V3RVcTZaS3hBcHlkQTJWS0xqOGRvalI4aWgtVzN0OVVIRnBqT0RRVUV1LWZTeWNnTnA5a1FQZ2huakRDTWd4QTJYejVSYnZBWTQ4ZTh4R2xORFd3NldxNzBfalJ5YmVlWUFRMTRRVXk0UDNEMUlsbGltb0NjZ213Z1A4Vk43WlphdkdBQW8wbXhiamJFRnpkMG1yNU0zeTJ3Wmtva29QZUEya0d5ci1lcjdMR3NPVXIzZHcyTHo0Z2h5NjFsaFotdGtTbE1oWlp2VGJhUFhTaGhqcG9fQ21VX9IB5AFBVV95cUxQNU4zN21rb2l2aUg4cm40c0hSeFJmLXk3dHl5TTF3S3ZUcDFwOUF2S21wb2tjX09UWHF3Q0tlUE44TzhhR3Y0akxsMzFWdDlGNHctZWE3M3V2R3A1VVUzMmFob3VrbEwxZlVJUFdHY19qaWs2akZBanM2d0Rab0dEcnRXUU40VkdBcTJyY1NKWXhMdmZOOHZmSFItcEVINnoxWDdyYUVIZGNnZ1dlZWh6dTQ4SHhHVVhiSHEzS3d1RTFkQXpsekJsX0tBdld2UkZ3TTFKTHp6MWZPQXk5dlp5RUtIdlk?oc=5",
-        "description": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T07:12:35.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.151Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "electronics.economictimes.indiatimes.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-        "id": "a15"
-      },
-      {
         "title": "Chip Industry Week In Review",
         "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
         "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -442,7 +422,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T07:01:23.000Z",
-        "fetchedAt": "2026-10-24T05:04:46.507Z",
+        "fetchedAt": "2026-10-24T09:49:06.108Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -451,47 +431,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a16"
-      },
-      {
-        "title": "Technology Increasingly Impacting National Security: Expert - Menafn",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1dEd19tVVdDOXF6TFlsRUFHUUJQb2JjUWl1d2pzSEpDdmFESFBGcXRDNnBDd1pucEM2Ny12RW8ySFVOY0FpXzIwWmR4bDFFT0UyVmUxakNzc2kwd29oTWZOZUg1OU51OThFcTVXSEU4RW9UdjBRSTRMRzNDN0V0bU94WUFxUnJHNll2TFRJanhJZw?oc=5",
-        "description": "Technology Increasingly Impacting National Security: Expert Menafn",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T06:04:36.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.151Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Menafn",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Technology Increasingly Impacting National Security: Expert Menafn",
-        "id": "a17"
-      },
-      {
-        "title": "CHIPS Act 2026 Fusion Semiconductor Awards Explained - Rare Earth Exchanges",
-        "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZblJmTVN1cS05NVFabWdjUGgwU29uR19fbFhjWVQxQUlpdVNmcU1vUVJHWEJNUDJQSDNHOUFyVjEzV1NmTHZuYXNMZ1JfSzNWQlNMM0xJQ2prNnhKTlR4dnYtT0dUenB5NFE1YS1nT0pVS3V3aXZZcnR4QlJxRm8?oc=5",
-        "description": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T06:03:28.000Z",
-        "fetchedAt": "2026-10-24T05:04:51.151Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Rare Earth Exchanges",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-        "id": "a18"
+        "id": "a15"
       },
       {
         "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
@@ -501,7 +441,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T22:04:18.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.969Z",
+        "fetchedAt": "2026-10-24T09:49:04.982Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -510,7 +450,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Trump administration is seeking to restrict American investment in Chinese biotechnology companies, potentially complicating financial ties at a time when US drugmakers are increasingly turning to China for new medicines.",
-        "id": "a19"
+        "id": "a16"
       },
       {
         "title": "US pumps $400M into semiconductor R&D",
@@ -520,7 +460,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-22T15:04:10.000Z",
-        "fetchedAt": "2026-10-24T05:04:48.936Z",
+        "fetchedAt": "2026-10-24T09:49:09.868Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -529,7 +469,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-        "id": "a21"
+        "id": "a18"
       },
       {
         "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -539,7 +479,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-22T08:16:35.000Z",
-        "fetchedAt": "2026-10-24T05:04:47.411Z",
+        "fetchedAt": "2026-10-24T09:49:06.832Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -548,7 +488,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-        "id": "a22"
+        "id": "a19"
       },
       {
         "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -558,7 +498,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-22T07:02:07.000Z",
-        "fetchedAt": "2026-10-24T05:04:46.507Z",
+        "fetchedAt": "2026-10-24T09:49:06.108Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -567,47 +507,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-        "id": "a23"
-      },
-      {
-        "title": "What drone patents reveal about the next wave of competition",
-        "url": "https://www.iam-media.com/article/what-drone-patents-reveal-about-the-next-wave-of-competition",
-        "description": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-21T08:20:00.000Z",
-        "fetchedAt": "2026-10-24T05:04:47.411Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-        "id": "a24"
-      },
-      {
-        "title": "Oppo wins second injunction against Asus in China",
-        "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-        "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-21T08:02:46.000Z",
-        "fetchedAt": "2026-10-24T05:04:47.411Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "id": "a25"
+        "id": "a20"
       }
     ]
   },
@@ -803,12 +703,12 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-24T05:04:51.174Z",
+    "generatedAt": "2026-10-24T09:49:11.861Z",
     "date": "2026-10-24",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
@@ -828,7 +728,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-24T05:04:44.969Z",
+        "fetchedAt": "2026-10-24T09:49:04.982Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -840,27 +740,6 @@ export const NEWS_DATA = {
         ],
         "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
         "id": "a2"
-      },
-      {
-        "title": "Oppo wins second injunction against Asus in China",
-        "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-        "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-21T08:02:46.000Z",
-        "fetchedAt": "2026-10-24T05:04:47.411Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "id": "a25"
       }
     ]
   },
@@ -25060,11 +24939,11 @@ export const NEWS_DATA = {
     "totalArticles": 32
   },
   "archive-2026-10-24": {
-    "generatedAt": "2026-10-24T05:04:51.262Z",
+    "generatedAt": "2026-10-24T09:49:11.864Z",
     "date": "2026-10-24",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -25089,7 +24968,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T17:32:25.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.801Z",
+            "fetchedAt": "2026-10-24T09:49:04.905Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25107,7 +24986,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:00:40.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.801Z",
+            "fetchedAt": "2026-10-24T09:49:04.905Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25125,7 +25004,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T09:02:00.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.801Z",
+            "fetchedAt": "2026-10-24T09:49:04.905Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25143,7 +25022,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T20:45:16.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.801Z",
+            "fetchedAt": "2026-10-24T09:49:04.905Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25151,12 +25030,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-            "id": "a20"
+            "id": "a17"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -25181,7 +25060,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-24T00:00:00.000Z",
-            "fetchedAt": "2026-10-24T05:04:45.768Z",
+            "fetchedAt": "2026-10-24T09:49:05.428Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -25199,7 +25078,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T08:03:27.000Z",
-            "fetchedAt": "2026-10-24T05:04:45.768Z",
+            "fetchedAt": "2026-10-24T09:49:05.428Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -25212,7 +25091,7 @@ export const NEWS_DATA = {
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -25223,12 +25102,12 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles). A total of 19 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles). A total of 14 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: Former NSO Group boss Shalev Hulio seeks to reinvent himself as a champion of sovereign AI and national security",
@@ -25248,7 +25127,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T04:00:23.000Z",
-            "fetchedAt": "2026-10-24T05:04:45.423Z",
+            "fetchedAt": "2026-10-24T09:49:05.213Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25267,7 +25146,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.969Z",
+            "fetchedAt": "2026-10-24T09:49:04.982Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25288,7 +25167,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T22:29:30.000Z",
-            "fetchedAt": "2026-10-24T05:04:45.423Z",
+            "fetchedAt": "2026-10-24T09:49:05.213Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25307,7 +25186,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T21:26:59.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.784Z",
+            "fetchedAt": "2026-10-24T09:49:04.916Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25326,7 +25205,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T19:50:26.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.784Z",
+            "fetchedAt": "2026-10-24T09:49:04.916Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25345,7 +25224,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T18:00:35.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.150Z",
+            "fetchedAt": "2026-10-24T09:49:11.830Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Legis1",
             "geopoliticalBypass": true,
@@ -25365,7 +25244,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-23T17:35:15.000Z",
-            "fetchedAt": "2026-10-24T05:04:45.533Z",
+            "fetchedAt": "2026-10-24T09:49:05.275Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25384,7 +25263,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:07:43.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.150Z",
+            "fetchedAt": "2026-10-24T09:49:11.830Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Data Center Dynamics",
             "geopoliticalBypass": true,
@@ -25404,7 +25283,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T11:25:00.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.151Z",
+            "fetchedAt": "2026-10-24T09:49:11.831Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Times of India",
             "geopoliticalBypass": true,
@@ -25417,26 +25296,6 @@ export const NEWS_DATA = {
             "id": "a12"
           },
           {
-            "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
-            "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxQQ3llVldfaVVKbXZTWnBfUXNpZEp0d3o5VzVBczhqZkVMNlhWa1RxOG00WVpydmtNaUptTjl6Z3BrRFl5V3RVcTZaS3hBcHlkQTJWS0xqOGRvalI4aWgtVzN0OVVIRnBqT0RRVUV1LWZTeWNnTnA5a1FQZ2huakRDTWd4QTJYejVSYnZBWTQ4ZTh4R2xORFd3NldxNzBfalJ5YmVlWUFRMTRRVXk0UDNEMUlsbGltb0NjZ213Z1A4Vk43WlphdkdBQW8wbXhiamJFRnpkMG1yNU0zeTJ3Wmtva29QZUEya0d5ci1lcjdMR3NPVXIzZHcyTHo0Z2h5NjFsaFotdGtTbE1oWlp2VGJhUFhTaGhqcG9fQ21VX9IB5AFBVV95cUxQNU4zN21rb2l2aUg4cm40c0hSeFJmLXk3dHl5TTF3S3ZUcDFwOUF2S21wb2tjX09UWHF3Q0tlUE44TzhhR3Y0akxsMzFWdDlGNHctZWE3M3V2R3A1VVUzMmFob3VrbEwxZlVJUFdHY19qaWs2akZBanM2d0Rab0dEcnRXUU40VkdBcTJyY1NKWXhMdmZOOHZmSFItcEVINnoxWDdyYUVIZGNnZ1dlZWh6dTQ4SHhHVVhiSHEzS3d1RTFkQXpsekJsX0tBdld2UkZ3TTFKTHp6MWZPQXk5dlp5RUtIdlk?oc=5",
-            "description": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T07:12:35.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.151Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "electronics.economictimes.indiatimes.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-            "id": "a15"
-          },
-          {
             "title": "Chip Industry Week In Review",
             "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
             "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
@@ -25444,7 +25303,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T07:01:23.000Z",
-            "fetchedAt": "2026-10-24T05:04:46.507Z",
+            "fetchedAt": "2026-10-24T09:49:06.108Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25453,47 +25312,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a16"
-          },
-          {
-            "title": "Technology Increasingly Impacting National Security: Expert - Menafn",
-            "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPX1dEd19tVVdDOXF6TFlsRUFHUUJQb2JjUWl1d2pzSEpDdmFESFBGcXRDNnBDd1pucEM2Ny12RW8ySFVOY0FpXzIwWmR4bDFFT0UyVmUxakNzc2kwd29oTWZOZUg1OU51OThFcTVXSEU4RW9UdjBRSTRMRzNDN0V0bU94WUFxUnJHNll2TFRJanhJZw?oc=5",
-            "description": "Technology Increasingly Impacting National Security: Expert Menafn",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T06:04:36.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.151Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Menafn",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Technology Increasingly Impacting National Security: Expert Menafn",
-            "id": "a17"
-          },
-          {
-            "title": "CHIPS Act 2026 Fusion Semiconductor Awards Explained - Rare Earth Exchanges",
-            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1ZblJmTVN1cS05NVFabWdjUGgwU29uR19fbFhjWVQxQUlpdVNmcU1vUVJHWEJNUDJQSDNHOUFyVjEzV1NmTHZuYXNMZ1JfSzNWQlNMM0xJQ2prNnhKTlR4dnYtT0dUenB5NFE1YS1nT0pVS3V3aXZZcnR4QlJxRm8?oc=5",
-            "description": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T06:03:28.000Z",
-            "fetchedAt": "2026-10-24T05:04:51.151Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Rare Earth Exchanges",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-            "id": "a18"
+            "id": "a15"
           },
           {
             "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
@@ -25503,7 +25322,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T22:04:18.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.969Z",
+            "fetchedAt": "2026-10-24T09:49:04.982Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25512,7 +25331,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Trump administration is seeking to restrict American investment in Chinese biotechnology companies, potentially complicating financial ties at a time when US drugmakers are increasingly turning to China for new medicines.",
-            "id": "a19"
+            "id": "a16"
           },
           {
             "title": "US pumps $400M into semiconductor R&D",
@@ -25522,7 +25341,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-22T15:04:10.000Z",
-            "fetchedAt": "2026-10-24T05:04:48.936Z",
+            "fetchedAt": "2026-10-24T09:49:09.868Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25531,7 +25350,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-            "id": "a21"
+            "id": "a18"
           },
           {
             "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -25541,7 +25360,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-22T08:16:35.000Z",
-            "fetchedAt": "2026-10-24T05:04:47.411Z",
+            "fetchedAt": "2026-10-24T09:49:06.832Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25550,7 +25369,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "id": "a22"
+            "id": "a19"
           },
           {
             "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -25560,7 +25379,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-22T07:02:07.000Z",
-            "fetchedAt": "2026-10-24T05:04:46.507Z",
+            "fetchedAt": "2026-10-24T09:49:06.108Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25569,52 +25388,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "id": "a23"
-          },
-          {
-            "title": "What drone patents reveal about the next wave of competition",
-            "url": "https://www.iam-media.com/article/what-drone-patents-reveal-about-the-next-wave-of-competition",
-            "description": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:20:00.000Z",
-            "fetchedAt": "2026-10-24T05:04:47.411Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-            "id": "a24"
-          },
-          {
-            "title": "Oppo wins second injunction against Asus in China",
-            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-24T05:04:47.411Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a25"
+            "id": "a20"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -25625,12 +25404,12 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-24T05:04:51.174Z",
+        "generatedAt": "2026-10-24T09:49:11.861Z",
         "date": "2026-10-24",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
@@ -25650,7 +25429,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-24T05:04:44.969Z",
+            "fetchedAt": "2026-10-24T09:49:04.982Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -25662,32 +25441,11 @@ export const NEWS_DATA = {
             ],
             "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
             "id": "a2"
-          },
-          {
-            "title": "Oppo wins second injunction against Asus in China",
-            "url": "https://www.iam-media.com/article/oppo-wins-second-injunction-against-asus-in-china",
-            "description": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-24T05:04:47.411Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a25"
           }
         ]
       }
     },
-    "totalArticles": 27
+    "totalArticles": 21
   }
 };
 

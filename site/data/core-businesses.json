@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-24T05:04:51.174Z",
+  "generatedAt": "2026-10-24T09:49:11.861Z",
   "date": "2026-10-24",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T17:32:25.000Z",
-      "fetchedAt": "2026-10-24T05:04:44.801Z",
+      "fetchedAt": "2026-10-24T09:49:04.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T14:00:40.000Z",
-      "fetchedAt": "2026-10-24T05:04:44.801Z",
+      "fetchedAt": "2026-10-24T09:49:04.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-24T05:04:44.801Z",
+      "fetchedAt": "2026-10-24T09:49:04.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -78,7 +78,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T20:45:16.000Z",
-      "fetchedAt": "2026-10-24T05:04:44.801Z",
+      "fetchedAt": "2026-10-24T09:49:04.905Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -86,7 +86,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-      "id": "a20"
+      "id": "a17"
     }
   ]
 }
