@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T14:07:52.536Z",
-  "date": "2026-10-24",
+  "generatedAt": "2026-10-24T17:38:09.185Z",
+  "date": "2026-10-25",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
@@ -24,7 +24,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-24T14:07:47.089Z",
+      "fetchedAt": "2026-10-24T17:38:02.384Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -42,7 +42,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T08:03:27.000Z",
-      "fetchedAt": "2026-10-24T14:07:47.089Z",
+      "fetchedAt": "2026-10-24T17:38:02.384Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
