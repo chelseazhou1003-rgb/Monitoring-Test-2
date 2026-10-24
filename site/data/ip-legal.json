@@ -1,21 +1,39 @@
 {
-  "generatedAt": "2026-10-23T21:43:45.218Z",
+  "generatedAt": "2026-10-24T00:05:08.883Z",
   "date": "2026-10-24",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips",
+    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Patent Litigation: The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars a",
+        "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
         "articleIds": [
-          "a11"
+          "a1"
         ],
         "subCategory": "patent-litigation"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+      "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+      "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+      "source": "EE Times",
+      "sourceId": "eetimes",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-10-24T00:00:00.000Z",
+      "fetchedAt": "2026-10-24T00:05:03.128Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "patent-litigation",
+      "subLabel": "Patent Litigation",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+      "id": "a1"
+    },
     {
       "title": "Two Dollars and a Test Suite",
       "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
@@ -24,7 +42,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T08:03:27.000Z",
-      "fetchedAt": "2026-10-23T21:43:33.128Z",
+      "fetchedAt": "2026-10-24T00:05:03.128Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -32,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-      "id": "a11"
+      "id": "a13"
     }
   ]
 }

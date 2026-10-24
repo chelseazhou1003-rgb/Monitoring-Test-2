@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,15 +13,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this com",
+          "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
           "articleIds": [
             "a8"
           ],
@@ -31,6 +31,24 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+        "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+        "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-23T17:32:25.000Z",
+        "fetchedAt": "2026-10-24T00:05:02.154Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+        "id": "a8"
+      },
+      {
         "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
         "url": "https://247wallst.com/investing/2026/10/23/prediction-this-chip-stock-could-be-a-sleeper-ai-winner/?.tsrc=rss",
         "description": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
@@ -38,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:00:40.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.263Z",
+        "fetchedAt": "2026-10-24T00:05:02.154Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -46,7 +64,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-        "id": "a8"
+        "id": "a10"
       },
       {
         "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -56,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T09:02:00.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.263Z",
+        "fetchedAt": "2026-10-24T00:05:02.154Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -64,7 +82,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a10"
+        "id": "a12"
       },
       {
         "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -74,7 +92,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T20:45:16.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.263Z",
+        "fetchedAt": "2026-10-24T00:05:02.154Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -82,12 +100,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-        "id": "a17"
+        "id": "a19"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -98,23 +116,41 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
-      "summary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips",
+      "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Patent Litigation: The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars a",
+          "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
           "articleIds": [
-            "a11"
+            "a1"
           ],
           "subCategory": "patent-litigation"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+        "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+        "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+        "source": "EE Times",
+        "sourceId": "eetimes",
+        "sourceGroup": "semiconductor",
+        "publishedAt": "2026-10-24T00:00:00.000Z",
+        "fetchedAt": "2026-10-24T00:05:03.128Z",
+        "fetchStrategy": "rss",
+        "section": "ip-legal",
+        "subCategory": "patent-litigation",
+        "subLabel": "Patent Litigation",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+        "id": "a1"
+      },
       {
         "title": "Two Dollars and a Test Suite",
         "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
@@ -123,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T08:03:27.000Z",
-        "fetchedAt": "2026-10-23T21:43:33.128Z",
+        "fetchedAt": "2026-10-24T00:05:03.128Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -131,27 +167,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-        "id": "a11"
+        "id": "a13"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-23T21:43:45.320Z",
+    "generatedAt": "2026-10-24T00:05:08.884Z",
     "date": "2026-10-24",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 3,
-        "topHeadline": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
+        "articleCount": 4,
+        "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
         "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
-        "articleCount": 1,
-        "topHeadline": "Two Dollars and a Test Suite",
-        "topHeadlineId": "a11",
-        "briefingSummary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips"
+        "articleCount": 2,
+        "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "growth-areas": {
         "title": "Growth Areas",
@@ -162,10 +198,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 19,
-        "topHeadline": "Trump dropping some Canada tariffs but 'replacing' them with other products",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (1 article). A total of 19 articles were aggregated from monitored sources."
+        "articleCount": 18,
+        "topHeadline": "Trump to cut Canadian tariffs after pressure from Republicans",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles). A total of 18 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -178,37 +214,49 @@ export const NEWS_DATA = {
         "title": "Key Stakeholders",
         "articleCount": 1,
         "topHeadline": "Oppo wins second injunction against Asus in China",
-        "topHeadlineId": "a23",
+        "topHeadlineId": "a24",
         "briefingSummary": "One article today covering Geopolitics & Export Controls. The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago"
       }
     },
-    "totalArticles": 24
+    "totalArticles": 25
   },
   "macro-environment": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (1 article). A total of 19 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles). A total of 18 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+          "text": "Geopolitics & Export Controls: President to ease some levies to help candidates facing tough US Senate election battles",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the ",
-          "articleIds": [
-            "a19"
-          ],
-          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+        "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+        "description": "President to ease some levies to help candidates facing tough US Senate election battles",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-23T22:29:30.000Z",
+        "fetchedAt": "2026-10-24T00:05:02.892Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+        "id": "a2"
+      },
       {
         "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
         "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
@@ -217,7 +265,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T21:26:59.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.275Z",
+        "fetchedAt": "2026-10-24T00:05:01.934Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -226,7 +274,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-        "id": "a1"
+        "id": "a3"
       },
       {
         "title": "Xi gathers China’s top cadres with focus on discipline",
@@ -236,7 +284,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T21:00:09.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.815Z",
+        "fetchedAt": "2026-10-24T00:05:02.892Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -245,26 +293,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
-        "id": "a2"
-      },
-      {
-        "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-        "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-        "description": "President to ease some levies to help candidates facing tough US Senate election battles",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T20:21:55.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.815Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
-        "id": "a3"
+        "id": "a4"
       },
       {
         "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -274,7 +303,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T19:50:26.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.275Z",
+        "fetchedAt": "2026-10-24T00:05:01.934Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -283,7 +312,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-        "id": "a4"
+        "id": "a5"
       },
       {
         "title": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate - Legis1",
@@ -293,7 +322,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T18:00:35.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Legis1",
         "geopoliticalBypass": true,
@@ -303,7 +332,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-        "id": "a5"
+        "id": "a6"
       },
       {
         "title": "Elon Musk’s dangerous grip on outer space",
@@ -313,7 +342,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-23T17:35:15.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.933Z",
+        "fetchedAt": "2026-10-24T00:05:02.962Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -322,7 +351,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure and leading to a reported two deaths and at least 17 injuries. The Ukrainian military reported receiving no advance warning about the Starshield speed restriction. But Ukrainian President Volodymyr Zelenskyy said it was a direct message from the US amid rising tensions b … Read the full story at The Verge.",
-        "id": "a6"
+        "id": "a7"
       },
       {
         "title": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development - Data Center Dynamics",
@@ -332,7 +361,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:07:43.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Data Center Dynamics",
         "geopoliticalBypass": true,
@@ -342,7 +371,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development Data Center Dynamics",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "US’ FCC bans more gadgets for China links, says these cameras and video transmitters run on ‘spy chip’ - The Times of India",
@@ -352,7 +381,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T11:25:00.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Times of India",
         "geopoliticalBypass": true,
@@ -362,7 +391,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US’ FCC bans more gadgets for China links, says these cameras and video transmitters run on ‘spy chip’ The Times of India",
-        "id": "a9"
+        "id": "a11"
       },
       {
         "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -372,7 +401,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T07:12:35.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "electronics.economictimes.indiatimes.com",
         "geopoliticalBypass": true,
@@ -382,7 +411,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-        "id": "a12"
+        "id": "a14"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -392,7 +421,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T07:01:23.000Z",
-        "fetchedAt": "2026-10-23T21:43:33.992Z",
+        "fetchedAt": "2026-10-24T00:05:04.073Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -401,7 +430,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "Technology Increasingly Impacting National Security: Expert - Menafn",
@@ -411,7 +440,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T06:04:36.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Menafn",
         "geopoliticalBypass": true,
@@ -421,7 +450,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Technology Increasingly Impacting National Security: Expert Menafn",
-        "id": "a14"
+        "id": "a16"
       },
       {
         "title": "CHIPS Act 2026 Fusion Semiconductor Awards Explained - Rare Earth Exchanges",
@@ -431,7 +460,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T06:03:28.000Z",
-        "fetchedAt": "2026-10-23T21:43:45.197Z",
+        "fetchedAt": "2026-10-24T00:05:08.861Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Rare Earth Exchanges",
         "geopoliticalBypass": true,
@@ -441,7 +470,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-        "id": "a15"
+        "id": "a17"
       },
       {
         "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
@@ -451,7 +480,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T22:04:18.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.408Z",
+        "fetchedAt": "2026-10-24T00:05:02.314Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -460,7 +489,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Trump administration is seeking to restrict American investment in Chinese biotechnology companies, potentially complicating financial ties at a time when US drugmakers are increasingly turning to China for new medicines.",
-        "id": "a16"
+        "id": "a18"
       },
       {
         "title": "US pumps $400M into semiconductor R&D",
@@ -470,7 +499,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-22T15:04:10.000Z",
-        "fetchedAt": "2026-10-23T21:43:36.830Z",
+        "fetchedAt": "2026-10-24T00:05:07.042Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -479,25 +508,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-        "id": "a18"
-      },
-      {
-        "title": "Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release and Conference Call",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-schedules-fourth-quarter-fiscal-130000039.html?.tsrc=rss",
-        "description": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-22T13:00:00.000Z",
-        "fetchedAt": "2026-10-23T21:43:32.263Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -507,7 +518,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-22T08:16:35.000Z",
-        "fetchedAt": "2026-10-23T21:43:34.964Z",
+        "fetchedAt": "2026-10-24T00:05:05.165Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -516,7 +527,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-        "id": "a20"
+        "id": "a21"
       },
       {
         "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -526,7 +537,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-22T07:02:07.000Z",
-        "fetchedAt": "2026-10-23T21:43:33.992Z",
+        "fetchedAt": "2026-10-24T00:05:04.073Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -535,7 +546,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "What drone patents reveal about the next wave of competition",
@@ -545,7 +556,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-21T08:20:00.000Z",
-        "fetchedAt": "2026-10-23T21:43:34.964Z",
+        "fetchedAt": "2026-10-24T00:05:05.165Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -554,7 +565,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-        "id": "a22"
+        "id": "a23"
       },
       {
         "title": "Oppo wins second injunction against Asus in China",
@@ -564,7 +575,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-21T08:02:46.000Z",
-        "fetchedAt": "2026-10-23T21:43:34.964Z",
+        "fetchedAt": "2026-10-24T00:05:05.165Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -575,7 +586,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "id": "a23"
+        "id": "a24"
       }
     ]
   },
@@ -771,7 +782,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-23T21:43:45.218Z",
+    "generatedAt": "2026-10-24T00:05:08.883Z",
     "date": "2026-10-24",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -781,7 +792,7 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
           "articleIds": [
-            "a23"
+            "a24"
           ],
           "subCategory": "geopolitics-export-controls"
         }
@@ -796,7 +807,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-21T08:02:46.000Z",
-        "fetchedAt": "2026-10-23T21:43:34.964Z",
+        "fetchedAt": "2026-10-24T00:05:05.165Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -807,951 +818,9 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-        "id": "a23"
+        "id": "a24"
       }
     ]
-  },
-  "archive-2026-09-23": {
-    "generatedAt": "2026-09-23T12:19:20.070Z",
-    "date": "2026-09-23",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-09-23T12:19:20.067Z",
-        "date": "2026-09-23",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (7 articles), Semiconductors (5 articles). A total of 12 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Mobile Chips: Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. T",
-              "articleIds": [
-                "a3"
-              ],
-              "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Semiconductors: The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-              "articleIds": [
-                "a21"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm unveils latest Snapdragon flagships",
-            "url": "https://www.mobileworldlive.com/devices/qualcomm-unveils-latest-snapdragon-flagships/",
-            "description": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-09-23T08:35:07.000Z",
-            "fetchedAt": "2026-09-23T12:19:17.905Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm continued the march of its Snapdragon range for smartphones with the introduction of its latest platforms for flagship devices, items it stated would provide a host of intelligent features. The post Qualcomm unveils latest Snapdragon flagships appeared first on Mobile World Live.",
-            "id": "a3"
-          },
-          {
-            "title": "QCOM Stock On Track For Best Month Since May: Analysts See AI Gains From Dual Flagship Snapdragon Launch",
-            "url": "https://stocktwits.com/news-articles/markets/equity/qcom-stock-on-track-for-best-month-since-may-analysts-see-ai-gains-from-dual-flagship-snapdragon-launch/cZMEFVBRB7U?.tsrc=rss",
-            "description": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T08:05:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm is looking to capture the growing demand for on-device and agentic AI.",
-            "id": "a5"
-          },
-          {
-            "title": "Qualcomm Launches Two New Smartphone Chips As AI Push Intensifies — QCOM Stock Edges Lower After-Hours",
-            "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-launches-two-new-smartphone-chips-as-ai-push-intensifies-qcom-stock-edges-lower-after-hours/cZM5bWWRB7i?.tsrc=rss",
-            "description": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T21:47:40.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm introduced Snapdragon 8 Elite Gen 6 and 8 Elite Extreme Gen 6 at its annual Snapdragon Summit.",
-            "id": "a18"
-          },
-          {
-            "title": "Qualcomm CFO on agentic AI and the race to the edge",
-            "url": "https://finance.yahoo.com/video/qualcomm-cfo-on-agentic-ai-and-the-race-to-the-edge-212500658.html?.tsrc=rss",
-            "description": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T21:25:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "In the Loop Host Ejaaz Ahamadeen welcomes Qualcomm (QCOM) CFO and COO Akash Palkhiwala from the company's annual Snapdragon Summit in Maui, Hawaii, to discuss the rise of agentic AI and explain the key differences between cloud and edge computing.",
-            "id": "a20"
-          },
-          {
-            "title": "Qualcomm releases Android chip built for AI as memory shortage weighs on smartphone market",
-            "url": "https://www.cnbc.com/2026/09/22/qualcomm-releases-android-chip-built-for-ai-amid-memory-shortage.html",
-            "description": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T21:09:17.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.010Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The overall smartphone market is expected to contract 14% in terms of units shipped in 2026.",
-            "id": "a21"
-          },
-          {
-            "title": "Qualcomm reveals 2 new smartphone chips focusing on agentic AI",
-            "url": "https://finance.yahoo.com/technology/article/qualcomm-reveals-2-new-smartphone-chips-focusing-on-agentic-ai-200000608.html?.tsrc=rss",
-            "description": "Qualcomm debuted its newest smartphone chips.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T20:00:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm debuted its newest smartphone chips.",
-            "id": "a23"
-          },
-          {
-            "title": "Qualcomm launches two new smartphone chips with emphasis on AI",
-            "url": "https://finance.yahoo.com/news/qualcomm-launches-two-smartphone-chips-200000532.html?.tsrc=rss",
-            "description": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T20:00:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm said that its new top chip can run 30B mixture-of-expert model locally.",
-            "id": "a24"
-          },
-          {
-            "title": "Qualcomm’s Snapdragon 8 Elite Gen 6 comes in an Extreme version too",
-            "url": "https://www.theverge.com/gadgets/998842/qualcomm-snapdragon-8-elite-extreme-gen-6",
-            "description": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips are built on a 2nm process, and share much in common, including their modems, display specs, security features, GPS, and memory and storage support. Qualcomm no longer publishes detailed breakdowns of the cores across its silicon, but the CPU details given are identical, with two big cores at up to 5GHz and six performa … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-22T20:00:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.537Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The 8 Elite Extreme Gen 6 and 8 Elite Gen 6 share most of their specs in common. | Image: Qualcomm Qualcomm has announced the Snapdragon 8 Elite Gen 6, this year joined by the 8 Elite Extreme Gen 6 too. The company describes both new phone chips as flagships, and the spec differences are relatively minor, mostly limited to improved AI processing, video capture, and gaming performance on the Extreme model. Both Gen 6 chips are built on a 2nm process, and share much in common, including their modems, display specs, security features, GPS, and memory and storage support. Qualcomm no longer publishes detailed breakdowns of the cores across its silicon, but the CPU details given are identical, with two big cores at up to 5GHz and six performa … Read the full story at The Verge.",
-            "id": "a25"
-          },
-          {
-            "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-            "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-            "description": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other. Either way, it slopes upwards into what Motorola calls a … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-22T20:00:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.537Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
-            "id": "a26"
-          },
-          {
-            "title": "Corning (GLW) To Show High Density Optical Chip Links At ECOC 2026",
-            "url": "https://finance.yahoo.com/technology/ai/articles/corning-glw-show-high-density-181452808.html?.tsrc=rss",
-            "description": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T18:14:52.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Corning (NYSE:GLW), Qualcomm and Lumentum plan to showcase a high-density die to die optical connectivity solution at ECOC 2026. The joint demo targets AI scale up architectures that require higher bandwidth, lower latency and tighter power budgets for chip interconnects. The ECOC 2026 presentation will highlight massively parallel optical D2D links paired with high density fiber to support advanced AI data centers. This upcoming ECOC 2026 D2D optical demo with Qualcomm and Lumentum sits...",
-            "id": "a27"
-          },
-          {
-            "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
-            "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T15:41:12.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-            "id": "a30"
-          },
-          {
-            "title": "Qualcomm Stock Jumped 9% on Monday. Can It Bring More Meaningful Upside in 2026?",
-            "url": "https://www.tikr.com/blog/qualcomm-stock-jumped-9-on-monday-can-it-bring-more-meaningful-upside-in-2026?ref=yahoofinance&.tsrc=rss",
-            "description": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T08:21:17.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Key TakeawaysAI Repricing: Qualcomm stock jumped 9% to $194 on Monday, September 21, after the company unveiled a die-to-die optical interconnect demo with Lumentum and Corning built for AI data centers. Street Flatlines: The 38 analysts TIKR tracks carry 9 buys, 2 outperforms, 23 holds, 2 underperforms and 1 sell, and their $194 mean target now sits exactly at the stock’s new price.",
-            "id": "a37"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-09-23T12:19:20.068Z",
-        "date": "2026-09-23",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "growth-areas": {
-        "generatedAt": "2026-09-23T12:19:20.068Z",
-        "date": "2026-09-23",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-09-23T12:19:20.068Z",
-        "date": "2026-09-23",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), Customers & Partners (2 articles), market-performance (1 article). A total of 24 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Customers & Partners: Nexperia, Tata Electronics partner across semiconductor Bisinfotech",
-              "articleIds": [
-                "a6"
-              ],
-              "subCategory": "customers-partners"
-            },
-            {
-              "text": "market-performance: plans to use proceeds from Mitsubishi Corp.’s $700 million investment to cut debt, buy undervalued shares and fund growth to lift investor returns, its president said.",
-              "articleIds": [
-                "a14"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Supply Chain: While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-              "articleIds": [
-                "a31"
-              ],
-              "subCategory": "supply-chain"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - NBC News",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVW1qQVVRTFYtc2dBS2FWY0lrb3FjVnprV0t2WlRXMll2MzRkeElTVjRFZEpPNVAyOEtUdkN6WElzWFpUTllQOEJWSlhzU0dyQlpmNzltWlB0cDFqZnNIRkRLcWJFYVFaN282bERDU0Rxd3BiTHJiYWR3LTl2Y3dPTDBXaEpMVEZTRTVLYkpGVGlUM0k4UzdzWWwtRXI3X2NCc1IyV0ppazFnRUIzOXZJVEVmeGZXaVAwcl80b3FRLThEdw?oc=5",
-            "description": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T11:12:53.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NBC News",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-            "id": "a1"
-          },
-          {
-            "title": "Trump-Xi meeting 2026: From AI to chips, what is really at stake in the US-China tech race? - WION",
-            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeFAxWW1pdXE1Tm1lUmJkR21KV1FxNU9Rekc4QXpjXzRxVi0zYmpBWEhwWUJwUnJNZFBQdzhib3REVW9VbjdtYWpuVkp5SFZxM0xNaTZnVXp2XzRHc3o1MTZPTjRTVG5LN2pVc1RHWUJCNGZPUVdNU2VZRVFITUZpRVRUbzdNZjFTdV96M3ExZjFuUnB2RjEzdWpnQkFMbGtqcVYzZmNZZmcwN2k5RkFQMXJCLVVCd2hxZk9GeGNrNjdmUGFmWjVmV21iaTDSAdIBQVVfeXFMT3BmNEtRc09NanNxeG04WEVodUF0V2x5OEloTjc5N0NKN0ZmUVBqTlNoSTBOSWM2Q1AxNXZpQUYtRGtxdUhjdnQ4MU5YbFJKb0JzaTdYQ3V2TGNHckkxSkVoaTFndzBRUlo5UEdBZlhoTS00ejhlVmE0Mi1pdG5mdU5UbTBPdS0weF9kR09yak1oVHBtWUtzMDAzLUJUM2ZvbmpPZUp0VVRtUTNObHRWZFRyTDgxV1k0Y3d1M0d5RnlnX0FMMUEzSGtWTVZ2SFhJLWhR?oc=5",
-            "description": "Trump-Xi meeting 2026: From AI to chips, what is really at stake in the US-China tech race? WION",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T09:08:53.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "WION",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump-Xi meeting 2026: From AI to chips, what is really at stake in the US-China tech race?",
-            "id": "a2"
-          },
-          {
-            "title": "Implications of China’s fresh judicial opinion on AI for IP owners and litigants",
-            "url": "https://www.iam-media.com/article/implications-of-chinas-fresh-judicial-opinion-ai-ip-owners-and-litigants",
-            "description": "The Supreme Court’s first issued document guiding the adjudication of AI-related disputes is set to have a significant practical influence on how both rights holders and the courts approach complex issues, such as the allocation of responsibility and treatment of technical evidence.",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-23T08:20:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:16.138Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The Supreme Court’s first issued document guiding the adjudication of AI-related disputes is set to have a significant practical influence on how both rights holders and the courts approach complex issues, such as the allocation of responsibility and treatment of technical evidence.",
-            "id": "a4"
-          },
-          {
-            "title": "Nexperia, Tata Electronics partner across semiconductor - Bisinfotech",
-            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPaEJfem02R3ZUeDdKanVYUTB2UU5yVElUNWxBOXpqNDdXbFc4UkdlaGZUbktUVjV5YkQwNlJiWDlPa01YOWhsVnNuSWw3dk4tel8ybmM5WjN6bldmM1BWaGxHNUxXWEV3SlRVRlY3andJX1BJQk0yQm1IbVdpVDJWa2JSZGRaWTJFSW9XNDhfbDFnVWItS1FLakEwT3VUQUNVRGRUSnM2ODBMemlCMFo3YjEzUE5Xb25qbUFJbUJ3TlQzYjNwbTR2ZFMyLVduRnhXRGhzRE9Ja3dKNmdoZE1maDdmN2M?oc=5",
-            "description": "Nexperia, Tata Electronics partner across semiconductor Bisinfotech",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T07:05:19.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bisinfotech",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nexperia, Tata Electronics partner across semiconductor Bisinfotech",
-            "id": "a6"
-          },
-          {
-            "title": "Navitas Invests $5 Million in Magnachip to Strengthen High-Voltage Semiconductor Partnership - Bisinfotech",
-            "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ1Z6Q1g5ZXpJY3N3ODdFMXRYcjlwZmQyV05KQ1ZlOGpySy1jWWJsRHJPVVpZTUprSHc5LUFhelZodGh3bTF6U0ZRUFM1eVE1dGVBNW9zOHJYNzJlNTRFbEZqSl9ScTVWRnBRTm9wUmZSc0tKSUVfMC0yMmRKUFU2d2wxTTVJSXo5VlBvaFdjSjloQ1l1WVV1Nkx2NGk3bEMxbUxVWThmVDJTcUhQaVpZb1F5V0V0TmZ2aHR2WQ?oc=5",
-            "description": "Navitas Invests $5 Million in Magnachip to Strengthen High-Voltage Semiconductor Partnership Bisinfotech",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T06:33:19.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bisinfotech",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Navitas Invests $5 Million in Magnachip to Strengthen High-Voltage Semiconductor Partnership Bisinfotech",
-            "id": "a7"
-          },
-          {
-            "title": "Quantinuum Secures $100M CHIPS Act Award to Scale Domestic Quantum Semiconductor Manufacturing - Bisinfotech",
-            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQbGRtOEtXcEREdm91OUEtNEpibl9DNzhObWVtcWgxa0Z6QXNlR1hCQlBlSnMtWGlSRmtIZEx4ekZISm5pdVk0M3dsX29QdG0wOUlza0VtTVVycDI5Q1JhT3g0THZvQmtXWjVyWEVSUUkxcXR5Yl9vZTNTR2U5cTI4U2wxVVdCdzdtNUc2bU02cmhDWmhfXzFQWVlWOS1ra1VaVzNPcTZzRXUwZXlNaFN3clBRTHpVcDBkMGxhM21uMA?oc=5",
-            "description": "Quantinuum Secures $100M CHIPS Act Award to Scale Domestic Quantum Semiconductor Manufacturing Bisinfotech",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T06:11:19.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bisinfotech",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Quantinuum Secures $100M CHIPS Act Award to Scale Domestic Quantum Semiconductor Manufacturing Bisinfotech",
-            "id": "a8"
-          },
-          {
-            "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-            "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-            "description": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T05:49:57.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.010Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-            "id": "a9"
-          },
-          {
-            "title": "BrainChip Unveils AKD1500 PCIe Card for Edge AI Evaluation - Bisinfotech",
-            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOcEZ5SnZMbEk2QWVyNWdpT3Y4clRyQmlpeTI3V3dmV3d6aGplRm83Y3czaFpWMGlKdjdWM0xYbXQ5RXZfTE9kMnJsYWUySlhpZzNodWtTdUNhOTBUek50WjdYMVd5M255WEJyMmtMY2hEcDlyeHpYSnh5ZHNwd04xamFyM091OU1FYlJ4VExsRWk?oc=5",
-            "description": "BrainChip Unveils AKD1500 PCIe Card for Edge AI Evaluation Bisinfotech",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T05:49:19.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Bisinfotech",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "BrainChip Unveils AKD1500 PCIe Card for Edge AI Evaluation Bisinfotech",
-            "id": "a10"
-          },
-          {
-            "title": "US-China AI divide: Why investors are betting on both sides of the tech war - Firstpost",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOdjVNSVB5dnZwMlkzcXp4S1E1QTdGQVY1WEFCZGVsSWZZY05CVmdJTzZ6WkZ4WDVmX253VkNOVHd0ZWFVZzVKV3VWd0hkRHp3SzNkWWhiaE5pT1o1LVFhVEEydFR6LTFrWVhTd1NuOHcxQ3hRVlRPX1M5Z1JtOTVWdnp1WUJkRS1UbWtN0gGLAUFVX3lxTE52NU1JUHl2dnAyWTNxenhLUTVBN0ZBVjVYQUJkZWxJZlljTkJWZ0lPNnpaRnhYNWZfbndWQ05Ud3RlYVVnNUpXdVZ3SGREendLM2RZaGJoTmlPWjUtUWFUQTJ0VHotMWtZWFN3U244dzFDeFFWVE9fUzlnUm05NVZ2enVZQmRFLVRta00?oc=5",
-            "description": "US-China AI divide: Why investors are betting on both sides of the tech war Firstpost",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T05:31:32.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Firstpost",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US-China AI divide: Why investors are betting on both sides of the tech war Firstpost",
-            "id": "a11"
-          },
-          {
-            "title": "China surveys Broadcom switch use in state data centers, FT reports - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQY3ZtVXNDVWtQdDE4MHk0cVkwbXY1ZU1BTUJpcTZ4RTFOZTU0RjJoQ3oyWUxsMGJGcmZLQ19yeXFqd3VhbWFKOHVfV3ZwbzJYcVpKQ3lkOEJhYUxkV2RTUlNxMGMzbjNpcFdQZUNOTlU3QUZwdENIcERqN2ctS2JlRkk1U1BtTm1RRXluOEQ2b1lNUGJvNXhWMmdkRUh2UFFNVUpvdjEyaGpkTXhLZGNKQg?oc=5",
-            "description": "China surveys Broadcom switch use in state data centers, FT reports Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T05:09:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:18.839Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China surveys Broadcom switch use in state data centers, FT reports Reuters",
-            "id": "a12"
-          },
-          {
-            "title": "Trump cites national security, midterms coverage to defend press ban - Politico",
-            "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1YRldiRDhmUGpHcEVrdm9NU0laVUotUDBWblM1ZTUzVktWdE5qOWVCZFRXMWpmZEVHcHN0OGUxTWlDMURNQnVFM2IyRUFzaGphVEJLVmVoa2pzaHVsUnMtN3MwZS1GcjFuSmxsZTBLVQ?oc=5",
-            "description": "Trump cites national security, midterms coverage to defend press ban Politico",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T04:57:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Politico",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump cites national security, midterms coverage to defend press ban Politico",
-            "id": "a13"
-          },
-          {
-            "title": "Philippines’ Ayala to Cut Debt After $761 Million Mitsubishi Deal",
-            "url": "https://www.bloomberg.com/news/articles/2026-09-23/philippines-ayala-to-cut-debt-after-700-million-mitsubishi-deal",
-            "description": "Ayala Corp. plans to use proceeds from Mitsubishi Corp.’s $700 million investment to cut debt, buy undervalued shares and fund growth to lift investor returns, its president said.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T04:24:28.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.198Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "plans to use proceeds from Mitsubishi Corp.’s $700 million investment to cut debt, buy undervalued shares and fund growth to lift investor returns, its president said.",
-            "id": "a14"
-          },
-          {
-            "title": "Has Trump caged his China hawks?",
-            "url": "https://www.ft.com/content/5b7decf1-08fd-43fc-b9f3-9870ffa5716f?syn-25a6b1a6=1",
-            "description": "Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T04:10:54.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.465Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Xi Jinping will arrive in Washington this week to find a US president wary of jeopardising their détente",
-            "id": "a15"
-          },
-          {
-            "title": "China-US AI synergy driven by realities of marketplace - China Daily Global Edition",
-            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQYnlTQW5PT2llY1FLUTl4SXJiWGNJTXYybGdtSFd6Z2p1ZXNRdER3MXRJaVB1TWZHOEQ3dkw5ZXIyYWpsclRWMDVLWThvaU82cjdXakJpN0JfQnNOakt3aXJoN3plNGdPZEQtdTZ3VlJXaXYwSzJKd3pTREJ0MlVzZGxn?oc=5",
-            "description": "China-US AI synergy driven by realities of marketplace China Daily Global Edition",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T01:07:53.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "China Daily Global Edition",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China-US AI synergy driven by realities of marketplace China Daily Global Edition",
-            "id": "a16"
-          },
-          {
-            "title": "Solar Stocks Plunge, But Analysts Say \"A U.S. National Security Strategic Asset… September–October Is the Buying Window\" - finance.biggo.com",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5mUEN3Q3M0R3Z6RHczYjNWTmZRdkZZZlozc0RfRDJGVl9kV0pIX3RUNjMyLTU3Tksxb1J4aGR0N2xhQjVJOVJBa0MzWlROVWNZdVd2NkhyN2g5alJEZnpxR003Y3F2VGpHQVFqdFBydmQ2N3lSRGc?oc=5",
-            "description": "Solar Stocks Plunge, But Analysts Say \"A U.S. National Security Strategic Asset… September–October Is the Buying Window\" finance.biggo.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T00:41:02.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "finance.biggo.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Solar Stocks Plunge, But Analysts Say \"A U.S. National Security Strategic Asset… September–October Is the Buying Window\" finance.biggo.com",
-            "id": "a17"
-          },
-          {
-            "title": "BYD seeks declaratory judgment against First Solar following ITC complaint withdrawal, challenges patent ownership",
-            "url": "https://ipfray.com/byd-seeks-declaratory-judgment-against-first-solar-following-itc-complaint-withdrawal-challenges-patent-ownership/",
-            "description": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose controls on polysilicon imports from China and elsewhere.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-22T20:39:54.000Z",
-            "fetchedAt": "2026-09-23T12:19:18.281Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "First Solar claimed it was \"recalibrating\" its patent enforcement strategy after U.S. President Trump sought to impose controls on polysilicon imports from China and elsewhere.",
-            "id": "a22"
-          },
-          {
-            "title": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 - Information Technology and Innovation Foundation",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOUzVzVmd5WFl0QmhZck9EYU5Mc2xwa2FaU2lYUjlYNFFvX25GOGtKbXIxeU1IQW1rUXF1cXFRTnQ5VElIMnhBUFkwRWpYVVhra0NIamNjNWRDZnhYZ2JQd1lJRXFkUW52ME1fT2FnNEI5bXA4dmFxM0dYY1o5dWNVeU9SZGVzYjNxXzFyLWVLTmZZOHVxZU5jdEdiQW9PaFRId3dFZ0hIUW0?oc=5",
-            "description": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T17:38:53.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Information Technology and Innovation Foundation",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Congress Should Make the CHIPS Act’s Investment Tax Credit Permanent | Blogs | Sep 22, 2026 Information Technology and Innovation Foundation",
-            "id": "a28"
-          },
-          {
-            "title": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence - Business Upturn",
-            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQbU84eFNjV28tbFA4LUlaNDBwSllfc00xWlFxVnQ5aTBBa3FrVTNSUW1vWE1US283Y2lzTkVCMm5wblB4RS1JSmdjckRfb2VfLWRVU2gxNGU5QU01YXgzejE4ZmpqZFZHNE4wVjNUNFp0S3AxVUQ1OXNKSUhEVTNJZ0RrX3NFQzBhc0ZqSGNxOWYzZFFTZGV6cDJXNURWeVhTNTlqQ2IzSENpZjJQY1NZT3hwWUI1UEtEdGVmNzV3TE1tdnJYdmM3UENMYkEtcDhqbVY1Wm5EVXJYTFM1WW1KUzJUVFB0YXBUZW9uZi14dDN3d3MxQUZz?oc=5",
-            "description": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T16:04:36.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Business Upturn",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Bessent proposes US-China AI notification mechanism to address national security risks from artificial intelligence Business Upturn",
-            "id": "a29"
-          },
-          {
-            "title": "Global AI glasses shipments more than doubled in 1H26, hitting record 4.2M – Omdia",
-            "url": "https://www.lightreading.com/smartphones-devices/global-ai-glasses-shipments-more-than-doubled-in-1h26-hitting-record-4-2m-omdia",
-            "description": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations. #pressrelease",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-09-22T14:42:30.000Z",
-            "fetchedAt": "2026-09-23T12:19:17.880Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "While the US remains by far the largest AI glasses market, Mainland China is playing a pivotal role as both a primary supply chain hub and a testbed for new hardware configurations.",
-            "id": "a31"
-          },
-          {
-            "title": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business - Ahram Online",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBiWTRvZGN6TUZUcW1PZnpxd0NwbXFkQWhBckZwVVA4cHZFR3poLW1QR3BPb054bmxWdHd2QTM4ODVaWXNpU0xfclF1N21ncGt6Y19pckE2OHE?oc=5",
-            "description": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T14:18:49.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Ahram Online",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China's Alibaba unveils new powerful chip and ambitious AI model plans - Tech - Business Ahram Online",
-            "id": "a32"
-          },
-          {
-            "title": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit - The New York Times",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPdjljX1dKVG55bGRTZ2xjY2c1QXkxcV9rSHdKS0FhYUY1dkxQVnF2QXJzOEljalVFcWFINzNHQktXazlsdFVPbTlUZFNNTzRWT3E2X3VybHpjVDhzSzI0OHllZnJtVlRKSy1weDdSdUhXbTFiOFlFbFpidVczcE9yZzlmMjNCMnM?oc=5",
-            "description": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T14:15:14.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The New York Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump and Xi to Discuss A.I. Risks and Competition at US-China Summit The New York Times",
-            "id": "a33"
-          },
-          {
-            "title": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight - 24/7 Wall St.",
-            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVzVYM0xXMXFBS29nZzhkSnZXZ3hLbFV6eWxFVG5MQ1hHRVBMX1N3ZXhwZjI3S1RsLU5qMXVsMGZrLTEtaW9fcTVzNTJlT2FXRTQ0YlptUjBkeFlFb1lzZEpTOEZnanhoeGx1a19jUHo1RldkUzVNTWNRS2tfcDd3aXRxRW9yR19HeVdoUHZjbG9jTGhRTTBvWEpCYTlEUllxcXVUaktQSmNWLWRTS3VwTjAxcGRDRkhHNHZtZmU5UlVWcnJlSklMdS1XbkUxUQ?oc=5",
-            "description": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 24/7 Wall St.",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T13:43:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "24/7 Wall St.",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Alibaba Jumps 4% as Zhenwu V900 Chip Targets the Gap NVIDIA Left in China; Baidu Sits Tight 24/7 Wall St.",
-            "id": "a34"
-          },
-          {
-            "title": "Schumer warns Trump against easing AI chip export controls to China - Crypto Briefing",
-            "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1uOUlZNDR3bXhSOGZBZkU3d3VHN2oyNnFXVU5MLXE2cENlTHdNTGRmcEZiWmlpdlhBcEhRbW1SUnoxeHBTN0pxSklkdTVtWUFNUlhfRVkyM1czS25EclpLbng4djcxUDhHenJUemdoMkFSRENUWWFIMXluWQ?oc=5",
-            "description": "Schumer warns Trump against easing AI chip export controls to China Crypto Briefing",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T12:43:06.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Crypto Briefing",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Schumer warns Trump against easing AI chip export controls to China Crypto Briefing",
-            "id": "a35"
-          },
-          {
-            "title": "Alibaba underlines AI ambitions with new models, chip",
-            "url": "https://www.mobileworldlive.com/ai-cloud/alibaba-underlines-ai-ambitions-with-new-models-chip/",
-            "description": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-09-22T11:14:21.000Z",
-            "fetchedAt": "2026-09-23T12:19:17.905Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Alibaba used its annual Apsara conference to push its AI credentials, unveiling a set of new Qwen models alongside what it claimed is China's most powerful AI chip and an agentic smartphone offering. The post Alibaba underlines AI ambitions with new models, chip appeared first on Mobile World Live.",
-            "id": "a36"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-09-23T12:19:20.068Z",
-        "date": "2026-09-23",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-09-23T12:19:20.068Z",
-        "date": "2026-09-23",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Mobile Chips (2 articles), Platform & Ecosystem Partners (1 article). A total of 5 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Platform & Ecosystem Partners: Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads acros",
-              "articleIds": [
-                "a19"
-              ],
-              "subCategory": "platform-partner"
-            },
-            {
-              "text": "Mobile Chips: You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Sign",
-              "articleIds": [
-                "a26"
-              ],
-              "subCategory": "mobile-chips"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ - NBC News",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQVW1qQVVRTFYtc2dBS2FWY0lrb3FjVnprV0t2WlRXMll2MzRkeElTVjRFZEpPNVAyOEtUdkN6WElzWFpUTllQOEJWSlhzU0dyQlpmNzltWlB0cDFqZnNIRkRLcWJFYVFaN282bERDU0Rxd3BiTHJiYWR3LTl2Y3dPTDBXaEpMVEZTRTVLYkpGVGlUM0k4UzdzWWwtRXI3X2NCc1IyV0ppazFnRUIzOXZJVEVmeGZXaVAwcl80b3FRLThEdw?oc=5",
-            "description": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T11:12:53.000Z",
-            "fetchedAt": "2026-09-23T12:19:20.015Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "NBC News",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "Defending Trump media ban, DOJ cites national security and says White House access is a ‘privilege’ NBC News",
-            "id": "a1"
-          },
-          {
-            "title": "DOJ defends Trump ban of 3 news outlets, says White House access is a 'privilege — not a right'",
-            "url": "https://www.cnbc.com/2026/09/23/trump-white-house-ban-media-doj-cnn-msnow-politico.html",
-            "description": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-23T05:49:57.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.010Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "regulators"
-            ],
-            "summary": "The Department of Justice also argued President Trump was motivated by national security concerns in banning MS NOW, CNN and Politico from the White House.",
-            "id": "a9"
-          },
-          {
-            "title": "Meta’s Muse just changed the AI game",
-            "url": "https://finance.yahoo.com/video/meta-muse-just-changed-ai-213133381.html?.tsrc=rss",
-            "description": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T21:31:33.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "stakeholders",
-            "subCategory": "platform-partner",
-            "subLabel": "Platform & Ecosystem Partners",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Is Meta finally catching up to OpenAI and Anthropic? In The Loop host Ejaaz Ahamadeen heads to Qualcomm's Snapdragon Summit in Maui to break down Meta's Muse: the AI model suddenly turning heads across the industry as a serious contender in the AI race. Then, Ejaaz sits down with Qualcomm CFO & COO Akash Palkhiwala for an inside look at how the chip giant is betting big on agentic AI, straight from one of tech's biggest stages.",
-            "id": "a19"
-          },
-          {
-            "title": "Motorola’s wild-looking Signature 27 runs Qualcomm’s new Extreme chipset",
-            "url": "https://www.theverge.com/tech/998844/motorola-signature-27-specs-snapdragon-8-elite-extreme-gen-6",
-            "description": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other. Either way, it slopes upwards into what Motorola calls a … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-22T20:00:00.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.537Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "You couldn’t accuse Motorola of designing a boring phone. | Image: Motorola Motorola is the first company to announce a phone running Qualcomm's top-end Snapdragon 8 Elite Extreme Gen 6 chip. The Signature 27 looks set to be Motorola's most advanced flagship in some years, though we're still waiting for the full specs, price, and release date. Any prospective buyers will first have to get over the design, which seems guaranteed to earn mixed reception. The aluminum phone has a thin body, available in either black (sorry, \"Pantone coal smoke\") or green (\"Pantone capulet olive\"), with a woven tactical texture on one and a \"feather-inspired\" finish on the other.",
-            "id": "a26"
-          },
-          {
-            "title": "Qualcomm Slips as Googlebook Opens a New PC Lane",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-slips-googlebook-opens-pc-154112036.html?.tsrc=rss",
-            "description": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-22T15:41:12.000Z",
-            "fetchedAt": "2026-09-23T12:19:14.117Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Snapdragon gains another premium showcase, but Google disclosed neither unit commitments nor processor mix.",
-            "id": "a30"
-          }
-        ]
-      }
-    },
-    "totalArticles": 41
   },
   "archive-2026-09-24": {
     "generatedAt": "2026-09-24T12:55:19.939Z",
@@ -25949,19 +25018,19 @@ export const NEWS_DATA = {
     "totalArticles": 32
   },
   "archive-2026-10-24": {
-    "generatedAt": "2026-10-23T21:43:45.320Z",
+    "generatedAt": "2026-10-24T00:05:08.884Z",
     "date": "2026-10-24",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this com",
+              "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
               "articleIds": [
                 "a8"
               ],
@@ -25971,6 +25040,24 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
+            "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+            "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+            "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-23T17:32:25.000Z",
+            "fetchedAt": "2026-10-24T00:05:02.154Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+            "id": "a8"
+          },
+          {
             "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
             "url": "https://247wallst.com/investing/2026/10/23/prediction-this-chip-stock-could-be-a-sleeper-ai-winner/?.tsrc=rss",
             "description": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
@@ -25978,7 +25065,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:00:40.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.263Z",
+            "fetchedAt": "2026-10-24T00:05:02.154Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -25986,7 +25073,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-            "id": "a8"
+            "id": "a10"
           },
           {
             "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -25996,7 +25083,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T09:02:00.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.263Z",
+            "fetchedAt": "2026-10-24T00:05:02.154Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26004,7 +25091,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a10"
+            "id": "a12"
           },
           {
             "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -26014,7 +25101,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T20:45:16.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.263Z",
+            "fetchedAt": "2026-10-24T00:05:02.154Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -26022,28 +25109,46 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-            "id": "a17"
+            "id": "a19"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
         "briefing": {
-          "summary": "One article today covering Patent Litigation. The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips",
+          "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Patent Litigation: The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars a",
+              "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
               "articleIds": [
-                "a11"
+                "a1"
               ],
               "subCategory": "patent-litigation"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+            "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+            "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-10-24T00:00:00.000Z",
+            "fetchedAt": "2026-10-24T00:05:03.128Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "patent-litigation",
+            "subLabel": "Patent Litigation",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+            "id": "a1"
+          },
           {
             "title": "Two Dollars and a Test Suite",
             "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
@@ -26052,7 +25157,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T08:03:27.000Z",
-            "fetchedAt": "2026-10-23T21:43:33.128Z",
+            "fetchedAt": "2026-10-24T00:05:03.128Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -26060,12 +25165,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-            "id": "a11"
+            "id": "a13"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -26076,30 +25181,42 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles), market-performance (1 article). A total of 19 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (18 articles). A total of 18 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+              "text": "Geopolitics & Export Controls: President to ease some levies to help candidates facing tough US Senate election battles",
               "articleIds": [
-                "a1"
+                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "market-performance: Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the ",
-              "articleIds": [
-                "a19"
-              ],
-              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Trump to cut Canadian tariffs after pressure from Republicans",
+            "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
+            "description": "President to ease some levies to help candidates facing tough US Senate election battles",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-23T22:29:30.000Z",
+            "fetchedAt": "2026-10-24T00:05:02.892Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
+            "id": "a2"
+          },
           {
             "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
             "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
@@ -26108,7 +25225,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T21:26:59.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.275Z",
+            "fetchedAt": "2026-10-24T00:05:01.934Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26117,7 +25234,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-            "id": "a1"
+            "id": "a3"
           },
           {
             "title": "Xi gathers China’s top cadres with focus on discipline",
@@ -26127,7 +25244,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T21:00:09.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.815Z",
+            "fetchedAt": "2026-10-24T00:05:02.892Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26136,26 +25253,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Central committee meeting to be closely watched ahead of party congress next year and leader’s expected fourth term",
-            "id": "a2"
-          },
-          {
-            "title": "Trump to cut Canadian tariffs after pressure from Republicans",
-            "url": "https://www.ft.com/content/d3d12f54-fcf0-400c-96f1-484aea980be5?syn-25a6b1a6=1",
-            "description": "President to ease some levies to help candidates facing tough US Senate election battles",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-23T20:21:55.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.815Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "President to ease some levies to help candidates facing tough US Senate election battles",
-            "id": "a3"
+            "id": "a4"
           },
           {
             "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -26165,7 +25263,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T19:50:26.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.275Z",
+            "fetchedAt": "2026-10-24T00:05:01.934Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26174,7 +25272,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-            "id": "a4"
+            "id": "a5"
           },
           {
             "title": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate - Legis1",
@@ -26184,7 +25282,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T18:00:35.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Legis1",
             "geopoliticalBypass": true,
@@ -26194,7 +25292,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ON Semiconductor Lobbying Reaches $190,000 Amid CHIPS Act Debate Legis1",
-            "id": "a5"
+            "id": "a6"
           },
           {
             "title": "Elon Musk’s dangerous grip on outer space",
@@ -26204,7 +25302,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-23T17:35:15.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.933Z",
+            "fetchedAt": "2026-10-24T00:05:02.962Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26213,7 +25311,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Last week, Starshield - the version of SpaceX's Starlink used by the Ukrainian military - was throttled to block terminals traveling above certain speeds from accessing the service. The Ukrainian army's interceptors, which counter Russian drones carrying bombs, suddenly stopped working at high speeds, making it easier for Russia to attack the country's energy infrastructure and leading to a reported two deaths and at least 17 injuries. The Ukrainian military reported receiving no advance warning about the Starshield speed restriction. But Ukrainian President Volodymyr Zelenskyy said it was a direct message from the US amid rising tensions b … Read the full story at The Verge.",
-            "id": "a6"
+            "id": "a7"
           },
           {
             "title": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development - Data Center Dynamics",
@@ -26223,7 +25321,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:07:43.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Data Center Dynamics",
             "geopoliticalBypass": true,
@@ -26233,7 +25331,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Vertical Semiconductor awarded $73m in CHIPS Act funding to support vGaN transistor development Data Center Dynamics",
-            "id": "a7"
+            "id": "a9"
           },
           {
             "title": "US’ FCC bans more gadgets for China links, says these cameras and video transmitters run on ‘spy chip’ - The Times of India",
@@ -26243,7 +25341,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T11:25:00.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Times of India",
             "geopoliticalBypass": true,
@@ -26253,7 +25351,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US’ FCC bans more gadgets for China links, says these cameras and video transmitters run on ‘spy chip’ The Times of India",
-            "id": "a9"
+            "id": "a11"
           },
           {
             "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -26263,7 +25361,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T07:12:35.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "electronics.economictimes.indiatimes.com",
             "geopoliticalBypass": true,
@@ -26273,7 +25371,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-            "id": "a12"
+            "id": "a14"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -26283,7 +25381,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T07:01:23.000Z",
-            "fetchedAt": "2026-10-23T21:43:33.992Z",
+            "fetchedAt": "2026-10-24T00:05:04.073Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26292,7 +25390,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a13"
+            "id": "a15"
           },
           {
             "title": "Technology Increasingly Impacting National Security: Expert - Menafn",
@@ -26302,7 +25400,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T06:04:36.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Menafn",
             "geopoliticalBypass": true,
@@ -26312,7 +25410,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Technology Increasingly Impacting National Security: Expert Menafn",
-            "id": "a14"
+            "id": "a16"
           },
           {
             "title": "CHIPS Act 2026 Fusion Semiconductor Awards Explained - Rare Earth Exchanges",
@@ -26322,7 +25420,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T06:03:28.000Z",
-            "fetchedAt": "2026-10-23T21:43:45.197Z",
+            "fetchedAt": "2026-10-24T00:05:08.861Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Rare Earth Exchanges",
             "geopoliticalBypass": true,
@@ -26332,7 +25430,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CHIPS Act 2026 Fusion Semiconductor Awards Explained Rare Earth Exchanges",
-            "id": "a15"
+            "id": "a17"
           },
           {
             "title": "US Proposes Curbs on Investment in Chinese Biotech Firms",
@@ -26342,7 +25440,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T22:04:18.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.408Z",
+            "fetchedAt": "2026-10-24T00:05:02.314Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26351,7 +25449,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Trump administration is seeking to restrict American investment in Chinese biotechnology companies, potentially complicating financial ties at a time when US drugmakers are increasingly turning to China for new medicines.",
-            "id": "a16"
+            "id": "a18"
           },
           {
             "title": "US pumps $400M into semiconductor R&D",
@@ -26361,7 +25459,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-22T15:04:10.000Z",
-            "fetchedAt": "2026-10-23T21:43:36.830Z",
+            "fetchedAt": "2026-10-24T00:05:07.042Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26370,25 +25468,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-            "id": "a18"
-          },
-          {
-            "title": "Qualcomm Schedules Fourth Quarter and Fiscal 2026 Earnings Release and Conference Call",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-schedules-fourth-quarter-fiscal-130000039.html?.tsrc=rss",
-            "description": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-22T13:00:00.000Z",
-            "fetchedAt": "2026-10-23T21:43:32.263Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Incorporated (NASDAQ: QCOM) today announced that it will publish the Company's financial results for its fourth quarter and fiscal 2026 on Wednesday, November 4, 2026, after the close of the market on the Company's Investor Relations website, at https://investor.qualcomm.com/financial-information. The earnings release will also be furnished to the Securities and Exchange Commission (SEC) on a Form 8-K, which will be available on the SEC website at http://www.sec.gov.",
-            "id": "a19"
+            "id": "a20"
           },
           {
             "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -26398,7 +25478,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-22T08:16:35.000Z",
-            "fetchedAt": "2026-10-23T21:43:34.964Z",
+            "fetchedAt": "2026-10-24T00:05:05.165Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26407,7 +25487,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "id": "a20"
+            "id": "a21"
           },
           {
             "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -26417,7 +25497,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-22T07:02:07.000Z",
-            "fetchedAt": "2026-10-23T21:43:33.992Z",
+            "fetchedAt": "2026-10-24T00:05:04.073Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26426,7 +25506,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "id": "a21"
+            "id": "a22"
           },
           {
             "title": "What drone patents reveal about the next wave of competition",
@@ -26436,7 +25516,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-21T08:20:00.000Z",
-            "fetchedAt": "2026-10-23T21:43:34.964Z",
+            "fetchedAt": "2026-10-24T00:05:05.165Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26445,7 +25525,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Analysis of the drone patent landscape underscores China’s influence in patent volume, but the comparable strength of US portfolios. As DJI’s share of patent strength declines, specialist start-ups around the world are reshaping the field.",
-            "id": "a22"
+            "id": "a23"
           },
           {
             "title": "Oppo wins second injunction against Asus in China",
@@ -26455,7 +25535,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-23T21:43:34.964Z",
+            "fetchedAt": "2026-10-24T00:05:05.165Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26466,12 +25546,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a23"
+            "id": "a24"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -26482,7 +25562,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-23T21:43:45.218Z",
+        "generatedAt": "2026-10-24T00:05:08.883Z",
         "date": "2026-10-24",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -26492,7 +25572,7 @@ export const NEWS_DATA = {
             {
               "text": "Geopolitics & Export Controls: The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
               "articleIds": [
-                "a23"
+                "a24"
               ],
               "subCategory": "geopolitics-export-controls"
             }
@@ -26507,7 +25587,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-21T08:02:46.000Z",
-            "fetchedAt": "2026-10-23T21:43:34.964Z",
+            "fetchedAt": "2026-10-24T00:05:05.165Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -26518,12 +25598,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "The ban relates to a fast-charging patent case, a non-SEP offshoot of a cellular licensing dispute that started 20 months ago",
-            "id": "a23"
+            "id": "a24"
           }
         ]
       }
     },
-    "totalArticles": 24
+    "totalArticles": 25
   }
 };
 
