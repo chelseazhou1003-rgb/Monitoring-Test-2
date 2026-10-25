@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T14:35:34.224Z",
-  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T17:53:13.398Z",
+  "date": "2026-10-26",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
-          "a1"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
         "articleIds": [
-          "a6"
+          "a8"
         ],
         "subCategory": "market-performance"
       }
@@ -31,7 +31,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-25T14:35:28.878Z",
+      "fetchedAt": "2026-10-25T17:53:09.023Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -44,7 +44,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a1"
+      "id": "a3"
     },
     {
       "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
@@ -54,7 +54,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-25T14:35:26.285Z",
+      "fetchedAt": "2026-10-25T17:53:06.577Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -65,7 +65,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "id": "a6"
+      "id": "a8"
     }
   ]
 }

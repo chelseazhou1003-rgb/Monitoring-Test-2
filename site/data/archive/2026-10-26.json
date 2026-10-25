@@ -1,0 +1,600 @@
+{
+  "generatedAt": "2026-10-25T17:53:13.416Z",
+  "date": "2026-10-26",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Semiconductors: QCOM.O - Reuters — reported by Reuters.",
+            "articleIds": [
+              "a6"
+            ],
+            "subCategory": "semiconductors"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "QCOM.O - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQOXJfOVJ5TThickFDRF9JYzg3OWVENEx2UklLdXJucnhkRUxxVDJrcGVkRVd2T3FnSjNKU3hXaEhNaUEtRUxqWXZ5QzFRVFpNblhwLUN6WjVkcEJvdXc?oc=5",
+          "description": "QCOM.O Reuters",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T07:22:33.000Z",
+          "fetchedAt": "2026-10-25T17:53:12.233Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Reuters",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "QCOM.O - Reuters — reported by Reuters.",
+          "id": "a6"
+        },
+        {
+          "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+          "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
+          "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-23T17:32:25.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
+          "id": "a16"
+        },
+        {
+          "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
+          "url": "https://247wallst.com/investing/2026/10/23/prediction-this-chip-stock-could-be-a-sleeper-ai-winner/?.tsrc=rss",
+          "description": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-23T14:00:40.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
+          "id": "a17"
+        },
+        {
+          "title": "What Would It Take For Qualcomm Stock To Move Higher?",
+          "url": "https://www.trefis.com/articles/620154/what-would-it-take-for-qualcomm-stock-to-move-higher/2026-10-23?.tsrc=rss",
+          "description": "For questions about this article or underlying research, email help@trefis.com.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-23T09:02:00.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "For questions about this article or underlying research, email help@trefis.com.",
+          "id": "a18"
+        },
+        {
+          "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
+          "url": "https://www.fool.com/coverage/charts/2026/10/22/intel-vs-qualcomm-a-widening-gap-in-revenue/?.tsrc=rss",
+          "description": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-22T20:45:16.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
+          "id": "a21"
+        }
+      ]
+    },
+    "ip-legal": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
+            "articleIds": [
+              "a14"
+            ],
+            "subCategory": "patent-litigation"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+          "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+          "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+          "source": "EE Times",
+          "sourceId": "eetimes",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-10-24T00:00:00.000Z",
+          "fetchedAt": "2026-10-25T17:53:07.150Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "patent-litigation",
+          "subLabel": "Patent Litigation",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+          "id": "a14"
+        },
+        {
+          "title": "Two Dollars and a Test Suite",
+          "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
+          "description": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
+          "source": "EE Times",
+          "sourceId": "eetimes",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-10-23T08:03:27.000Z",
+          "fetchedAt": "2026-10-25T17:53:07.150Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "patent-litigation",
+          "subLabel": "Patent Litigation",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
+          "id": "a19"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+        "keyTakeaways": []
+      },
+      "articles": []
+    },
+    "macro-environment": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
+            "articleIds": [
+              "a1"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
+          {
+            "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
+            "articleIds": [
+              "a8"
+            ],
+            "subCategory": "market-performance"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+          "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+          "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T16:42:42.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.483Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
+          "id": "a1"
+        },
+        {
+          "title": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats - 조선일보",
+          "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkdpQ0w5d1J0STNSWW9YdHZhRHRMTFZlRDRtUFlId3Q3c2M4N0E2MHVvODZfTUI5a1Atb3FLcWF4Rk1sa2Q5cl9JbmJaanZQaG4zSVoyUW5xMDUyLVE2LW5abXhMLTAwOVZqNDdqelp5aV9rcFJiNlF3bkJlMTNrbDVVOVh6ZnNx?oc=5",
+          "description": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats 조선일보",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T15:42:06.000Z",
+          "fetchedAt": "2026-10-25T17:53:13.371Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "조선일보",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats 조선일보",
+          "id": "a2"
+        },
+        {
+          "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+          "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+          "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-10-25T11:30:33.000Z",
+          "fetchedAt": "2026-10-25T17:53:09.023Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [
+            "apple"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "id": "a3"
+        },
+        {
+          "title": "Audi to build $4bn US plant as it grapples with tariffs",
+          "url": "https://www.ft.com/content/8f034740-12a8-47fe-9010-149f87e70f8e?syn-25a6b1a6=1",
+          "description": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
+          "source": "Financial Times",
+          "sourceId": "ft",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T10:33:28.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.906Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Move announced at Trump rally in Georgia comes as carmaker and its parent Volkswagen seek relief from president’s levies",
+          "id": "a4"
+        },
+        {
+          "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
+          "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUdSb25DUl82WTVCNWNzalhZcGZYbVowbFJsU3BSZUludlBPblAwWk9NOTNwdFZROHRfWWpPMjZHd3dCcDdGQkl0UEEwM2JrQ0E4VXNZaDd2bEtSX3Y1VlNHSXBuODJWQ091SFQ3RUpQWnBVZC1SRXZONGxvSHVrT3F6X2FMazBfQkJWWHlwdk5rSHFGMEY5LTFRQ2VaLS1DLWJWNk44d3U2VDNCM3Q1RXpFUEluYTVSOWt1V1B4c2c0OTZvSGItZkFuZWtuYnBxdHpzWFhGdHVQalhEZEJB0gHkAUFVX3lxTFA1TjM3bWtvaXZpSDhybjRzSFJ4UmYteTd0eXlNMXdLdlRwMXA5QXZLbXBva2NfT1RYcXdDS2VQTjhPOGFHdjRqTGwzMVZ0OUY0dy1lYTczdXZHcDVVVTMyYWhvdWtsTDFmVUlQV0djX2ppazZqRkFqczZ3RFpvR0RydFdRTjRWR0FxMnJjU0pZeEx2Zk44dmZIUi1wRUg2ejFYN3JhRUhkY2dnV2VlaHp1NDhIeEdVWGJIcTNLd3VFMWRBemx6QmxfS0F2V3ZSRndNMUpMenoxZk9BeTl2WnlFS0h2WQ?oc=5",
+          "description": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T09:06:31.000Z",
+          "fetchedAt": "2026-10-25T17:53:13.371Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "electronics.economictimes.indiatimes.com",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
+          "id": "a5"
+        },
+        {
+          "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+          "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+          "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+          "source": "Financial Times",
+          "sourceId": "ft",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T05:00:10.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.906Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+          "id": "a7"
+        },
+        {
+          "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+          "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T01:11:17.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [
+            "oem",
+            "platform-partner"
+          ],
+          "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+          "id": "a8"
+        },
+        {
+          "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+          "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T00:00:00.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.613Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+          "id": "a9"
+        },
+        {
+          "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+          "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
+          "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-24T23:35:32.000Z",
+          "fetchedAt": "2026-10-25T17:53:13.371Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Stocktwits",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+          "id": "a10"
+        },
+        {
+          "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
+          "url": "https://www.cnbc.com/2026/10/24/ukraine-starlink-starshield-service-restored.html",
+          "description": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-24T20:38:30.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.483Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
+          "id": "a11"
+        },
+        {
+          "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
+          "url": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
+          "description": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-24T16:21:24.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+          "id": "a12"
+        },
+        {
+          "title": "Bank of Israel Slams Netanyahu’s Anti-Sanction Crypto Scheme",
+          "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
+          "description": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-24T10:54:35.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.613Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
+          "id": "a13"
+        },
+        {
+          "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
+          "url": "https://www.cnbc.com/2026/10/23/trump-tariffs-canada-susan-collins.html",
+          "description": "Sen. Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-23T21:26:59.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.483Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
+          "id": "a15"
+        },
+        {
+          "title": "Chip Industry Week In Review",
+          "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
+          "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "source": "Semiconductor Engineering",
+          "sourceId": "semiconductor-engineering",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-10-23T07:01:23.000Z",
+          "fetchedAt": "2026-10-25T17:53:08.015Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+          "id": "a20"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+        "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "articleIds": [
+              "a3"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+          "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+          "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-10-25T11:30:33.000Z",
+          "fetchedAt": "2026-10-25T17:53:09.023Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [
+            "apple"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "id": "a3"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-10-25T17:53:13.398Z",
+      "date": "2026-10-26",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "articleIds": [
+              "a3"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
+          {
+            "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
+            "articleIds": [
+              "a8"
+            ],
+            "subCategory": "market-performance"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+          "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+          "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-10-25T11:30:33.000Z",
+          "fetchedAt": "2026-10-25T17:53:09.023Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [
+            "apple"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "id": "a3"
+        },
+        {
+          "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+          "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-10-25T01:11:17.000Z",
+          "fetchedAt": "2026-10-25T17:53:06.577Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [
+            "oem",
+            "platform-partner"
+          ],
+          "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+          "id": "a8"
+        }
+      ]
+    }
+  },
+  "totalArticles": 24
+}

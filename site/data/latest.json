@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-25T14:35:34.231Z",
-  "date": "2026-10-25",
+  "generatedAt": "2026-10-25T17:53:13.416Z",
+  "date": "2026-10-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "QCOM.O - Reuters",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a14",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 14,
-      "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+      "topHeadline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles). A total of 14 articles were aggregated from monitored sources."
     },
@@ -34,14 +34,14 @@
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a3",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 2,
       "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a1",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
