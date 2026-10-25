@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
           "articleIds": [
-            "a13"
+            "a14"
           ],
           "subCategory": "semiconductors"
         }
@@ -38,7 +38,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T17:32:25.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.271Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -46,7 +46,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-        "id": "a13"
+        "id": "a14"
       },
       {
         "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -56,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T14:00:40.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.271Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -64,7 +64,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-        "id": "a14"
+        "id": "a15"
       },
       {
         "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -74,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T09:02:00.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.271Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -82,7 +82,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a15"
+        "id": "a16"
       },
       {
         "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -92,7 +92,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-22T20:45:16.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.271Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -100,12 +100,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-        "id": "a18"
+        "id": "a19"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -116,7 +116,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -126,7 +126,7 @@ export const NEWS_DATA = {
         {
           "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
           "articleIds": [
-            "a10"
+            "a11"
           ],
           "subCategory": "patent-litigation"
         }
@@ -141,7 +141,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-24T00:00:00.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.785Z",
+        "fetchedAt": "2026-10-25T05:22:13.877Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -149,7 +149,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-        "id": "a10"
+        "id": "a11"
       },
       {
         "title": "Two Dollars and a Test Suite",
@@ -159,7 +159,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T08:03:27.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.785Z",
+        "fetchedAt": "2026-10-25T05:22:13.877Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -167,26 +167,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-        "id": "a16"
+        "id": "a17"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-25T00:35:37.568Z",
+    "generatedAt": "2026-10-25T05:22:19.912Z",
     "date": "2026-10-25",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-        "topHeadlineId": "a13",
+        "topHeadlineId": "a14",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 2,
         "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-        "topHeadlineId": "a10",
+        "topHeadlineId": "a11",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "growth-areas": {
@@ -198,10 +198,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 15,
-        "topHeadline": "Ukraine military says Starlink service restrictions have been lifted",
+        "articleCount": 16,
+        "topHeadline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (1 article). A total of 15 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -213,38 +213,97 @@ export const NEWS_DATA = {
       "stakeholders": {
         "title": "Key Stakeholders",
         "articleCount": 1,
-        "topHeadline": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-        "topHeadlineId": "a9",
-        "briefingSummary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app"
+        "topHeadline": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+        "topHeadlineId": "a2",
+        "briefingSummary": "One article today covering market-performance. QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20."
       }
     },
-    "totalArticles": 22
+    "totalArticles": 23
   },
   "macro-environment": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (1 article). A total of 15 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+          "text": "Geopolitics & Export Controls: Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+          "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
           "articleIds": [
-            "a4"
+            "a2"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+        "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+        "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-25T05:00:10.000Z",
+        "fetchedAt": "2026-10-25T05:22:13.699Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+        "id": "a1"
+      },
+      {
+        "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+        "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-25T01:11:17.000Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+        "id": "a2"
+      },
+      {
+        "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+        "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-25T00:00:00.000Z",
+        "fetchedAt": "2026-10-25T05:22:13.282Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+        "id": "a3"
+      },
       {
         "title": "Ukraine military says Starlink service restrictions have been lifted",
         "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
@@ -253,7 +312,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T21:30:37.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.587Z",
+        "fetchedAt": "2026-10-25T05:22:13.699Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -262,7 +321,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
-        "id": "a1"
+        "id": "a4"
       },
       {
         "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
@@ -272,7 +331,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T20:38:30.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.204Z",
+        "fetchedAt": "2026-10-25T05:22:12.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -281,26 +340,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-        "id": "a2"
-      },
-      {
-        "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-        "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-        "description": "Critics say prime minister’s proposal would turn country into an economic pariah",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-24T19:19:48.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.587Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
@@ -310,7 +350,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T16:21:24.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.271Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -318,7 +358,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "It’s time to find a new browser",
@@ -328,7 +368,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-24T12:00:00.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.624Z",
+        "fetchedAt": "2026-10-25T05:22:13.801Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -337,7 +377,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O … Read the full story at The Verge.",
-        "id": "a5"
+        "id": "a7"
       },
       {
         "title": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data - Newswav",
@@ -347,7 +387,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T11:00:04.000Z",
-        "fetchedAt": "2026-10-25T00:35:37.542Z",
+        "fetchedAt": "2026-10-25T05:22:19.885Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Newswav",
         "geopoliticalBypass": true,
@@ -357,7 +397,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data Newswav",
-        "id": "a6"
+        "id": "a8"
       },
       {
         "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
@@ -367,7 +407,7 @@ export const NEWS_DATA = {
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T10:54:35.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.334Z",
+        "fetchedAt": "2026-10-25T05:22:13.282Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -376,7 +416,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-        "id": "a7"
+        "id": "a9"
       },
       {
         "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -386,7 +426,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T07:29:42.000Z",
-        "fetchedAt": "2026-10-25T00:35:37.542Z",
+        "fetchedAt": "2026-10-25T05:22:19.885Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "electronics.economictimes.indiatimes.com",
         "geopoliticalBypass": true,
@@ -396,28 +436,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-        "id": "a8"
-      },
-      {
-        "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-        "description": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.334Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-        "id": "a9"
+        "id": "a10"
       },
       {
         "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
@@ -427,7 +446,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T21:26:59.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.204Z",
+        "fetchedAt": "2026-10-25T05:22:12.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -436,7 +455,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-        "id": "a11"
+        "id": "a12"
       },
       {
         "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -446,7 +465,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-23T19:50:26.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.204Z",
+        "fetchedAt": "2026-10-25T05:22:12.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -455,7 +474,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-        "id": "a12"
+        "id": "a13"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -465,7 +484,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-23T07:01:23.000Z",
-        "fetchedAt": "2026-10-25T00:35:31.367Z",
+        "fetchedAt": "2026-10-25T05:22:14.815Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -474,7 +493,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-        "id": "a17"
+        "id": "a18"
       },
       {
         "title": "US pumps $400M into semiconductor R&D",
@@ -484,7 +503,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-22T15:04:10.000Z",
-        "fetchedAt": "2026-10-25T00:35:35.719Z",
+        "fetchedAt": "2026-10-25T05:22:17.773Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -493,7 +512,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -503,7 +522,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-22T08:16:35.000Z",
-        "fetchedAt": "2026-10-25T00:35:31.901Z",
+        "fetchedAt": "2026-10-25T05:22:15.626Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -512,7 +531,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-        "id": "a20"
+        "id": "a21"
       },
       {
         "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -522,7 +541,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-22T07:02:07.000Z",
-        "fetchedAt": "2026-10-25T00:35:31.367Z",
+        "fetchedAt": "2026-10-25T05:22:14.815Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -531,7 +550,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-        "id": "a21"
+        "id": "a22"
       }
     ]
   },
@@ -727,43 +746,43 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-25T00:35:37.567Z",
+    "generatedAt": "2026-10-25T05:22:19.910Z",
     "date": "2026-10-25",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app",
+      "summary": "One article today covering market-performance. QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
+          "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
           "articleIds": [
-            "a9"
+            "a2"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-        "description": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+        "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-24T02:08:35.000Z",
-        "fetchedAt": "2026-10-25T00:35:27.334Z",
+        "publishedAt": "2026-10-25T01:11:17.000Z",
+        "fetchedAt": "2026-10-25T05:22:13.085Z",
         "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [
+          "oem",
           "platform-partner"
         ],
-        "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-        "id": "a9"
+        "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+        "id": "a2"
       }
     ]
   },
@@ -24236,11 +24255,11 @@ export const NEWS_DATA = {
     "totalArticles": 22
   },
   "archive-2026-10-25": {
-    "generatedAt": "2026-10-25T00:35:37.569Z",
+    "generatedAt": "2026-10-25T05:22:19.912Z",
     "date": "2026-10-25",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -24250,7 +24269,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
               "articleIds": [
-                "a13"
+                "a14"
               ],
               "subCategory": "semiconductors"
             }
@@ -24265,7 +24284,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T17:32:25.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.271Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24273,7 +24292,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-            "id": "a13"
+            "id": "a14"
           },
           {
             "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -24283,7 +24302,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T14:00:40.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.271Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24291,7 +24310,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-            "id": "a14"
+            "id": "a15"
           },
           {
             "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -24301,7 +24320,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T09:02:00.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.271Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24309,7 +24328,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a15"
+            "id": "a16"
           },
           {
             "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -24319,7 +24338,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-22T20:45:16.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.271Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -24327,12 +24346,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-            "id": "a18"
+            "id": "a19"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -24342,7 +24361,7 @@ export const NEWS_DATA = {
             {
               "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
               "articleIds": [
-                "a10"
+                "a11"
               ],
               "subCategory": "patent-litigation"
             }
@@ -24357,7 +24376,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-24T00:00:00.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.785Z",
+            "fetchedAt": "2026-10-25T05:22:13.877Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -24365,7 +24384,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-            "id": "a10"
+            "id": "a11"
           },
           {
             "title": "Two Dollars and a Test Suite",
@@ -24375,7 +24394,7 @@ export const NEWS_DATA = {
             "sourceId": "eetimes",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T08:03:27.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.785Z",
+            "fetchedAt": "2026-10-25T05:22:13.877Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "patent-litigation",
@@ -24383,12 +24402,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-            "id": "a16"
+            "id": "a17"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -24399,30 +24418,89 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (1 article). A total of 15 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
+              "text": "Geopolitics & Export Controls: Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+              "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
               "articleIds": [
-                "a4"
+                "a2"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
+            "url": "https://www.ft.com/content/1c3065cf-538f-433a-9749-0355a3642c7c?syn-25a6b1a6=1",
+            "description": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T05:00:10.000Z",
+            "fetchedAt": "2026-10-25T05:22:13.699Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Slowdown in China and cooling global stock markets are exacerbating a downturn for European sector",
+            "id": "a1"
+          },
+          {
+            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T01:11:17.000Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "id": "a2"
+          },
+          {
+            "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
+            "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T00:00:00.000Z",
+            "fetchedAt": "2026-10-25T05:22:13.282Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
+            "id": "a3"
+          },
           {
             "title": "Ukraine military says Starlink service restrictions have been lifted",
             "url": "https://www.ft.com/content/5b5592f4-c59d-4eb1-af78-078dc32fcab8",
@@ -24431,7 +24509,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T21:30:37.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.587Z",
+            "fetchedAt": "2026-10-25T05:22:13.699Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24440,7 +24518,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Slowdown in drone communication system had hampered Kyiv’s ability to defend itself against Russian strikes",
-            "id": "a1"
+            "id": "a4"
           },
           {
             "title": "After SpaceX restores high-speed service, Musk claims Ukraine violated Starlink agreement",
@@ -24450,7 +24528,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T20:38:30.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.204Z",
+            "fetchedAt": "2026-10-25T05:22:12.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24459,26 +24537,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ukraine says restrictions on Starlink and Starshield have been lifted, restoring connectivity to fast-moving military systems after disruptions.",
-            "id": "a2"
-          },
-          {
-            "title": "Israeli central bank rejects Netanyahu’s plan to use crypto to evade sanctions",
-            "url": "https://www.ft.com/content/39e475e7-0392-4856-aaaf-5ab3e35b8215?syn-25a6b1a6=1",
-            "description": "Critics say prime minister’s proposal would turn country into an economic pariah",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-24T19:19:48.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.587Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Critics say prime minister’s proposal would turn country into an economic pariah",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
@@ -24488,7 +24547,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T16:21:24.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.271Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -24496,7 +24555,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "It’s time to find a new browser",
@@ -24506,7 +24565,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-24T12:00:00.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.624Z",
+            "fetchedAt": "2026-10-25T05:22:13.801Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24515,7 +24574,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Demis Hassabis and computer chips and permafrost, enjoying the first episodes of Machine Gods, filming the next season of Version History (pet season!), seeing You Can See Everything and then reading and listening to absolutely everything about it, painstakingly updating all the stuff in my 1Password, making tiny documents with Tiny Little O … Read the full story at The Verge.",
-            "id": "a5"
+            "id": "a7"
           },
           {
             "title": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data - Newswav",
@@ -24525,7 +24584,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T11:00:04.000Z",
-            "fetchedAt": "2026-10-25T00:35:37.542Z",
+            "fetchedAt": "2026-10-25T05:22:19.885Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Newswav",
             "geopoliticalBypass": true,
@@ -24535,7 +24594,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "OPINION | Every platform poses not only a national security risks but risks for all its citizens and their personal data Newswav",
-            "id": "a6"
+            "id": "a8"
           },
           {
             "title": "Bank of Israel Slams Netanyahu’s Anti-Sanctions Crypto Proposal",
@@ -24545,7 +24604,7 @@ export const NEWS_DATA = {
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T10:54:35.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.334Z",
+            "fetchedAt": "2026-10-25T05:22:13.282Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24554,7 +24613,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-            "id": "a7"
+            "id": "a9"
           },
           {
             "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
@@ -24564,7 +24623,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-24T07:29:42.000Z",
-            "fetchedAt": "2026-10-25T00:35:37.542Z",
+            "fetchedAt": "2026-10-25T05:22:19.885Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "electronics.economictimes.indiatimes.com",
             "geopoliticalBypass": true,
@@ -24574,28 +24633,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-            "id": "a8"
-          },
-          {
-            "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-            "description": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.334Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-            "id": "a9"
+            "id": "a10"
           },
           {
             "title": "Trump dropping some Canada tariffs but 'replacing' them with other products",
@@ -24605,7 +24643,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T21:26:59.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.204Z",
+            "fetchedAt": "2026-10-25T05:22:12.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24614,7 +24652,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Susan Collins announced Canada was dropping Canadian tariffs, but the White House later said it was \"replacing\" the ones removed from the list.",
-            "id": "a11"
+            "id": "a12"
           },
           {
             "title": "Musk's SpaceX is still restricting Starlink in Ukraine and the toll is rising",
@@ -24624,7 +24662,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-23T19:50:26.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.204Z",
+            "fetchedAt": "2026-10-25T05:22:12.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24633,7 +24671,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Since last week, Ukraine has reported restrictions on Starshield, a version of SpaceX's Starlink, hampering its military operations against Russia.",
-            "id": "a12"
+            "id": "a13"
           },
           {
             "title": "Chip Industry Week In Review",
@@ -24643,7 +24681,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-23T07:01:23.000Z",
-            "fetchedAt": "2026-10-25T00:35:31.367Z",
+            "fetchedAt": "2026-10-25T05:22:14.815Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24652,7 +24690,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-            "id": "a17"
+            "id": "a18"
           },
           {
             "title": "US pumps $400M into semiconductor R&D",
@@ -24662,7 +24700,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-22T15:04:10.000Z",
-            "fetchedAt": "2026-10-25T00:35:35.719Z",
+            "fetchedAt": "2026-10-25T05:22:17.773Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24671,7 +24709,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Commerce Department awarded $389 million in R&D funding to four companies working on semiconductor development, under the government’s CHIPS and Science Act. The post US pumps $400M into semiconductor R&D appeared first on Mobile World Live.",
-            "id": "a19"
+            "id": "a20"
           },
           {
             "title": "Beijing to tighten biotech exports as big-ticket Chinese pharma dealmaking soars",
@@ -24681,7 +24719,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-22T08:16:35.000Z",
-            "fetchedAt": "2026-10-25T00:35:31.901Z",
+            "fetchedAt": "2026-10-25T05:22:15.626Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24690,7 +24728,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed export regime for cell and gene therapy, siRNA platform technologies allows IP licensing while keeping ownership in China",
-            "id": "a20"
+            "id": "a21"
           },
           {
             "title": "Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery",
@@ -24700,7 +24738,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-engineering",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-10-22T07:02:07.000Z",
-            "fetchedAt": "2026-10-25T00:35:31.367Z",
+            "fetchedAt": "2026-10-25T05:22:14.815Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -24709,12 +24747,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Integrated voltage regulators reduce current density, provide higher regulation bandwidth, and reduce reliance on large decoupling capacitor networks. The post Stacked-Die Multi-Chip Architectures: The Tradeoff Between Scaling And Power Delivery appeared first on Semiconductor Engineering.",
-            "id": "a21"
+            "id": "a22"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -24725,48 +24763,48 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-25T00:35:37.567Z",
+        "generatedAt": "2026-10-25T05:22:19.910Z",
         "date": "2026-10-25",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app",
+          "summary": "One article today covering market-performance. QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
+              "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
               "articleIds": [
-                "a9"
+                "a2"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
           {
-            "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-            "description": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
+            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-24T02:08:35.000Z",
-            "fetchedAt": "2026-10-25T00:35:27.334Z",
+            "publishedAt": "2026-10-25T01:11:17.000Z",
+            "fetchedAt": "2026-10-25T05:22:13.085Z",
             "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
             "competitors": [],
             "stakeholders": [
+              "oem",
               "platform-partner"
             ],
-            "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-            "id": "a9"
+            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "id": "a2"
           }
         ]
       }
     },
-    "totalArticles": 22
+    "totalArticles": 23
   }
 };
 

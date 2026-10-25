@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:35:37.567Z",
+  "generatedAt": "2026-10-25T05:22:19.910Z",
   "date": "2026-10-25",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
         "articleIds": [
-          "a13"
+          "a14"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T17:32:25.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.271Z",
+      "fetchedAt": "2026-10-25T05:22:13.085Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T14:00:40.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.271Z",
+      "fetchedAt": "2026-10-25T05:22:13.085Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.271Z",
+      "fetchedAt": "2026-10-25T05:22:13.085Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -68,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a15"
+      "id": "a16"
     },
     {
       "title": "Intel vs. Qualcomm: A Widening Gap in Revenue",
@@ -78,7 +78,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-22T20:45:16.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.271Z",
+      "fetchedAt": "2026-10-25T05:22:13.085Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -86,7 +86,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Intel's latest quarter hit $16.1 billion while Qualcomm fell to $9.9 billion—the largest gap in the eight-quarter comparison.",
-      "id": "a18"
+      "id": "a19"
     }
   ]
 }

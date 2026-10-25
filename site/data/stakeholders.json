@@ -1,41 +1,41 @@
 {
-  "generatedAt": "2026-10-25T00:35:37.567Z",
+  "generatedAt": "2026-10-25T05:22:19.910Z",
   "date": "2026-10-25",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app",
+    "summary": "One article today covering market-performance. QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even ",
+        "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
         "articleIds": [
-          "a9"
+          "a2"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
     {
-      "title": "Malaysia May Widen Ban on Israel-Based Waze Traffic App, PM Says",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/malaysia-may-widen-ban-on-israel-based-waze-traffic-app-pm-says",
-      "description": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+      "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-24T02:08:35.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.334Z",
+      "publishedAt": "2026-10-25T01:11:17.000Z",
+      "fetchedAt": "2026-10-25T05:22:13.085Z",
       "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [
+        "oem",
         "platform-partner"
       ],
-      "summary": "Prime Minister Anwar Ibrahim said Malaysia’s security cannot be compromised as he held fast on the government’s partial ban of Google’s navigation app Waze and said authorities aren’t ruling out even wider restrictions.",
-      "id": "a9"
+      "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+      "id": "a2"
     }
   ]
 }

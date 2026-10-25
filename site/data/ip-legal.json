@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T00:35:37.567Z",
+  "generatedAt": "2026-10-25T05:22:19.910Z",
   "date": "2026-10-25",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
         "articleIds": [
-          "a10"
+          "a11"
         ],
         "subCategory": "patent-litigation"
       }
@@ -24,7 +24,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.785Z",
+      "fetchedAt": "2026-10-25T05:22:13.877Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "Two Dollars and a Test Suite",
@@ -42,7 +42,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T08:03:27.000Z",
-      "fetchedAt": "2026-10-25T00:35:27.785Z",
+      "fetchedAt": "2026-10-25T05:22:13.877Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-      "id": "a16"
+      "id": "a17"
     }
   ]
 }
