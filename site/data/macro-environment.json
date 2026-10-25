@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-25T21:15:52.429Z",
+  "generatedAt": "2026-10-25T23:35:41.491Z",
   "date": "2026-10-26",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
@@ -31,7 +31,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T16:42:42.000Z",
-      "fetchedAt": "2026-10-25T21:15:44.658Z",
+      "fetchedAt": "2026-10-25T23:35:34.719Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -50,7 +50,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T15:42:06.000Z",
-      "fetchedAt": "2026-10-25T21:15:52.405Z",
+      "fetchedAt": "2026-10-25T23:35:41.461Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "geopoliticalBypass": true,
@@ -70,7 +70,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-25T21:15:47.477Z",
+      "fetchedAt": "2026-10-25T23:35:37.241Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -93,7 +93,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T09:06:31.000Z",
-      "fetchedAt": "2026-10-25T21:15:52.405Z",
+      "fetchedAt": "2026-10-25T23:35:41.461Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "electronics.economictimes.indiatimes.com",
       "geopoliticalBypass": true,
@@ -113,7 +113,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-25T21:15:44.814Z",
+      "fetchedAt": "2026-10-25T23:35:34.847Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -134,7 +134,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-10-25T21:15:45.023Z",
+      "fetchedAt": "2026-10-25T23:35:35.078Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -146,26 +146,6 @@
       "id": "a7"
     },
     {
-      "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
-      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
-      "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-24T23:35:32.000Z",
-      "fetchedAt": "2026-10-25T21:15:52.405Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Stocktwits",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "id": "a8"
-    },
-    {
       "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
       "url": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
       "description": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
@@ -173,7 +153,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T16:21:24.000Z",
-      "fetchedAt": "2026-10-25T21:15:44.814Z",
+      "fetchedAt": "2026-10-25T23:35:34.847Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -181,7 +161,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-      "id": "a9"
+      "id": "a8"
     },
     {
       "title": "Bank of Israel Slams Netanyahu’s Anti-Sanction Crypto Scheme",
@@ -191,7 +171,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T10:54:35.000Z",
-      "fetchedAt": "2026-10-25T21:15:45.023Z",
+      "fetchedAt": "2026-10-25T23:35:35.078Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -200,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-      "id": "a10"
+      "id": "a9"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -210,7 +190,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T07:01:23.000Z",
-      "fetchedAt": "2026-10-25T21:15:46.389Z",
+      "fetchedAt": "2026-10-25T23:35:36.244Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -219,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a16"
+      "id": "a15"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T21:15:52.430Z",
+  "generatedAt": "2026-10-25T23:35:41.493Z",
   "date": "2026-10-26",
   "sections": {
     "core-businesses": {
@@ -13,7 +13,7 @@
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a11",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 10,
+      "articleCount": 9,
       "topHeadline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
       "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 19
+  "totalArticles": 18
 }
