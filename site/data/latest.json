@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-25T05:22:19.912Z",
+  "generatedAt": "2026-10-25T10:11:17.440Z",
   "date": "2026-10-25",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 4,
       "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-      "topHeadlineId": "a14",
+      "topHeadlineId": "a12",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a11",
+      "topHeadlineId": "a9",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 16,
+      "articleCount": 12,
       "topHeadline": "Luxury groups’ value drops by €250bn as Chinese consumer demand fades",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (3 articles). A total of 12 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "One article today covering market-performance. QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20."
     }
   },
-  "totalArticles": 23
+  "totalArticles": 19
 }
