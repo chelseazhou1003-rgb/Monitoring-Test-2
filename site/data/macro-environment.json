@@ -1,28 +1,85 @@
 {
-  "generatedAt": "2026-10-26T01:47:15.884Z",
+  "generatedAt": "2026-10-26T08:08:46.909Z",
   "date": "2026-10-26",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (3 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+        "text": "Geopolitics & Export Controls: Ximing Wang, co-founder of KongshanCi, says the company is aiming to improve mental health, memory and emotions with next-generation brain technology. It's developing wearable devices and working with",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
+        "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favori",
         "articleIds": [
-          "a5"
+          "a2"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "KongshanCi Co-Founder on China's Brain Tech Development",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-26/kongshanci-co-founder-on-china-s-brain-tech-development-video",
+      "description": "Ximing Wang, co-founder of KongshanCi, says the company is aiming to improve mental health, memory and emotions with next-generation brain technology. It's developing wearable devices and working with hospitals and researchers as it moves toward commercial applications. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-26T06:00:16.000Z",
+      "fetchedAt": "2026-10-26T08:08:41.392Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Ximing Wang, co-founder of KongshanCi, says the company is aiming to improve mental health, memory and emotions with next-generation brain technology. It's developing wearable devices and working with hospitals and researchers as it moves toward commercial applications.",
+      "id": "a1"
+    },
+    {
+      "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
+      "url": "https://www.tikr.com/blog/qualcomm-is-32-below-its-52-week-high-as-it-plans-worldwide-job-cuts-heres-what-its-rising-costs-need-to-show-on-november-4?ref=yahoofinance&.tsrc=rss",
+      "description": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-26T01:01:48.000Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
+      "id": "a2"
+    },
+    {
+      "title": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJWeFAtUWdBODZlWllUR211bEdlRmd3VVFhMXVVeHRndXhrOE02WHQ3YmFGUDN0bFhkdWZBMl83VDJTc0NqUDFWck5rZmRGZ0d6Vzk0NTJSMkxINjVsZnVXVVA1VnkwV0pKRkN4QmU1YTBWVktWTml0MVBmekVsN2lYaGt1SVFybERZUWdSNllPVjByaFk1WE9Nc0R2NTEzQlBuUUloejJrMXE1SEtaMkZwcjQxTjlwN2RBVDNnRlRUV0tfMC0wSFllR0VjczVqVlE?oc=5",
+      "description": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-25T18:10:13.000Z",
+      "fetchedAt": "2026-10-26T08:08:46.884Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Stocktwits",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
+      "id": "a3"
+    },
     {
       "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
       "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
@@ -31,7 +88,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T17:10:01.000Z",
-      "fetchedAt": "2026-10-26T01:47:15.868Z",
+      "fetchedAt": "2026-10-26T08:08:46.884Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Stocktwits",
       "geopoliticalBypass": true,
@@ -41,7 +98,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -51,7 +108,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T16:42:42.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.142Z",
+      "fetchedAt": "2026-10-26T08:08:41.229Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -60,27 +117,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
-      "id": "a2"
-    },
-    {
-      "title": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats - 조선일보",
-      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSkdpQ0w5d1J0STNSWW9YdHZhRHRMTFZlRDRtUFlId3Q3c2M4N0E2MHVvODZfTUI5a1Atb3FLcWF4Rk1sa2Q5cl9JbmJaanZQaG4zSVoyUW5xMDUyLVE2LW5abXhMLTAwOVZqNDdqelp5aV9rcFJiNlF3bkJlMTNrbDVVOVh6ZnNx?oc=5",
-      "description": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats 조선일보",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-25T15:42:06.000Z",
-      "fetchedAt": "2026-10-26T01:47:15.868Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "조선일보",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Japan's National Intelligence Bureau Aims to Counter North Korea-Russia-China Threats 조선일보",
-      "id": "a3"
+      "id": "a5"
     },
     {
       "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -90,7 +127,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-26T01:47:10.533Z",
+      "fetchedAt": "2026-10-26T08:08:43.689Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -103,7 +140,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a4"
+      "id": "a6"
     },
     {
       "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
@@ -113,7 +150,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.233Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -124,7 +161,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "id": "a5"
+      "id": "a7"
     },
     {
       "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
@@ -134,7 +171,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T16:21:24.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.233Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -142,45 +179,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-      "id": "a6"
-    },
-    {
-      "title": "Bank of Israel Slams Netanyahu’s Anti-Sanction Crypto Scheme",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-24/netanyahu-says-israel-mulls-crypto-ahead-of-possible-sanctions",
-      "description": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-24T10:54:35.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.513Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-      "id": "a7"
-    },
-    {
-      "title": "Chip Industry Week In Review",
-      "url": "https://semiengineering.com/chip-industry-week-in-review-161/",
-      "description": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "source": "Semiconductor Engineering",
-      "sourceId": "semiconductor-engineering",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-10-23T07:01:23.000Z",
-      "fetchedAt": "2026-10-26T01:47:09.633Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a13"
+      "id": "a8"
     }
   ]
 }

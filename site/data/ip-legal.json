@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-26T01:47:15.884Z",
+  "generatedAt": "2026-10-26T08:08:46.909Z",
   "date": "2026-10-26",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te",
     "keyTakeaways": [
       {
         "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
         "articleIds": [
-          "a8"
+          "a9"
         ],
         "subCategory": "patent-litigation"
       }
@@ -24,7 +24,7 @@
       "sourceId": "eetimes",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.872Z",
+      "fetchedAt": "2026-10-26T08:08:42.025Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -32,25 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-      "id": "a8"
-    },
-    {
-      "title": "Two Dollars and a Test Suite",
-      "url": "https://www.eetimes.com/two-dollars-and-a-test-suite/",
-      "description": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-      "source": "EE Times",
-      "sourceId": "eetimes",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-10-23T08:03:27.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.872Z",
-      "fetchStrategy": "rss",
-      "section": "ip-legal",
-      "subCategory": "patent-litigation",
-      "subLabel": "Patent Litigation",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The $2 damages award grabbed headlines, but the Arm-Qualcomm verdict’s bigger implication concerns who controls the compliance tests that custom chips must pass before shipping. The post Two Dollars and a Test Suite appeared first on EE Times.",
-      "id": "a12"
+      "id": "a9"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T01:47:15.884Z",
+  "generatedAt": "2026-10-26T08:08:46.909Z",
   "date": "2026-10-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T17:32:25.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.233Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T14:00:40.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.233Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-26T01:47:08.233Z",
+      "fetchedAt": "2026-10-26T08:08:41.290Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -68,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a11"
+      "id": "a12"
     }
   ]
 }

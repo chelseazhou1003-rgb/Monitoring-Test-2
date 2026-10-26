@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-26T01:47:15.885Z",
+  "generatedAt": "2026-10-26T08:08:47.021Z",
   "date": "2026-10-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-      "topHeadlineId": "a9",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a8",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a9",
+      "briefingSummary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te"
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -26,24 +26,24 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 8,
-      "topHeadline": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+      "topHeadline": "KongshanCi Co-Founder on China's Brain Tech Development",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (2 articles). A total of 8 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (3 articles). A total of 8 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a6",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 2,
       "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 16
+  "totalArticles": 15
 }
