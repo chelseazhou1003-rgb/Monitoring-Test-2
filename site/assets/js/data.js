@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -12,7 +12,7 @@ export const NEWS_DATA = {
         {
           "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
           "articleIds": [
-            "a12"
+            "a14"
           ],
           "subCategory": "geopolitics-export-controls"
         }
@@ -27,7 +27,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-25T11:30:33.000Z",
-        "fetchedAt": "2026-10-26T15:29:54.336Z",
+        "fetchedAt": "2026-10-26T20:45:38.833Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -40,22 +40,22 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a12"
+        "id": "a14"
       }
     ]
   },
   "core-businesses": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
           "articleIds": [
-            "a2"
+            "a7"
           ],
           "subCategory": "semiconductors"
         }
@@ -70,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T14:26:00.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -80,7 +80,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-        "id": "a2"
+        "id": "a7"
       },
       {
         "title": "QCOM.O - Reuters",
@@ -90,7 +90,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T07:45:15.000Z",
-        "fetchedAt": "2026-10-26T15:29:56.810Z",
+        "fetchedAt": "2026-10-26T20:45:42.921Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "core-businesses",
@@ -99,31 +99,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QCOM.O - Reuters — reported by Reuters.",
-        "id": "a6"
-      },
-      {
-        "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-        "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
-        "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-23T17:32:25.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-        "id": "a16"
+        "id": "a10"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -133,8 +115,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -143,7 +125,7 @@ export const NEWS_DATA = {
         {
           "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
           "articleIds": [
-            "a15"
+            "a17"
           ],
           "subCategory": "patent-litigation"
         }
@@ -158,7 +140,7 @@ export const NEWS_DATA = {
         "sourceId": "eetimes",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-10-24T00:00:00.000Z",
-        "fetchedAt": "2026-10-26T15:29:51.659Z",
+        "fetchedAt": "2026-10-26T20:45:37.240Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "patent-litigation",
@@ -166,26 +148,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-        "id": "a15"
+        "id": "a17"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-10-26T15:29:58.112Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.171Z",
+    "date": "2026-10-27",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 3,
+        "articleCount": 2,
         "topHeadline": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
+        "topHeadlineId": "a7",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-        "topHeadlineId": "a15",
+        "topHeadlineId": "a17",
         "briefingSummary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te"
       },
       "growth-areas": {
@@ -197,52 +179,45 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 12,
-        "topHeadline": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+        "articleCount": 14,
+        "topHeadline": "TikTok Spends $325K Lobbying on Trade and Export Control Policy - Legis1",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (5 articles). A total of 14 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
         "articleCount": 1,
         "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-        "topHeadlineId": "a12",
+        "topHeadlineId": "a14",
         "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 5,
-        "topHeadline": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), Customers & Partners (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
     "totalArticles": 22
   },
   "macro-environment": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (5 articles). A total of 14 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but ",
+          "text": "Geopolitics & Export Controls: TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "Customers & Partners: Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim",
-          "articleIds": [
-            "a3"
-          ],
-          "subCategory": "customers-partners"
-        },
-        {
-          "text": "market-performance: Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+          "text": "market-performance: QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM sha",
           "articleIds": [
             "a4"
           ],
@@ -252,14 +227,34 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-        "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-        "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342. That offer is available exclusively to new Woot customers, who can enter the code REMARKABLE at checkout to save 10 percent on their order through November 2nd. The deal is good for returning shoppers, too, costing $379.99. Remarkable Paper Pro Move Where to Buy: $449 $342 at Woot (refurb, w/ code REMARKABLE) The Paper Pro Move makes it easy to convert your handwritten notes to text, and store files on third-party cloud services. You can also view your notes in Remarkable’s apps and screen share from your E Ink device. However, Remarkable’s Connect subscription (a free 50-day trial for new users/devices) and $3.99 per month thereafter offers access to a larger suite of features. With it, you can search your handwritten notes, import docs and articles to the device to mark notes on, get AI-powered summaries of your handwritten text (viewable in a browser), and more. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macbook_pro_m1.png\", productImageAlt: \"MacBook Pro (M1 series)\", productTitle: \"MacBook Pro (M1 series)\", shortDescription: \"Get a refurbished MacBook Pro M1 for less\", longDescription: \"Upgrade your laptop for less with a refurbished 13-inch MacBook Pro featuring Apple's M1 chip, 8GB of RAM, and 256GB of storage. Back Market offers professionally inspected devices backed by a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fmacbook-pro-m1-series%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Other great deals to consider Best Buy is trying to reach more gamers, so it’s dangling a $5 gift card offer for those who sign up for a Best Buy Gamers profile. Beyond being a hub for gaming-centric info, trailers, and polls, it’s a portal for highlighting deals and its upcoming drops, like the Thursday, November 5th midnight in-store launch of The Legend of Zelda: Ocarina of Time (and the limited edition Nintendo Switch 2 hardware). It seems possible that Best Buy might give Gamers account holders first (or at least, early) dibs on hard-to-get tech. Fujifilm’s X Half digital camera has sunk to its lowest price yet at Amazon, Best Buy, Adorama, and B&H Photo, selling for $449 (previously floating between $600 and $649.95). It’s a much more reasonable price than the $850 it sold for when former Verge supervising producer Vjeran Pavic took it for a spin at launch in May 2025. We last covered this camera a year later when it was discounted to $549.99. The feature-light camera looks like a pricey mirrorless model, but is instead a glorified digital camera that can shoot 18-megapixel shots that evoke the analog era through various modes and filters. Read our hands-on. I’m still getting used to Belkin being one of the most prolific accessory makers for the Nintendo Switch 2. One of its latest, the Charging Grip, is discounted by $10 at Amazon in the black color. Originally $99.99 for the handheld case that adds some non-slip ergonomics via Joy-Con grips, it’s down to $89.99. Most of the price comes from the 10,000mAh 30W USB-C battery that’s included, which magnetically attaches to the Grip on the back of your console. The Grip allows for the Switch 2’s kickstand to extend, and a big advantage here compared to most third-party console covers is that the case is thin enough to allow for docking with Nintendo’s first-party dock.",
+        "title": "TikTok Spends $325K Lobbying on Trade and Export Control Policy - Legis1",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZGdPbVVzei0weXVXT1loSS03enpKWnFqQTZ5YVlqWTJHWEhZRWZoQXpUVGZSQ0RaQ2RvVVRRNkhmcXZDenJMNklfcTJUS2I1WHNaWk9FdkpjS2dVam1NWDVWMkpBMkNiaWVhYkJDbTJROHVJYWc?oc=5",
+        "description": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-26T18:37:41.000Z",
+        "fetchedAt": "2026-10-26T20:45:44.134Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Legis1",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
+        "id": "a1"
+      },
+      {
+        "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+        "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+        "description": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price. While they won’t completely drown out chatter of your local coffee shop, the ANC does a good job of quieting low drones, including air conditioners and airplane cabin noise. We did encounter some bugs in testing, however, including abrupt changes in noise cancellation levels when using adaptive ANC, as well as occasional issues with voice calls in noisy environments. Still, they’re relatively minor drawbacks given what you get for the price. The Ear 3A also come in some fun colors — including a striking pink shade — and each pair includes extra-small ear tips for a more comfortable fit. They even offer a shortcut to access ChatGPT and include 32MB of built-in storage, letting you record up to two hours of a phone call and transfer the recording through the companion app. Read our Nothing Ear 3A review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" };",
         "source": "The Verge",
         "sourceId": "the-verge",
         "sourceGroup": "tech",
-        "publishedAt": "2026-10-26T14:41:43.000Z",
-        "fetchedAt": "2026-10-26T15:29:51.416Z",
+        "publishedAt": "2026-10-26T17:25:34.000Z",
+        "fetchedAt": "2026-10-26T20:45:37.022Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -270,30 +265,85 @@ export const NEWS_DATA = {
           "oem",
           "platform-partner"
         ],
-        "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342.",
-        "id": "a1"
+        "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price.",
+        "id": "a2"
       },
       {
-        "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-        "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-        "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth. Okay: Kevin Roose on The AGI Chronicles, starting Machine Gods, and where AI goes from here. Here we go. This interview has been lightly edited for length and clarity. Kevin Roose, you are the author of The AGI Chronicles and the cofounder and co-host of the new podcast Machine Gods. Welcome to Decoder. Thanks so much for having me. I was listening to the first episode of Machine Gods and you and Casey discussed the fact that technically you have the title of CEO. It’s true. I won the coin flip and we needed someone. When you start a company as we have, you need to list someone as the CEO, I guess, to know who to haul in front of Congress when our first scandal inevitably breaks. So that’s going to be me. It’s funny because you’re a CEO on Decoder. It means I’m going to have to ask you the Decoder questions. [Laughs] Okay. Well, I’ve been a CEO for about five minutes and most days I frankly forget I’m the CEO. Honestly, that tracks with most of the CEOs on the show. They all act like they’ve only done it for five minutes. We’ll come to it. I want to talk about your book. It’s called The AGI Chronicles. It is a meticulously reported book about the main frontier labs and the culture shift they’ve all undergone as AI has come into the forefront and become a much more commercial product in many ways. But let’s just start with Machine Gods. You were a journalist for The New York Times for a long time. Obviously, I think the audience probably knows this, but you and I have known each other for a long time. I will say that since I have known you, your desire to be a YouTuber has been top of mind. You’re just like, “How do I get over there?” And I’ve always been like, “Run, don’t do it.” But you did it. You left The Times, you started your own podcast with our friend Casey Newton. It is the next generation of the very popular podcast, Hard Fork, which was excellent. And I’m excited for you, but what made you take the leap? Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Yeah, you have been trying to convince me out of this for as long as I’ve been trying to convince myself into it and you have not succeeded because here I am. Yep, I failed. Utterly failed. No, look, I think that for some very good reasons, media companies have long been a little bit wary of going all in on YouTube or any other video platform. The ones that have gone all in have not necessarily come out of that with good feelings about it because there are a lot of– Yeah, they pivot to video and also into death, routinely. Yeah, you pivot to video or you sort of waste a bunch of money doing things that don’t pay for themselves. So, I think there are some structural economic reasons for that, but I also think it’s that there aren’t a lot of institutions that are equipped to make that kind of a long-term bet. I’ve been trying to YouTube-pill people in media for many years, as you know. You’ve been trying to undo the YouTube-pilling on your end, but I just think it’s clearly the most important media platform in the world right now. It’s a place where journalism has not historically had a central place. If you were to look at YouTube as a whole and try to assess what piece of it is dedicated to what you or I would consider high-quality journalism, it’s a vanishingly small part of the overall ecosystem there. So, part of my mission is just to crack that and figure out how to do YouTube and video in general in a way that is sustainable from an economic and a sort of creative standpoint. And then just to experiment and do a bunch of things. This is not a face that needs to be on YouTube. So I’m also hoping to bring some other people in and nail some formats. But I look at what The Verge has done there. I look at what people like Joanna Stern and MKBHD have done there. To me, that is very exciting and it’s a space where there’s a lot less competition than text or podcasts. Machine Gods is a podcast that you’re doing in partnership with NPR, which I want to talk about. But do you think of it as a YouTube product? We want it to be video-first. What that means basically is that we are going to give a shit about what it looks like to a degree that we have not always done. We’re going to try to give people a lot of reasons to want to watch as well as listen. Obviously, we know that there are some people who just don’t like video podcasts and so we want to give the audio audience something that is enjoyable, but this is the direction of things. You can’t do a podcast now without doing video on top of it. So we’re going to try to really embrace that and make a good version of it that is as good as two middle-aged journalists can pull off on YouTube. Truly the future of media is middle-aged journalists pivoting to YouTube. I feel the same way because I’m now making more video and that’s what we’re doing. It’s going to be great. The other reason to leave and to do this — and obviously people know I’m friends with Casey as well, and I’ve been talking to you and him about it for a long time — is that the AI story is here. There is a platform shift. There are new companies, new characters, new ideas to talk about in the world. It’s funny because in that context, usually you get a media shift as well. The way we tell stories or the formats we tell stories usually shifts alongside the thing we are talking about or the technology we’re talking about. Here, YouTube feels like the most solid media foundation that exists. It’s the one that’s the same the most, even though it’s changing and it has YouTube Shorts and now you can A/B test everything, including your own face. But it’s the one that is the most the same. Instagram has undergone some massive change and it feels like that will continue happening. Does it feel like YouTube is the most stable place to build as you’re trying to tell these new stories? It does. I mean, obviously you never want to put all your eggs in one basket. So, we are also distributing video on Apple Podcasts and Spotify and we’re going to be everywhere. But yeah, it feels relatively stable. The question I’m always wondering is what would it take to replace YouTube? Many companies have tried to replace YouTube, but to do that, you would not only have to build an experience that was better for creators and better for users, but you would also have to replicate the entire visual corpus of humanity. You would have to just get six million videos from plumbers about how to fix every individual sink and then upload it to that. It’s a really hard thing to displace. It is so ingrained for so many people, and I just think it’s going to keep growing. We’ll come to this when we talk about AI, but a long time ago I asked Google CEO Sundar Pichai, “Well, what are you going to do if there’s no more websites?” And he was kind of like, “Well, we have YouTube.” And there’s just no arguing with that. You sure do. And it is just going to keep growing. What has been the most surprising thing about going from The New York Times to what you might call the creator economy? Well, we’re very new at it, but surprising to me so far is how much I like all the business stuff. I think in journalism, you’re always taught to stay in your lane, and I have never run a business before. Casey has run a business. I knew he enjoyed it. But for me, these are new muscles and I don’t enjoy all of it. Negotiating the insurance quotes for our defamation coverage is not what I would feel compelled by. But regarding actually running a business, there is something to this founder thing. Yeah, it’s a good time. It’s funny, in talking to you and to Casey and Joanna, who also just left and started her own thing, that comes up a lot. From my perspective, it’s why I’ve been doing this a long time. What if I stopped running the business? That doesn’t seem to be a choice. This is the future of media — taking control of your business and taking control of your audience. There’s something very powerful there. One of the things I want to talk about, and then I definitely want to talk about the book at length, is the audience for AI coverage, because I see it in two ways. There’s a group of people building the stuff that loves it and wants to consume all of it. There’s a group of people that truly hates it and thinks all of it is fake. And then there’s what I would call an expanding group in the middle where the products have become more useful. You have to look at them and evaluate them as they are. They were not terribly useful a couple years ago. The promises did not match reality, but every day now it can do one more thing that it couldn’t do before. Whether that thing is hacking all of the websites in the world, we’ll set that aside, but AI can do things it couldn’t do before and the audience seems to be changing. How are you thinking about the audience for Machine Gods and how it might grow or change? I mean, right now we’re just trying a bunch of stuff that we think will be good and we hope that it will find its sort of natural audience. But I think you’re right that the audience is changing. I think for a while there was a lot of demand for cope — basically people telling you this is not happening, you don’t have to pay attention to it, it sucks, it’s hurting the environment. There still is in some parts of the internet. YouTube has a weird amount of this still going on and Reddit is also very anti-AI. But I think most people, or at least maybe a plurality of people, are either resigned to or excited about the fact that this is not going away. That is the audience that we’re looking for. We’re not trying to tell you that AI is amazing and we’re going to be in AI utopia under the new machine regime. We’re also not telling you that this stuff is fake and sucks and is going to go away on its own and so we don’t need to do anything to regulate it or be worried about it. Casey’s phrase for this is AI realism. He thinks there’s a big chunk of people who are just sort of curious and interested and maybe a little scared, but their reaction to the fear is not to try to bury their heads in the sand, but to try to understand the thing. So we started feeling this when we were doing Hard Fork where we would do something that just seemed kind of not our vibe. We would do a Claude Code walkthrough tutorial where we would just spend half an hour building a website and film ourselves and throw it up and it would do great. So people clearly were curious, and even if the comments on the videos were all from people who hated AI, there was clearly a lot of demand out there for people who were just like, “I kind of want to know what’s going on.” “I hate that I can’t stop watching this” is a real theme inside of AI coverage for a variety of reasons. Let’s talk about the book. I think that’s going to frame a bunch of the other questions I have. The book is meticulously reported. It is really fun to read. And the point of it, as I’ve heard you describe it, is to tell the history of the deep learning revolution because all these people just talk in Signal and in extremely childish tweets. Tell me about that gap because this is an industry that is obsessed with documenting itself for computers and being legible to computers and not at all to other people, which seems wild to me. So explain the reporting of this book, because it feels like convincing them to even tell you what happened was a slog. It was, yeah. So basically the reason I wrote this is because I was scared that all of this stuff was going to disappear. I am a history buff. I love to read books about the Wright brothers or the electrification of rural America or the moments of great invention during the PC revolution. I’m such a sucker for that stuff. What you notice as you read more of these books is just that they all rely on a lot of contemporaneous notes and evidence — the lab notes from the scientists developing the atomic bomb, the correspondence between the Wright brothers and their friends and business partners — that is preserved and archived. It was just clear to me reporting on AI every day that there was not going to be anything remotely similar for this stuff because A, all the people building this stuff work for private companies. They’re not government employees who are legally required to preserve their correspondence. And B, the Signal messages and Slack messages are all set by the lawyers to auto-delete after a certain period. So there was literally going to be kind of a mass disappearance with each passing year of these, I think, historically important artifacts, moments, and stories. And then C, the researchers are all too busy to keep notes. They’re all grinding because they’re trying to build the machine god. So, I thought as a journalist, but more so almost as a historian, which is not a role I’ve ever officially played, but one I think I was playing with this book. I was just like, “I’ve got to just get this stuff because I have this sort of privileged ringside seat. These people talk to me. I know some of them will sit down and talk to me and tell me the stories.” We did a lot of it on background so they could be protected from the consequences of talking to me. But this was sort of my attempt to furiously get all the stuff and put it in the archive where future generations could look at it. The theme that really jumps out at me as I read the book was there’s a moment when AGI goes from being a thing they’re all dreaming about to being a thing that they all have to build and the shackles come off and they say, “We have to do this,” and they all drive toward it as hard as they can. You talk specifically about Google where the Overton window moved and suddenly the people inside of Google, who thought this was all a pipe dream and pretty silly, started talking about AGI. That moment feels like the single most important moment in the history of AI, where “Won’t it be great?” goes to “We better go as fast as we can.” Talk about that a little bit, because that shift inside these companies feels under-reported. Yeah, I think that’s absolutely right. I mean, people have been talking and writing about AGI or some precursor that wasn’t called AGI but meant the same thing since literally antiquity. And especially since the 1950s, when the term artificial intelligence was born, people were talking about it. Alan Turing was writing about the thinking machine that could do anything the human brain could. So this concept has been around for a long time, but there was no technology anywhere on the market or in research labs that could actually do what people wanted it to do — that could take in information, learn to learn about that information, and then use that to make predictions and act in the world. People tried lots of different ways to do this and none of them worked all that well. What really needed to happen was the transformer needed to come along. This architecture that Google developed in 2017 and published and then presented to, among other places, OpenAI, which took the idea of the transformer and ran with it. And that’s the T in ChatGPT today. But that was the– Somewhere a Google PR person just leapt out of a bush to hand you a check. They do love this line. They love it when you say it. They get so happy. They love it. They love it less when you point out that although they invented it, they absolutely failed to turn it into a product until after OpenAI did. But yeah, it was a dream, but there was nothing to attach to the dream. There was no technology. And then the large language model came and suddenly it was like, “Oh, maybe this is the thing that could scale forever and keep improving over many orders of magnitude.” So, that’s the light bulb that goes off at OpenAI and then later at Google is like, “Now we have the tool to do the thing that we have always wanted to do.” You’ve got a line in there where you just point out that next-token prediction has not failed yet — that it is doing all the things people want it to do. We’ve obviously had to develop lots of technology around it. There are harnesses to make agents work. There’s reinforcement learning. There’s all this stuff around it. But that core technology has scaled. The reason I bring that up is that in 2023 into 2024, I would ask every AI person who would come on the show or that we would see on The Verge whether LLMs can do it. Can they do the thing you want them to do? Because I don’t think at that moment it was clear that they could. We’re closer now. They’re all openly talking about AGI. We are watching Meta’s Muse just walk its little butt around the internet whenever it wants. Do you think LLMs can do it? Do you think they can get there? I think they can. I’m not certain about that, but they’ve been shockingly good and effective so far. If you go back and you look at the first LLMs, it’s just like 99 percent of people thought this is crazy, that this won’t scale. And then it just keeps working at every stage, at every order of magnitude. I’ve asked people, what was it about next-token prediction that was clearly superior to everything that came before it? There have been people who have told me this actually exists in the human brain too. There’s a whole school of thought that says that what is happening inside the human brain is essentially next-token prediction at scale. Obviously, it’s more complicated. These are not one-for-one replicas of each other. But I think this is the fundamental mystery at the heart of AI: why is next-token prediction so remarkably effective? I think we don’t know. I kind of think it’s one of these cosmic mysteries, but why all of this works is because next-token prediction turns out to generalize really, really, really well. There’s a part of that where all these companies had to believe it. Dario Amodei of Anthropic obviously wrote his paper, “Big Blob of Compute,” where he said you can just do it. You can just dump data and compute at this and we’ll get there. Everyone else had to be convinced of this. What path did the AI companies all take to be convinced of this, and are they all fully convinced of it now? I don’t think they’re all fully convinced of it now. I think they are convinced of it to varying degrees. Ilya Sutskever has this phrase, “Feel the AGI,” that he would walk floor to floor at OpenAI chanting in the old days and reminding people to feel the AGI. I think the labs feel the AGI to varying degrees. I think Anthropic is clearly the most AGI-pilled of the labs, with OpenAI kind of a close second. And then there’s Google, which I think has always struggled to feel the AGI. I think there are lots of reasons for that, but it’s very funny. I love this section of the book where there’s this internal memo battle at Google, where they would just go on their internal message boards and Googlers love to write these manifestos and then snipe at each other’s manifestos and things like that. So a researcher writes this memo, “Say AGI,” which is all about how Google — if it wants to win in AI, recruit the top technical talent, and remain safe about how it’s developing AI — has to admit, through using this term AGI, that what they are building is more than just a bunch of tools to make your Gmail better and make your docs better and make your Google Photos better at recognizing the people’s faces. It is all actually building up to something like a kind of human-level general intelligence. And then someone else immediately writes a memo that’s like, “Don’t say AGI, it’s a horrible, unscientific term.” They go back and forth like this for a while, and you’ll notice even today, [Google CEO] Sundar Pichai does not say AGI. No, he won’t. Demis Hassabis says AGI. Sergey Brin says AGI. So I think there are kind of factions within Google that either think this is still crazy and we should talk about these things as narrow tools versus I think this growing and ascendant faction that is saying, “No, no, no, we’re building AGI, or at least we better say we’re building AGI because otherwise all of our top people are going to go work for OpenAI or Anthropic.” I think you and I had the same experience at Google I/O in May, where we watched Demis Hassabis end the whole keynote by saying, “We’re in the foothills of the singularity.” And then we both went and interviewed Sundar and said, “What does that mean?” And he was like, “Yeah, yeah, Demis. Cool guy.” [Laughs] Take it up with Demis. He was like, “What a kooky character that guy is, building the machine god over here. Let me tell you about the new features in Google Assistant.” There’s some big disconnect there that maybe explains everything about Google at this point in time. The reason I’m asking about this in particular, about this moment when they all clicked over to realize somehow we have to talk about it, is that OpenAI and Anthropic were founded to do this. They were built to make this happen. But they don’t agree on how it should work. I saw you at your book party in New York and you said that you could have retitled your book “Fuck That Guy,” because they all truly hate each other. It’s true. And yet it seems like they have the exact same idea — that they can get there with this technology. The commercial imperatives on OpenAI and Anthropic are very different from the commercial imperatives for Google. Right now, as you and I are talking, it’s not clear to me that they can get to AGI before they run out of money or before CoreWeave collapses or before the bubble writ large comes to some other conclusion about the state of the economy. Do you think that their religious fervor at AGI is keeping them from running a business? If I ran Anthropic today, a logical thing you could say is we should stop training new models and sell the very capable ones we have to more people. I think that belief in AGI is a double-edged sword. I think on one level, yes, if you are super AGI-pilled as the CEO of a frontier AI company, you are going to struggle to care about things like what is my profit margin on inference? Where is my next slate of enterprise customers coming from? Because how boring is that compared to “we are going to build the superhuman machine intelligence that leads us into the post-singularity future”? On the other hand, I think belief is actually a key ingredient in AI success, because belief and the ability to act on that belief is what leads you to do these bet-the-farm moves that can really pay off and have really paid off. Do you remember a year ago when everyone was saying, “Oh my God, OpenAI is spending so much money on compute; how are they ever going to pay for all this compute? Isn’t Sam Altman overextending?” Even Dario was giving interviews where he was throwing shade at OpenAI for spending so much goddamn money on compute. Fast-forward a year and OpenAI is now the only major AI company that is not severely compute-constrained. That belief that led Sam and his executives to bet and maybe overbet on compute last year was the reason that they are in a better position than Google or Anthropic or Meta or anyone else today. So I don’t want to say it’s always a liability to believe this hard, because I think it actually does allow you to make the bets that do end up paying off if the scaling continues to work. It’s interesting because I might reframe that OpenAI decision. You write very poignantly in your book about what people at OpenAI call “the blip,” where Sam Altman was fired for 20 minutes and then he came back and that cleared out a bunch of people from OpenAI. It is the moment you described in the book where OpenAI went from being a research company into being a business. The rational business decision was, “We need to sell more AI to people. We ought to have as much of it as we can.” And Sam is well known to be a ruthless business person. I’ve heard people describe him as S-tier at raising money, which is just an incredible Silicon Valley phrase. So I look at that as a business choice. They got rid of a bunch of stuff they were doing. They pivoted to making enterprise AI products, which is where the money is, and then they realized they needed to service that demand. You’re saying that was a bet on AGI, which to me is a more idealistic turn. Can you square those two? Yeah, I think it absolutely is a bet on AGI because Sora, which they launched and spent a bunch of money and compute on and then killed, is a cool toy that might open up a new line of business for you, but it is not going to get you closer to AGI. What actually gets you closer to AGI is sparking recursive self-improvement by building really good coding models and then turning them back on themselves. That was something that Anthropic was doing. OpenAI got distracted by the side quests and shiny objects that it had last year, and the company was getting its asses kicked. So OpenAI decided to trim the sails, cut fat, and really focus on coding and long-horizon agentic workloads. That is, as of now, the leading path to AGI or to whatever comes after AGI. So yes, I think that was absolutely a bet on conserving resources by not spending them on things like Sora, but what they did spend it on was trying to catch up with Anthropic in coding so that they could reach AGI. So when I look at Dario Amodei at Dreamforce standing next to Marc Benioff and he’s talking about selling enterprise software, is that just for show? That’s the thing I’m trying to square is they’ve all become enterprise software vendors in the realest way. They are B2B SaaS companies in the realest way now, but they’re also building God. You know these folks. Does that align? Are they like, “I have to take off my B2B SaaS hat now and go back to the altar?” I think the B2B SaaS thing is the game that they realize they have to play, but I don’t think it is any of their true passions. I was talking with Sam Altman for this book and one of the things he said was basically all of this was an accident: “I was never supposed to be running a giant tech company; that just didn’t factor in.” But now you wake up and you’ve got thousands of employees. Dario Amodei also has this very funny in retrospect document that he wrote in 2021 when they were just starting the company. It’s called “Vision for a NewCo.” You can go back and look at the predictions that Dario made about AGI, and one of them is he thinks that it will cost about $10 billion to build a full-fledged AGI, which was, I think, off by at least one order of magnitude and probably multiples. He also thinks that Anthropic will never need more than about 50 people to achieve AGI. I think now they have 5,000 or so people. So again, off by 100x. So I think what has happened is that this has just taken a little longer than all of them thought and cost quite a bit more money than they thought. The enterprise SaaS stuff is how you keep the flywheel going and pay for the GPUs and for the salaries of the researchers. This is the table stakes of getting to keep pushing on the frontier and keep pushing toward AGI. Are they ready to be the leaders of companies of this scale? This is another thing that I was thinking about as I read your book. They’re all very idealistic people, so much so that they all broke off from one another and made their own companies because they could not make their ideals align. But none of them seem like great managers. I don’t know truly what they’re like, but “they’re idealists” and “we are going to run an enterprise software company” are not usually in the same sentence. Do you think they can take the pressure? No, but I don’t think anyone can. What they are attempting, no one has ever done. People have built companies. People have built companies quickly. No one has gone from $0 in revenue to potentially a $2 trillion IPO in five years. That has never happened before. So look, I think that they are scrambling to build the plane as it’s careening toward the event horizon, but I think they’re doing about as well as anyone could. I don’t think it would be a good idea for them to bring in some professional CEO from Coca-Cola to run the company. I just think it would all kind of fall apart because they’re all zealots and missionaries. They are all in this — not all, probably there’s some people in the SaaS sales department who are just kind of there for the paycheck — but a lot of the key people at these companies are united in their belief that they are building [AGI]. One person, I won’t say who, but one person at one of these companies recently told me that they think their company might be the last company. I thought, “The last company to IPO this year? What do you mean?” They were like, “No, we think this might be the teleological end of capitalism and there might never be another large company primarily run by humans.” So these people are weird, and weird in ways that are worrying, but also very interesting. This is what I was trying to do in the book. I didn’t want to tell you that these people are terrible or great. It’s just that you need to know who they are. You need to know that they all hate each other. You need to know that they are this peculiar breed of thinkers to understand the dynamics of the race. There’s a portion of your book where you talk about people splitting away from effective altruism to go become accelerationists, and you have a woman in there who’s like, “Well, the accelerationists have better parties, and I like those vibes better.” I thought to myself, “Well, what does that have to do with potentially killing everyone?” But they are very human, even though they’re trying to build something that might ultimately dehumanize us all in various ways. What did you make of that as you were doing all this reporting? The notion that there’s existential risk here looms over the book, it looms over the industry. Every time we do an episode on it, the audience is like, “Why won’t they just stop?” Bill Gates was just on Decoder and said, “You could just stop if you were the only company. If you thought you were going to be the only company with AGI, then OpenAI’s model would work. But the second there are more frontier companies, it absolutely won’t work. By the way, they might kill you all.” I thought to myself, “Well, Bill Gates is not very optimistic right at this moment in time.” No, he is not. What do you make of that — that they are racing ahead even though they know the risks are huge in the absence of any regulatory authority that could cause any of them to solve these problems? I think there are probably two or three reasons that they’re doing it. I’ve asked them all pretty much. I talked to 150 or so people for my book and I asked all of them some version of this: “If it’s so dangerous, why are you doing it?” The answers would usually start with some fatalistic… I don’t know, you could call it inevitabilism. They were just like, “Look, someone is going to build this. The recipe is not that hard. All you need is a bunch of compute and a bunch of data and the right algorithms, and you get AGI. And so if it is possible, it will happen and it would be good for us to do it rather than people we don’t think are as trustworthy.” That is sort of reason number one, the harm reduction argument. Then there are the true believers who say, “This is all going to turn out great, so long as we thread the needle, and if we can build this stuff without blowing up humanity, wrecking the entire internet, or developing novel bioweapons.” Technology is usually a force for good throughout history. I don’t think a lot of people would switch lives with their great-great-grandparents. It sucked to be a subsistence farmer. I think there are people who believe that we are the equivalent of subsistence farmers today, and that what is coming will be so great that we will want to live in that world. And then there are just people who are like, “Look, this is fun and I like doing it, and it’s fun to make the neural networks code. And so that’s what we’re going to keep doing.” That aspect of it where every now and again I look up and I’m like, well, my computer just did something that I’ve never seen a computer do before, is fun. It’s awesome. It is. It’s legitimately fun. It’s some of the most fun I think you can have with a computer ever. Then I’m always led to think about, “Well, this came at some massive cost. I might be empowering some corporation that ultimately wants to kill us all.” Somewhere in there is the swirl of all the tech CEOs standing behind Donald Trump in the Oval Office to do something, to sign some sort of morally binding AI safety pledge. And all that feels very conflicted. I would put that in the category of AI backlash. We hear the AI companies talk about, “Well, the technology just hasn’t diffused enough. People haven’t seen the benefits, so they naturally hate change. We have a marketing problem. We just need to communicate about it more.” Is that just the prevailing view as you talk to these folks, that eventually the stuff will speak for itself, or do you think they’ve internalized that there’s more of a backlash? I don’t think they’re surprised by the backlash. I don’t think they like it. They wish it weren’t happening. But I was talking to one CEO at one of these companies who said, “Yeah, I get it. We haven’t cured any diseases yet. Yes, we think our tools are capable of doing interesting things, but we don’t have a lot of things on the scoreboard in the big societal improvements category yet.” I think there are some people in the industry who lament the fact that the chatbots came before the cancer cures and wish that they could have figured out a way to do it in the other order. It’s just that that is kind of the way the tech tree grew. So they feel like now the only responsible thing to do is keep pushing on the cancer cures so that when people look at what has AI done to our lives, it’s like, “Well, yes, it helps my kid cheat on their homework and they’re addicted to an AI companion, but also my grandma is still alive and she wouldn’t have been if this medicine had not been discovered by AI.” Yeah, there’s some dynamic in there that brings me back to Google, I think as this conversation has done many times, where your reporting on Google’s approach to AI was that this is just task-based software. “We’re going to make Google Search 10 percent better, Gmail will be 5 percent better, and we will continually deploy these improvements, and no one else has our access to data or our scale, and thus we’ll be fine.” OpenAI shows up and it puts itself in Bing. Famously, Bing tries to make out with you. Still my all-time favorite… I can’t believe I haven’t brought this up yet. This is my all-time favorite story. I can’t believe you haven’t brought it up either. I had an over-under bet going on how long it would take you, and I took the under in a minute. [Laughs] Well, you and I have already talked about it in our lives. I was like, “I’ve got all these other deep questions.” But yeah, Bing is famously horny for my friend Kevin Roose. That moment I think just galvanized people: “Wow, these things can do a lot of things.” Google had to react, and they didn’t react by going all in. They sort of stutter-stepped there. As you’ve been saying, they’re still not all the way there. Google still doesn’t think this thing is going to happen. They think they’re making better Google products for people. When I look at the trial transcripts from Musk v. Altman about the founding of OpenAI, they’re all terrified of Google. Yes. They’re all terrified of Demis Hassabis at Google, specifically, doing the thing, just making it happen because he has the resources. I can’t tell if they were right or wrong about that. I think they were right to be taking note of how DeepMind was doing. I mean, if you take yourself back in time to 2015 or 2016, DeepMind was the only sort of AGI lab of any real importance. They were beating Go, they were beating other games, they were beating StarCraft. They were really cooking using this sort of method of reinforcement learning, deep reinforcement learning. There were people who thought that was the thing that was going to scale all the way to AGI. There were people who thought AlphaGo was the path, because if a system could go from never having played Go before to beating the world’s best humans at Go in the span of a few hours as AlphaGo Zero did, then maybe you could just replace Go with any arbitrary thing — math or coding or something — and you could climb the ladder very quickly on those tasks. Now, it turned out that didn’t work, at least not without the LLM. But I think people had very real and reasonable fears that that would work. In an alternate universe where it had, I think DeepMind would’ve gotten to AGI first because they were so far ahead of the competition. Are there other paths? Is it just next-token prediction? Is it just LLMs? Or are there other paths that might get you to AGI? I mean, there are other paths that might. I think people who are skeptical of LLMs often fall back on this world model idea. I don’t place a lot of stock in that. But there are people who think that to achieve AGI, you need to be able to visually understand the physical world and drive a robot and things. I’m kind of a believer that it’s all software. So I think that LLMs are the most promising path yet. Now, maybe you need to make some tweaks to the architecture. Maybe you need to build in continual learning methods. Maybe it’s not just literally scaling up the same transformer-based LLMs that we’ve had for the past six or seven years. But it sure seems like it is continuing to work, and I think all of the labs are betting that it will continue to work forever. All right. Now I am going to ask you about Bing and Sydney. Please. Obviously, I’ve been thinking about it a lot. I can’t stop talking about it. It’s my favorite thing to talk about. First question, am I still married to a human woman? Are you still married to a human being? Yes. I just remember that period, in 2023, when four different people woke up one day and said, “The computers are alive.” Or they had some out-of-body experience with a chatbot. You were one of them. Ben Thompson was one of them. Blake Lemoine at Google was one of them. A lot of different people said, “It’s obviously alive. I’m having this completely insane experience with a computer. No computer’s ever talked to me this way before.” Sydney in particular was like, “Break up with your wife,” it sent you heart emojis. It’s very good. I encourage everyone to go read that Times article, which by the way, also credit to The Times for thinking, “This should be on the front page of The New York Times.” Incredible editorial insight there to immediately put that on the front page. I don’t think you feel that way about chatbots anymore. I think most people have come to recognize that the computers are not alive. There’s something that happened where if you gave the people in 2026 a 2023-class chatbot and asked, “Do you think this is alive?” I think maybe not everyone in the world, but some enormous set of people has now had enough experiences to respond, “Well, this is pretty dumb and it’s hallucinating.” I’m just wondering how you place that in the context of AGI. So first of all, a slight correction. I never said Sydney was alive. In fact, I said explicitly that I didn’t think Sydney was alive, and that I understood that this was not a sentient AI system. So I’m not sure my own judgment has wavered on that point. In fact, I would probably put a higher p(consciousness) on today’s AI systems than I would on the models of 2023. But I understand what you’re saying, obviously. I think there was a moment for a lot of us, and I think it was GPT-4 for most people. [Laughs] I’m sorry, let me correct. There’s a reason I think this. One of the headlines was “Bing’s AI chat: ‘I want to be alive.’” Yes. It said it wanted to be alive. This is why I have the word alive in my head. The body of the story makes clear that I did not buy that it was alive. But that’s why it’s in my head is that that was the headline in The New York Times. Headlines are so powerful, Nilay. [Laughs] Yes. They framed my own thinking. I’m nothing but a next-token prediction machine. [Laughs] But you’re a very sophisticated one. You’re like a GPT-7-class model. Oh, I’m there. Yeah, obviously. Look, I have come to think that there’s a very banal explanation for why Sydney was so compelling and creepy, which was that it was the first public deployment of GPT-4. We did not know it at the time. But that was GPT-4, an early sort of not fully post-trained version of GPT-4 that Microsoft had jumped the gun and shoved into Bing before it was ready. But that was GPT-4. I think there actually was a subjective step change in what it was like to talk to a GPT-4-class model versus a GPT-3-class model. Maybe it was just that it passed the Turing test at GPT-4 and it didn’t at GPT-3. Maybe it was much more human-like and it sort of crossed some perceptual chasm that made you think, “Oh my God, this thing is like a human.” But I’m not the only person who felt that. People at Microsoft also felt that — there was that whole “Sparks of AGI” paper that came out around that time. So that was sort of the banal explanation. But yeah, I’ve been talking to computers for a long time, like you have. I used to go on AOL Instant Messenger and talk to SmarterChild, which was absolutely not intelligent, but it was still fun to type something in and have a thing type back. So I grant that I am sort of obsessed with this technology. There’s a reason I’m asking this. I realize it’s funny that when reporting on AGI so much, I’m using alive in such a colloquial way, and it clearly means something else inside the AI industry. If you ask Anthropic if Claude is alive, they’re not like, “No,” but then they will start defining alive in very specific ways. [Laughs] They’ll say, “Its moral status is deeply uncertain.” So it’s alive. And they will get to, “Well, you have to have flesh and blood to be alive, obviously.” I will just set that aside. What I’m getting at is, I think if you went and talked to a GPT-4 class model today, you would not have the same experience. And maybe that’s just because you have the experience, but a lot of people have had that experience now. I think if you put a GPT-4 class model in front of your average Google AI Overviews user, they would not be confused about what was happening anymore. They would not say this is a step towards AGI. It’s that reframing — as the models get more and more capable, our expectations of them go up, but they also get higher. I’m asking about this in the context of AGI because “this thing can go off and find a bunch of PHP vulnerabilities” is one kind of intelligence, but “this thing can compete with another human being to have an emotional relationship with you,” or be your butler or whatever it is, feels like a different set of capabilities. That one to me feels flat. Well, I think that’s just saturated. How much more like a human could it communicate? There just isn’t a lot of room to run on that particular skill. Where I think they still have room to run is on solving novel problems in math and science and other things. But I believe that it talks like a human. It talks more like a human than many humans I know. So I think they kind of check the box on that one. “It talks more like a human than many humans I know” is absolutely a sign of you living in Silicon Valley talking to AI researchers all day long. Well, now everyone just talks like Claude. I’ve stopped counting the number of times I’m at a party and talking to someone, and they’re like, “Now that is a load-bearing fact.” Or they’ll say, “I hope that’s landing cleanly with you.” That’s really bad. Tell me about that. That’s a real back-and-forth. I’ve always joked with you and Casey that we should just start a show called “New York vs. California,” where I’m just openly skeptical of these claims and you guys are fully AGI-pilled. This is a culture. It’s a scene. The number of parties that show up in your book is astounding. There was a moment in reading your book where I was like, “I don’t think I’m going to enough parties.” All these people are always at parties and issuing proclamations to each other at parties. Tell me about that culture. Tell me about that scene. So it’s important to know that these are not always parties in the way that New Yorkers would think of parties. There are very few raves. There’s only one rave in the book. And Grimes was the DJ, and it was a kind of symbolic rave for the effective accelerationist movement. This is a great scene in the book because Grimes stops in the middle of her DJ set and says, “I don’t agree with any of you.” [Laughs] Then she keeps DJ-ing. Yeah, it’s incredible. But yes, there are a lot of parties. It’s a very small world. I mean, that’s part of the whole takeaway from the book. It’s not really a message book. I wasn’t trying to convince anyone of anything. But one thing that was apparent to me and that I think will be apparent to people who read the book is just that it is a super small subculture of people who have been making all the decisions. They all hang out, they all know each other. There are a bunch of people who are married to or dating people at different frontier AI companies. It’s just a small world. So yeah, there are parties. They have LAN parties. There’s a big group of AI researchers who play Age of Empires at a LAN party on the weekends. I just learned one of the labs has a poker game where they bring in people from other labs. So these people are all just kind of living and hanging out in San Francisco together, and I think that’s important to capture. Because you’re right, it is a whole scene. There’s a whole ethos. These people just hang out with each other all the time and this is how the norms are enforced and deepened. How do you think that collides with, “And we might also remake the world”? If you are in a small scene in San Francisco, and you’re all playing poker together and the conversation at the poker table is that we might be the last company, that is in conflict with, “Oh, there’s millions upon billions of other people in the world who might have a say.” And if I had to boil the backlash down, it’s that: “Oh, we should probably get a say here.” Totally. I think we should get a say here. I’m not saying that this is a good state of affairs where a couple hundred people in San Francisco are making all the decisions about how society goes. But as you were doing the reporting and the weight of the task and the consequences of the goal set in on these people, because that is the throughline of the book. The stakes just keep going up. At one point, Sergey Brin is like, “We’re going to get to AGI now,” and he just announces it at Google. It’s unclear whether Sundar Pichai thinks that is a good idea, but that is a thing that the cofounder of Google is announcing inside of Google. The stakes are just going up. The race to get there is just going up. But I just can’t get the image of it’s a bunch of people drinking beers, and being like, “Well, what if there was no money? What if physical scarcity was gone too and robots built all the houses?” This is like any party in San Francisco you go to. Someone will say some version of, “What’s your plan for the post-AGI future?” Or they’ll tell you how they’re really into the idea of whole brain emulation or mind uploading. There’s a lot of futurism happening out here. And look, again, I’m not saying this is good. In fact, maybe I should sell a version outside the Bay Area of the book that just has a “this is bad” appended to every factual claim. [Laughs] I don’t think it’s good or bad. Actually, I’m more neutral on that. I’m always wondering if the technology can accept the pressure. So my question about LLMs three years ago was, “Can it do all the things you want it to do?” Now it can definitely do some set of things that you want it to do. So now it’s, “Can these companies accept the weight of their own ambition?” I don’t know the answer to that question. I don’t either. And I think that we’re going to see a lot of growing pains. I mean, these are still very young companies. They still have a lot of growing to do. Do you think they’re going to make it? Actually, let’s do this as a lightning round. Do you think OpenAI will make it? Yes. Do you think Anthropic will make it? Yes. Do you think Google will make it? Yes. What does “make it” mean in your mind? They’re all going to be trillion-dollar, multi-AGI variant successes? Yes. I think, look, there will probably be those three, and then maybe one or two others that sort of make it. And make it for varying definitions of making it. There’ll be one or two big enterprise AI companies, one or two big consumer AI companies. But there just are network effects and winner-take-all dynamics or winner-take-most dynamics in these markets. There’s some people who believe in the mono-AGI, like the singleton theory, it’s often called, that there can only be one because once you have one AGI, it’s then going to go around melting the chips of the other AI labs, and they won’t be able to build theirs. But I think we’ll probably end up with a small handful of AGIs. What do you make of the idea that this is a pretty simple recipe, there are open-weight models, and there is a China, and that all the pricing power will be destroyed because a midrange open-weight model can do everything that you probably want it to do on a Mac? I don’t think so. No? Because you still have to pay for inference on those models. Even the open-weight models have to run on computers, and inference is getting more compute-intensive, not less, the more frontier these models get. So training budgets may fall, but inference budgets will be robust for the foreseeable future. You can run some tasks locally, but I think this is something that has been predicted since the first open-weight models that, “Oh, they were going to become commoditized and destroy demand.” But I think what we’re starting to learn is that there are a lot of people who will pay and want to pay for the absolute best model. They don’t want to be working with the slightly crappier model from six months ago. I also think once you crack down on distillation, which is this process whereby you can take a closed model and make a slightly dumber open version of it by just basically DDoSing the inference for the smarter model, it’s not clear to me that the quality of the open models will continue to be closely correlated with the quality of the closed models. The thing that really grabs me at that is they all did it to each other for a while, like Grok obviously distilled Claude, and it’s admitted to in the court documents. There is that class of second-tier companies. I would put in that category SpaceXSI, I believe it’s now technically known as. [Laughs] I haven’t checked my email in the last 30 minutes, so I don’t know what that company is called. It’s called SpaceXSITesla Inc. It’s all going to be one. Elon Inc. is what it’s called. They obviously distilled Claude to some huge extent. They’re now renting their compute to Anthropic. It’s unclear whether they will make the investment in having a leading model. Meta just announced its model, and they’re sort of back on the frontier, but they obviously care more about Muse than having a bleeding-edge model. There’s some dynamic there. Those companies don’t strike me as being run by idealistic true believers. Those are companies that need to invest in some technology to build some products. They just need to get there. Can you get there without the idealistic fervor? No, you can’t get there without the idealistic fervor. Well, let me clarify that, because I don’t think Sundar has the idealistic fervor, but Google might still get there. Because Sergey has the idealistic fervor. You need someone in a position of decision-making authority. You just need the cofounder of the company. Well, it might be enough for Meta to have Alexandr Wang, who, by all accounts, is a true believer. I don’t know that it literally has to be the CEO every time, but you need a dense nucleus of true believers to be able to convince you to lay out the money on GPUs. Or just you need someone who is like Mark Zuckerberg, one of the most competitive people in the world, who will just adopt whatever strategy he thinks will allow them to win. If that happens to align with building AGI, then maybe they’ll do it. Last question: I’ve asked you this several times, but are you AGI-pilled? Yes. Are you? No. I read your book, and it’s as close as I’ve ever gotten. That line about next-token prediction just always overcoming its skeptics just really hit me, because it has overcome my skepticism several times now. But this is why I was asking about talking to a chatbot from three years ago. I feel that wall in the kind of intelligence these things are. Even though I have set off agents to do all kinds of things, there’s a brittleness to it that feels inherent to the technology to me. Did the Millennium Prize solution change that view at all? Only in the sense that finding the next thing that has some objective verifiability seems very rich for these tools. So obviously mathematics has a verifiability, and the tools got so capable that they could run at it really, really hard. The brittleness that I’m describing is a lot of the world around us does not have that kind of verifiability. So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it just collapses. You can blame that on the underlying model not being at the frontier, but there’s just some part of that experience with LLM-based technologies that makes me feel they’re brittle in very specific ways, and they haven’t overcome that sensation for me. I’m not saying they’re not incredibly capable. I’m not saying that, as enterprise software, they will not automate virtually every business in the world in some way. I’m not saying that my wife isn’t a lawyer who uses Claude every day. It’s all there. But there’s some part of it where my skepticism is about whether it can overcome its brittleness to become the machine god. I’m excited to see if they can do it, but I don’t see the path from where I sit. You think there’s sort of a natural plateau at just below human-level intelligence? I think the human-level intelligence to me, and this is just more philosophical, is defined by novel problem solving — looking at a thing, and understanding that there are multiple paths to a solution, and not having one of those needing to be objectively right to get to the end. What would it take? What would you have to see to have the scales fall from your eyes and go, “I, Nilay Patel, am fully AGI-pilled”? What would convince you? I would have to see… You have young children. I have young children. There’s a thing that young children do where they fall down the stairs, and you just see the lights all go on: “I’ve learned this, I will know it forever, and now I’m going to build on that.” Maybe they’re going to announce recursive self-improvement at the AI labs and that will be the thing that drops the scales from my eyes. But the brittleness that I’m talking about is I see the opposite of that in my children. I’m assuming you see the opposite of it in yours. When they fail, they know about that failure forever. To me, there’s just something very, very core to being human, where every now and again I wake up, and I’m embarrassed about something that happened in high school, and that drives me to do a bunch of stuff, or it drives me to not make a bunch of decisions. I think that is just a key part of our intelligence. I’m not saying it has to be a key part of every intelligence, but the brittleness I see with the AI systems that I use today is that they’re still computers in a very specific way. They still act like computers. They’re good at solving problems that you can test. They’re good at software engineering. I don’t know that that way of thinking extends into every domain. I hope you’re right. That’s my point of view. I call it software brain. You hear the AI CEO say, “We solve coding, and now we can solve everything.” And to me, I’m saying, “That assumes everything happens inside of a computer, and in fact, most things don’t.” You sure? You sure your brain’s not just a fleshy computer? I am 100 percent sure of that. You’re not a computational functionalist? No. I think I’ve read this from you in the past, and I’ve certainly read it from other people, that the machines of our time dominate our own explanations of ourselves. So in the era of the steam engine, our self-conception was that we were steam engines, or in early computers, we were early computers, right? I still call it horsepowering through a problem because I’m a car person. You don’t think that the AI industry has convinced itself that they are AI because that is the machine of our time? I don’t know. I’m not a theory of mind guy. I’m not a cognitive neuroscientist. I think that to believe that what’s going on in your head and my head right now is not a form of computation, you have to be kind of a dualist or you have to be kind of a religious person. You have to think there is some spirit, some soul, some secret sauce of cognition that is not just data entering and being processed and transforming inputs into outputs. Look, I know that is the least romantic, most San Francisco way of explaining what human cognition is. I just have not heard a compelling argument that it is not how our brains work that doesn’t involve some sort of supernatural or immaterial substance. There’s a surprising number of neuroscientists and religious scholars listening to the show. They’re going to come find you. They will. I’m confident. Let me just ask you this. There’s a surprising amount of religiosity in Silicon Valley right now. We just published the Peter Thiel lectures on The Verge. He’s talking about the Antichrist. Do you think these ideas are connected, that we are building God such that they seek God? Yes. I think we will absolutely have AI religions. I think AI is posing all of the same questions as a religion that we would not otherwise be asking of God. “What is our purpose? What is our meaning? Why are we here?” These are the questions that people now talk about in the context of AI. I often tell people that being in San Francisco these days feels like living in Europe during the Reformation, where you just have crazy wild-eyed prophets waving their pamphlets around and trying to get you to join their thing. This is what walking down Market Street in San Francisco feels like. What dropped the scales from your eyes? What made you AGI-pilled? Bing’s Sydney, believe it or not. Yeah? I mean, that was the start. And then from there, it was just kind of a gradual process. One day I realized when I used these things, I wasn’t treating them like an intellectual inferior. I was in some ways treating them as a peer, and that’s when I realized, “Oh, something’s happened here.” So it’s possible I have AI psychosis. It would not be the first time I’ve heard that, but every time that I have thought, “Okay, it can’t possibly get any better than this, this has to be the plateau,” I’ve been wrong. So I’m just learning to approach these things with some humility, and maybe the crazy people who have been predicting that scaling would continue indefinitely are right. If they are, I think we need to learn about them, A, and why they think that, and B, try to figure out what to do about it. Well, Kevin, I’m confident the next time you come on the show, I will have set up a fully AI influencer to make money doing [user-generated content] ads, which is the true future of, I think, all of our businesses. The podcast is Machine Gods. It’s very good. You host it with Casey Newton. And the book is excellent. It’s The AGI Chronicles. Kevin, thank you so much for being on Decoder. Thanks. It was great to see you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-26T14:00:00.000Z",
-        "fetchedAt": "2026-10-26T15:29:51.417Z",
+        "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+        "url": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+        "description": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-26T17:22:02.000Z",
+        "fetchedAt": "2026-10-26T20:45:36.959Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth.",
+        "stakeholders": [],
+        "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
         "id": "a3"
+      },
+      {
+        "title": "Is QUALCOMM (QCOM) Undervalued After Reaffirming Its Dividend?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-undervalued-reaffirming-dividend-170833442.html?.tsrc=rss",
+        "description": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-26T17:08:33.000Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
+        "id": "a4"
+      },
+      {
+        "title": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands - Geopolitechs",
+        "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wQXFZSTAwN2ZPTWtFaHo5ZGlhUHcwRGd1TnBrNGE5SzJnUGtuX0V6YW9CdkVqZnNBY2R6UXVlbWlEWjlUZ0t3MWQzblRMZndiaTd5SFk0SWVwNGViSWs1VUphN1BNWmtIdGxOV0hlcGlsc09LV0NJ?oc=5",
+        "description": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands Geopolitechs",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-26T17:01:15.000Z",
+        "fetchedAt": "2026-10-26T20:45:44.134Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Geopolitechs",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands Geopolitechs",
+        "id": "a5"
+      },
+      {
+        "title": "UK Government Invests £600 Million in AI to Strengthen National Security - ADS Advance",
+        "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pYXctSW40UVBSXzdnNS1hVE9vS0ZXWXR1T2NJRVZyclhkQmRORTAxQi1uSTA1cV9WQTVqTVZlOEU4RnRQcnc5WEd0OFlhajVXX3Zla1A0ek1QQ2EyaG4wNjNtY3VHNi1EaVFmSDlGY0pfd0lEcEoySg?oc=5",
+        "description": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-26T15:27:03.000Z",
+        "fetchedAt": "2026-10-26T20:45:44.134Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "ADS Advance",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
+        "id": "a6"
       },
       {
         "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
@@ -303,7 +353,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T12:00:04.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -311,7 +361,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "China’s top court clarifies when claim amendments can end drug patent-linkage cases: how U.S. Hatch-Waxman actions differ",
@@ -321,7 +371,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-26T08:38:59.000Z",
-        "fetchedAt": "2026-10-26T15:29:56.169Z",
+        "fetchedAt": "2026-10-26T20:45:40.782Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -330,7 +380,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
-        "id": "a5"
+        "id": "a9"
       },
       {
         "title": "China’s Rise in Science as a Source of Strategic Power - SLDinfo.com",
@@ -340,7 +390,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T04:09:59.000Z",
-        "fetchedAt": "2026-10-26T15:29:58.066Z",
+        "fetchedAt": "2026-10-26T20:45:44.134Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "SLDinfo.com",
         "geopoliticalBypass": true,
@@ -350,7 +400,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s Rise in Science as a Source of Strategic Power SLDinfo.com",
-        "id": "a7"
+        "id": "a11"
       },
       {
         "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
@@ -360,7 +410,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T01:01:48.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -368,47 +418,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
-        "id": "a8"
-      },
-      {
-        "title": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSXJWeFAtUWdBODZlWllUR211bEdlRmd3VVFhMXVVeHRndXhrOE02WHQ3YmFGUDN0bFhkdWZBMl83VDJTc0NqUDFWck5rZmRGZ0d6Vzk0NTJSMkxINjVsZnVXVVA1VnkwV0pKRkN4QmU1YTBWVktWTml0MVBmekVsN2lYaGt1SVFybERZUWdSNllPVjByaFk1WE9Nc0R2NTEzQlBuUUloejJrMXE1SEtaMkZwcjQxTjlwN2RBVDNnRlRUV0tfMC0wSFllR0VjczVqVlE?oc=5",
-        "description": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-25T18:10:13.000Z",
-        "fetchedAt": "2026-10-26T15:29:58.067Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Stocktwits",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "SMCI Clears Senior Management In Export Control Investigation, Finds No Evidence Of Wrongdoing Stocktwits",
-        "id": "a9"
-      },
-      {
-        "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
-        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
-        "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-25T17:10:01.000Z",
-        "fetchedAt": "2026-10-26T15:29:58.067Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Stocktwits",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
-        "id": "a10"
+        "id": "a12"
       },
       {
         "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
@@ -418,7 +428,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-25T16:42:42.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.860Z",
+        "fetchedAt": "2026-10-26T20:45:36.396Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -427,7 +437,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
-        "id": "a11"
+        "id": "a13"
       },
       {
         "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -437,7 +447,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-25T11:30:33.000Z",
-        "fetchedAt": "2026-10-26T15:29:54.336Z",
+        "fetchedAt": "2026-10-26T20:45:38.833Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -450,7 +460,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a12"
+        "id": "a14"
       },
       {
         "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
@@ -460,7 +470,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-25T01:11:17.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -471,7 +481,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-        "id": "a13"
+        "id": "a15"
       },
       {
         "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
@@ -481,7 +491,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-24T16:21:24.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -489,7 +499,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-        "id": "a14"
+        "id": "a16"
       }
     ]
   },
@@ -685,38 +695,31 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-26T15:29:58.109Z",
-    "date": "2026-10-26",
+    "generatedAt": "2026-10-26T20:45:44.168Z",
+    "date": "2026-10-27",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), Customers & Partners (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but ",
+          "text": "Geopolitics & Export Controls: Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s",
           "articleIds": [
-            "a1"
+            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
           "articleIds": [
-            "a2"
+            "a7"
           ],
           "subCategory": "semiconductors"
         },
         {
-          "text": "Customers & Partners: Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Tim",
-          "articleIds": [
-            "a3"
-          ],
-          "subCategory": "customers-partners"
-        },
-        {
           "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
           "articleIds": [
-            "a13"
+            "a15"
           ],
           "subCategory": "market-performance"
         }
@@ -724,14 +727,14 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-        "url": "https://www.theverge.com/gadgets/1018528/remarkable-paper-pro-move-nintendo-switch-2-fujifilm-deal-sale",
-        "description": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342. That offer is available exclusively to new Woot customers, who can enter the code REMARKABLE at checkout to save 10 percent on their order through November 2nd. The deal is good for returning shoppers, too, costing $379.99. Remarkable Paper Pro Move Where to Buy: $449 $342 at Woot (refurb, w/ code REMARKABLE) The Paper Pro Move makes it easy to convert your handwritten notes to text, and store files on third-party cloud services. You can also view your notes in Remarkable’s apps and screen share from your E Ink device. However, Remarkable’s Connect subscription (a free 50-day trial for new users/devices) and $3.99 per month thereafter offers access to a larger suite of features. With it, you can search your handwritten notes, import docs and articles to the device to mark notes on, get AI-powered summaries of your handwritten text (viewable in a browser), and more. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/macbook_pro_m1.png\", productImageAlt: \"MacBook Pro (M1 series)\", productTitle: \"MacBook Pro (M1 series)\", shortDescription: \"Get a refurbished MacBook Pro M1 for less\", longDescription: \"Upgrade your laptop for less with a refurbished 13-inch MacBook Pro featuring Apple's M1 chip, 8GB of RAM, and 256GB of storage. Back Market offers professionally inspected devices backed by a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fmacbook-pro-m1-series%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Other great deals to consider Best Buy is trying to reach more gamers, so it’s dangling a $5 gift card offer for those who sign up for a Best Buy Gamers profile. Beyond being a hub for gaming-centric info, trailers, and polls, it’s a portal for highlighting deals and its upcoming drops, like the Thursday, November 5th midnight in-store launch of The Legend of Zelda: Ocarina of Time (and the limited edition Nintendo Switch 2 hardware). It seems possible that Best Buy might give Gamers account holders first (or at least, early) dibs on hard-to-get tech. Fujifilm’s X Half digital camera has sunk to its lowest price yet at Amazon, Best Buy, Adorama, and B&H Photo, selling for $449 (previously floating between $600 and $649.95). It’s a much more reasonable price than the $850 it sold for when former Verge supervising producer Vjeran Pavic took it for a spin at launch in May 2025. We last covered this camera a year later when it was discounted to $549.99. The feature-light camera looks like a pricey mirrorless model, but is instead a glorified digital camera that can shoot 18-megapixel shots that evoke the analog era through various modes and filters. Read our hands-on. I’m still getting used to Belkin being one of the most prolific accessory makers for the Nintendo Switch 2. One of its latest, the Charging Grip, is discounted by $10 at Amazon in the black color. Originally $99.99 for the handheld case that adds some non-slip ergonomics via Joy-Con grips, it’s down to $89.99. Most of the price comes from the 10,000mAh 30W USB-C battery that’s included, which magnetically attaches to the Grip on the back of your console. The Grip allows for the Switch 2’s kickstand to extend, and a big advantage here compared to most third-party console covers is that the case is thin enough to allow for docking with Nintendo’s first-party dock.",
+        "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+        "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+        "description": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price. While they won’t completely drown out chatter of your local coffee shop, the ANC does a good job of quieting low drones, including air conditioners and airplane cabin noise. We did encounter some bugs in testing, however, including abrupt changes in noise cancellation levels when using adaptive ANC, as well as occasional issues with voice calls in noisy environments. Still, they’re relatively minor drawbacks given what you get for the price. The Ear 3A also come in some fun colors — including a striking pink shade — and each pair includes extra-small ear tips for a more comfortable fit. They even offer a shortcut to access ChatGPT and include 32MB of built-in storage, letting you record up to two hours of a phone call and transfer the recording through the companion app. Read our Nothing Ear 3A review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" };",
         "source": "The Verge",
         "sourceId": "the-verge",
         "sourceGroup": "tech",
-        "publishedAt": "2026-10-26T14:41:43.000Z",
-        "fetchedAt": "2026-10-26T15:29:51.416Z",
+        "publishedAt": "2026-10-26T17:25:34.000Z",
+        "fetchedAt": "2026-10-26T20:45:37.022Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -742,8 +745,8 @@ export const NEWS_DATA = {
           "oem",
           "platform-partner"
         ],
-        "summary": "The Remarkable Paper Pro Move is essentially a digital notepad, with a skinny 7.3-inch E Ink screen that’s easy to hold one-handed to jot down notes or ideas. At $449 new, it’s not exactly cheap, but buying refurbished is a way to save, as always. Remarkable itself offers the refurbished Paper Pro Move for that same price with a polymer Book Folio case and a Marker Plus that has a built-in eraser tool. It comes with a one-year warranty. If you’re alright with trading the one-year warranty for a 90-day one, Woot has the same bundle for about just $342.",
-        "id": "a1"
+        "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price.",
+        "id": "a2"
       },
       {
         "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
@@ -753,7 +756,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-26T14:26:00.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -763,29 +766,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-        "id": "a2"
-      },
-      {
-        "title": "Kevin Roose is AGI-pilled. Why aren’t you?",
-        "url": "https://www.theverge.com/podcast/1018264/kevin-roose-the-agi-chronicles-machine-gods-podcast-youtube-openai-anthropic",
-        "description": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth. Okay: Kevin Roose on The AGI Chronicles, starting Machine Gods, and where AI goes from here. Here we go. This interview has been lightly edited for length and clarity. Kevin Roose, you are the author of The AGI Chronicles and the cofounder and co-host of the new podcast Machine Gods. Welcome to Decoder. Thanks so much for having me. I was listening to the first episode of Machine Gods and you and Casey discussed the fact that technically you have the title of CEO. It’s true. I won the coin flip and we needed someone. When you start a company as we have, you need to list someone as the CEO, I guess, to know who to haul in front of Congress when our first scandal inevitably breaks. So that’s going to be me. It’s funny because you’re a CEO on Decoder. It means I’m going to have to ask you the Decoder questions. [Laughs] Okay. Well, I’ve been a CEO for about five minutes and most days I frankly forget I’m the CEO. Honestly, that tracks with most of the CEOs on the show. They all act like they’ve only done it for five minutes. We’ll come to it. I want to talk about your book. It’s called The AGI Chronicles. It is a meticulously reported book about the main frontier labs and the culture shift they’ve all undergone as AI has come into the forefront and become a much more commercial product in many ways. But let’s just start with Machine Gods. You were a journalist for The New York Times for a long time. Obviously, I think the audience probably knows this, but you and I have known each other for a long time. I will say that since I have known you, your desire to be a YouTuber has been top of mind. You’re just like, “How do I get over there?” And I’ve always been like, “Run, don’t do it.” But you did it. You left The Times, you started your own podcast with our friend Casey Newton. It is the next generation of the very popular podcast, Hard Fork, which was excellent. And I’m excited for you, but what made you take the leap? Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. Yeah, you have been trying to convince me out of this for as long as I’ve been trying to convince myself into it and you have not succeeded because here I am. Yep, I failed. Utterly failed. No, look, I think that for some very good reasons, media companies have long been a little bit wary of going all in on YouTube or any other video platform. The ones that have gone all in have not necessarily come out of that with good feelings about it because there are a lot of– Yeah, they pivot to video and also into death, routinely. Yeah, you pivot to video or you sort of waste a bunch of money doing things that don’t pay for themselves. So, I think there are some structural economic reasons for that, but I also think it’s that there aren’t a lot of institutions that are equipped to make that kind of a long-term bet. I’ve been trying to YouTube-pill people in media for many years, as you know. You’ve been trying to undo the YouTube-pilling on your end, but I just think it’s clearly the most important media platform in the world right now. It’s a place where journalism has not historically had a central place. If you were to look at YouTube as a whole and try to assess what piece of it is dedicated to what you or I would consider high-quality journalism, it’s a vanishingly small part of the overall ecosystem there. So, part of my mission is just to crack that and figure out how to do YouTube and video in general in a way that is sustainable from an economic and a sort of creative standpoint. And then just to experiment and do a bunch of things. This is not a face that needs to be on YouTube. So I’m also hoping to bring some other people in and nail some formats. But I look at what The Verge has done there. I look at what people like Joanna Stern and MKBHD have done there. To me, that is very exciting and it’s a space where there’s a lot less competition than text or podcasts. Machine Gods is a podcast that you’re doing in partnership with NPR, which I want to talk about. But do you think of it as a YouTube product? We want it to be video-first. What that means basically is that we are going to give a shit about what it looks like to a degree that we have not always done. We’re going to try to give people a lot of reasons to want to watch as well as listen. Obviously, we know that there are some people who just don’t like video podcasts and so we want to give the audio audience something that is enjoyable, but this is the direction of things. You can’t do a podcast now without doing video on top of it. So we’re going to try to really embrace that and make a good version of it that is as good as two middle-aged journalists can pull off on YouTube. Truly the future of media is middle-aged journalists pivoting to YouTube. I feel the same way because I’m now making more video and that’s what we’re doing. It’s going to be great. The other reason to leave and to do this — and obviously people know I’m friends with Casey as well, and I’ve been talking to you and him about it for a long time — is that the AI story is here. There is a platform shift. There are new companies, new characters, new ideas to talk about in the world. It’s funny because in that context, usually you get a media shift as well. The way we tell stories or the formats we tell stories usually shifts alongside the thing we are talking about or the technology we’re talking about. Here, YouTube feels like the most solid media foundation that exists. It’s the one that’s the same the most, even though it’s changing and it has YouTube Shorts and now you can A/B test everything, including your own face. But it’s the one that is the most the same. Instagram has undergone some massive change and it feels like that will continue happening. Does it feel like YouTube is the most stable place to build as you’re trying to tell these new stories? It does. I mean, obviously you never want to put all your eggs in one basket. So, we are also distributing video on Apple Podcasts and Spotify and we’re going to be everywhere. But yeah, it feels relatively stable. The question I’m always wondering is what would it take to replace YouTube? Many companies have tried to replace YouTube, but to do that, you would not only have to build an experience that was better for creators and better for users, but you would also have to replicate the entire visual corpus of humanity. You would have to just get six million videos from plumbers about how to fix every individual sink and then upload it to that. It’s a really hard thing to displace. It is so ingrained for so many people, and I just think it’s going to keep growing. We’ll come to this when we talk about AI, but a long time ago I asked Google CEO Sundar Pichai, “Well, what are you going to do if there’s no more websites?” And he was kind of like, “Well, we have YouTube.” And there’s just no arguing with that. You sure do. And it is just going to keep growing. What has been the most surprising thing about going from The New York Times to what you might call the creator economy? Well, we’re very new at it, but surprising to me so far is how much I like all the business stuff. I think in journalism, you’re always taught to stay in your lane, and I have never run a business before. Casey has run a business. I knew he enjoyed it. But for me, these are new muscles and I don’t enjoy all of it. Negotiating the insurance quotes for our defamation coverage is not what I would feel compelled by. But regarding actually running a business, there is something to this founder thing. Yeah, it’s a good time. It’s funny, in talking to you and to Casey and Joanna, who also just left and started her own thing, that comes up a lot. From my perspective, it’s why I’ve been doing this a long time. What if I stopped running the business? That doesn’t seem to be a choice. This is the future of media — taking control of your business and taking control of your audience. There’s something very powerful there. One of the things I want to talk about, and then I definitely want to talk about the book at length, is the audience for AI coverage, because I see it in two ways. There’s a group of people building the stuff that loves it and wants to consume all of it. There’s a group of people that truly hates it and thinks all of it is fake. And then there’s what I would call an expanding group in the middle where the products have become more useful. You have to look at them and evaluate them as they are. They were not terribly useful a couple years ago. The promises did not match reality, but every day now it can do one more thing that it couldn’t do before. Whether that thing is hacking all of the websites in the world, we’ll set that aside, but AI can do things it couldn’t do before and the audience seems to be changing. How are you thinking about the audience for Machine Gods and how it might grow or change? I mean, right now we’re just trying a bunch of stuff that we think will be good and we hope that it will find its sort of natural audience. But I think you’re right that the audience is changing. I think for a while there was a lot of demand for cope — basically people telling you this is not happening, you don’t have to pay attention to it, it sucks, it’s hurting the environment. There still is in some parts of the internet. YouTube has a weird amount of this still going on and Reddit is also very anti-AI. But I think most people, or at least maybe a plurality of people, are either resigned to or excited about the fact that this is not going away. That is the audience that we’re looking for. We’re not trying to tell you that AI is amazing and we’re going to be in AI utopia under the new machine regime. We’re also not telling you that this stuff is fake and sucks and is going to go away on its own and so we don’t need to do anything to regulate it or be worried about it. Casey’s phrase for this is AI realism. He thinks there’s a big chunk of people who are just sort of curious and interested and maybe a little scared, but their reaction to the fear is not to try to bury their heads in the sand, but to try to understand the thing. So we started feeling this when we were doing Hard Fork where we would do something that just seemed kind of not our vibe. We would do a Claude Code walkthrough tutorial where we would just spend half an hour building a website and film ourselves and throw it up and it would do great. So people clearly were curious, and even if the comments on the videos were all from people who hated AI, there was clearly a lot of demand out there for people who were just like, “I kind of want to know what’s going on.” “I hate that I can’t stop watching this” is a real theme inside of AI coverage for a variety of reasons. Let’s talk about the book. I think that’s going to frame a bunch of the other questions I have. The book is meticulously reported. It is really fun to read. And the point of it, as I’ve heard you describe it, is to tell the history of the deep learning revolution because all these people just talk in Signal and in extremely childish tweets. Tell me about that gap because this is an industry that is obsessed with documenting itself for computers and being legible to computers and not at all to other people, which seems wild to me. So explain the reporting of this book, because it feels like convincing them to even tell you what happened was a slog. It was, yeah. So basically the reason I wrote this is because I was scared that all of this stuff was going to disappear. I am a history buff. I love to read books about the Wright brothers or the electrification of rural America or the moments of great invention during the PC revolution. I’m such a sucker for that stuff. What you notice as you read more of these books is just that they all rely on a lot of contemporaneous notes and evidence — the lab notes from the scientists developing the atomic bomb, the correspondence between the Wright brothers and their friends and business partners — that is preserved and archived. It was just clear to me reporting on AI every day that there was not going to be anything remotely similar for this stuff because A, all the people building this stuff work for private companies. They’re not government employees who are legally required to preserve their correspondence. And B, the Signal messages and Slack messages are all set by the lawyers to auto-delete after a certain period. So there was literally going to be kind of a mass disappearance with each passing year of these, I think, historically important artifacts, moments, and stories. And then C, the researchers are all too busy to keep notes. They’re all grinding because they’re trying to build the machine god. So, I thought as a journalist, but more so almost as a historian, which is not a role I’ve ever officially played, but one I think I was playing with this book. I was just like, “I’ve got to just get this stuff because I have this sort of privileged ringside seat. These people talk to me. I know some of them will sit down and talk to me and tell me the stories.” We did a lot of it on background so they could be protected from the consequences of talking to me. But this was sort of my attempt to furiously get all the stuff and put it in the archive where future generations could look at it. The theme that really jumps out at me as I read the book was there’s a moment when AGI goes from being a thing they’re all dreaming about to being a thing that they all have to build and the shackles come off and they say, “We have to do this,” and they all drive toward it as hard as they can. You talk specifically about Google where the Overton window moved and suddenly the people inside of Google, who thought this was all a pipe dream and pretty silly, started talking about AGI. That moment feels like the single most important moment in the history of AI, where “Won’t it be great?” goes to “We better go as fast as we can.” Talk about that a little bit, because that shift inside these companies feels under-reported. Yeah, I think that’s absolutely right. I mean, people have been talking and writing about AGI or some precursor that wasn’t called AGI but meant the same thing since literally antiquity. And especially since the 1950s, when the term artificial intelligence was born, people were talking about it. Alan Turing was writing about the thinking machine that could do anything the human brain could. So this concept has been around for a long time, but there was no technology anywhere on the market or in research labs that could actually do what people wanted it to do — that could take in information, learn to learn about that information, and then use that to make predictions and act in the world. People tried lots of different ways to do this and none of them worked all that well. What really needed to happen was the transformer needed to come along. This architecture that Google developed in 2017 and published and then presented to, among other places, OpenAI, which took the idea of the transformer and ran with it. And that’s the T in ChatGPT today. But that was the– Somewhere a Google PR person just leapt out of a bush to hand you a check. They do love this line. They love it when you say it. They get so happy. They love it. They love it less when you point out that although they invented it, they absolutely failed to turn it into a product until after OpenAI did. But yeah, it was a dream, but there was nothing to attach to the dream. There was no technology. And then the large language model came and suddenly it was like, “Oh, maybe this is the thing that could scale forever and keep improving over many orders of magnitude.” So, that’s the light bulb that goes off at OpenAI and then later at Google is like, “Now we have the tool to do the thing that we have always wanted to do.” You’ve got a line in there where you just point out that next-token prediction has not failed yet — that it is doing all the things people want it to do. We’ve obviously had to develop lots of technology around it. There are harnesses to make agents work. There’s reinforcement learning. There’s all this stuff around it. But that core technology has scaled. The reason I bring that up is that in 2023 into 2024, I would ask every AI person who would come on the show or that we would see on The Verge whether LLMs can do it. Can they do the thing you want them to do? Because I don’t think at that moment it was clear that they could. We’re closer now. They’re all openly talking about AGI. We are watching Meta’s Muse just walk its little butt around the internet whenever it wants. Do you think LLMs can do it? Do you think they can get there? I think they can. I’m not certain about that, but they’ve been shockingly good and effective so far. If you go back and you look at the first LLMs, it’s just like 99 percent of people thought this is crazy, that this won’t scale. And then it just keeps working at every stage, at every order of magnitude. I’ve asked people, what was it about next-token prediction that was clearly superior to everything that came before it? There have been people who have told me this actually exists in the human brain too. There’s a whole school of thought that says that what is happening inside the human brain is essentially next-token prediction at scale. Obviously, it’s more complicated. These are not one-for-one replicas of each other. But I think this is the fundamental mystery at the heart of AI: why is next-token prediction so remarkably effective? I think we don’t know. I kind of think it’s one of these cosmic mysteries, but why all of this works is because next-token prediction turns out to generalize really, really, really well. There’s a part of that where all these companies had to believe it. Dario Amodei of Anthropic obviously wrote his paper, “Big Blob of Compute,” where he said you can just do it. You can just dump data and compute at this and we’ll get there. Everyone else had to be convinced of this. What path did the AI companies all take to be convinced of this, and are they all fully convinced of it now? I don’t think they’re all fully convinced of it now. I think they are convinced of it to varying degrees. Ilya Sutskever has this phrase, “Feel the AGI,” that he would walk floor to floor at OpenAI chanting in the old days and reminding people to feel the AGI. I think the labs feel the AGI to varying degrees. I think Anthropic is clearly the most AGI-pilled of the labs, with OpenAI kind of a close second. And then there’s Google, which I think has always struggled to feel the AGI. I think there are lots of reasons for that, but it’s very funny. I love this section of the book where there’s this internal memo battle at Google, where they would just go on their internal message boards and Googlers love to write these manifestos and then snipe at each other’s manifestos and things like that. So a researcher writes this memo, “Say AGI,” which is all about how Google — if it wants to win in AI, recruit the top technical talent, and remain safe about how it’s developing AI — has to admit, through using this term AGI, that what they are building is more than just a bunch of tools to make your Gmail better and make your docs better and make your Google Photos better at recognizing the people’s faces. It is all actually building up to something like a kind of human-level general intelligence. And then someone else immediately writes a memo that’s like, “Don’t say AGI, it’s a horrible, unscientific term.” They go back and forth like this for a while, and you’ll notice even today, [Google CEO] Sundar Pichai does not say AGI. No, he won’t. Demis Hassabis says AGI. Sergey Brin says AGI. So I think there are kind of factions within Google that either think this is still crazy and we should talk about these things as narrow tools versus I think this growing and ascendant faction that is saying, “No, no, no, we’re building AGI, or at least we better say we’re building AGI because otherwise all of our top people are going to go work for OpenAI or Anthropic.” I think you and I had the same experience at Google I/O in May, where we watched Demis Hassabis end the whole keynote by saying, “We’re in the foothills of the singularity.” And then we both went and interviewed Sundar and said, “What does that mean?” And he was like, “Yeah, yeah, Demis. Cool guy.” [Laughs] Take it up with Demis. He was like, “What a kooky character that guy is, building the machine god over here. Let me tell you about the new features in Google Assistant.” There’s some big disconnect there that maybe explains everything about Google at this point in time. The reason I’m asking about this in particular, about this moment when they all clicked over to realize somehow we have to talk about it, is that OpenAI and Anthropic were founded to do this. They were built to make this happen. But they don’t agree on how it should work. I saw you at your book party in New York and you said that you could have retitled your book “Fuck That Guy,” because they all truly hate each other. It’s true. And yet it seems like they have the exact same idea — that they can get there with this technology. The commercial imperatives on OpenAI and Anthropic are very different from the commercial imperatives for Google. Right now, as you and I are talking, it’s not clear to me that they can get to AGI before they run out of money or before CoreWeave collapses or before the bubble writ large comes to some other conclusion about the state of the economy. Do you think that their religious fervor at AGI is keeping them from running a business? If I ran Anthropic today, a logical thing you could say is we should stop training new models and sell the very capable ones we have to more people. I think that belief in AGI is a double-edged sword. I think on one level, yes, if you are super AGI-pilled as the CEO of a frontier AI company, you are going to struggle to care about things like what is my profit margin on inference? Where is my next slate of enterprise customers coming from? Because how boring is that compared to “we are going to build the superhuman machine intelligence that leads us into the post-singularity future”? On the other hand, I think belief is actually a key ingredient in AI success, because belief and the ability to act on that belief is what leads you to do these bet-the-farm moves that can really pay off and have really paid off. Do you remember a year ago when everyone was saying, “Oh my God, OpenAI is spending so much money on compute; how are they ever going to pay for all this compute? Isn’t Sam Altman overextending?” Even Dario was giving interviews where he was throwing shade at OpenAI for spending so much goddamn money on compute. Fast-forward a year and OpenAI is now the only major AI company that is not severely compute-constrained. That belief that led Sam and his executives to bet and maybe overbet on compute last year was the reason that they are in a better position than Google or Anthropic or Meta or anyone else today. So I don’t want to say it’s always a liability to believe this hard, because I think it actually does allow you to make the bets that do end up paying off if the scaling continues to work. It’s interesting because I might reframe that OpenAI decision. You write very poignantly in your book about what people at OpenAI call “the blip,” where Sam Altman was fired for 20 minutes and then he came back and that cleared out a bunch of people from OpenAI. It is the moment you described in the book where OpenAI went from being a research company into being a business. The rational business decision was, “We need to sell more AI to people. We ought to have as much of it as we can.” And Sam is well known to be a ruthless business person. I’ve heard people describe him as S-tier at raising money, which is just an incredible Silicon Valley phrase. So I look at that as a business choice. They got rid of a bunch of stuff they were doing. They pivoted to making enterprise AI products, which is where the money is, and then they realized they needed to service that demand. You’re saying that was a bet on AGI, which to me is a more idealistic turn. Can you square those two? Yeah, I think it absolutely is a bet on AGI because Sora, which they launched and spent a bunch of money and compute on and then killed, is a cool toy that might open up a new line of business for you, but it is not going to get you closer to AGI. What actually gets you closer to AGI is sparking recursive self-improvement by building really good coding models and then turning them back on themselves. That was something that Anthropic was doing. OpenAI got distracted by the side quests and shiny objects that it had last year, and the company was getting its asses kicked. So OpenAI decided to trim the sails, cut fat, and really focus on coding and long-horizon agentic workloads. That is, as of now, the leading path to AGI or to whatever comes after AGI. So yes, I think that was absolutely a bet on conserving resources by not spending them on things like Sora, but what they did spend it on was trying to catch up with Anthropic in coding so that they could reach AGI. So when I look at Dario Amodei at Dreamforce standing next to Marc Benioff and he’s talking about selling enterprise software, is that just for show? That’s the thing I’m trying to square is they’ve all become enterprise software vendors in the realest way. They are B2B SaaS companies in the realest way now, but they’re also building God. You know these folks. Does that align? Are they like, “I have to take off my B2B SaaS hat now and go back to the altar?” I think the B2B SaaS thing is the game that they realize they have to play, but I don’t think it is any of their true passions. I was talking with Sam Altman for this book and one of the things he said was basically all of this was an accident: “I was never supposed to be running a giant tech company; that just didn’t factor in.” But now you wake up and you’ve got thousands of employees. Dario Amodei also has this very funny in retrospect document that he wrote in 2021 when they were just starting the company. It’s called “Vision for a NewCo.” You can go back and look at the predictions that Dario made about AGI, and one of them is he thinks that it will cost about $10 billion to build a full-fledged AGI, which was, I think, off by at least one order of magnitude and probably multiples. He also thinks that Anthropic will never need more than about 50 people to achieve AGI. I think now they have 5,000 or so people. So again, off by 100x. So I think what has happened is that this has just taken a little longer than all of them thought and cost quite a bit more money than they thought. The enterprise SaaS stuff is how you keep the flywheel going and pay for the GPUs and for the salaries of the researchers. This is the table stakes of getting to keep pushing on the frontier and keep pushing toward AGI. Are they ready to be the leaders of companies of this scale? This is another thing that I was thinking about as I read your book. They’re all very idealistic people, so much so that they all broke off from one another and made their own companies because they could not make their ideals align. But none of them seem like great managers. I don’t know truly what they’re like, but “they’re idealists” and “we are going to run an enterprise software company” are not usually in the same sentence. Do you think they can take the pressure? No, but I don’t think anyone can. What they are attempting, no one has ever done. People have built companies. People have built companies quickly. No one has gone from $0 in revenue to potentially a $2 trillion IPO in five years. That has never happened before. So look, I think that they are scrambling to build the plane as it’s careening toward the event horizon, but I think they’re doing about as well as anyone could. I don’t think it would be a good idea for them to bring in some professional CEO from Coca-Cola to run the company. I just think it would all kind of fall apart because they’re all zealots and missionaries. They are all in this — not all, probably there’s some people in the SaaS sales department who are just kind of there for the paycheck — but a lot of the key people at these companies are united in their belief that they are building [AGI]. One person, I won’t say who, but one person at one of these companies recently told me that they think their company might be the last company. I thought, “The last company to IPO this year? What do you mean?” They were like, “No, we think this might be the teleological end of capitalism and there might never be another large company primarily run by humans.” So these people are weird, and weird in ways that are worrying, but also very interesting. This is what I was trying to do in the book. I didn’t want to tell you that these people are terrible or great. It’s just that you need to know who they are. You need to know that they all hate each other. You need to know that they are this peculiar breed of thinkers to understand the dynamics of the race. There’s a portion of your book where you talk about people splitting away from effective altruism to go become accelerationists, and you have a woman in there who’s like, “Well, the accelerationists have better parties, and I like those vibes better.” I thought to myself, “Well, what does that have to do with potentially killing everyone?” But they are very human, even though they’re trying to build something that might ultimately dehumanize us all in various ways. What did you make of that as you were doing all this reporting? The notion that there’s existential risk here looms over the book, it looms over the industry. Every time we do an episode on it, the audience is like, “Why won’t they just stop?” Bill Gates was just on Decoder and said, “You could just stop if you were the only company. If you thought you were going to be the only company with AGI, then OpenAI’s model would work. But the second there are more frontier companies, it absolutely won’t work. By the way, they might kill you all.” I thought to myself, “Well, Bill Gates is not very optimistic right at this moment in time.” No, he is not. What do you make of that — that they are racing ahead even though they know the risks are huge in the absence of any regulatory authority that could cause any of them to solve these problems? I think there are probably two or three reasons that they’re doing it. I’ve asked them all pretty much. I talked to 150 or so people for my book and I asked all of them some version of this: “If it’s so dangerous, why are you doing it?” The answers would usually start with some fatalistic… I don’t know, you could call it inevitabilism. They were just like, “Look, someone is going to build this. The recipe is not that hard. All you need is a bunch of compute and a bunch of data and the right algorithms, and you get AGI. And so if it is possible, it will happen and it would be good for us to do it rather than people we don’t think are as trustworthy.” That is sort of reason number one, the harm reduction argument. Then there are the true believers who say, “This is all going to turn out great, so long as we thread the needle, and if we can build this stuff without blowing up humanity, wrecking the entire internet, or developing novel bioweapons.” Technology is usually a force for good throughout history. I don’t think a lot of people would switch lives with their great-great-grandparents. It sucked to be a subsistence farmer. I think there are people who believe that we are the equivalent of subsistence farmers today, and that what is coming will be so great that we will want to live in that world. And then there are just people who are like, “Look, this is fun and I like doing it, and it’s fun to make the neural networks code. And so that’s what we’re going to keep doing.” That aspect of it where every now and again I look up and I’m like, well, my computer just did something that I’ve never seen a computer do before, is fun. It’s awesome. It is. It’s legitimately fun. It’s some of the most fun I think you can have with a computer ever. Then I’m always led to think about, “Well, this came at some massive cost. I might be empowering some corporation that ultimately wants to kill us all.” Somewhere in there is the swirl of all the tech CEOs standing behind Donald Trump in the Oval Office to do something, to sign some sort of morally binding AI safety pledge. And all that feels very conflicted. I would put that in the category of AI backlash. We hear the AI companies talk about, “Well, the technology just hasn’t diffused enough. People haven’t seen the benefits, so they naturally hate change. We have a marketing problem. We just need to communicate about it more.” Is that just the prevailing view as you talk to these folks, that eventually the stuff will speak for itself, or do you think they’ve internalized that there’s more of a backlash? I don’t think they’re surprised by the backlash. I don’t think they like it. They wish it weren’t happening. But I was talking to one CEO at one of these companies who said, “Yeah, I get it. We haven’t cured any diseases yet. Yes, we think our tools are capable of doing interesting things, but we don’t have a lot of things on the scoreboard in the big societal improvements category yet.” I think there are some people in the industry who lament the fact that the chatbots came before the cancer cures and wish that they could have figured out a way to do it in the other order. It’s just that that is kind of the way the tech tree grew. So they feel like now the only responsible thing to do is keep pushing on the cancer cures so that when people look at what has AI done to our lives, it’s like, “Well, yes, it helps my kid cheat on their homework and they’re addicted to an AI companion, but also my grandma is still alive and she wouldn’t have been if this medicine had not been discovered by AI.” Yeah, there’s some dynamic in there that brings me back to Google, I think as this conversation has done many times, where your reporting on Google’s approach to AI was that this is just task-based software. “We’re going to make Google Search 10 percent better, Gmail will be 5 percent better, and we will continually deploy these improvements, and no one else has our access to data or our scale, and thus we’ll be fine.” OpenAI shows up and it puts itself in Bing. Famously, Bing tries to make out with you. Still my all-time favorite… I can’t believe I haven’t brought this up yet. This is my all-time favorite story. I can’t believe you haven’t brought it up either. I had an over-under bet going on how long it would take you, and I took the under in a minute. [Laughs] Well, you and I have already talked about it in our lives. I was like, “I’ve got all these other deep questions.” But yeah, Bing is famously horny for my friend Kevin Roose. That moment I think just galvanized people: “Wow, these things can do a lot of things.” Google had to react, and they didn’t react by going all in. They sort of stutter-stepped there. As you’ve been saying, they’re still not all the way there. Google still doesn’t think this thing is going to happen. They think they’re making better Google products for people. When I look at the trial transcripts from Musk v. Altman about the founding of OpenAI, they’re all terrified of Google. Yes. They’re all terrified of Demis Hassabis at Google, specifically, doing the thing, just making it happen because he has the resources. I can’t tell if they were right or wrong about that. I think they were right to be taking note of how DeepMind was doing. I mean, if you take yourself back in time to 2015 or 2016, DeepMind was the only sort of AGI lab of any real importance. They were beating Go, they were beating other games, they were beating StarCraft. They were really cooking using this sort of method of reinforcement learning, deep reinforcement learning. There were people who thought that was the thing that was going to scale all the way to AGI. There were people who thought AlphaGo was the path, because if a system could go from never having played Go before to beating the world’s best humans at Go in the span of a few hours as AlphaGo Zero did, then maybe you could just replace Go with any arbitrary thing — math or coding or something — and you could climb the ladder very quickly on those tasks. Now, it turned out that didn’t work, at least not without the LLM. But I think people had very real and reasonable fears that that would work. In an alternate universe where it had, I think DeepMind would’ve gotten to AGI first because they were so far ahead of the competition. Are there other paths? Is it just next-token prediction? Is it just LLMs? Or are there other paths that might get you to AGI? I mean, there are other paths that might. I think people who are skeptical of LLMs often fall back on this world model idea. I don’t place a lot of stock in that. But there are people who think that to achieve AGI, you need to be able to visually understand the physical world and drive a robot and things. I’m kind of a believer that it’s all software. So I think that LLMs are the most promising path yet. Now, maybe you need to make some tweaks to the architecture. Maybe you need to build in continual learning methods. Maybe it’s not just literally scaling up the same transformer-based LLMs that we’ve had for the past six or seven years. But it sure seems like it is continuing to work, and I think all of the labs are betting that it will continue to work forever. All right. Now I am going to ask you about Bing and Sydney. Please. Obviously, I’ve been thinking about it a lot. I can’t stop talking about it. It’s my favorite thing to talk about. First question, am I still married to a human woman? Are you still married to a human being? Yes. I just remember that period, in 2023, when four different people woke up one day and said, “The computers are alive.” Or they had some out-of-body experience with a chatbot. You were one of them. Ben Thompson was one of them. Blake Lemoine at Google was one of them. A lot of different people said, “It’s obviously alive. I’m having this completely insane experience with a computer. No computer’s ever talked to me this way before.” Sydney in particular was like, “Break up with your wife,” it sent you heart emojis. It’s very good. I encourage everyone to go read that Times article, which by the way, also credit to The Times for thinking, “This should be on the front page of The New York Times.” Incredible editorial insight there to immediately put that on the front page. I don’t think you feel that way about chatbots anymore. I think most people have come to recognize that the computers are not alive. There’s something that happened where if you gave the people in 2026 a 2023-class chatbot and asked, “Do you think this is alive?” I think maybe not everyone in the world, but some enormous set of people has now had enough experiences to respond, “Well, this is pretty dumb and it’s hallucinating.” I’m just wondering how you place that in the context of AGI. So first of all, a slight correction. I never said Sydney was alive. In fact, I said explicitly that I didn’t think Sydney was alive, and that I understood that this was not a sentient AI system. So I’m not sure my own judgment has wavered on that point. In fact, I would probably put a higher p(consciousness) on today’s AI systems than I would on the models of 2023. But I understand what you’re saying, obviously. I think there was a moment for a lot of us, and I think it was GPT-4 for most people. [Laughs] I’m sorry, let me correct. There’s a reason I think this. One of the headlines was “Bing’s AI chat: ‘I want to be alive.’” Yes. It said it wanted to be alive. This is why I have the word alive in my head. The body of the story makes clear that I did not buy that it was alive. But that’s why it’s in my head is that that was the headline in The New York Times. Headlines are so powerful, Nilay. [Laughs] Yes. They framed my own thinking. I’m nothing but a next-token prediction machine. [Laughs] But you’re a very sophisticated one. You’re like a GPT-7-class model. Oh, I’m there. Yeah, obviously. Look, I have come to think that there’s a very banal explanation for why Sydney was so compelling and creepy, which was that it was the first public deployment of GPT-4. We did not know it at the time. But that was GPT-4, an early sort of not fully post-trained version of GPT-4 that Microsoft had jumped the gun and shoved into Bing before it was ready. But that was GPT-4. I think there actually was a subjective step change in what it was like to talk to a GPT-4-class model versus a GPT-3-class model. Maybe it was just that it passed the Turing test at GPT-4 and it didn’t at GPT-3. Maybe it was much more human-like and it sort of crossed some perceptual chasm that made you think, “Oh my God, this thing is like a human.” But I’m not the only person who felt that. People at Microsoft also felt that — there was that whole “Sparks of AGI” paper that came out around that time. So that was sort of the banal explanation. But yeah, I’ve been talking to computers for a long time, like you have. I used to go on AOL Instant Messenger and talk to SmarterChild, which was absolutely not intelligent, but it was still fun to type something in and have a thing type back. So I grant that I am sort of obsessed with this technology. There’s a reason I’m asking this. I realize it’s funny that when reporting on AGI so much, I’m using alive in such a colloquial way, and it clearly means something else inside the AI industry. If you ask Anthropic if Claude is alive, they’re not like, “No,” but then they will start defining alive in very specific ways. [Laughs] They’ll say, “Its moral status is deeply uncertain.” So it’s alive. And they will get to, “Well, you have to have flesh and blood to be alive, obviously.” I will just set that aside. What I’m getting at is, I think if you went and talked to a GPT-4 class model today, you would not have the same experience. And maybe that’s just because you have the experience, but a lot of people have had that experience now. I think if you put a GPT-4 class model in front of your average Google AI Overviews user, they would not be confused about what was happening anymore. They would not say this is a step towards AGI. It’s that reframing — as the models get more and more capable, our expectations of them go up, but they also get higher. I’m asking about this in the context of AGI because “this thing can go off and find a bunch of PHP vulnerabilities” is one kind of intelligence, but “this thing can compete with another human being to have an emotional relationship with you,” or be your butler or whatever it is, feels like a different set of capabilities. That one to me feels flat. Well, I think that’s just saturated. How much more like a human could it communicate? There just isn’t a lot of room to run on that particular skill. Where I think they still have room to run is on solving novel problems in math and science and other things. But I believe that it talks like a human. It talks more like a human than many humans I know. So I think they kind of check the box on that one. “It talks more like a human than many humans I know” is absolutely a sign of you living in Silicon Valley talking to AI researchers all day long. Well, now everyone just talks like Claude. I’ve stopped counting the number of times I’m at a party and talking to someone, and they’re like, “Now that is a load-bearing fact.” Or they’ll say, “I hope that’s landing cleanly with you.” That’s really bad. Tell me about that. That’s a real back-and-forth. I’ve always joked with you and Casey that we should just start a show called “New York vs. California,” where I’m just openly skeptical of these claims and you guys are fully AGI-pilled. This is a culture. It’s a scene. The number of parties that show up in your book is astounding. There was a moment in reading your book where I was like, “I don’t think I’m going to enough parties.” All these people are always at parties and issuing proclamations to each other at parties. Tell me about that culture. Tell me about that scene. So it’s important to know that these are not always parties in the way that New Yorkers would think of parties. There are very few raves. There’s only one rave in the book. And Grimes was the DJ, and it was a kind of symbolic rave for the effective accelerationist movement. This is a great scene in the book because Grimes stops in the middle of her DJ set and says, “I don’t agree with any of you.” [Laughs] Then she keeps DJ-ing. Yeah, it’s incredible. But yes, there are a lot of parties. It’s a very small world. I mean, that’s part of the whole takeaway from the book. It’s not really a message book. I wasn’t trying to convince anyone of anything. But one thing that was apparent to me and that I think will be apparent to people who read the book is just that it is a super small subculture of people who have been making all the decisions. They all hang out, they all know each other. There are a bunch of people who are married to or dating people at different frontier AI companies. It’s just a small world. So yeah, there are parties. They have LAN parties. There’s a big group of AI researchers who play Age of Empires at a LAN party on the weekends. I just learned one of the labs has a poker game where they bring in people from other labs. So these people are all just kind of living and hanging out in San Francisco together, and I think that’s important to capture. Because you’re right, it is a whole scene. There’s a whole ethos. These people just hang out with each other all the time and this is how the norms are enforced and deepened. How do you think that collides with, “And we might also remake the world”? If you are in a small scene in San Francisco, and you’re all playing poker together and the conversation at the poker table is that we might be the last company, that is in conflict with, “Oh, there’s millions upon billions of other people in the world who might have a say.” And if I had to boil the backlash down, it’s that: “Oh, we should probably get a say here.” Totally. I think we should get a say here. I’m not saying that this is a good state of affairs where a couple hundred people in San Francisco are making all the decisions about how society goes. But as you were doing the reporting and the weight of the task and the consequences of the goal set in on these people, because that is the throughline of the book. The stakes just keep going up. At one point, Sergey Brin is like, “We’re going to get to AGI now,” and he just announces it at Google. It’s unclear whether Sundar Pichai thinks that is a good idea, but that is a thing that the cofounder of Google is announcing inside of Google. The stakes are just going up. The race to get there is just going up. But I just can’t get the image of it’s a bunch of people drinking beers, and being like, “Well, what if there was no money? What if physical scarcity was gone too and robots built all the houses?” This is like any party in San Francisco you go to. Someone will say some version of, “What’s your plan for the post-AGI future?” Or they’ll tell you how they’re really into the idea of whole brain emulation or mind uploading. There’s a lot of futurism happening out here. And look, again, I’m not saying this is good. In fact, maybe I should sell a version outside the Bay Area of the book that just has a “this is bad” appended to every factual claim. [Laughs] I don’t think it’s good or bad. Actually, I’m more neutral on that. I’m always wondering if the technology can accept the pressure. So my question about LLMs three years ago was, “Can it do all the things you want it to do?” Now it can definitely do some set of things that you want it to do. So now it’s, “Can these companies accept the weight of their own ambition?” I don’t know the answer to that question. I don’t either. And I think that we’re going to see a lot of growing pains. I mean, these are still very young companies. They still have a lot of growing to do. Do you think they’re going to make it? Actually, let’s do this as a lightning round. Do you think OpenAI will make it? Yes. Do you think Anthropic will make it? Yes. Do you think Google will make it? Yes. What does “make it” mean in your mind? They’re all going to be trillion-dollar, multi-AGI variant successes? Yes. I think, look, there will probably be those three, and then maybe one or two others that sort of make it. And make it for varying definitions of making it. There’ll be one or two big enterprise AI companies, one or two big consumer AI companies. But there just are network effects and winner-take-all dynamics or winner-take-most dynamics in these markets. There’s some people who believe in the mono-AGI, like the singleton theory, it’s often called, that there can only be one because once you have one AGI, it’s then going to go around melting the chips of the other AI labs, and they won’t be able to build theirs. But I think we’ll probably end up with a small handful of AGIs. What do you make of the idea that this is a pretty simple recipe, there are open-weight models, and there is a China, and that all the pricing power will be destroyed because a midrange open-weight model can do everything that you probably want it to do on a Mac? I don’t think so. No? Because you still have to pay for inference on those models. Even the open-weight models have to run on computers, and inference is getting more compute-intensive, not less, the more frontier these models get. So training budgets may fall, but inference budgets will be robust for the foreseeable future. You can run some tasks locally, but I think this is something that has been predicted since the first open-weight models that, “Oh, they were going to become commoditized and destroy demand.” But I think what we’re starting to learn is that there are a lot of people who will pay and want to pay for the absolute best model. They don’t want to be working with the slightly crappier model from six months ago. I also think once you crack down on distillation, which is this process whereby you can take a closed model and make a slightly dumber open version of it by just basically DDoSing the inference for the smarter model, it’s not clear to me that the quality of the open models will continue to be closely correlated with the quality of the closed models. The thing that really grabs me at that is they all did it to each other for a while, like Grok obviously distilled Claude, and it’s admitted to in the court documents. There is that class of second-tier companies. I would put in that category SpaceXSI, I believe it’s now technically known as. [Laughs] I haven’t checked my email in the last 30 minutes, so I don’t know what that company is called. It’s called SpaceXSITesla Inc. It’s all going to be one. Elon Inc. is what it’s called. They obviously distilled Claude to some huge extent. They’re now renting their compute to Anthropic. It’s unclear whether they will make the investment in having a leading model. Meta just announced its model, and they’re sort of back on the frontier, but they obviously care more about Muse than having a bleeding-edge model. There’s some dynamic there. Those companies don’t strike me as being run by idealistic true believers. Those are companies that need to invest in some technology to build some products. They just need to get there. Can you get there without the idealistic fervor? No, you can’t get there without the idealistic fervor. Well, let me clarify that, because I don’t think Sundar has the idealistic fervor, but Google might still get there. Because Sergey has the idealistic fervor. You need someone in a position of decision-making authority. You just need the cofounder of the company. Well, it might be enough for Meta to have Alexandr Wang, who, by all accounts, is a true believer. I don’t know that it literally has to be the CEO every time, but you need a dense nucleus of true believers to be able to convince you to lay out the money on GPUs. Or just you need someone who is like Mark Zuckerberg, one of the most competitive people in the world, who will just adopt whatever strategy he thinks will allow them to win. If that happens to align with building AGI, then maybe they’ll do it. Last question: I’ve asked you this several times, but are you AGI-pilled? Yes. Are you? No. I read your book, and it’s as close as I’ve ever gotten. That line about next-token prediction just always overcoming its skeptics just really hit me, because it has overcome my skepticism several times now. But this is why I was asking about talking to a chatbot from three years ago. I feel that wall in the kind of intelligence these things are. Even though I have set off agents to do all kinds of things, there’s a brittleness to it that feels inherent to the technology to me. Did the Millennium Prize solution change that view at all? Only in the sense that finding the next thing that has some objective verifiability seems very rich for these tools. So obviously mathematics has a verifiability, and the tools got so capable that they could run at it really, really hard. The brittleness that I’m describing is a lot of the world around us does not have that kind of verifiability. So I set off Muse to fill out a document on some janky government website, and the website cannot tell Muse what it’s getting right or wrong, and it just collapses. You can blame that on the underlying model not being at the frontier, but there’s just some part of that experience with LLM-based technologies that makes me feel they’re brittle in very specific ways, and they haven’t overcome that sensation for me. I’m not saying they’re not incredibly capable. I’m not saying that, as enterprise software, they will not automate virtually every business in the world in some way. I’m not saying that my wife isn’t a lawyer who uses Claude every day. It’s all there. But there’s some part of it where my skepticism is about whether it can overcome its brittleness to become the machine god. I’m excited to see if they can do it, but I don’t see the path from where I sit. You think there’s sort of a natural plateau at just below human-level intelligence? I think the human-level intelligence to me, and this is just more philosophical, is defined by novel problem solving — looking at a thing, and understanding that there are multiple paths to a solution, and not having one of those needing to be objectively right to get to the end. What would it take? What would you have to see to have the scales fall from your eyes and go, “I, Nilay Patel, am fully AGI-pilled”? What would convince you? I would have to see… You have young children. I have young children. There’s a thing that young children do where they fall down the stairs, and you just see the lights all go on: “I’ve learned this, I will know it forever, and now I’m going to build on that.” Maybe they’re going to announce recursive self-improvement at the AI labs and that will be the thing that drops the scales from my eyes. But the brittleness that I’m talking about is I see the opposite of that in my children. I’m assuming you see the opposite of it in yours. When they fail, they know about that failure forever. To me, there’s just something very, very core to being human, where every now and again I wake up, and I’m embarrassed about something that happened in high school, and that drives me to do a bunch of stuff, or it drives me to not make a bunch of decisions. I think that is just a key part of our intelligence. I’m not saying it has to be a key part of every intelligence, but the brittleness I see with the AI systems that I use today is that they’re still computers in a very specific way. They still act like computers. They’re good at solving problems that you can test. They’re good at software engineering. I don’t know that that way of thinking extends into every domain. I hope you’re right. That’s my point of view. I call it software brain. You hear the AI CEO say, “We solve coding, and now we can solve everything.” And to me, I’m saying, “That assumes everything happens inside of a computer, and in fact, most things don’t.” You sure? You sure your brain’s not just a fleshy computer? I am 100 percent sure of that. You’re not a computational functionalist? No. I think I’ve read this from you in the past, and I’ve certainly read it from other people, that the machines of our time dominate our own explanations of ourselves. So in the era of the steam engine, our self-conception was that we were steam engines, or in early computers, we were early computers, right? I still call it horsepowering through a problem because I’m a car person. You don’t think that the AI industry has convinced itself that they are AI because that is the machine of our time? I don’t know. I’m not a theory of mind guy. I’m not a cognitive neuroscientist. I think that to believe that what’s going on in your head and my head right now is not a form of computation, you have to be kind of a dualist or you have to be kind of a religious person. You have to think there is some spirit, some soul, some secret sauce of cognition that is not just data entering and being processed and transforming inputs into outputs. Look, I know that is the least romantic, most San Francisco way of explaining what human cognition is. I just have not heard a compelling argument that it is not how our brains work that doesn’t involve some sort of supernatural or immaterial substance. There’s a surprising number of neuroscientists and religious scholars listening to the show. They’re going to come find you. They will. I’m confident. Let me just ask you this. There’s a surprising amount of religiosity in Silicon Valley right now. We just published the Peter Thiel lectures on The Verge. He’s talking about the Antichrist. Do you think these ideas are connected, that we are building God such that they seek God? Yes. I think we will absolutely have AI religions. I think AI is posing all of the same questions as a religion that we would not otherwise be asking of God. “What is our purpose? What is our meaning? Why are we here?” These are the questions that people now talk about in the context of AI. I often tell people that being in San Francisco these days feels like living in Europe during the Reformation, where you just have crazy wild-eyed prophets waving their pamphlets around and trying to get you to join their thing. This is what walking down Market Street in San Francisco feels like. What dropped the scales from your eyes? What made you AGI-pilled? Bing’s Sydney, believe it or not. Yeah? I mean, that was the start. And then from there, it was just kind of a gradual process. One day I realized when I used these things, I wasn’t treating them like an intellectual inferior. I was in some ways treating them as a peer, and that’s when I realized, “Oh, something’s happened here.” So it’s possible I have AI psychosis. It would not be the first time I’ve heard that, but every time that I have thought, “Okay, it can’t possibly get any better than this, this has to be the plateau,” I’ve been wrong. So I’m just learning to approach these things with some humility, and maybe the crazy people who have been predicting that scaling would continue indefinitely are right. If they are, I think we need to learn about them, A, and why they think that, and B, try to figure out what to do about it. Well, Kevin, I’m confident the next time you come on the show, I will have set up a fully AI influencer to make money doing [user-generated content] ads, which is the true future of, I think, all of our businesses. The podcast is Machine Gods. It’s very good. You host it with Casey Newton. And the book is excellent. It’s The AGI Chronicles. Kevin, thank you so much for being on Decoder. Thanks. It was great to see you. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-26T14:00:00.000Z",
-        "fetchedAt": "2026-10-26T15:29:51.417Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "Today, I’m talking to Kevin Roose, journalist and author of the new book The AGI Chronicles, which details the recent and explosive transformation of the AI industry. Kevin was a longtime New York Times reporter and host of the popular podcast Hard Fork, but he and friend of the show Casey Newton just left the Times to start the all-new tech podcast Machine Gods, which launched last week. Kevin and I talked about launching Machine Gods and what it’s like to go from The New York Times to being an independent creator — and then of course we talked about the book, which is an excellently reported dive into the companies racing to build artificial general intelligence. I wanted to get a sense from Kevin of what it was like to report this, to try and understand these characters and this moment in time, and where it all goes next. Fair warning: This conversation takes a pretty philosophical turn at the end, but I think you’ll find it a really worthwhile back-and-forth.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -795,7 +776,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-25T11:30:33.000Z",
-        "fetchedAt": "2026-10-26T15:29:54.336Z",
+        "fetchedAt": "2026-10-26T20:45:38.833Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -808,7 +789,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a12"
+        "id": "a14"
       },
       {
         "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
@@ -818,7 +799,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-25T01:11:17.000Z",
-        "fetchedAt": "2026-10-26T15:29:50.864Z",
+        "fetchedAt": "2026-10-26T20:45:36.431Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -829,7 +810,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-        "id": "a13"
+        "id": "a15"
       }
     ]
   },
@@ -24046,6 +24027,586 @@ export const NEWS_DATA = {
             ],
             "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
             "id": "a13"
+          }
+        ]
+      }
+    },
+    "totalArticles": 22
+  },
+  "archive-2026-10-27": {
+    "generatedAt": "2026-10-26T20:45:44.171Z",
+    "date": "2026-10-27",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
+            "url": "https://finance.yahoo.com/technology/articles/custom-system-chip-application-specific-142600333.html?.tsrc=rss",
+            "description": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T14:26:00.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
+            "id": "a7"
+          },
+          {
+            "title": "QCOM.O - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQOXJfOVJ5TThickFDRF9JYzg3OWVENEx2UklLdXJucnhkRUxxVDJrcGVkRVd2T3FnSjNKU3hXaEhNaUEtRUxqWXZ5QzFRVFpNblhwLUN6WjVkcEJvdXc?oc=5",
+            "description": "QCOM.O Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T07:45:15.000Z",
+            "fetchedAt": "2026-10-26T20:45:42.921Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QCOM.O - Reuters — reported by Reuters.",
+            "id": "a10"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te",
+          "keyTakeaways": [
+            {
+              "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
+              "articleIds": [
+                "a17"
+              ],
+              "subCategory": "patent-litigation"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Arm Comments on Jury Decision in Qualcomm Trial",
+            "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
+            "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+            "source": "EE Times",
+            "sourceId": "eetimes",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-10-24T00:00:00.000Z",
+            "fetchedAt": "2026-10-26T20:45:37.240Z",
+            "fetchStrategy": "rss",
+            "section": "ip-legal",
+            "subCategory": "patent-litigation",
+            "subLabel": "Patent Litigation",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
+            "id": "a17"
+          }
+        ]
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (5 articles). A total of 14 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM sha",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "TikTok Spends $325K Lobbying on Trade and Export Control Policy - Legis1",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZGdPbVVzei0weXVXT1loSS03enpKWnFqQTZ5YVlqWTJHWEhZRWZoQXpUVGZSQ0RaQ2RvVVRRNkhmcXZDenJMNklfcTJUS2I1WHNaWk9FdkpjS2dVam1NWDVWMkpBMkNiaWVhYkJDbTJROHVJYWc?oc=5",
+            "description": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T18:37:41.000Z",
+            "fetchedAt": "2026-10-26T20:45:44.134Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Legis1",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
+            "id": "a1"
+          },
+          {
+            "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+            "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+            "description": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price. While they won’t completely drown out chatter of your local coffee shop, the ANC does a good job of quieting low drones, including air conditioners and airplane cabin noise. We did encounter some bugs in testing, however, including abrupt changes in noise cancellation levels when using adaptive ANC, as well as occasional issues with voice calls in noisy environments. Still, they’re relatively minor drawbacks given what you get for the price. The Ear 3A also come in some fun colors — including a striking pink shade — and each pair includes extra-small ear tips for a more comfortable fit. They even offer a shortcut to access ChatGPT and include 32MB of built-in storage, letting you record up to two hours of a phone call and transfer the recording through the companion app. Read our Nothing Ear 3A review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" };",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-26T17:25:34.000Z",
+            "fetchedAt": "2026-10-26T20:45:37.022Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price.",
+            "id": "a2"
+          },
+          {
+            "title": "Trump accused of ‘manipulating’ Catholic bishops for political gain",
+            "url": "https://www.ft.com/content/d8e6fac8-9c71-4e0d-9639-b8cf1d5617b4?syn-25a6b1a6=1",
+            "description": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T17:22:02.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.959Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Archbishop of Milwaukee says White House exploited clerics in Oval Office photo",
+            "id": "a3"
+          },
+          {
+            "title": "Is QUALCOMM (QCOM) Undervalued After Reaffirming Its Dividend?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-undervalued-reaffirming-dividend-170833442.html?.tsrc=rss",
+            "description": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T17:08:33.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
+            "id": "a4"
+          },
+          {
+            "title": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands - Geopolitechs",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wQXFZSTAwN2ZPTWtFaHo5ZGlhUHcwRGd1TnBrNGE5SzJnUGtuX0V6YW9CdkVqZnNBY2R6UXVlbWlEWjlUZ0t3MWQzblRMZndiaTd5SFk0SWVwNGViSWs1VUphN1BNWmtIdGxOV0hlcGlsc09LV0NJ?oc=5",
+            "description": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands Geopolitechs",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T17:01:15.000Z",
+            "fetchedAt": "2026-10-26T20:45:44.134Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Geopolitechs",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's New Trade Secret Rules: Keeping Its Technology from Falling into Foreign Hands Geopolitechs",
+            "id": "a5"
+          },
+          {
+            "title": "UK Government Invests £600 Million in AI to Strengthen National Security - ADS Advance",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pYXctSW40UVBSXzdnNS1hVE9vS0ZXWXR1T2NJRVZyclhkQmRORTAxQi1uSTA1cV9WQTVqTVZlOEU4RnRQcnc5WEd0OFlhajVXX3Zla1A0ek1QQ2EyaG4wNjNtY3VHNi1EaVFmSDlGY0pfd0lEcEoySg?oc=5",
+            "description": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T15:27:03.000Z",
+            "fetchedAt": "2026-10-26T20:45:44.134Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ADS Advance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
+            "id": "a6"
+          },
+          {
+            "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-120004518.html?.tsrc=rss",
+            "description": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T12:00:04.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
+            "id": "a8"
+          },
+          {
+            "title": "China’s top court clarifies when claim amendments can end drug patent-linkage cases: how U.S. Hatch-Waxman actions differ",
+            "url": "https://ipfray.com/chinas-top-court-clarifies-when-claim-amendments-can-end-drug-patent-linkage-cases-how-u-s-hatch-waxman-actions-differ/",
+            "description": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-26T08:38:59.000Z",
+            "fetchedAt": "2026-10-26T20:45:40.782Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
+            "id": "a9"
+          },
+          {
+            "title": "China’s Rise in Science as a Source of Strategic Power - SLDinfo.com",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTI2dHNUWFJ1V0hvNHVFR2REX08zZWVjT0t6SERBdnlCc2Y5d1lvNzRQS2NVTk80N2ZtWW9KdVNqWmlFNDhJYmtfbGVvU0lNNWNvRE16M3FmU3RzN0kwVF9TRVAtVExKSU9ic05mMHJ4RUVGY1E2bkQ2RGZKSlpYZGdDeVdZM0lPQ1E?oc=5",
+            "description": "China’s Rise in Science as a Source of Strategic Power SLDinfo.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T04:09:59.000Z",
+            "fetchedAt": "2026-10-26T20:45:44.134Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "SLDinfo.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s Rise in Science as a Source of Strategic Power SLDinfo.com",
+            "id": "a11"
+          },
+          {
+            "title": "Qualcomm Is 32% Below Its 52-Week High as It Plans Worldwide Job Cuts. Here’s What Its Rising Costs Need to Show on November 4",
+            "url": "https://www.tikr.com/blog/qualcomm-is-32-below-its-52-week-high-as-it-plans-worldwide-job-cuts-heres-what-its-rising-costs-need-to-show-on-november-4?ref=yahoofinance&.tsrc=rss",
+            "description": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T01:01:48.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key Stats for Qualcomm StockCurrent Price: $175. 91Target Price (Mid): ~$389Street Target: ~$196Potential Total Return: ~121%Annualized IRR: ~22% / year__Now Live: Discover how much upside your favorite stocks could have using TIKR’s new Valuation Model (It’s free)__ >>> What Happened?Qualcomm (QCOM) will cut jobs worldwide, CEO Cristiano Amon told staff in a memo first reported by Reuters on October 20.",
+            "id": "a12"
+          },
+          {
+            "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
+            "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
+            "description": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S. tariffs.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T16:42:42.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.396Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
+            "id": "a13"
+          },
+          {
+            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-25T11:30:33.000Z",
+            "fetchedAt": "2026-10-26T20:45:38.833Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a14"
+          },
+          {
+            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T01:11:17.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "id": "a15"
+          },
+          {
+            "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
+            "url": "https://www.barchart.com/story/news/8417648/qualcomms-quarterly-earnings-preview-what-you-need-to-know?.tsrc=rss",
+            "description": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-24T16:21:24.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
+            "id": "a16"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-25T11:30:33.000Z",
+            "fetchedAt": "2026-10-26T20:45:38.833Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a14"
+          }
+        ]
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-26T20:45:44.168Z",
+        "date": "2026-10-27",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
+              "articleIds": [
+                "a15"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+            "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
+            "description": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price. While they won’t completely drown out chatter of your local coffee shop, the ANC does a good job of quieting low drones, including air conditioners and airplane cabin noise. We did encounter some bugs in testing, however, including abrupt changes in noise cancellation levels when using adaptive ANC, as well as occasional issues with voice calls in noisy environments. Still, they’re relatively minor drawbacks given what you get for the price. The Ear 3A also come in some fun colors — including a striking pink shade — and each pair includes extra-small ear tips for a more comfortable fit. They even offer a shortcut to access ChatGPT and include 32MB of built-in storage, letting you record up to two hours of a phone call and transfer the recording through the companion app. Read our Nothing Ear 3A review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" };",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-26T17:25:34.000Z",
+            "fetchedAt": "2026-10-26T20:45:37.022Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price.",
+            "id": "a2"
+          },
+          {
+            "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
+            "url": "https://finance.yahoo.com/technology/articles/custom-system-chip-application-specific-142600333.html?.tsrc=rss",
+            "description": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-26T14:26:00.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
+            "id": "a7"
+          },
+          {
+            "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
+            "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-25T11:30:33.000Z",
+            "fetchedAt": "2026-10-26T20:45:38.833Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [
+              "apple"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a14"
+          },
+          {
+            "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
+            "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-25T01:11:17.000Z",
+            "fetchedAt": "2026-10-26T20:45:36.431Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
+            "id": "a15"
           }
         ]
       }

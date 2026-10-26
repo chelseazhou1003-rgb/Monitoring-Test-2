@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-26T15:29:58.112Z",
-  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T20:45:44.171Z",
+  "date": "2026-10-27",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a15",
+      "topHeadlineId": "a17",
       "briefingSummary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te"
     },
     "growth-areas": {
@@ -25,24 +25,24 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 12,
-      "topHeadline": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
+      "articleCount": 14,
+      "topHeadline": "TikTok Spends $325K Lobbying on Trade and Export Control Policy - Legis1",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (4 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (5 articles). A total of 14 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a14",
       "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 5,
-      "topHeadline": "Remarkable’s refurbished Paper Pro Move bundle is over $100 off",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), Customers & Partners (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
   "totalArticles": 22

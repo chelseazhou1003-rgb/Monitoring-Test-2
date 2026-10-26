@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-26T15:29:58.109Z",
-  "date": "2026-10-26",
+  "generatedAt": "2026-10-26T20:45:44.168Z",
+  "date": "2026-10-27",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
         "articleIds": [
-          "a2"
+          "a7"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T14:26:00.000Z",
-      "fetchedAt": "2026-10-26T15:29:50.864Z",
+      "fetchedAt": "2026-10-26T20:45:36.431Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -34,7 +34,7 @@
         "foundry"
       ],
       "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-      "id": "a2"
+      "id": "a7"
     },
     {
       "title": "QCOM.O - Reuters",
@@ -44,7 +44,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T07:45:15.000Z",
-      "fetchedAt": "2026-10-26T15:29:56.810Z",
+      "fetchedAt": "2026-10-26T20:45:42.921Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -53,25 +53,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QCOM.O - Reuters — reported by Reuters.",
-      "id": "a6"
-    },
-    {
-      "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
-      "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
-      "description": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-23T17:32:25.000Z",
-      "fetchedAt": "2026-10-26T15:29:50.864Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-      "id": "a16"
+      "id": "a10"
     }
   ]
 }
