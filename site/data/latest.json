@@ -1,19 +1,19 @@
 {
-  "generatedAt": "2026-10-25T23:35:41.493Z",
+  "generatedAt": "2026-10-26T01:47:15.885Z",
   "date": "2026-10-26",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
-      "topHeadline": "QCOM.O - Reuters",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
+      "topHeadlineId": "a9",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 2,
       "topHeadline": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "topHeadlineId": "a10",
+      "topHeadlineId": "a8",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Patent Litigation (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "growth-areas": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 9,
-      "topHeadline": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources."
+      "articleCount": 8,
+      "topHeadline": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (2 articles). A total of 8 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 18
+  "totalArticles": 16
 }

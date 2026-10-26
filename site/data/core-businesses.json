@@ -1,40 +1,21 @@
 {
-  "generatedAt": "2026-10-25T23:35:41.491Z",
+  "generatedAt": "2026-10-26T01:47:15.884Z",
   "date": "2026-10-26",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: QCOM.O - Reuters — reported by Reuters.",
+        "text": "Semiconductors: Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
         "articleIds": [
-          "a1"
+          "a9"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
-    {
-      "title": "QCOM.O - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBQOXJfOVJ5TThickFDRF9JYzg3OWVENEx2UklLdXJucnhkRUxxVDJrcGVkRVd2T3FnSjNKU3hXaEhNaUEtRUxqWXZ5QzFRVFpNblhwLUN6WjVkcEJvdXc?oc=5",
-      "description": "QCOM.O Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-25T19:08:49.000Z",
-      "fetchedAt": "2026-10-25T23:35:40.306Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QCOM.O - Reuters — reported by Reuters.",
-      "id": "a1"
-    },
     {
       "title": "Qualcomm May Be Preparing Another Round of Job Cuts Next Month. Here’s What to Know.",
       "url": "https://www.barchart.com/story/news/8376504/qualcomm-may-be-preparing-another-round-of-job-cuts-next-month-heres-what-to-know?.tsrc=rss",
@@ -43,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T17:32:25.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -51,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm CEO Cristiano Amon told employees the company is planning a global workforce reduction, with notifications expected to begin in November.",
-      "id": "a11"
+      "id": "a9"
     },
     {
       "title": "Prediction: This Chip Stock Could Be a Sleeper AI Winner",
@@ -61,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T14:00:40.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -69,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Wall Street still treats Qualcomm like a struggling handset maker, but a string of quiet wins in automotive, data centers, and hyperscaler silicon suggests the market has badly mispriced what this company is becoming.",
-      "id": "a12"
+      "id": "a10"
     },
     {
       "title": "What Would It Take For Qualcomm Stock To Move Higher?",
@@ -79,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-23T09:02:00.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -87,7 +68,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a13"
+      "id": "a11"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:35:41.491Z",
+  "generatedAt": "2026-10-26T01:47:15.884Z",
   "date": "2026-10-26",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -16,7 +16,7 @@
       {
         "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
         "articleIds": [
-          "a6"
+          "a5"
         ],
         "subCategory": "market-performance"
       }
@@ -31,7 +31,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-25T23:35:37.241Z",
+      "fetchedAt": "2026-10-26T01:47:10.533Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -54,7 +54,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -65,7 +65,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "id": "a6"
+      "id": "a5"
     }
   ]
 }

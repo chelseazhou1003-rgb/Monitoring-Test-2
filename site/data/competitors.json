@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-25T23:35:41.491Z",
+  "generatedAt": "2026-10-26T01:47:15.884Z",
   "date": "2026-10-26",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-25T23:35:37.241Z",
+      "fetchedAt": "2026-10-26T01:47:10.533Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",

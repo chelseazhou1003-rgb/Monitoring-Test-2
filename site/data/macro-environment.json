@@ -1,28 +1,48 @@
 {
-  "generatedAt": "2026-10-25T23:35:41.491Z",
+  "generatedAt": "2026-10-26T01:47:15.884Z",
   "date": "2026-10-26",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (2 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Audi's CEO defended the company's plans for a $4 billion plant in Georgia, calling it a business decision to grow sales and reduce exposure to U.S.",
+        "text": "Geopolitics & Export Controls: China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
         "articleIds": [
-          "a2"
+          "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
         "articleIds": [
-          "a6"
+          "a5"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
+    {
+      "title": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach - Stocktwits",
+      "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQV2tyTkstdkVkNmJVTGdqcG9xempJVWVqb1Z5WHhvOTExVC1PRXJFUUJkQW1NN0VYeXJNMlk3MGdOWER6TGpiRzRYVXViZFlQdzE5WkpmcURMeEgxQndUVkN6dEVRbWFCTVN2eFdneXl3STNWb0ZoSVRvNHNYU2lCcGhUNkp1eWNvUEkyYUNWX2VaT1NrOXF3dXZGNmg5SDF3MHRUWVRLai1sSmpXT1ZUUmFOQS1WdWdWM1BJTF8xMXd4dmMySFhhbUJMVVFvU0drNTE2a2ln?oc=5",
+      "description": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-25T17:10:01.000Z",
+      "fetchedAt": "2026-10-26T01:47:15.868Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Stocktwits",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China's Moonshot Reportedly Seeks Access To More NVDA Blackwell Chips A Week After Trump Official Flagged Export Control Breach Stocktwits",
+      "id": "a1"
+    },
     {
       "title": "Audi defends plans for a $4 billion Georgia plant amid VW restructuring, tariffs",
       "url": "https://www.cnbc.com/2026/10/25/audi-georgia-us-plant-tariffs-volkswagen.html",
@@ -31,7 +51,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T16:42:42.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.719Z",
+      "fetchedAt": "2026-10-26T01:47:08.142Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -50,7 +70,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T15:42:06.000Z",
-      "fetchedAt": "2026-10-25T23:35:41.461Z",
+      "fetchedAt": "2026-10-26T01:47:15.868Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "조선일보",
       "geopoliticalBypass": true,
@@ -70,7 +90,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-25T23:35:37.241Z",
+      "fetchedAt": "2026-10-26T01:47:10.533Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -86,26 +106,6 @@
       "id": "a4"
     },
     {
-      "title": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO - electronics.economictimes.indiatimes.com",
-      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPcUdSb25DUl82WTVCNWNzalhZcGZYbVowbFJsU3BSZUludlBPblAwWk9NOTNwdFZROHRfWWpPMjZHd3dCcDdGQkl0UEEwM2JrQ0E4VXNZaDd2bEtSX3Y1VlNHSXBuODJWQ091SFQ3RUpQWnBVZC1SRXZONGxvSHVrT3F6X2FMazBfQkJWWHlwdk5rSHFGMEY5LTFRQ2VaLS1DLWJWNk44d3U2VDNCM3Q1RXpFUEluYTVSOWt1V1B4c2c0OTZvSGItZkFuZWtuYnBxdHpzWFhGdHVQalhEZEJB0gHkAUFVX3lxTFA1TjM3bWtvaXZpSDhybjRzSFJ4UmYteTd0eXlNMXdLdlRwMXA5QXZLbXBva2NfT1RYcXdDS2VQTjhPOGFHdjRqTGwzMVZ0OUY0dy1lYTczdXZHcDVVVTMyYWhvdWtsTDFmVUlQV0djX2ppazZqRkFqczZ3RFpvR0RydFdRTjRWR0FxMnJjU0pZeEx2Zk44dmZIUi1wRUg2ejFYN3JhRUhkY2dnV2VlaHp1NDhIeEdVWGJIcTNLd3VFMWRBemx6QmxfS0F2V3ZSRndNMUpMenoxZk9BeTl2WnlFS0h2WQ?oc=5",
-      "description": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-25T09:06:31.000Z",
-      "fetchedAt": "2026-10-25T23:35:41.461Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "electronics.economictimes.indiatimes.com",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "US export curbs accelerate China’s chip ambitions, says Nvidia CEO electronics.economictimes.indiatimes.com",
-      "id": "a5"
-    },
-    {
       "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
       "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
       "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
@@ -113,7 +113,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -124,26 +124,7 @@
         "platform-partner"
       ],
       "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "id": "a6"
-    },
-    {
-      "title": "Sinking Profits Turn China’s $3.5 Trillion Stock Rout Into Trap",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-25/sinking-profits-turn-china-s-3-5-trillion-stock-rout-into-trap",
-      "description": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-25T00:00:00.000Z",
-      "fetchedAt": "2026-10-25T23:35:35.078Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Pessimism has gripped Chinese stocks, with no end in sight for a deepening selloff as investors confront the realities of an economy that’s weak enough to erode corporate profits but not to trigger forceful new stimulus.",
-      "id": "a7"
+      "id": "a5"
     },
     {
       "title": "QUALCOMM’s Quarterly Earnings Preview: What You Need to Know",
@@ -153,7 +134,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T16:21:24.000Z",
-      "fetchedAt": "2026-10-25T23:35:34.847Z",
+      "fetchedAt": "2026-10-26T01:47:08.233Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -161,7 +142,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM is expected to release its fiscal Q4 earnings early next month, while analysts project a significant EPS decline.",
-      "id": "a8"
+      "id": "a6"
     },
     {
       "title": "Bank of Israel Slams Netanyahu’s Anti-Sanction Crypto Scheme",
@@ -171,7 +152,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-24T10:54:35.000Z",
-      "fetchedAt": "2026-10-25T23:35:35.078Z",
+      "fetchedAt": "2026-10-26T01:47:08.513Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -180,7 +161,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Prime Minister Benjamin Netanyahu floated using cryptocurrency to get around potential financial sanctions on Israel, prompting a strongly-worded rebuke from the central bank.",
-      "id": "a9"
+      "id": "a7"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -190,7 +171,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-10-23T07:01:23.000Z",
-      "fetchedAt": "2026-10-25T23:35:36.244Z",
+      "fetchedAt": "2026-10-26T01:47:09.633Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -199,7 +180,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "CHIPS Act $389M to power chips, vertical GaN, materials; Micron's memory roadmap; Nvidia expands supply chain capacity; Tenstorrent raises $1.5B; China NAND fabs; 800V power for AI data centers; Intel advances Arizona fab; China orders +$35B in Nvidia GPUs. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a15"
+      "id": "a13"
     }
   ]
 }
