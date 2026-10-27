@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-27T00:52:30.238Z",
+  "generatedAt": "2026-10-27T06:51:41.828Z",
   "date": "2026-10-27",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,7 +9,7 @@
       {
         "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
         "articleIds": [
-          "a13"
+          "a12"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T14:26:00.000Z",
-      "fetchedAt": "2026-10-27T00:52:24.184Z",
+      "fetchedAt": "2026-10-27T06:51:35.042Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -34,7 +34,7 @@
         "foundry"
       ],
       "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-      "id": "a13"
+      "id": "a12"
     }
   ]
 }
