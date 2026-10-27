@@ -1,56 +1,55 @@
 {
-  "generatedAt": "2026-10-27T06:51:41.828Z",
+  "generatedAt": "2026-10-27T13:38:22.931Z",
   "date": "2026-10-27",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Semiconductors (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s",
+        "text": "market-performance: From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclos",
         "articleIds": [
-          "a8"
+          "a15"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
         "articleIds": [
-          "a12"
+          "a21"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "market-performance: QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside",
+        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
-          "a18"
+          "a24"
         ],
-        "subCategory": "market-performance"
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
     {
-      "title": "Nothing&#8217;s eye-catching Ear 3A earbuds are matching their best price to date",
-      "url": "https://www.theverge.com/gadgets/1018612/nothing-ear-3a-noise-canceling-earbuds-deal-sale",
-      "description": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price. While they won’t completely drown out chatter of your local coffee shop, the ANC does a good job of quieting low drones, including air conditioners and airplane cabin noise. We did encounter some bugs in testing, however, including abrupt changes in noise cancellation levels when using adaptive ANC, as well as occasional issues with voice calls in noisy environments. Still, they’re relatively minor drawbacks given what you get for the price. The Ear 3A also come in some fun colors — including a striking pink shade — and each pair includes extra-small ear tips for a more comfortable fit. They even offer a shortcut to access ChatGPT and include 32MB of built-in storage, letting you record up to two hours of a phone call and transfer the recording through the companion app. Read our Nothing Ear 3A review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" };",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-26T17:25:34.000Z",
-      "fetchedAt": "2026-10-27T06:51:35.460Z",
+      "title": "SK Hynix, Samsung, Kioxia, CXMT Earnings Test AI Boom in Memory Market",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
+      "description": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-26T21:00:00.000Z",
+      "fetchedAt": "2026-10-27T13:38:16.283Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [
-        "oem",
-        "platform-partner"
+        "oem"
       ],
-      "summary": "Nothing’s Ear 3A come in a variety of fun colors, including a yellow shade. | Photo: John Higgins / The Verge If you want a decent pair of noise-canceling earbuds without spending a fortune, Nothing’s Ear 3A are worth considering. The wireless earbuds offer a lot of features for the price, and they’re an even better value now that all four colors are on sale at Amazon, Walmart, and Best Buy for $79 ($20 off), matching their all-time low price. Nothing Ear 3A earbuds Where to Buy: $99 $79 at Amazon $99 $79 at Walmart $99 $79 at Best Buy The Ear 3A deliver great performance for the price, with extensive EQ options that let you fine-tune the sound to your liking. My colleague John Higgins found the default sound a little too bass-heavy, but appreciated how easy it was to adjust — which is great, since that level of customization is unusual for earbuds at this price.",
-      "id": "a8"
+      "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
+      "id": "a15"
     },
     {
       "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
@@ -60,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T14:26:00.000Z",
-      "fetchedAt": "2026-10-27T06:51:35.042Z",
+      "fetchedAt": "2026-10-27T13:38:16.125Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -70,7 +69,7 @@
         "foundry"
       ],
       "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-      "id": "a12"
+      "id": "a21"
     },
     {
       "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -80,7 +79,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-27T06:51:37.451Z",
+      "fetchedAt": "2026-10-27T13:38:18.535Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -93,28 +92,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a17"
-    },
-    {
-      "title": "How Investors May Respond To Qualcomm Stock Earnings Outlook Concerns",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/investors-may-respond-qualcomm-stock-011117867.html?.tsrc=rss",
-      "description": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-25T01:11:17.000Z",
-      "fetchedAt": "2026-10-27T06:51:35.042Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "QUALCOMM affirmed a quarterly cash dividend of US$0.92 per share for December 2026 while reporting a 16.67% year on year decline in diluted EPS, a 20.00 P/E ratio and a 2.03% dividend yield, alongside weaker operating margins. The business is cutting its global workforce and facing pressure in smartphones and Apple related revenue, at the same time it commits capital to data center chips, robotics and AI partnerships with Amazon and Apple. The focus now turns to how QUALCOMM's dividend...",
-      "id": "a18"
+      "id": "a24"
     }
   ]
 }
