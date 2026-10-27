@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-27T19:00:09.652Z",
+  "generatedAt": "2026-10-27T23:14:48.740Z",
   "date": "2026-10-28",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "Anduril's Luckey Partners With Qualcomm to Build American-Made Laptop",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 19,
-      "topHeadline": "The U.S.-Taiwan ART’s Export Control Puzzle - Lawfare",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 19 articles were aggregated from monitored sources."
+      "articleCount": 18,
+      "topHeadline": "China AI Hardware Firms Face Earnings Test After Stock Selloff",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (6 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
+      "articleCount": 3,
       "topHeadline": "Meta Boosts Equity Offering to $98 Billion, Raising Its AI Bet",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 30
+  "totalArticles": 29
 }
