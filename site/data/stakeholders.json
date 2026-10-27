@@ -1,55 +1,76 @@
 {
-  "generatedAt": "2026-10-27T13:38:22.931Z",
-  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T19:00:09.650Z",
+  "date": "2026-10-28",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Platform & Ecosystem Partners (1 article), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "market-performance: From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclos",
+        "text": "Platform & Ecosystem Partners: Bloomberg’s Ed Ludlow takes a look at Meta's plan to boost its equity offering to almost $98 billion, one of the largest ever, as it raises its bet on AI. Plus, Anthropic's IPO could be a defining tes",
         "articleIds": [
-          "a15"
+          "a1"
         ],
-        "subCategory": "market-performance"
+        "subCategory": "platform-partner"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE)",
         "articleIds": [
-          "a21"
-        ],
-        "subCategory": "semiconductors"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "articleIds": [
           "a24"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
     {
-      "title": "SK Hynix, Samsung, Kioxia, CXMT Earnings Test AI Boom in Memory Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
-      "description": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
+      "title": "Meta Boosts Equity Offering to $98 Billion, Raising Its AI Bet",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-27/bloomberg-tech-10-27-2026-video",
+      "description": "Bloomberg’s Ed Ludlow takes a look at Meta's plan to boost its equity offering to almost $98 billion, one of the largest ever, as it raises its bet on AI. Plus, Anthropic's IPO could be a defining test for the AI boom, as its S-1 filing reveals staggering growth, spending and losses. And, Anduril founder Palmer Luckey explains why the defense tech firm is teaming up with chipmaker Qualcomm to build a laptop with a US supply chain. (Source: Bloomberg)",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T21:00:00.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.283Z",
+      "publishedAt": "2026-10-27T18:24:15.000Z",
+      "fetchedAt": "2026-10-27T18:59:58.137Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Bloomberg’s Ed Ludlow takes a look at Meta's plan to boost its equity offering to almost $98 billion, one of the largest ever, as it raises its bet on AI. Plus, Anthropic's IPO could be a defining test for the AI boom, as its S-1 filing reveals staggering growth, spending and losses. And, Anduril founder Palmer Luckey explains why the defense tech firm is teaming up with chipmaker Qualcomm to build a laptop with a US supply chain.",
+      "id": "a1"
+    },
+    {
+      "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
+      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "description": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. Apple AirTag (second-gen) Where to Buy: $29 $23 at Amazon $29 $23 at Walmart If you own an iPhone, the second-gen AirTag is the best Bluetooth tracker you can buy. That’s largely due to Apple’s ultra-wideband chip, which enables Precision Finding and guides you to an object’s exact location with on-screen arrows, vibrations, and sounds. The second-gen model can also help you find things faster than the prior generation, as it lets you pick up those directional cues from up to 50 percent farther (it also offers greater Bluetooth range). In our tests, that meant faster connections and better performance across multiple floors, which could come in handy if you’ve left something behind in a hotel. You can even follow directions on an Apple Watch Series 9 or later, making it possible to track down your stuff without pulling out your phone. The latest AirTag offers a few other perks for travelers, too. You can share it with up to five other people, which is handy if you’re traveling with family members. If your suitcase goes missing, you can also temporarily share its location with participating airlines, including both United and Delta. That means if your suitcase gets lost, airline staff can see its reported location, which can make it easier to track down and return to you. More conveniently, it runs on a replaceable CR2032 battery designed to last more than a year, so you won’t have to worry about charging it before every trip. Read our AirTag (second-gen) review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Three more Verge-approved deals Cricut’s Joy 2 Plus Ultimate Bundle is on sale for $159 ($50 off) at Amazon, which is the second-best price we’ve seen for this particular bundle. The small cutting machine is probably the funnest gadget I’ve tested this year, one that makes it relatively easy for beginners to create personalized cards, stickers, labels, iron-on designs, and other projects. The bundle also includes a mini heat press, tools, and enough supplies to make up to 75 projects, so you can get started right out of the box. Read my hands-on impressions. Ring’s latest Battery Doorbell 2K is available from Amazon, Target, and Ring for $44.99 ($55 off), which is just $5 shy of its all-time low. The wireless doorbell offers sharp 2K video with a 140-degree horizontal and vertical field of view, making it easier to see visitors and packages left at your door. It also features night vision to keep tabs on trick-or-treaters after dark, two-way audio to chat with visitors, and motion detection that alerts you when someone’s at your door. You can now pick up N Edition of 8Bitdo’s Retro Mechanical Keyboard on Amazon for $50.99 ($49 off), which marks its best price to date. Designed to resemble Nintendo’s original NES controller, the tenkeyless mechanical board features hot-swappable switches and a pair of large “Super Buttons,” which you can program to launch apps, trigger keyboard shortcuts, and perform other tasks.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-27T15:34:16.000Z",
+      "fetchedAt": "2026-10-27T18:59:58.492Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [
-        "oem"
+        "oem",
+        "platform-partner"
       ],
-      "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
-      "id": "a15"
+      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. Apple AirTag (second-gen) Where to Buy: $29 $23 at Amazon $29 $23 at Walmart If you own an iPhone, the second-gen AirTag is the best Bluetooth tracker you can buy. That’s largely due to Apple’s ultra-wideband chip, which enables Precision Finding and guides you to an object’s exact location with on-screen arrows, vibrations, and sounds. The second-gen model can also help you find things faster than the prior generation, as it lets you pick up those directional cues from up to 50 percent farther (it also offers greater Bluetooth range).",
+      "id": "a8"
     },
     {
       "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
@@ -59,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T14:26:00.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -69,7 +90,7 @@
         "foundry"
       ],
       "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-      "id": "a21"
+      "id": "a24"
     },
     {
       "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -79,7 +100,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-27T13:38:18.535Z",
+      "fetchedAt": "2026-10-27T19:00:00.167Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -92,7 +113,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a24"
+      "id": "a26"
     }
   ]
 }

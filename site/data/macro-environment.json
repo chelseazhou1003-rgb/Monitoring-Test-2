@@ -1,62 +1,205 @@
 {
-  "generatedAt": "2026-10-27T13:38:22.931Z",
-  "date": "2026-10-27",
+  "generatedAt": "2026-10-27T19:00:09.650Z",
+  "date": "2026-10-28",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Supply Chain (2 articles). A total of 19 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (4 articles), Supply Chain (2 articles). A total of 19 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Supply Chain: Anduril Industries and Qualcomm are producing laptops designed and assembled in the US, called BlueChip, to supply critical industries. Ed Ludlow has more on \"Bloomberg Open Interest.\" (Source: Bloomb",
+        "text": "Geopolitics & Export Controls: The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
         "articleIds": [
-          "a1"
-        ],
-        "subCategory": "supply-chain"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made i",
-        "articleIds": [
-          "a5"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fe",
+        "text": "market-performance: A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change ",
         "articleIds": [
-          "a9"
+          "a4"
         ],
         "subCategory": "market-performance"
+      },
+      {
+        "text": "Supply Chain: Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "supply-chain"
+      },
+      {
+        "text": "Customers & Partners: Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing",
+        "articleIds": [
+          "a10"
+        ],
+        "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
     {
-      "title": "Anduril and Qualcomm Plan US Supply Chain Laptop",
-      "url": "https://www.bloomberg.com/news/videos/2026-10-27/anduril-and-qualcomm-plan-us-supply-chain-laptop-video",
-      "description": "Anduril Industries and Qualcomm are producing laptops designed and assembled in the US, called BlueChip, to supply critical industries. Ed Ludlow has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "The U.S.-Taiwan ART’s Export Control Puzzle - Lawfare",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkhxSlNNd1gtOE1GcWhBbHczaWZrYnBJMWUzQzg0ajBqMUtNMko3a0dXanFjYzlsX05WM2ZPVEo1VUxVcGo5OXFoeHdzek5pbUJDVG1UZUJ6ZUV4TGNhMEJnV2xISU5SUWNpNDhIaW5icWFIejk4ck9nM3dYLUhDT2VoZkhjbTQ?oc=5",
+      "description": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T13:31:36.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.283Z",
+      "publishedAt": "2026-10-27T18:04:01.000Z",
+      "fetchedAt": "2026-10-27T19:00:09.611Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Lawfare",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
+      "id": "a3"
+    },
+    {
+      "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
+      "url": "https://247wallst.com/personal-finance/social-security/2026/10/27/qualcomms-layoff-notices-start-in-november-a-2026-bonus-paid-in-january-shouldnt-count-against-his-25560-social-security-earnings-limit/?.tsrc=rss",
+      "description": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T18:00:43.000Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
+      "id": "a4"
+    },
+    {
+      "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
+      "url": "https://www.cnbc.com/2026/10/27/honda-warns-50percent-canada-auto-tariffs-would-be-catastrophic.html",
+      "description": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T17:53:47.000Z",
+      "fetchedAt": "2026-10-27T18:59:57.702Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
+      "id": "a5"
+    },
+    {
+      "title": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GWnY0eU1IOF9qRVBad3hVTjlTWFAtLUgwV1RSLWFUVURtUER2cnFqVXFBeFBYc1JEX0NnUFBuNVpRQW9xRmtjNzczSDRtQ2xUdU01eF9jTXM2c2lTSDRqaGgwZHpjdGtfQXVaZEI2N05vcjFOQnc?oc=5",
+      "description": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T17:35:00.000Z",
+      "fetchedAt": "2026-10-27T19:00:09.612Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "BigGo Finance",
       "section": "macro-environment",
       "subCategory": "supply-chain",
       "subLabel": "Supply Chain",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Anduril Industries and Qualcomm are producing laptops designed and assembled in the US, called BlueChip, to supply critical industries. Ed Ludlow has more on \"Bloomberg Open Interest.\" (Source: Bloomberg)",
-      "id": "a1"
+      "summary": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
+      "id": "a6"
     },
     {
-      "title": "Anduril and Qualcomm Plan to Build Laptop With US Supply Chain",
+      "title": "Starlink Brinkmanship Is Driving Allies to Rethink US Reliance",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/starlink-brinkmanship-is-driving-allies-to-rethink-us-reliance",
+      "description": "European officials have intensified discussions about ways to reduce their reliance on the US and American defense contractors following the recent blame game around Ukraine’s Starlink restrictions, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T16:13:06.000Z",
+      "fetchedAt": "2026-10-27T18:59:58.137Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "European officials have intensified discussions about ways to reduce their reliance on the US and American defense contractors following the recent blame game around Ukraine’s Starlink restrictions, according to people familiar with the matter.",
+      "id": "a7"
+    },
+    {
+      "title": "Apple&#8217;s latest AirTag is the cheapest it’s ever been",
+      "url": "https://www.theverge.com/gadgets/1019138/apple-airtag-second-gen-cricut-joy-2-printer-deal-sale",
+      "description": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. Apple AirTag (second-gen) Where to Buy: $29 $23 at Amazon $29 $23 at Walmart If you own an iPhone, the second-gen AirTag is the best Bluetooth tracker you can buy. That’s largely due to Apple’s ultra-wideband chip, which enables Precision Finding and guides you to an object’s exact location with on-screen arrows, vibrations, and sounds. The second-gen model can also help you find things faster than the prior generation, as it lets you pick up those directional cues from up to 50 percent farther (it also offers greater Bluetooth range). In our tests, that meant faster connections and better performance across multiple floors, which could come in handy if you’ve left something behind in a hotel. You can even follow directions on an Apple Watch Series 9 or later, making it possible to track down your stuff without pulling out your phone. The latest AirTag offers a few other perks for travelers, too. You can share it with up to five other people, which is handy if you’re traveling with family members. If your suitcase goes missing, you can also temporarily share its location with participating airlines, including both United and Delta. That means if your suitcase gets lost, airline staff can see its reported location, which can make it easier to track down and return to you. More conveniently, it runs on a replaceable CR2032 battery designed to last more than a year, so you won’t have to worry about charging it before every trip. Read our AirTag (second-gen) review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/apple_watch_series_10.png\", productImageAlt: \"Apple Watch Series 10\", productTitle: \"Apple Watch Series 10\", shortDescription: \"Save on a refurbished Apple Watch Series 10\", longDescription: \"Get an Apple Watch Series 10 with a 46mm aluminum case and GPS connectivity for a fraction of its listed new price. Shop refurbished options at Back Market with a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fapple-watch-series-10%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Three more Verge-approved deals Cricut’s Joy 2 Plus Ultimate Bundle is on sale for $159 ($50 off) at Amazon, which is the second-best price we’ve seen for this particular bundle. The small cutting machine is probably the funnest gadget I’ve tested this year, one that makes it relatively easy for beginners to create personalized cards, stickers, labels, iron-on designs, and other projects. The bundle also includes a mini heat press, tools, and enough supplies to make up to 75 projects, so you can get started right out of the box. Read my hands-on impressions. Ring’s latest Battery Doorbell 2K is available from Amazon, Target, and Ring for $44.99 ($55 off), which is just $5 shy of its all-time low. The wireless doorbell offers sharp 2K video with a 140-degree horizontal and vertical field of view, making it easier to see visitors and packages left at your door. It also features night vision to keep tabs on trick-or-treaters after dark, two-way audio to chat with visitors, and motion detection that alerts you when someone’s at your door. You can now pick up N Edition of 8Bitdo’s Retro Mechanical Keyboard on Amazon for $50.99 ($49 off), which marks its best price to date. Designed to resemble Nintendo’s original NES controller, the tenkeyless mechanical board features hot-swappable switches and a pair of large “Super Buttons,” which you can program to launch apps, trigger keyboard shortcuts, and perform other tasks.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-27T15:34:16.000Z",
+      "fetchedAt": "2026-10-27T18:59:58.492Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Thanksgiving is less than a month away, so now’s a good time to start preparing before the rush. Fortunately, Apple’s latest AirTag can help you keep tabs on your luggage and other belongings amid the holiday chaos, and it’s currently down to an all-time low of $23 ($6 off) at Amazon and Walmart. Apple AirTag (second-gen) Where to Buy: $29 $23 at Amazon $29 $23 at Walmart If you own an iPhone, the second-gen AirTag is the best Bluetooth tracker you can buy. That’s largely due to Apple’s ultra-wideband chip, which enables Precision Finding and guides you to an object’s exact location with on-screen arrows, vibrations, and sounds. The second-gen model can also help you find things faster than the prior generation, as it lets you pick up those directional cues from up to 50 percent farther (it also offers greater Bluetooth range).",
+      "id": "a8"
+    },
+    {
+      "title": "Solidigm Dangles New $45 Billion US Plant to Upgrade China Site",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-27/solidigm-dangles-new-45-billion-us-plant-to-upgrade-china-site",
+      "description": "Solidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T15:18:29.000Z",
+      "fetchedAt": "2026-10-27T18:59:58.138Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Solidigm Inc., an American subsidiary of the South Korean memory-chip maker SK Hynix Inc., is in talks with the US Commerce Department to invest $45 billion in a new US chip plant, according to people familiar with the negotiations.",
+      "id": "a9"
+    },
+    {
+      "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
+      "url": "https://finance.yahoo.com/technology/articles/anduril-qualcomm-launch-bluechip-onshore-150452000.html?.tsrc=rss",
+      "description": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T15:04:52.000Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
+      "id": "a10"
+    },
+    {
+      "title": "Anduril and Qualcomm Plan Rugged Laptop With US Supply Chain",
       "url": "https://www.bloomberg.com/news/articles/2026-10-27/anduril-and-qualcomm-plan-to-build-laptop-with-us-supply-chain",
       "description": "Defense tech startup Anduril Industries Inc. has joined forces with chipmaker Qualcomm Inc. to produce laptops that are designed and assembled in the US, an attempt to rebuild a manufacturing process that has largely moved overseas.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:00:00.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.283Z",
+      "fetchedAt": "2026-10-27T18:59:58.137Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "supply-chain",
@@ -64,25 +207,25 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Defense tech startup Anduril Industries Inc. has joined forces with chipmaker Qualcomm Inc. to produce laptops that are designed and assembled in the US, an attempt to rebuild a manufacturing process that has largely moved overseas.",
-      "id": "a4"
+      "id": "a14"
     },
     {
       "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
       "url": "https://finance.yahoo.com/technology/articles/anduril-qualcomm-launch-bluechip-kind-130000302.html?.tsrc=rss",
-      "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "description": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:00:00.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S. and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "id": "a5"
+      "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
+      "id": "a15"
     },
     {
       "title": "Three Russian diesel tankers steam for US — including two under sanctions",
@@ -92,7 +235,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T12:05:32.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.547Z",
+      "fetchedAt": "2026-10-27T18:59:58.391Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -101,7 +244,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump deal with Putin to ease fuel prices exposes companies to legal threats from Congress",
-      "id": "a7"
+      "id": "a16"
     },
     {
       "title": "Singapore, Germany target applied AI",
@@ -111,7 +254,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-27T11:39:45.000Z",
-      "fetchedAt": "2026-10-27T13:38:20.499Z",
+      "fetchedAt": "2026-10-27T19:00:07.693Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -120,7 +263,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-      "id": "a8"
+      "id": "a17"
     },
     {
       "title": "Qualcomm Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?",
@@ -130,7 +273,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T11:23:44.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -138,26 +281,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
-      "id": "a9"
-    },
-    {
-      "title": "Man charged with assisting ‘foreign intelligence service’ after incident at UK base used for Iran strikes",
-      "url": "https://www.cnbc.com/2026/10/27/uk-national-security-raf-fairford-iran.html",
-      "description": "Two men face U.K. national security charges after an incident at a British air base used by U.S. forces during strikes on Iran.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T11:22:42.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.022Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "national security charges after an incident at a British air base used by U.S. forces during strikes on Iran.",
-      "id": "a10"
+      "id": "a18"
     },
     {
       "title": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding - TechRepublic",
@@ -166,8 +290,8 @@
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T10:40:48.000Z",
-      "fetchedAt": "2026-10-27T13:38:22.908Z",
+      "publishedAt": "2026-10-27T10:53:16.000Z",
+      "fetchedAt": "2026-10-27T19:00:09.611Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TechRepublic",
       "geopoliticalBypass": true,
@@ -177,7 +301,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding TechRepublic",
-      "id": "a11"
+      "id": "a19"
     },
     {
       "title": "Porsche profit rebounds as luxury carmaker reduces exposure to China",
@@ -187,7 +311,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T10:08:51.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.022Z",
+      "fetchedAt": "2026-10-27T18:59:57.702Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -196,48 +320,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Luxury German carmaker Porsche said it's rapidly reducing its exposure to the Chinese autos market after reporting a profit recovery in the first nine months.",
-      "id": "a12"
-    },
-    {
-      "title": "Growing Confident in Its Technology, China Tightens Controls on Overseas Technology Transfers and Movement of Key Personnel - https://economy.ac/",
-      "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE15SW1LRkUwVG5GeFdqdHBzSHp5VFZSSG5OWEJwejJFZVlLSGRoVVRaUUUwdmxjOWl2OVA2WHNjTXYwbEZMTGNEb19QVXNiTmZxVlJ0bEk3NA?oc=5",
-      "description": "Growing Confident in Its Technology, China Tightens Controls on Overseas Technology Transfers and Movement of Key Personnel https://economy.ac/",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T07:59:52.000Z",
-      "fetchedAt": "2026-10-27T13:38:22.908Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "https://economy.ac/",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Growing Confident in Its Technology, China Tightens Controls on Overseas Technology Transfers and Movement of Key Personnel https://economy.ac/",
-      "id": "a13"
-    },
-    {
-      "title": "SK Hynix, Samsung, Kioxia, CXMT Earnings Test AI Boom in Memory Market",
-      "url": "https://www.bloomberg.com/news/articles/2026-10-26/memory-titans-test-ai-demand-while-bubble-fears-transfix-markets",
-      "description": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T21:00:00.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.283Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "From South Korea to Japan and China, the world’s biggest memory chipmakers will this week seek to quell fears that AI spending is outpacing future demand. How they handle back-to-back earnings disclosures and investors’ questions will help determine the trajectory for markets and shed light on the broader outlook for the artificial intelligence industry.",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "Qualcomm (QCOM) Laps the Stock Market: Here's Why",
@@ -247,7 +330,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T20:45:03.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -255,27 +338,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the latest trading session, Qualcomm (QCOM) closed at $179.6, marking a +2.1% move from the previous day.",
-      "id": "a16"
-    },
-    {
-      "title": "TikTok Spends $325K Lobbying on Trade and Export Control Policy - Legis1",
-      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFB5ZGdPbVVzei0weXVXT1loSS03enpKWnFqQTZ5YVlqWTJHWEhZRWZoQXpUVGZSQ0RaQ2RvVVRRNkhmcXZDenJMNklfcTJUS2I1WHNaWk9FdkpjS2dVam1NWDVWMkpBMkNiaWVhYkJDbTJROHVJYWc?oc=5",
-      "description": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T18:37:41.000Z",
-      "fetchedAt": "2026-10-27T13:38:22.908Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Legis1",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "TikTok Spends $325K Lobbying on Trade and Export Control Policy Legis1",
-      "id": "a17"
+      "id": "a22"
     },
     {
       "title": "Is QUALCOMM (QCOM) Undervalued After Reaffirming Its Dividend?",
@@ -285,7 +348,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T17:08:33.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
+      "fetchedAt": "2026-10-27T18:59:57.814Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -293,65 +356,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
-      "id": "a18"
-    },
-    {
-      "title": "China’s New Trade Secret Rules: Punishing Foreign Companies That Steal Chinese Trade Secrets - Geopolitechs",
-      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5wQXFZSTAwN2ZPTWtFaHo5ZGlhUHcwRGd1TnBrNGE5SzJnUGtuX0V6YW9CdkVqZnNBY2R6UXVlbWlEWjlUZ0t3MWQzblRMZndiaTd5SFk0SWVwNGViSWs1VUphN1BNWmtIdGxOV0hlcGlsc09LV0NJ?oc=5",
-      "description": "China’s New Trade Secret Rules: Punishing Foreign Companies That Steal Chinese Trade Secrets Geopolitechs",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T17:01:15.000Z",
-      "fetchedAt": "2026-10-27T13:38:22.908Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Geopolitechs",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China’s New Trade Secret Rules: Punishing Foreign Companies That Steal Chinese Trade Secrets Geopolitechs",
-      "id": "a19"
-    },
-    {
-      "title": "UK Government Invests £600 Million in AI to Strengthen National Security - ADS Advance",
-      "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1pYXctSW40UVBSXzdnNS1hVE9vS0ZXWXR1T2NJRVZyclhkQmRORTAxQi1uSTA1cV9WQTVqTVZlOEU4RnRQcnc5WEd0OFlhajVXX3Zla1A0ek1QQ2EyaG4wNjNtY3VHNi1EaVFmSDlGY0pfd0lEcEoySg?oc=5",
-      "description": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T15:27:03.000Z",
-      "fetchedAt": "2026-10-27T13:38:22.908Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "ADS Advance",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "UK Government Invests £600 Million in AI to Strengthen National Security ADS Advance",
-      "id": "a20"
-    },
-    {
-      "title": "QUALCOMM Incorporated (QCOM) is Attracting Investor Attention: Here is What You Should Know",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-incorporated-qcom-attracting-investor-120004518.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-26T12:00:04.000Z",
-      "fetchedAt": "2026-10-27T13:38:16.125Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) has been one of the stocks most watched by Zacks.com users lately. So, it is worth exploring what lies ahead for the stock.",
-      "id": "a22"
+      "id": "a23"
     },
     {
       "title": "China’s top court clarifies when claim amendments can end drug patent-linkage cases: how U.S. Hatch-Waxman actions differ",
@@ -361,7 +366,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-26T08:38:59.000Z",
-      "fetchedAt": "2026-10-27T13:38:20.839Z",
+      "fetchedAt": "2026-10-27T19:00:05.431Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -370,7 +375,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
-      "id": "a23"
+      "id": "a25"
     },
     {
       "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -380,7 +385,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-27T13:38:18.535Z",
+      "fetchedAt": "2026-10-27T19:00:00.167Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -393,7 +398,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a24"
+      "id": "a26"
     }
   ]
 }
