@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-10-26T20:45:44.168Z",
+  "generatedAt": "2026-10-27T00:52:30.238Z",
   "date": "2026-10-27",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "One article today covering Patent Litigation. Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-te",
+    "summary": "One article today covering Patent Litigation. Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also conclud",
     "keyTakeaways": [
       {
-        "text": "Patent Litigation: Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The po",
+        "text": "Patent Litigation: Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also concluded that Arm intentionally acted to disrupt Qualcom",
         "articleIds": [
-          "a17"
+          "a3"
         ],
         "subCategory": "patent-litigation"
       }
@@ -17,22 +17,22 @@
   },
   "articles": [
     {
-      "title": "Arm Comments on Jury Decision in Qualcomm Trial",
-      "url": "https://www.eetimes.com/arm-comments-on-jury-decision-in-qualcomm-trial/",
-      "description": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-      "source": "EE Times",
-      "sourceId": "eetimes",
-      "sourceGroup": "semiconductor",
-      "publishedAt": "2026-10-24T00:00:00.000Z",
-      "fetchedAt": "2026-10-26T20:45:37.240Z",
+      "title": "Arm Holdings (ARM) Faces Jury Breach Ruling As It Unveils Server Security Tie Up",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/arm-holdings-arm-faces-jury-221537202.html?.tsrc=rss",
+      "description": "Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also concluded that Arm intentionally acted to disrupt Qualcomm's business in connection with the disputed licensing arrangements. Separately, Arm announced a collaboration with Axiado to integrate secure control modules into its AGI CPU server platform for data centers. The jury ruling and the new Axiado security tie up only capture part of the Arm story...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-26T22:15:37.000Z",
+      "fetchedAt": "2026-10-27T00:52:24.184Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
       "subLabel": "Patent Litigation",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Arm's Ami Badani cites the $2 nominal damages award as validation, while chip design experts point to open architectures such as RISC-V as the long-term alternative for AI workload flexibility. The post Arm Comments on Jury Decision in Qualcomm Trial appeared first on EE Times.",
-      "id": "a17"
+      "summary": "Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also concluded that Arm intentionally acted to disrupt Qualcomm's business in connection with the disputed licensing arrangements. Separately, Arm announced a collaboration with Axiado to integrate secure control modules into its AGI CPU server platform for data centers. The jury ruling and the new Axiado security tie up only capture part of the Arm story...",
+      "id": "a3"
     }
   ]
 }

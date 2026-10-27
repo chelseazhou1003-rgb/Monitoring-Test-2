@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-26T20:45:44.168Z",
+  "generatedAt": "2026-10-27T00:52:30.238Z",
   "date": "2026-10-27",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
-          "a14"
+          "a18"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-26T20:45:38.833Z",
+      "fetchedAt": "2026-10-27T00:52:26.058Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -37,7 +37,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a14"
+      "id": "a18"
     }
   ]
 }
