@@ -1,42 +1,156 @@
 {
-  "generatedAt": "2026-10-28T02:36:20.818Z",
+  "generatedAt": "2026-10-28T09:00:27.509Z",
   "date": "2026-10-28",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (6 articles), Customers & Partners (2 articles). A total of 19 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (7 articles), Customers & Partners (2 articles). A total of 23 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: House sends CHIPS Act to Biden’s desk TechTarget",
+        "text": "Geopolitics & Export Controls: China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
         "articleIds": [
-          "a1"
+          "a2"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Chinese technology hardware firms face a challenge to impress investors with their upcoming earnings reports after a brutal selloff in sector stocks.",
+        "text": "market-performance: ‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
         "articleIds": [
-          "a2"
+          "a6"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Customers & Partners: Anduril, Qualcomm partner on new line of US-made laptops Reuters",
         "articleIds": [
-          "a5"
+          "a12"
         ],
         "subCategory": "customers-partners"
       },
       {
         "text": "Supply Chain: Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
         "articleIds": [
-          "a10"
+          "a17"
         ],
         "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
+      "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
+      "description": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T07:46:39.000Z",
+      "fetchedAt": "2026-10-28T09:00:17.376Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
+      "id": "a2"
+    },
+    {
+      "title": "The AI bubble already popped — in China",
+      "url": "https://www.ft.com/content/6abfda69-f4f7-45d5-922c-f4b65a72bcdc?syn-25a6b1a6=1",
+      "description": "Plus, two cheers for CGBs",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T06:30:03.000Z",
+      "fetchedAt": "2026-10-28T09:00:17.979Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Plus, two cheers for CGBs",
+      "id": "a3"
+    },
+    {
+      "title": "Tsinghua Uni's Zhang on AI Innovation Outlook",
+      "url": "https://www.bloomberg.com/news/videos/2026-10-28/tsinghua-uni-s-zhang-on-ai-innovation-outlook-video",
+      "description": "Zhang Yaqin, Chair Professor and Founding Dean of AI Industry Research, and former President of Chinese tech firm, Baidu, discusses his outlook for AI innovation coming from university labs in China. He speaks with David Ingles on the sidelines of the One Earth Summit in Hong Kong on \"Bloomberg: The Asia Trade\". (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T04:09:00.000Z",
+      "fetchedAt": "2026-10-28T09:00:19.573Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Zhang Yaqin, Chair Professor and Founding Dean of AI Industry Research, and former President of Chinese tech firm, Baidu, discusses his outlook for AI innovation coming from university labs in China. He speaks with David Ingles on the sidelines of the One Earth Summit in Hong Kong on \"Bloomberg: The Asia Trade\".",
+      "id": "a4"
+    },
+    {
+      "title": "China Set to Lead in AI Models, Other Key Areas by 2030, BI Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-10-28/china-set-to-lead-in-ai-models-other-key-areas-by-2030-bi-says",
+      "description": "China is well placed to lead the world by 2030 in the large language models at the core of artificial intelligence, and will be at least competitive in every other strategically important technology, according to a new Bloomberg Intelligence report.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T03:55:46.000Z",
+      "fetchedAt": "2026-10-28T09:00:19.573Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China is well placed to lead the world by 2030 in the large language models at the core of artificial intelligence, and will be at least competitive in every other strategically important technology, according to a new Bloomberg Intelligence report.",
+      "id": "a5"
+    },
+    {
+      "title": "China rushes to shore up struggling markets",
+      "url": "https://www.ft.com/content/2bb82c45-04b2-4ccc-9002-f54483fb044e?syn-25a6b1a6=1",
+      "description": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T03:54:50.000Z",
+      "fetchedAt": "2026-10-28T09:00:17.979Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "‘National team’ of funds and brokers buy stocks as investors turn away from AI trade",
+      "id": "a6"
+    },
+    {
+      "title": "Kylian Mbappé faces China backlash as sponsors cut ties over viral meme",
+      "url": "https://www.cnbc.com/2026/10/28/china-mbappe-football-sponsor-meme-controversy.html",
+      "description": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T03:33:53.000Z",
+      "fetchedAt": "2026-10-28T09:00:17.376Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Chinese state media has warned Kylian Mbappé that his apology over remarks referring to Mao Zedong as a dictator will be judged against his actions.",
+      "id": "a7"
+    },
     {
       "title": "House sends CHIPS Act to Biden’s desk - TechTarget",
       "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOeGx3dDlvT0V2enUxOFN5TzdLWGllWGdaLXVSZ3JBVnlLaldjblNJVGIySnQ3R0JmUWpFTy1kT2RjTHNEWWIwY1I2NHoyMXVoWGVQazR2b240Wk5hTS1vQXBJNElMcndrcHExN25XNk9YYUloQVBEaGpqNWwzS1ZyQ1p3?oc=5",
@@ -45,7 +159,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T00:03:38.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TechTarget",
       "geopoliticalBypass": true,
@@ -55,7 +169,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "House sends CHIPS Act to Biden’s desk TechTarget",
-      "id": "a1"
+      "id": "a8"
     },
     {
       "title": "China AI Hardware Firms Face Earnings Test After Stock Selloff",
@@ -65,7 +179,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T23:00:00.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.629Z",
+      "fetchedAt": "2026-10-28T09:00:19.573Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -74,7 +188,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chinese technology hardware firms face a challenge to impress investors with their upcoming earnings reports after a brutal selloff in sector stocks.",
-      "id": "a2"
+      "id": "a9"
     },
     {
       "title": "El-Sayed Is National Security Threat, Gov’t Says - Ken Klippenstein | Substack",
@@ -84,7 +198,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T22:24:17.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Ken Klippenstein | Substack",
       "geopoliticalBypass": true,
@@ -94,7 +208,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "El-Sayed Is National Security Threat, Gov’t Says Ken Klippenstein | Substack",
-      "id": "a3"
+      "id": "a10"
     },
     {
       "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
@@ -104,7 +218,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T20:03:35.000Z",
-      "fetchedAt": "2026-10-28T02:36:19.538Z",
+      "fetchedAt": "2026-10-28T09:00:26.190Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "macro-environment",
@@ -113,7 +227,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-      "id": "a4"
+      "id": "a11"
     },
     {
       "title": "Anduril, Qualcomm partner on new line of US-made laptops - Reuters",
@@ -123,7 +237,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T19:47:05.000Z",
-      "fetchedAt": "2026-10-28T02:36:19.537Z",
+      "fetchedAt": "2026-10-28T09:00:26.190Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "macro-environment",
@@ -132,7 +246,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril, Qualcomm partner on new line of US-made laptops Reuters",
-      "id": "a5"
+      "id": "a12"
     },
     {
       "title": "The U.S.-Taiwan ART’s Export Control Puzzle - Lawfare",
@@ -142,7 +256,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T18:05:06.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Lawfare",
       "geopoliticalBypass": true,
@@ -152,7 +266,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
-      "id": "a7"
+      "id": "a14"
     },
     {
       "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
@@ -162,7 +276,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T18:00:43.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -170,7 +284,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
-      "id": "a8"
+      "id": "a15"
     },
     {
       "title": "Honda warns 50% Canada auto tariffs would be catastrophic for industry",
@@ -180,7 +294,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T17:53:47.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.317Z",
+      "fetchedAt": "2026-10-28T09:00:17.376Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -189,7 +303,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "President Donald Trump has threatened to double tariffs on Canadian vehicles and parts from 25% to 50% if a trade deal is not reached between the two countries.",
-      "id": "a9"
+      "id": "a16"
     },
     {
       "title": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain - BigGo Finance",
@@ -199,7 +313,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T17:35:00.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "BigGo Finance",
       "section": "macro-environment",
@@ -208,7 +322,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-      "id": "a10"
+      "id": "a17"
     },
     {
       "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
@@ -218,7 +332,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T15:04:52.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "customers-partners",
@@ -226,7 +340,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
-      "id": "a11"
+      "id": "a18"
     },
     {
       "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -236,7 +350,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:00:00.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
@@ -244,7 +358,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-      "id": "a15"
+      "id": "a23"
     },
     {
       "title": "Singapore, Germany target applied AI",
@@ -254,7 +368,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-27T11:39:45.000Z",
-      "fetchedAt": "2026-10-28T02:36:18.174Z",
+      "fetchedAt": "2026-10-28T09:00:25.514Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -263,7 +377,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-      "id": "a16"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?",
@@ -273,7 +387,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T11:23:44.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -281,46 +395,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
-      "id": "a17"
-    },
-    {
-      "title": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding - TechRepublic",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQN0dkV1hodXpsY3phUVZGRGJnTElkbHZHdEV0Vl9Qa0xqU0oxRTZFZFFXYUFmQURRZXFMa2t0SFozWGl0UzJIODExTjIwZndLcDdIOXFnM1V5amRPclNDNE52T2d1OC1xWGExOTJrbjcxaXVzanVXc29XdEU3bHBPRVUwVFBicFNMWVdvclRKOW9yaHpiLUI3Nl9R?oc=5",
-      "description": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding TechRepublic",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T10:53:16.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "TechRepublic",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "New US China Investment Proposal Could Reshape AI, Biotech and Chip Funding TechRepublic",
-      "id": "a18"
-    },
-    {
-      "title": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-      "url": "https://www.cnbc.com/2026/10/27/arctic-shipping-china-and-russia-expand-grip-can-europe-fight-back.html",
-      "description": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T01:24:28.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.317Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China and Russia are tightening their grip on Arctic shipping routes, turning the rapidly warming region into a new geopolitical battleground with Europe.",
-      "id": "a19"
+      "id": "a25"
     },
     {
       "title": "Qualcomm (QCOM) Laps the Stock Market: Here's Why",
@@ -330,7 +405,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T20:45:03.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -338,7 +413,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "In the latest trading session, Qualcomm (QCOM) closed at $179.6, marking a +2.1% move from the previous day.",
-      "id": "a21"
+      "id": "a27"
     },
     {
       "title": "Is QUALCOMM (QCOM) Undervalued After Reaffirming Its Dividend?",
@@ -348,7 +423,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T17:08:33.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -356,7 +431,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (QCOM) reaffirmed its quarterly cash dividend, maintaining the payout at US$0.92 per share for stockholders of record on December 3, with payment scheduled for December 17, 2026. QUALCOMM shares trade at US$175.91, with a 1-day share price return of 1.78% and a 7-day gain of 1.37%. The 30-day share price return is down 12.9%, suggesting near term momentum has cooled. However, the 3-year total shareholder return of 73.83% and 5-year total shareholder return of 45.47% still point to a...",
-      "id": "a22"
+      "id": "a28"
     },
     {
       "title": "China’s top court clarifies when claim amendments can end drug patent-linkage cases: how U.S. Hatch-Waxman actions differ",
@@ -366,7 +441,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-26T08:38:59.000Z",
-      "fetchedAt": "2026-10-28T02:36:18.904Z",
+      "fetchedAt": "2026-10-28T09:00:23.576Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -375,7 +450,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Narrowing claims can save a drug patent but end its pending linkage case in China. A newly posted Supreme People’s Court case explains when that can happen, while U.S. Hatch-Waxman cases illustrate different requirements for litigating amended claims before launch.",
-      "id": "a24"
+      "id": "a30"
     },
     {
       "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
@@ -385,7 +460,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-28T02:36:15.887Z",
+      "fetchedAt": "2026-10-28T09:00:21.999Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -398,7 +473,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a25"
+      "id": "a31"
     }
   ]
 }

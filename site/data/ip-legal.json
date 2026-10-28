@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T02:36:20.818Z",
+  "generatedAt": "2026-10-28T09:00:27.509Z",
   "date": "2026-10-28",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "Patent Litigation: Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also concluded that Arm intentionally acted to disrupt Qualcom",
         "articleIds": [
-          "a20"
+          "a26"
         ],
         "subCategory": "patent-litigation"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T22:15:37.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "patent-litigation",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also concluded that Arm intentionally acted to disrupt Qualcomm's business in connection with the disputed licensing arrangements. Separately, Arm announced a collaboration with Axiado to integrate secure control modules into its AGI CPU server platform for data centers. The jury ruling and the new Axiado security tie up only capture part of the Arm story...",
-      "id": "a20"
+      "id": "a26"
     }
   ]
 }

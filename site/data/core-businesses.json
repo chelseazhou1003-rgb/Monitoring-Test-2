@@ -1,35 +1,54 @@
 {
-  "generatedAt": "2026-10-28T02:36:20.818Z",
+  "generatedAt": "2026-10-28T09:00:27.509Z",
   "date": "2026-10-28",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
+        "text": "Semiconductors: Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
         "articleIds": [
-          "a6"
-        ],
-        "subCategory": "wireless"
-      },
-      {
-        "text": "Semiconductors: Anduril, Qualcomm Launch BlueChip: Fully US-Made Laptop The Tech Buzz",
-        "articleIds": [
-          "a12"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
+        "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
+        "articleIds": [
+          "a13"
+        ],
+        "subCategory": "wireless"
+      },
+      {
         "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
         "articleIds": [
-          "a14"
+          "a22"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
+      "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXZONm5rNGV1Q2k4b2lGUXdiNDA0MVQyUXdjSmNJeUNFVTdQM3hOM1lDRFVvM1lWTDczOEF0amx6OU9IV3A2OEVSYUhkTmF6cklERUVhVGVfTWFVcHp2MzVQVUs1bjBuVE93OHdGSE93UVJCUzFNeDI1NEFDY2VFNVR0SnpFNngtT0xwZmxiWklrVVBkZ3RsUlRhd3FBdjhSWjdyclo4TzlnQdIBtwFBVV95cUxOSVMySHlFNTNaaHJuMktVa3hKLUJBSTM5OGVidWJydS12c0hPbkRUMGg2dDVEWjlpZkc1a0lBRmdsSk84ZW9JN3o2YVVOTWNjTHI0R2dETjc2SU1QRHU1LW5KTkZXd3doMmdpX3hmUS0wQmNSUW1lcXRyNDQxZ19lWkxHOEVEcmdSMm9tS2p5d3RuSEVPdWVKeWVNSm9YUUtwSkx0UEwzMndjRzFQRFBFSWMwTFFXRWs?oc=5",
+      "description": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T08:06:13.000Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Analytics Insight",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
+      "id": "a1"
+    },
     {
       "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
       "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-bluechip-government-190527671.html?.tsrc=rss",
@@ -38,7 +57,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T19:05:27.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -46,7 +65,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-      "id": "a6"
+      "id": "a13"
     },
     {
       "title": "Anduril, Qualcomm Launch BlueChip: Fully US-Made Laptop - The Tech Buzz",
@@ -56,7 +75,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T14:03:00.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Tech Buzz",
       "section": "core-businesses",
@@ -65,7 +84,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril, Qualcomm Launch BlueChip: Fully US-Made Laptop The Tech Buzz",
-      "id": "a12"
+      "id": "a19"
     },
     {
       "title": "Anduril and Qualcomm Unveil BlueChip to Rebuild American Computer Manufacturing - Qualcomm",
@@ -75,7 +94,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:44:47.000Z",
-      "fetchedAt": "2026-10-28T02:36:20.785Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Qualcomm",
       "section": "core-businesses",
@@ -84,7 +103,26 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril and Qualcomm Unveil BlueChip to Rebuild American Computer Manufacturing Qualcomm",
-      "id": "a13"
+      "id": "a20"
+    },
+    {
+      "title": "Anduril and Qualcomm are unveiling a U.S.-made laptop for defense and government - Quartz",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE92cWhlNlpGbDVjOWN1WlRpUkV1bWx6emhKaXB4YThCTGMtOGFwRU5sQVdBbWdIMk9yb3lQR2V3TE5CU1NaSmhhUHRRQm41RFJSUVdqY0RFNXMzcHJwWS11UDdpS1VydUQ5N1dJVlFSNXNlZHZDYnhIc0hR?oc=5",
+      "description": "Anduril and Qualcomm are unveiling a U.S.-made laptop for defense and government Quartz",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-27T13:30:10.000Z",
+      "fetchedAt": "2026-10-28T09:00:27.466Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Quartz",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Anduril and Qualcomm are unveiling a U.S.-made laptop for defense and government Quartz",
+      "id": "a21"
     },
     {
       "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -94,7 +132,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:02:34.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -102,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-      "id": "a14"
+      "id": "a22"
     },
     {
       "title": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
@@ -112,7 +150,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-26T14:26:00.000Z",
-      "fetchedAt": "2026-10-28T02:36:13.296Z",
+      "fetchedAt": "2026-10-28T09:00:17.532Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -122,7 +160,7 @@
         "foundry"
       ],
       "summary": "Boost ROI by automating SoC design, reusing validated IP, cutting development time and costs, targeting AI/5G, and acquiring high-speed connectivity capabilities.Dublin, Oct. 26, 2026 (GLOBE NEWSWIRE) -- \"Custom System-On-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026\" has been added to ResearchAndMarkets.com's offering. Custom System-on-Chip ASIC Market Projected to Reach $37.62 Billion by 2030 The global custom system-on-chip application-specific integrated circu",
-      "id": "a23"
+      "id": "a29"
     }
   ]
 }
