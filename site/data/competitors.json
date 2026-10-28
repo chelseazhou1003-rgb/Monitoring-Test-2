@@ -1,43 +1,11 @@
 {
-  "generatedAt": "2026-10-28T09:00:27.509Z",
-  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T16:17:30.855Z",
+  "date": "2026-10-29",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-    "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "articleIds": [
-          "a31"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "url": "https://www.iam-media.com/article/les-annual-meeting-apple-v-openai-discovery-eu-countries-sep-regulation-push-beijing-biotech-export-controls-quarterly-dtsa-filing-data-plus-much-more",
-      "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-10-25T11:30:33.000Z",
-      "fetchedAt": "2026-10-28T09:00:21.999Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [
-        "apple"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a31"
-    }
-  ]
+  "articles": []
 }

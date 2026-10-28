@@ -1,20 +1,20 @@
 {
-  "generatedAt": "2026-10-28T09:00:27.511Z",
-  "date": "2026-10-28",
+  "generatedAt": "2026-10-28T16:17:30.858Z",
+  "date": "2026-10-29",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 7,
-      "topHeadline": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
+      "articleCount": 5,
+      "topHeadline": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 1,
-      "topHeadline": "Arm Holdings (ARM) Faces Jury Breach Ruling As It Unveils Server Security Tie Up",
-      "topHeadlineId": "a26",
-      "briefingSummary": "One article today covering Patent Litigation. Arm Holdings (NasdaqGS:ARM) was found by a jury to have breached its longstanding Architectural License Agreement with Qualcomm. The jury also conclud"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "growth-areas": {
       "title": "Growth Areas",
@@ -25,25 +25,25 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 23,
-      "topHeadline": "China and Russia are redrawing Arctic trade. Can Europe fight back?",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (7 articles), Customers & Partners (2 articles). A total of 23 articles were aggregated from monitored sources."
+      "articleCount": 18,
+      "topHeadline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
-      "articleCount": 1,
-      "topHeadline": "LES annual meeting; Apple v OpenAI discovery; EU countries SEP regulation push; Beijing biotech export controls; quarterly DTSA filing data;&nbsp;plus much more",
-      "topHeadlineId": "a31",
-      "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Custom System-on-Chip Application-Specific Integrated Circuit (ASIC) Market Global Report 2026 | Capitalize on AI and 5G Demand with NVIDIA, Qualcomm, Broadcom and TSMC",
-      "topHeadlineId": "a29",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 0,
+      "topHeadline": null,
+      "topHeadlineId": null,
+      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     }
   },
-  "totalArticles": 34
+  "totalArticles": 23
 }
