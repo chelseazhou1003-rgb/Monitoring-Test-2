@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-28T16:17:30.858Z",
+  "generatedAt": "2026-10-28T21:21:40.832Z",
   "date": "2026-10-29",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
-      "topHeadline": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 18,
-      "topHeadline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+      "articleCount": 16,
+      "topHeadline": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 0,
-      "topHeadline": null,
-      "topHeadlineId": null,
-      "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+      "articleCount": 2,
+      "topHeadline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 23
+  "totalArticles": 25
 }

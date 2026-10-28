@@ -1,11 +1,69 @@
 {
-  "generatedAt": "2026-10-28T16:17:30.855Z",
+  "generatedAt": "2026-10-28T21:21:40.830Z",
   "date": "2026-10-29",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
+        "articleIds": [
+          "a2"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
+      {
+        "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
+        "articleIds": [
+          "a7"
+        ],
+        "subCategory": "semiconductors"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+      "description": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade, eventually requiring telecom providers to “rip and replace” their gear. (Many telecoms have still failed to do so.) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security. Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone company Xtra claims it’s ‘in close communication’ with the FCC. DJI camera clone company Xtra is halting and refunding all preorders Whack-a-drone The FCC is planning to retroactively ban disguised DJI gadgets The FCC is cracking down on DJI tech that dodged the foreign drone ban The FCC is saving Amazon’s Eero and Leo routers from its ban, too. Netgear and the FCC have not responded to our emails. The FCC just saved Netgear from its router ban for no obvious reason Sorry kid, drones are for war now Asus is the latest with a nothing statement about the US router ban. The United States router ban, explained The US government just banned consumer routers made outside the US DJI sues over the FCC’s decision to block new drone imports The FCC’s foreign drone ban is here The FCC just gave itself the power to make a DJI drone ban stick Xtra: the company that lets DJI sneak its popular cameras into the US DJI couldn’t confirm or deny it disguised this drone to evade a US ban DJI explains why it won’t stop drones from flying over the White House — and what happens in a US ban US targets TP-Link with a potential ban on the Chinese routers DJI might get banned next in the US",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-28T19:37:31.000Z",
+      "fetchedAt": "2026-10-28T21:21:33.626Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
+      "id": "a2"
+    },
+    {
+      "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+      "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+      "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T16:26:03.000Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+      "id": "a7"
+    }
+  ]
 }

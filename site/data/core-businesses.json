@@ -1,35 +1,73 @@
 {
-  "generatedAt": "2026-10-28T16:17:30.855Z",
+  "generatedAt": "2026-10-28T21:21:40.830Z",
   "date": "2026-10-29",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
+        "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
         "articleIds": [
-          "a3"
+          "a5"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
         "articleIds": [
-          "a15"
+          "a18"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
         "articleIds": [
-          "a20"
+          "a21"
         ],
         "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
+      "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
+      "description": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T17:20:17.000Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+      "id": "a5"
+    },
+    {
+      "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+      "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+      "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-28T16:26:03.000Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "foundry"
+      ],
+      "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+      "id": "a7"
+    },
     {
       "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
       "url": "https://finance.yahoo.com/technology/ai/articles/ibm-vs-qualcomm-ai-tech-134700793.html?.tsrc=rss",
@@ -38,7 +76,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T13:47:00.000Z",
-      "fetchedAt": "2026-10-28T16:17:23.787Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +84,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-      "id": "a3"
+      "id": "a9"
     },
     {
       "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -56,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T12:51:16.000Z",
-      "fetchedAt": "2026-10-28T16:17:23.787Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-      "id": "a6"
+      "id": "a11"
     },
     {
       "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
@@ -74,7 +112,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T08:06:13.000Z",
-      "fetchedAt": "2026-10-28T16:17:30.815Z",
+      "fetchedAt": "2026-10-28T21:21:40.794Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Analytics Insight",
       "section": "core-businesses",
@@ -83,7 +121,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-      "id": "a10"
+      "id": "a15"
     },
     {
       "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
@@ -93,7 +131,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T19:05:27.000Z",
-      "fetchedAt": "2026-10-28T16:17:23.787Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -101,7 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-      "id": "a15"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -111,7 +149,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-27T13:02:34.000Z",
-      "fetchedAt": "2026-10-28T16:17:23.787Z",
+      "fetchedAt": "2026-10-28T21:21:32.958Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -119,7 +157,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-      "id": "a20"
+      "id": "a21"
     }
   ]
 }

@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,37 +13,75 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
+          "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
           "articleIds": [
-            "a3"
+            "a5"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
           "articleIds": [
-            "a15"
+            "a18"
           ],
           "subCategory": "wireless"
         },
         {
           "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
           "articleIds": [
-            "a20"
+            "a21"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
+        "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
+        "description": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T17:20:17.000Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+        "id": "a5"
+      },
+      {
+        "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+        "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+        "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T16:26:03.000Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "foundry"
+        ],
+        "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+        "id": "a7"
+      },
       {
         "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
         "url": "https://finance.yahoo.com/technology/ai/articles/ibm-vs-qualcomm-ai-tech-134700793.html?.tsrc=rss",
@@ -52,7 +90,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:47:00.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +98,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-        "id": "a3"
+        "id": "a9"
       },
       {
         "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -70,7 +108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T12:51:16.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -78,7 +116,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-        "id": "a6"
+        "id": "a11"
       },
       {
         "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
@@ -88,7 +126,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T08:06:13.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.815Z",
+        "fetchedAt": "2026-10-28T21:21:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Analytics Insight",
         "section": "core-businesses",
@@ -97,7 +135,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-        "id": "a10"
+        "id": "a15"
       },
       {
         "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
@@ -107,7 +145,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T19:05:27.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -115,7 +153,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-        "id": "a15"
+        "id": "a18"
       },
       {
         "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -125,7 +163,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T13:02:34.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -133,12 +171,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-        "id": "a20"
+        "id": "a21"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -149,7 +187,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -160,15 +198,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-28T16:17:30.858Z",
+    "generatedAt": "2026-10-28T21:21:40.832Z",
     "date": "2026-10-29",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
-        "topHeadline": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
-        "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+        "articleCount": 7,
+        "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -186,10 +224,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 18,
-        "topHeadline": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
+        "articleCount": 16,
+        "topHeadline": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -200,24 +238,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 0,
-        "topHeadline": null,
-        "topHeadlineId": null,
-        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
+        "articleCount": 2,
+        "topHeadline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 23
+    "totalArticles": 25
   },
   "macro-environment": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
+          "text": "Geopolitics & Export Controls: Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
           "articleIds": [
             "a1"
           ],
@@ -226,27 +264,62 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
           "articleIds": [
-            "a5"
+            "a10"
           ],
           "subCategory": "market-performance"
         },
         {
-          "text": "Customers & Partners: Anduril, Qualcomm partner on new line of US-made laptops Reuters",
+          "text": "Customers & Partners: Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing",
           "articleIds": [
-            "a14"
+            "a20"
           ],
           "subCategory": "customers-partners"
-        },
-        {
-          "text": "Supply Chain: Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-          "articleIds": [
-            "a18"
-          ],
-          "subCategory": "supply-chain"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
+        "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVhpN2NDR3FxbHpQcWc2aDhDMjdfQnRlOEpENlBhejdDeWY3VENQSC04NDlwaE43SUZLMFBHV2kwWHRBU1ZLX09Bd3Ftc3hRejlUaTg2dWxuajNxMjZEMEtSbFo3OTlpWDNsRFVMeC1VS01pc1U2WldyZmREc19RS3AwTWQ0dDlYUnc?oc=5",
+        "description": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T20:04:33.000Z",
+        "fetchedAt": "2026-10-28T21:21:40.793Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "JD Supra",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
+        "id": "a1"
+      },
+      {
+        "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+        "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+        "description": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade, eventually requiring telecom providers to “rip and replace” their gear. (Many telecoms have still failed to do so.) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security. Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone company Xtra claims it’s ‘in close communication’ with the FCC. DJI camera clone company Xtra is halting and refunding all preorders Whack-a-drone The FCC is planning to retroactively ban disguised DJI gadgets The FCC is cracking down on DJI tech that dodged the foreign drone ban The FCC is saving Amazon’s Eero and Leo routers from its ban, too. Netgear and the FCC have not responded to our emails. The FCC just saved Netgear from its router ban for no obvious reason Sorry kid, drones are for war now Asus is the latest with a nothing statement about the US router ban. The United States router ban, explained The US government just banned consumer routers made outside the US DJI sues over the FCC’s decision to block new drone imports The FCC’s foreign drone ban is here The FCC just gave itself the power to make a DJI drone ban stick Xtra: the company that lets DJI sneak its popular cameras into the US DJI couldn’t confirm or deny it disguised this drone to evade a US ban DJI explains why it won’t stop drones from flying over the White House — and what happens in a US ban US targets TP-Link with a potential ban on the Chinese routers DJI might get banned next in the US",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-28T19:37:31.000Z",
+        "fetchedAt": "2026-10-28T21:21:33.626Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
+        "id": "a2"
+      },
       {
         "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
         "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
@@ -254,8 +327,8 @@ export const NEWS_DATA = {
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T16:07:17.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.775Z",
+        "publishedAt": "2026-10-28T17:39:43.000Z",
+        "fetchedAt": "2026-10-28T21:21:32.894Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -264,7 +337,45 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-        "id": "a1"
+        "id": "a3"
+      },
+      {
+        "title": "Palantir’s Defense Chief Sees China Threat to Taiwan Over AI",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-28/palantir-s-defense-chief-sees-chinese-threat-to-taiwan-over-ai",
+        "description": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T17:26:53.000Z",
+        "fetchedAt": "2026-10-28T21:21:33.161Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
+        "id": "a4"
+      },
+      {
+        "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
+        "url": "https://ipwatchdog.com/2026/10/28/c4ip-urges-treasury-to-reconsider-proposed-rule-to-extend-coins-act-investment-restrictions-to-biotech/",
+        "description": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "source": "IPWatchdog",
+        "sourceId": "ipwatchdog",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-10-28T17:15:58.000Z",
+        "fetchedAt": "2026-10-28T21:21:36.319Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+        "id": "a6"
       },
       {
         "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Forbes",
@@ -274,7 +385,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T15:00:34.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.793Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Forbes",
         "geopoliticalBypass": true,
@@ -284,26 +395,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Technology Out Of China Will Not Boost National Security Forbes",
-        "id": "a2"
-      },
-      {
-        "title": "Why China is desperate to ship cars outside of the country",
-        "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-        "description": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T13:17:20.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.775Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -313,7 +405,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:00:11.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -321,7 +413,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-        "id": "a5"
+        "id": "a10"
       },
       {
         "title": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach - Yahoo Finance",
@@ -331,7 +423,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T10:25:39.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Yahoo Finance",
         "geopoliticalBypass": true,
@@ -341,27 +433,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-        "id": "a7"
+        "id": "a12"
       },
       {
-        "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - 95.5 WSB",
-        "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0YyTEFNMkhxZ25ZVVAyVW9tOTFHaUNRdjcwWFUwUTBFTGdLTkktaVlIUFNxNEd4Z0lhYVAwd0UtaDdUcXl1ZXd6NEpHZjVSaTNuZjZBMW5GbGZiZjYyYU00Wkc2dU5aN0h2VDRLb3FBeVhCLXFlRzNFZld1d3BfUWdrWm9mSnNrQ2tVZWhndHAwbTc1TnJsLUtzSk9VdEFt0gGgAUFVX3lxTFBjRjJMQU0ySHFnbllVUDJVb205MUdpQ1F2NzBYVTBRMEVMZ0tOSS1pWUhQU3E0R3hnSWFhUDB3RS1oN1RxeXVld3o0SkdmNVJpM25mNkExbkZsZmJmNjJhTTRaRzZ1Tlo3SHZUNEtvcUF5WEItcWVHM0VmV3V3cF9RZ2tab2ZKc2tDa1VlaGd0cDBtNzVOcmwtS3NKT1V0QW0?oc=5",
-        "description": "Malaysia seizes servers with advanced AI chips suspected of violating export controls 95.5 WSB",
+        "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - WFTV",
+        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXJTOEJEWUNFb05FMzF6ZlFQek5jX2lyT25HUkhaeHFCVjVqX2lyZ2ItU2U0UlFlbGhsY1JUTUJwQ3JZeEpFMC1WQUhXanZfVkx1b0d6SnVPc0FvekxLMlBUOUl4eXdGNV9WdEF3ZE4wNUdsa01lVU1oSlYzOGVNVEtBZGVyVzDSAZsBQVVfeXFMUENBd1FIVnJYdVlwMFRLcWx5WDlCLVZWUlpfVUNsQUJiQXUyTy02c3FDdTEyTlZabkJiU2Foc29vcVRBS0VmblE0bWJZR0hYbVExLXJxTDc1OF9xd2V2SzZWTzVkSHVLZ2lCcVQwMlc1WDVjR1pmVDFXX1dYVnRudFpMcTNrczRsY2ZKdk50ZG1iTGNYOE5HQmJPWUk?oc=5",
+        "description": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T10:16:04.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.793Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "95.5 WSB",
+        "googleNewsSource": "WFTV",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls 95.5 WSB",
-        "id": "a8"
+        "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
+        "id": "a13"
       },
       {
         "title": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 - EPP Group in the European Parliament",
@@ -371,7 +463,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T09:47:54.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.793Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EPP Group in the European Parliament",
         "geopoliticalBypass": true,
@@ -381,7 +473,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 EPP Group in the European Parliament",
-        "id": "a9"
+        "id": "a14"
       },
       {
         "title": "House sends CHIPS Act to Biden’s desk - TechTarget",
@@ -391,7 +483,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T00:03:38.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.793Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TechTarget",
         "geopoliticalBypass": true,
@@ -401,7 +493,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "House sends CHIPS Act to Biden’s desk TechTarget",
-        "id": "a11"
+        "id": "a16"
       },
       {
         "title": "El-Sayed Is National Security Threat, Gov’t Says - Ken Klippenstein | Substack",
@@ -411,7 +503,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T22:24:17.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
+        "fetchedAt": "2026-10-28T21:21:40.794Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Ken Klippenstein | Substack",
         "geopoliticalBypass": true,
@@ -421,65 +513,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "El-Sayed Is National Security Threat, Gov’t Says Ken Klippenstein | Substack",
-        "id": "a12"
-      },
-      {
-        "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
-        "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T20:03:35.000Z",
-        "fetchedAt": "2026-10-28T16:17:29.726Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-        "id": "a13"
-      },
-      {
-        "title": "Anduril, Qualcomm partner on new line of US-made laptops - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajY3REVkVWNuQ0FsZmlDYnh3aVVMYTBHRlp0NVhXTEJqa0cwYktaelNHeG1lLWppTjdaV0g4eHhfV3dxNHFqOEJ1UEI3RXl5VWMxMEtnUXM2eGxfdi1fQ0RVdUR5TzhUeW5pZEJqbTZiVEtqbjBGQWxjRjltbkNEb0pXdTltZFVoVDA1dHpMTWFTcGJPaUlRWFNGckd0TnRTZ1hGTnZqMkJTdU9pQWtNcFhn?oc=5",
-        "description": "Anduril, Qualcomm partner on new line of US-made laptops Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T19:47:05.000Z",
-        "fetchedAt": "2026-10-28T16:17:29.726Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Anduril, Qualcomm partner on new line of US-made laptops Reuters",
-        "id": "a14"
-      },
-      {
-        "title": "The U.S.-Taiwan ART’s Export Control Puzzle - Lawfare",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkhxSlNNd1gtOE1GcWhBbHczaWZrYnBJMWUzQzg0ajBqMUtNMko3a0dXanFjYzlsX05WM2ZPVEo1VUxVcGo5OXFoeHdzek5pbUJDVG1UZUJ6ZUV4TGNhMEJnV2xISU5SUWNpNDhIaW5icWFIejk4ck9nM3dYLUhDT2VoZkhjbTQ?oc=5",
-        "description": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T18:05:06.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Lawfare",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
-        "id": "a16"
+        "id": "a17"
       },
       {
         "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
@@ -489,7 +523,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T18:00:43.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -497,26 +531,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
-        "id": "a17"
-      },
-      {
-        "title": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GWnY0eU1IOF9qRVBad3hVTjlTWFAtLUgwV1RSLWFUVURtUER2cnFqVXFBeFBYc1JEX0NnUFBuNVpRQW9xRmtjNzczSDRtQ2xUdU01eF9jTXM2c2lTSDRqaGgwZHpjdGtfQXVaZEI2N05vcjFOQnc?oc=5",
-        "description": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T17:35:00.000Z",
-        "fetchedAt": "2026-10-28T16:17:30.814Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "BigGo Finance",
-        "section": "macro-environment",
-        "subCategory": "supply-chain",
-        "subLabel": "Supply Chain",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
@@ -526,7 +541,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T15:04:52.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -534,7 +549,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -544,7 +559,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T13:00:00.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -552,7 +567,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "Singapore, Germany target applied AI",
@@ -562,7 +577,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-27T11:39:45.000Z",
-        "fetchedAt": "2026-10-28T16:17:28.436Z",
+        "fetchedAt": "2026-10-28T21:21:38.576Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -571,24 +586,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-        "id": "a22"
-      },
-      {
-        "title": "Qualcomm Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?",
-        "url": "https://www.tikr.com/blog/qualcomm-just-dropped-13-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T11:23:44.000Z",
-        "fetchedAt": "2026-10-28T16:17:23.787Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
         "id": "a23"
       }
     ]
@@ -785,15 +782,73 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-28T16:17:30.855Z",
+    "generatedAt": "2026-10-28T21:21:40.830Z",
     "date": "2026-10-29",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "semiconductors"
+        }
+      ]
     },
-    "articles": []
+    "articles": [
+      {
+        "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+        "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+        "description": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade, eventually requiring telecom providers to “rip and replace” their gear. (Many telecoms have still failed to do so.) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security. Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone company Xtra claims it’s ‘in close communication’ with the FCC. DJI camera clone company Xtra is halting and refunding all preorders Whack-a-drone The FCC is planning to retroactively ban disguised DJI gadgets The FCC is cracking down on DJI tech that dodged the foreign drone ban The FCC is saving Amazon’s Eero and Leo routers from its ban, too. Netgear and the FCC have not responded to our emails. The FCC just saved Netgear from its router ban for no obvious reason Sorry kid, drones are for war now Asus is the latest with a nothing statement about the US router ban. The United States router ban, explained The US government just banned consumer routers made outside the US DJI sues over the FCC’s decision to block new drone imports The FCC’s foreign drone ban is here The FCC just gave itself the power to make a DJI drone ban stick Xtra: the company that lets DJI sneak its popular cameras into the US DJI couldn’t confirm or deny it disguised this drone to evade a US ban DJI explains why it won’t stop drones from flying over the White House — and what happens in a US ban US targets TP-Link with a potential ban on the Chinese routers DJI might get banned next in the US",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-28T19:37:31.000Z",
+        "fetchedAt": "2026-10-28T21:21:33.626Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
+        "id": "a2"
+      },
+      {
+        "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+        "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+        "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T16:26:03.000Z",
+        "fetchedAt": "2026-10-28T21:21:32.958Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "foundry"
+        ],
+        "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+        "id": "a7"
+      }
+    ]
   },
   "archive-2026-09-28": {
     "generatedAt": "2026-09-28T08:58:47.695Z",
@@ -23411,41 +23466,79 @@ export const NEWS_DATA = {
     "totalArticles": 34
   },
   "archive-2026-10-29": {
-    "generatedAt": "2026-10-28T16:17:30.858Z",
+    "generatedAt": "2026-10-28T21:21:40.832Z",
     "date": "2026-10-29",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
+              "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
               "articleIds": [
-                "a3"
+                "a5"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
               "articleIds": [
-                "a15"
+                "a18"
               ],
               "subCategory": "wireless"
             },
             {
               "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
               "articleIds": [
-                "a20"
+                "a21"
               ],
               "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
+          {
+            "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
+            "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
+            "description": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T17:20:17.000Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
+            "id": "a5"
+          },
+          {
+            "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+            "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+            "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T16:26:03.000Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+            "id": "a7"
+          },
           {
             "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
             "url": "https://finance.yahoo.com/technology/ai/articles/ibm-vs-qualcomm-ai-tech-134700793.html?.tsrc=rss",
@@ -23454,7 +23547,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:47:00.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23462,7 +23555,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-            "id": "a3"
+            "id": "a9"
           },
           {
             "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -23472,7 +23565,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T12:51:16.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23480,7 +23573,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-            "id": "a6"
+            "id": "a11"
           },
           {
             "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
@@ -23490,7 +23583,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T08:06:13.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.815Z",
+            "fetchedAt": "2026-10-28T21:21:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Analytics Insight",
             "section": "core-businesses",
@@ -23499,7 +23592,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-            "id": "a10"
+            "id": "a15"
           },
           {
             "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
@@ -23509,7 +23602,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T19:05:27.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -23517,7 +23610,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-            "id": "a15"
+            "id": "a18"
           },
           {
             "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -23527,7 +23620,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T13:02:34.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -23535,12 +23628,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-            "id": "a20"
+            "id": "a21"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -23551,7 +23644,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -23562,15 +23655,15 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (4 articles), Customers & Partners (2 articles). A total of 18 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
+              "text": "Geopolitics & Export Controls: Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
               "articleIds": [
                 "a1"
               ],
@@ -23579,27 +23672,62 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
               "articleIds": [
-                "a5"
+                "a10"
               ],
               "subCategory": "market-performance"
             },
             {
-              "text": "Customers & Partners: Anduril, Qualcomm partner on new line of US-made laptops Reuters",
+              "text": "Customers & Partners: Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing",
               "articleIds": [
-                "a14"
+                "a20"
               ],
               "subCategory": "customers-partners"
-            },
-            {
-              "text": "Supply Chain: Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-              "articleIds": [
-                "a18"
-              ],
-              "subCategory": "supply-chain"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQMVhpN2NDR3FxbHpQcWc2aDhDMjdfQnRlOEpENlBhejdDeWY3VENQSC04NDlwaE43SUZLMFBHV2kwWHRBU1ZLX09Bd3Ftc3hRejlUaTg2dWxuajNxMjZEMEtSbFo3OTlpWDNsRFVMeC1VS01pc1U2WldyZmREc19RS3AwTWQ0dDlYUnc?oc=5",
+            "description": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T20:04:33.000Z",
+            "fetchedAt": "2026-10-28T21:21:40.793Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "JD Supra",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
+            "id": "a1"
+          },
+          {
+            "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+            "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+            "description": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade, eventually requiring telecom providers to “rip and replace” their gear. (Many telecoms have still failed to do so.) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security. Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone company Xtra claims it’s ‘in close communication’ with the FCC. DJI camera clone company Xtra is halting and refunding all preorders Whack-a-drone The FCC is planning to retroactively ban disguised DJI gadgets The FCC is cracking down on DJI tech that dodged the foreign drone ban The FCC is saving Amazon’s Eero and Leo routers from its ban, too. Netgear and the FCC have not responded to our emails. The FCC just saved Netgear from its router ban for no obvious reason Sorry kid, drones are for war now Asus is the latest with a nothing statement about the US router ban. The United States router ban, explained The US government just banned consumer routers made outside the US DJI sues over the FCC’s decision to block new drone imports The FCC’s foreign drone ban is here The FCC just gave itself the power to make a DJI drone ban stick Xtra: the company that lets DJI sneak its popular cameras into the US DJI couldn’t confirm or deny it disguised this drone to evade a US ban DJI explains why it won’t stop drones from flying over the White House — and what happens in a US ban US targets TP-Link with a potential ban on the Chinese routers DJI might get banned next in the US",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-28T19:37:31.000Z",
+            "fetchedAt": "2026-10-28T21:21:33.626Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
+            "id": "a2"
+          },
           {
             "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
             "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
@@ -23607,8 +23735,8 @@ export const NEWS_DATA = {
             "source": "CNBC",
             "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T16:07:17.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.775Z",
+            "publishedAt": "2026-10-28T17:39:43.000Z",
+            "fetchedAt": "2026-10-28T21:21:32.894Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23617,7 +23745,45 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-            "id": "a1"
+            "id": "a3"
+          },
+          {
+            "title": "Palantir’s Defense Chief Sees China Threat to Taiwan Over AI",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-28/palantir-s-defense-chief-sees-chinese-threat-to-taiwan-over-ai",
+            "description": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T17:26:53.000Z",
+            "fetchedAt": "2026-10-28T21:21:33.161Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
+            "id": "a4"
+          },
+          {
+            "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
+            "url": "https://ipwatchdog.com/2026/10/28/c4ip-urges-treasury-to-reconsider-proposed-rule-to-extend-coins-act-investment-restrictions-to-biotech/",
+            "description": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "source": "IPWatchdog",
+            "sourceId": "ipwatchdog",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-28T17:15:58.000Z",
+            "fetchedAt": "2026-10-28T21:21:36.319Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
+            "id": "a6"
           },
           {
             "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Forbes",
@@ -23627,7 +23793,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T15:00:34.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.793Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Forbes",
             "geopoliticalBypass": true,
@@ -23637,26 +23803,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Technology Out Of China Will Not Boost National Security Forbes",
-            "id": "a2"
-          },
-          {
-            "title": "Why China is desperate to ship cars outside of the country",
-            "url": "https://www.cnbc.com/2026/10/28/china-car-exports.html",
-            "description": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T13:17:20.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.775Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Autumn has traditionally been the peak time to buy vehicles in China, but this year many showrooms are empty or shut.",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -23666,7 +23813,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:00:11.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23674,7 +23821,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-            "id": "a5"
+            "id": "a10"
           },
           {
             "title": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach - Yahoo Finance",
@@ -23684,7 +23831,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T10:25:39.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Yahoo Finance",
             "geopoliticalBypass": true,
@@ -23694,27 +23841,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-            "id": "a7"
+            "id": "a12"
           },
           {
-            "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - 95.5 WSB",
-            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQY0YyTEFNMkhxZ25ZVVAyVW9tOTFHaUNRdjcwWFUwUTBFTGdLTkktaVlIUFNxNEd4Z0lhYVAwd0UtaDdUcXl1ZXd6NEpHZjVSaTNuZjZBMW5GbGZiZjYyYU00Wkc2dU5aN0h2VDRLb3FBeVhCLXFlRzNFZld1d3BfUWdrWm9mSnNrQ2tVZWhndHAwbTc1TnJsLUtzSk9VdEFt0gGgAUFVX3lxTFBjRjJMQU0ySHFnbllVUDJVb205MUdpQ1F2NzBYVTBRMEVMZ0tOSS1pWUhQU3E0R3hnSWFhUDB3RS1oN1RxeXVld3o0SkdmNVJpM25mNkExbkZsZmJmNjJhTTRaRzZ1Tlo3SHZUNEtvcUF5WEItcWVHM0VmV3V3cF9RZ2tab2ZKc2tDa1VlaGd0cDBtNzVOcmwtS3NKT1V0QW0?oc=5",
-            "description": "Malaysia seizes servers with advanced AI chips suspected of violating export controls 95.5 WSB",
+            "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - WFTV",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMXJTOEJEWUNFb05FMzF6ZlFQek5jX2lyT25HUkhaeHFCVjVqX2lyZ2ItU2U0UlFlbGhsY1JUTUJwQ3JZeEpFMC1WQUhXanZfVkx1b0d6SnVPc0FvekxLMlBUOUl4eXdGNV9WdEF3ZE4wNUdsa01lVU1oSlYzOGVNVEtBZGVyVzDSAZsBQVVfeXFMUENBd1FIVnJYdVlwMFRLcWx5WDlCLVZWUlpfVUNsQUJiQXUyTy02c3FDdTEyTlZabkJiU2Foc29vcVRBS0VmblE0bWJZR0hYbVExLXJxTDc1OF9xd2V2SzZWTzVkSHVLZ2lCcVQwMlc1WDVjR1pmVDFXX1dYVnRudFpMcTNrczRsY2ZKdk50ZG1iTGNYOE5HQmJPWUk?oc=5",
+            "description": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T10:16:04.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.793Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "95.5 WSB",
+            "googleNewsSource": "WFTV",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls 95.5 WSB",
-            "id": "a8"
+            "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
+            "id": "a13"
           },
           {
             "title": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 - EPP Group in the European Parliament",
@@ -23724,7 +23871,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T09:47:54.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.793Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "EPP Group in the European Parliament",
             "geopoliticalBypass": true,
@@ -23734,7 +23881,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 EPP Group in the European Parliament",
-            "id": "a9"
+            "id": "a14"
           },
           {
             "title": "House sends CHIPS Act to Biden’s desk - TechTarget",
@@ -23744,7 +23891,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T00:03:38.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.793Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TechTarget",
             "geopoliticalBypass": true,
@@ -23754,7 +23901,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "House sends CHIPS Act to Biden’s desk TechTarget",
-            "id": "a11"
+            "id": "a16"
           },
           {
             "title": "El-Sayed Is National Security Threat, Gov’t Says - Ken Klippenstein | Substack",
@@ -23764,7 +23911,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T22:24:17.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
+            "fetchedAt": "2026-10-28T21:21:40.794Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Ken Klippenstein | Substack",
             "geopoliticalBypass": true,
@@ -23774,65 +23921,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "El-Sayed Is National Security Threat, Gov’t Says Ken Klippenstein | Substack",
-            "id": "a12"
-          },
-          {
-            "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
-            "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T20:03:35.000Z",
-            "fetchedAt": "2026-10-28T16:17:29.726Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-            "id": "a13"
-          },
-          {
-            "title": "Anduril, Qualcomm partner on new line of US-made laptops - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNajY3REVkVWNuQ0FsZmlDYnh3aVVMYTBHRlp0NVhXTEJqa0cwYktaelNHeG1lLWppTjdaV0g4eHhfV3dxNHFqOEJ1UEI3RXl5VWMxMEtnUXM2eGxfdi1fQ0RVdUR5TzhUeW5pZEJqbTZiVEtqbjBGQWxjRjltbkNEb0pXdTltZFVoVDA1dHpMTWFTcGJPaUlRWFNGckd0TnRTZ1hGTnZqMkJTdU9pQWtNcFhn?oc=5",
-            "description": "Anduril, Qualcomm partner on new line of US-made laptops Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T19:47:05.000Z",
-            "fetchedAt": "2026-10-28T16:17:29.726Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Anduril, Qualcomm partner on new line of US-made laptops Reuters",
-            "id": "a14"
-          },
-          {
-            "title": "The U.S.-Taiwan ART’s Export Control Puzzle - Lawfare",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPVkhxSlNNd1gtOE1GcWhBbHczaWZrYnBJMWUzQzg0ajBqMUtNMko3a0dXanFjYzlsX05WM2ZPVEo1VUxVcGo5OXFoeHdzek5pbUJDVG1UZUJ6ZUV4TGNhMEJnV2xISU5SUWNpNDhIaW5icWFIejk4ck9nM3dYLUhDT2VoZkhjbTQ?oc=5",
-            "description": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T18:05:06.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Lawfare",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The U.S.-Taiwan ART’s Export Control Puzzle Lawfare",
-            "id": "a16"
+            "id": "a17"
           },
           {
             "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
@@ -23842,7 +23931,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T18:00:43.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23850,26 +23939,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
-            "id": "a17"
-          },
-          {
-            "title": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain - BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5GWnY0eU1IOF9qRVBad3hVTjlTWFAtLUgwV1RSLWFUVURtUER2cnFqVXFBeFBYc1JEX0NnUFBuNVpRQW9xRmtjNzczSDRtQ2xUdU01eF9jTXM2c2lTSDRqaGgwZHpjdGtfQXVaZEI2N05vcjFOQnc?oc=5",
-            "description": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T17:35:00.000Z",
-            "fetchedAt": "2026-10-28T16:17:30.814Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "BigGo Finance",
-            "section": "macro-environment",
-            "subCategory": "supply-chain",
-            "subLabel": "Supply Chain",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Anduril and Qualcomm Team Up to Build a 'Made in USA' Laptop, Taking On Asia's Supply Chain BigGo Finance",
-            "id": "a18"
+            "id": "a19"
           },
           {
             "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
@@ -23879,7 +23949,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T15:04:52.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -23887,7 +23957,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
-            "id": "a19"
+            "id": "a20"
           },
           {
             "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -23897,7 +23967,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T13:00:00.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
@@ -23905,7 +23975,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-            "id": "a21"
+            "id": "a22"
           },
           {
             "title": "Singapore, Germany target applied AI",
@@ -23915,7 +23985,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-27T11:39:45.000Z",
-            "fetchedAt": "2026-10-28T16:17:28.436Z",
+            "fetchedAt": "2026-10-28T21:21:38.576Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23924,30 +23994,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-            "id": "a22"
-          },
-          {
-            "title": "Qualcomm Just Dropped 13% in a Month. Is It Time to Sell, or Load Up?",
-            "url": "https://www.tikr.com/blog/qualcomm-just-dropped-13-in-a-month-is-it-time-to-sell-or-load-up?ref=yahoofinance&.tsrc=rss",
-            "description": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T11:23:44.000Z",
-            "fetchedAt": "2026-10-28T16:17:23.787Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Key TakeawaysQualcomm (QCOM:NASDAQ) stock dropped 13% in the month through October 22, with a September 28 semiconductor selloff accounting for more than half the decline. Arm Holdings (ARM:NASDAQ) fell 37% over the same period, compared with the Nasdaq 100’s 6% decline, highlighting broader semiconductor weakness.",
             "id": "a23"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23958,18 +24010,76 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-28T16:17:30.855Z",
+        "generatedAt": "2026-10-28T21:21:40.830Z",
         "date": "2026-10-29",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
+              "articleIds": [
+                "a7"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
         },
-        "articles": []
+        "articles": [
+          {
+            "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+            "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
+            "description": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks. It’s been distrustful of Chinese telecom equipment providers Huawei and ZTE for well over a decade, eventually requiring telecom providers to “rip and replace” their gear. (Many telecoms have still failed to do so.) It established an “Entity List” for companies whose gear should be banned from import, marketing, and sale. But under the second Trump administration, that list has been weaponized against entire home consumer gadget categories too — starting in December 2025 when Trump and Brendan Carr’s FCC banned all future foreign drones unless their companies obtained a waiver. Next was a ban on all future foreign routers, all future foreign robots and power inverters, and within the robot ban, all future foreign robovacs. In each case, the government claims it’s because those gadgets fundamentally pose an unacceptable threat to US national security. But in each case, the US has provided zero public evidence of a threat, has done nothing about existing drones and routers and robots that might pose such a threat, and hasn’t given us any reason to trust that its waivers have anything to do with security. Besides, there are rarely any US companies to fill the gaps left by foreign ones. Consumer gadgets are largely made overseas, including practically all routers and practically all drones — just like how your Apple, Dell, and HP laptops are not made in the US. In this StoryStream, we’re following the latest on the foreign gadget bans. MSI just got a router ban waiver — but not a blanket one. Will TP-Link really make routers in the US? Here’s what it told us Another ‘DJI front company’ bites the dust. It sure would be nice if these congresspeople would say why DJI is a threat. Unlike Netgear and Asus, TP-Link says it’s prepared to spend $1 billion to make Wi-Fi routers in the US. The FCC plans to ban all Chinese labs from testing US gadgets by 2029. The FCC has decertified two more Chinese test labs. The Matic is the first robovac to get an FCC ban waiver, not that it needs it Asus won’t say how it escaped the US router ban Etsy is worried it’ll get caught up in the FCC’s gadget bans. We flew the banned drone with snap-on propeller wings. HoverAir’s transforming modular drone has already been halted in the US I bought DJI’s banned camera — it was cheap and easy Does giving a camera wings dodge the FCC’s drone ban? That lying drone company we caught? The FCC has now banned Odyssey Robot. The ban on robot vacuums won’t make them safer, only worse The US government just banned Roombas DJI camera clone company Xtra claims it’s ‘in close communication’ with the FCC. DJI camera clone company Xtra is halting and refunding all preorders Whack-a-drone The FCC is planning to retroactively ban disguised DJI gadgets The FCC is cracking down on DJI tech that dodged the foreign drone ban The FCC is saving Amazon’s Eero and Leo routers from its ban, too. Netgear and the FCC have not responded to our emails. The FCC just saved Netgear from its router ban for no obvious reason Sorry kid, drones are for war now Asus is the latest with a nothing statement about the US router ban. The United States router ban, explained The US government just banned consumer routers made outside the US DJI sues over the FCC’s decision to block new drone imports The FCC’s foreign drone ban is here The FCC just gave itself the power to make a DJI drone ban stick Xtra: the company that lets DJI sneak its popular cameras into the US DJI couldn’t confirm or deny it disguised this drone to evade a US ban DJI explains why it won’t stop drones from flying over the White House — and what happens in a US ban US targets TP-Link with a potential ban on the Chinese routers DJI might get banned next in the US",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-28T19:37:31.000Z",
+            "fetchedAt": "2026-10-28T21:21:33.626Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
+            "id": "a2"
+          },
+          {
+            "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
+            "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
+            "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T16:26:03.000Z",
+            "fetchedAt": "2026-10-28T21:21:32.958Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "foundry"
+            ],
+            "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
+            "id": "a7"
+          }
+        ]
       }
     },
-    "totalArticles": 23
+    "totalArticles": 25
   }
 };
 
