@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-28T21:21:40.830Z",
+  "generatedAt": "2026-10-29T01:16:27.403Z",
   "date": "2026-10-29",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,14 +9,14 @@
       {
         "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
         "articleIds": [
-          "a7"
+          "a8"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-28T19:37:31.000Z",
-      "fetchedAt": "2026-10-28T21:21:33.626Z",
+      "fetchedAt": "2026-10-29T01:16:20.830Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -43,7 +43,7 @@
         "platform-partner"
       ],
       "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -53,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-28T21:21:32.958Z",
+      "fetchedAt": "2026-10-29T01:16:20.074Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -63,7 +63,7 @@
         "foundry"
       ],
       "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a7"
+      "id": "a8"
     }
   ]
 }
