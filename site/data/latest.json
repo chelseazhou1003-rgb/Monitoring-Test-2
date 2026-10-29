@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T07:41:15.282Z",
+  "generatedAt": "2026-10-29T14:40:56.127Z",
   "date": "2026-10-29",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 6,
+      "articleCount": 5,
       "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 19,
-      "topHeadline": "Tencent, Visa deepen payments push in China after regulatory green light",
+      "articleCount": 12,
+      "topHeadline": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 12 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
-      "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "There’s one week left to preorder the Ocarina of Time remake for $10 off",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Customers & Partners (1 article), Semiconductors (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 28
+  "totalArticles": 21
 }
