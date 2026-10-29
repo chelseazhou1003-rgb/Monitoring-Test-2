@@ -1,28 +1,56 @@
 {
-  "generatedAt": "2026-10-29T01:16:27.403Z",
+  "generatedAt": "2026-10-29T07:41:15.280Z",
   "date": "2026-10-29",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Customers & Partners: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "customers-partners"
+      },
       {
         "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
         "articleIds": [
-          "a3"
+          "a7"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
         "articleIds": [
-          "a8"
+          "a11"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+      "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+      "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-29T02:22:46.000Z",
+      "fetchedAt": "2026-10-29T07:41:09.428Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+      "id": "a3"
+    },
     {
       "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
       "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
@@ -31,7 +59,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-28T19:37:31.000Z",
-      "fetchedAt": "2026-10-29T01:16:20.830Z",
+      "fetchedAt": "2026-10-29T07:41:09.428Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -43,7 +71,7 @@
         "platform-partner"
       ],
       "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-      "id": "a3"
+      "id": "a7"
     },
     {
       "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -53,7 +81,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-29T01:16:20.074Z",
+      "fetchedAt": "2026-10-29T07:41:08.999Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -63,7 +91,7 @@
         "foundry"
       ],
       "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a8"
+      "id": "a11"
     }
   ]
 }

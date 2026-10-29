@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-29T01:16:27.405Z",
+  "generatedAt": "2026-10-29T07:41:15.282Z",
   "date": "2026-10-29",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 7,
+      "articleCount": 6,
       "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
+      "topHeadlineId": "a9",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+      "articleCount": 19,
+      "topHeadline": "Tencent, Visa deepen payments push in China after regulatory green light",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+      "articleCount": 3,
+      "topHeadline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
       "topHeadlineId": "a3",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 24
+  "totalArticles": 28
 }

@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,31 +13,31 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
           "articleIds": [
-            "a6"
+            "a9"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
           "articleIds": [
-            "a17"
+            "a20"
           ],
           "subCategory": "wireless"
         },
         {
           "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
           "articleIds": [
-            "a20"
+            "a23"
           ],
           "subCategory": "mobile-chips"
         }
@@ -52,7 +52,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T17:20:17.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +60,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -70,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T16:26:03.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -80,7 +80,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-        "id": "a8"
+        "id": "a11"
       },
       {
         "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
@@ -90,7 +90,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:47:00.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -98,7 +98,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-        "id": "a10"
+        "id": "a15"
       },
       {
         "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -108,7 +108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T12:51:16.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -116,26 +116,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-        "id": "a12"
-      },
-      {
-        "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
-        "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXZONm5rNGV1Q2k4b2lGUXdiNDA0MVQyUXdjSmNJeUNFVTdQM3hOM1lDRFVvM1lWTDczOEF0amx6OU9IV3A2OEVSYUhkTmF6cklERUVhVGVfTWFVcHp2MzVQVUs1bjBuVE93OHdGSE93UVJCUzFNeDI1NEFDY2VFNVR0SnpFNngtT0xwZmxiWklrVVBkZ3RsUlRhd3FBdjhSWjdyclo4TzlnQdIBtwFBVV95cUxOSVMySHlFNTNaaHJuMktVa3hKLUJBSTM5OGVidWJydS12c0hPbkRUMGg2dDVEWjlpZkc1a0lBRmdsSk84ZW9JN3o2YVVOTWNjTHI0R2dETjc2SU1QRHU1LW5KTkZXd3doMmdpX3hmUS0wQmNSUW1lcXRyNDQxZ19lWkxHOEVEcmdSMm9tS2p5d3RuSEVPdWVKeWVNSm9YUUtwSkx0UEwzMndjRzFQRFBFSWMwTFFXRWs?oc=5",
-        "description": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T08:06:13.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Analytics Insight",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-        "id": "a16"
+        "id": "a17"
       },
       {
         "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
@@ -145,7 +126,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T19:05:27.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -153,7 +134,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-        "id": "a17"
+        "id": "a20"
       },
       {
         "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -163,7 +144,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T13:02:34.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -171,12 +152,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-        "id": "a20"
+        "id": "a23"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -187,7 +168,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -198,15 +179,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-29T01:16:27.405Z",
+    "generatedAt": "2026-10-29T07:41:15.282Z",
     "date": "2026-10-29",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 7,
+        "articleCount": 6,
         "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-        "topHeadlineId": "a6",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources."
+        "topHeadlineId": "a9",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -224,10 +205,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 15,
-        "topHeadline": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
+        "articleCount": 19,
+        "topHeadline": "Tencent, Visa deepen payments push in China after regulatory green light",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -238,46 +219,132 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 2,
-        "topHeadline": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
+        "articleCount": 3,
+        "topHeadline": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
         "topHeadlineId": "a3",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 24
+    "totalArticles": 28
   },
   "macro-environment": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+          "text": "Geopolitics & Export Controls: Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "text": "Customers & Partners: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
           "articleIds": [
-            "a11"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Customers & Partners: Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing",
-          "articleIds": [
-            "a19"
+            "a3"
           ],
           "subCategory": "customers-partners"
+        },
+        {
+          "text": "Supply Chain: Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+          "articleIds": [
+            "a14"
+          ],
+          "subCategory": "supply-chain"
+        },
+        {
+          "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+          "articleIds": [
+            "a16"
+          ],
+          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+        "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+        "description": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-29T07:01:50.000Z",
+        "fetchedAt": "2026-10-29T07:41:08.833Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+        "id": "a1"
+      },
+      {
+        "title": "Chips Act 2.0: Europe should play to its strengths - Table.Briefings",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlh0R2p3UnFwNjdSQzR3YXBPUzZYXzlXRDdBSmJWNUJNOEhKVktkMGV5clh5WGpIVUpaanF5UVVkcWl1ZmxLRUdpNlFNeHRyYjZIRnFWenlrcVc5c3NGMGM2d21EVWl5TEExQjFpQXdDXzNwTFQ1aWlBR1g4S1pSczhBYmJHeDlZSzJFWXo4MA?oc=5",
+        "description": "Chips Act 2.0: Europe should play to its strengths Table.Briefings",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-29T04:47:48.000Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Table.Briefings",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chips Act 2.0: Europe should play to its strengths Table.Briefings",
+        "id": "a2"
+      },
+      {
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-29T02:22:46.000Z",
+        "fetchedAt": "2026-10-29T07:41:09.428Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+        "id": "a3"
+      },
+      {
+        "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+        "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+        "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-29T02:14:14.000Z",
+        "fetchedAt": "2026-10-29T07:41:08.833Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+        "id": "a4"
+      },
       {
         "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
         "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
@@ -286,7 +353,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T00:11:14.000Z",
-        "fetchedAt": "2026-10-29T01:16:19.997Z",
+        "fetchedAt": "2026-10-29T07:41:08.833Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -295,7 +362,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
-        "id": "a1"
+        "id": "a5"
       },
       {
         "title": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
@@ -304,8 +371,8 @@ export const NEWS_DATA = {
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T20:04:33.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
+        "publishedAt": "2026-10-28T20:36:17.000Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "JD Supra",
         "geopoliticalBypass": true,
@@ -315,7 +382,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
-        "id": "a2"
+        "id": "a6"
       },
       {
         "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
@@ -325,7 +392,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-28T19:37:31.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.830Z",
+        "fetchedAt": "2026-10-29T07:41:09.428Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -337,45 +404,27 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-        "id": "a3"
+        "id": "a7"
       },
       {
-        "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-        "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-        "description": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "Is Bitcoin Price Finally Decoupling From Tech Stocks? - CoinMarketCap",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkN0d3pRa3RaWlhQMzE3aE0xSVlaTC03NnZBZmd2VU9ZV1NRZmlPUHV2blo2NnE3MEZIb05zaE5mNHNlb200aU05SFVfMXBJQVR5WmYzT1RuaE1qdzRnM3RvTFkxR1NOV1ZoX29wUldzWXptcldpcmRuY1lLLUJLaS1rZHVlQV9SUGs5UTRUT29JSmtnVkE?oc=5",
+        "description": "Is Bitcoin Price Finally Decoupling From Tech Stocks? CoinMarketCap",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T17:39:43.000Z",
-        "fetchedAt": "2026-10-29T01:16:19.998Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-10-28T17:22:43.000Z",
+        "fetchedAt": "2026-10-29T07:41:15.240Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "CoinMarketCap",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-        "id": "a4"
-      },
-      {
-        "title": "Palantir’s Defense Chief Sees China Threat to Taiwan Over AI",
-        "url": "https://www.bloomberg.com/news/articles/2026-10-28/palantir-s-defense-chief-sees-chinese-threat-to-taiwan-over-ai",
-        "description": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T17:26:53.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.125Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
-        "id": "a5"
+        "summary": "Is Bitcoin Price Finally Decoupling From Tech Stocks?",
+        "id": "a8"
       },
       {
         "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
@@ -385,7 +434,7 @@ export const NEWS_DATA = {
         "sourceId": "ipwatchdog",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-28T17:15:58.000Z",
-        "fetchedAt": "2026-10-29T01:16:22.997Z",
+        "fetchedAt": "2026-10-29T07:41:12.168Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -394,7 +443,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a7"
+        "id": "a10"
+      },
+      {
+        "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Yahoo Finance",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZlOGhfVXV4ZjNiaGRNSDFtTmt6S09FRXhOOS1fU1NDbURMU2NfS3BEbGk2N2YzME12ZTA1RTZ5dnU3WjA0dXJ2VmI5R0lxdkNMZXYtWHdyOFo0LWFEOGdoN05rYUdTckRXNi0yYmVXY291M0w1a08xTmt2SHNvMVJacU1IY1h4NlZaZ0pTZmc4T21xMGxhOWxR?oc=5",
+        "description": "Keeping U.S. Technology Out Of China Will Not Boost National Security Yahoo Finance",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T15:00:34.000Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Yahoo Finance",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Technology Out Of China Will Not Boost National Security Yahoo Finance",
+        "id": "a12"
       },
       {
         "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Forbes",
@@ -404,7 +473,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T15:00:34.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Forbes",
         "geopoliticalBypass": true,
@@ -414,7 +483,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Technology Out Of China Will Not Boost National Security Forbes",
-        "id": "a9"
+        "id": "a13"
+      },
+      {
+        "title": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 - Dealroom",
+        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjVMSVV6WEpNWVJUTUpYRDI5c1d2blBMWGJRQ0NqMW9FbmZtMzJYRjlub3hURlRWVGJDUWdqM0gxdzhpaDU3aFd6d0V5dDhYbFBoWkdwWWpFOVFfOFJyZEZsa2tKajJzYWhxT0N2ZERiTnVLX2xURGY1R2Y5ZXo5RzJKY2VCSGFBYkRQQWxjaGhwQ2RETDdZdjkzWDZRMEVheUJwb0J6QU1DMk9BZXpuRQ?oc=5",
+        "description": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-28T14:21:41.000Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Dealroom",
+        "section": "macro-environment",
+        "subCategory": "supply-chain",
+        "subLabel": "Supply Chain",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+        "id": "a14"
       },
       {
         "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -424,7 +512,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:00:11.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -432,27 +520,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-        "id": "a11"
-      },
-      {
-        "title": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach - Yahoo Finance",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzQ3VUVreFcyUExZWUhONmN4UnBNT0dvMUhLUWZMcEI5RkxBRmo4N1FJcS1ianJDZHpoYnFxckZxVE5oNV96QW1pYXlzOTNTdmVKVG1qQUt5bXRWRi1nTktKWXZYUE9ickdRTDlOaUFMZmlaR3RaRU1ZdzZpWlhXRW5jSTRNWm83NnZZckh0MjZ3TzRqUHQ1c2JR?oc=5",
-        "description": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-28T10:25:39.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Yahoo Finance",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-        "id": "a13"
+        "id": "a16"
       },
       {
         "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - WFTV",
@@ -462,7 +530,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T10:16:04.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WFTV",
         "geopoliticalBypass": true,
@@ -472,7 +540,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
-        "id": "a14"
+        "id": "a18"
       },
       {
         "title": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 - EPP Group in the European Parliament",
@@ -482,7 +550,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T09:47:54.000Z",
-        "fetchedAt": "2026-10-29T01:16:27.366Z",
+        "fetchedAt": "2026-10-29T07:41:15.239Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EPP Group in the European Parliament",
         "geopoliticalBypass": true,
@@ -492,7 +560,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 EPP Group in the European Parliament",
-        "id": "a15"
+        "id": "a19"
       },
       {
         "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
@@ -502,7 +570,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T18:00:43.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -510,7 +578,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
-        "id": "a18"
+        "id": "a21"
       },
       {
         "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
@@ -520,7 +588,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T15:04:52.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "customers-partners",
@@ -528,7 +596,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
-        "id": "a19"
+        "id": "a22"
       },
       {
         "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -538,7 +606,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-27T13:00:00.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
@@ -546,7 +614,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-        "id": "a21"
+        "id": "a24"
       },
       {
         "title": "Singapore, Germany target applied AI",
@@ -556,7 +624,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-27T11:39:45.000Z",
-        "fetchedAt": "2026-10-29T01:16:24.372Z",
+        "fetchedAt": "2026-10-29T07:41:13.084Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -565,7 +633,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-        "id": "a22"
+        "id": "a25"
       }
     ]
   },
@@ -761,30 +829,58 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-29T01:16:27.403Z",
+    "generatedAt": "2026-10-29T07:41:15.280Z",
     "date": "2026-10-29",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Customers & Partners: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
+          "articleIds": [
+            "a3"
+          ],
+          "subCategory": "customers-partners"
+        },
         {
           "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
           "articleIds": [
-            "a3"
+            "a7"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
           "articleIds": [
-            "a8"
+            "a11"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+        "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+        "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-10-29T02:22:46.000Z",
+        "fetchedAt": "2026-10-29T07:41:09.428Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "customers-partners",
+        "subLabel": "Customers & Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+        "id": "a3"
+      },
       {
         "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
         "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
@@ -793,7 +889,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-28T19:37:31.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.830Z",
+        "fetchedAt": "2026-10-29T07:41:09.428Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -805,7 +901,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -815,7 +911,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T16:26:03.000Z",
-        "fetchedAt": "2026-10-29T01:16:20.074Z",
+        "fetchedAt": "2026-10-29T07:41:08.999Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -825,7 +921,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-        "id": "a8"
+        "id": "a11"
       }
     ]
   },
@@ -22516,35 +22612,35 @@ export const NEWS_DATA = {
     "totalArticles": 34
   },
   "archive-2026-10-29": {
-    "generatedAt": "2026-10-29T01:16:27.405Z",
+    "generatedAt": "2026-10-29T07:41:15.282Z",
     "date": "2026-10-29",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
               "articleIds": [
-                "a6"
+                "a9"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
               "articleIds": [
-                "a17"
+                "a20"
               ],
               "subCategory": "wireless"
             },
             {
               "text": "Mobile Chips: Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
               "articleIds": [
-                "a20"
+                "a23"
               ],
               "subCategory": "mobile-chips"
             }
@@ -22559,7 +22655,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T17:20:17.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22567,7 +22663,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -22577,7 +22673,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T16:26:03.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22587,7 +22683,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-            "id": "a8"
+            "id": "a11"
           },
           {
             "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
@@ -22597,7 +22693,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:47:00.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22605,7 +22701,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-            "id": "a10"
+            "id": "a15"
           },
           {
             "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -22615,7 +22711,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T12:51:16.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22623,26 +22719,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-            "id": "a12"
-          },
-          {
-            "title": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs - Analytics Insight",
-            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOaXZONm5rNGV1Q2k4b2lGUXdiNDA0MVQyUXdjSmNJeUNFVTdQM3hOM1lDRFVvM1lWTDczOEF0amx6OU9IV3A2OEVSYUhkTmF6cklERUVhVGVfTWFVcHp2MzVQVUs1bjBuVE93OHdGSE93UVJCUzFNeDI1NEFDY2VFNVR0SnpFNngtT0xwZmxiWklrVVBkZ3RsUlRhd3FBdjhSWjdyclo4TzlnQdIBtwFBVV95cUxOSVMySHlFNTNaaHJuMktVa3hKLUJBSTM5OGVidWJydS12c0hPbkRUMGg2dDVEWjlpZkc1a0lBRmdsSk84ZW9JN3o2YVVOTWNjTHI0R2dETjc2SU1QRHU1LW5KTkZXd3doMmdpX3hmUS0wQmNSUW1lcXRyNDQxZ19lWkxHOEVEcmdSMm9tS2p5d3RuSEVPdWVKeWVNSm9YUUtwSkx0UEwzMndjRzFQRFBFSWMwTFFXRWs?oc=5",
-            "description": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T08:06:13.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Analytics Insight",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Anduril and Qualcomm Build BlueChip Laptop for the US Military Needs Analytics Insight",
-            "id": "a16"
+            "id": "a17"
           },
           {
             "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
@@ -22652,7 +22729,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T19:05:27.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -22660,7 +22737,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-            "id": "a17"
+            "id": "a20"
           },
           {
             "title": "Qualcomm Pledges Global Layoffs as Handset Revenue Falls 20%: “Stronger Performance Culture”",
@@ -22670,7 +22747,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T13:02:34.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22678,12 +22755,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysQualcomm will notify employees of global, performance-based job cuts starting in November, but CEO Cristiano Amon’s memo gave no headcount. Handset revenue fell 20% to $5.",
-            "id": "a20"
+            "id": "a23"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22694,7 +22771,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22705,37 +22782,123 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 15 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), Customers & Partners (2 articles), market-performance (2 articles). A total of 19 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
+              "text": "Geopolitics & Export Controls: Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
               "articleIds": [
                 "a1"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+              "text": "Customers & Partners: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
               "articleIds": [
-                "a11"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Customers & Partners: Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing",
-              "articleIds": [
-                "a19"
+                "a3"
               ],
               "subCategory": "customers-partners"
+            },
+            {
+              "text": "Supply Chain: Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "supply-chain"
+            },
+            {
+              "text": "market-performance: Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
+              "articleIds": [
+                "a16"
+              ],
+              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Tencent, Visa deepen payments push in China after regulatory green light",
+            "url": "https://www.cnbc.com/2026/10/29/tencent-visa-citi-mastercard-.html",
+            "description": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T07:01:50.000Z",
+            "fetchedAt": "2026-10-29T07:41:08.833Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tencent and Visa are expanding their payments partnership following recent regulatory approvals for foreign financial firms in China.",
+            "id": "a1"
+          },
+          {
+            "title": "Chips Act 2.0: Europe should play to its strengths - Table.Briefings",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQlh0R2p3UnFwNjdSQzR3YXBPUzZYXzlXRDdBSmJWNUJNOEhKVktkMGV5clh5WGpIVUpaanF5UVVkcWl1ZmxLRUdpNlFNeHRyYjZIRnFWenlrcVc5c3NGMGM2d21EVWl5TEExQjFpQXdDXzNwTFQ1aWlBR1g4S1pSczhBYmJHeDlZSzJFWXo4MA?oc=5",
+            "description": "Chips Act 2.0: Europe should play to its strengths Table.Briefings",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T04:47:48.000Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Table.Briefings",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chips Act 2.0: Europe should play to its strengths Table.Briefings",
+            "id": "a2"
+          },
+          {
+            "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+            "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+            "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-29T02:22:46.000Z",
+            "fetchedAt": "2026-10-29T07:41:09.428Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+            "id": "a3"
+          },
+          {
+            "title": "China’s tech darlings are losing their shine. Here’s what’s behind the sell-off",
+            "url": "https://www.cnbc.com/2026/10/29/china-tech-stocks-selloff.html",
+            "description": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T02:14:14.000Z",
+            "fetchedAt": "2026-10-29T07:41:08.833Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's tech rally is being tested as as investors question whether AI profits can justify lofty valuations.",
+            "id": "a4"
+          },
           {
             "title": "Inside India newsletter: New Delhi approves $22 billion in military spending amid China border tensions",
             "url": "https://www.cnbc.com/2026/10/29/india-china-us-israel-military-spending.html",
@@ -22744,7 +22907,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T00:11:14.000Z",
-            "fetchedAt": "2026-10-29T01:16:19.997Z",
+            "fetchedAt": "2026-10-29T07:41:08.833Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22753,7 +22916,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "American, Israeli, and Russian defense manufacturers are likely to find substantial opportunities in India's expanding defense market",
-            "id": "a1"
+            "id": "a5"
           },
           {
             "title": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act - JD Supra",
@@ -22762,8 +22925,8 @@ export const NEWS_DATA = {
             "source": "Geopolitics",
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T20:04:33.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
+            "publishedAt": "2026-10-28T20:36:17.000Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "JD Supra",
             "geopoliticalBypass": true,
@@ -22773,7 +22936,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Treasury Proposes Sweeping Expansion of US Outbound Investment Restrictions Under COINS Act JD Supra",
-            "id": "a2"
+            "id": "a6"
           },
           {
             "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
@@ -22783,7 +22946,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-28T19:37:31.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.830Z",
+            "fetchedAt": "2026-10-29T07:41:09.428Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22795,45 +22958,27 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-            "id": "a3"
+            "id": "a7"
           },
           {
-            "title": "Trump is using tariffs as a 'tool for grift,' Raskin says in demand for donor records",
-            "url": "https://www.cnbc.com/2026/10/28/trump-tariffs-corruption-raskin.html",
-            "description": "Rep. Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "Is Bitcoin Price Finally Decoupling From Tech Stocks? - CoinMarketCap",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVkN0d3pRa3RaWlhQMzE3aE0xSVlaTC03NnZBZmd2VU9ZV1NRZmlPUHV2blo2NnE3MEZIb05zaE5mNHNlb200aU05SFVfMXBJQVR5WmYzT1RuaE1qdzRnM3RvTFkxR1NOV1ZoX29wUldzWXptcldpcmRuY1lLLUJLaS1rZHVlQV9SUGs5UTRUT29JSmtnVkE?oc=5",
+            "description": "Is Bitcoin Price Finally Decoupling From Tech Stocks? CoinMarketCap",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T17:39:43.000Z",
-            "fetchedAt": "2026-10-29T01:16:19.998Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-10-28T17:22:43.000Z",
+            "fetchedAt": "2026-10-29T07:41:15.240Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "CoinMarketCap",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Jamie Raskin wrote to President Trump in the final days of a midterm election cycle where government corruption has emerged as a top issue for voters.",
-            "id": "a4"
-          },
-          {
-            "title": "Palantir’s Defense Chief Sees China Threat to Taiwan Over AI",
-            "url": "https://www.bloomberg.com/news/articles/2026-10-28/palantir-s-defense-chief-sees-chinese-threat-to-taiwan-over-ai",
-            "description": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T17:26:53.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.125Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Palantir Technologies Inc.’s head of defense Mike Gallagher is warning that advances in artificial intelligence capabilities have made it more compelling for Chinese leader Xi Jinping to seize control of Taiwan, a chipmaking hub that has helped fuel the global AI boom.",
-            "id": "a5"
+            "summary": "Is Bitcoin Price Finally Decoupling From Tech Stocks?",
+            "id": "a8"
           },
           {
             "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
@@ -22843,7 +22988,7 @@ export const NEWS_DATA = {
             "sourceId": "ipwatchdog",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-28T17:15:58.000Z",
-            "fetchedAt": "2026-10-29T01:16:22.997Z",
+            "fetchedAt": "2026-10-29T07:41:12.168Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22852,7 +22997,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a7"
+            "id": "a10"
+          },
+          {
+            "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Yahoo Finance",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPVmZlOGhfVXV4ZjNiaGRNSDFtTmt6S09FRXhOOS1fU1NDbURMU2NfS3BEbGk2N2YzME12ZTA1RTZ5dnU3WjA0dXJ2VmI5R0lxdkNMZXYtWHdyOFo0LWFEOGdoN05rYUdTckRXNi0yYmVXY291M0w1a08xTmt2SHNvMVJacU1IY1h4NlZaZ0pTZmc4T21xMGxhOWxR?oc=5",
+            "description": "Keeping U.S. Technology Out Of China Will Not Boost National Security Yahoo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T15:00:34.000Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Yahoo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Technology Out Of China Will Not Boost National Security Yahoo Finance",
+            "id": "a12"
           },
           {
             "title": "Keeping U.S. Technology Out Of China Will Not Boost National Security - Forbes",
@@ -22862,7 +23027,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T15:00:34.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Forbes",
             "geopoliticalBypass": true,
@@ -22872,7 +23037,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Technology Out Of China Will Not Boost National Security Forbes",
-            "id": "a9"
+            "id": "a13"
+          },
+          {
+            "title": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 - Dealroom",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPMjVMSVV6WEpNWVJUTUpYRDI5c1d2blBMWGJRQ0NqMW9FbmZtMzJYRjlub3hURlRWVGJDUWdqM0gxdzhpaDU3aFd6d0V5dDhYbFBoWkdwWWpFOVFfOFJyZEZsa2tKajJzYWhxT0N2ZERiTnVLX2xURGY1R2Y5ZXo5RzJKY2VCSGFBYkRQQWxjaGhwQ2RETDdZdjkzWDZRMEVheUJwb0J6QU1DMk9BZXpuRQ?oc=5",
+            "description": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-28T14:21:41.000Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Dealroom",
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Anduril and Qualcomm's BlueChip laptop targets a US-made supply chain by 2027 Dealroom",
+            "id": "a14"
           },
           {
             "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -22882,7 +23066,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:00:11.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22890,27 +23074,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-            "id": "a11"
-          },
-          {
-            "title": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach - Yahoo Finance",
-            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPNzQ3VUVreFcyUExZWUhONmN4UnBNT0dvMUhLUWZMcEI5RkxBRmo4N1FJcS1ianJDZHpoYnFxckZxVE5oNV96QW1pYXlzOTNTdmVKVG1qQUt5bXRWRi1nTktKWXZYUE9ickdRTDlOaUFMZmlaR3RaRU1ZdzZpWlhXRW5jSTRNWm83NnZZckh0MjZ3TzRqUHQ1c2JR?oc=5",
-            "description": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-28T10:25:39.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Yahoo Finance",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "3 AI Software Stocks Screening Well Outside China’s Export Control Reach Yahoo Finance",
-            "id": "a13"
+            "id": "a16"
           },
           {
             "title": "Malaysia seizes servers with advanced AI chips suspected of violating export controls - WFTV",
@@ -22920,7 +23084,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T10:16:04.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WFTV",
             "geopoliticalBypass": true,
@@ -22930,7 +23094,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Malaysia seizes servers with advanced AI chips suspected of violating export controls WFTV",
-            "id": "a14"
+            "id": "a18"
           },
           {
             "title": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 - EPP Group in the European Parliament",
@@ -22940,7 +23104,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T09:47:54.000Z",
-            "fetchedAt": "2026-10-29T01:16:27.366Z",
+            "fetchedAt": "2026-10-29T07:41:15.239Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "EPP Group in the European Parliament",
             "geopoliticalBypass": true,
@@ -22950,7 +23114,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Securing Europe's Digital and Industrial Future – a hearing on the Cloud and AI Development Act (CADA) and Chips Act 2.0 EPP Group in the European Parliament",
-            "id": "a15"
+            "id": "a19"
           },
           {
             "title": "Qualcomm’s Layoff Notices Start in November. A 2026 Bonus Paid in January Shouldn’t Count Against His $25,560 Social Security Earnings Limit",
@@ -22960,7 +23124,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T18:00:43.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22968,7 +23132,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A January paycheck stuffed with a bonus, unused vacation, and severance looks like a Social Security trap for a newly retired engineer, but the earnings test has a lesser-known rule that could change everything about how that money gets counted.",
-            "id": "a18"
+            "id": "a21"
           },
           {
             "title": "Anduril and Qualcomm launch BlueChip to onshore computer manufacturing",
@@ -22978,7 +23142,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T15:04:52.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "customers-partners",
@@ -22986,7 +23150,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Investing.com -- Defense technology startup Anduril Industries has partnered with Qualcomm Incorporated (NASDAQ:QCOM) to launch BlueChip, a new hardware initiative aimed at designing and manufacturing personal computers entirely within the United States. Unveiled on Tuesday, the collaboration focuses on producing secure, domestic laptops tailored for defense, public safety, and government agencies seeking to mitigate overseas supply chain vulnerabilities.",
-            "id": "a19"
+            "id": "a22"
           },
           {
             "title": "Anduril, Qualcomm launch BlueChip, a new kind of US-made laptop",
@@ -22996,7 +23160,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-27T13:00:00.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
@@ -23004,7 +23168,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Anduril founder Palmer Luckey is vowing to bring computer manufacturing back to the U.S., and by that he doesn't just mean assembly, but every individual component, some of which are exclusively made in China today.",
-            "id": "a21"
+            "id": "a24"
           },
           {
             "title": "Singapore, Germany target applied AI",
@@ -23014,7 +23178,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-27T11:39:45.000Z",
-            "fetchedAt": "2026-10-29T01:16:24.372Z",
+            "fetchedAt": "2026-10-29T07:41:13.084Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23023,12 +23187,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-            "id": "a22"
+            "id": "a25"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23039,30 +23203,58 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-29T01:16:27.403Z",
+        "generatedAt": "2026-10-29T07:41:15.280Z",
         "date": "2026-10-29",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), Geopolitics & Export Controls (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "Customers & Partners: On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "customers-partners"
+            },
             {
               "text": "Geopolitics & Export Controls: A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones f",
               "articleIds": [
-                "a3"
+                "a7"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
               "articleIds": [
-                "a8"
+                "a11"
               ],
               "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Anduril now says its BlueChip laptop will meet Buy American standards at launch",
+            "url": "https://www.theverge.com/policy/1021554/anduril-bluechip-65-percent-domestic-buy-american",
+            "description": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-29T02:22:46.000Z",
+            "fetchedAt": "2026-10-29T07:41:09.428Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "On Tuesday, defense contractor Anduril and chipmaker Qualcomm announced a partnership to build laptops entirely in the United States, starting with a single model in 2027. They also announced a \"long-term goal\" of pushing the computer industry to create \"a fully domestic supply chain.\" Even a single Made-in-USA laptop would be a surprise, because no major US computer company builds its laptops here - not Apple, not Dell, not HP, not Microsoft. We're not aware of any company that does. But we are aware of companies that have briefly and strategically assembled computers here seemingly to appease President Donald Trump. We're also aware of … Read the full story at The Verge.",
+            "id": "a3"
+          },
           {
             "title": "Foreign gadget bans: all the news about the FCC’s clampdown on Chinese tech",
             "url": "https://www.theverge.com/policy/1019851/fcc-foreign-gadget-ban-drone-robot-roomba-storystream",
@@ -23071,7 +23263,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-28T19:37:31.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.830Z",
+            "fetchedAt": "2026-10-29T07:41:09.428Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23083,7 +23275,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A gavel prior to an open commission meeting at the FCC. | Photo: Al Drago/Bloomberg via Getty Images What do drones, routers, and Roombas have in common? The US government wants to keep Chinese ones from entering the country. They’re the first consumer gadgets that are facing de facto import bans because of the US government’s xenophobic stance — and they might not be the last. Originally, the US government was just worried about US networks.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -23093,7 +23285,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T16:26:03.000Z",
-            "fetchedAt": "2026-10-29T01:16:20.074Z",
+            "fetchedAt": "2026-10-29T07:41:08.999Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23103,12 +23295,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-            "id": "a8"
+            "id": "a11"
           }
         ]
       }
     },
-    "totalArticles": 24
+    "totalArticles": 28
   }
 };
 
