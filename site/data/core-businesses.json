@@ -1,21 +1,39 @@
 {
-  "generatedAt": "2026-10-30T13:38:18.515Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T18:53:40.851Z",
+  "date": "2026-10-31",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metri",
+        "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
         "articleIds": [
-          "a4"
+          "a3"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+      "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
+      "description": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-30T14:56:49.000Z",
+      "fetchedAt": "2026-10-30T18:53:34.952Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+      "id": "a3"
+    },
     {
       "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
       "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
@@ -24,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T12:15:07.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
+      "fetchedAt": "2026-10-30T18:53:34.952Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,81 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "id": "a4"
-    },
-    {
-      "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-      "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
-      "description": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-28T17:20:17.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-      "id": "a23"
-    },
-    {
-      "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
-      "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
-      "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a24"
-    },
-    {
-      "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/ibm-vs-qualcomm-ai-tech-134700793.html?.tsrc=rss",
-      "description": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-28T13:47:00.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-      "id": "a25"
-    },
-    {
-      "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
-      "url": "https://247wallst.com/investing/2026/10/28/qualcomm-stock-has-an-ai-opportunity-most-nvidia-investors-may-be-overlooking/?.tsrc=rss",
-      "description": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-28T12:51:16.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-      "id": "a27"
+      "id": "a7"
     }
   ]
 }

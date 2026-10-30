@@ -1,28 +1,50 @@
 {
-  "generatedAt": "2026-10-30T13:38:18.516Z",
-  "date": "2026-10-30",
+  "generatedAt": "2026-10-30T18:53:40.852Z",
+  "date": "2026-10-31",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Geopolitics & Export Controls: As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.9",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "geopolitics-export-controls"
+      },
       {
         "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
         "articleIds": [
-          "a22"
+          "a17"
         ],
         "subCategory": "market-performance"
-      },
-      {
-        "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
+      "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
+      "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away. Additionally, it includes a remote temperature sensor in the box, so you can better adjust the temperature in your preferred room, whether that’s the bedroom or another space in your home. The Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room. When you get closer, it reveals more detailed information, including outdoor air quality and humidity levels. The Matter-ready device also works with more HVAC systems than the third-gen model, along with a host of compatible humidifiers, dehumidifiers, and ventilation equipment. Plus, unlike many smart thermostats, it doesn’t require a C-wire in most homes either, though using one can help ensure consistent power. Read our full Nest Learning Thermostat (fourth-gen) review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Three more deals that aren’t as pricey You can get the black Casio WS-B1000 at Amazon and Walmart for just $23.88 ($41 off), which is its best price to date. The retro-style digital watch lacks advanced health sensors and features like contactless payments, but it does offer some basic fitness tracking, including a built-in step counter and Bluetooth connectivity for syncing your activity data with your phone; it also comes with a stopwatch and alarms. Read our review. We recently highlighted an ongoing deal on a single AirTag, but if you want to stock up, Amazon, Best Buy, and Walmart are now selling a four-pack for $69.99 ($30 off), which is the lowest price we’ve seen. Apple’s second-gen AirTag is our top pick for iPhone owners thanks to its impressively precise tracking, which can guide you directly to a lost item. You can also locate items with an Apple Watch Series 9 or later and share an AirTag’s location with participating airlines, such as United and Delta, helping you recover lost luggage. Read our review. SwitchBot’s 12-inch RGBICWW Ceiling Light is available at Amazon for $36.99 ($12 off) when you clip the on-page coupon, or directly from SwitchBot for the same price with code HWHW26. The Matter-compatible smart light — which is also discounted in a 15-inch size — offers 26 preset scenes, eight lighting effects, and the ability to create your own. The main difference between the two sizes is the brightness: the 15-inch model delivers up to 3,200 lumens, compared to 2,000 lumens for the smaller version.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-10-30T15:29:02.000Z",
+      "fetchedAt": "2026-10-30T18:53:35.509Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
+      "id": "a1"
+    },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
       "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -31,7 +53,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
+      "fetchedAt": "2026-10-30T18:53:34.952Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -41,27 +63,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a22"
-    },
-    {
-      "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
-      "url": "https://www.manufacturingdive.com/news/anduril-qualcomm-blue-chip-tsmc-snapdragon-reshoring-computer-hardware/872925/?.tsrc=rss",
-      "description": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-30T13:38:10.718Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "foundry"
-      ],
-      "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a24"
+      "id": "a17"
     }
   ]
 }
