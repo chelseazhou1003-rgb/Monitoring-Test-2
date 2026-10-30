@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-29T19:54:18.737Z",
+  "generatedAt": "2026-10-30T00:27:22.084Z",
   "date": "2026-10-30",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
       "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-      "topHeadlineId": "a12",
+      "topHeadlineId": "a17",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 13,
-      "topHeadline": "Nvidia CEO Says Ties to Company Under Spying Probe Were ‘Normal’",
+      "articleCount": 19,
+      "topHeadline": "The Export Control Cascade—Part 1: A Problem of Unintended Consequences - R Street Institute",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (3 articles). A total of 13 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (16 articles), market-performance (3 articles). A total of 19 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -41,9 +41,9 @@
       "title": "Key Stakeholders",
       "articleCount": 3,
       "topHeadline": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-      "topHeadlineId": "a2",
+      "topHeadlineId": "a8",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 21
+  "totalArticles": 27
 }
