@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.515Z",
     "date": "2026-10-30",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,30 +13,41 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.515Z",
     "date": "2026-10-30",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
+          "text": "Semiconductors: Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metri",
           "articleIds": [
-            "a20"
+            "a4"
           ],
           "subCategory": "semiconductors"
-        },
-        {
-          "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
-          "articleIds": [
-            "a26"
-          ],
-          "subCategory": "wireless"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
+        "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T12:15:07.000Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+        "id": "a4"
+      },
       {
         "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
         "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
@@ -45,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T17:20:17.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -53,7 +64,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-        "id": "a20"
+        "id": "a23"
       },
       {
         "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -63,7 +74,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T16:26:03.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -73,7 +84,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-        "id": "a22"
+        "id": "a24"
       },
       {
         "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
@@ -83,7 +94,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:47:00.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -91,7 +102,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-        "id": "a23"
+        "id": "a25"
       },
       {
         "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -101,7 +112,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T12:51:16.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -109,30 +120,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-        "id": "a25"
-      },
-      {
-        "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-bluechip-government-190527671.html?.tsrc=rss",
-        "description": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-27T19:05:27.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "wireless",
-        "subLabel": "Wireless Communication",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-        "id": "a26"
+        "id": "a27"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.515Z",
     "date": "2026-10-30",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -143,7 +136,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.515Z",
     "date": "2026-10-30",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -154,15 +147,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-30T06:30:54.425Z",
+    "generatedAt": "2026-10-30T13:38:18.517Z",
     "date": "2026-10-30",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 5,
-        "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-        "topHeadlineId": "a20",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
+        "topHeadline": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -181,7 +174,7 @@ export const NEWS_DATA = {
       "macro-environment": {
         "title": "Macro",
         "articleCount": 22,
-        "topHeadline": "Why Trump’s tech dreams are quietly crumbling",
+        "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
         "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources."
       },
@@ -194,16 +187,16 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 3,
-        "topHeadline": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-        "topHeadlineId": "a13",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
+        "articleCount": 2,
+        "topHeadline": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+        "topHeadlineId": "a22",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 30
+    "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.515Z",
     "date": "2026-10-30",
     "section": "macro-environment",
     "sectionTitle": "Macro",
@@ -211,7 +204,7 @@ export const NEWS_DATA = {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
+          "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
           "articleIds": [
             "a1"
           ],
@@ -220,13 +213,111 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher o",
           "articleIds": [
-            "a14"
+            "a18"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+        "description": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+        "source": "Wall Street Journal",
+        "sourceId": "wsj",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T13:01:00.000Z",
+        "fetchedAt": "2026-10-30T13:38:17.167Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "WSJ",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+        "id": "a1"
+      },
+      {
+        "title": "China denies allegations of spy operation targeting Nvidia CEO - BBC",
+        "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vb29DRkVQbndqTXdsNkxpb3hBTDBNRkc4cjVsT3VnUjItWmNLSzhOdmg3VHNaUTZiNThJRmtjZUJDWVpBZWlQb0lTa1ZBaDd6bFBjNXp3RWYwMFU?oc=5",
+        "description": "China denies allegations of spy operation targeting Nvidia CEO BBC",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T12:20:04.000Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "BBC",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China denies allegations of spy operation targeting Nvidia CEO BBC",
+        "id": "a2"
+      },
+      {
+        "title": "China slates latest US proposal targeting operators",
+        "url": "https://www.mobileworldlive.com/greater-china/china-slates-latest-us-proposal-targeting-operators/",
+        "description": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-10-30T12:15:18.000Z",
+        "fetchedAt": "2026-10-30T13:38:16.521Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+        "id": "a3"
+      },
+      {
+        "title": "How North Korea became a hacking superpower",
+        "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+        "description": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T11:20:19.000Z",
+        "fetchedAt": "2026-10-30T13:38:11.157Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+        "id": "a5"
+      },
+      {
+        "title": "Position paper – Chips Act 2.0 - ACEA - European Automobile Manufacturers' Association",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VemU4NG5jbDNJQjRGeGdCa29rVmxkSF90cFlWWVBTTldBNUVwdVpZYjAwRWtmSmxlQ0h5T1ljbTBOX1JIa1hmanFHN1k3S3psVi0xQWEzbkRrNldaRGtobDY0YTYyTHJUZjBvMll0M3c?oc=5",
+        "description": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T09:16:41.000Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "ACEA - European Automobile Manufacturers' Association",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+        "id": "a6"
+      },
       {
         "title": "Why Trump’s tech dreams are quietly crumbling",
         "url": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
@@ -235,7 +326,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T05:00:13.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.923Z",
+        "fetchedAt": "2026-10-30T13:38:11.157Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -244,45 +335,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
-        "id": "a1"
-      },
-      {
-        "title": "Envision's Zheng on China's AI Data Center Buildout",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-30/envision-s-zheng-on-china-s-ai-data-center-buildout-video",
-        "description": "Ricky Zheng, General Manager of AIDC at Envision Group, says the company plans to develop data centres around the world powered by renewable energy, with Latin America, Southern Europe and Africa emerging as ideal locations. He speaks exclusively on \"Bloomberg: The China Show\". (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T04:25:23.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.464Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Ricky Zheng, General Manager of AIDC at Envision Group, says the company plans to develop data centres around the world powered by renewable energy, with Latin America, Southern Europe and Africa emerging as ideal locations. He speaks exclusively on \"Bloomberg: The China Show\".",
-        "id": "a2"
-      },
-      {
-        "title": "Binance Hack 'Not End of World,' Says Crypto Pioneer",
-        "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-hack-not-end-of-world-says-crypto-pioneer-video",
-        "description": "China crypto pioneer Bobby C. Lee, the founder and CEO of Ballet, puts into context the suspected hack of world's biggest crypto exchange Binance and talks about lessons for investors. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T04:08:02.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.464Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China crypto pioneer Bobby C. Lee, the founder and CEO of Ballet, puts into context the suspected hack of world's biggest crypto exchange Binance and talks about lessons for investors.",
-        "id": "a3"
+        "id": "a7"
       },
       {
         "title": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China - Mathrubhumi English",
@@ -292,7 +345,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T04:01:17.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.487Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Mathrubhumi English",
         "geopoliticalBypass": true,
@@ -302,7 +355,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
-        "id": "a4"
+        "id": "a8"
       },
       {
         "title": "Trump targets foreign robotics imports under Section 232, citing national security risks - digitimes",
@@ -312,7 +365,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T03:40:48.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "digitimes",
         "geopoliticalBypass": true,
@@ -322,27 +375,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
-        "id": "a5"
-      },
-      {
-        "title": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report  - LatestLY",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHk0YnFDNGRBUkhoZk9Jb0JqdjEwNlVkQjRxSjE2YmJEbThCWWlIVDdUMkx6eWFQY2U0SDdZc0w5U21lVklhdmEyenhnbFRZRFg3WmxMLW1SNWdGSVNCNjFuUXU4RFk3RzZJU21NMllyRXpQdUx3MjhHVU43VzJnMW5kLXpyc0tOLUZJWU9BS3VlanhYdFhDdkVlQ1ViV1FrVDRRZkVrZUEtRTk0cWxVdjZObVBVN0FV0gG4AUFVX3lxTE54eTRicUM0ZEFSSGhmT0lvQmp2MTA2VWRCNHFKMTZiYkRtOEJZaUhUN1QyTHp5YVBjZTRIN1lzTDlTbWVWSWF2YTJ6eGdsVFlEWDdabEwtbVI1Z0ZJU0I2MW5RdThEWTdHNklTbU0yWXJFelB1THcyOEdVTjdXMmcxbmQtenJzS04tRklZT0FLdWVqeFh0WEN2RWVDVWJXUWtUNFFmRWtlQS1FOTRxbFV2Nk5tUFU3QVU?oc=5",
-        "description": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report LatestLY",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T02:40:18.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "LatestLY",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report LatestLY",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "FCC clears drone operations in 800MHz band",
@@ -352,7 +385,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-29T23:51:36.000Z",
-        "fetchedAt": "2026-10-30T06:30:52.619Z",
+        "fetchedAt": "2026-10-30T13:38:15.184Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -361,7 +394,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "The Export Control Cascade—Part 1: A Problem of Unintended Consequences - R Street Institute",
@@ -371,7 +404,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T23:29:50.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "R Street Institute",
         "geopoliticalBypass": true,
@@ -381,26 +414,47 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The Export Control Cascade—Part 1: A Problem of Unintended Consequences R Street Institute",
-        "id": "a8"
+        "id": "a11"
       },
       {
-        "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-        "url": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-        "description": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
+        "title": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeEdVektMR0xoRTJpbnYweGNXQkZuVE04LW1VOUlLTWxDN0NYWjJaOEtINmktV05nQzNLbU1lcVJYeWs5Z29jeGphZTRVeXpoUjBjZU9HTUxzdVlHckVRemQ2bjhyaU9TQnhHZE1GYXRzNjRKcmY1akZ6dXdEU1lrSm9INU9ISGg3LWZGUUtwS2Vad2dQZ003bi1Eek95U3BOX0I0T3JjNkN5SDB2ODMzck4yUUZodkVqdGl6c3hXT1c0Vk1nZGQ5NEpHb283SGlacnVId3RJMktzZw?oc=5",
+        "description": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China TradingView",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-29T21:55:42.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.329Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-10-29T22:30:05.000Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TradingView",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
-        "id": "a9"
+        "summary": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China TradingView",
+        "id": "a12"
+      },
+      {
+        "title": "Nvidia chief seen as target of China spy plot: Report - www.irishsun.com",
+        "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVlOQ3lpLWJQaXdrX3QtZldncHlnQ3JYa194ZVJTTkhTSFAyQnEtVTJ3TVE1NVliQmNxMlJSYXVyOXpxcDBiSTctY1BiWUE1NWpNY1JQLTNHR1BuZHY5THh1X0h0TW0tRnd3MFdLQTROblJDd196NlhQMkJ0NXdIb2l6bUZ2RmpXN1FPMVZwY3BuY3pPRGJv?oc=5",
+        "description": "Nvidia chief seen as target of China spy plot: Report www.irishsun.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-29T22:28:00.000Z",
+        "fetchedAt": "2026-10-30T13:38:18.487Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "www.irishsun.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia chief seen as target of China spy plot: Report www.irishsun.com",
+        "id": "a13"
       },
       {
         "title": "Jensen Huang China Spy Report: 4 Facts Verified [2026] - https://tech-insider.org/",
@@ -410,7 +464,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T21:07:46.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "https://tech-insider.org/",
         "geopoliticalBypass": true,
@@ -420,7 +474,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Jensen Huang China Spy Report: 4 Facts Verified [2026] https://tech-insider.org/",
-        "id": "a10"
+        "id": "a14"
+      },
+      {
+        "title": "Nvidia CEO Says Ties to Company in Spy Probe Were ‘Normal’",
+        "url": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal",
+        "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said the chipmaker’s dealings with Megaspeed International were “normal and not unusual” following a New York Times report that one of the Singapore firm’s executives is under investigation for spying on behalf of China.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-29T18:50:51.000Z",
+        "fetchedAt": "2026-10-30T13:38:10.901Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chief Executive Officer Jensen Huang said the chipmaker’s dealings with Megaspeed International were “normal and not unusual” following a New York Times report that one of the Singapore firm’s executives is under investigation for spying on behalf of China.",
+        "id": "a15"
       },
       {
         "title": "NVIDIA CEO Under Spotlight as US Intelligence Raises China Concerns - Analytics Insight",
@@ -430,7 +503,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T18:30:00.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.386Z",
+        "fetchedAt": "2026-10-30T13:38:18.487Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Analytics Insight",
         "geopoliticalBypass": true,
@@ -440,7 +513,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NVIDIA CEO Under Spotlight as US Intelligence Raises China Concerns Analytics Insight",
-        "id": "a11"
+        "id": "a16"
       },
       {
         "title": "Report: China Used Female Agent to Spy on Nvidia CEO Jensen Huang - Breitbart News",
@@ -450,7 +523,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T18:29:24.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.386Z",
+        "fetchedAt": "2026-10-30T13:38:18.487Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Breitbart News",
         "geopoliticalBypass": true,
@@ -460,29 +533,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Report: China Used Female Agent to Spy on Nvidia CEO Jensen Huang Breitbart News",
-        "id": "a12"
-      },
-      {
-        "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-        "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-        "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub, as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-29T18:18:36.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.990Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-        "id": "a13"
+        "id": "a17"
       },
       {
         "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -492,7 +543,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T16:55:10.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -500,7 +551,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-        "id": "a14"
+        "id": "a18"
       },
       {
         "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
@@ -510,7 +561,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-29T16:42:32.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.378Z",
+        "fetchedAt": "2026-10-30T13:38:10.642Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -519,7 +570,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-        "id": "a15"
+        "id": "a19"
       },
       {
         "title": "Nvidia CEO named in reported China spy probe - News Karnataka",
@@ -529,7 +580,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T15:35:20.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.487Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "News Karnataka",
         "geopoliticalBypass": true,
@@ -539,7 +590,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Nvidia CEO named in reported China spy probe News Karnataka",
-        "id": "a16"
+        "id": "a20"
       },
       {
         "title": "Washington’s Overlooked Leverage Over China’s Chip Ambitions - Lawfare",
@@ -549,7 +600,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T14:07:01.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
+        "fetchedAt": "2026-10-30T13:38:18.486Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Lawfare",
         "geopoliticalBypass": true,
@@ -559,7 +610,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Washington’s Overlooked Leverage Over China’s Chip Ambitions Lawfare",
-        "id": "a17"
+        "id": "a21"
       },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -569,7 +620,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -579,46 +630,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a18"
-      },
-      {
-        "title": "US vs China: As the world splits into AI blocs, where does Europe stand? - Newswav",
-        "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkE0YkRac2hkX1RrbmZETzNQTGRlal9KWHNGUjVwb3BHcGtvaVphRVY2WlRPT1EzQ0xIWDRLVmVVNEktb0o5U211eW1ZRTRaWHRicERKWU4zVTRmY3RsRmkyOV9kN3ZINFpyeDFpYVplYms5LVhGQUNQTjJBQnR5aXgyYWx3UUdKNEowaGRxVE5ZYldQOWlhbG5aREczS0pIU3lKemxzWGxqdTJyeFpV?oc=5",
-        "description": "US vs China: As the world splits into AI blocs, where does Europe stand? Newswav",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-29T12:51:25.000Z",
-        "fetchedAt": "2026-10-30T06:30:54.385Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Newswav",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US vs China: As the world splits into AI blocs, where does Europe stand?",
-        "id": "a19"
-      },
-      {
-        "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
-        "url": "https://ipwatchdog.com/2026/10/28/c4ip-urges-treasury-to-reconsider-proposed-rule-to-extend-coins-act-investment-restrictions-to-biotech/",
-        "description": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "source": "IPWatchdog",
-        "sourceId": "ipwatchdog",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-28T17:15:58.000Z",
-        "fetchedAt": "2026-10-30T06:30:51.335Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -628,7 +640,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T13:00:11.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -636,26 +648,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-        "id": "a24"
-      },
-      {
-        "title": "Singapore, Germany target applied AI",
-        "url": "https://www.mobileworldlive.com/industry/singapore-germany-target-applied-ai/",
-        "description": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-27T11:39:45.000Z",
-        "fetchedAt": "2026-10-30T06:30:52.352Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-        "id": "a27"
+        "id": "a26"
       }
     ]
   },
@@ -851,59 +844,30 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-30T06:30:54.423Z",
+    "generatedAt": "2026-10-30T13:38:18.516Z",
     "date": "2026-10-30",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
-        {
-          "text": "Geopolitics & Export Controls: With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested",
-          "articleIds": [
-            "a13"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
         {
           "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
           "articleIds": [
-            "a18"
+            "a22"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
           "articleIds": [
-            "a22"
+            "a24"
           ],
           "subCategory": "semiconductors"
         }
       ]
     },
     "articles": [
-      {
-        "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-        "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-        "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub, as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-29T18:18:36.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.990Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem",
-          "platform-partner"
-        ],
-        "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-        "id": "a13"
-      },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
         "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -912,7 +876,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -922,7 +886,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a18"
+        "id": "a22"
       },
       {
         "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -932,7 +896,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-28T16:26:03.000Z",
-        "fetchedAt": "2026-10-30T06:30:48.482Z",
+        "fetchedAt": "2026-10-30T13:38:10.718Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -942,7 +906,7 @@ export const NEWS_DATA = {
           "foundry"
         ],
         "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-        "id": "a22"
+        "id": "a24"
       }
     ]
   },
@@ -22445,34 +22409,45 @@ export const NEWS_DATA = {
     "totalArticles": 21
   },
   "archive-2026-10-30": {
-    "generatedAt": "2026-10-30T06:30:54.425Z",
+    "generatedAt": "2026-10-30T13:38:18.517Z",
     "date": "2026-10-30",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.515Z",
         "date": "2026-10-30",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
+              "text": "Semiconductors: Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metri",
               "articleIds": [
-                "a20"
+                "a4"
               ],
               "subCategory": "semiconductors"
-            },
-            {
-              "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
-              "articleIds": [
-                "a26"
-              ],
-              "subCategory": "wireless"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
+            "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T12:15:07.000Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+            "id": "a4"
+          },
           {
             "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
             "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
@@ -22481,7 +22456,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T17:20:17.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22489,7 +22464,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-            "id": "a20"
+            "id": "a23"
           },
           {
             "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -22499,7 +22474,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T16:26:03.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22509,7 +22484,7 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-            "id": "a22"
+            "id": "a24"
           },
           {
             "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
@@ -22519,7 +22494,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:47:00.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22527,7 +22502,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-            "id": "a23"
+            "id": "a25"
           },
           {
             "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -22537,7 +22512,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T12:51:16.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22545,30 +22520,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-            "id": "a25"
-          },
-          {
-            "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
-            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-bluechip-government-190527671.html?.tsrc=rss",
-            "description": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-27T19:05:27.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "wireless",
-            "subLabel": "Wireless Communication",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-            "id": "a26"
+            "id": "a27"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.515Z",
         "date": "2026-10-30",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22579,7 +22536,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.515Z",
         "date": "2026-10-30",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22590,7 +22547,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.515Z",
         "date": "2026-10-30",
         "section": "macro-environment",
         "sectionTitle": "Macro",
@@ -22598,7 +22555,7 @@ export const NEWS_DATA = {
           "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
+              "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
               "articleIds": [
                 "a1"
               ],
@@ -22607,13 +22564,111 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher o",
               "articleIds": [
-                "a14"
+                "a18"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+            "description": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "source": "Wall Street Journal",
+            "sourceId": "wsj",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T13:01:00.000Z",
+            "fetchedAt": "2026-10-30T13:38:17.167Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WSJ",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "id": "a1"
+          },
+          {
+            "title": "China denies allegations of spy operation targeting Nvidia CEO - BBC",
+            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5Vb29DRkVQbndqTXdsNkxpb3hBTDBNRkc4cjVsT3VnUjItWmNLSzhOdmg3VHNaUTZiNThJRmtjZUJDWVpBZWlQb0lTa1ZBaDd6bFBjNXp3RWYwMFU?oc=5",
+            "description": "China denies allegations of spy operation targeting Nvidia CEO BBC",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T12:20:04.000Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BBC",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China denies allegations of spy operation targeting Nvidia CEO BBC",
+            "id": "a2"
+          },
+          {
+            "title": "China slates latest US proposal targeting operators",
+            "url": "https://www.mobileworldlive.com/greater-china/china-slates-latest-us-proposal-targeting-operators/",
+            "description": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-30T12:15:18.000Z",
+            "fetchedAt": "2026-10-30T13:38:16.521Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+            "id": "a3"
+          },
+          {
+            "title": "How North Korea became a hacking superpower",
+            "url": "https://www.ft.com/content/46c03338-63d5-43fc-a946-ebcbe9e1c07a?syn-25a6b1a6=1",
+            "description": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T11:20:19.000Z",
+            "fetchedAt": "2026-10-30T13:38:11.157Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
+            "id": "a5"
+          },
+          {
+            "title": "Position paper – Chips Act 2.0 - ACEA - European Automobile Manufacturers' Association",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VemU4NG5jbDNJQjRGeGdCa29rVmxkSF90cFlWWVBTTldBNUVwdVpZYjAwRWtmSmxlQ0h5T1ljbTBOX1JIa1hmanFHN1k3S3psVi0xQWEzbkRrNldaRGtobDY0YTYyTHJUZjBvMll0M3c?oc=5",
+            "description": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T09:16:41.000Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ACEA - European Automobile Manufacturers' Association",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+            "id": "a6"
+          },
           {
             "title": "Why Trump’s tech dreams are quietly crumbling",
             "url": "https://www.ft.com/content/9cc8d4ce-22ec-45d7-8b74-71a1dfe9abcc?syn-25a6b1a6=1",
@@ -22622,7 +22677,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T05:00:13.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.923Z",
+            "fetchedAt": "2026-10-30T13:38:11.157Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22631,45 +22686,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Tariffs, immigration restrictions and skilled labour shortages make it hard for the US to boost production",
-            "id": "a1"
-          },
-          {
-            "title": "Envision's Zheng on China's AI Data Center Buildout",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-30/envision-s-zheng-on-china-s-ai-data-center-buildout-video",
-            "description": "Ricky Zheng, General Manager of AIDC at Envision Group, says the company plans to develop data centres around the world powered by renewable energy, with Latin America, Southern Europe and Africa emerging as ideal locations. He speaks exclusively on \"Bloomberg: The China Show\". (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-30T04:25:23.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.464Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Ricky Zheng, General Manager of AIDC at Envision Group, says the company plans to develop data centres around the world powered by renewable energy, with Latin America, Southern Europe and Africa emerging as ideal locations. He speaks exclusively on \"Bloomberg: The China Show\".",
-            "id": "a2"
-          },
-          {
-            "title": "Binance Hack 'Not End of World,' Says Crypto Pioneer",
-            "url": "https://www.bloomberg.com/news/videos/2026-10-30/binance-hack-not-end-of-world-says-crypto-pioneer-video",
-            "description": "China crypto pioneer Bobby C. Lee, the founder and CEO of Ballet, puts into context the suspected hack of world's biggest crypto exchange Binance and talks about lessons for investors. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-30T04:08:02.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.464Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China crypto pioneer Bobby C. Lee, the founder and CEO of Ballet, puts into context the suspected hack of world's biggest crypto exchange Binance and talks about lessons for investors.",
-            "id": "a3"
+            "id": "a7"
           },
           {
             "title": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China - Mathrubhumi English",
@@ -22679,7 +22696,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T04:01:17.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.487Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Mathrubhumi English",
             "geopoliticalBypass": true,
@@ -22689,7 +22706,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
-            "id": "a4"
+            "id": "a8"
           },
           {
             "title": "Trump targets foreign robotics imports under Section 232, citing national security risks - digitimes",
@@ -22699,7 +22716,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T03:40:48.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "digitimes",
             "geopoliticalBypass": true,
@@ -22709,27 +22726,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
-            "id": "a5"
-          },
-          {
-            "title": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report  - LatestLY",
-            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOeHk0YnFDNGRBUkhoZk9Jb0JqdjEwNlVkQjRxSjE2YmJEbThCWWlIVDdUMkx6eWFQY2U0SDdZc0w5U21lVklhdmEyenhnbFRZRFg3WmxMLW1SNWdGSVNCNjFuUXU4RFk3RzZJU21NMllyRXpQdUx3MjhHVU43VzJnMW5kLXpyc0tOLUZJWU9BS3VlanhYdFhDdkVlQ1ViV1FrVDRRZkVrZUEtRTk0cWxVdjZObVBVN0FV0gG4AUFVX3lxTE54eTRicUM0ZEFSSGhmT0lvQmp2MTA2VWRCNHFKMTZiYkRtOEJZaUhUN1QyTHp5YVBjZTRIN1lzTDlTbWVWSWF2YTJ6eGdsVFlEWDdabEwtbVI1Z0ZJU0I2MW5RdThEWTdHNklTbU0yWXJFelB1THcyOEdVTjdXMmcxbmQtenJzS04tRklZT0FLdWVqeFh0WEN2RWVDVWJXUWtUNFFmRWtlQS1FOTRxbFV2Nk5tUFU3QVU?oc=5",
-            "description": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report LatestLY",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-30T02:40:18.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "LatestLY",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "World News | Nvidia Chief Seen as Target of China Spy Plot: Report LatestLY",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "FCC clears drone operations in 800MHz band",
@@ -22739,7 +22736,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-29T23:51:36.000Z",
-            "fetchedAt": "2026-10-30T06:30:52.619Z",
+            "fetchedAt": "2026-10-30T13:38:15.184Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22748,7 +22745,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-            "id": "a7"
+            "id": "a10"
           },
           {
             "title": "The Export Control Cascade—Part 1: A Problem of Unintended Consequences - R Street Institute",
@@ -22758,7 +22755,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T23:29:50.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "R Street Institute",
             "geopoliticalBypass": true,
@@ -22768,26 +22765,47 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The Export Control Cascade—Part 1: A Problem of Unintended Consequences R Street Institute",
-            "id": "a8"
+            "id": "a11"
           },
           {
-            "title": "IRS CEO Bisignano donates to Trump Accounts in his childhood Brooklyn ZIP code",
-            "url": "https://www.cnbc.com/2026/10/29/trump-accounts-frank-bisignano-brooklyn.html",
-            "description": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
+            "title": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOeEdVektMR0xoRTJpbnYweGNXQkZuVE04LW1VOUlLTWxDN0NYWjJaOEtINmktV05nQzNLbU1lcVJYeWs5Z29jeGphZTRVeXpoUjBjZU9HTUxzdVlHckVRemQ2bjhyaU9TQnhHZE1GYXRzNjRKcmY1akZ6dXdEU1lrSm9INU9ISGg3LWZGUUtwS2Vad2dQZ003bi1Eek95U3BOX0I0T3JjNkN5SDB2ODMzck4yUUZodkVqdGl6c3hXT1c0Vk1nZGQ5NEpHb283SGlacnVId3RJMktzZw?oc=5",
+            "description": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-10-29T21:55:42.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.329Z",
-            "fetchStrategy": "rss",
+            "publishedAt": "2026-10-29T22:30:05.000Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "IRS CEO Frank Bisignano has donated to Trump Accounts for Brooklyn kids from his hometown ZIP code. Here's what families need to know.",
-            "id": "a9"
+            "summary": "Jensen Huang Says Nvidia Counted All GPUs At Firm Under Probe For Spying For China TradingView",
+            "id": "a12"
+          },
+          {
+            "title": "Nvidia chief seen as target of China spy plot: Report - www.irishsun.com",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNOVlOQ3lpLWJQaXdrX3QtZldncHlnQ3JYa194ZVJTTkhTSFAyQnEtVTJ3TVE1NVliQmNxMlJSYXVyOXpxcDBiSTctY1BiWUE1NWpNY1JQLTNHR1BuZHY5THh1X0h0TW0tRnd3MFdLQTROblJDd196NlhQMkJ0NXdIb2l6bUZ2RmpXN1FPMVZwY3BuY3pPRGJv?oc=5",
+            "description": "Nvidia chief seen as target of China spy plot: Report www.irishsun.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T22:28:00.000Z",
+            "fetchedAt": "2026-10-30T13:38:18.487Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "www.irishsun.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia chief seen as target of China spy plot: Report www.irishsun.com",
+            "id": "a13"
           },
           {
             "title": "Jensen Huang China Spy Report: 4 Facts Verified [2026] - https://tech-insider.org/",
@@ -22797,7 +22815,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T21:07:46.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "https://tech-insider.org/",
             "geopoliticalBypass": true,
@@ -22807,7 +22825,26 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Jensen Huang China Spy Report: 4 Facts Verified [2026] https://tech-insider.org/",
-            "id": "a10"
+            "id": "a14"
+          },
+          {
+            "title": "Nvidia CEO Says Ties to Company in Spy Probe Were ‘Normal’",
+            "url": "https://www.bloomberg.com/news/articles/2026-10-29/nvidia-ceo-says-ties-to-company-under-spying-probe-were-normal",
+            "description": "Nvidia Corp. Chief Executive Officer Jensen Huang said the chipmaker’s dealings with Megaspeed International were “normal and not unusual” following a New York Times report that one of the Singapore firm’s executives is under investigation for spying on behalf of China.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T18:50:51.000Z",
+            "fetchedAt": "2026-10-30T13:38:10.901Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chief Executive Officer Jensen Huang said the chipmaker’s dealings with Megaspeed International were “normal and not unusual” following a New York Times report that one of the Singapore firm’s executives is under investigation for spying on behalf of China.",
+            "id": "a15"
           },
           {
             "title": "NVIDIA CEO Under Spotlight as US Intelligence Raises China Concerns - Analytics Insight",
@@ -22817,7 +22854,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T18:30:00.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.386Z",
+            "fetchedAt": "2026-10-30T13:38:18.487Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Analytics Insight",
             "geopoliticalBypass": true,
@@ -22827,7 +22864,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "NVIDIA CEO Under Spotlight as US Intelligence Raises China Concerns Analytics Insight",
-            "id": "a11"
+            "id": "a16"
           },
           {
             "title": "Report: China Used Female Agent to Spy on Nvidia CEO Jensen Huang - Breitbart News",
@@ -22837,7 +22874,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T18:29:24.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.386Z",
+            "fetchedAt": "2026-10-30T13:38:18.487Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Breitbart News",
             "geopoliticalBypass": true,
@@ -22847,29 +22884,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Report: China Used Female Agent to Spy on Nvidia CEO Jensen Huang Breitbart News",
-            "id": "a12"
-          },
-          {
-            "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-            "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-            "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub, as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-29T18:18:36.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.990Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-            "id": "a13"
+            "id": "a17"
           },
           {
             "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -22879,7 +22894,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T16:55:10.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22887,7 +22902,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-            "id": "a14"
+            "id": "a18"
           },
           {
             "title": "US investigated Chinese spy plot aimed at Nvidia CEO",
@@ -22897,7 +22912,7 @@ export const NEWS_DATA = {
             "sourceId": "techcrunch",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-29T16:42:32.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.378Z",
+            "fetchedAt": "2026-10-30T13:38:10.642Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22906,7 +22921,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A top executive of a Singapore AI cloud company that was accused of illegally selling Nvidia chips to China could also have been a Chinese spy, sources have told the New York Times.",
-            "id": "a15"
+            "id": "a19"
           },
           {
             "title": "Nvidia CEO named in reported China spy probe - News Karnataka",
@@ -22916,7 +22931,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T15:35:20.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.487Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "News Karnataka",
             "geopoliticalBypass": true,
@@ -22926,7 +22941,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Nvidia CEO named in reported China spy probe News Karnataka",
-            "id": "a16"
+            "id": "a20"
           },
           {
             "title": "Washington’s Overlooked Leverage Over China’s Chip Ambitions - Lawfare",
@@ -22936,7 +22951,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T14:07:01.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
+            "fetchedAt": "2026-10-30T13:38:18.486Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Lawfare",
             "geopoliticalBypass": true,
@@ -22946,7 +22961,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Washington’s Overlooked Leverage Over China’s Chip Ambitions Lawfare",
-            "id": "a17"
+            "id": "a21"
           },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -22956,7 +22971,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22966,46 +22981,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a18"
-          },
-          {
-            "title": "US vs China: As the world splits into AI blocs, where does Europe stand? - Newswav",
-            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUkE0YkRac2hkX1RrbmZETzNQTGRlal9KWHNGUjVwb3BHcGtvaVphRVY2WlRPT1EzQ0xIWDRLVmVVNEktb0o5U211eW1ZRTRaWHRicERKWU4zVTRmY3RsRmkyOV9kN3ZINFpyeDFpYVplYms5LVhGQUNQTjJBQnR5aXgyYWx3UUdKNEowaGRxVE5ZYldQOWlhbG5aREczS0pIU3lKemxzWGxqdTJyeFpV?oc=5",
-            "description": "US vs China: As the world splits into AI blocs, where does Europe stand? Newswav",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-10-29T12:51:25.000Z",
-            "fetchedAt": "2026-10-30T06:30:54.385Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Newswav",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US vs China: As the world splits into AI blocs, where does Europe stand?",
-            "id": "a19"
-          },
-          {
-            "title": "C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech",
-            "url": "https://ipwatchdog.com/2026/10/28/c4ip-urges-treasury-to-reconsider-proposed-rule-to-extend-coins-act-investment-restrictions-to-biotech/",
-            "description": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "source": "IPWatchdog",
-            "sourceId": "ipwatchdog",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-10-28T17:15:58.000Z",
-            "fetchedAt": "2026-10-30T06:30:51.335Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The Council for Innovation Promotion (C4IP) issued a statement Tuesday expressing concern about a rule recently proposed by the U.S. Department of the Treasury to enact the Comprehensive Outbound Investment National Security (COINS) Act, which was itself enacted as part of the Fiscal Year 2026 National Defense Authorization Act. The post C4IP Urges Treasury to Reconsider Proposed Rule to Extend COINS Act Investment Restrictions to Biotech appeared first on IPWatchdog.com | Patents & Intellectual Property Law.",
-            "id": "a21"
+            "id": "a22"
           },
           {
             "title": "Earnings Preview: Qualcomm (QCOM) Q4 Earnings Expected to Decline",
@@ -23015,7 +22991,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T13:00:11.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23023,31 +22999,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (QCOM) doesn't possess the right combination of the two key ingredients for a likely earnings beat in its upcoming report. Get prepared with the key expectations.",
-            "id": "a24"
-          },
-          {
-            "title": "Singapore, Germany target applied AI",
-            "url": "https://www.mobileworldlive.com/industry/singapore-germany-target-applied-ai/",
-            "description": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-10-27T11:39:45.000Z",
-            "fetchedAt": "2026-10-30T06:30:52.352Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The prime minister of Singapore backed the city state to carve out a meaningful role in industrial AI, arguing it holds several advantages over frontier developments being led by companies in the US and China. The post Singapore, Germany target applied AI appeared first on Mobile World Live.",
-            "id": "a27"
+            "id": "a26"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.515Z",
         "date": "2026-10-30",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23058,59 +23015,30 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-30T06:30:54.423Z",
+        "generatedAt": "2026-10-30T13:38:18.516Z",
         "date": "2026-10-30",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested",
-              "articleIds": [
-                "a13"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
             {
               "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
               "articleIds": [
-                "a18"
+                "a22"
               ],
               "subCategory": "market-performance"
             },
             {
               "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
               "articleIds": [
-                "a22"
+                "a24"
               ],
               "subCategory": "semiconductors"
             }
           ]
         },
         "articles": [
-          {
-            "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-            "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-            "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub, as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-29T18:18:36.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.990Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-            "id": "a13"
-          },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
             "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -23119,7 +23047,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23129,7 +23057,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a18"
+            "id": "a22"
           },
           {
             "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -23139,7 +23067,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-28T16:26:03.000Z",
-            "fetchedAt": "2026-10-30T06:30:48.482Z",
+            "fetchedAt": "2026-10-30T13:38:10.718Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -23149,12 +23077,12 @@ export const NEWS_DATA = {
               "foundry"
             ],
             "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-            "id": "a22"
+            "id": "a24"
           }
         ]
       }
     },
-    "totalArticles": 30
+    "totalArticles": 29
   }
 };
 

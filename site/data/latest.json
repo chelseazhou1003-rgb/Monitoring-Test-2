@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-10-30T06:30:54.425Z",
+  "generatedAt": "2026-10-30T13:38:18.517Z",
   "date": "2026-10-30",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 5,
-      "topHeadline": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
-      "topHeadlineId": "a20",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources."
+      "topHeadline": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+      "topHeadlineId": "a4",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -26,7 +26,7 @@
     "macro-environment": {
       "title": "Macro",
       "articleCount": 22,
-      "topHeadline": "Why Trump’s tech dreams are quietly crumbling",
+      "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (3 articles). A total of 22 articles were aggregated from monitored sources."
     },
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-      "topHeadlineId": "a13",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 2,
+      "topHeadline": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+      "topHeadlineId": "a22",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 30
+  "totalArticles": 29
 }

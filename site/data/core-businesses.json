@@ -1,28 +1,39 @@
 {
-  "generatedAt": "2026-10-30T06:30:54.423Z",
+  "generatedAt": "2026-10-30T13:38:18.515Z",
   "date": "2026-10-30",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff",
+        "text": "Semiconductors: Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metri",
         "articleIds": [
-          "a20"
+          "a4"
         ],
         "subCategory": "semiconductors"
-      },
-      {
-        "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure",
-        "articleIds": [
-          "a26"
-        ],
-        "subCategory": "wireless"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
+      "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-30T12:15:07.000Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+      "id": "a4"
+    },
     {
       "title": "ON Semiconductor Falls 5%, NXP Semiconductors Drops 4% as Soft Guidance Revives Auto Chip Worries; Skyworks Ticks Up, Qualcomm and Texas Instruments Dip",
       "url": "https://247wallst.com/investing/2026/10/28/on-semiconductor-falls-5-nxp-semiconductors-drops-4-as-soft-guidance-revives-auto-chip-worries-skyworks-ticks-up-qualcomm-and-texas-instruments-dip/?.tsrc=rss",
@@ -31,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T17:20:17.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -39,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "NXP Semiconductors beat earnings estimates but its cautious outlook sent auto-exposed chipmakers sliding, and the ripple effect is hitting ON Semiconductor harder than NXP itself. Whether that selloff signals a broader auto chip downturn or a buying opportunity depends on what ON Semiconductor's next report reveals.",
-      "id": "a20"
+      "id": "a23"
     },
     {
       "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -49,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -59,7 +70,7 @@
         "foundry"
       ],
       "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a22"
+      "id": "a24"
     },
     {
       "title": "IBM vs. Qualcomm: Which AI Tech Giant Has More Upside Now?",
@@ -69,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T13:47:00.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -77,7 +88,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "IBM and QCOM are expanding their AI footprints, but contrasting growth prospects, competitive pressures and valuations make one stock more attractive.",
-      "id": "a23"
+      "id": "a25"
     },
     {
       "title": "Qualcomm Stock Has an AI Opportunity Most Nvidia Investors May Be Overlooking",
@@ -87,7 +98,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T12:51:16.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -95,25 +106,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm just posted a 61% automotive surge and quietly signed two hyperscaler custom silicon deals, yet the market still prices it like a handset company. Here is why that gap may not last much longer.",
-      "id": "a25"
-    },
-    {
-      "title": "What Is Qualcomm (QCOM) Signaling With Its BlueChip Government Laptop Push?",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-signaling-bluechip-government-190527671.html?.tsrc=rss",
-      "description": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-27T19:05:27.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QUALCOMM (NasdaqGS:QCOM) and defense technology contractor Anduril are launching a US-focused BlueChip laptop for government and first responders in 2026. The BlueChip device is positioned as a secure, US-assembled system with a supply chain centered on domestic components and manufacturing partners. QUALCOMM is pairing the BlueChip rollout with new custom AI and 5G ASIC design capabilities linked to its Alphawave IP acquisition. The BlueChip laptop launch with Anduril points to potential...",
-      "id": "a26"
+      "id": "a27"
     }
   ]
 }

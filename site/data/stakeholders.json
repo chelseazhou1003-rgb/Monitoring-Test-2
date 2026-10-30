@@ -1,57 +1,28 @@
 {
-  "generatedAt": "2026-10-30T06:30:54.423Z",
+  "generatedAt": "2026-10-30T13:38:18.516Z",
   "date": "2026-10-30",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Semiconductors (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested",
-        "articleIds": [
-          "a13"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
         "articleIds": [
-          "a18"
+          "a22"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
         "articleIds": [
-          "a22"
+          "a24"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Ikea&#8217;s colorful donut-shaped smart lamp is $20 off",
-      "url": "https://www.theverge.com/gadgets/1022440/ikea-varmblixt-smart-lamp-deal-sale",
-      "description": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy). At just 180 lumens, it isn’t particularly bright, so it’s better suited for use as a bedside lamp or for mood lighting than being tasked to illuminate a room. The newer model lets you cycle through 12 preset colors, including shades of pink, blue, green, and white, as opposed to just orange with the predecessor. The included wireless remote lets you switch between colors, adjust the brightness, and turn the lamp on or off without needing an app or a separate hub (there’s a power button on the lamp itself) . You can also use the remote to control other compatible Ikea lights. For those who want to embed the Varmblixt into their smart home setup, the lamp supports Matter, allowing it to work with compatible smart home platforms including Apple Home, Google Home, and Amazon Alexa. In addition to letting you control the lights with your voice, this gives you access to hundreds more colors, lets you set lighting schedules and sleep or wake-up routines, and allows you to connect the lamp with motion sensors and other smart lights you may have. You can unlock those features with Ikea’s Dirigera hub, as well, which also offers a feature through its Home Smart app that gradually adjusts the shade of white throughout the day akin to natural daylight. Read our Ikea Varmblixt review.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-29T18:18:36.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.990Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-      "id": "a13"
-    },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
       "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -60,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -70,7 +41,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a18"
+      "id": "a22"
     },
     {
       "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -80,7 +51,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-30T06:30:48.482Z",
+      "fetchedAt": "2026-10-30T13:38:10.718Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -90,7 +61,7 @@
         "foundry"
       ],
       "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a22"
+      "id": "a24"
     }
   ]
 }
