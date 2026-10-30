@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T00:27:22.082Z",
+  "generatedAt": "2026-10-30T06:30:54.423Z",
   "date": "2026-10-30",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Geopolitics & Export Controls: With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested",
         "articleIds": [
-          "a8"
+          "a13"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
         "articleIds": [
-          "a14"
+          "a18"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Semiconductors: The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdrag",
         "articleIds": [
-          "a19"
+          "a22"
         ],
         "subCategory": "semiconductors"
       }
@@ -38,7 +38,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-29T18:18:36.000Z",
-      "fetchedAt": "2026-10-30T00:27:16.133Z",
+      "fetchedAt": "2026-10-30T06:30:48.990Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -50,7 +50,7 @@
         "platform-partner"
       ],
       "summary": "With its playful design, versatility, and relatively affordable price, the Ikea Varmblixt quickly became one of my colleague Jennifer Pattison Tuohy’s new favorite smart light products when she tested it in April. Now, the donut-shaped lamp is on sale for $79.99 ($20 off) through November 11th at Ikea. Ikea Varmblixt lamp Where to Buy: $99.99 $79.99 at Ikea window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Don’t let us tell you where you can or cannot put your Varmblixt. But it’s meant to sit on a table or be mounted on a wall (it can hang from a drilled-in screw, nothing fancy).",
-      "id": "a8"
+      "id": "a13"
     },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -60,7 +60,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-30T00:27:15.696Z",
+      "fetchedAt": "2026-10-30T06:30:48.482Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -70,7 +70,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a14"
+      "id": "a18"
     },
     {
       "title": "Anduril, Qualcomm partner on BlueChip computer hardware line",
@@ -80,7 +80,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-28T16:26:03.000Z",
-      "fetchedAt": "2026-10-30T00:27:15.696Z",
+      "fetchedAt": "2026-10-30T06:30:48.482Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -90,7 +90,7 @@
         "foundry"
       ],
       "summary": "The semiconductor company will supply its Snapdragon X Series processor to power the defense startup’s laptop, which will be built at its Arsenal-1 facility in Ohio. TSMC will manufacture the Snapdragon chip.",
-      "id": "a19"
+      "id": "a22"
     }
   ]
 }
