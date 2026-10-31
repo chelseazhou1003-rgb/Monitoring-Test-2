@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T02:44:49.279Z",
+  "generatedAt": "2026-10-31T08:57:55.539Z",
   "date": "2026-10-31",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
         "articleIds": [
-          "a1"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
@@ -31,7 +31,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-30T22:32:53.000Z",
-      "fetchedAt": "2026-10-31T02:44:42.093Z",
+      "fetchedAt": "2026-10-31T08:57:49.649Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -42,7 +42,7 @@
         "oem"
       ],
       "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-      "id": "a1"
+      "id": "a3"
     },
     {
       "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
@@ -52,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-30T15:29:02.000Z",
-      "fetchedAt": "2026-10-31T02:44:42.093Z",
+      "fetchedAt": "2026-10-31T08:57:49.649Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -64,7 +64,7 @@
         "platform-partner"
       ],
       "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-31T02:44:41.447Z",
+      "fetchedAt": "2026-10-31T08:57:49.316Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",

@@ -1,21 +1,46 @@
 {
-  "generatedAt": "2026-10-31T02:44:49.279Z",
+  "generatedAt": "2026-10-31T08:57:55.538Z",
   "date": "2026-10-31",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+        "articleIds": [
+          "a4"
+        ],
+        "subCategory": "mobile-chips"
+      },
       {
         "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
         "articleIds": [
-          "a6"
+          "a9"
         ],
         "subCategory": "semiconductors"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
+      "url": "https://www.barchart.com/story/news/8563943/qualcomm-is-teaming-up-with-anduril-to-produce-u-s-made-laptops-dont-expect-it-to-move-the-needle-for-qcom-stock?.tsrc=rss",
+      "description": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-10-30T21:44:54.000Z",
+      "fetchedAt": "2026-10-31T08:57:49.316Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+      "id": "a4"
+    },
     {
       "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
       "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
@@ -24,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T14:56:49.000Z",
-      "fetchedAt": "2026-10-31T02:44:41.447Z",
+      "fetchedAt": "2026-10-31T08:57:49.316Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -32,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -42,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T12:15:07.000Z",
-      "fetchedAt": "2026-10-31T02:44:41.447Z",
+      "fetchedAt": "2026-10-31T08:57:49.316Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -50,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "id": "a10"
+      "id": "a13"
     }
   ]
 }
