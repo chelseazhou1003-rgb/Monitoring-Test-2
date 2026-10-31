@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-30T23:16:49.694Z",
+  "generatedAt": "2026-10-31T02:44:49.282Z",
   "date": "2026-10-31",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 2,
       "topHeadline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a6",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 9,
+      "articleCount": 15,
       "topHeadline": "Apple Intelligence is finally coming to China with iOS 27.3",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 14
+  "totalArticles": 20
 }

@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,7 +23,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
           "articleIds": [
-            "a4"
+            "a6"
           ],
           "subCategory": "semiconductors"
         }
@@ -38,7 +38,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T14:56:49.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.405Z",
+        "fetchedAt": "2026-10-31T02:44:41.447Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -46,7 +46,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-        "id": "a4"
+        "id": "a6"
       },
       {
         "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -56,7 +56,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T12:15:07.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.405Z",
+        "fetchedAt": "2026-10-31T02:44:41.447Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -64,12 +64,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "id": "a7"
+        "id": "a10"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -80,7 +80,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -91,14 +91,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-30T23:16:49.694Z",
+    "generatedAt": "2026-10-31T02:44:49.282Z",
     "date": "2026-10-31",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 2,
         "topHeadline": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-        "topHeadlineId": "a4",
+        "topHeadlineId": "a6",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -117,10 +117,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 9,
+        "articleCount": 15,
         "topHeadline": "Apple Intelligence is finally coming to China with iOS 27.3",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles). A total of 15 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -137,15 +137,15 @@ export const NEWS_DATA = {
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), market-performance (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 14
+    "totalArticles": 20
   },
   "macro-environment": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles). A total of 15 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
@@ -155,9 +155,9 @@ export const NEWS_DATA = {
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher o",
+          "text": "market-performance: Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
           "articleIds": [
-            "a10"
+            "a2"
           ],
           "subCategory": "market-performance"
         }
@@ -172,7 +172,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.954Z",
+        "fetchedAt": "2026-10-31T02:44:42.093Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -186,6 +186,45 @@ export const NEWS_DATA = {
         "id": "a1"
       },
       {
+        "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
+        "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T19:02:50.000Z",
+        "fetchedAt": "2026-10-31T02:44:48.039Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
+        "id": "a2"
+      },
+      {
+        "title": "China denies spying on Nvidia's Jensen Huang - The New Indian Express",
+        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnJoNFhDQnlvVVNBbnh1cUFmaEdGbUpJZDdKbVVHWUNhMEtyODhIandtNmRmbVJnTGRyaXE4emo2c0djLVcwNGtqTHFlNW16bktXM1dBc1dac2xMYjJOMkhrQ1BMUnpPdjJaTzBLUFJ5WmJWUlhOdURFd1FMT1RqZkZpUy1DWW1sRmJnMGd0T0MtNjRGSDNrVjln0gGnAUFVX3lxTE83T2RuVXZsM1Z4dUdBUGl3czQteGRHUmM5aXpPc3dsTXItbWFCYXc4aklSb3hjWDNRZkxzZWZFbUZ6SUdlbVpLWHlvR0p6cExoTWJQMlA4ZE5IMFQxa0EzMG9rUU5JdnFkSFcxOFMxRGQ4b0Z3b1hLcVpEazk3WkpwVGZhTmRmU1k2V3ZMTEQxU05HYUZRWU5kZlVYNEItR3lUUzlGTTc0?oc=5",
+        "description": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T18:57:42.000Z",
+        "fetchedAt": "2026-10-31T02:44:49.246Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "The New Indian Express",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
+        "id": "a3"
+      },
+      {
         "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
         "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
         "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away. Additionally, it includes a remote temperature sensor in the box, so you can better adjust the temperature in your preferred room, whether that’s the bedroom or another space in your home. The Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room. When you get closer, it reveals more detailed information, including outdoor air quality and humidity levels. The Matter-ready device also works with more HVAC systems than the third-gen model, along with a host of compatible humidifiers, dehumidifiers, and ventilation equipment. Plus, unlike many smart thermostats, it doesn’t require a C-wire in most homes either, though using one can help ensure consistent power. Read our full Nest Learning Thermostat (fourth-gen) review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Three more deals that aren’t as pricey You can get the black Casio WS-B1000 at Amazon and Walmart for just $23.88 ($41 off), which is its best price to date. The retro-style digital watch lacks advanced health sensors and features like contactless payments, but it does offer some basic fitness tracking, including a built-in step counter and Bluetooth connectivity for syncing your activity data with your phone; it also comes with a stopwatch and alarms. Read our review. We recently highlighted an ongoing deal on a single AirTag, but if you want to stock up, Amazon, Best Buy, and Walmart are now selling a four-pack for $69.99 ($30 off), which is the lowest price we’ve seen. Apple’s second-gen AirTag is our top pick for iPhone owners thanks to its impressively precise tracking, which can guide you directly to a lost item. You can also locate items with an Apple Watch Series 9 or later and share an AirTag’s location with participating airlines, such as United and Delta, helping you recover lost luggage. Read our review. SwitchBot’s 12-inch RGBICWW Ceiling Light is available at Amazon for $36.99 ($12 off) when you clip the on-page coupon, or directly from SwitchBot for the same price with code HWHW26. The Matter-compatible smart light — which is also discounted in a 15-inch size — offers 26 preset scenes, eight lighting effects, and the ability to create your own. The main difference between the two sizes is the brightness: the 15-inch model delivers up to 3,200 lumens, compared to 2,000 lumens for the smaller version.",
@@ -193,7 +232,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T15:29:02.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.954Z",
+        "fetchedAt": "2026-10-31T02:44:42.093Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -205,7 +244,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
@@ -215,7 +254,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T15:17:51.000Z",
-        "fetchedAt": "2026-10-30T23:16:33.365Z",
+        "fetchedAt": "2026-10-31T02:44:47.623Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -224,7 +263,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -234,7 +273,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T13:39:55.000Z",
-        "fetchedAt": "2026-10-30T23:16:31.869Z",
+        "fetchedAt": "2026-10-31T02:44:43.624Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -243,7 +282,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "id": "a5"
+        "id": "a7"
+      },
+      {
+        "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+        "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+        "description": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+        "source": "Wall Street Journal",
+        "sourceId": "wsj",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T13:01:00.000Z",
+        "fetchedAt": "2026-10-31T02:44:48.040Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "WSJ",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+        "id": "a8"
       },
       {
         "title": "China slates latest US proposal targeting operators",
@@ -253,7 +312,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-30T12:15:18.000Z",
-        "fetchedAt": "2026-10-30T23:16:33.162Z",
+        "fetchedAt": "2026-10-31T02:44:47.210Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -262,7 +321,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "How North Korea became a hacking superpower",
@@ -272,7 +331,7 @@ export const NEWS_DATA = {
         "sourceId": "ft",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T11:20:19.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.778Z",
+        "fetchedAt": "2026-10-31T02:44:41.972Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -281,7 +340,67 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-        "id": "a8"
+        "id": "a11"
+      },
+      {
+        "title": "Position paper – Chips Act 2.0 - ACEA - European Automobile Manufacturers' Association",
+        "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VemU4NG5jbDNJQjRGeGdCa29rVmxkSF90cFlWWVBTTldBNUVwdVpZYjAwRWtmSmxlQ0h5T1ljbTBOX1JIa1hmanFHN1k3S3psVi0xQWEzbkRrNldaRGtobDY0YTYyTHJUZjBvMll0M3c?oc=5",
+        "description": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T09:16:41.000Z",
+        "fetchedAt": "2026-10-31T02:44:49.246Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "ACEA - European Automobile Manufacturers' Association",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+        "id": "a12"
+      },
+      {
+        "title": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China - Mathrubhumi English",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWZTbjFjUTZ0aURXb1hLazQ1VmZmNURVZ3pHc05NWFBDVlcySlh0S0M0Y29DbmwxaGVseVhuWXhOODk5YlN4YkpmR0owWE9wOFZsRUVjWEJqLTZzMmgwUjMwUnRrdTJqcFYzNWNwZnZaODRWTUhHUFJYckYwRHBqSUQ0ZkpqMGtCY2RUUm1KZEZVUXBPU2U1UWxUbXVJbHR1QUQ1czM5akQ2R2hrbjMzMHoydTBXcTl5ZGdJ0gG7AUFVX3lxTFB1ZlNuMWNRNnRpRFdvWEtrNDVWZmY1RFVnekdzTk1YUENWVzJKWHRLQzRjb0NubDFoZWx5WG5ZeE44OTliU3hiSmZHSjBYT3A4VmxFRWNYQmotNnMyaDBSMzBSdGt1MmpwVjM1Y3Bmdlo4NFZNSEdQUlhyRjBEcGpJRDRmSmowa0JjZFRSbUpkRlVRcE9TZTVRbFRtdUlsdHVBRDVzMzlqRDZHaGtuMzMwejJ1MFdxOXlkZ0k?oc=5",
+        "description": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T04:01:17.000Z",
+        "fetchedAt": "2026-10-31T02:44:49.246Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Mathrubhumi English",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
+        "id": "a13"
+      },
+      {
+        "title": "Trump targets foreign robotics imports under Section 232, citing national security risks - digitimes",
+        "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3N2RmNDOFhqOWU5QXAtNjRBZDhkX3doRWhJUXFRc3JSTWxmSjZPRUJPZlBVWXVDNmdpaXlUb1U5WWJ4RnpuX2xrLWNLUndpUkttLTl4N2lDcjhVY0tuU0R6R0lvcm81UFBsRkJMTVQ0TkJIWkw0SDRJeTY1UEZNUE1fSmF0aEtTODZBSS12ZkFZZnJaS1FOUk9DQ21reFFVRWtQNzAwTWM?oc=5",
+        "description": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-10-30T03:40:48.000Z",
+        "fetchedAt": "2026-10-31T02:44:49.246Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "digitimes",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
+        "id": "a14"
       },
       {
         "title": "FCC clears drone operations in 800MHz band",
@@ -291,7 +410,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-29T23:51:36.000Z",
-        "fetchedAt": "2026-10-30T23:16:33.419Z",
+        "fetchedAt": "2026-10-31T02:44:47.496Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -300,7 +419,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-        "id": "a9"
+        "id": "a15"
       },
       {
         "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -310,7 +429,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T16:55:10.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.405Z",
+        "fetchedAt": "2026-10-31T02:44:41.447Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -318,7 +437,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-        "id": "a10"
+        "id": "a16"
       },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -328,7 +447,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.405Z",
+        "fetchedAt": "2026-10-31T02:44:41.447Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -338,7 +457,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a11"
+        "id": "a17"
       }
     ]
   },
@@ -534,7 +653,7 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-30T23:16:49.692Z",
+    "generatedAt": "2026-10-31T02:44:49.279Z",
     "date": "2026-10-31",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
@@ -551,7 +670,7 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
           "articleIds": [
-            "a11"
+            "a17"
           ],
           "subCategory": "market-performance"
         }
@@ -566,7 +685,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.954Z",
+        "fetchedAt": "2026-10-31T02:44:42.093Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -587,7 +706,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T15:29:02.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.954Z",
+        "fetchedAt": "2026-10-31T02:44:42.093Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -599,7 +718,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -609,7 +728,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-30T23:16:29.405Z",
+        "fetchedAt": "2026-10-31T02:44:41.447Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -619,582 +738,9 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a11"
+        "id": "a17"
       }
     ]
-  },
-  "archive-2026-09-30": {
-    "generatedAt": "2026-09-30T14:15:19.909Z",
-    "date": "2026-09-30",
-    "sections": {
-      "core-businesses": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "core-businesses",
-        "sectionTitle": "Core Businesses",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (3 articles), Semiconductors (2 articles). A total of 5 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Mobile Chips: Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-              "articleIds": [
-                "a3"
-              ],
-              "subCategory": "mobile-chips"
-            },
-            {
-              "text": "Semiconductors: Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals ",
-              "articleIds": [
-                "a11"
-              ],
-              "subCategory": "semiconductors"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Broadcom vs. Qualcomm: Which Technology Stock Is a Better Buy in 2026?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/09/30/broadcom-vs-qualcomm-which-technology-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-            "description": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T12:20:01.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Broadcom's net margin towers at 36%, but customer concentration and a hefty SBC load cloud the picture; Qualcomm trades at half the valuation despite handset headwinds.",
-            "id": "a3"
-          },
-          {
-            "title": "Qualcomm Stock Moves Higher as Mobile AI Moves From Answers to Action",
-            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stock-moves-higher-mobile-185856411.html?.tsrc=rss",
-            "description": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T18:58:56.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Snapdragon's agentic pitch expands on-device computing, but demonstrations must become profitable smartphone shipments.",
-            "id": "a9"
-          },
-          {
-            "title": "Arm Jumps 5% as Chip Selloff Unwinds; Marvell Climbs 4%, Qualcomm Inches Higher",
-            "url": "https://247wallst.com/investing/2026/09/29/arm-jumps-5-as-chip-selloff-unwinds-marvell-climbs-4-qualcomm-inches-higher/?.tsrc=rss",
-            "description": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T15:06:14.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Chip stocks are snapping back after a brutal session, but the recovery is anything but even, with one name surging five times harder than another. What separates the leaders from the laggards reveals something important about where semiconductor money is flowing right now.",
-            "id": "a11"
-          },
-          {
-            "title": "Intel vs. Qualcomm: Which Chip Stock Is a Better Buy in 2026?",
-            "url": "https://www.fool.com/coverage/better-buy/2026/09/28/intel-vs-qualcomm-which-chip-stock-is-a-better-buy-in-2026/?.tsrc=rss",
-            "description": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T19:35:53.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Intel is in the middle of a dramatic turnaround with revenue growing at its fastest pace in 15 years. Qualcomm is the more profitable business today, navigating smartphone headwinds while building new growth engines in automotive and data centers.",
-            "id": "a17"
-          },
-          {
-            "title": "Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek",
-            "url": "https://www.mobileworldlive.com/network-tech/impinj-expands-mobile-rfid-ecosystem-with-qualcomm-mediatek/",
-            "description": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-09-28T16:01:00.000Z",
-            "fetchedAt": "2026-09-30T14:15:17.579Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "mobile-chips",
-            "subLabel": "Mobile Chips",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US technology company Impinj aims to bring RAIN RFID to more handhelds, rugged tablets and other enterprise devices, backed by chipset support from Qualcomm Technologies and MediaTek. The post Impinj expands mobile RFID ecosystem with Qualcomm, MediaTek appeared first on Mobile World Live.",
-            "id": "a18"
-          }
-        ]
-      },
-      "ip-legal": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "ip-legal",
-        "sectionTitle": "IP & Legal",
-        "briefing": {
-          "summary": "One article today covering Patent Litigation. Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-          "keyTakeaways": [
-            {
-              "text": "Patent Litigation: Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-              "articleIds": [
-                "a10"
-              ],
-              "subCategory": "patent-litigation"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute - Law360",
-            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE1jeU41anFXVUpBXzRzYTFnLXNFcHY1TWxEdjJMSGpGTTQweWNqd3RvREpPZzFzNWI5X0F5QjRGYmdXMUpRS1pWcEpzTURNdVlP0gFWQVVfeXFMTjdnMFYzQ1JXYnZ0OWhESGlsdGY3NEU5Mi1zdS14SFg1SHlfOWdEOUhDZHZMMDZQb1kzWWdvWDFaMktpUmZvT19sMGU3SWRuWkJNdXJJY0E?oc=5",
-            "description": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-            "source": "Law360 IP",
-            "sourceId": "law360-ip",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-29T18:53:36.000Z",
-            "fetchedAt": "2026-09-30T14:15:19.711Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Law360",
-            "section": "ip-legal",
-            "subCategory": "patent-litigation",
-            "subLabel": "Patent Litigation",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Presses High Court To Ignore FedEx RPI Dispute Law360",
-            "id": "a10"
-          }
-        ]
-      },
-      "growth-areas": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "growth-areas",
-        "sectionTitle": "Growth Areas",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "macro-environment": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "macro-environment",
-        "sectionTitle": "Macro",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (3 articles), Customers & Partners (1 article). A total of 14 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
-              "articleIds": [
-                "a1"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "Customers & Partners: Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-              "articleIds": [
-                "a5"
-              ],
-              "subCategory": "customers-partners"
-            },
-            {
-              "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-              "articleIds": [
-                "a12"
-              ],
-              "subCategory": "market-performance"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Trump's latest global tariffs face trade court challenge",
-            "url": "https://www.cnbc.com/2026/09/30/trump-tariffs-trade-lawsuit.html",
-            "description": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T14:04:46.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.648Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "The Trump administration says the tariffs respond to countries failing to effectively ban the trade of goods produced using forced-labor practices.",
-            "id": "a1"
-          },
-          {
-            "title": "'Super intelligence is a national security issue,' Jay Clayton says; dodges AI 'czar' question",
-            "url": "https://www.cnbc.com/2026/09/30/ai-national-security-jay-clayton.html",
-            "description": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T13:59:10.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.648Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "A media report this week said President Donald Trump stated that Clayton, the director of national intelligence, would make a good AI czar.",
-            "id": "a2"
-          },
-          {
-            "title": "Trump denies offering Iran sanctions relief; Tehran receives U.S. proposal following Qatar talks",
-            "url": "https://www.cnbc.com/2026/09/30/us-iran-war-trump-hormuz.html",
-            "description": "U.S. President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T09:45:54.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.648Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "President Donald Trump has denied reports that he had offered sanctions relief to Iran in exchange for concessions from Tehran on its nuclear program.",
-            "id": "a4"
-          },
-          {
-            "title": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line - Electronics For You BUSINESS",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQQjc5UlZiV2ZGTTh4cEF0VnUtWnVWQnpkSnZiLWxtUFNSaWpza1dOVmpVSkdIbzYzVlg4LWJWNDQyZHdEMmNhT0VpV1BSb3BPejhzZTFXMVBzVGlXb3hGU3NUUEcySDZ0NHhUMVItbzNfSFpxbWdPejJ4NGQxc2Z1VTF5bEtMUHNWSm5JRFJ1RXEzbm55S0RKcEdFOW9ORXdXN3Zvbzc5ZGRXakFWb2QwZFR2VjJyX09UVWFuSzdSazdxbmg2Q19Sbw?oc=5",
-            "description": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-30T06:10:04.000Z",
-            "fetchedAt": "2026-09-30T14:15:19.878Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Electronics For You BUSINESS",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Global Electronics Association and Fraunhofer Partner on EU Chips Act Pilot Line Electronics For You BUSINESS",
-            "id": "a5"
-          },
-          {
-            "title": "America.gov gets really weird when you ask it about Minecraft, but it’s not a glitch",
-            "url": "https://techcrunch.com/2026/09/29/america-gov-gets-really-weird-when-you-ask-it-about-minecraft-but-its-not-a-glitch/",
-            "description": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-            "source": "TechCrunch",
-            "sourceId": "techcrunch",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-09-29T23:30:55.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.591Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "For the sake of national security, it's a relief to learn that America.gov is not hallucinating to the point that it's penning lengthy poetry.",
-            "id": "a6"
-          },
-          {
-            "title": "China Expands Travel Restrictions to AI, Semiconductor Talent Families - 조선일보",
-            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNQnRaQVNvUjlaQ05vclpIdURqVXJMaVpTUjRFOTR5U0VUQTJVRXVFRTVoYmdRTEtjY1ctZ3BkNnh0b3J1QVRSTlY2ZE1EVUZpeEwxU21obmFRMW1Fa05YVVJOSUtVeERJU2dkVEdXaDFIU3h6RmdWTDlpRkhlN1kyM1lSV0Y?oc=5",
-            "description": "China Expands Travel Restrictions to AI, Semiconductor Talent Families 조선일보",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T20:38:14.000Z",
-            "fetchedAt": "2026-09-30T14:15:19.878Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "조선일보",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China Expands Travel Restrictions to AI, Semiconductor Talent Families 조선일보",
-            "id": "a7"
-          },
-          {
-            "title": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill - azat.tv",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOcW90emRqZTZweWpMdG42WVIzbHd6UFVObE1XZm9QOHlRa09DcDZyb01rd2tlaGMtemRGU0NEUHZhdGNsa3JkYjY3SlpCanJnU2RxTExSSWs2OXZINmNQRDZNWUZDTGpleXFYclhEM0IxYTUxTjVxeFVXeXFoMTNpazBYVVY3Nm42MUpQZ3hPQQ?oc=5",
-            "description": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T19:45:00.000Z",
-            "fetchedAt": "2026-09-30T14:15:19.878Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "azat.tv",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia and AMD Lobby White House to Water Down China Chip Restrictions in Defense Bill azat.tv",
-            "id": "a8"
-          },
-          {
-            "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
-            "url": "https://www.tikr.com/blog/qualcomm-stock-fell-7-in-a-day-as-its-ai-and-apple-rally-cooled-heres-what-higher-2027-sales-estimates-mean?ref=yahoofinance&.tsrc=rss",
-            "description": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T14:31:38.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-            "id": "a12"
-          },
-          {
-            "title": "Apple, Meta, and SpaceX Are Driving a Device Boom—These 3 Stocks Could Benefit",
-            "url": "https://www.marketbeat.com/articles/apple-meta-and-spacex-are-driving-a-device-boomthese-3-stocks-could-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-            "description": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T13:10:00.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
-            "id": "a13"
-          },
-          {
-            "title": "Nvidia's answer to rogue AI changes the conversation",
-            "url": "https://finance.yahoo.com/video/nvidias-answer-rogue-ai-changes-110000350.html?.tsrc=rss",
-            "description": "Nvidia CEO Jensen Huang just made two huge moves that might change how we think about AI risk entirely. First, a new agent safety platform engineered to catch and quarantine rogue AI agents in milliseconds, then a record-shattering $235 billion stock buyback that speaks volumes about how confident Nvidia is in where this is all headed. In The Loop host Ejaaz Ahamadeen breaks down how this new two-part safety system actually works, why Huang's stance is the opposite of what other AI labs are saying, and what a recent state dinner guest list reveals about who's really steering the US-China AI race.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T11:00:00.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Nvidia CEO Jensen Huang just made two huge moves that might change how we think about AI risk entirely. First, a new agent safety platform engineered to catch and quarantine rogue AI agents in milliseconds, then a record-shattering $235 billion stock buyback that speaks volumes about how confident Nvidia is in where this is all headed. In The Loop host Ejaaz Ahamadeen breaks down how this new two-part safety system actually works, why Huang's stance is the opposite of what other AI labs are saying, and what a recent state dinner guest list reveals about who's really steering the US-China AI race.",
-            "id": "a14"
-          },
-          {
-            "title": "Novo Nordisk signs GLP-1 licensing agreement with China’s Hengrui Pharma",
-            "url": "https://ipfray.com/novo-nordisk-signs-glp-1-licensing-agreement-with-chinas-hengrui-pharma/",
-            "description": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-29T07:12:52.000Z",
-            "fetchedAt": "2026-09-30T14:15:17.617Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Novo Nordisk and Hengrui Pharma’s agreement, subject to antitrust approval, will allow Novo to obtain exclusive rights to develop, manufacture, and commercialize HRS-1596 globally, excluding mainland China, Hong Kong, Macao, and Taiwan.",
-            "id": "a15"
-          },
-          {
-            "title": "Why Qualcomm (QCOM) Stock Is Down Today",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
-            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T23:50:36.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "id": "a16"
-          },
-          {
-            "title": "Honor pushes cinematic qualities of latest flagship",
-            "url": "https://www.mobileworldlive.com/devices/honor-pushes-cinematic-qualities-of-latest-flagship/",
-            "description": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-            "source": "Mobile World Live",
-            "sourceId": "mobile-world-live",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-09-28T10:50:14.000Z",
-            "fetchedAt": "2026-09-30T14:15:17.579Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Honor unveiled its Magic9 Pro Max flagship smartphone at a launch event in China, promoting the device as a handheld camera system offering professional-level video features. The post Honor pushes cinematic qualities of latest flagship appeared first on Mobile World Live.",
-            "id": "a19"
-          },
-          {
-            "title": "Roborock turns the tables on Ecovacs: first UPC suit escalates patent war across U.S., Europe, China",
-            "url": "https://ipfray.com/roborock-turns-the-tables-on-ecovacs-first-upc-suit-escalates-patent-war-across-u-s-europe-china/",
-            "description": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-            "source": "IP Fray",
-            "sourceId": "ip-fray",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-09-28T06:55:51.000Z",
-            "fetchedAt": "2026-09-30T14:15:17.617Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Roborock has filed its first UPC infringement suit against Ecovacs, turning their UPC dispute into a two-way fight. Following two reported German injunction wins and the reversal of Ecovacs’ inspection order, the new Munich action escalates a patent battle between Chinese rivals spanning China, Europe and the U.S.",
-            "id": "a20"
-          }
-        ]
-      },
-      "competitors": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "competitors",
-        "sectionTitle": "Competitors",
-        "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-09-30T14:15:19.906Z",
-        "date": "2026-09-30",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans market-performance (3 articles). A total of 3 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-              "articleIds": [
-                "a12"
-              ],
-              "subCategory": "market-performance"
-            }
-          ]
-        },
-        "articles": [
-          {
-            "title": "Qualcomm Stock Fell 7% in a Day as Its AI and Apple Rally Cooled. Here’s What Higher 2027 Sales Estimates Mean",
-            "url": "https://www.tikr.com/blog/qualcomm-stock-fell-7-in-a-day-as-its-ai-and-apple-rally-cooled-heres-what-higher-2027-sales-estimates-mean?ref=yahoofinance&.tsrc=rss",
-            "description": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T14:31:38.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Key Stats for Qualcomm StockCurrent Price: $187. 48Target Price (Mid): ~$388Street Target: ~$194Potential Total Return: ~107%Annualized IRR: ~20% / yearWhat Happened?Qualcomm (QCOM) closed at $187.",
-            "id": "a12"
-          },
-          {
-            "title": "Apple, Meta, and SpaceX Are Driving a Device Boom—These 3 Stocks Could Benefit",
-            "url": "https://www.marketbeat.com/articles/apple-meta-and-spacex-are-driving-a-device-boomthese-3-stocks-could-benefit/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-            "description": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-29T13:10:00.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem",
-              "platform-partner"
-            ],
-            "summary": "Qualcomm's royalty base, STMicroelectronics' Starlink exposure and Oura's $15 billion IPO give investors three ways to trade the next personal device cycle.",
-            "id": "a13"
-          },
-          {
-            "title": "Why Qualcomm (QCOM) Stock Is Down Today",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-qcom-stock-down-235036316.html?.tsrc=rss",
-            "description": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-09-28T23:50:36.000Z",
-            "fetchedAt": "2026-09-30T14:15:13.812Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Shares of wireless chipmaker Qualcomm (NASDAQ:QCOM) fell 5.8% in the afternoon session after rally momentum faded, a Samsung 2nm pricing standoff left manufacturing talks drifting toward 2027, and chip stocks joined a broader tech selloff tied to rising yields.",
-            "id": "a16"
-          }
-        ]
-      }
-    },
-    "totalArticles": 23
   },
   "archive-2026-10-01": {
     "generatedAt": "2026-10-01T09:26:45.004Z",
@@ -22798,11 +22344,11 @@ export const NEWS_DATA = {
     "totalArticles": 29
   },
   "archive-2026-10-31": {
-    "generatedAt": "2026-10-30T23:16:49.694Z",
+    "generatedAt": "2026-10-31T02:44:49.282Z",
     "date": "2026-10-31",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -22812,7 +22358,7 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
               "articleIds": [
-                "a4"
+                "a6"
               ],
               "subCategory": "semiconductors"
             }
@@ -22827,7 +22373,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T14:56:49.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.405Z",
+            "fetchedAt": "2026-10-31T02:44:41.447Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22835,7 +22381,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-            "id": "a4"
+            "id": "a6"
           },
           {
             "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -22845,7 +22391,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T12:15:07.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.405Z",
+            "fetchedAt": "2026-10-31T02:44:41.447Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22853,12 +22399,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-            "id": "a7"
+            "id": "a10"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22869,7 +22415,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22880,12 +22426,12 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (3 articles). A total of 15 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
@@ -22895,9 +22441,9 @@ export const NEWS_DATA = {
               "subCategory": "geopolitics-export-controls"
             },
             {
-              "text": "market-performance: Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher o",
+              "text": "market-performance: Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
               "articleIds": [
-                "a10"
+                "a2"
               ],
               "subCategory": "market-performance"
             }
@@ -22912,7 +22458,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-30T22:32:53.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.954Z",
+            "fetchedAt": "2026-10-31T02:44:42.093Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22926,6 +22472,45 @@ export const NEWS_DATA = {
             "id": "a1"
           },
           {
+            "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
+            "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T19:02:50.000Z",
+            "fetchedAt": "2026-10-31T02:44:48.039Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
+            "id": "a2"
+          },
+          {
+            "title": "China denies spying on Nvidia's Jensen Huang - The New Indian Express",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnJoNFhDQnlvVVNBbnh1cUFmaEdGbUpJZDdKbVVHWUNhMEtyODhIandtNmRmbVJnTGRyaXE4emo2c0djLVcwNGtqTHFlNW16bktXM1dBc1dac2xMYjJOMkhrQ1BMUnpPdjJaTzBLUFJ5WmJWUlhOdURFd1FMT1RqZkZpUy1DWW1sRmJnMGd0T0MtNjRGSDNrVjln0gGnAUFVX3lxTE83T2RuVXZsM1Z4dUdBUGl3czQteGRHUmM5aXpPc3dsTXItbWFCYXc4aklSb3hjWDNRZkxzZWZFbUZ6SUdlbVpLWHlvR0p6cExoTWJQMlA4ZE5IMFQxa0EzMG9rUU5JdnFkSFcxOFMxRGQ4b0Z3b1hLcVpEazk3WkpwVGZhTmRmU1k2V3ZMTEQxU05HYUZRWU5kZlVYNEItR3lUUzlGTTc0?oc=5",
+            "description": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T18:57:42.000Z",
+            "fetchedAt": "2026-10-31T02:44:49.246Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The New Indian Express",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
+            "id": "a3"
+          },
+          {
             "title": "Google’s latest Nest Learning Thermostat is $60 off just in time for sweater weather",
             "url": "https://www.theverge.com/gadgets/1022819/google-nest-learning-thermostat-4th-gen-casio-ws-b1000-watch-deal-sale",
             "description": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away. Additionally, it includes a remote temperature sensor in the box, so you can better adjust the temperature in your preferred room, whether that’s the bedroom or another space in your home. The Nest Learning Thermostat also improves on its predecessor with a beautifully designed adaptive display that shows your temperature settings, the weather, and the time from across the room. When you get closer, it reveals more detailed information, including outdoor air quality and humidity levels. The Matter-ready device also works with more HVAC systems than the third-gen model, along with a host of compatible humidifiers, dehumidifiers, and ventilation equipment. Plus, unlike many smart thermostats, it doesn’t require a C-wire in most homes either, though using one can help ensure consistent power. Read our full Nest Learning Thermostat (fourth-gen) review. window.HYPE_DESK_CONFIG = { productImageUrl: \"https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/iphone_17e.png\", productImageAlt: \"iPhone 17e • Unlocked\", productTitle: \"iPhone 17e • Unlocked\", shortDescription: \"Save on an unlocked refurbished iPhone 17e\", longDescription: \"Upgrade to a 256GB unlocked iPhone 17e without paying full new-device pricing. Back Market offers professionally inspected refurbished phones with free 30-day returns and a one-year warranty.\", purchaseUrl: \"https://www.awin1.com/cread.php?awinmid=18275&awinaffid=299513&platform=dl&ued=https%3A%2F%2Fwww.backmarket.com%2Fen-us%2Fp%2Fiphone-17e%3Futm_source%3Dchatgpt.com\", purchaseLinkText: \"Shop At Back Market\" }; Three more deals that aren’t as pricey You can get the black Casio WS-B1000 at Amazon and Walmart for just $23.88 ($41 off), which is its best price to date. The retro-style digital watch lacks advanced health sensors and features like contactless payments, but it does offer some basic fitness tracking, including a built-in step counter and Bluetooth connectivity for syncing your activity data with your phone; it also comes with a stopwatch and alarms. Read our review. We recently highlighted an ongoing deal on a single AirTag, but if you want to stock up, Amazon, Best Buy, and Walmart are now selling a four-pack for $69.99 ($30 off), which is the lowest price we’ve seen. Apple’s second-gen AirTag is our top pick for iPhone owners thanks to its impressively precise tracking, which can guide you directly to a lost item. You can also locate items with an Apple Watch Series 9 or later and share an AirTag’s location with participating airlines, such as United and Delta, helping you recover lost luggage. Read our review. SwitchBot’s 12-inch RGBICWW Ceiling Light is available at Amazon for $36.99 ($12 off) when you clip the on-page coupon, or directly from SwitchBot for the same price with code HWHW26. The Matter-compatible smart light — which is also discounted in a 15-inch size — offers 26 preset scenes, eight lighting effects, and the ability to create your own. The main difference between the two sizes is the brightness: the 15-inch model delivers up to 3,200 lumens, compared to 2,000 lumens for the smaller version.",
@@ -22933,7 +22518,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-30T15:29:02.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.954Z",
+            "fetchedAt": "2026-10-31T02:44:42.093Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22945,7 +22530,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
@@ -22955,7 +22540,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T15:17:51.000Z",
-            "fetchedAt": "2026-10-30T23:16:33.365Z",
+            "fetchedAt": "2026-10-31T02:44:47.623Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22964,7 +22549,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -22974,7 +22559,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T13:39:55.000Z",
-            "fetchedAt": "2026-10-30T23:16:31.869Z",
+            "fetchedAt": "2026-10-31T02:44:43.624Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22983,7 +22568,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-            "id": "a5"
+            "id": "a7"
+          },
+          {
+            "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+            "description": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "source": "Wall Street Journal",
+            "sourceId": "wsj",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T13:01:00.000Z",
+            "fetchedAt": "2026-10-31T02:44:48.040Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WSJ",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "id": "a8"
           },
           {
             "title": "China slates latest US proposal targeting operators",
@@ -22993,7 +22598,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-30T12:15:18.000Z",
-            "fetchedAt": "2026-10-30T23:16:33.162Z",
+            "fetchedAt": "2026-10-31T02:44:47.210Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23002,7 +22607,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "How North Korea became a hacking superpower",
@@ -23012,7 +22617,7 @@ export const NEWS_DATA = {
             "sourceId": "ft",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T11:20:19.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.778Z",
+            "fetchedAt": "2026-10-31T02:44:41.972Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23021,7 +22626,67 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Cash-strapped state, cut off by sanctions, has invested heavily in cyber warfare to help support itself",
-            "id": "a8"
+            "id": "a11"
+          },
+          {
+            "title": "Position paper – Chips Act 2.0 - ACEA - European Automobile Manufacturers' Association",
+            "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1VemU4NG5jbDNJQjRGeGdCa29rVmxkSF90cFlWWVBTTldBNUVwdVpZYjAwRWtmSmxlQ0h5T1ljbTBOX1JIa1hmanFHN1k3S3psVi0xQWEzbkRrNldaRGtobDY0YTYyTHJUZjBvMll0M3c?oc=5",
+            "description": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T09:16:41.000Z",
+            "fetchedAt": "2026-10-31T02:44:49.246Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "ACEA - European Automobile Manufacturers' Association",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Position paper – Chips Act 2.0 ACEA - European Automobile Manufacturers' Association",
+            "id": "a12"
+          },
+          {
+            "title": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China - Mathrubhumi English",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQdWZTbjFjUTZ0aURXb1hLazQ1VmZmNURVZ3pHc05NWFBDVlcySlh0S0M0Y29DbmwxaGVseVhuWXhOODk5YlN4YkpmR0owWE9wOFZsRUVjWEJqLTZzMmgwUjMwUnRrdTJqcFYzNWNwZnZaODRWTUhHUFJYckYwRHBqSUQ0ZkpqMGtCY2RUUm1KZEZVUXBPU2U1UWxUbXVJbHR1QUQ1czM5akQ2R2hrbjMzMHoydTBXcTl5ZGdJ0gG7AUFVX3lxTFB1ZlNuMWNRNnRpRFdvWEtrNDVWZmY1RFVnekdzTk1YUENWVzJKWHRLQzRjb0NubDFoZWx5WG5ZeE44OTliU3hiSmZHSjBYT3A4VmxFRWNYQmotNnMyaDBSMzBSdGt1MmpwVjM1Y3Bmdlo4NFZNSEdQUlhyRjBEcGpJRDRmSmowa0JjZFRSbUpkRlVRcE9TZTVRbFRtdUlsdHVBRDVzMzlqRDZHaGtuMzMwejJ1MFdxOXlkZ0k?oc=5",
+            "description": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T04:01:17.000Z",
+            "fetchedAt": "2026-10-31T02:44:49.246Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Mathrubhumi English",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia CEO Jensen Huang linked in NYT report on data center executive accused of aiding China Mathrubhumi English",
+            "id": "a13"
+          },
+          {
+            "title": "Trump targets foreign robotics imports under Section 232, citing national security risks - digitimes",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3N2RmNDOFhqOWU5QXAtNjRBZDhkX3doRWhJUXFRc3JSTWxmSjZPRUJPZlBVWXVDNmdpaXlUb1U5WWJ4RnpuX2xrLWNLUndpUkttLTl4N2lDcjhVY0tuU0R6R0lvcm81UFBsRkJMTVQ0TkJIWkw0SDRJeTY1UEZNUE1fSmF0aEtTODZBSS12ZkFZZnJaS1FOUk9DQ21reFFVRWtQNzAwTWM?oc=5",
+            "description": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T03:40:48.000Z",
+            "fetchedAt": "2026-10-31T02:44:49.246Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "digitimes",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump targets foreign robotics imports under Section 232, citing national security risks digitimes",
+            "id": "a14"
           },
           {
             "title": "FCC clears drone operations in 800MHz band",
@@ -23031,7 +22696,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-29T23:51:36.000Z",
-            "fetchedAt": "2026-10-30T23:16:33.419Z",
+            "fetchedAt": "2026-10-31T02:44:47.496Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23040,7 +22705,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-            "id": "a9"
+            "id": "a15"
           },
           {
             "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -23050,7 +22715,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T16:55:10.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.405Z",
+            "fetchedAt": "2026-10-31T02:44:41.447Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23058,7 +22723,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-            "id": "a10"
+            "id": "a16"
           },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -23068,7 +22733,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.405Z",
+            "fetchedAt": "2026-10-31T02:44:41.447Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23078,12 +22743,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a11"
+            "id": "a17"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23094,7 +22759,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-30T23:16:49.692Z",
+        "generatedAt": "2026-10-31T02:44:49.279Z",
         "date": "2026-10-31",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
@@ -23111,7 +22776,7 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
               "articleIds": [
-                "a11"
+                "a17"
               ],
               "subCategory": "market-performance"
             }
@@ -23126,7 +22791,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-30T22:32:53.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.954Z",
+            "fetchedAt": "2026-10-31T02:44:42.093Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23147,7 +22812,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-10-30T15:29:02.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.954Z",
+            "fetchedAt": "2026-10-31T02:44:42.093Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23159,7 +22824,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "As the weather cools, it may be worth investing in a smart thermostat to help lower your energy bills. Right now, Google’s fourth-gen Nest Learning Thermostat is on sale in all three colors for $219.99 ($60 off) at Amazon, Best Buy, and The Home Depot, matching its best price of the year and just $10 shy of its all-time low. Google Nest Learning Thermostat (fourth-gen) Where to Buy: $279.99 $219.99 at Amazon $279.99 $219.99 at Best Buy $279.99 $219.99 at The Home Depot Google’s latest Nest Learning Thermostat is its most capable to date, and comes with new features designed to lower energy consumption without sacrificing comfort. Like prior models, it learns your heating and cooling preferences over time and automatically creates a schedule based on your habits, so you don’t have to constantly adjust the temperature yourself. It can also suggest schedule changes to save energy and automatically adjusts the temperature when you’re away.",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -23169,7 +22834,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-30T23:16:29.405Z",
+            "fetchedAt": "2026-10-31T02:44:41.447Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23179,12 +22844,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a11"
+            "id": "a17"
           }
         ]
       }
     },
-    "totalArticles": 14
+    "totalArticles": 20
   }
 };
 
