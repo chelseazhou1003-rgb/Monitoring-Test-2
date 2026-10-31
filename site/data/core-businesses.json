@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-31T08:57:55.538Z",
+  "generatedAt": "2026-10-31T15:30:38.596Z",
   "date": "2026-10-31",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
         "articleIds": [
-          "a4"
+          "a6"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
         "articleIds": [
-          "a9"
+          "a10"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T21:44:54.000Z",
-      "fetchedAt": "2026-10-31T08:57:49.316Z",
+      "fetchedAt": "2026-10-31T15:30:31.748Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -39,7 +39,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-      "id": "a4"
+      "id": "a6"
     },
     {
       "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T14:56:49.000Z",
-      "fetchedAt": "2026-10-31T08:57:49.316Z",
+      "fetchedAt": "2026-10-31T15:30:31.748Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T12:15:07.000Z",
-      "fetchedAt": "2026-10-31T08:57:49.316Z",
+      "fetchedAt": "2026-10-31T15:30:31.748Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
