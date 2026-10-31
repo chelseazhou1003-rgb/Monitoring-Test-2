@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,8 +13,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
@@ -30,7 +30,7 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
           "articleIds": [
-            "a10"
+            "a8"
           ],
           "subCategory": "semiconductors"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T21:44:54.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T14:56:49.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-        "id": "a10"
+        "id": "a8"
       },
       {
         "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T12:15:07.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -89,13 +89,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "id": "a13"
+        "id": "a11"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -105,8 +105,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -116,8 +116,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-31T15:30:38.598Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.106Z",
+    "date": "2026-11-01",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
@@ -142,10 +142,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 13,
+        "articleCount": 11,
         "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (4 articles). A total of 13 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -162,15 +162,15 @@ export const NEWS_DATA = {
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 18
+    "totalArticles": 16
   },
   "macro-environment": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (4 articles). A total of 13 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
@@ -197,7 +197,7 @@ export const NEWS_DATA = {
         "sourceId": "wsj",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T12:47:00.000Z",
-        "fetchedAt": "2026-10-31T15:30:37.444Z",
+        "fetchedAt": "2026-10-31T19:34:22.941Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WSJ",
         "geopoliticalBypass": true,
@@ -217,7 +217,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T09:25:59.000Z",
-        "fetchedAt": "2026-10-31T15:30:38.573Z",
+        "fetchedAt": "2026-10-31T19:34:24.068Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NewsBytes",
         "geopoliticalBypass": true,
@@ -237,7 +237,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T06:44:48.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -255,7 +255,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T04:47:47.000Z",
-        "fetchedAt": "2026-10-31T15:30:38.572Z",
+        "fetchedAt": "2026-10-31T19:34:24.068Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Startup Fortune",
         "geopoliticalBypass": true,
@@ -275,7 +275,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-31T15:30:32.603Z",
+        "fetchedAt": "2026-10-31T19:34:18.088Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -289,45 +289,6 @@ export const NEWS_DATA = {
         "id": "a5"
       },
       {
-        "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
-        "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T19:02:50.000Z",
-        "fetchedAt": "2026-10-31T15:30:37.446Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-        "id": "a7"
-      },
-      {
-        "title": "China denies spying on Nvidia's Jensen Huang - The New Indian Express",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnJoNFhDQnlvVVNBbnh1cUFmaEdGbUpJZDdKbVVHWUNhMEtyODhIandtNmRmbVJnTGRyaXE4emo2c0djLVcwNGtqTHFlNW16bktXM1dBc1dac2xMYjJOMkhrQ1BMUnpPdjJaTzBLUFJ5WmJWUlhOdURFd1FMT1RqZkZpUy1DWW1sRmJnMGd0T0MtNjRGSDNrVjln0gGnAUFVX3lxTE83T2RuVXZsM1Z4dUdBUGl3czQteGRHUmM5aXpPc3dsTXItbWFCYXc4aklSb3hjWDNRZkxzZWZFbUZ6SUdlbVpLWHlvR0p6cExoTWJQMlA4ZE5IMFQxa0EzMG9rUU5JdnFkSFcxOFMxRGQ4b0Z3b1hLcVpEazk3WkpwVGZhTmRmU1k2V3ZMTEQxU05HYUZRWU5kZlVYNEItR3lUUzlGTTc0?oc=5",
-        "description": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T18:57:42.000Z",
-        "fetchedAt": "2026-10-31T15:30:38.573Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The New Indian Express",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
-        "id": "a8"
-      },
-      {
         "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
         "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
         "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
@@ -335,7 +296,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T15:17:51.000Z",
-        "fetchedAt": "2026-10-31T15:30:37.132Z",
+        "fetchedAt": "2026-10-31T19:34:22.018Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -344,7 +305,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "id": "a9"
+        "id": "a7"
       },
       {
         "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -354,7 +315,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T13:39:55.000Z",
-        "fetchedAt": "2026-10-31T15:30:34.819Z",
+        "fetchedAt": "2026-10-31T19:34:20.048Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -363,7 +324,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "id": "a11"
+        "id": "a9"
       },
       {
         "title": "China slates latest US proposal targeting operators",
@@ -373,7 +334,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-30T12:15:18.000Z",
-        "fetchedAt": "2026-10-31T15:30:36.804Z",
+        "fetchedAt": "2026-10-31T19:34:21.836Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -382,7 +343,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "id": "a12"
+        "id": "a10"
       },
       {
         "title": "FCC clears drone operations in 800MHz band",
@@ -392,7 +353,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-29T23:51:36.000Z",
-        "fetchedAt": "2026-10-31T15:30:37.124Z",
+        "fetchedAt": "2026-10-31T19:34:22.151Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -401,7 +362,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-        "id": "a14"
+        "id": "a12"
       },
       {
         "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -411,7 +372,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T16:55:10.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -419,7 +380,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-        "id": "a15"
+        "id": "a13"
       },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -429,7 +390,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -439,7 +400,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a16"
+        "id": "a14"
       }
     ]
   },
@@ -635,8 +596,8 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-31T15:30:38.596Z",
-    "date": "2026-10-31",
+    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "date": "2026-11-01",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
@@ -652,7 +613,7 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
           "articleIds": [
-            "a16"
+            "a14"
           ],
           "subCategory": "market-performance"
         }
@@ -667,7 +628,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-31T15:30:32.603Z",
+        "fetchedAt": "2026-10-31T19:34:18.088Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -688,7 +649,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-31T15:30:31.748Z",
+        "fetchedAt": "2026-10-31T19:34:17.560Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -698,7 +659,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a16"
+        "id": "a14"
       }
     ]
   },
@@ -22770,6 +22731,435 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 18
+  },
+  "archive-2026-11-01": {
+    "generatedAt": "2026-10-31T19:34:24.107Z",
+    "date": "2026-11-01",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
+            "url": "https://www.barchart.com/story/news/8563943/qualcomm-is-teaming-up-with-anduril-to-produce-u-s-made-laptops-dont-expect-it-to-move-the-needle-for-qcom-stock?.tsrc=rss",
+            "description": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T21:44:54.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+            "id": "a6"
+          },
+          {
+            "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
+            "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
+            "description": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T14:56:49.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+            "id": "a8"
+          },
+          {
+            "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
+            "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-30T12:15:07.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
+            "id": "a11"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWHJLWWpfcXR5dEpVekREaFNLUlhOUmpFYm1neGZkZDh5blljZWw5WHdPWWZ4ZkVBbUJGOTFsWFVnUnJZODJNMVJiYWlfTFBMaTNwWjFZUFZsdHZweU9xUXZjX0dnMWpWN0pYOTEzNTFFYkRaWDRDdjJPdmVITzlmZTJVcmlqZWNZSXZzTmxuaU9WNlViUWtLYTBYLVZ3M2loY3FBa0JJWlFwZldqUWc?oc=5",
+            "description": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "source": "Wall Street Journal",
+            "sourceId": "wsj",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-31T12:47:00.000Z",
+            "fetchedAt": "2026-10-31T19:34:22.941Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "WSJ",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
+            "id": "a1"
+          },
+          {
+            "title": "US probes megaspeed executive Alice Huang over China chip smuggling - NewsBytes",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNU2QwN1ZBSlJoSUpQWHJOUExwVE5kbUNIUGhBQVNkdlh3aGF6ZDk3clc4S2ZTbTI0MDdzLUVMSkt5OXpiRVJUb1ZNSl9hU2Q4ZGJab3p4NWdlQ3QtR0U1WF9wcTBjYjZyS0poWDlvTW5lc3h1MnRFbjNLcXVxN1FXMG53YUhQR29JLVk1dEhURHYxWW9JajgtRjRXT0JQNElwSXg1YkRQNm5XV1RUejhIMGV4a0Z5dw?oc=5",
+            "description": "US probes megaspeed executive Alice Huang over China chip smuggling NewsBytes",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-31T09:25:59.000Z",
+            "fetchedAt": "2026-10-31T19:34:24.068Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "NewsBytes",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US probes megaspeed executive Alice Huang over China chip smuggling NewsBytes",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
+            "url": "https://www.tikr.com/blog/qualcomm-stock-fell-11-in-a-day-on-intels-pc-warning-heres-why-november-4-tests-its-claim-that-phones-have-bottomed?ref=yahoofinance&tlnk=yf-261031-m53x98r9&.tsrc=rss",
+            "description": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-31T06:44:48.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
+            "id": "a3"
+          },
+          {
+            "title": "China's one-year pause on critical mineral export bans nears its deadline - Startup Fortune",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOVDAzWVFRRDNGX1FYLWU3SGtqX25maXRkZEliMjJoOUpnMk1fZER1VnhLRHRGZnJMSEJTNXpYeWk0eHM4Nl9EOHFLbDN1YXNBV0ozbElXMGFZS0lvZ3B5SlhQUEV3WktBNlpGT1N4dlZBaERBaFQxZDBoT3U0NUFSME1wWDA5N1d3Smh2dU95WFAyRS1kcmUzRFZpeURDeDh0anc?oc=5",
+            "description": "China's one-year pause on critical mineral export bans nears its deadline Startup Fortune",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-31T04:47:47.000Z",
+            "fetchedAt": "2026-10-31T19:34:24.068Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Startup Fortune",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China's one-year pause on critical mineral export bans nears its deadline Startup Fortune",
+            "id": "a4"
+          },
+          {
+            "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+            "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+            "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-30T22:32:53.000Z",
+            "fetchedAt": "2026-10-31T19:34:18.088Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
+            "id": "a5"
+          },
+          {
+            "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
+            "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
+            "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-30T15:17:51.000Z",
+            "fetchedAt": "2026-10-31T19:34:22.018Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
+            "id": "a7"
+          },
+          {
+            "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
+            "url": "https://www.iam-media.com/trade-secrets/article/chinas-proposed-special-trade-secret-rules-raise-the-stakes-foreign-companies",
+            "description": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-10-30T13:39:55.000Z",
+            "fetchedAt": "2026-10-31T19:34:20.048Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
+            "id": "a9"
+          },
+          {
+            "title": "China slates latest US proposal targeting operators",
+            "url": "https://www.mobileworldlive.com/greater-china/china-slates-latest-us-proposal-targeting-operators/",
+            "description": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-30T12:15:18.000Z",
+            "fetchedAt": "2026-10-31T19:34:21.836Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
+            "id": "a10"
+          },
+          {
+            "title": "FCC clears drone operations in 800MHz band",
+            "url": "https://www.lightreading.com/regulatory-politics/fcc-clears-drone-operations-in-800mhz-band",
+            "description": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band. #pressrelease",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-10-29T23:51:36.000Z",
+            "fetchedAt": "2026-10-31T19:34:22.151Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
+            "id": "a12"
+          },
+          {
+            "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-offers-ai-automotive-165510772.html?.tsrc=rss",
+            "description": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T16:55:10.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
+            "id": "a13"
+          },
+          {
+            "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+            "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
+            "description": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T13:13:34.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
+            "id": "a14"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "date": "2026-11-01",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Apple Intelligence is finally coming to China with iOS 27.3",
+            "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
+            "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-10-30T22:32:53.000Z",
+            "fetchedAt": "2026-10-31T19:34:18.088Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
+            "id": "a5"
+          },
+          {
+            "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+            "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
+            "description": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-10-29T13:13:34.000Z",
+            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
+            "id": "a14"
+          }
+        ]
+      }
+    },
+    "totalArticles": 16
   }
 };
 

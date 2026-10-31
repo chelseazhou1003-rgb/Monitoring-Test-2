@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T15:30:38.596Z",
-  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T19:34:24.103Z",
+  "date": "2026-11-01",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
@@ -16,7 +16,7 @@
       {
         "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
         "articleIds": [
-          "a10"
+          "a8"
         ],
         "subCategory": "semiconductors"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T21:44:54.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -49,7 +49,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T14:56:49.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -57,7 +57,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-      "id": "a10"
+      "id": "a8"
     },
     {
       "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -67,7 +67,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-30T12:15:07.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -75,7 +75,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "id": "a13"
+      "id": "a11"
     }
   ]
 }

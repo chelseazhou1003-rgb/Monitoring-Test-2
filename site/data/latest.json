@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-31T15:30:38.598Z",
-  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T19:34:24.106Z",
+  "date": "2026-11-01",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 13,
+      "articleCount": 11,
       "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (4 articles). A total of 13 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -45,5 +45,5 @@
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 18
+  "totalArticles": 16
 }

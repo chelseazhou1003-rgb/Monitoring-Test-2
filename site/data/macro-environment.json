@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T15:30:38.596Z",
-  "date": "2026-10-31",
+  "generatedAt": "2026-10-31T19:34:24.103Z",
+  "date": "2026-11-01",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (9 articles), market-performance (4 articles). A total of 13 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
@@ -31,7 +31,7 @@
       "sourceId": "wsj",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T12:47:00.000Z",
-      "fetchedAt": "2026-10-31T15:30:37.444Z",
+      "fetchedAt": "2026-10-31T19:34:22.941Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "WSJ",
       "geopoliticalBypass": true,
@@ -51,7 +51,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T09:25:59.000Z",
-      "fetchedAt": "2026-10-31T15:30:38.573Z",
+      "fetchedAt": "2026-10-31T19:34:24.068Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "NewsBytes",
       "geopoliticalBypass": true,
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T06:44:48.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,7 +89,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T04:47:47.000Z",
-      "fetchedAt": "2026-10-31T15:30:38.572Z",
+      "fetchedAt": "2026-10-31T19:34:24.068Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "geopoliticalBypass": true,
@@ -109,7 +109,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-10-30T22:32:53.000Z",
-      "fetchedAt": "2026-10-31T15:30:32.603Z",
+      "fetchedAt": "2026-10-31T19:34:18.088Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -123,45 +123,6 @@
       "id": "a5"
     },
     {
-      "title": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBqZmFYVVNrMTNYOFRROEc2VlY4d2tGSDk5YlBCaEhacl85MGhJR25mMi14RlhZbktjZnNhVFJuWGdhem51eHN5azFZRWFzNnZCTzRVd2tBV1pSQQ?oc=5",
-      "description": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-30T19:02:50.000Z",
-      "fetchedAt": "2026-10-31T15:30:37.446Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Is Qualcomm (Qcom) Options Etp (QUOY.DE) | Stock Price & Latest News Reuters",
-      "id": "a7"
-    },
-    {
-      "title": "China denies spying on Nvidia's Jensen Huang - The New Indian Express",
-      "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOSnJoNFhDQnlvVVNBbnh1cUFmaEdGbUpJZDdKbVVHWUNhMEtyODhIandtNmRmbVJnTGRyaXE4emo2c0djLVcwNGtqTHFlNW16bktXM1dBc1dac2xMYjJOMkhrQ1BMUnpPdjJaTzBLUFJ5WmJWUlhOdURFd1FMT1RqZkZpUy1DWW1sRmJnMGd0T0MtNjRGSDNrVjln0gGnAUFVX3lxTE83T2RuVXZsM1Z4dUdBUGl3czQteGRHUmM5aXpPc3dsTXItbWFCYXc4aklSb3hjWDNRZkxzZWZFbUZ6SUdlbVpLWHlvR0p6cExoTWJQMlA4ZE5IMFQxa0EzMG9rUU5JdnFkSFcxOFMxRGQ4b0Z3b1hLcVpEazk3WkpwVGZhTmRmU1k2V3ZMTEQxU05HYUZRWU5kZlVYNEItR3lUUzlGTTc0?oc=5",
-      "description": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-30T18:57:42.000Z",
-      "fetchedAt": "2026-10-31T15:30:38.573Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The New Indian Express",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China denies spying on Nvidia's Jensen Huang The New Indian Express",
-      "id": "a8"
-    },
-    {
       "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
       "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
       "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
@@ -169,7 +130,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T15:17:51.000Z",
-      "fetchedAt": "2026-10-31T15:30:37.132Z",
+      "fetchedAt": "2026-10-31T19:34:22.018Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -178,7 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-      "id": "a9"
+      "id": "a7"
     },
     {
       "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -188,7 +149,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T13:39:55.000Z",
-      "fetchedAt": "2026-10-31T15:30:34.819Z",
+      "fetchedAt": "2026-10-31T19:34:20.048Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -197,7 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-      "id": "a11"
+      "id": "a9"
     },
     {
       "title": "China slates latest US proposal targeting operators",
@@ -207,7 +168,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-30T12:15:18.000Z",
-      "fetchedAt": "2026-10-31T15:30:36.804Z",
+      "fetchedAt": "2026-10-31T19:34:21.836Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -216,7 +177,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-      "id": "a12"
+      "id": "a10"
     },
     {
       "title": "FCC clears drone operations in 800MHz band",
@@ -226,7 +187,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-29T23:51:36.000Z",
-      "fetchedAt": "2026-10-31T15:30:37.124Z",
+      "fetchedAt": "2026-10-31T19:34:22.151Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -235,7 +196,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-      "id": "a14"
+      "id": "a12"
     },
     {
       "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -245,7 +206,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T16:55:10.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -253,7 +214,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-      "id": "a15"
+      "id": "a13"
     },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -263,7 +224,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-31T15:30:31.748Z",
+      "fetchedAt": "2026-10-31T19:34:17.560Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -273,7 +234,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a16"
+      "id": "a14"
     }
   ]
 }
