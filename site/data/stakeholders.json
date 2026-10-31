@@ -1,49 +1,21 @@
 {
-  "generatedAt": "2026-10-31T19:34:24.103Z",
+  "generatedAt": "2026-10-31T22:51:12.198Z",
   "date": "2026-11-01",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
-        "articleIds": [
-          "a5"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
         "articleIds": [
-          "a14"
+          "a13"
         ],
         "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
-    {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-30T22:32:53.000Z",
-      "fetchedAt": "2026-10-31T19:34:18.088Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-      "id": "a5"
-    },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
       "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -52,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-31T19:34:17.560Z",
+      "fetchedAt": "2026-10-31T22:51:06.396Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -62,7 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a14"
+      "id": "a13"
     }
   ]
 }

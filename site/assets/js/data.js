@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
           "articleIds": [
-            "a6"
+            "a5"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
           "articleIds": [
-            "a8"
+            "a7"
           ],
           "subCategory": "semiconductors"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T21:44:54.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-        "id": "a6"
+        "id": "a5"
       },
       {
         "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T14:56:49.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-        "id": "a8"
+        "id": "a7"
       },
       {
         "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T12:15:07.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -89,12 +89,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "id": "a11"
+        "id": "a10"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -105,7 +105,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -116,14 +116,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-10-31T19:34:24.106Z",
+    "generatedAt": "2026-10-31T22:51:12.200Z",
     "date": "2026-11-01",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-        "topHeadlineId": "a6",
+        "topHeadlineId": "a5",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -142,10 +142,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 11,
+        "articleCount": 10,
         "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -156,21 +156,21 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 2,
-        "topHeadline": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "topHeadlineId": "a5",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 1,
+        "topHeadline": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+        "topHeadlineId": "a13",
+        "briefingSummary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A"
       }
     },
-    "totalArticles": 16
+    "totalArticles": 14
   },
   "macro-environment": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
@@ -197,7 +197,7 @@ export const NEWS_DATA = {
         "sourceId": "wsj",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T12:47:00.000Z",
-        "fetchedAt": "2026-10-31T19:34:22.941Z",
+        "fetchedAt": "2026-10-31T22:51:11.082Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WSJ",
         "geopoliticalBypass": true,
@@ -217,7 +217,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T09:25:59.000Z",
-        "fetchedAt": "2026-10-31T19:34:24.068Z",
+        "fetchedAt": "2026-10-31T22:51:12.171Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "NewsBytes",
         "geopoliticalBypass": true,
@@ -237,7 +237,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T06:44:48.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -255,7 +255,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T04:47:47.000Z",
-        "fetchedAt": "2026-10-31T19:34:24.068Z",
+        "fetchedAt": "2026-10-31T22:51:12.171Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Startup Fortune",
         "geopoliticalBypass": true,
@@ -268,27 +268,6 @@ export const NEWS_DATA = {
         "id": "a4"
       },
       {
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-31T19:34:18.088Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-        "id": "a5"
-      },
-      {
         "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
         "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
         "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
@@ -296,7 +275,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T15:17:51.000Z",
-        "fetchedAt": "2026-10-31T19:34:22.018Z",
+        "fetchedAt": "2026-10-31T22:51:10.305Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -305,7 +284,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "id": "a7"
+        "id": "a6"
       },
       {
         "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -315,7 +294,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T13:39:55.000Z",
-        "fetchedAt": "2026-10-31T19:34:20.048Z",
+        "fetchedAt": "2026-10-31T22:51:08.417Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -324,7 +303,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "id": "a9"
+        "id": "a8"
       },
       {
         "title": "China slates latest US proposal targeting operators",
@@ -334,7 +313,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-30T12:15:18.000Z",
-        "fetchedAt": "2026-10-31T19:34:21.836Z",
+        "fetchedAt": "2026-10-31T22:51:09.948Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -343,7 +322,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "id": "a10"
+        "id": "a9"
       },
       {
         "title": "FCC clears drone operations in 800MHz band",
@@ -353,7 +332,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-29T23:51:36.000Z",
-        "fetchedAt": "2026-10-31T19:34:22.151Z",
+        "fetchedAt": "2026-10-31T22:51:10.198Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -362,7 +341,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-        "id": "a12"
+        "id": "a11"
       },
       {
         "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -372,7 +351,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T16:55:10.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -380,7 +359,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-        "id": "a13"
+        "id": "a12"
       },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -390,7 +369,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -400,7 +379,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a14"
+        "id": "a13"
       }
     ]
   },
@@ -596,51 +575,23 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-10-31T19:34:24.103Z",
+    "generatedAt": "2026-10-31T22:51:12.198Z",
     "date": "2026-11-01",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A",
       "keyTakeaways": [
-        {
-          "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
-          "articleIds": [
-            "a5"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
         {
           "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
           "articleIds": [
-            "a14"
+            "a13"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
-      {
-        "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-        "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-        "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-10-30T22:32:53.000Z",
-        "fetchedAt": "2026-10-31T19:34:18.088Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-        "id": "a5"
-      },
       {
         "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
         "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -649,7 +600,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-29T13:13:34.000Z",
-        "fetchedAt": "2026-10-31T19:34:17.560Z",
+        "fetchedAt": "2026-10-31T22:51:06.396Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -659,7 +610,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-        "id": "a14"
+        "id": "a13"
       }
     ]
   },
@@ -22733,11 +22684,11 @@ export const NEWS_DATA = {
     "totalArticles": 18
   },
   "archive-2026-11-01": {
-    "generatedAt": "2026-10-31T19:34:24.107Z",
+    "generatedAt": "2026-10-31T22:51:12.200Z",
     "date": "2026-11-01",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -22747,14 +22698,14 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
               "articleIds": [
-                "a6"
+                "a5"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
               "articleIds": [
-                "a8"
+                "a7"
               ],
               "subCategory": "semiconductors"
             }
@@ -22769,7 +22720,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T21:44:54.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22777,7 +22728,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-            "id": "a6"
+            "id": "a5"
           },
           {
             "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
@@ -22787,7 +22738,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T14:56:49.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22795,7 +22746,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-            "id": "a8"
+            "id": "a7"
           },
           {
             "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -22805,7 +22756,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T12:15:07.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22813,12 +22764,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-            "id": "a11"
+            "id": "a10"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22829,7 +22780,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22840,12 +22791,12 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
@@ -22872,7 +22823,7 @@ export const NEWS_DATA = {
             "sourceId": "wsj",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-31T12:47:00.000Z",
-            "fetchedAt": "2026-10-31T19:34:22.941Z",
+            "fetchedAt": "2026-10-31T22:51:11.082Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WSJ",
             "geopoliticalBypass": true,
@@ -22892,7 +22843,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-31T09:25:59.000Z",
-            "fetchedAt": "2026-10-31T19:34:24.068Z",
+            "fetchedAt": "2026-10-31T22:51:12.171Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "NewsBytes",
             "geopoliticalBypass": true,
@@ -22912,7 +22863,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-31T06:44:48.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22930,7 +22881,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-31T04:47:47.000Z",
-            "fetchedAt": "2026-10-31T19:34:24.068Z",
+            "fetchedAt": "2026-10-31T22:51:12.171Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Startup Fortune",
             "geopoliticalBypass": true,
@@ -22943,27 +22894,6 @@ export const NEWS_DATA = {
             "id": "a4"
           },
           {
-            "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-            "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-            "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-30T22:32:53.000Z",
-            "fetchedAt": "2026-10-31T19:34:18.088Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-            "id": "a5"
-          },
-          {
             "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
             "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
             "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
@@ -22971,7 +22901,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T15:17:51.000Z",
-            "fetchedAt": "2026-10-31T19:34:22.018Z",
+            "fetchedAt": "2026-10-31T22:51:10.305Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22980,7 +22910,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-            "id": "a7"
+            "id": "a6"
           },
           {
             "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -22990,7 +22920,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T13:39:55.000Z",
-            "fetchedAt": "2026-10-31T19:34:20.048Z",
+            "fetchedAt": "2026-10-31T22:51:08.417Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22999,7 +22929,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-            "id": "a9"
+            "id": "a8"
           },
           {
             "title": "China slates latest US proposal targeting operators",
@@ -23009,7 +22939,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-30T12:15:18.000Z",
-            "fetchedAt": "2026-10-31T19:34:21.836Z",
+            "fetchedAt": "2026-10-31T22:51:09.948Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23018,7 +22948,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-            "id": "a10"
+            "id": "a9"
           },
           {
             "title": "FCC clears drone operations in 800MHz band",
@@ -23028,7 +22958,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-29T23:51:36.000Z",
-            "fetchedAt": "2026-10-31T19:34:22.151Z",
+            "fetchedAt": "2026-10-31T22:51:10.198Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -23037,7 +22967,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-            "id": "a12"
+            "id": "a11"
           },
           {
             "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -23047,7 +22977,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T16:55:10.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23055,7 +22985,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-            "id": "a13"
+            "id": "a12"
           },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -23065,7 +22995,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23075,12 +23005,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a14"
+            "id": "a13"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -23091,51 +23021,23 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-10-31T19:34:24.103Z",
+        "generatedAt": "2026-10-31T22:51:12.198Z",
         "date": "2026-11-01",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources.",
+          "summary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A",
           "keyTakeaways": [
-            {
-              "text": "Geopolitics & Export Controls: Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in",
-              "articleIds": [
-                "a5"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
             {
               "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
               "articleIds": [
-                "a14"
+                "a13"
               ],
               "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
-          {
-            "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-            "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-            "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-10-30T22:32:53.000Z",
-            "fetchedAt": "2026-10-31T19:34:18.088Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-            "id": "a5"
-          },
           {
             "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
             "url": "https://www.barchart.com/story/news/8529117/qcom-stock-earnings-preview-what-to-expect-from-qualcomms-q4-report?.tsrc=rss",
@@ -23144,7 +23046,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-29T13:13:34.000Z",
-            "fetchedAt": "2026-10-31T19:34:17.560Z",
+            "fetchedAt": "2026-10-31T22:51:06.396Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -23154,12 +23056,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-            "id": "a14"
+            "id": "a13"
           }
         ]
       }
     },
-    "totalArticles": 16
+    "totalArticles": 14
   }
 };
 

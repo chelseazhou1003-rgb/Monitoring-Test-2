@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-10-31T19:34:24.103Z",
+  "generatedAt": "2026-10-31T22:51:12.198Z",
   "date": "2026-11-01",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Geopolitics & Export Controls: Chinese Executive Close to Nvidia CEO Suspected of Giving China Information WSJ",
@@ -31,7 +31,7 @@
       "sourceId": "wsj",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T12:47:00.000Z",
-      "fetchedAt": "2026-10-31T19:34:22.941Z",
+      "fetchedAt": "2026-10-31T22:51:11.082Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "WSJ",
       "geopoliticalBypass": true,
@@ -51,7 +51,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T09:25:59.000Z",
-      "fetchedAt": "2026-10-31T19:34:24.068Z",
+      "fetchedAt": "2026-10-31T22:51:12.171Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "NewsBytes",
       "geopoliticalBypass": true,
@@ -71,7 +71,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T06:44:48.000Z",
-      "fetchedAt": "2026-10-31T19:34:17.560Z",
+      "fetchedAt": "2026-10-31T22:51:06.396Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,7 +89,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T04:47:47.000Z",
-      "fetchedAt": "2026-10-31T19:34:24.068Z",
+      "fetchedAt": "2026-10-31T22:51:12.171Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "geopoliticalBypass": true,
@@ -102,27 +102,6 @@
       "id": "a4"
     },
     {
-      "title": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "url": "https://www.theverge.com/tech/1023974/apple-intelligence-china-ios-27-3",
-      "description": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-10-30T22:32:53.000Z",
-      "fetchedAt": "2026-10-31T19:34:18.088Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Apple will launch Apple Intelligence in China with iOS 27.3, the company announced on its Chinese newsroom website, as reported by MacRumors. The Apple Intelligence features will be available first in an iOS 27.3 beta that's set to launch on November 4th, with a full iOS 27.3 release scheduled for December. This launch doesn't bring the new Siri AI to China. Instead, Apple is launching several of its earlier Apple Intelligence features like notification summaries, real-time translation, rewriting and proofreading tools, visual intelligence, and removing objects from photos. Apple also says it has worked with Ailbaba to add support for its Q … Read the full story at The Verge.",
-      "id": "a5"
-    },
-    {
       "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
       "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
       "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
@@ -130,7 +109,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T15:17:51.000Z",
-      "fetchedAt": "2026-10-31T19:34:22.018Z",
+      "fetchedAt": "2026-10-31T22:51:10.305Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -139,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-      "id": "a7"
+      "id": "a6"
     },
     {
       "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -149,7 +128,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T13:39:55.000Z",
-      "fetchedAt": "2026-10-31T19:34:20.048Z",
+      "fetchedAt": "2026-10-31T22:51:08.417Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -158,7 +137,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-      "id": "a9"
+      "id": "a8"
     },
     {
       "title": "China slates latest US proposal targeting operators",
@@ -168,7 +147,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-30T12:15:18.000Z",
-      "fetchedAt": "2026-10-31T19:34:21.836Z",
+      "fetchedAt": "2026-10-31T22:51:09.948Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -177,7 +156,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-      "id": "a10"
+      "id": "a9"
     },
     {
       "title": "FCC clears drone operations in 800MHz band",
@@ -187,7 +166,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-29T23:51:36.000Z",
-      "fetchedAt": "2026-10-31T19:34:22.151Z",
+      "fetchedAt": "2026-10-31T22:51:10.198Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -196,7 +175,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-      "id": "a12"
+      "id": "a11"
     },
     {
       "title": "QUALCOMM (QCOM) Offers AI, Automotive, and Edge-Computing Growth Potential, Ariel Global Fund Says",
@@ -206,7 +185,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T16:55:10.000Z",
-      "fetchedAt": "2026-10-31T19:34:17.560Z",
+      "fetchedAt": "2026-10-31T22:51:06.396Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -214,7 +193,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Ariel Investments, an investment management company, released its “Ariel Global Fund” Q3 2026 investor letter. The Fund declined in the third quarter of 2026 as renewed geopolitical tensions, higher oil prices, and elevated interest rates contributed to uneven performance across global markets. The Fund’s Investor Class returned -1.98%, underperforming the MSCI ACWI Index, which gained […]",
-      "id": "a13"
+      "id": "a12"
     },
     {
       "title": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
@@ -224,7 +203,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-10-31T19:34:17.560Z",
+      "fetchedAt": "2026-10-31T22:51:06.396Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -234,7 +213,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a14"
+      "id": "a13"
     }
   ]
 }

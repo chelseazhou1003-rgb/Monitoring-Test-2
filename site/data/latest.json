@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-10-31T19:34:24.106Z",
+  "generatedAt": "2026-10-31T22:51:12.200Z",
   "date": "2026-11-01",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-      "topHeadlineId": "a6",
+      "topHeadlineId": "a5",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 11,
+      "articleCount": 10,
       "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (3 articles). A total of 11 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
-      "topHeadline": "Apple Intelligence is finally coming to China with iOS 27.3",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), market-performance (1 article). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
+      "topHeadlineId": "a13",
+      "briefingSummary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A"
     }
   },
-  "totalArticles": 16
+  "totalArticles": 14
 }
