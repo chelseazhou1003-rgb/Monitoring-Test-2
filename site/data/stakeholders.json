@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-01T02:38:52.177Z",
+  "generatedAt": "2026-11-01T09:46:36.884Z",
   "date": "2026-11-01",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,7 +9,7 @@
       {
         "text": "market-performance: Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
         "articleIds": [
-          "a13"
+          "a12"
         ],
         "subCategory": "market-performance"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-29T13:13:34.000Z",
-      "fetchedAt": "2026-11-01T02:38:45.343Z",
+      "fetchedAt": "2026-11-01T09:46:31.379Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from Apple.",
-      "id": "a13"
+      "id": "a12"
     }
   ]
 }
