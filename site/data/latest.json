@@ -1,12 +1,12 @@
 {
-  "generatedAt": "2026-11-01T09:46:36.886Z",
-  "date": "2026-11-01",
+  "generatedAt": "2026-11-01T16:55:22.242Z",
+  "date": "2026-11-02",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 3,
       "topHeadline": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-      "topHeadlineId": "a4",
+      "topHeadlineId": "a3",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
     },
     "ip-legal": {
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 9,
-      "topHeadline": "Chinese Executive Close to Nvidia CEO Suspected of Giving China Information - WSJ",
+      "articleCount": 6,
+      "topHeadline": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 1,
-      "topHeadline": "QCOM Stock Earnings Preview: What to Expect From Qualcomm’s Q4 Report",
-      "topHeadlineId": "a12",
-      "briefingSummary": "One article today covering market-performance. Qualcomm’s near-term growth outlook remains challenged by persistent weakness in the Android smartphone market and a lower revenue contribution from A"
+      "topHeadline": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+      "topHeadlineId": "a1",
+      "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
     }
   },
-  "totalArticles": 13
+  "totalArticles": 10
 }
