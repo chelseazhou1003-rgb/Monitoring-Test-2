@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,14 +23,14 @@ export const NEWS_DATA = {
         {
           "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
           "articleIds": [
-            "a3"
+            "a6"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
           "articleIds": [
-            "a5"
+            "a8"
           ],
           "subCategory": "semiconductors"
         }
@@ -45,7 +45,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T21:44:54.000Z",
-        "fetchedAt": "2026-11-01T16:55:16.181Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -53,7 +53,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-        "id": "a3"
+        "id": "a6"
       },
       {
         "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
@@ -63,7 +63,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T14:56:49.000Z",
-        "fetchedAt": "2026-11-01T16:55:16.181Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -71,7 +71,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-        "id": "a5"
+        "id": "a8"
       },
       {
         "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -81,7 +81,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-30T12:15:07.000Z",
-        "fetchedAt": "2026-11-01T16:55:16.181Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -89,12 +89,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "id": "a8"
+        "id": "a11"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -105,7 +105,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -116,14 +116,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-01T16:55:22.242Z",
+    "generatedAt": "2026-11-01T21:22:52.624Z",
     "date": "2026-11-02",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
         "topHeadline": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-        "topHeadlineId": "a3",
+        "topHeadlineId": "a6",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -142,10 +142,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 6,
-        "topHeadline": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+        "articleCount": 9,
+        "topHeadline": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -156,39 +156,99 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 1,
-        "topHeadline": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+        "articleCount": 2,
+        "topHeadline": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
         "topHeadlineId": "a1",
-        "briefingSummary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days"
+        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 10
+    "totalArticles": 14
   },
   "macro-environment": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
           "articleIds": [
             "a1"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "market-performance"
         },
         {
-          "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $",
+          "text": "Geopolitics & Export Controls: Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
           "articleIds": [
             "a2"
           ],
-          "subCategory": "market-performance"
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+        "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+        "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-01T19:00:00.000Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+        "id": "a1"
+      },
+      {
+        "title": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO - TAG24.COM",
+        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHp5MVlNNTVZejJWdFB2eDNwZHFqWjNwb2MyZnpfQzFrSndOTGpnby1aazREZ1dzMnZkV3JhMk5MaVRQQmQxLTMzaTBwU254dmUxMVNPVDUybWw0TzNOY1hDV2J2LWh2Y1NCR2hKeklOR3ZraUF4d3JFZGw1a0lTeFNCeW9QdzRsZi1DQ3l4a2JJRzcwUGhud21sQnBmbU45M0p2bFFwOGt5bVBrR253ZFRVUGtYV1lxdlg5NVBMNmpBbTRMZE16LUVabXpja2ZaNm94RE51QS14aFE?oc=5",
+        "description": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-01T16:31:48.000Z",
+        "fetchedAt": "2026-11-01T21:22:52.596Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TAG24.COM",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
+        "id": "a2"
+      },
+      {
+        "title": "South Korea's exports to China surge 133.6% in October amid AI chip boom - Global Times",
+        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lWmtQZXVHVnA1b0NkZlNBTDhtVzViNVFRdUJEMVQ0c0dLb1liRmFJd1FVN1BJS1hGT0pyNHJ3VXdlcHRVMTBpTU9lQlhNcTBxTmIwVEFncWFTek96aUVtYV9n?oc=5",
+        "description": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-01T14:34:00.000Z",
+        "fetchedAt": "2026-11-01T21:22:52.596Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Global Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
+        "id": "a3"
+      },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
         "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
@@ -197,7 +257,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-01T16:55:18.701Z",
+        "fetchedAt": "2026-11-01T21:22:48.230Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -208,7 +268,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a1"
+        "id": "a4"
       },
       {
         "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
@@ -218,7 +278,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-10-31T06:44:48.000Z",
-        "fetchedAt": "2026-11-01T16:55:16.181Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -226,7 +286,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
-        "id": "a2"
+        "id": "a5"
       },
       {
         "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
@@ -236,7 +296,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T15:17:51.000Z",
-        "fetchedAt": "2026-11-01T16:55:20.516Z",
+        "fetchedAt": "2026-11-01T21:22:49.950Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -245,7 +305,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "id": "a4"
+        "id": "a7"
       },
       {
         "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -255,7 +315,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-10-30T13:39:55.000Z",
-        "fetchedAt": "2026-11-01T16:55:18.701Z",
+        "fetchedAt": "2026-11-01T21:22:48.230Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -264,7 +324,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "id": "a6"
+        "id": "a9"
       },
       {
         "title": "China slates latest US proposal targeting operators",
@@ -274,7 +334,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-30T12:15:18.000Z",
-        "fetchedAt": "2026-11-01T16:55:20.243Z",
+        "fetchedAt": "2026-11-01T21:22:50.970Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -283,7 +343,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "id": "a7"
+        "id": "a10"
       },
       {
         "title": "FCC clears drone operations in 800MHz band",
@@ -293,7 +353,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-10-29T23:51:36.000Z",
-        "fetchedAt": "2026-11-01T16:55:20.430Z",
+        "fetchedAt": "2026-11-01T21:22:49.916Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -302,7 +362,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-        "id": "a9"
+        "id": "a12"
       }
     ]
   },
@@ -498,23 +558,50 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-01T16:55:22.241Z",
+    "generatedAt": "2026-11-01T21:22:52.622Z",
     "date": "2026-11-02",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+      "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
+          "articleIds": [
+            "a1"
+          ],
+          "subCategory": "market-performance"
+        },
         {
           "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
           "articleIds": [
-            "a1"
+            "a4"
           ],
           "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+        "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+        "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-01T19:00:00.000Z",
+        "fetchedAt": "2026-11-01T21:22:46.152Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+        "id": "a1"
+      },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
         "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
@@ -523,7 +610,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-01T16:55:18.701Z",
+        "fetchedAt": "2026-11-01T21:22:48.230Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -534,7 +621,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a1"
+        "id": "a4"
       }
     ]
   },
@@ -22192,11 +22279,11 @@ export const NEWS_DATA = {
     "totalArticles": 13
   },
   "archive-2026-11-02": {
-    "generatedAt": "2026-11-01T16:55:22.242Z",
+    "generatedAt": "2026-11-01T21:22:52.625Z",
     "date": "2026-11-02",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -22206,14 +22293,14 @@ export const NEWS_DATA = {
             {
               "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
               "articleIds": [
-                "a3"
+                "a6"
               ],
               "subCategory": "mobile-chips"
             },
             {
               "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
               "articleIds": [
-                "a5"
+                "a8"
               ],
               "subCategory": "semiconductors"
             }
@@ -22228,7 +22315,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T21:44:54.000Z",
-            "fetchedAt": "2026-11-01T16:55:16.181Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22236,7 +22323,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-            "id": "a3"
+            "id": "a6"
           },
           {
             "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
@@ -22246,7 +22333,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T14:56:49.000Z",
-            "fetchedAt": "2026-11-01T16:55:16.181Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22254,7 +22341,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-            "id": "a5"
+            "id": "a8"
           },
           {
             "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
@@ -22264,7 +22351,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-30T12:15:07.000Z",
-            "fetchedAt": "2026-11-01T16:55:16.181Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -22272,12 +22359,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-            "id": "a8"
+            "id": "a11"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -22288,7 +22375,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -22299,30 +22386,90 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), market-performance (1 article). A total of 6 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+              "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
               "articleIds": [
                 "a1"
               ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "market-performance"
             },
             {
-              "text": "market-performance: Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $",
+              "text": "Geopolitics & Export Controls: Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
               "articleIds": [
                 "a2"
               ],
-              "subCategory": "market-performance"
+              "subCategory": "geopolitics-export-controls"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T19:00:00.000Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "id": "a1"
+          },
+          {
+            "title": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO - TAG24.COM",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHp5MVlNNTVZejJWdFB2eDNwZHFqWjNwb2MyZnpfQzFrSndOTGpnby1aazREZ1dzMnZkV3JhMk5MaVRQQmQxLTMzaTBwU254dmUxMVNPVDUybWw0TzNOY1hDV2J2LWh2Y1NCR2hKeklOR3ZraUF4d3JFZGw1a0lTeFNCeW9QdzRsZi1DQ3l4a2JJRzcwUGhud21sQnBmbU45M0p2bFFwOGt5bVBrR253ZFRVUGtYV1lxdlg5NVBMNmpBbTRMZE16LUVabXpja2ZaNm94RE51QS14aFE?oc=5",
+            "description": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T16:31:48.000Z",
+            "fetchedAt": "2026-11-01T21:22:52.596Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TAG24.COM",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
+            "id": "a2"
+          },
+          {
+            "title": "South Korea's exports to China surge 133.6% in October amid AI chip boom - Global Times",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lWmtQZXVHVnA1b0NkZlNBTDhtVzViNVFRdUJEMVQ0c0dLb1liRmFJd1FVN1BJS1hGT0pyNHJ3VXdlcHRVMTBpTU9lQlhNcTBxTmIwVEFncWFTek96aUVtYV9n?oc=5",
+            "description": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T14:34:00.000Z",
+            "fetchedAt": "2026-11-01T21:22:52.596Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Global Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
+            "id": "a3"
+          },
           {
             "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
             "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
@@ -22331,7 +22478,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-01T16:55:18.701Z",
+            "fetchedAt": "2026-11-01T21:22:48.230Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22342,7 +22489,7 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a1"
+            "id": "a4"
           },
           {
             "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
@@ -22352,7 +22499,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-10-31T06:44:48.000Z",
-            "fetchedAt": "2026-11-01T16:55:16.181Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22360,7 +22507,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
-            "id": "a2"
+            "id": "a5"
           },
           {
             "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
@@ -22370,7 +22517,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T15:17:51.000Z",
-            "fetchedAt": "2026-11-01T16:55:20.516Z",
+            "fetchedAt": "2026-11-01T21:22:49.950Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22379,7 +22526,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-            "id": "a4"
+            "id": "a7"
           },
           {
             "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -22389,7 +22536,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-10-30T13:39:55.000Z",
-            "fetchedAt": "2026-11-01T16:55:18.701Z",
+            "fetchedAt": "2026-11-01T21:22:48.230Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22398,7 +22545,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-            "id": "a6"
+            "id": "a9"
           },
           {
             "title": "China slates latest US proposal targeting operators",
@@ -22408,7 +22555,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-30T12:15:18.000Z",
-            "fetchedAt": "2026-11-01T16:55:20.243Z",
+            "fetchedAt": "2026-11-01T21:22:50.970Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22417,7 +22564,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-            "id": "a7"
+            "id": "a10"
           },
           {
             "title": "FCC clears drone operations in 800MHz band",
@@ -22427,7 +22574,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-10-29T23:51:36.000Z",
-            "fetchedAt": "2026-11-01T16:55:20.430Z",
+            "fetchedAt": "2026-11-01T21:22:49.916Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22436,12 +22583,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-            "id": "a9"
+            "id": "a12"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22452,23 +22599,50 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-01T16:55:22.241Z",
+        "generatedAt": "2026-11-01T21:22:52.622Z",
         "date": "2026-11-02",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+          "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
           "keyTakeaways": [
+            {
+              "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "market-performance"
+            },
             {
               "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
               "articleIds": [
-                "a1"
+                "a4"
               ],
               "subCategory": "geopolitics-export-controls"
             }
           ]
         },
         "articles": [
+          {
+            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T19:00:00.000Z",
+            "fetchedAt": "2026-11-01T21:22:46.152Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "id": "a1"
+          },
           {
             "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
             "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
@@ -22477,7 +22651,7 @@ export const NEWS_DATA = {
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-01T16:55:18.701Z",
+            "fetchedAt": "2026-11-01T21:22:48.230Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22488,12 +22662,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a1"
+            "id": "a4"
           }
         ]
       }
     },
-    "totalArticles": 10
+    "totalArticles": 14
   }
 };
 

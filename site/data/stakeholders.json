@@ -1,21 +1,48 @@
 {
-  "generatedAt": "2026-11-01T16:55:22.241Z",
+  "generatedAt": "2026-11-01T21:22:52.622Z",
   "date": "2026-11-02",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Geopolitics & Export Controls. Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
+        "articleIds": [
+          "a1"
+        ],
+        "subCategory": "market-performance"
+      },
       {
         "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
-          "a1"
+          "a4"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+      "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+      "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-01T19:00:00.000Z",
+      "fetchedAt": "2026-11-01T21:22:46.152Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+      "id": "a1"
+    },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
       "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
@@ -24,7 +51,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-01T16:55:18.701Z",
+      "fetchedAt": "2026-11-01T21:22:48.230Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -35,7 +62,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a1"
+      "id": "a4"
     }
   ]
 }
