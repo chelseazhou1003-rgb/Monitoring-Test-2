@@ -1,22 +1,29 @@
 {
-  "generatedAt": "2026-11-02T08:21:15.732Z",
-  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T18:51:34.858Z",
+  "date": "2026-11-03",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+        "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
         "articleIds": [
-          "a8"
+          "a2"
+        ],
+        "subCategory": "wireless"
+      },
+      {
+        "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
+        "articleIds": [
+          "a3"
         ],
         "subCategory": "mobile-chips"
       },
       {
-        "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
+        "text": "Semiconductors: The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
         "articleIds": [
-          "a10"
+          "a9"
         ],
         "subCategory": "semiconductors"
       }
@@ -24,58 +31,58 @@
   },
   "articles": [
     {
-      "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-      "url": "https://www.barchart.com/story/news/8563943/qualcomm-is-teaming-up-with-anduril-to-produce-u-s-made-laptops-dont-expect-it-to-move-the-needle-for-qcom-stock?.tsrc=rss",
-      "description": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+      "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
+      "url": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
+      "description": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-30T21:44:54.000Z",
-      "fetchedAt": "2026-11-02T08:21:09.159Z",
+      "publishedAt": "2026-11-02T15:37:00.000Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+      "id": "a2"
+    },
+    {
+      "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
+      "url": "https://247wallst.com/investing/2026/11/02/nvidia-isnt-the-only-ai-winner-qualcomm-may-be-the-next-stock-to-watch/?.tsrc=rss",
+      "description": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-02T15:33:42.000Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
       "subLabel": "Mobile Chips",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-      "id": "a8"
+      "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+      "id": "a3"
     },
     {
-      "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-      "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
-      "description": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+      "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110429785.html?.tsrc=rss",
+      "description": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-10-30T14:56:49.000Z",
-      "fetchedAt": "2026-11-02T08:21:09.159Z",
+      "publishedAt": "2026-11-02T11:04:29.000Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-      "id": "a10"
-    },
-    {
-      "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
-      "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-10-30T12:15:07.000Z",
-      "fetchedAt": "2026-11-02T08:21:09.159Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-      "id": "a13"
+      "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
+      "id": "a9"
     }
   ]
 }

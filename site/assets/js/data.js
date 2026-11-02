@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,24 +13,31 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Mobile Chips: Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+          "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
           "articleIds": [
-            "a8"
+            "a2"
+          ],
+          "subCategory": "wireless"
+        },
+        {
+          "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
+          "articleIds": [
+            "a3"
           ],
           "subCategory": "mobile-chips"
         },
         {
-          "text": "Semiconductors: A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spen",
+          "text": "Semiconductors: The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
           "articleIds": [
-            "a10"
+            "a9"
           ],
           "subCategory": "semiconductors"
         }
@@ -38,64 +45,64 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-        "url": "https://www.barchart.com/story/news/8563943/qualcomm-is-teaming-up-with-anduril-to-produce-u-s-made-laptops-dont-expect-it-to-move-the-needle-for-qcom-stock?.tsrc=rss",
-        "description": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
+        "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
+        "url": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
+        "description": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T21:44:54.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "publishedAt": "2026-11-02T15:37:00.000Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+        "id": "a2"
+      },
+      {
+        "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
+        "url": "https://247wallst.com/investing/2026/11/02/nvidia-isnt-the-only-ai-winner-qualcomm-may-be-the-next-stock-to-watch/?.tsrc=rss",
+        "description": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T15:33:42.000Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
         "subLabel": "Mobile Chips",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm and Anduril plan to produce BlueChip laptops for government and defense customers using Snapdragon processors, with orders expected to open in 2027.",
-        "id": "a8"
+        "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+        "id": "a3"
       },
       {
-        "title": "Broadcom Falls 5% Despite DA Davidson Upgrade on Anthropic and OpenAI IPO Hopes; Arm and Qualcomm Sink 10%, Marvell Drops 8%",
-        "url": "https://247wallst.com/investing/2026/10/30/broadcom-falls-5-despite-da-davidson-upgrade-on-anthropic-and-openai-ipo-hopes-arm-and-qualcomm-sink-10-marvell-drops-8/?.tsrc=rss",
-        "description": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
+        "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110429785.html?.tsrc=rss",
+        "description": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T14:56:49.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "publishedAt": "2026-11-02T11:04:29.000Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "A bullish upgrade tied to Anthropic's upcoming IPO failed to protect Broadcom as a sector-wide chip selloff dragged AI semiconductor names sharply lower, raising fresh doubts about whether the AI spending boom can sustain its momentum.",
-        "id": "a10"
-      },
-      {
-        "title": "Curious about Qualcomm (QCOM) Q4 Performance? Explore Wall Street Estimates for Key Metrics",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/curious-qualcomm-qcom-q4-performance-121507387.html?.tsrc=rss",
-        "description": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-30T12:15:07.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Evaluate the expected performance of Qualcomm (QCOM) for the quarter ended September 2026, looking beyond the conventional Wall Street top-and-bottom-line estimates and examining some of its key metrics for better insight.",
-        "id": "a13"
+        "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
+        "id": "a9"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -105,8 +112,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -116,15 +123,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-02T08:21:15.734Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.860Z",
+    "date": "2026-11-03",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 3,
-        "topHeadline": "Qualcomm Is Teaming Up With Anduril to Produce U.S.-Made Laptops. Don’t Expect It to Move the Needle for QCOM Stock.",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Mobile Chips (1 article). A total of 3 articles were aggregated from monitored sources."
+        "topHeadline": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -143,7 +150,7 @@ export const NEWS_DATA = {
       "macro-environment": {
         "title": "Macro",
         "articleCount": 10,
-        "topHeadline": "Taiwan tightens China chip export controls, adds penalties and closes loopholes - Chosunbiz",
+        "topHeadline": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
         "topHeadlineId": "a1",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources."
       },
@@ -156,39 +163,154 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 3,
-        "topHeadline": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
+        "topHeadlineId": "a8",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 16
+    "totalArticles": 17
   },
   "macro-environment": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
       "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
+          "text": "Geopolitics & Export Controls: Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
+          "text": "market-performance: Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
           "articleIds": [
-            "a2"
+            "a6"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
+        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWxfTkwxZS03OThDWFpBX3ktSUU2RC01UkhiMm5WdEI5dmVkWll1T3Y2dFZXcWp5LW1YazVuS3FrSEcyZUhfYzRGSTQ3aFNfMlY2b2VNcUJaaEpjcWJBU3ZCRzIzV2sydmhkQ2l2WFBzN0NqZ1VyYWhfdS14M1FLLThJbkcwakVvd3ZqRUpGcw?oc=5",
+        "description": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T16:55:28.000Z",
+        "fetchedAt": "2026-11-02T18:51:34.830Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Asia Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+        "id": "a1"
+      },
+      {
+        "title": "HKT pulls out of US under FCC pressure – report",
+        "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
+        "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-02T15:09:26.000Z",
+        "fetchedAt": "2026-11-02T18:51:32.604Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+        "id": "a4"
+      },
+      {
+        "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
+        "url": "https://ipfray.com/epo-sets-out-six-priorities-for-strengthening-europes-technology-transfer/",
+        "description": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-02T15:02:02.000Z",
+        "fetchedAt": "2026-11-02T18:51:32.463Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+        "id": "a5"
+      },
+      {
+        "title": "Is QCOM Stock a Smart Investment Option Before Q4 Earnings Release?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-smart-investment-option-130700368.html?.tsrc=rss",
+        "description": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T13:07:00.000Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+        "id": "a6"
+      },
+      {
+        "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
+        "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
+        "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
+        "source": "Patently-O",
+        "sourceId": "patently-o",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-02T12:30:26.000Z",
+        "fetchedAt": "2026-11-02T18:51:32.014Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
+        "id": "a7"
+      },
+      {
+        "title": "US House science chair urges stronger Korea ties to counter China - Aju Press",
+        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVdIBV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVQ?oc=5",
+        "description": "US House science chair urges stronger Korea ties to counter China Aju Press",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T08:24:38.000Z",
+        "fetchedAt": "2026-11-02T18:51:34.830Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Aju Press",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US House science chair urges stronger Korea ties to counter China Aju Press",
+        "id": "a10"
+      },
       {
         "title": "Taiwan tightens China chip export controls, adds penalties and closes loopholes - Chosunbiz",
         "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzRwcW9oV1loQnc2dkNOTkpoa3FNNGNjal9lVnRRWjA3QXFKQUhsZEZ3MW40c2dpa2hqbmNsQXE4XzRfMl9KNS1xUGdJc29lb0oyQUZ5QkczNmVrMXhnWU1XRjlFbm1xWEJRVzlMQlFtdTFMeWtmd3lnOExSVE1JV0ZNRHRKbDJH0gGcAUFVX3lxTE94dkVaNnhZckU1SFZkc3FMZ2lHbUsxV1gyVFJjd0l3UGdXZDZkVm1Pd21lOUVYZjVBcEpnUTg1QUNKdE8yeWZkQlFVTm1peTJDbUFfQ1UzalBWS0ZudUlhQ0w3aXhBY0M1TVJpUS1tZ0hXRUJlUVQxVWFJNWtMRGlBUE1xcDV2aXFYcHJ0akJ0RGNLaHJrZzhOaTBpUw?oc=5",
@@ -197,7 +319,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T02:06:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:15.712Z",
+        "fetchedAt": "2026-11-02T18:51:34.830Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Chosunbiz",
         "geopoliticalBypass": true,
@@ -207,7 +329,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
-        "id": "a1"
+        "id": "a11"
       },
       {
         "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
@@ -217,7 +339,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-01T19:00:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -227,7 +349,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "id": "a2"
+        "id": "a12"
       },
       {
         "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
@@ -237,7 +359,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-01T18:00:02.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -247,47 +369,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
-        "id": "a3"
-      },
-      {
-        "title": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO - TAG24.COM",
-        "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHp5MVlNNTVZejJWdFB2eDNwZHFqWjNwb2MyZnpfQzFrSndOTGpnby1aazREZ1dzMnZkV3JhMk5MaVRQQmQxLTMzaTBwU254dmUxMVNPVDUybWw0TzNOY1hDV2J2LWh2Y1NCR2hKeklOR3ZraUF4d3JFZGw1a0lTeFNCeW9QdzRsZi1DQ3l4a2JJRzcwUGhud21sQnBmbU45M0p2bFFwOGt5bVBrR253ZFRVUGtYV1lxdlg5NVBMNmpBbTRMZE16LUVabXpja2ZaNm94RE51QS14aFE?oc=5",
-        "description": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-01T16:31:48.000Z",
-        "fetchedAt": "2026-11-02T08:21:15.712Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "TAG24.COM",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
-        "id": "a4"
-      },
-      {
-        "title": "South Korea's exports to China surge 133.6% in October amid AI chip boom - Global Times",
-        "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE9lWmtQZXVHVnA1b0NkZlNBTDhtVzViNVFRdUJEMVQ0c0dLb1liRmFJd1FVN1BJS1hGT0pyNHJ3VXdlcHRVMTBpTU9lQlhNcTBxTmIwVEFncWFTek96aUVtYV9n?oc=5",
-        "description": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-01T14:34:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:15.712Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Global Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
-        "id": "a5"
+        "id": "a13"
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -297,7 +379,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:11.608Z",
+        "fetchedAt": "2026-11-02T18:51:30.601Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -308,82 +390,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a6"
-      },
-      {
-        "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
-        "url": "https://www.tikr.com/blog/qualcomm-stock-fell-11-in-a-day-on-intels-pc-warning-heres-why-november-4-tests-its-claim-that-phones-have-bottomed?ref=yahoofinance&tlnk=yf-261031-m53x98r9&.tsrc=rss",
-        "description": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-10-31T06:44:48.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
-        "id": "a7"
-      },
-      {
-        "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
-        "url": "https://ipfray.com/chinas-proposed-patent-screening-for-sme-support-reflects-broader-shift-from-volume-to-quality-and-commercial-value/",
-        "description": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "source": "IP Fray",
-        "sourceId": "ip-fray",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-30T15:17:51.000Z",
-        "fetchedAt": "2026-11-02T08:21:14.072Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-        "id": "a9"
-      },
-      {
-        "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
-        "url": "https://www.iam-media.com/trade-secrets/article/chinas-proposed-special-trade-secret-rules-raise-the-stakes-foreign-companies",
-        "description": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-10-30T13:39:55.000Z",
-        "fetchedAt": "2026-11-02T08:21:11.608Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-        "id": "a11"
-      },
-      {
-        "title": "China slates latest US proposal targeting operators",
-        "url": "https://www.mobileworldlive.com/greater-china/china-slates-latest-us-proposal-targeting-operators/",
-        "description": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "source": "Mobile World Live",
-        "sourceId": "mobile-world-live",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-10-30T12:15:18.000Z",
-        "fetchedAt": "2026-11-02T08:21:13.667Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-        "id": "a12"
+        "id": "a14"
       }
     ]
   },
@@ -579,30 +586,58 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-02T08:21:15.732Z",
-    "date": "2026-11-02",
+    "generatedAt": "2026-11-02T18:51:34.858Z",
+    "date": "2026-11-03",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
+          "articleIds": [
+            "a8"
+          ],
+          "subCategory": "platform-partner"
+        },
         {
           "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
           "articleIds": [
-            "a2"
+            "a12"
           ],
           "subCategory": "market-performance"
         },
         {
           "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
           "articleIds": [
-            "a6"
+            "a14"
           ],
           "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-numbers-week-spotlight-moves-123000890.html?.tsrc=rss",
+        "description": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc. (NASDA",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T12:30:00.000Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
+        "fetchStrategy": "rss",
+        "section": "stakeholders",
+        "subCategory": "platform-partner",
+        "subLabel": "Platform & Ecosystem Partners",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "platform-partner"
+        ],
+        "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
+        "id": "a8"
+      },
       {
         "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
         "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
@@ -611,7 +646,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-01T19:00:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -621,7 +656,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "id": "a2"
+        "id": "a12"
       },
       {
         "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
@@ -631,7 +666,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-01T18:00:02.000Z",
-        "fetchedAt": "2026-11-02T08:21:09.159Z",
+        "fetchedAt": "2026-11-02T18:51:28.550Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -641,7 +676,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
-        "id": "a3"
+        "id": "a13"
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -651,7 +686,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-02T08:21:11.608Z",
+        "fetchedAt": "2026-11-02T18:51:30.601Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -662,7 +697,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a6"
+        "id": "a14"
       }
     ]
   },
@@ -21880,6 +21915,473 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 16
+  },
+  "archive-2026-11-03": {
+    "generatedAt": "2026-11-02T18:51:34.860Z",
+    "date": "2026-11-03",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
+              "articleIds": [
+                "a9"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
+            "url": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
+            "description": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T15:37:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+            "id": "a2"
+          },
+          {
+            "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
+            "url": "https://247wallst.com/investing/2026/11/02/nvidia-isnt-the-only-ai-winner-qualcomm-may-be-the-next-stock-to-watch/?.tsrc=rss",
+            "description": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T15:33:42.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+            "id": "a3"
+          },
+          {
+            "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110429785.html?.tsrc=rss",
+            "description": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T11:04:29.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
+            "id": "a9"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (3 articles). A total of 10 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWxfTkwxZS03OThDWFpBX3ktSUU2RC01UkhiMm5WdEI5dmVkWll1T3Y2dFZXcWp5LW1YazVuS3FrSEcyZUhfYzRGSTQ3aFNfMlY2b2VNcUJaaEpjcWJBU3ZCRzIzV2sydmhkQ2l2WFBzN0NqZ1VyYWhfdS14M1FLLThJbkcwakVvd3ZqRUpGcw?oc=5",
+            "description": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T16:55:28.000Z",
+            "fetchedAt": "2026-11-02T18:51:34.830Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Asia Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+            "id": "a1"
+          },
+          {
+            "title": "HKT pulls out of US under FCC pressure – report",
+            "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
+            "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-02T15:09:26.000Z",
+            "fetchedAt": "2026-11-02T18:51:32.604Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "id": "a4"
+          },
+          {
+            "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
+            "url": "https://ipfray.com/epo-sets-out-six-priorities-for-strengthening-europes-technology-transfer/",
+            "description": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T15:02:02.000Z",
+            "fetchedAt": "2026-11-02T18:51:32.463Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "id": "a5"
+          },
+          {
+            "title": "Is QCOM Stock a Smart Investment Option Before Q4 Earnings Release?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-smart-investment-option-130700368.html?.tsrc=rss",
+            "description": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T13:07:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+            "id": "a6"
+          },
+          {
+            "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
+            "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
+            "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
+            "source": "Patently-O",
+            "sourceId": "patently-o",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T12:30:26.000Z",
+            "fetchedAt": "2026-11-02T18:51:32.014Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
+            "id": "a7"
+          },
+          {
+            "title": "US House science chair urges stronger Korea ties to counter China - Aju Press",
+            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVdIBV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVQ?oc=5",
+            "description": "US House science chair urges stronger Korea ties to counter China Aju Press",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T08:24:38.000Z",
+            "fetchedAt": "2026-11-02T18:51:34.830Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Aju Press",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US House science chair urges stronger Korea ties to counter China Aju Press",
+            "id": "a10"
+          },
+          {
+            "title": "Taiwan tightens China chip export controls, adds penalties and closes loopholes - Chosunbiz",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzRwcW9oV1loQnc2dkNOTkpoa3FNNGNjal9lVnRRWjA3QXFKQUhsZEZ3MW40c2dpa2hqbmNsQXE4XzRfMl9KNS1xUGdJc29lb0oyQUZ5QkczNmVrMXhnWU1XRjlFbm1xWEJRVzlMQlFtdTFMeWtmd3lnOExSVE1JV0ZNRHRKbDJH0gGcAUFVX3lxTE94dkVaNnhZckU1SFZkc3FMZ2lHbUsxV1gyVFJjd0l3UGdXZDZkVm1Pd21lOUVYZjVBcEpnUTg1QUNKdE8yeWZkQlFVTm1peTJDbUFfQ1UzalBWS0ZudUlhQ0w3aXhBY0M1TVJpUS1tZ0hXRUJlUVQxVWFJNWtMRGlBUE1xcDV2aXFYcHJ0akJ0RGNLaHJrZzhOaTBpUw?oc=5",
+            "description": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T02:06:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:34.830Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Chosunbiz",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
+            "id": "a11"
+          },
+          {
+            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T19:00:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "id": "a12"
+          },
+          {
+            "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
+            "url": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+            "description": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T18:00:02.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+            "id": "a13"
+          },
+          {
+            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-01T11:30:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:30.601Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a14"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-02T18:51:34.858Z",
+        "date": "2026-11-03",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "platform-partner"
+            },
+            {
+              "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
+              "articleIds": [
+                "a12"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+              "articleIds": [
+                "a14"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-numbers-week-spotlight-moves-123000890.html?.tsrc=rss",
+            "description": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc. (NASDA",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T12:30:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "stakeholders",
+            "subCategory": "platform-partner",
+            "subLabel": "Platform & Ecosystem Partners",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "platform-partner"
+            ],
+            "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
+            "id": "a8"
+          },
+          {
+            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
+            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
+            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T19:00:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
+            "id": "a12"
+          },
+          {
+            "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
+            "url": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+            "description": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-01T18:00:02.000Z",
+            "fetchedAt": "2026-11-02T18:51:28.550Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+            "id": "a13"
+          },
+          {
+            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-01T11:30:00.000Z",
+            "fetchedAt": "2026-11-02T18:51:30.601Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a14"
+          }
+        ]
+      }
+    },
+    "totalArticles": 17
   }
 };
 

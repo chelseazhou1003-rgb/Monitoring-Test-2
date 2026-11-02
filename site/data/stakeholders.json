@@ -1,28 +1,56 @@
 {
-  "generatedAt": "2026-11-02T08:21:15.732Z",
-  "date": "2026-11-02",
+  "generatedAt": "2026-11-02T18:51:34.858Z",
+  "date": "2026-11-03",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (2 articles), Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "platform-partner"
+      },
       {
         "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
         "articleIds": [
-          "a2"
+          "a12"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
-          "a6"
+          "a14"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-numbers-week-spotlight-moves-123000890.html?.tsrc=rss",
+      "description": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc. (NASDA",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-02T12:30:00.000Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
+      "id": "a8"
+    },
     {
       "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
       "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
@@ -31,7 +59,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-01T19:00:00.000Z",
-      "fetchedAt": "2026-11-02T08:21:09.159Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -41,7 +69,7 @@
         "oem"
       ],
       "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-      "id": "a2"
+      "id": "a12"
     },
     {
       "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
@@ -51,7 +79,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-01T18:00:02.000Z",
-      "fetchedAt": "2026-11-02T08:21:09.159Z",
+      "fetchedAt": "2026-11-02T18:51:28.550Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -61,7 +89,7 @@
         "oem"
       ],
       "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
-      "id": "a3"
+      "id": "a13"
     },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -71,7 +99,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-02T08:21:11.608Z",
+      "fetchedAt": "2026-11-02T18:51:30.601Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -82,7 +110,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a6"
+      "id": "a14"
     }
   ]
 }
