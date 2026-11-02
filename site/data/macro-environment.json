@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-01T21:22:52.622Z",
+  "generatedAt": "2026-11-02T01:03:18.926Z",
   "date": "2026-11-02",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (7 articles), market-performance (2 articles). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (6 articles), market-performance (3 articles). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
@@ -16,7 +16,7 @@
       {
         "text": "Geopolitics & Export Controls: Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
         "articleIds": [
-          "a2"
+          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       }
@@ -31,7 +31,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-01T19:00:00.000Z",
-      "fetchedAt": "2026-11-01T21:22:46.152Z",
+      "fetchedAt": "2026-11-02T01:03:12.846Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -44,6 +44,26 @@
       "id": "a1"
     },
     {
+      "title": "Midterm Elections, Important Earnings and Other Key things to Watch this Week",
+      "url": "https://www.barchart.com/story/news/8581500/midterm-elections-important-earnings-and-other-key-things-to-watch-this-week?.tsrc=rss",
+      "description": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-01T18:00:02.000Z",
+      "fetchedAt": "2026-11-02T01:03:12.846Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Markets face a crowded week as midterm elections land Tuesday alongside a heavy earnings calendar. Apple (AAPL) and Palantir Technologies (PLTR) kick off results Monday. Advanced Micro Devices (AMD), Qualcomm (QCOM), Arm Holdings (ARM), and Uber Technologies (UBER) follow as the week unfolds.",
+      "id": "a2"
+    },
+    {
       "title": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO - TAG24.COM",
       "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPeHp5MVlNNTVZejJWdFB2eDNwZHFqWjNwb2MyZnpfQzFrSndOTGpnby1aazREZ1dzMnZkV3JhMk5MaVRQQmQxLTMzaTBwU254dmUxMVNPVDUybWw0TzNOY1hDV2J2LWh2Y1NCR2hKeklOR3ZraUF4d3JFZGw1a0lTeFNCeW9QdzRsZi1DQ3l4a2JJRzcwUGhud21sQnBmbU45M0p2bFFwOGt5bVBrR253ZFRVUGtYV1lxdlg5NVBMNmpBbTRMZE16LUVabXpja2ZaNm94RE51QS14aFE?oc=5",
       "description": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
@@ -51,7 +71,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-01T16:31:48.000Z",
-      "fetchedAt": "2026-11-01T21:22:52.596Z",
+      "fetchedAt": "2026-11-02T01:03:18.900Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "TAG24.COM",
       "geopoliticalBypass": true,
@@ -61,7 +81,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Trump looking \"closely\" at reports of China spy plot targeting Nvidia CEO TAG24.COM",
-      "id": "a2"
+      "id": "a3"
     },
     {
       "title": "South Korea's exports to China surge 133.6% in October amid AI chip boom - Global Times",
@@ -71,7 +91,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-01T14:34:00.000Z",
-      "fetchedAt": "2026-11-01T21:22:52.596Z",
+      "fetchedAt": "2026-11-02T01:03:18.899Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Global Times",
       "geopoliticalBypass": true,
@@ -81,7 +101,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "South Korea's exports to China surge 133.6% in October amid AI chip boom Global Times",
-      "id": "a3"
+      "id": "a4"
     },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -91,7 +111,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-01T21:22:48.230Z",
+      "fetchedAt": "2026-11-02T01:03:14.794Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -102,7 +122,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a4"
+      "id": "a5"
     },
     {
       "title": "Qualcomm Stock Fell 11% in a Day on Intel’s PC Warning. Here’s Why November 4 Tests Its Claim That Phones Have Bottomed",
@@ -112,7 +132,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-10-31T06:44:48.000Z",
-      "fetchedAt": "2026-11-01T21:22:46.152Z",
+      "fetchedAt": "2026-11-02T01:03:12.846Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -120,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key Stats for Qualcomm StockCurrent Price: $164. 79Target Price (Mid): ~$378Street Target: ~$196Potential Total Return: ~130%Annualized IRR: ~24% / yearWhat Happened?Qualcomm (QCOM:NASDAQ) closed at $164.",
-      "id": "a5"
+      "id": "a6"
     },
     {
       "title": "China’s proposed patent screening for SME support reflects broader shift from volume to quality and commercial value",
@@ -130,7 +150,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T15:17:51.000Z",
-      "fetchedAt": "2026-11-01T21:22:49.950Z",
+      "fetchedAt": "2026-11-02T01:03:16.628Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -139,7 +159,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China’s proposed patent screening for SME support builds on tighter eligibility rules and a broader drive to curb abnormal filings, improve patent quality, and encourage commercial use.",
-      "id": "a7"
+      "id": "a8"
     },
     {
       "title": "China’s proposed “special” trade secret rules raise the stakes for foreign companies",
@@ -149,7 +169,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-10-30T13:39:55.000Z",
-      "fetchedAt": "2026-11-01T21:22:48.230Z",
+      "fetchedAt": "2026-11-02T01:03:14.794Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -158,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Proposed provisions would give MOFCOM sweeping powers to respond to trade secret infringement linked to China’s national interests",
-      "id": "a9"
+      "id": "a10"
     },
     {
       "title": "China slates latest US proposal targeting operators",
@@ -168,7 +188,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-10-30T12:15:18.000Z",
-      "fetchedAt": "2026-11-01T21:22:50.970Z",
+      "fetchedAt": "2026-11-02T01:03:17.304Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -177,26 +197,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The US Federal Communications Commission floated new rules to bar telecoms providers on a list of entities deemed national security threats from directly accessing US phone numbers for VoIP calls, a move slammed by Chinese authorities as unreasonable suppression of its enterprises. The post China slates latest US proposal targeting operators appeared first on Mobile World Live.",
-      "id": "a10"
-    },
-    {
-      "title": "FCC clears drone operations in 800MHz band",
-      "url": "https://www.lightreading.com/regulatory-politics/fcc-clears-drone-operations-in-800mhz-band",
-      "description": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band. #pressrelease",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-10-29T23:51:36.000Z",
-      "fetchedAt": "2026-11-01T21:22:49.916Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The FCC voted to alter rules that remove a restriction preventing drones from operating in 50MHz of spectrum in the 800MHz band.",
-      "id": "a12"
+      "id": "a11"
     }
   ]
 }
