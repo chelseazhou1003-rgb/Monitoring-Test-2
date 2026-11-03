@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,7 +13,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
@@ -23,21 +23,21 @@ export const NEWS_DATA = {
         {
           "text": "Semiconductors: Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused ",
           "articleIds": [
-            "a7"
+            "a15"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
           "articleIds": [
-            "a9"
+            "a18"
           ],
           "subCategory": "wireless"
         },
         {
           "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
           "articleIds": [
-            "a10"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         }
@@ -52,7 +52,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T19:09:16.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +60,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-        "id": "a7"
+        "id": "a15"
       },
       {
         "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
@@ -70,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T15:37:00.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -78,7 +78,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
-        "id": "a9"
+        "id": "a18"
       },
       {
         "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
@@ -88,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T15:33:42.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -96,7 +96,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
-        "id": "a10"
+        "id": "a19"
       },
       {
         "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
@@ -106,7 +106,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T11:04:29.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -114,12 +114,12 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
-        "id": "a16"
+        "id": "a25"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -130,7 +130,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -141,14 +141,14 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-03T01:50:13.879Z",
+    "generatedAt": "2026-11-03T10:07:01.296Z",
     "date": "2026-11-03",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
         "articleCount": 4,
         "topHeadline": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
-        "topHeadlineId": "a7",
+        "topHeadlineId": "a15",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
@@ -167,10 +167,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 16,
-        "topHeadline": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+        "articleCount": 21,
+        "topHeadline": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles). A total of 16 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -181,24 +181,24 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 7,
-        "topHeadline": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Platform & Ecosystem Partners (1 article), market-performance (1 article). A total of 7 articles were aggregated from monitored sources."
+        "articleCount": 4,
+        "topHeadline": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
+        "topHeadlineId": "a12",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 27
+    "totalArticles": 29
   },
   "macro-environment": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles). A total of 16 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+          "text": "Geopolitics & Export Controls: OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
           "articleIds": [
             "a1"
           ],
@@ -207,7 +207,7 @@ export const NEWS_DATA = {
         {
           "text": "market-performance: Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
           "articleIds": [
-            "a13"
+            "a22"
           ],
           "subCategory": "market-performance"
         }
@@ -215,14 +215,227 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+        "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
+        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
+        "description": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T09:54:41.000Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "شبكة تواصل الإخبارية",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+        "id": "a1"
+      },
+      {
+        "title": "Neuralink’s China Rival Targets Obesity With ‘Electronic’ GLP-1",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss",
+        "description": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T08:21:26.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
+        "id": "a2"
+      },
+      {
+        "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+        "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+        "description": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T08:10:41.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.770Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+        "id": "a3"
+      },
+      {
+        "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
+        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOV9QQWtjbUpqTWNZY2s2RlQ5TFJlbktoMU1vRXhGM0h2NnZjNHFpZFVSUVBPS0pucGdhSDFxYXVRXzlhN1piWFpJQ05HR18tY1dnd0ViX0hGN3JNc0lxbXV1QnFBNzZlVVpkMDI4enMxVHVsOHdPZlh4Y3ZOYTBhd1Rvc3ZET0RlQXVBNjgzaHBRUE5OY0FVZGppam40c2c?oc=5",
+        "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T07:07:52.000Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "EU Perspectives",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+        "id": "a4"
+      },
+      {
+        "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZV1JQQnJRVVNnS2hfWkZ0UjRqV3pBVGdWSk9GSUtYQVZmNFlqcVRTSTAtVHFlV0ZkT0h5b3hlZWtfRDlnOGU4OXF2Skpia0xWMS1kNG03eDk?oc=5",
+        "description": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T06:57:00.000Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Taiwan News",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+        "id": "a5"
+      },
+      {
+        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
+        "description": "Nvidia Corp. has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T05:39:37.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
+        "id": "a6"
+      },
+      {
+        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
+        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+        "description": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T05:39:00.000Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Bloomberg.com",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
+        "id": "a7"
+      },
+      {
+        "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+        "description": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T05:24:07.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
+        "id": "a8"
+      },
+      {
+        "title": "Nvidia orders data centre clients to reduce China exposure",
+        "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
+        "description": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
+        "source": "Financial Times",
+        "sourceId": "ft",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T05:00:13.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.770Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
+        "id": "a9"
+      },
+      {
+        "title": "Wall Street Bosses See Risks But Remain Bullish On AI",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video",
+        "description": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T04:50:24.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.",
+        "id": "a10"
+      },
+      {
+        "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+        "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+        "description": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T02:47:57.000Z",
+        "fetchedAt": "2026-11-03T10:06:54.493Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+        "id": "a11"
+      },
+      {
+        "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
         "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-        "description": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+        "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T01:08:40.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -232,8 +445,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
-        "id": "a1"
+        "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+        "id": "a12"
       },
       {
         "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
@@ -243,7 +456,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T23:00:01.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.877Z",
+        "fetchedAt": "2026-11-03T10:06:54.493Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -252,68 +465,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
-        "id": "a2"
-      },
-      {
-        "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-        "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
-        "description": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T22:58:27.000Z",
-        "fetchedAt": "2026-11-03T01:49:54.257Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-        "id": "a3"
-      },
-      {
-        "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
-        "description": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors. Sales growth decelerated from a 16% clip in the June quarter, and results from Apple’s iPad and wearables businesses were particularly weak. But the iPhone, the company’s biggest moneymaker, remained strong. Mark Gurman, Bloomberg News Managing Editor for Global Consumer Tech, joins to discuss the results. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T22:47:17.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors.",
-        "id": "a4"
-      },
-      {
-        "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
-        "description": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T21:57:16.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report.",
-        "id": "a5"
+        "id": "a13"
       },
       {
         "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -323,7 +475,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-02T20:37:49.000Z",
-        "fetchedAt": "2026-11-03T01:49:54.377Z",
+        "fetchedAt": "2026-11-03T10:06:54.811Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -334,7 +486,27 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "id": "a6"
+        "id": "a14"
+      },
+      {
+        "title": "China strengthens export control regime with technology exports and dual-use items - CMS.law",
+        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0w0NzVIcm1JOG9GS2tzVDRsQWlhVlJrQzRCN1NCZWJ5bmlobjlXVEt1VXJBVDZUNzh2UU8zNEdrd3pxTDRYcHd2dG0tdjRuSG9Fc2xjYkdFc3lYcFZPQll6UGlzY0xBSjFaNGtPbDVtZzVPel9rZTNlM2NMVEhaZ2E3azR0Uml2cjViVE16NUdnMXBZWmw1aVJVb1R3MThWdlNPTUZWSXJCUmpIQUp3NE54OHVNSTNpQUhJ?oc=5",
+        "description": "China strengthens export control regime with technology exports and dual-use items CMS.law",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-02T18:12:56.000Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "CMS.law",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "China strengthens export control regime with technology exports and dual-use items CMS.law",
+        "id": "a16"
       },
       {
         "title": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
@@ -344,7 +516,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T16:55:28.000Z",
-        "fetchedAt": "2026-11-03T01:50:13.858Z",
+        "fetchedAt": "2026-11-03T10:07:01.256Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Asia Times",
         "geopoliticalBypass": true,
@@ -354,7 +526,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
-        "id": "a8"
+        "id": "a17"
       },
       {
         "title": "HKT pulls out of US under FCC pressure – report",
@@ -364,7 +536,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-02T15:09:26.000Z",
-        "fetchedAt": "2026-11-03T01:50:11.837Z",
+        "fetchedAt": "2026-11-03T10:06:58.518Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -373,7 +545,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "id": "a11"
+        "id": "a20"
       },
       {
         "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -383,7 +555,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T15:02:02.000Z",
-        "fetchedAt": "2026-11-03T01:50:11.139Z",
+        "fetchedAt": "2026-11-03T10:06:58.596Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -392,7 +564,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-        "id": "a12"
+        "id": "a21"
       },
       {
         "title": "Is QCOM Stock a Smart Investment Option Before Q4 Earnings Release?",
@@ -402,7 +574,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T13:07:00.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -410,7 +582,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
-        "id": "a13"
+        "id": "a22"
       },
       {
         "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -420,7 +592,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T12:30:26.000Z",
-        "fetchedAt": "2026-11-03T01:50:10.441Z",
+        "fetchedAt": "2026-11-03T10:06:58.243Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -429,97 +601,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-        "id": "a14"
-      },
-      {
-        "title": "US House science chair urges stronger Korea ties to counter China - Aju Press",
-        "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVdIBV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVQ?oc=5",
-        "description": "US House science chair urges stronger Korea ties to counter China Aju Press",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T08:24:38.000Z",
-        "fetchedAt": "2026-11-03T01:50:13.858Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Aju Press",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US House science chair urges stronger Korea ties to counter China Aju Press",
-        "id": "a17"
-      },
-      {
-        "title": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report - www.irishsun.com",
-        "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUZXM3BESkFnVF9qWTRRMjhNQVBLS0NLMGVlUC1nb19MRmh1RnhOd3lWLWE5T3l5MHhqdFlockxzT0pJUnhHdHNQc1NNZ2V6MXR0Zi1wY3ViX0dETEJhMnpVblBqUng3LUMyMXZtT2JaMGtwbWxOSUsxSlNSY3V5ekFNTHFuclo0REttS2JHMnR3MkdJOXd3emFTWEtYNks4dEhYbDdMWnNTa2JaYXl3QkhfZUlvYnlBMUlmcTE4ODkyMGFwQ1E?oc=5",
-        "description": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report www.irishsun.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T07:29:00.000Z",
-        "fetchedAt": "2026-11-03T01:50:13.858Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "www.irishsun.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report www.irishsun.com",
-        "id": "a18"
-      },
-      {
-        "title": "Taiwan tightens China chip export controls, adds penalties and closes loopholes - Chosunbiz",
-        "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzRwcW9oV1loQnc2dkNOTkpoa3FNNGNjal9lVnRRWjA3QXFKQUhsZEZ3MW40c2dpa2hqbmNsQXE4XzRfMl9KNS1xUGdJc29lb0oyQUZ5QkczNmVrMXhnWU1XRjlFbm1xWEJRVzlMQlFtdTFMeWtmd3lnOExSVE1JV0ZNRHRKbDJH0gGcAUFVX3lxTE94dkVaNnhZckU1SFZkc3FMZ2lHbUsxV1gyVFJjd0l3UGdXZDZkVm1Pd21lOUVYZjVBcEpnUTg1QUNKdE8yeWZkQlFVTm1peTJDbUFfQ1UzalBWS0ZudUlhQ0w3aXhBY0M1TVJpUS1tZ0hXRUJlUVQxVWFJNWtMRGlBUE1xcDV2aXFYcHJ0akJ0RGNLaHJrZzhOaTBpUw?oc=5",
-        "description": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T02:06:00.000Z",
-        "fetchedAt": "2026-11-03T01:50:13.858Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Chosunbiz",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
-        "id": "a19"
-      },
-      {
-        "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-        "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-        "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-01T19:00:00.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "id": "a20"
+        "id": "a23"
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+        "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
         "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-03T01:50:03.229Z",
+        "fetchedAt": "2026-11-03T10:06:56.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -530,7 +622,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a21"
+        "id": "a26"
       }
     ]
   },
@@ -726,46 +818,39 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-03T01:50:13.878Z",
+    "generatedAt": "2026-11-03T10:07:01.294Z",
     "date": "2026-11-03",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Platform & Ecosystem Partners (1 article), market-performance (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+          "text": "Geopolitics & Export Controls: Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
           "articleIds": [
-            "a1"
+            "a12"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
           "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
           "articleIds": [
-            "a15"
+            "a24"
           ],
           "subCategory": "platform-partner"
-        },
-        {
-          "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
-          "articleIds": [
-            "a20"
-          ],
-          "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
       {
-        "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+        "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
         "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-        "description": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+        "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T01:08:40.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
+        "fetchedAt": "2026-11-03T10:06:54.585Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -775,50 +860,8 @@ export const NEWS_DATA = {
         "stakeholders": [
           "oem"
         ],
-        "summary": "reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
-        "id": "a1"
-      },
-      {
-        "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
-        "description": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors. Sales growth decelerated from a 16% clip in the June quarter, and results from Apple’s iPad and wearables businesses were particularly weak. But the iPhone, the company’s biggest moneymaker, remained strong. Mark Gurman, Bloomberg News Managing Editor for Global Consumer Tech, joins to discuss the results. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T22:47:17.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors.",
-        "id": "a4"
-      },
-      {
-        "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
-        "description": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T21:57:16.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.971Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report.",
-        "id": "a5"
+        "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+        "id": "a12"
       },
       {
         "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -828,7 +871,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-02T20:37:49.000Z",
-        "fetchedAt": "2026-11-03T01:49:54.377Z",
+        "fetchedAt": "2026-11-03T10:06:54.811Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -839,7 +882,7 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "id": "a6"
+        "id": "a14"
       },
       {
         "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
@@ -849,7 +892,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T12:30:00.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
+        "fetchedAt": "2026-11-03T10:06:54.487Z",
         "fetchStrategy": "rss",
         "section": "stakeholders",
         "subCategory": "platform-partner",
@@ -860,37 +903,17 @@ export const NEWS_DATA = {
           "platform-partner"
         ],
         "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
-        "id": "a15"
-      },
-      {
-        "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-        "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-        "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-01T19:00:00.000Z",
-        "fetchedAt": "2026-11-03T01:49:53.986Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-        "id": "a20"
+        "id": "a24"
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+        "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
         "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-03T01:50:03.229Z",
+        "fetchedAt": "2026-11-03T10:06:56.681Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -901,7 +924,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a21"
+        "id": "a26"
       }
     ]
   },
@@ -21358,11 +21381,11 @@ export const NEWS_DATA = {
     "totalArticles": 16
   },
   "archive-2026-11-03": {
-    "generatedAt": "2026-11-03T01:50:13.880Z",
+    "generatedAt": "2026-11-03T10:07:01.297Z",
     "date": "2026-11-03",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
@@ -21372,21 +21395,21 @@ export const NEWS_DATA = {
             {
               "text": "Semiconductors: Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused ",
               "articleIds": [
-                "a7"
+                "a15"
               ],
               "subCategory": "semiconductors"
             },
             {
               "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
               "articleIds": [
-                "a9"
+                "a18"
               ],
               "subCategory": "wireless"
             },
             {
               "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
               "articleIds": [
-                "a10"
+                "a19"
               ],
               "subCategory": "mobile-chips"
             }
@@ -21401,7 +21424,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T19:09:16.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -21409,7 +21432,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-            "id": "a7"
+            "id": "a15"
           },
           {
             "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
@@ -21419,7 +21442,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T15:37:00.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -21427,7 +21450,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
-            "id": "a9"
+            "id": "a18"
           },
           {
             "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
@@ -21437,7 +21460,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T15:33:42.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -21445,7 +21468,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
-            "id": "a10"
+            "id": "a19"
           },
           {
             "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
@@ -21455,7 +21478,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T11:04:29.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -21463,12 +21486,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
-            "id": "a16"
+            "id": "a25"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -21479,7 +21502,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -21490,15 +21513,15 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles). A total of 16 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+              "text": "Geopolitics & Export Controls: OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
               "articleIds": [
                 "a1"
               ],
@@ -21507,7 +21530,7 @@ export const NEWS_DATA = {
             {
               "text": "market-performance: Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
               "articleIds": [
-                "a13"
+                "a22"
               ],
               "subCategory": "market-performance"
             }
@@ -21515,14 +21538,227 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+            "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
+            "description": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T09:54:41.000Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "شبكة تواصل الإخبارية",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+            "id": "a1"
+          },
+          {
+            "title": "Neuralink’s China Rival Targets Obesity With ‘Electronic’ GLP-1",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss",
+            "description": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T08:21:26.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
+            "id": "a2"
+          },
+          {
+            "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
+            "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
+            "description": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T08:10:41.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.770Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
+            "id": "a3"
+          },
+          {
+            "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOV9QQWtjbUpqTWNZY2s2RlQ5TFJlbktoMU1vRXhGM0h2NnZjNHFpZFVSUVBPS0pucGdhSDFxYXVRXzlhN1piWFpJQ05HR18tY1dnd0ViX0hGN3JNc0lxbXV1QnFBNzZlVVpkMDI4enMxVHVsOHdPZlh4Y3ZOYTBhd1Rvc3ZET0RlQXVBNjgzaHBRUE5OY0FVZGppam40c2c?oc=5",
+            "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T07:07:52.000Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "EU Perspectives",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "id": "a4"
+          },
+          {
+            "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZV1JQQnJRVVNnS2hfWkZ0UjRqV3pBVGdWSk9GSUtYQVZmNFlqcVRTSTAtVHFlV0ZkT0h5b3hlZWtfRDlnOGU4OXF2Skpia0xWMS1kNG03eDk?oc=5",
+            "description": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T06:57:00.000Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Taiwan News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+            "id": "a5"
+          },
+          {
+            "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
+            "description": "Nvidia Corp. has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T05:39:37.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
+            "id": "a6"
+          },
+          {
+            "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
+            "description": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T05:39:00.000Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bloomberg.com",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
+            "id": "a7"
+          },
+          {
+            "title": "China Plans Broad AI Guardrails After Global Security Lapses",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
+            "description": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T05:24:07.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
+            "id": "a8"
+          },
+          {
+            "title": "Nvidia orders data centre clients to reduce China exposure",
+            "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
+            "description": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
+            "source": "Financial Times",
+            "sourceId": "ft",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T05:00:13.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.770Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
+            "id": "a9"
+          },
+          {
+            "title": "Wall Street Bosses See Risks But Remain Bullish On AI",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video",
+            "description": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T04:50:24.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.",
+            "id": "a10"
+          },
+          {
+            "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
+            "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
+            "description": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T02:47:57.000Z",
+            "fetchedAt": "2026-11-03T10:06:54.493Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
+            "id": "a11"
+          },
+          {
+            "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
             "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-            "description": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+            "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
             "source": "Bloomberg",
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T01:08:40.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21532,8 +21768,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
-            "id": "a1"
+            "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+            "id": "a12"
           },
           {
             "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
@@ -21543,7 +21779,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T23:00:01.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.877Z",
+            "fetchedAt": "2026-11-03T10:06:54.493Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21552,68 +21788,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
-            "id": "a2"
-          },
-          {
-            "title": "OpenAI hires former US Army secretary as military seeks to expand AI use",
-            "url": "https://www.ft.com/content/e6b8fd40-ef92-46e8-aeaf-f98dade55a67?syn-25a6b1a6=1",
-            "description": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-            "source": "Financial Times",
-            "sourceId": "ft",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T22:58:27.000Z",
-            "fetchedAt": "2026-11-03T01:49:54.257Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Dan Driscoll to join the start-up as senior counsellor for national security modernisation",
-            "id": "a3"
-          },
-          {
-            "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
-            "description": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors. Sales growth decelerated from a 16% clip in the June quarter, and results from Apple’s iPad and wearables businesses were particularly weak. But the iPhone, the company’s biggest moneymaker, remained strong. Mark Gurman, Bloomberg News Managing Editor for Global Consumer Tech, joins to discuss the results. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T22:47:17.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors.",
-            "id": "a4"
-          },
-          {
-            "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
-            "description": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T21:57:16.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report.",
-            "id": "a5"
+            "id": "a13"
           },
           {
             "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -21623,7 +21798,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-02T20:37:49.000Z",
-            "fetchedAt": "2026-11-03T01:49:54.377Z",
+            "fetchedAt": "2026-11-03T10:06:54.811Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21634,7 +21809,27 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-            "id": "a6"
+            "id": "a14"
+          },
+          {
+            "title": "China strengthens export control regime with technology exports and dual-use items - CMS.law",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0w0NzVIcm1JOG9GS2tzVDRsQWlhVlJrQzRCN1NCZWJ5bmlobjlXVEt1VXJBVDZUNzh2UU8zNEdrd3pxTDRYcHd2dG0tdjRuSG9Fc2xjYkdFc3lYcFZPQll6UGlzY0xBSjFaNGtPbDVtZzVPel9rZTNlM2NMVEhaZ2E3azR0Uml2cjViVE16NUdnMXBZWmw1aVJVb1R3MThWdlNPTUZWSXJCUmpIQUp3NE54OHVNSTNpQUhJ?oc=5",
+            "description": "China strengthens export control regime with technology exports and dual-use items CMS.law",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T18:12:56.000Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "CMS.law",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China strengthens export control regime with technology exports and dual-use items CMS.law",
+            "id": "a16"
           },
           {
             "title": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
@@ -21644,7 +21839,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T16:55:28.000Z",
-            "fetchedAt": "2026-11-03T01:50:13.858Z",
+            "fetchedAt": "2026-11-03T10:07:01.256Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Asia Times",
             "geopoliticalBypass": true,
@@ -21654,7 +21849,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
-            "id": "a8"
+            "id": "a17"
           },
           {
             "title": "HKT pulls out of US under FCC pressure – report",
@@ -21664,7 +21859,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-02T15:09:26.000Z",
-            "fetchedAt": "2026-11-03T01:50:11.837Z",
+            "fetchedAt": "2026-11-03T10:06:58.518Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21673,7 +21868,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-            "id": "a11"
+            "id": "a20"
           },
           {
             "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -21683,7 +21878,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-02T15:02:02.000Z",
-            "fetchedAt": "2026-11-03T01:50:11.139Z",
+            "fetchedAt": "2026-11-03T10:06:58.596Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21692,7 +21887,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-            "id": "a12"
+            "id": "a21"
           },
           {
             "title": "Is QCOM Stock a Smart Investment Option Before Q4 Earnings Release?",
@@ -21702,7 +21897,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T13:07:00.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -21710,7 +21905,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
-            "id": "a13"
+            "id": "a22"
           },
           {
             "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -21720,7 +21915,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-02T12:30:26.000Z",
-            "fetchedAt": "2026-11-03T01:50:10.441Z",
+            "fetchedAt": "2026-11-03T10:06:58.243Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21729,97 +21924,17 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-            "id": "a14"
-          },
-          {
-            "title": "US House science chair urges stronger Korea ties to counter China - Aju Press",
-            "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVdIBV0FVX3lxTFA5ZmxUcUptTWxrMlIyWHZvVFRnSFFhNEJxYTUtb0U1ZHlBel9HZmxkXzlhdTluYlVxc0V3dGlMa1RId0RyV21zbG1mODBPWmpoMTNHdXRwVQ?oc=5",
-            "description": "US House science chair urges stronger Korea ties to counter China Aju Press",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T08:24:38.000Z",
-            "fetchedAt": "2026-11-03T01:50:13.858Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Aju Press",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "US House science chair urges stronger Korea ties to counter China Aju Press",
-            "id": "a17"
-          },
-          {
-            "title": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report - www.irishsun.com",
-            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPNUZXM3BESkFnVF9qWTRRMjhNQVBLS0NLMGVlUC1nb19MRmh1RnhOd3lWLWE5T3l5MHhqdFlockxzT0pJUnhHdHNQc1NNZ2V6MXR0Zi1wY3ViX0dETEJhMnpVblBqUng3LUMyMXZtT2JaMGtwbWxOSUsxSlNSY3V5ekFNTHFuclo0REttS2JHMnR3MkdJOXd3emFTWEtYNks4dEhYbDdMWnNTa2JaYXl3QkhfZUlvYnlBMUlmcTE4ODkyMGFwQ1E?oc=5",
-            "description": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report www.irishsun.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T07:29:00.000Z",
-            "fetchedAt": "2026-11-03T01:50:13.858Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "www.irishsun.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump voices uncertainty over confidence in Nvidia CEO Huang amid China spy plot: Report www.irishsun.com",
-            "id": "a18"
-          },
-          {
-            "title": "Taiwan tightens China chip export controls, adds penalties and closes loopholes - Chosunbiz",
-            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPUzRwcW9oV1loQnc2dkNOTkpoa3FNNGNjal9lVnRRWjA3QXFKQUhsZEZ3MW40c2dpa2hqbmNsQXE4XzRfMl9KNS1xUGdJc29lb0oyQUZ5QkczNmVrMXhnWU1XRjlFbm1xWEJRVzlMQlFtdTFMeWtmd3lnOExSVE1JV0ZNRHRKbDJH0gGcAUFVX3lxTE94dkVaNnhZckU1SFZkc3FMZ2lHbUsxV1gyVFJjd0l3UGdXZDZkVm1Pd21lOUVYZjVBcEpnUTg1QUNKdE8yeWZkQlFVTm1peTJDbUFfQ1UzalBWS0ZudUlhQ0w3aXhBY0M1TVJpUS1tZ0hXRUJlUVQxVWFJNWtMRGlBUE1xcDV2aXFYcHJ0akJ0RGNLaHJrZzhOaTBpUw?oc=5",
-            "description": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T02:06:00.000Z",
-            "fetchedAt": "2026-11-03T01:50:13.858Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Chosunbiz",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Taiwan tightens China chip export controls, adds penalties and closes loopholes Chosunbiz",
-            "id": "a19"
-          },
-          {
-            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-01T19:00:00.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-            "id": "a20"
+            "id": "a23"
           },
           {
             "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
             "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-03T01:50:03.229Z",
+            "fetchedAt": "2026-11-03T10:06:56.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21830,12 +21945,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a21"
+            "id": "a26"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -21846,46 +21961,39 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-03T01:50:13.878Z",
+        "generatedAt": "2026-11-03T10:07:01.294Z",
         "date": "2026-11-03",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Platform & Ecosystem Partners (1 article), market-performance (1 article). A total of 7 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+              "text": "Geopolitics & Export Controls: Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
               "articleIds": [
-                "a1"
+                "a12"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
               "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
               "articleIds": [
-                "a15"
+                "a24"
               ],
               "subCategory": "platform-partner"
-            },
-            {
-              "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
-              "articleIds": [
-                "a20"
-              ],
-              "subCategory": "market-performance"
             }
           ]
         },
         "articles": [
           {
-            "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+            "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
             "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-            "description": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+            "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
             "source": "Bloomberg",
             "sourceId": "bloomberg",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T01:08:40.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
+            "fetchedAt": "2026-11-03T10:06:54.585Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21895,50 +22003,8 @@ export const NEWS_DATA = {
             "stakeholders": [
               "oem"
             ],
-            "summary": "reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
-            "id": "a1"
-          },
-          {
-            "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
-            "description": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors. Sales growth decelerated from a 16% clip in the June quarter, and results from Apple’s iPad and wearables businesses were particularly weak. But the iPhone, the company’s biggest moneymaker, remained strong. Mark Gurman, Bloomberg News Managing Editor for Global Consumer Tech, joins to discuss the results. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T22:47:17.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors.",
-            "id": "a4"
-          },
-          {
-            "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-            "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
-            "description": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report. (Source: Bloomberg)",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-02T21:57:16.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.971Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report.",
-            "id": "a5"
+            "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+            "id": "a12"
           },
           {
             "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -21948,7 +22014,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-02T20:37:49.000Z",
-            "fetchedAt": "2026-11-03T01:49:54.377Z",
+            "fetchedAt": "2026-11-03T10:06:54.811Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21959,7 +22025,7 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-            "id": "a6"
+            "id": "a14"
           },
           {
             "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
@@ -21969,7 +22035,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-02T12:30:00.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
+            "fetchedAt": "2026-11-03T10:06:54.487Z",
             "fetchStrategy": "rss",
             "section": "stakeholders",
             "subCategory": "platform-partner",
@@ -21980,37 +22046,17 @@ export const NEWS_DATA = {
               "platform-partner"
             ],
             "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
-            "id": "a15"
-          },
-          {
-            "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-            "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-            "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-01T19:00:00.000Z",
-            "fetchedAt": "2026-11-03T01:49:53.986Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-            "id": "a20"
+            "id": "a24"
           },
           {
             "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
             "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-03T01:50:03.229Z",
+            "fetchedAt": "2026-11-03T10:06:56.681Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22021,12 +22067,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a21"
+            "id": "a26"
           }
         ]
       }
     },
-    "totalArticles": 27
+    "totalArticles": 29
   }
 };
 

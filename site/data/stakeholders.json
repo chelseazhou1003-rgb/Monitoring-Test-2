@@ -1,44 +1,37 @@
 {
-  "generatedAt": "2026-11-03T01:50:13.878Z",
+  "generatedAt": "2026-11-03T10:07:01.294Z",
   "date": "2026-11-03",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (5 articles), Platform & Ecosystem Partners (1 article), market-performance (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+        "text": "Geopolitics & Export Controls: Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
         "articleIds": [
-          "a1"
+          "a12"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
         "articleIds": [
-          "a15"
+          "a24"
         ],
         "subCategory": "platform-partner"
-      },
-      {
-        "text": "market-performance: In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sec",
-        "articleIds": [
-          "a20"
-        ],
-        "subCategory": "market-performance"
       }
     ]
   },
   "articles": [
     {
-      "title": "Apple Sets New Sales Highs in China Even as Increased Costs Bite",
+      "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
       "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-      "description": "Apple Inc. reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
+      "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T01:08:40.000Z",
-      "fetchedAt": "2026-11-03T01:49:53.971Z",
+      "fetchedAt": "2026-11-03T10:06:54.585Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -48,50 +41,8 @@
       "stakeholders": [
         "oem"
       ],
-      "summary": "reached new sales records in China in the September quarter, softening the blow of rising costs for components like memory and navigating soft consumer demand better than rivals.",
-      "id": "a1"
-    },
-    {
-      "title": "Apple Sales Meet Estimates, China Is a Weak Spot",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-meet-estimates-china-is-a-weak-spot-video",
-      "description": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors. Sales growth decelerated from a 16% clip in the June quarter, and results from Apple’s iPad and wearables businesses were particularly weak. But the iPhone, the company’s biggest moneymaker, remained strong. Mark Gurman, Bloomberg News Managing Editor for Global Consumer Tech, joins to discuss the results. He speaks with Carol Massar and Tim Stenovec. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T22:47:17.000Z",
-      "fetchedAt": "2026-11-03T01:49:53.971Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Apple posted September quarter revenue that narrowly topped analysts’ estimates, even as sales in the key Chinese market fell short of projections. Revenue rose 12% to $114.5 billion during the fiscal fourth quarter, which ended Sept. 26, the company said in a statement. Analysts had estimated $113.5 billion on average, according to data compiled by Bloomberg. The quarterly report — the first under new Chief Executive Officer John Ternus — offered a mixed picture to investors.",
-      "id": "a4"
-    },
-    {
-      "title": "Apple Sales Slow Down, China Revenue Misses Estimates",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-02/apple-sales-slow-down-china-revenue-misses-estimates-video",
-      "description": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T21:57:16.000Z",
-      "fetchedAt": "2026-11-03T01:49:53.971Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Apple says sales slowed down in the fiscal fourth quarter, but still beat estimates. Revenue out of China missed estimates. This is the first earnings report posted under CEO John Ternus. Bloomberg's Ed Ludlow and Mark Gurman report.",
-      "id": "a5"
+      "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+      "id": "a12"
     },
     {
       "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
@@ -101,7 +52,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-02T20:37:49.000Z",
-      "fetchedAt": "2026-11-03T01:49:54.377Z",
+      "fetchedAt": "2026-11-03T10:06:54.811Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -112,7 +63,7 @@
         "platform-partner"
       ],
       "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-      "id": "a6"
+      "id": "a14"
     },
     {
       "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
@@ -122,7 +73,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-02T12:30:00.000Z",
-      "fetchedAt": "2026-11-03T01:49:53.986Z",
+      "fetchedAt": "2026-11-03T10:06:54.487Z",
       "fetchStrategy": "rss",
       "section": "stakeholders",
       "subCategory": "platform-partner",
@@ -133,37 +84,17 @@
         "platform-partner"
       ],
       "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
-      "id": "a15"
-    },
-    {
-      "title": "Jobs, Midterm Elections, Apple, Palantir, McDonald’s, Moderna, and More to Watch This Week",
-      "url": "https://finance.yahoo.com/m/70ce984f-00d7-351b-ac85-1541ff0679b6/jobs%2C-midterm-elections%2C.html?.tsrc=rss",
-      "description": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-01T19:00:00.000Z",
-      "fetchedAt": "2026-11-03T01:49:53.986Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "In another busy earnings week, AMD, Estée Lauder, Qualcomm, Pfizer, and many more will report results. We’ll see three readings on jobs this week, as well as data on the manufacturing and services sectors.",
-      "id": "a20"
+      "id": "a24"
     },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-      "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+      "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
       "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-03T01:50:03.229Z",
+      "fetchedAt": "2026-11-03T10:06:56.681Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -174,7 +105,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a21"
+      "id": "a26"
     }
   ]
 }
