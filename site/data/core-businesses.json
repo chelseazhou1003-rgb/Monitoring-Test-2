@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-03T18:04:26.953Z",
+  "generatedAt": "2026-11-03T23:43:12.372Z",
   "date": "2026-11-04",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
         "articleIds": [
-          "a2"
+          "a10"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
         "articleIds": [
-          "a4"
+          "a13"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
         "articleIds": [
-          "a5"
+          "a14"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T15:39:59.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
-      "id": "a2"
+      "id": "a10"
     },
     {
       "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:45:04.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
-      "id": "a4"
+      "id": "a13"
     },
     {
       "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -84,7 +84,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-      "id": "a5"
+      "id": "a14"
     },
     {
       "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T13:21:40.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -102,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
-      "id": "a6"
+      "id": "a15"
     },
     {
       "title": "How Would You Fix Qualcomm?",
@@ -112,7 +112,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T11:57:07.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -120,7 +120,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a9"
+      "id": "a18"
     },
     {
       "title": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
@@ -130,7 +130,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-02T19:09:16.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
+      "fetchedAt": "2026-11-03T23:43:06.123Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -138,43 +138,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-      "id": "a18"
-    },
-    {
-      "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
-      "url": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
-      "description": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T15:37:00.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
-      "id": "a19"
-    },
-    {
-      "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
-      "url": "https://247wallst.com/investing/2026/11/02/nvidia-isnt-the-only-ai-winner-qualcomm-may-be-the-next-stock-to-watch/?.tsrc=rss",
-      "description": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T15:33:42.000Z",
-      "fetchedAt": "2026-11-03T18:04:19.345Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
-      "id": "a20"
+      "id": "a27"
     }
   ]
 }
