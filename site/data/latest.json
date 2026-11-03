@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-03T10:07:01.296Z",
-  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T18:04:26.955Z",
+  "date": "2026-11-04",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 4,
-      "topHeadline": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
-      "topHeadlineId": "a15",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 8,
+      "topHeadline": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 21,
-      "topHeadline": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
+      "articleCount": 16,
+      "topHeadline": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies - Vision Times",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
-      "topHeadlineId": "a12",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 3,
+      "topHeadline": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 29
+  "totalArticles": 27
 }

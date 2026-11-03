@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,37 +13,129 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused ",
+          "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
           "articleIds": [
-            "a15"
-          ],
-          "subCategory": "semiconductors"
-        },
-        {
-          "text": "Wireless Communication: Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi",
-          "articleIds": [
-            "a18"
+            "a2"
           ],
           "subCategory": "wireless"
         },
         {
-          "text": "Mobile Chips: Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Stre",
+          "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
           "articleIds": [
-            "a19"
+            "a4"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
+          "articleIds": [
+            "a5"
           ],
           "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
+        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stocks-edge-lower-ai-153959715.html?.tsrc=rss",
+        "description": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T15:39:59.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+        "id": "a2"
+      },
+      {
+        "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
+        "url": "https://www.tikr.com/blog/qualcomm-is-betting-on-anduril-and-ai-heres-what-the-november-4-report-has-to-show?ref=yahoofinance&tlnk=yf-261103-78wqmrqm&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T14:45:04.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+        "id": "a4"
+      },
+      {
+        "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+        "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T14:25:43.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+        "id": "a5"
+      },
+      {
+        "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
+        "url": "https://www.just-auto.com/news/infineon-qualcomm-central-vehicle-computers/?.tsrc=rss",
+        "description": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T13:21:40.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+        "id": "a6"
+      },
+      {
+        "title": "How Would You Fix Qualcomm?",
+        "url": "https://www.trefis.com/stock/qcom/articles/622172/how-would-you-fix-qualcomm/2026-11-03?.tsrc=rss",
+        "description": "For questions about this article or underlying research, email help@trefis.com.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T11:57:07.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "For questions about this article or underlying research, email help@trefis.com.",
+        "id": "a9"
+      },
       {
         "title": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
         "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-700-million-190916281.html?.tsrc=rss",
@@ -52,7 +144,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T19:09:16.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +152,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-        "id": "a15"
+        "id": "a18"
       },
       {
         "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
@@ -70,7 +162,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T15:37:00.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -78,7 +170,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
@@ -88,7 +180,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-02T15:33:42.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -96,31 +188,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
-        "id": "a19"
-      },
-      {
-        "title": "Avantis U.S. Large Cap Value (AVLV) Adds Exxon Mobil and Qualcomm on Oct. 29",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/avantis-u-large-cap-value-110429785.html?.tsrc=rss",
-        "description": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T11:04:29.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "The fund bought $585.4 million of Exxon Mobil and $26.5 million of Qualcomm while selling $32.6 million of Caterpillar.",
-        "id": "a25"
+        "id": "a20"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -130,8 +204,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -141,15 +215,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-03T10:07:01.296Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.955Z",
+    "date": "2026-11-04",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
-        "topHeadlineId": "a15",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 8,
+        "topHeadline": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -167,10 +241,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 21,
-        "topHeadline": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
+        "articleCount": 16,
+        "topHeadline": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies - Vision Times",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -181,39 +255,174 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 4,
-        "topHeadline": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
-        "topHeadlineId": "a12",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 3,
+        "topHeadline": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+        "topHeadlineId": "a5",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 29
+    "totalArticles": 27
   },
   "macro-environment": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article). A total of 21 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+          "text": "Geopolitics & Export Controls: Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
-          "text": "market-performance: Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
+          "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
           "articleIds": [
-            "a22"
+            "a8"
           ],
           "subCategory": "market-performance"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies - Vision Times",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVVaVnAtSlNtSlBCZElXY1lWXzMxMkt0Y0hKSWlxZ1RUREZmcHNwc3BZTGhkbkpUdHROVmYzN2Q5c2IxMTB4YWZXcDVscS1KQkxfeVVWZVRKaU1fSXFXcHMyWEVWSTV5c3lfM1RpeU51ODE2dC1zVkxNNFd0YWZuOUVRZllNOFBKZmxjckFNdk0zWk52MVRxWEg3dFpNNWpJMm5vX092QXM0VWpveWlIaUFRWlhkbUxXSW9nQ2Q0bk9tZjRVUXE3MTh5RlpHT1NB?oc=5",
+        "description": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T16:32:27.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Vision Times",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
+        "id": "a1"
+      },
+      {
+        "title": "Russia, China likely to ramp up UK cyberattacks",
+        "url": "https://www.mobileworldlive.com/ai-cloud/russia-china-to-ramp-up-uk-cyberattacks-by-2028/",
+        "description": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-03T15:20:45.000Z",
+        "fetchedAt": "2026-11-03T18:04:23.434Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+        "id": "a3"
+      },
+      {
+        "title": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access - Business Upturn",
+        "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUHBDZlZLZlJRSmtfTXRabVNzdnZNR3Y3Sl9LYTVyOXMtYVdzU1hXM29aV2JxbGJuRHU1eUNhNE9uZzRFR3VMc3J3WWhIUElWdGI2SVJMX2dxZUVUV0lwemhUd3JEbUFSUU9mTTFNM3VYUWpDTHMxNmx4cDU5NER0RWZ4aWV0RjItbUx3a1c4SExUTk5TbjJoR3FrLW9fdmJNeEh0N3Bqblhkay1UOFFxRDFjOTZUQmExeVJCZ0pIendPbE1Fd2c3SFdaeHJvMndVaEg4OGRWNnV1NGFEMmc?oc=5",
+        "description": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T13:07:00.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Business Upturn",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
+        "id": "a7"
+      },
+      {
+        "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
+        "url": "https://www.tikr.com/blog/brad-gerstner-qualcomm-distillate-sold-whos-right?ref=yahoofinance&tlnk=yf-261103-jw7r75f3&.tsrc=rss",
+        "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T12:07:09.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
+        "id": "a8"
+      },
+      {
+        "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
+        "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T11:37:00.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+        "id": "a10"
+      },
+      {
+        "title": "Are Wall Street Analysts Bullish on QUALCOMM Stock?",
+        "url": "https://www.barchart.com/story/news/8611082/are-wall-street-analysts-bullish-on-qualcomm-stock?.tsrc=rss",
+        "description": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T11:26:27.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+        "id": "a11"
+      },
+      {
+        "title": "Nvidia tells data center partners to limit China exposure below 50%: report - TradingView",
+        "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXBkWExUNDNqRktPVmRmRnpva29xVGdRT2VmakQ1R2FWaW93N284NkhjSTc0RVBRS01peDFoQ0lkUWFEVEdaUXNWeVBOTEJYUWt6aGxjWi1ST2hRaFZGSThWV2tEU2JvOTVrU3hySWdwcEk4d0tKS05uVmVYY19wZkFoRG42NzE0cDVWVi14XzFVSVBXMDUwZDdBczlOSWdhSFFhRnZYeWpaTEw1TTd5TTNmQk1oR3RkR2k3cWt0SVlPLVVNYnA4bEZR?oc=5",
+        "description": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T10:47:27.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "TradingView",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
+        "id": "a12"
+      },
       {
         "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
         "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
@@ -222,7 +431,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T09:54:41.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "شبكة تواصل الإخبارية",
         "geopoliticalBypass": true,
@@ -232,55 +441,37 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
-        "id": "a1"
+        "id": "a13"
       },
       {
-        "title": "Neuralink’s China Rival Targets Obesity With ‘Electronic’ GLP-1",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/neuralink-china-brainco-obesity-with-electronic-glp-wearable-weight-loss",
-        "description": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test - 파이낸셜뉴스",
+        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBicElwZXhJZDEzVzA4UkRSUmcxRjJPaUhWazZnX0FNMWh2ZjFrRDNlemhfY1JNcUMwOVdFUjBMUVMtOGpkbjhkT29WSDRpdW91YmpaeXlJMk8?oc=5",
+        "description": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T08:21:26.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
-        "fetchStrategy": "rss",
+        "publishedAt": "2026-11-03T09:18:54.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "파이낸셜뉴스",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chinese neurotechnology firm BrainCo is developing a wearable device that it says could suppress appetite by stimulating the brain, positioning it as a potential non-drug alternative to blockbuster GLP-1 weight-loss treatments.",
-        "id": "a2"
-      },
-      {
-        "title": "US, Russia and China discuss meeting between Trump, Putin and Xi",
-        "url": "https://www.ft.com/content/73c1d1cc-6bb2-43a6-8532-7823e5c1a40b?syn-25a6b1a6=1",
-        "description": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T08:10:41.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.770Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US president is travelling to Shenzhen in two weeks to attend Apec summit",
-        "id": "a3"
+        "summary": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+        "id": "a14"
       },
       {
         "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
-        "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQOV9QQWtjbUpqTWNZY2s2RlQ5TFJlbktoMU1vRXhGM0h2NnZjNHFpZFVSUVBPS0pucGdhSDFxYXVRXzlhN1piWFpJQ05HR18tY1dnd0ViX0hGN3JNc0lxbXV1QnFBNzZlVVpkMDI4enMxVHVsOHdPZlh4Y3ZOYTBhd1Rvc3ZET0RlQXVBNjgzaHBRUE5OY0FVZGppam40c2c?oc=5",
+        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
         "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T07:07:52.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "publishedAt": "2026-11-03T08:02:36.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EU Perspectives",
         "geopoliticalBypass": true,
@@ -290,7 +481,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-        "id": "a4"
+        "id": "a15"
       },
       {
         "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
@@ -300,7 +491,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T06:57:00.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Taiwan News",
         "geopoliticalBypass": true,
@@ -310,222 +501,26 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-        "id": "a5"
-      },
-      {
-        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/nvidia-tells-data-center-clients-to-trim-china-business-ft-says",
-        "description": "Nvidia Corp. has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T05:39:37.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "has instructed its cloud computing clients to scale back their exposure to Chinese companies, the Financial Times reported, citing unidentified people.",
-        "id": "a6"
-      },
-      {
-        "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
-        "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-        "description": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T05:39:00.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Bloomberg.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
-        "id": "a7"
-      },
-      {
-        "title": "China Plans Broad AI Guardrails After Global Security Lapses",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/china-plans-broad-ai-guardrails-after-global-security-lapses",
-        "description": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T05:24:07.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China plans to roll out a broad set of standards governing the AI safety from development through deployment, representing some of the most comprehensive guidelines to guard against a loss of control over increasingly powerful artificial intelligence.",
-        "id": "a8"
-      },
-      {
-        "title": "Nvidia orders data centre clients to reduce China exposure",
-        "url": "https://www.ft.com/content/1902df70-1380-4588-bad5-171352b575f2?syn-25a6b1a6=1",
-        "description": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
-        "source": "Financial Times",
-        "sourceId": "ft",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T05:00:13.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.770Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "World’s biggest chipmaker tells cloud computing providers a majority of their clients must be non-Chinese",
-        "id": "a9"
-      },
-      {
-        "title": "Wall Street Bosses See Risks But Remain Bullish On AI",
-        "url": "https://www.bloomberg.com/news/videos/2026-11-03/the-china-show-11-03-2026-video",
-        "description": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter. (Source: Bloomberg)",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T04:50:24.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "“Bloomberg: The China Show” is your definitive source for news and analysis on the world's second-biggest economy. From politics and policy to tech and trends, Yvonne Man and David Ingles give global investors unique insight, delivering in-depth discussions with the newsmakers who matter.",
-        "id": "a10"
-      },
-      {
-        "title": "OpenAI hires former U.S. Army Secretary Dan Driscoll for national security role",
-        "url": "https://www.cnbc.com/2026/11/03/openai-hires-dan-driscoll-national-security.html",
-        "description": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T02:47:57.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.493Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "OpenAI has hired former U.S. Army Secretary Dan Driscoll for a newly created national security role for national security modernization.",
-        "id": "a11"
-      },
-      {
-        "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-        "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T01:08:40.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-        "id": "a12"
-      },
-      {
-        "title": "CNBC's The China Connection newsletter: Nvidia's humanoid push relies on China-made robot hands",
-        "url": "https://www.cnbc.com/2026/11/02/cnbcs-the-china-connection-newsletter-nvidias-humanoid-push-relies-on-china-made-robot-hands.html",
-        "description": "The U.S. chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T23:00:01.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.493Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "chipmaker's humanoid robot systems feature mechanical hands from China-linked startups.",
-        "id": "a13"
-      },
-      {
-        "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-        "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-        "description": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-02T20:37:49.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.811Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "id": "a14"
-      },
-      {
-        "title": "China strengthens export control regime with technology exports and dual-use items - CMS.law",
-        "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY0w0NzVIcm1JOG9GS2tzVDRsQWlhVlJrQzRCN1NCZWJ5bmlobjlXVEt1VXJBVDZUNzh2UU8zNEdrd3pxTDRYcHd2dG0tdjRuSG9Fc2xjYkdFc3lYcFZPQll6UGlzY0xBSjFaNGtPbDVtZzVPel9rZTNlM2NMVEhaZ2E3azR0Uml2cjViVE16NUdnMXBZWmw1aVJVb1R3MThWdlNPTUZWSXJCUmpIQUp3NE54OHVNSTNpQUhJ?oc=5",
-        "description": "China strengthens export control regime with technology exports and dual-use items CMS.law",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T18:12:56.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "CMS.law",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China strengthens export control regime with technology exports and dual-use items CMS.law",
         "id": "a16"
       },
       {
-        "title": "Taiwan to criminalize Nvidia AI chip smuggling to China - Asia Times",
-        "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQUWxfTkwxZS03OThDWFpBX3ktSUU2RC01UkhiMm5WdEI5dmVkWll1T3Y2dFZXcWp5LW1YazVuS3FrSEcyZUhfYzRGSTQ3aFNfMlY2b2VNcUJaaEpjcWJBU3ZCRzIzV2sydmhkQ2l2WFBzN0NqZ1VyYWhfdS14M1FLLThJbkcwakVvd3ZqRUpGcw?oc=5",
-        "description": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+        "title": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... - Bhaskar English",
+        "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWw4QW03RGxNUnFxeVVRMHZzdlAxNkFWVlZLOXVWS0U3ME5ibDdMQkRNSll0UzJudFd4bTVQYllWZUdlQ2MxOU82YldRNV9GSFgzbGhRVm9EN0tyem5sb3VGSlVYbkEwWGNySG9vbkJ1RjZZZTlJckR2cGlya0dLekZyNXRlSWN5ODU1bGhDdTNjNGxWZjNoQi1ZS1dpcFZEVTgyVWk4eUhsU2pOT0llSzRmbWZUTGZkM3pQbEpneXjSAcYBQVVfeXFMTnJwaEdrOFJkTlBtZVlRV1NwQjVkc3NjeTdvSzRrTUk5bTRfeGlFNmc5SnVYaEE3TWx3WlNqYXF4VmVrdUh4MUIzN3dMN20tUlhnNDZYTlFtTE5RQm4zem1RQ250LVdKUXhjTWVoelJUTGNVTlVkRFVnaTh0WTQwOTUwb21OMWVobG5iOEZidFo3R1l6Vm5MZmZPMHJzV0w1ajhKdmpSRHN4dk95YWZjRTk3aHRIMk9fUFNITTZVeTIzZkpqSWFB?oc=5",
+        "description": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... Bhaskar English",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T16:55:28.000Z",
-        "fetchedAt": "2026-11-03T10:07:01.256Z",
+        "publishedAt": "2026-11-03T01:05:55.000Z",
+        "fetchedAt": "2026-11-03T18:04:26.914Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "Asia Times",
+        "googleNewsSource": "Bhaskar English",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Taiwan to criminalize Nvidia AI chip smuggling to China Asia Times",
+        "summary": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin...",
         "id": "a17"
       },
       {
@@ -536,7 +531,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-02T15:09:26.000Z",
-        "fetchedAt": "2026-11-03T10:06:58.518Z",
+        "fetchedAt": "2026-11-03T18:04:25.024Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -545,7 +540,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "id": "a20"
+        "id": "a21"
       },
       {
         "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -555,7 +550,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T15:02:02.000Z",
-        "fetchedAt": "2026-11-03T10:06:58.596Z",
+        "fetchedAt": "2026-11-03T18:04:23.976Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -564,24 +559,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-        "id": "a21"
-      },
-      {
-        "title": "Is QCOM Stock a Smart Investment Option Before Q4 Earnings Release?",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-stock-smart-investment-option-130700368.html?.tsrc=rss",
-        "description": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T13:07:00.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm faces mounting Q4 earnings challenges as smartphone weakness, rising costs and margin pressures overshadow its expanding AI and data center ambitions.",
         "id": "a22"
       },
       {
@@ -592,7 +569,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T12:30:26.000Z",
-        "fetchedAt": "2026-11-03T10:06:58.243Z",
+        "fetchedAt": "2026-11-03T18:04:23.398Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -605,13 +582,13 @@ export const NEWS_DATA = {
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
         "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-03T10:06:56.681Z",
+        "fetchedAt": "2026-11-03T18:04:21.772Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -622,7 +599,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a26"
+        "id": "a24"
       }
     ]
   },
@@ -818,102 +795,86 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-03T10:07:01.294Z",
-    "date": "2026-11-03",
+    "generatedAt": "2026-11-03T18:04:26.953Z",
+    "date": "2026-11-04",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+          "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
           "articleIds": [
-            "a12"
+            "a5"
           ],
-          "subCategory": "geopolitics-export-controls"
+          "subCategory": "mobile-chips"
         },
         {
-          "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
+          "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+          "articleIds": [
+            "a10"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
+          "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
           "articleIds": [
             "a24"
           ],
-          "subCategory": "platform-partner"
+          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
       {
-        "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-        "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+        "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T01:08:40.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.585Z",
+        "publishedAt": "2026-11-03T14:25:43.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
         "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
         "competitors": [],
         "stakeholders": [
           "oem"
         ],
-        "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-        "id": "a12"
+        "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+        "id": "a5"
       },
       {
-        "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-        "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-        "description": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-02T20:37:49.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.811Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-        "id": "a14"
-      },
-      {
-        "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-numbers-week-spotlight-moves-123000890.html?.tsrc=rss",
-        "description": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc. (NASDA",
+        "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
+        "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-02T12:30:00.000Z",
-        "fetchedAt": "2026-11-03T10:06:54.487Z",
+        "publishedAt": "2026-11-03T11:37:00.000Z",
+        "fetchedAt": "2026-11-03T18:04:19.345Z",
         "fetchStrategy": "rss",
-        "section": "stakeholders",
-        "subCategory": "platform-partner",
-        "subLabel": "Platform & Ecosystem Partners",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [
-          "oem",
-          "platform-partner"
+          "oem"
         ],
-        "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
-        "id": "a24"
+        "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+        "id": "a10"
       },
       {
         "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
         "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-03T10:06:56.681Z",
+        "fetchedAt": "2026-11-03T18:04:21.772Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -924,7 +885,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a26"
+        "id": "a24"
       }
     ]
   },
@@ -22073,6 +22034,661 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 29
+  },
+  "archive-2026-11-04": {
+    "generatedAt": "2026-11-03T18:04:26.955Z",
+    "date": "2026-11-04",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "mobile-chips"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stocks-edge-lower-ai-153959715.html?.tsrc=rss",
+            "description": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T15:39:59.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
+            "url": "https://www.tikr.com/blog/qualcomm-is-betting-on-anduril-and-ai-heres-what-the-november-4-report-has-to-show?ref=yahoofinance&tlnk=yf-261103-78wqmrqm&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T14:45:04.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+            "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T14:25:43.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+            "id": "a5"
+          },
+          {
+            "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
+            "url": "https://www.just-auto.com/news/infineon-qualcomm-central-vehicle-computers/?.tsrc=rss",
+            "description": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T13:21:40.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+            "id": "a6"
+          },
+          {
+            "title": "How Would You Fix Qualcomm?",
+            "url": "https://www.trefis.com/stock/qcom/articles/622172/how-would-you-fix-qualcomm/2026-11-03?.tsrc=rss",
+            "description": "For questions about this article or underlying research, email help@trefis.com.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T11:57:07.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "For questions about this article or underlying research, email help@trefis.com.",
+            "id": "a9"
+          },
+          {
+            "title": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
+            "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-700-million-190916281.html?.tsrc=rss",
+            "description": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T19:09:16.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
+            "id": "a18"
+          },
+          {
+            "title": "Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026: Capitalize on 13.3% CAGR to $90.7 Billion by 2032; Outmaneuver Broadcom, Qualcomm, Intel and Mediatek",
+            "url": "https://finance.yahoo.com/technology/articles/wi-fi-6-wi-fi-153700998.html?.tsrc=rss",
+            "description": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T15:37:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Target enterprise, IoT and immersive applications with 6 GHz and MLO solutions, while aligning upgrades with regulatory approvals and device compatibility.Dublin, Nov. 02, 2026 (GLOBE NEWSWIRE) -- \"Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 Chipset - Global Strategic Business Report 2026\" has been added to ResearchAndMarkets.com's offering. The global Wi-Fi 6, Wi-Fi 6E and Wi-Fi 7 chipset market was valued at US$37.9 billion in 2025 and is projected to reach US$90.7 billion by 2032, expanding at a compound a",
+            "id": "a19"
+          },
+          {
+            "title": "Nvidia Isn’t the Only AI Winner. Qualcomm May Be the Next Stock to Watch",
+            "url": "https://247wallst.com/investing/2026/11/02/nvidia-isnt-the-only-ai-winner-qualcomm-may-be-the-next-stock-to-watch/?.tsrc=rss",
+            "description": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-02T15:33:42.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is quietly lining up data center wins with the world's biggest hyperscalers, and the revenue clock is about to start ticking. Whether it can offset mounting handset headwinds before Wall Street loses patience is the real question.",
+            "id": "a20"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (3 articles). A total of 16 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
+              "articleIds": [
+                "a8"
+              ],
+              "subCategory": "market-performance"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies - Vision Times",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPZVVaVnAtSlNtSlBCZElXY1lWXzMxMkt0Y0hKSWlxZ1RUREZmcHNwc3BZTGhkbkpUdHROVmYzN2Q5c2IxMTB4YWZXcDVscS1KQkxfeVVWZVRKaU1fSXFXcHMyWEVWSTV5c3lfM1RpeU51ODE2dC1zVkxNNFd0YWZuOUVRZllNOFBKZmxjckFNdk0zWk52MVRxWEg3dFpNNWpJMm5vX092QXM0VWpveWlIaUFRWlhkbUxXSW9nQ2Q0bk9tZjRVUXE3MTh5RlpHT1NB?oc=5",
+            "description": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T16:32:27.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Vision Times",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia Moves to Restrict China's Access to AI Computing as US-China Tech Rivalry Intensifies Vision Times",
+            "id": "a1"
+          },
+          {
+            "title": "Russia, China likely to ramp up UK cyberattacks",
+            "url": "https://www.mobileworldlive.com/ai-cloud/russia-china-to-ramp-up-uk-cyberattacks-by-2028/",
+            "description": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-03T15:20:45.000Z",
+            "fetchedAt": "2026-11-03T18:04:23.434Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+            "id": "a3"
+          },
+          {
+            "title": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access - Business Upturn",
+            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNUHBDZlZLZlJRSmtfTXRabVNzdnZNR3Y3Sl9LYTVyOXMtYVdzU1hXM29aV2JxbGJuRHU1eUNhNE9uZzRFR3VMc3J3WWhIUElWdGI2SVJMX2dxZUVUV0lwemhUd3JEbUFSUU9mTTFNM3VYUWpDTHMxNmx4cDU5NER0RWZ4aWV0RjItbUx3a1c4SExUTk5TbjJoR3FrLW9fdmJNeEh0N3Bqblhkay1UOFFxRDFjOTZUQmExeVJCZ0pIendPbE1Fd2c3SFdaeHJvMndVaEg4OGRWNnV1NGFEMmc?oc=5",
+            "description": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T13:07:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Business Upturn",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
+            "id": "a7"
+          },
+          {
+            "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
+            "url": "https://www.tikr.com/blog/brad-gerstner-qualcomm-distillate-sold-whos-right?ref=yahoofinance&tlnk=yf-261103-jw7r75f3&.tsrc=rss",
+            "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T12:07:09.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
+            "id": "a8"
+          },
+          {
+            "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
+            "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T11:37:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+            "id": "a10"
+          },
+          {
+            "title": "Are Wall Street Analysts Bullish on QUALCOMM Stock?",
+            "url": "https://www.barchart.com/story/news/8611082/are-wall-street-analysts-bullish-on-qualcomm-stock?.tsrc=rss",
+            "description": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T11:26:27.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
+            "id": "a11"
+          },
+          {
+            "title": "Nvidia tells data center partners to limit China exposure below 50%: report - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXBkWExUNDNqRktPVmRmRnpva29xVGdRT2VmakQ1R2FWaW93N284NkhjSTc0RVBRS01peDFoQ0lkUWFEVEdaUXNWeVBOTEJYUWt6aGxjWi1ST2hRaFZGSThWV2tEU2JvOTVrU3hySWdwcEk4d0tKS05uVmVYY19wZkFoRG42NzE0cDVWVi14XzFVSVBXMDUwZDdBczlOSWdhSFFhRnZYeWpaTEw1TTd5TTNmQk1oR3RkR2k3cWt0SVlPLVVNYnA4bEZR?oc=5",
+            "description": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T10:47:27.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
+            "id": "a12"
+          },
+          {
+            "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
+            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
+            "description": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T09:54:41.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "شبكة تواصل الإخبارية",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
+            "id": "a13"
+          },
+          {
+            "title": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test - 파이낸셜뉴스",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBicElwZXhJZDEzVzA4UkRSUmcxRjJPaUhWazZnX0FNMWh2ZjFrRDNlemhfY1JNcUMwOVdFUjBMUVMtOGpkbjhkT29WSDRpdW91YmpaeXlJMk8?oc=5",
+            "description": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T09:18:54.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "파이낸셜뉴스",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+            "id": "a14"
+          },
+          {
+            "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
+            "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T08:02:36.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "EU Perspectives",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "id": "a15"
+          },
+          {
+            "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
+            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZV1JQQnJRVVNnS2hfWkZ0UjRqV3pBVGdWSk9GSUtYQVZmNFlqcVRTSTAtVHFlV0ZkT0h5b3hlZWtfRDlnOGU4OXF2Skpia0xWMS1kNG03eDk?oc=5",
+            "description": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T06:57:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Taiwan News",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
+            "id": "a16"
+          },
+          {
+            "title": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... - Bhaskar English",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWw4QW03RGxNUnFxeVVRMHZzdlAxNkFWVlZLOXVWS0U3ME5ibDdMQkRNSll0UzJudFd4bTVQYllWZUdlQ2MxOU82YldRNV9GSFgzbGhRVm9EN0tyem5sb3VGSlVYbkEwWGNySG9vbkJ1RjZZZTlJckR2cGlya0dLekZyNXRlSWN5ODU1bGhDdTNjNGxWZjNoQi1ZS1dpcFZEVTgyVWk4eUhsU2pOT0llSzRmbWZUTGZkM3pQbEpneXjSAcYBQVVfeXFMTnJwaEdrOFJkTlBtZVlRV1NwQjVkc3NjeTdvSzRrTUk5bTRfeGlFNmc5SnVYaEE3TWx3WlNqYXF4VmVrdUh4MUIzN3dMN20tUlhnNDZYTlFtTE5RQm4zem1RQ250LVdKUXhjTWVoelJUTGNVTlVkRFVnaTh0WTQwOTUwb21OMWVobG5iOEZidFo3R1l6Vm5MZmZPMHJzV0w1ajhKdmpSRHN4dk95YWZjRTk3aHRIMk9fUFNITTZVeTIzZkpqSWFB?oc=5",
+            "description": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... Bhaskar English",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T01:05:55.000Z",
+            "fetchedAt": "2026-11-03T18:04:26.914Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Bhaskar English",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin...",
+            "id": "a17"
+          },
+          {
+            "title": "HKT pulls out of US under FCC pressure – report",
+            "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
+            "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-02T15:09:26.000Z",
+            "fetchedAt": "2026-11-03T18:04:25.024Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "id": "a21"
+          },
+          {
+            "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
+            "url": "https://ipfray.com/epo-sets-out-six-priorities-for-strengthening-europes-technology-transfer/",
+            "description": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T15:02:02.000Z",
+            "fetchedAt": "2026-11-03T18:04:23.976Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "id": "a22"
+          },
+          {
+            "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
+            "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
+            "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
+            "source": "Patently-O",
+            "sourceId": "patently-o",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T12:30:26.000Z",
+            "fetchedAt": "2026-11-03T18:04:23.398Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
+            "id": "a23"
+          },
+          {
+            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-01T11:30:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:21.772Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a24"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-03T18:04:26.953Z",
+        "date": "2026-11-04",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
+              "articleIds": [
+                "a5"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+              "articleIds": [
+                "a10"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+              "articleIds": [
+                "a24"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+            "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T14:25:43.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+            "id": "a5"
+          },
+          {
+            "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
+            "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T11:37:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:19.345Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+            "id": "a10"
+          },
+          {
+            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
+            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-01T11:30:00.000Z",
+            "fetchedAt": "2026-11-03T18:04:21.772Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "id": "a24"
+          }
+        ]
+      }
+    },
+    "totalArticles": 27
   }
 };
 

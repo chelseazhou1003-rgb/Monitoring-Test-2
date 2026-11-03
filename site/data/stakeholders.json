@@ -1,100 +1,84 @@
 {
-  "generatedAt": "2026-11-03T10:07:01.294Z",
-  "date": "2026-11-03",
+  "generatedAt": "2026-11-03T18:04:26.953Z",
+  "date": "2026-11-04",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (3 articles), Platform & Ecosystem Partners (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
+        "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
         "articleIds": [
-          "a12"
+          "a5"
         ],
-        "subCategory": "geopolitics-export-controls"
+        "subCategory": "mobile-chips"
       },
       {
-        "text": "Platform & Ecosystem Partners: Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop",
+        "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+        "articleIds": [
+          "a10"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
         "articleIds": [
           "a24"
         ],
-        "subCategory": "platform-partner"
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
     {
-      "title": "Apple’s China Sales Miss Hits Asian Hardware Suppliers",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-03/apple-sets-new-sales-highs-in-china-even-as-increased-costs-bite",
-      "description": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
+      "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
+      "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
+      "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-03T01:08:40.000Z",
-      "fetchedAt": "2026-11-03T10:06:54.585Z",
+      "publishedAt": "2026-11-03T14:25:43.000Z",
+      "fetchedAt": "2026-11-03T18:04:19.345Z",
       "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
       "competitors": [],
       "stakeholders": [
         "oem"
       ],
-      "summary": "Apple Inc.‘s Chinese revenue fell short of estimates in the September quarter, reflecting the difficulties of gauging the US company’s business in an economy struggling with consumer malaise.",
-      "id": "a12"
+      "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+      "id": "a5"
     },
     {
-      "title": "One of Google’s Android partners turned 1.3 million set-top boxes into a botnet",
-      "url": "https://www.theverge.com/1024807/google-botnet-android-tv-shut-down",
-      "description": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-02T20:37:49.000Z",
-      "fetchedAt": "2026-11-03T10:06:54.811Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "A current Videostrong Android TV device. Google says one of its Android manufacturing partners secretly built a backdoor in 1.3 million devices and turned them into a botnet. The company says it has now dismantled the backdoor and \"cut ties\" with the manufacturer, the Shenzhen, China-based Videostrong Technology Co., which has been banned from building or selling certified Android devices or supplying software for them. The infected devices were used without owners' knowledge for \"malicious activity,\" like ad fraud, data exfiltration, and routing unauthorized network traffic. Google claims the \"backdoor and botnet were intentionally developed, deployed, and operated for financial … Read the full story at The Verge.",
-      "id": "a14"
-    },
-    {
-      "title": "Cloud Numbers Are In; This Week the Spotlight Moves to Phones, Laptops and Chips",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/cloud-numbers-week-spotlight-moves-123000890.html?.tsrc=rss",
-      "description": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc. (NASDA",
+      "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
+      "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T12:30:00.000Z",
-      "fetchedAt": "2026-11-03T10:06:54.487Z",
+      "publishedAt": "2026-11-03T11:37:00.000Z",
+      "fetchedAt": "2026-11-03T18:04:19.345Z",
       "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [
-        "oem",
-        "platform-partner"
+        "oem"
       ],
-      "summary": "Market Updates News Commentary - Microsoft, Alphabet and Amazon reported third-quarter results last week, and the next-session moves in their shares ranged from a fractional dip to a double-digit drop. Attention now turns to consumer hardware: Apple holds its fiscal fourth-quarter results call this afternoon, and Qualcomm, whose largest revenue stream comes from handsets, reports on Wednesday. Active Companies from around the markets with current developments this week include: Apple Inc.",
-      "id": "a24"
+      "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
+      "id": "a10"
     },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-      "url": "https://www.iam-media.com/index.php/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
+      "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
       "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
       "source": "IAM",
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-03T10:06:56.681Z",
+      "fetchedAt": "2026-11-03T18:04:21.772Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -105,7 +89,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a26"
+      "id": "a24"
     }
   ]
 }
