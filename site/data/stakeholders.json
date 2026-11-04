@@ -1,56 +1,35 @@
 {
-  "generatedAt": "2026-11-03T23:43:12.372Z",
+  "generatedAt": "2026-11-04T03:22:09.367Z",
   "date": "2026-11-04",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Mobile Chips (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
     "keyTakeaways": [
-      {
-        "text": "Geopolitics & Export Controls: Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s si",
-        "articleIds": [
-          "a6"
-        ],
-        "subCategory": "geopolitics-export-controls"
-      },
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
         "articleIds": [
-          "a14"
+          "a15"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
         "articleIds": [
-          "a19"
+          "a20"
         ],
         "subCategory": "market-performance"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+        "articleIds": [
+          "a29"
+        ],
+        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
-    {
-      "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
-      "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
-      "description": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration. We praised the wireless earbuds for their improved design, which cut both weight and size while improving the comfort and fit. They have more powerful noise cancellation and a better transparency mode, though they still don’t quite match up to some of the best in the industry, like the latest Bose Ultra Earbuds. The default tuning leans towards clarity and crisp detail, rather than boosted bass, with both presets and a five-band EQ to adjust them to your liking. Read our full Pixel Buds Pro 2 review. Other deals to consider Nintendo Switch owners can pick up Borderlands: Game of the Year Edition from the Nintendo Store for just $5.99, a steep discount from the usual price of $29.99. The updated version of the first game in Gearbox’s storied looter-shooter series features “bazillions” of guns, visual upgrades, and all four of the DLC packs. The deal runs until 11:59PM PT on November 6th. The refurbished Fellow Aiden is on sale at Fellow’s online storefront for $299.95, a $100 discount. The coffee maker brews anywhere from a single cup to a full carafe of pour-over-quality coffee, with scheduling available both on the machine and via the Aiden app. Refurb units have been thoroughly tested and come with a one-year warranty, too, just in case there are any issues. Prime Members can score a 26 percent discount on ESR’s Cyclone Magnetic Charging Pad at Amazon, lowering the price of the silver and black units to $36.99 ($13 off). The wireless charger supports up to 25 watts, with a built-in fan to keep both the charger and your device cool. The integrated stand also lets you use the charger while you catch up on YouTube, and the 5.9-foot cable means you aren’t glued to an outlet.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-03T20:29:26.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.642Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration.",
-      "id": "a6"
-    },
     {
       "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
       "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
@@ -59,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -69,7 +48,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
@@ -79,7 +58,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T11:37:00.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -89,7 +68,7 @@
         "oem"
       ],
       "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-      "id": "a19"
+      "id": "a20"
     },
     {
       "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -99,7 +78,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-03T23:43:08.414Z",
+      "fetchedAt": "2026-11-04T03:22:05.256Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -110,7 +89,7 @@
         "oem"
       ],
       "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a31"
+      "id": "a29"
     }
   ]
 }

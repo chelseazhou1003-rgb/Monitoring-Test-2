@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-03T23:43:12.372Z",
+  "generatedAt": "2026-11-04T03:22:09.367Z",
   "date": "2026-11-04",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
         "articleIds": [
-          "a10"
+          "a11"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
         "articleIds": [
-          "a13"
+          "a14"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
         "articleIds": [
-          "a14"
+          "a15"
         ],
         "subCategory": "mobile-chips"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T15:39:59.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
-      "id": "a10"
+      "id": "a11"
     },
     {
       "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:45:04.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -84,7 +84,7 @@
         "oem"
       ],
       "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T13:21:40.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -102,7 +102,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
-      "id": "a15"
+      "id": "a16"
     },
     {
       "title": "How Would You Fix Qualcomm?",
@@ -112,7 +112,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T11:57:07.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
+      "fetchedAt": "2026-11-04T03:22:01.731Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -120,25 +120,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a18"
-    },
-    {
-      "title": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
-      "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-700-million-190916281.html?.tsrc=rss",
-      "description": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-02T19:09:16.000Z",
-      "fetchedAt": "2026-11-03T23:43:06.123Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-      "id": "a27"
+      "id": "a19"
     }
   ]
 }

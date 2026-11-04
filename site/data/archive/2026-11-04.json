@@ -1,33 +1,33 @@
 {
-  "generatedAt": "2026-11-03T23:43:12.373Z",
+  "generatedAt": "2026-11-04T03:22:09.368Z",
   "date": "2026-11-04",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
             "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
             "articleIds": [
-              "a10"
+              "a11"
             ],
             "subCategory": "wireless"
           },
           {
             "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
             "articleIds": [
-              "a13"
+              "a14"
             ],
             "subCategory": "semiconductors"
           },
           {
             "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
             "articleIds": [
-              "a14"
+              "a15"
             ],
             "subCategory": "mobile-chips"
           }
@@ -42,7 +42,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T15:39:59.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -50,7 +50,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
-          "id": "a10"
+          "id": "a11"
         },
         {
           "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
@@ -60,7 +60,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T14:45:04.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -68,7 +68,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
-          "id": "a13"
+          "id": "a14"
         },
         {
           "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
@@ -78,7 +78,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T14:25:43.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -88,7 +88,7 @@
             "oem"
           ],
           "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-          "id": "a14"
+          "id": "a15"
         },
         {
           "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
@@ -98,7 +98,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T13:21:40.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -106,7 +106,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
-          "id": "a15"
+          "id": "a16"
         },
         {
           "title": "How Would You Fix Qualcomm?",
@@ -116,7 +116,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T11:57:07.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -124,30 +124,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "For questions about this article or underlying research, email help@trefis.com.",
-          "id": "a18"
-        },
-        {
-          "title": "Qualcomm (QCOM) Joins $700 Million Hark Funding Round In AI Assistant Bet",
-          "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-qcom-joins-700-million-190916281.html?.tsrc=rss",
-          "description": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-          "source": "Yahoo Finance",
-          "sourceId": "yahoo-finance",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-11-02T19:09:16.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
-          "fetchStrategy": "rss",
-          "section": "core-businesses",
-          "subCategory": "semiconductors",
-          "subLabel": "Semiconductors",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "Qualcomm (NasdaqGS:QCOM) joined Nvidia and AMD in a US$700 million Series A funding round for AI startup Hark, which is valued at US$6b. Hark is working on foundation models, software, and AI-focused hardware aimed at a next generation personal assistant platform. Qualcomm Ventures' participation links the chip designer to Hark's efforts to build AI systems that could reach consumer devices over time. Qualcomm's move into Hark's Series A round sits alongside other shifts in its AI ambitions...",
-          "id": "a27"
+          "id": "a19"
         }
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -158,7 +140,7 @@
       "articles": []
     },
     "growth-areas": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -169,37 +151,75 @@
       "articles": []
     },
     "macro-environment": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "macro-environment",
       "sectionTitle": "Macro",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (19 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 25 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 24 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "Geopolitics & Export Controls: Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. | Bloomberg via Getty",
+            "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
             "articleIds": [
               "a1"
-            ],
-            "subCategory": "geopolitics-export-controls"
-          },
-          {
-            "text": "market-performance: Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-            "articleIds": [
-              "a2"
             ],
             "subCategory": "market-performance"
           },
           {
+            "text": "Geopolitics & Export Controls: Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
+            "articleIds": [
+              "a2"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
+          {
             "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
             "articleIds": [
-              "a7"
+              "a8"
             ],
             "subCategory": "customers-partners"
           }
         ]
       },
       "articles": [
+        {
+          "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+          "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
+          "description": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-04T01:00:00.000Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
+          "id": "a1"
+        },
+        {
+          "title": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans - Businesskorea",
+          "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40Ql9aUDlJZ0ZqczBvMl9fSUdDZkFvNE1fMFRtWkROcTkwQ0lDR2lPMm11ZU5FTzJHMGktY0xENklRMU5xS0JXci1TaVNiQzdlb25wRTI2WDhPeGNXcHpxOGVSSUZEQlctMjVaOEk4RExTZnRf?oc=5",
+          "description": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-04T00:26:34.000Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Businesskorea",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
+          "id": "a2"
+        },
         {
           "title": "Please stop asking me when the AI bubble will pop",
           "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
@@ -208,7 +228,7 @@
           "sourceId": "the-verge",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-03T23:37:45.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.642Z",
+          "fetchedAt": "2026-11-04T03:22:03.328Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -217,7 +237,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.",
-          "id": "a1"
+          "id": "a3"
         },
         {
           "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
@@ -227,7 +247,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T23:12:02.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -235,7 +255,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-          "id": "a2"
+          "id": "a4"
         },
         {
           "title": "Reuters: U.S. Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment - news.sbs.co.kr",
@@ -245,7 +265,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T21:57:45.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "news.sbs.co.kr",
           "geopoliticalBypass": true,
@@ -255,7 +275,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment news.sbs.co.kr",
-          "id": "a3"
+          "id": "a5"
         },
         {
           "title": "U.S. Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment - BigGo Finance",
@@ -265,7 +285,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T21:55:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "BigGo Finance",
           "geopoliticalBypass": true,
@@ -275,7 +295,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment BigGo Finance",
-          "id": "a4"
+          "id": "a6"
         },
         {
           "title": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan - TradingView",
@@ -285,7 +305,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T21:25:17.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "TradingView",
           "geopoliticalBypass": true,
@@ -295,28 +315,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan TradingView",
-          "id": "a5"
-        },
-        {
-          "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
-          "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
-          "description": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration. We praised the wireless earbuds for their improved design, which cut both weight and size while improving the comfort and fit. They have more powerful noise cancellation and a better transparency mode, though they still don’t quite match up to some of the best in the industry, like the latest Bose Ultra Earbuds. The default tuning leans towards clarity and crisp detail, rather than boosted bass, with both presets and a five-band EQ to adjust them to your liking. Read our full Pixel Buds Pro 2 review. Other deals to consider Nintendo Switch owners can pick up Borderlands: Game of the Year Edition from the Nintendo Store for just $5.99, a steep discount from the usual price of $29.99. The updated version of the first game in Gearbox’s storied looter-shooter series features “bazillions” of guns, visual upgrades, and all four of the DLC packs. The deal runs until 11:59PM PT on November 6th. The refurbished Fellow Aiden is on sale at Fellow’s online storefront for $299.95, a $100 discount. The coffee maker brews anywhere from a single cup to a full carafe of pour-over-quality coffee, with scheduling available both on the machine and via the Aiden app. Refurb units have been thoroughly tested and come with a one-year warranty, too, just in case there are any issues. Prime Members can score a 26 percent discount on ESR’s Cyclone Magnetic Charging Pad at Amazon, lowering the price of the silver and black units to $36.99 ($13 off). The wireless charger supports up to 25 watts, with a built-in fan to keep both the charger and your device cool. The integrated stand also lets you use the charger while you catch up on YouTube, and the 5.9-foot cable means you aren’t glued to an outlet.",
-          "source": "The Verge",
-          "sourceId": "the-verge",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-11-03T20:29:26.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.642Z",
-          "fetchStrategy": "rss",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [
-            "platform-partner"
-          ],
-          "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration.",
-          "id": "a6"
+          "id": "a7"
         },
         {
           "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
@@ -326,7 +325,7 @@
           "sourceId": "semiconductor-digest",
           "sourceGroup": "semiconductor",
           "publishedAt": "2026-11-03T19:32:48.000Z",
-          "fetchedAt": "2026-11-03T23:43:09.839Z",
+          "fetchedAt": "2026-11-04T03:22:06.570Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -335,7 +334,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-          "id": "a7"
+          "id": "a8"
         },
         {
           "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - The Economic Times",
@@ -345,7 +344,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T19:05:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "The Economic Times",
           "geopoliticalBypass": true,
@@ -355,7 +354,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Economic Times",
-          "id": "a8"
+          "id": "a9"
         },
         {
           "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - The Korea Times",
@@ -365,7 +364,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T18:55:03.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "The Korea Times",
           "geopoliticalBypass": true,
@@ -375,7 +374,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Korea Times",
-          "id": "a9"
+          "id": "a10"
         },
         {
           "title": "Russia, China likely to ramp up UK cyberattacks",
@@ -385,7 +384,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-03T15:20:45.000Z",
-          "fetchedAt": "2026-11-03T23:43:10.098Z",
+          "fetchedAt": "2026-11-04T03:22:07.491Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -394,7 +393,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
-          "id": "a11"
+          "id": "a12"
         },
         {
           "title": "Dear Qualcomm Stock Fans, Mark Your Calendars for November 4",
@@ -404,7 +403,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T15:01:19.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -412,7 +411,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm is set to reveal its Q4 earnings soon, balancing near-term challenges with promising opportunities beyond smartphones.",
-          "id": "a12"
+          "id": "a13"
         },
         {
           "title": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access - Business Upturn",
@@ -422,7 +421,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T13:07:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.333Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Business Upturn",
           "geopoliticalBypass": true,
@@ -432,7 +431,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
-          "id": "a16"
+          "id": "a17"
         },
         {
           "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
@@ -442,7 +441,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T12:07:09.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -450,7 +449,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
-          "id": "a17"
+          "id": "a18"
         },
         {
           "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
@@ -460,7 +459,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T11:37:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -470,7 +469,7 @@
             "oem"
           ],
           "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-          "id": "a19"
+          "id": "a20"
         },
         {
           "title": "Are Wall Street Analysts Bullish on QUALCOMM Stock?",
@@ -480,7 +479,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T11:26:27.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -488,26 +487,6 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
-          "id": "a20"
-        },
-        {
-          "title": "Nvidia tells data center partners to limit China exposure below 50%: report - TradingView",
-          "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOMXBkWExUNDNqRktPVmRmRnpva29xVGdRT2VmakQ1R2FWaW93N284NkhjSTc0RVBRS01peDFoQ0lkUWFEVEdaUXNWeVBOTEJYUWt6aGxjWi1ST2hRaFZGSThWV2tEU2JvOTVrU3hySWdwcEk4d0tKS05uVmVYY19wZkFoRG42NzE0cDVWVi14XzFVSVBXMDUwZDdBczlOSWdhSFFhRnZYeWpaTEw1TTd5TTNmQk1oR3RkR2k3cWt0SVlPLVVNYnA4bEZR?oc=5",
-          "description": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
-          "source": "Geopolitics",
-          "sourceId": "geopolitics",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-11-03T10:47:27.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "TradingView",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "Nvidia tells data center partners to limit China exposure below 50%: report TradingView",
           "id": "a21"
         },
         {
@@ -518,7 +497,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T09:54:41.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "شبكة تواصل الإخبارية",
           "geopoliticalBypass": true,
@@ -531,6 +510,26 @@
           "id": "a22"
         },
         {
+          "title": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test - 파이낸셜뉴스",
+          "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBicElwZXhJZDEzVzA4UkRSUmcxRjJPaUhWazZnX0FNMWh2ZjFrRDNlemhfY1JNcUMwOVdFUjBMUVMtOGpkbjhkT29WSDRpdW91YmpaeXlJMk8?oc=5",
+          "description": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-03T09:18:54.000Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "파이낸셜뉴스",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
+          "id": "a23"
+        },
+        {
           "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
           "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
           "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
@@ -538,7 +537,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T08:02:36.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "EU Perspectives",
           "geopoliticalBypass": true,
@@ -548,7 +547,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-          "id": "a23"
+          "id": "a24"
         },
         {
           "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
@@ -558,7 +557,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T06:57:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
+          "fetchedAt": "2026-11-04T03:22:09.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Taiwan News",
           "geopoliticalBypass": true,
@@ -568,47 +567,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-          "id": "a24"
-        },
-        {
-          "title": "Nvidia Tells Data Center Clients to Trim China Business, FT Says - Bloomberg.com",
-          "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPbEJRRjh3WWlKcE9PTlBDM19qaEVoSUtzSmRzQ0g4Rl9YT1p1WUQtRWhFbjI3WTlxVkhja0s1UFdpaV9Gb3A0RG8wNnF2YWpMMldMdGtvNW03bUVvM0VZZGtCR1gyZmZheldrdHFja2QycUwxZDNZRkpEV2pjRkZmUVBuSUwyQkRORUtUOXpMX2k2Q21ZM1JkUFlEUlg2T2lXTUl1eXQzWUt6NE9WZ3RHdkJPMmM?oc=5",
-          "description": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
-          "source": "Geopolitics",
-          "sourceId": "geopolitics",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-11-03T05:39:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "Bloomberg.com",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "Nvidia Tells Data Center Clients to Trim China Business, FT Says Bloomberg.com",
           "id": "a25"
-        },
-        {
-          "title": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... - Bhaskar English",
-          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQUWw4QW03RGxNUnFxeVVRMHZzdlAxNkFWVlZLOXVWS0U3ME5ibDdMQkRNSll0UzJudFd4bTVQYllWZUdlQ2MxOU82YldRNV9GSFgzbGhRVm9EN0tyem5sb3VGSlVYbkEwWGNySG9vbkJ1RjZZZTlJckR2cGlya0dLekZyNXRlSWN5ODU1bGhDdTNjNGxWZjNoQi1ZS1dpcFZEVTgyVWk4eUhsU2pOT0llSzRmbWZUTGZkM3pQbEpneXjSAcYBQVVfeXFMTnJwaEdrOFJkTlBtZVlRV1NwQjVkc3NjeTdvSzRrTUk5bTRfeGlFNmc5SnVYaEE3TWx3WlNqYXF4VmVrdUh4MUIzN3dMN20tUlhnNDZYTlFtTE5RQm4zem1RQ250LVdKUXhjTWVoelJUTGNVTlVkRFVnaTh0WTQwOTUwb21OMWVobG5iOEZidFo3R1l6Vm5MZmZPMHJzV0w1ajhKdmpSRHN4dk95YWZjRTk3aHRIMk9fUFNITTZVeTIzZkpqSWFB?oc=5",
-          "description": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin... Bhaskar English",
-          "source": "Geopolitics",
-          "sourceId": "geopolitics",
-          "sourceGroup": "finance",
-          "publishedAt": "2026-11-03T01:05:55.000Z",
-          "fetchedAt": "2026-11-03T23:43:12.345Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "Bhaskar English",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [],
-          "summary": "China tightens technology exports to exploit global dependence: India faces hurdles in buying tunnel machin...",
-          "id": "a26"
         },
         {
           "title": "HKT pulls out of US under FCC pressure – report",
@@ -618,7 +577,7 @@
           "sourceId": "light-reading",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-02T15:09:26.000Z",
-          "fetchedAt": "2026-11-03T23:43:10.451Z",
+          "fetchedAt": "2026-11-04T03:22:07.467Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -627,7 +586,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-          "id": "a28"
+          "id": "a26"
         },
         {
           "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -637,7 +596,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-02T15:02:02.000Z",
-          "fetchedAt": "2026-11-03T23:43:10.475Z",
+          "fetchedAt": "2026-11-04T03:22:07.076Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -646,7 +605,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-          "id": "a29"
+          "id": "a27"
         },
         {
           "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -656,7 +615,7 @@
           "sourceId": "patently-o",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-02T12:30:26.000Z",
-          "fetchedAt": "2026-11-03T23:43:10.016Z",
+          "fetchedAt": "2026-11-04T03:22:06.897Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -665,7 +624,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-          "id": "a30"
+          "id": "a28"
         },
         {
           "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -675,7 +634,7 @@
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-01T11:30:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:08.414Z",
+          "fetchedAt": "2026-11-04T03:22:05.256Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -686,12 +645,12 @@
             "oem"
           ],
           "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-          "id": "a31"
+          "id": "a29"
         }
       ]
     },
     "competitors": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -702,58 +661,37 @@
       "articles": []
     },
     "stakeholders": {
-      "generatedAt": "2026-11-03T23:43:12.372Z",
+      "generatedAt": "2026-11-04T03:22:09.367Z",
       "date": "2026-11-04",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (2 articles), Mobile Chips (1 article), market-performance (1 article). A total of 4 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
         "keyTakeaways": [
-          {
-            "text": "Geopolitics & Export Controls: Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s si",
-            "articleIds": [
-              "a6"
-            ],
-            "subCategory": "geopolitics-export-controls"
-          },
           {
             "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
             "articleIds": [
-              "a14"
+              "a15"
             ],
             "subCategory": "mobile-chips"
           },
           {
             "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
             "articleIds": [
-              "a19"
+              "a20"
             ],
             "subCategory": "market-performance"
+          },
+          {
+            "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
+            "articleIds": [
+              "a29"
+            ],
+            "subCategory": "geopolitics-export-controls"
           }
         ]
       },
       "articles": [
-        {
-          "title": "The Pixel Buds Pro 2 have returned to their lowest price to date",
-          "url": "https://www.theverge.com/gadgets/1025466/google-pixel-buds-pro-2-borderlands-goty-nintendo-switch-deal-sale",
-          "description": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration. We praised the wireless earbuds for their improved design, which cut both weight and size while improving the comfort and fit. They have more powerful noise cancellation and a better transparency mode, though they still don’t quite match up to some of the best in the industry, like the latest Bose Ultra Earbuds. The default tuning leans towards clarity and crisp detail, rather than boosted bass, with both presets and a five-band EQ to adjust them to your liking. Read our full Pixel Buds Pro 2 review. Other deals to consider Nintendo Switch owners can pick up Borderlands: Game of the Year Edition from the Nintendo Store for just $5.99, a steep discount from the usual price of $29.99. The updated version of the first game in Gearbox’s storied looter-shooter series features “bazillions” of guns, visual upgrades, and all four of the DLC packs. The deal runs until 11:59PM PT on November 6th. The refurbished Fellow Aiden is on sale at Fellow’s online storefront for $299.95, a $100 discount. The coffee maker brews anywhere from a single cup to a full carafe of pour-over-quality coffee, with scheduling available both on the machine and via the Aiden app. Refurb units have been thoroughly tested and come with a one-year warranty, too, just in case there are any issues. Prime Members can score a 26 percent discount on ESR’s Cyclone Magnetic Charging Pad at Amazon, lowering the price of the silver and black units to $36.99 ($13 off). The wireless charger supports up to 25 watts, with a built-in fan to keep both the charger and your device cool. The integrated stand also lets you use the charger while you catch up on YouTube, and the 5.9-foot cable means you aren’t glued to an outlet.",
-          "source": "The Verge",
-          "sourceId": "the-verge",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-11-03T20:29:26.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.642Z",
-          "fetchStrategy": "rss",
-          "geopoliticalBypass": true,
-          "section": "macro-environment",
-          "subCategory": "geopolitics-export-controls",
-          "subLabel": "Geopolitics & Export Controls",
-          "competitors": [],
-          "stakeholders": [
-            "platform-partner"
-          ],
-          "summary": "Android owners looking for an earbud upgrade are in luck. The Google Pixel Buds Pro 2 are back down to $169 at Amazon, Best Buy, and the Google Store, matching the lowest price we’ve seen. Google’s site claims the deal will last until 11:59PM PT on November 8th, and other retailers will likely follow suit. Some colors are already sold out, however, so it’s worth checking multiple retailers if you don’t see your preferred option. Google Pixel Buds Pro 2 Where to Buy: $229 $169 at Amazon $229 $169 at Google Store $229 $169 at Best Buy The Pro 2 are great for Android owners and work particularly well with Pixel phones, which receive some extra tricks, including tighter Gemini integration.",
-          "id": "a6"
-        },
         {
           "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
           "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
@@ -762,7 +700,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T14:25:43.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -772,7 +710,7 @@
             "oem"
           ],
           "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-          "id": "a14"
+          "id": "a15"
         },
         {
           "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
@@ -782,7 +720,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-03T11:37:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:06.123Z",
+          "fetchedAt": "2026-11-04T03:22:01.731Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -792,7 +730,7 @@
             "oem"
           ],
           "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-          "id": "a19"
+          "id": "a20"
         },
         {
           "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
@@ -802,7 +740,7 @@
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-01T11:30:00.000Z",
-          "fetchedAt": "2026-11-03T23:43:08.414Z",
+          "fetchedAt": "2026-11-04T03:22:05.256Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -813,10 +751,10 @@
             "oem"
           ],
           "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-          "id": "a31"
+          "id": "a29"
         }
       ]
     }
   },
-  "totalArticles": 35
+  "totalArticles": 32
 }
