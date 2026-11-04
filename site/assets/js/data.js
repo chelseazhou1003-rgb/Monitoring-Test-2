@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,116 +13,277 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (6 articles), Mobile Chips (4 articles), Semiconductors (3 articles). A total of 13 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+          "text": "Mobile Chips: SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
           "articleIds": [
-            "a11"
+            "a3"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Wireless Communication: Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+          "articleIds": [
+            "a4"
           ],
           "subCategory": "wireless"
         },
         {
-          "text": "Semiconductors: Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+          "text": "Semiconductors: Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying ",
           "articleIds": [
-            "a14"
+            "a13"
           ],
           "subCategory": "semiconductors"
-        },
-        {
-          "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
-          "articleIds": [
-            "a15"
-          ],
-          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
       {
-        "title": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
-        "url": "https://finance.yahoo.com/technology/ai/articles/qualcomm-stocks-edge-lower-ai-153959715.html?.tsrc=rss",
-        "description": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
+        "title": "SpaceX and Qualcomm Are Coming for Verizon and AT&T. Hello, Starlink Mobile.",
+        "url": "https://finance.yahoo.com/m/2acb2183-e704-3857-9cc9-bee0f4370d19/spacex-and-qualcomm-are.html?.tsrc=rss",
+        "description": "SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T15:39:59.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "publishedAt": "2026-11-04T15:43:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
+        "id": "a3"
+      },
+      {
+        "title": "SpaceX Strikes Major Qualcomm Deal to Take on Verizon and AT&T",
+        "url": "https://finance.yahoo.com/technology/articles/spacex-strikes-major-qualcomm-deal-151836207.html?.tsrc=rss",
+        "description": "Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T15:18:36.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
         "subLabel": "Wireless Communication",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
-        "id": "a11"
+        "summary": "Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+        "id": "a4"
       },
       {
-        "title": "Qualcomm Is Betting on Anduril and AI. Here’s What the November 4 Report Has to Show",
-        "url": "https://www.tikr.com/blog/qualcomm-is-betting-on-anduril-and-ai-heres-what-the-november-4-report-has-to-show?ref=yahoofinance&tlnk=yf-261103-78wqmrqm&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
+        "title": "Qualcomm, SpaceX Team Up To Build Starlink Cell Network: Deal Could ‘Lay The Foundation For AI-Native 6G,’ Says Executive",
+        "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-space-x-team-up-to-build-starlink-cell-network-deal-could-lay-the-foundation-for-ai-native-6-g-says-executive/cNGLhJYR93Z?.tsrc=rss",
+        "description": "Qualcomm will supply chips and software for the ground-based cellular sites supporting SpaceX’s planned Starlink Mobile network.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T14:45:04.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "publishedAt": "2026-11-04T15:07:21.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Key TakeawaysQualcomm reports its fiscal fourth quarter after the close on Wednesday, Nov. 4, after a week of headlines about Anduril’s U.",
-        "id": "a14"
+        "summary": "Qualcomm will supply chips and software for the ground-based cellular sites supporting SpaceX’s planned Starlink Mobile network.",
+        "id": "a5"
       },
       {
-        "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
-        "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
+        "title": "Qualcomm, SpaceX deal could reshape the future of 5G",
+        "url": "https://finance.yahoo.com/video/qualcomm-spacex-deal-could-reshape-the-future-of-5g-150706555.html?.tsrc=rss",
+        "description": "The 8:30 hosts, Jake Conley and Pras Subramanian, and guest Defiance ETFs CIO Sylvia Jablonski discuss Qualcomm (QCOM)'s deal with SpaceX (SPCX) to use its Dragonwing technology to power a terrestrial 5G network. The panel examines what the partnership could mean for the future of wireless connectivity.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T14:25:43.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "publishedAt": "2026-11-04T15:07:06.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "The 8:30 hosts, Jake Conley and Pras Subramanian, and guest Defiance ETFs CIO Sylvia Jablonski discuss Qualcomm (QCOM)'s deal with SpaceX (SPCX) to use its Dragonwing technology to power a terrestrial 5G network. The panel examines what the partnership could mean for the future of wireless connectivity.",
+        "id": "a6"
+      },
+      {
+        "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
+        "url": "https://www.mobileworldlive.com/network-tech/spacex-taps-qualcomm-to-power-starlink-mobile-in-us/",
+        "description": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-04T14:48:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:54.935Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
         "subLabel": "Mobile Chips",
         "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-        "id": "a15"
+        "stakeholders": [],
+        "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+        "id": "a7"
       },
       {
-        "title": "Infineon, Qualcomm sign agreement for integrated CPUs",
-        "url": "https://www.just-auto.com/news/infineon-qualcomm-central-vehicle-computers/?.tsrc=rss",
-        "description": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+        "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+        "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+        "description": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T13:53:54.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.979Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+        "id": "a10"
+      },
+      {
+        "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
+        "description": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T13:35:45.000Z",
+        "fetchedAt": "2026-11-04T18:52:55.589Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
+        "id": "a11"
+      },
+      {
+        "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile’s Nationwide 5G Network",
+        "url": "https://finance.yahoo.com/technology/articles/spacex-selects-qualcomm-accelerate-starlink-133500564.html?.tsrc=rss",
+        "description": "SAN DIEGO, November 04, 2026--Qualcomm Technologies, Inc. today announced that SpaceX has selected Qualcomm Dragonwing™ Cellular Infrastructure platforms for its Starlink Mobile U.S. nationwide terrestrial 5G network. Powered by the Qualcomm Dragonwing™ QRU100 and QDU100 platforms and commercial-grade Layer 1 software, the network will combine high-capacity Massive MIMO radio and baseband technology and power-efficient processing to support cellular base station deployment at scale. The collabor",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T13:21:40.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "publishedAt": "2026-11-04T13:35:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SAN DIEGO, November 04, 2026--Qualcomm Technologies, Inc. today announced that SpaceX has selected Qualcomm Dragonwing™ Cellular Infrastructure platforms for its Starlink Mobile U.S. nationwide terrestrial 5G network. Powered by the Qualcomm Dragonwing™ QRU100 and QDU100 platforms and commercial-grade Layer 1 software, the network will combine high-capacity Massive MIMO radio and baseband technology and power-efficient processing to support cellular base station deployment at scale.",
+        "id": "a12"
+      },
+      {
+        "title": "Elon Musk is set to spend $100B to disrupt wireless in the age of drones and robots",
+        "url": "https://www.axios.com/2026/11/04/spacex-qualcomm-cellular-network#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+        "description": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T13:30:05.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
+        "summary": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
+        "id": "a13"
+      },
+      {
+        "title": "Qualcomm to Build Equipment for SpaceX’s US Mobile Network",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network",
+        "description": "Qualcomm Inc. will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging the biggest players in the US mobile industry.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T13:30:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.940Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging the biggest players in the US mobile industry.",
+        "id": "a14"
+      },
+      {
+        "title": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier",
+        "url": "https://finance.yahoo.com/technology/article/spacex-inks-qualcomm-deal-putting-starlink-closer-to-becoming-the-fourth-major-us-wireless-carrier-133000731.html?.tsrc=rss",
+        "description": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T13:30:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
+        "id": "a15"
+      },
+      {
+        "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
+        "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
+        "description": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
+        "source": "Light Reading",
+        "sourceId": "light-reading",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-04T13:30:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:54.907Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
         "id": "a16"
+      },
+      {
+        "title": "Qualcomm’s Smartphone Business Is Hurting. Data Centers Could Fuel Its Next Act.",
+        "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-smartphone.html?.tsrc=rss",
+        "description": "Qualcomm reports earnings Wednesday as smartphone weakness weighs on chip sales and the company bets on automotive growth and data centers.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T11:00:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm reports earnings Wednesday as smartphone weakness weighs on chip sales and the company bets on automotive growth and data centers.",
+        "id": "a19"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -132,8 +293,8 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -143,15 +304,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-04T11:36:57.540Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.761Z",
+    "date": "2026-11-05",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 4,
-        "topHeadline": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
-        "topHeadlineId": "a11",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 13,
+        "topHeadline": "SpaceX and Qualcomm Are Coming for Verizon and AT&T. Hello, Starlink Mobile.",
+        "topHeadlineId": "a3",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Wireless Communication (6 articles), Mobile Chips (4 articles), Semiconductors (3 articles). A total of 13 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -169,10 +330,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 18,
-        "topHeadline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+        "articleCount": 13,
+        "topHeadline": "Qualcomm to report Q4 earnings amid slowing smartphone, PC sales",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 13 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -183,40 +344,40 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 1,
-        "topHeadline": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
-        "topHeadlineId": "a15",
-        "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i"
+        "articleCount": 0,
+        "topHeadline": null,
+        "topHeadlineId": null,
+        "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       }
     },
-    "totalArticles": 23
+    "totalArticles": 26
   },
   "macro-environment": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 13 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed t",
+          "text": "market-performance: Qualcomm will report its Q4 earnings after the bell Wednesday.",
           "articleIds": [
             "a1"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
-          "articleIds": [
-            "a4"
           ],
           "subCategory": "market-performance"
         },
         {
+          "text": "Geopolitics & Export Controls: Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+          "articleIds": [
+            "a2"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
           "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
           "articleIds": [
-            "a9"
+            "a21"
           ],
           "subCategory": "customers-partners"
         }
@@ -224,33 +385,32 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
-        "description": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "Qualcomm to report Q4 earnings amid slowing smartphone, PC sales",
+        "url": "https://finance.yahoo.com/technology/article/qualcomm-to-report-q4-earnings-amid-slowing-smartphone-pc-sales-173320120.html?.tsrc=rss",
+        "description": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T06:07:48.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "publishedAt": "2026-11-04T17:33:20.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
         "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+        "summary": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
         "id": "a1"
       },
       {
-        "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
-        "description": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
+        "title": "What Republicans' huge loss means for Trump",
+        "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+        "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T05:01:21.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "publishedAt": "2026-11-04T16:44:04.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.979Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -258,18 +418,36 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
+        "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
         "id": "a2"
       },
       {
-        "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
-        "description": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+        "title": "Qualcomm to supply equipment for SpaceX’s nationwide 5G mobile network",
+        "url": "https://finance.yahoo.com/technology/articles/qualcomm-supply-equipment-spacex-nationwide-144626376.html?.tsrc=rss",
+        "description": "Qualcomm Incorporated (NASDAQ:QCOM) has secured a multiyear agreement to supply cellular infrastructure hardware and software for SpaceX's (NASDAQ:SPCX) planned nationwide terrestrial wireless network, marking a major step in Elon Musk’s drive to build a direct competitor to incumbent U.S. carriers. Under the partnership, SpaceX will deploy Qualcomm’s Dragonwing cellular platforms across tens of thousands of planned cell sites, with initial rollouts scheduled to begin in 2027.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T14:46:26.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.945Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm Incorporated (NASDAQ:QCOM) has secured a multiyear agreement to supply cellular infrastructure hardware and software for SpaceX's (NASDAQ:SPCX) planned nationwide terrestrial wireless network, marking a major step in Elon Musk’s drive to build a direct competitor to incumbent U.S. Under the partnership, SpaceX will deploy Qualcomm’s Dragonwing cellular platforms across tens of thousands of planned cell sites, with initial rollouts scheduled to begin in 2027.",
+        "id": "a8"
+      },
+      {
+        "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+        "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
         "source": "Bloomberg",
         "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T03:14:24.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "publishedAt": "2026-11-04T14:07:27.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.940Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -277,36 +455,18 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
-        "id": "a3"
+        "summary": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
+        "id": "a9"
       },
       {
-        "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
-        "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
-        "description": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "China expands overseas mining stakes, tightening grip on critical minerals",
+        "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+        "description": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T01:00:00.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
-        "id": "a4"
-      },
-      {
-        "title": "Please stop asking me when the AI bubble will pop",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1025826/ai-bubble-pimco-apollo-bonds",
-        "description": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. 3, 2026. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows. What I can tell you is that I read with interest a story in Bloomberg this morning: \"Wall Street CEOs, Big Money Managers Divided Over AI Risks.\" The story itself is a roundup of stuff said at the 2026 Global Financial Leaders' Investment Summit in Hong Kong. Here's what caught my attentio … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-03T23:37:45.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.491Z",
+        "publishedAt": "2026-11-04T13:00:01.000Z",
+        "fetchedAt": "2026-11-04T18:52:50.979Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -314,26 +474,27 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.",
-        "id": "a5"
+        "summary": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
+        "id": "a17"
       },
       {
-        "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
-        "url": "https://www.fool.com/investing/2026/11/03/should-you-buy-qualcomm-stock-before-its-nov-4-report/?.tsrc=rss",
-        "description": "Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T23:12:02.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
+        "url": "https://ipfray.com/cnipas-five-year-plan-spans-pre-filing-commercial-assessments-ai-assisted-inventions-possible-sep-pilot-drug-patent-linkage-disputes/",
+        "description": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-04T12:00:00.000Z",
+        "fetchedAt": "2026-11-04T18:52:55.043Z",
         "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-        "id": "a6"
+        "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+        "id": "a18"
       },
       {
         "title": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan - TradingView",
@@ -343,7 +504,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T21:25:17.000Z",
-        "fetchedAt": "2026-11-04T11:36:57.515Z",
+        "fetchedAt": "2026-11-04T18:52:56.718Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TradingView",
         "geopoliticalBypass": true,
@@ -353,25 +514,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan TradingView",
-        "id": "a7"
-      },
-      {
-        "title": "Ahead of Qualcomm Earnings, Here's What Barchart Data Says Comes Next for QCOM Stock",
-        "url": "https://www.barchart.com/story/news/8629320/ahead-of-qualcomm-earnings-here-s-what-barchart-data-says-comes-next-for-qcom-stock?.tsrc=rss",
-        "description": "Qualcomm is set to report its fiscal Q4 earnings on Nov. 4. Options data and Bernstein are dovish heading into QCOM’s financial release.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T21:16:52.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm is set to report its fiscal Q4 earnings on Nov. Options data and Bernstein are dovish heading into QCOM’s financial release.",
-        "id": "a8"
+        "id": "a20"
       },
       {
         "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
@@ -381,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-03T19:32:48.000Z",
-        "fetchedAt": "2026-11-04T11:36:53.843Z",
+        "fetchedAt": "2026-11-04T18:52:54.193Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -390,27 +533,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-        "id": "a9"
+        "id": "a21"
       },
       {
-        "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - The Korea Times",
-        "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSVZqc19FSDJFQndjeDZlR1E4OFlJNDhkejl1RGVlazlxY2NTTGZtcDhneFFHNUFQc1lYeXczc21abFdySTlYcTlvcTdhVU95Tm92WkE4bV9fTzRCWk5hLV9rcHNRWW1OVXdsZC1tY2ctT3RvMlM0ZFpWLXpSM3VCcGVqbUkwUFlmS25tVDdBUzFZQTRDMDVvc2dBQTA3MjRJSXNhY2dNTUd3dDZQMVhxdDlFSUQtWWRmSnhZUWhQWVp0by1kbnVZ0gHHAUFVX3lxTE9JVmpzX0VIMkVCd2N4NmVHUTg4WUk0OGR6OXVEZWVrOXFjY1NMZm1wOGd4UUc1QVBzWVh5dzNzbVpsV3JJOVhxOW9xN2FVT3lOb3ZaQThtX19PNEJaTmEtX2twc1FZbU5Vd2xkLW1jZy1PdG8yUzRkWlYtelIzdUJwZWptSTBQWWZLbm1UN0FTMVlBNEMwNW9zZ0FBMDcyNElJc2FjZ01NR3d0NlAxWHF0OUVJRC1ZZGZKeFlRaFBZWnRvLWRudVk?oc=5",
-        "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Korea Times",
+        "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - Columbus Ledger-Enquirer",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12dEtneklTUmJxUk9UclBfVW9NeFR6QlpTcFZ5OG9BVFJYY1A0N0cyN0NkRWRsRjc4UnowRTYzZnBqN1BNeU94RFo1ekRiMUNOdzVhVjR3QUduM2lDM3d0Snl3d3BGTEF3RG9RcF95emxjaEtNM1E?oc=5",
+        "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say Columbus Ledger-Enquirer",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T18:55:03.000Z",
-        "fetchedAt": "2026-11-04T11:36:57.515Z",
+        "publishedAt": "2026-11-03T19:08:09.000Z",
+        "fetchedAt": "2026-11-04T18:52:56.718Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "The Korea Times",
+        "googleNewsSource": "Columbus Ledger-Enquirer",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Korea Times",
-        "id": "a10"
+        "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say Columbus Ledger-Enquirer",
+        "id": "a22"
       },
       {
         "title": "Russia, China likely to ramp up UK cyberattacks",
@@ -420,7 +563,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-03T15:20:45.000Z",
-        "fetchedAt": "2026-11-04T11:36:55.920Z",
+        "fetchedAt": "2026-11-04T18:52:54.936Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -429,83 +572,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
-        "id": "a12"
-      },
-      {
-        "title": "Dear Qualcomm Stock Fans, Mark Your Calendars for November 4",
-        "url": "https://www.barchart.com/story/news/8617486/dear-qualcomm-stock-fans-mark-your-calendars-for-november-4?.tsrc=rss",
-        "description": "Qualcomm is set to reveal its Q4 earnings soon, balancing near-term challenges with promising opportunities beyond smartphones.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T15:01:19.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm is set to reveal its Q4 earnings soon, balancing near-term challenges with promising opportunities beyond smartphones.",
-        "id": "a13"
-      },
-      {
-        "title": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access - Business Upturn",
-        "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNQ1FIbGZpRXoxNkUzYTVuczBqUnNpd1VxZWRWZERuc3NKWjBUa002ZzBXcEhNQTJCTlRSRFVhNTY1THZ0YTZOc195aW9CWGVrNi1FZktwOUtMcS1EUHFaZ18teGhCNjNSUlhGeEpZSF9XdkFMSGlMWU95d1E0R2xaNkxGamVxcjQtdGp3NFVIYWNTSGRkZjNVdWlwNmphVndNbUpiWm51VFBELWxEQmxScXphT0dpVlhRR3JZV25MUV9RbFBDNGVSaXJVT0toZVhtOGhONnJpano?oc=5",
-        "description": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T13:07:00.000Z",
-        "fetchedAt": "2026-11-04T11:36:57.516Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Business Upturn",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia tells data center clients to cut China exposure as US tightens grip on AI chip access Business Upturn",
-        "id": "a17"
-      },
-      {
-        "title": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says - Mezha.net",
-        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lpOER4RHB3UVlwdll5WnJvSFFDT2pWUlUxcW9BLTkwTE1DZENEVFZXTExqdE5GYjlBazM0N1hpTl80bGticXlmS25VN1ZsekE2Zk9IWlpyMmdOWHE4N1YxV2dtZUZic2gwdWQ0cUtQQWxVRTBSd3UxMmRsVWVnVmxORnd6YnlUclpMWWhIcmdLSGhsY3c?oc=5",
-        "description": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T12:30:42.000Z",
-        "fetchedAt": "2026-11-04T11:36:57.515Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Mezha.net",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
-        "id": "a18"
-      },
-      {
-        "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
-        "url": "https://www.tikr.com/blog/brad-gerstner-qualcomm-distillate-sold-whos-right?ref=yahoofinance&tlnk=yf-261103-jw7r75f3&.tsrc=rss",
-        "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T12:07:09.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
-        "id": "a19"
+        "id": "a23"
       },
       {
         "title": "HKT pulls out of US under FCC pressure – report",
@@ -515,7 +582,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-02T15:09:26.000Z",
-        "fetchedAt": "2026-11-04T11:36:54.611Z",
+        "fetchedAt": "2026-11-04T18:52:54.907Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -524,7 +591,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "id": "a20"
+        "id": "a24"
       },
       {
         "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -534,7 +601,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T15:02:02.000Z",
-        "fetchedAt": "2026-11-04T11:36:55.070Z",
+        "fetchedAt": "2026-11-04T18:52:55.044Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -543,7 +610,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-        "id": "a21"
+        "id": "a25"
       },
       {
         "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -553,7 +620,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T12:30:26.000Z",
-        "fetchedAt": "2026-11-04T11:36:53.986Z",
+        "fetchedAt": "2026-11-04T18:52:54.708Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -562,7 +629,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-        "id": "a22"
+        "id": "a26"
       }
     ]
   },
@@ -758,44 +825,15 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-04T11:36:57.538Z",
-    "date": "2026-11-04",
+    "generatedAt": "2026-11-04T18:52:56.759Z",
+    "date": "2026-11-05",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i",
-      "keyTakeaways": [
-        {
-          "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
-          "articleIds": [
-            "a15"
-          ],
-          "subCategory": "mobile-chips"
-        }
-      ]
+      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+      "keyTakeaways": []
     },
-    "articles": [
-      {
-        "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
-        "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
-        "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T14:25:43.000Z",
-        "fetchedAt": "2026-11-04T11:36:50.238Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "mobile-chips",
-        "subLabel": "Mobile Chips",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-        "id": "a15"
-      }
-    ]
+    "articles": []
   },
   "archive-2026-10-05": {
     "generatedAt": "2026-10-05T07:42:53.809Z",
@@ -21917,6 +21955,607 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 23
+  },
+  "archive-2026-11-05": {
+    "generatedAt": "2026-11-04T18:52:56.761Z",
+    "date": "2026-11-05",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (6 articles), Mobile Chips (4 articles), Semiconductors (3 articles). A total of 13 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Mobile Chips: SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Wireless Communication: Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "Semiconductors: Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying ",
+              "articleIds": [
+                "a13"
+              ],
+              "subCategory": "semiconductors"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "SpaceX and Qualcomm Are Coming for Verizon and AT&T. Hello, Starlink Mobile.",
+            "url": "https://finance.yahoo.com/m/2acb2183-e704-3857-9cc9-bee0f4370d19/spacex-and-qualcomm-are.html?.tsrc=rss",
+            "description": "SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T15:43:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SpaceX is buying terrestrial wireless hardware from Qualcomm and will build a mobile network from the ground up.",
+            "id": "a3"
+          },
+          {
+            "title": "SpaceX Strikes Major Qualcomm Deal to Take on Verizon and AT&T",
+            "url": "https://finance.yahoo.com/technology/articles/spacex-strikes-major-qualcomm-deal-151836207.html?.tsrc=rss",
+            "description": "Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T15:18:36.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm Calls SpaceX Partnership Its Biggest 5G Initiative Yet",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm, SpaceX Team Up To Build Starlink Cell Network: Deal Could ‘Lay The Foundation For AI-Native 6G,’ Says Executive",
+            "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-space-x-team-up-to-build-starlink-cell-network-deal-could-lay-the-foundation-for-ai-native-6-g-says-executive/cNGLhJYR93Z?.tsrc=rss",
+            "description": "Qualcomm will supply chips and software for the ground-based cellular sites supporting SpaceX’s planned Starlink Mobile network.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T15:07:21.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm will supply chips and software for the ground-based cellular sites supporting SpaceX’s planned Starlink Mobile network.",
+            "id": "a5"
+          },
+          {
+            "title": "Qualcomm, SpaceX deal could reshape the future of 5G",
+            "url": "https://finance.yahoo.com/video/qualcomm-spacex-deal-could-reshape-the-future-of-5g-150706555.html?.tsrc=rss",
+            "description": "The 8:30 hosts, Jake Conley and Pras Subramanian, and guest Defiance ETFs CIO Sylvia Jablonski discuss Qualcomm (QCOM)'s deal with SpaceX (SPCX) to use its Dragonwing technology to power a terrestrial 5G network. The panel examines what the partnership could mean for the future of wireless connectivity.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T15:07:06.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The 8:30 hosts, Jake Conley and Pras Subramanian, and guest Defiance ETFs CIO Sylvia Jablonski discuss Qualcomm (QCOM)'s deal with SpaceX (SPCX) to use its Dragonwing technology to power a terrestrial 5G network. The panel examines what the partnership could mean for the future of wireless connectivity.",
+            "id": "a6"
+          },
+          {
+            "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
+            "url": "https://www.mobileworldlive.com/network-tech/spacex-taps-qualcomm-to-power-starlink-mobile-in-us/",
+            "description": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-04T14:48:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.935Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+            "id": "a7"
+          },
+          {
+            "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
+            "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
+            "description": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:53:54.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.979Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
+            "id": "a10"
+          },
+          {
+            "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
+            "description": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:35:45.000Z",
+            "fetchedAt": "2026-11-04T18:52:55.589Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
+            "id": "a11"
+          },
+          {
+            "title": "SpaceX Selects Qualcomm to Accelerate Starlink Mobile’s Nationwide 5G Network",
+            "url": "https://finance.yahoo.com/technology/articles/spacex-selects-qualcomm-accelerate-starlink-133500564.html?.tsrc=rss",
+            "description": "SAN DIEGO, November 04, 2026--Qualcomm Technologies, Inc. today announced that SpaceX has selected Qualcomm Dragonwing™ Cellular Infrastructure platforms for its Starlink Mobile U.S. nationwide terrestrial 5G network. Powered by the Qualcomm Dragonwing™ QRU100 and QDU100 platforms and commercial-grade Layer 1 software, the network will combine high-capacity Massive MIMO radio and baseband technology and power-efficient processing to support cellular base station deployment at scale. The collabor",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:35:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SAN DIEGO, November 04, 2026--Qualcomm Technologies, Inc. today announced that SpaceX has selected Qualcomm Dragonwing™ Cellular Infrastructure platforms for its Starlink Mobile U.S. nationwide terrestrial 5G network. Powered by the Qualcomm Dragonwing™ QRU100 and QDU100 platforms and commercial-grade Layer 1 software, the network will combine high-capacity Massive MIMO radio and baseband technology and power-efficient processing to support cellular base station deployment at scale.",
+            "id": "a12"
+          },
+          {
+            "title": "Elon Musk is set to spend $100B to disrupt wireless in the age of drones and robots",
+            "url": "https://www.axios.com/2026/11/04/spacex-qualcomm-cellular-network#utm_source=yahoo_finance&utm_medium=partner&utm_campaign=subs-partner-yahoo-finance-AI?.tsrc=rss",
+            "description": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:30:05.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Elon Musk's SpaceX is moving ahead with plans to build a nationwide cellular network, selecting Qualcomm to provide key technology for tens of thousands of cell sites that it plans to begin deploying next year.",
+            "id": "a13"
+          },
+          {
+            "title": "Qualcomm to Build Equipment for SpaceX’s US Mobile Network",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-to-build-equipment-for-spacex-s-us-mobile-phone-network",
+            "description": "Qualcomm Inc. will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging the biggest players in the US mobile industry.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:30:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.940Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "will supply hardware components for SpaceX’s planned nationwide terrestrial wireless network, the latest sign that Elon Musk’s rocket and satellite company is committed to challenging the biggest players in the US mobile industry.",
+            "id": "a14"
+          },
+          {
+            "title": "SpaceX inks Qualcomm deal, putting Starlink closer to becoming the fourth major US wireless carrier",
+            "url": "https://finance.yahoo.com/technology/article/spacex-inks-qualcomm-deal-putting-starlink-closer-to-becoming-the-fourth-major-us-wireless-carrier-133000731.html?.tsrc=rss",
+            "description": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:30:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SpaceX is teaming with Qualcomm in push to turn Starlink into major US carrier.",
+            "id": "a15"
+          },
+          {
+            "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
+            "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
+            "description": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-04T13:30:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.907Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
+            "id": "a16"
+          },
+          {
+            "title": "Qualcomm’s Smartphone Business Is Hurting. Data Centers Could Fuel Its Next Act.",
+            "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-smartphone.html?.tsrc=rss",
+            "description": "Qualcomm reports earnings Wednesday as smartphone weakness weighs on chip sales and the company bets on automotive growth and data centers.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T11:00:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm reports earnings Wednesday as smartphone weakness weighs on chip sales and the company bets on automotive growth and data centers.",
+            "id": "a19"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "macro-environment": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Customers & Partners (1 article). A total of 13 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "market-performance: Qualcomm will report its Q4 earnings after the bell Wednesday.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Geopolitics & Export Controls: Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
+              "articleIds": [
+                "a21"
+              ],
+              "subCategory": "customers-partners"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm to report Q4 earnings amid slowing smartphone, PC sales",
+            "url": "https://finance.yahoo.com/technology/article/qualcomm-to-report-q4-earnings-amid-slowing-smartphone-pc-sales-173320120.html?.tsrc=rss",
+            "description": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T17:33:20.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm will report its Q4 earnings after the bell Wednesday.",
+            "id": "a1"
+          },
+          {
+            "title": "What Republicans' huge loss means for Trump",
+            "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
+            "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T16:44:04.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.979Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm to supply equipment for SpaceX’s nationwide 5G mobile network",
+            "url": "https://finance.yahoo.com/technology/articles/qualcomm-supply-equipment-spacex-nationwide-144626376.html?.tsrc=rss",
+            "description": "Qualcomm Incorporated (NASDAQ:QCOM) has secured a multiyear agreement to supply cellular infrastructure hardware and software for SpaceX's (NASDAQ:SPCX) planned nationwide terrestrial wireless network, marking a major step in Elon Musk’s drive to build a direct competitor to incumbent U.S. carriers. Under the partnership, SpaceX will deploy Qualcomm’s Dragonwing cellular platforms across tens of thousands of planned cell sites, with initial rollouts scheduled to begin in 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T14:46:26.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.945Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm Incorporated (NASDAQ:QCOM) has secured a multiyear agreement to supply cellular infrastructure hardware and software for SpaceX's (NASDAQ:SPCX) planned nationwide terrestrial wireless network, marking a major step in Elon Musk’s drive to build a direct competitor to incumbent U.S. Under the partnership, SpaceX will deploy Qualcomm’s Dragonwing cellular platforms across tens of thousands of planned cell sites, with initial rollouts scheduled to begin in 2027.",
+            "id": "a8"
+          },
+          {
+            "title": "Africa-Focused OPay Is Said to Halt US IPO After China Inquiry",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
+            "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T14:07:27.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.940Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
+            "id": "a9"
+          },
+          {
+            "title": "China expands overseas mining stakes, tightening grip on critical minerals",
+            "url": "https://www.cnbc.com/2026/11/04/china-critical-minerals-rare-earths-trump-japan-export-control-.html",
+            "description": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T13:00:01.000Z",
+            "fetchedAt": "2026-11-04T18:52:50.979Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Beijing is building a system of agencies and state-backed vehicles to own more of the metals it depends on, while keeping its edge in processing skills.",
+            "id": "a17"
+          },
+          {
+            "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
+            "url": "https://ipfray.com/cnipas-five-year-plan-spans-pre-filing-commercial-assessments-ai-assisted-inventions-possible-sep-pilot-drug-patent-linkage-disputes/",
+            "description": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-04T12:00:00.000Z",
+            "fetchedAt": "2026-11-04T18:52:55.043Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+            "id": "a18"
+          },
+          {
+            "title": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan - TradingView",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORm9zVUctTk5Ea0E1NnVQZFNrc2ZYZlAxQklfTzRpX3ctd0pxa25fa3pYWGxiV21sVVk3ck04OW0zMGVJZlgzbUpTcEdmeGJMUVhCblE2UEVVNzViS2xqTlJ6Zm1JRDRBMVVSd3hvaWdFQWpDY2tIOEdLRi1KY1NIMUJ5WHJxTGlYaWItVjY5dWtlTW1NNUxNUkdndV9kWDRfekxocGRGVDZfTVloNy1yZlBKb21xV0tZekVWTG1yOWFGTFRrcWdSOHczMzZ1VGRRdUttdEt0aEJvdHZsVzRzLXJaM0E4V2NNUXhR?oc=5",
+            "description": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan TradingView",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T21:25:17.000Z",
+            "fetchedAt": "2026-11-04T18:52:56.718Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "TradingView",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US China Export Controls Threaten SK Hynix's Multi-Billion-Dollar New York Chip Expansion Plan TradingView",
+            "id": "a20"
+          },
+          {
+            "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
+            "url": "https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool",
+            "description": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
+            "source": "Semiconductor Digest",
+            "sourceId": "semiconductor-digest",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-11-03T19:32:48.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.193Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "customers-partners",
+            "subLabel": "Customers & Partners",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
+            "id": "a21"
+          },
+          {
+            "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - Columbus Ledger-Enquirer",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE12dEtneklTUmJxUk9UclBfVW9NeFR6QlpTcFZ5OG9BVFJYY1A0N0cyN0NkRWRsRjc4UnowRTYzZnBqN1BNeU94RFo1ekRiMUNOdzVhVjR3QUduM2lDM3d0Snl3d3BGTEF3RG9RcF95emxjaEtNM1E?oc=5",
+            "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say Columbus Ledger-Enquirer",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T19:08:09.000Z",
+            "fetchedAt": "2026-11-04T18:52:56.718Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Columbus Ledger-Enquirer",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say Columbus Ledger-Enquirer",
+            "id": "a22"
+          },
+          {
+            "title": "Russia, China likely to ramp up UK cyberattacks",
+            "url": "https://www.mobileworldlive.com/ai-cloud/russia-china-to-ramp-up-uk-cyberattacks-by-2028/",
+            "description": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-03T15:20:45.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.936Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+            "id": "a23"
+          },
+          {
+            "title": "HKT pulls out of US under FCC pressure – report",
+            "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
+            "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "source": "Light Reading",
+            "sourceId": "light-reading",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-02T15:09:26.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.907Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
+            "id": "a24"
+          },
+          {
+            "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
+            "url": "https://ipfray.com/epo-sets-out-six-priorities-for-strengthening-europes-technology-transfer/",
+            "description": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T15:02:02.000Z",
+            "fetchedAt": "2026-11-04T18:52:55.044Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
+            "id": "a25"
+          },
+          {
+            "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
+            "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
+            "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
+            "source": "Patently-O",
+            "sourceId": "patently-o",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-02T12:30:26.000Z",
+            "fetchedAt": "2026-11-04T18:52:54.708Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
+            "id": "a26"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-04T18:52:56.759Z",
+        "date": "2026-11-05",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      }
+    },
+    "totalArticles": 26
   }
 };
 

@@ -1,40 +1,11 @@
 {
-  "generatedAt": "2026-11-04T11:36:57.538Z",
-  "date": "2026-11-04",
+  "generatedAt": "2026-11-04T18:52:56.759Z",
+  "date": "2026-11-05",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i",
-    "keyTakeaways": [
-      {
-        "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
-        "articleIds": [
-          "a15"
-        ],
-        "subCategory": "mobile-chips"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
-      "url": "https://www.tikr.com/blog/qualcomm-is-down-10-in-a-year-its-cfo-says-things-can-only-go-up-from-here?ref=yahoofinance&tlnk=yf-261103-9466pc8p&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-04T11:36:50.238Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
-      "id": "a15"
-    }
-  ]
+  "articles": []
 }
