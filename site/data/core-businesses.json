@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T03:22:09.367Z",
+  "generatedAt": "2026-11-04T11:36:57.538Z",
   "date": "2026-11-04",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T15:39:59.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
+      "fetchedAt": "2026-11-04T11:36:50.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:45:04.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
+      "fetchedAt": "2026-11-04T11:36:50.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
+      "fetchedAt": "2026-11-04T11:36:50.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -94,7 +94,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T13:21:40.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
+      "fetchedAt": "2026-11-04T11:36:50.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -103,24 +103,6 @@
       "stakeholders": [],
       "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
       "id": "a16"
-    },
-    {
-      "title": "How Would You Fix Qualcomm?",
-      "url": "https://www.trefis.com/stock/qcom/articles/622172/how-would-you-fix-qualcomm/2026-11-03?.tsrc=rss",
-      "description": "For questions about this article or underlying research, email help@trefis.com.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-03T11:57:07.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a19"
     }
   ]
 }

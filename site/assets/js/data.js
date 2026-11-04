@@ -2,7 +2,7 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "competitors",
     "sectionTitle": "Competitors",
@@ -13,12 +13,12 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
           "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
@@ -52,7 +52,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T15:39:59.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -70,7 +70,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T14:45:04.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -88,7 +88,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T14:25:43.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -108,7 +108,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T13:21:40.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -117,29 +117,11 @@ export const NEWS_DATA = {
         "stakeholders": [],
         "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
         "id": "a16"
-      },
-      {
-        "title": "How Would You Fix Qualcomm?",
-        "url": "https://www.trefis.com/stock/qcom/articles/622172/how-would-you-fix-qualcomm/2026-11-03?.tsrc=rss",
-        "description": "For questions about this article or underlying research, email help@trefis.com.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T11:57:07.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a19"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
@@ -150,7 +132,7 @@ export const NEWS_DATA = {
     "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -161,15 +143,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-04T03:22:09.368Z",
+    "generatedAt": "2026-11-04T11:36:57.540Z",
     "date": "2026-11-04",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 5,
+        "articleCount": 4,
         "topHeadline": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
         "topHeadlineId": "a11",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -187,10 +169,10 @@ export const NEWS_DATA = {
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 24,
-        "topHeadline": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+        "articleCount": 18,
+        "topHeadline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 24 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -201,46 +183,103 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 3,
+        "articleCount": 1,
         "topHeadline": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
         "topHeadlineId": "a15",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
+        "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i"
       }
     },
-    "totalArticles": 32
+    "totalArticles": 23
   },
   "macro-environment": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 24 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
+          "text": "Geopolitics & Export Controls: Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed t",
           "articleIds": [
             "a1"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Geopolitics & Export Controls: Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-          "articleIds": [
-            "a2"
           ],
           "subCategory": "geopolitics-export-controls"
         },
         {
+          "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
+          "articleIds": [
+            "a4"
+          ],
+          "subCategory": "market-performance"
+        },
+        {
           "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
           "articleIds": [
-            "a8"
+            "a9"
           ],
           "subCategory": "customers-partners"
         }
       ]
     },
     "articles": [
+      {
+        "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+        "description": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T06:07:48.000Z",
+        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+        "id": "a1"
+      },
+      {
+        "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
+        "description": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T05:01:21.000Z",
+        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
+        "id": "a2"
+      },
+      {
+        "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+        "description": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-04T03:14:24.000Z",
+        "fetchedAt": "2026-11-04T11:36:50.226Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+        "id": "a3"
+      },
       {
         "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
         "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
@@ -249,7 +288,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-04T01:00:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -257,27 +296,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
-        "id": "a1"
-      },
-      {
-        "title": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans - Businesskorea",
-        "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40Ql9aUDlJZ0ZqczBvMl9fSUdDZkFvNE1fMFRtWkROcTkwQ0lDR2lPMm11ZU5FTzJHMGktY0xENklRMU5xS0JXci1TaVNiQzdlb25wRTI2WDhPeGNXcHpxOGVSSUZEQlctMjVaOEk4RExTZnRf?oc=5",
-        "description": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T00:26:34.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Businesskorea",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-        "id": "a2"
+        "id": "a4"
       },
       {
         "title": "Please stop asking me when the AI bubble will pop",
@@ -287,7 +306,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-03T23:37:45.000Z",
-        "fetchedAt": "2026-11-04T03:22:03.328Z",
+        "fetchedAt": "2026-11-04T11:36:50.491Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -296,7 +315,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.",
-        "id": "a3"
+        "id": "a5"
       },
       {
         "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
@@ -306,7 +325,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T23:12:02.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -314,46 +333,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-        "id": "a4"
-      },
-      {
-        "title": "Reuters: U.S. Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment - news.sbs.co.kr",
-        "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2dlU0NWR2WjlaRjJXZGhJU3JsSUU5WjVzaGFhMG1ValV0ZS1QWlIwMlYyTTNneXl6MUx4ZGZkVGJhMTQ5c3BVNEpNeTIxMWVWS0RGLVVtcHNzYjRNdV9nRFlZY2QtMVhZcThKNE5n?oc=5",
-        "description": "Reuters: U.S. Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment news.sbs.co.kr",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T21:57:45.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "news.sbs.co.kr",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment news.sbs.co.kr",
-        "id": "a5"
-      },
-      {
-        "title": "U.S. Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment - BigGo Finance",
-        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wNV9vQkZjX3JTTEl1cXFkX3lVU2ZBWm0yZ08tcEVEOUx4QlUwd2RYSnpINDFRUzRHYWM1NUViMnVQQTM5X0UzRnpMTkY2R3ZvMF9aVXVGcU1NVGdObDNfUURROGt1YjVCYWdQZDk4Qm40MHB0N1E?oc=5",
-        "description": "U.S. Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment BigGo Finance",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T21:55:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "BigGo Finance",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment BigGo Finance",
         "id": "a6"
       },
       {
@@ -364,7 +343,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T21:25:17.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
+        "fetchedAt": "2026-11-04T11:36:57.515Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "TradingView",
         "geopoliticalBypass": true,
@@ -377,6 +356,24 @@ export const NEWS_DATA = {
         "id": "a7"
       },
       {
+        "title": "Ahead of Qualcomm Earnings, Here's What Barchart Data Says Comes Next for QCOM Stock",
+        "url": "https://www.barchart.com/story/news/8629320/ahead-of-qualcomm-earnings-here-s-what-barchart-data-says-comes-next-for-qcom-stock?.tsrc=rss",
+        "description": "Qualcomm is set to report its fiscal Q4 earnings on Nov. 4. Options data and Bernstein are dovish heading into QCOM’s financial release.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T21:16:52.000Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm is set to report its fiscal Q4 earnings on Nov. Options data and Bernstein are dovish heading into QCOM’s financial release.",
+        "id": "a8"
+      },
+      {
         "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
         "url": "https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool",
         "description": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
@@ -384,7 +381,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-03T19:32:48.000Z",
-        "fetchedAt": "2026-11-04T03:22:06.570Z",
+        "fetchedAt": "2026-11-04T11:36:53.843Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -393,26 +390,6 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-        "id": "a8"
-      },
-      {
-        "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - The Economic Times",
-        "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXhPYUNTVm0zSk9oRzJEeHU0QzNXQlp2dHB6RVNhLU9LSk1keXpjclNSXzdLVk5xRDdxNjM4MTdjSldwbXFWV3ktM0tNd2REZ2hWS21hZ2YxOEVUOW1hYmJiNHdWQmVPNEx4bjBlNU5IemsxQ0YtbEFQRUsxX0pRZGhUMkRqNjQ5S3hfQVB3MWRBVGNSd3VZeGs1ZWpKTkEyYTkxV00ya2UzTDZIV2liSjNCY01IcGZmSTRMODc1YlNUTzJWMC15ajVTTGtXNTAtQUVDamtqSnM0ZEhjcmRJWWZlM0N5LXRXejdrT3pabUU2UEt2MEhRZ3VB0gH6AUFVX3lxTE9teE9hQ1NWbTNKT2hHMkR4dTRDM1dCWnZ0cHpFU2EtT0tKTWR5emNyU1JfN0tWTnFEN3E2MzgxN2NKV3BtcVZXeS0zS013ZERnaFZLbWFnZjE4RVQ5bWFiYmI0d1ZCZU80THhuMGU1Tkh6azFDRi1sQVBFSzFfSlFkaFQyRGo2NDlLeF9BUHcxZEFUY1J3dVl4azVlakpOQTJhOTFXTTJrZTNMNkhXaWJKM0JjTUhwZmZJNEw4NzViU1RPMlYwLXlqNVNMa1c1MC1BRUNqa2pKczRkSGNyZElZZmUzQ3ktdFd6N2tPelptRTZQS3YwSFFndUE?oc=5",
-        "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Economic Times",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T19:05:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Economic Times",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Economic Times",
         "id": "a9"
       },
       {
@@ -423,7 +400,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T18:55:03.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
+        "fetchedAt": "2026-11-04T11:36:57.515Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Korea Times",
         "geopoliticalBypass": true,
@@ -443,7 +420,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-03T15:20:45.000Z",
-        "fetchedAt": "2026-11-04T03:22:07.491Z",
+        "fetchedAt": "2026-11-04T11:36:55.920Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -462,7 +439,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T15:01:19.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -480,7 +457,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T13:07:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.333Z",
+        "fetchedAt": "2026-11-04T11:36:57.516Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Business Upturn",
         "geopoliticalBypass": true,
@@ -493,6 +470,26 @@ export const NEWS_DATA = {
         "id": "a17"
       },
       {
+        "title": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says - Mezha.net",
+        "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lpOER4RHB3UVlwdll5WnJvSFFDT2pWUlUxcW9BLTkwTE1DZENEVFZXTExqdE5GYjlBazM0N1hpTl80bGticXlmS25VN1ZsekE2Zk9IWlpyMmdOWHE4N1YxV2dtZUZic2gwdWQ0cUtQQWxVRTBSd3UxMmRsVWVnVmxORnd6YnlUclpMWWhIcmdLSGhsY3c?oc=5",
+        "description": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-03T12:30:42.000Z",
+        "fetchedAt": "2026-11-04T11:36:57.515Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Mezha.net",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
+        "id": "a18"
+      },
+      {
         "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
         "url": "https://www.tikr.com/blog/brad-gerstner-qualcomm-distillate-sold-whos-right?ref=yahoofinance&tlnk=yf-261103-jw7r75f3&.tsrc=rss",
         "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
@@ -500,7 +497,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T12:07:09.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -508,125 +505,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
-        "id": "a18"
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
-        "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T11:37:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-        "id": "a20"
-      },
-      {
-        "title": "Are Wall Street Analysts Bullish on QUALCOMM Stock?",
-        "url": "https://www.barchart.com/story/news/8611082/are-wall-street-analysts-bullish-on-qualcomm-stock?.tsrc=rss",
-        "description": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T11:26:27.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
-        "id": "a21"
-      },
-      {
-        "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
-        "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
-        "description": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T09:54:41.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "شبكة تواصل الإخبارية",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
-        "id": "a22"
-      },
-      {
-        "title": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test - 파이낸셜뉴스",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBicElwZXhJZDEzVzA4UkRSUmcxRjJPaUhWazZnX0FNMWh2ZjFrRDNlemhfY1JNcUMwOVdFUjBMUVMtOGpkbjhkT29WSDRpdW91YmpaeXlJMk8?oc=5",
-        "description": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T09:18:54.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "파이낸셜뉴스",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
-        "id": "a23"
-      },
-      {
-        "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
-        "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
-        "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T08:02:36.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "EU Perspectives",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-        "id": "a24"
-      },
-      {
-        "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
-        "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZV1JQQnJRVVNnS2hfWkZ0UjRqV3pBVGdWSk9GSUtYQVZmNFlqcVRTSTAtVHFlV0ZkT0h5b3hlZWtfRDlnOGU4OXF2Skpia0xWMS1kNG03eDk?oc=5",
-        "description": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T06:57:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:09.332Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Taiwan News",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-        "id": "a25"
+        "id": "a19"
       },
       {
         "title": "HKT pulls out of US under FCC pressure – report",
@@ -636,7 +515,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-02T15:09:26.000Z",
-        "fetchedAt": "2026-11-04T03:22:07.467Z",
+        "fetchedAt": "2026-11-04T11:36:54.611Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -645,7 +524,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "id": "a26"
+        "id": "a20"
       },
       {
         "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -655,7 +534,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T15:02:02.000Z",
-        "fetchedAt": "2026-11-04T03:22:07.076Z",
+        "fetchedAt": "2026-11-04T11:36:55.070Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -664,7 +543,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-        "id": "a27"
+        "id": "a21"
       },
       {
         "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -674,7 +553,7 @@ export const NEWS_DATA = {
         "sourceId": "patently-o",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-02T12:30:26.000Z",
-        "fetchedAt": "2026-11-04T03:22:06.897Z",
+        "fetchedAt": "2026-11-04T11:36:53.986Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -683,28 +562,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-        "id": "a28"
-      },
-      {
-        "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
-        "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:05.256Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a29"
+        "id": "a22"
       }
     ]
   },
@@ -900,12 +758,12 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-04T03:22:09.367Z",
+    "generatedAt": "2026-11-04T11:36:57.538Z",
     "date": "2026-11-04",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i",
       "keyTakeaways": [
         {
           "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
@@ -913,20 +771,6 @@ export const NEWS_DATA = {
             "a15"
           ],
           "subCategory": "mobile-chips"
-        },
-        {
-          "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-          "articleIds": [
-            "a20"
-          ],
-          "subCategory": "market-performance"
-        },
-        {
-          "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-          "articleIds": [
-            "a29"
-          ],
-          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
@@ -939,7 +783,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-03T14:25:43.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
+        "fetchedAt": "2026-11-04T11:36:50.238Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -950,47 +794,6 @@ export const NEWS_DATA = {
         ],
         "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
         "id": "a15"
-      },
-      {
-        "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
-        "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-03T11:37:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:01.731Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-        "id": "a20"
-      },
-      {
-        "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-        "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
-        "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "source": "IAM",
-        "sourceId": "iam",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-11-01T11:30:00.000Z",
-        "fetchedAt": "2026-11-04T03:22:05.256Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "oem"
-        ],
-        "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "id": "a29"
       }
     ]
   },
@@ -21553,16 +21356,16 @@ export const NEWS_DATA = {
     "totalArticles": 29
   },
   "archive-2026-11-04": {
-    "generatedAt": "2026-11-04T03:22:09.368Z",
+    "generatedAt": "2026-11-04T11:36:57.540Z",
     "date": "2026-11-04",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
               "text": "Wireless Communication: Dragonfly AI250 sampling is expected in the first half of 2027; commercial deployment remains a later hurdle.",
@@ -21596,7 +21399,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T15:39:59.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -21614,7 +21417,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T14:45:04.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -21632,7 +21435,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T14:25:43.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -21652,7 +21455,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T13:21:40.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
@@ -21661,29 +21464,11 @@ export const NEWS_DATA = {
             "stakeholders": [],
             "summary": "The subsystem combines Infineon’s Aurix microcontrollers and Optireg power-management chips with Qualcomm’s Snapdragon Ride and Ride Flex systems-on-chip.",
             "id": "a16"
-          },
-          {
-            "title": "How Would You Fix Qualcomm?",
-            "url": "https://www.trefis.com/stock/qcom/articles/622172/how-would-you-fix-qualcomm/2026-11-03?.tsrc=rss",
-            "description": "For questions about this article or underlying research, email help@trefis.com.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T11:57:07.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "For questions about this article or underlying research, email help@trefis.com.",
-            "id": "a19"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -21694,7 +21479,7 @@ export const NEWS_DATA = {
         "articles": []
       },
       "growth-areas": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
@@ -21705,37 +21490,94 @@ export const NEWS_DATA = {
         "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 24 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
+              "text": "Geopolitics & Export Controls: Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed t",
               "articleIds": [
                 "a1"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-              "articleIds": [
-                "a2"
               ],
               "subCategory": "geopolitics-export-controls"
             },
             {
+              "text": "market-performance: Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash",
+              "articleIds": [
+                "a4"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
               "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
               "articleIds": [
-                "a8"
+                "a9"
               ],
               "subCategory": "customers-partners"
             }
           ]
         },
         "articles": [
+          {
+            "title": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/china-robot-funding-slows-to-1-6-billion-as-shakeout-fears-grow",
+            "description": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T06:07:48.000Z",
+            "fetchedAt": "2026-11-04T11:36:50.226Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese robotics sector fundraising decelerated sharply in past months to about 11 billion yuan ($1.6 billion) in October, suggesting a cooling in the frenzied pace of investment since Unitree wowed the world with its Spring Festival humanoids showcase.",
+            "id": "a1"
+          },
+          {
+            "title": "Tencent Declares Latest AI Model Ranks Among China’s Best",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/tencent-declares-latest-ai-model-ranks-among-china-s-best",
+            "description": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T05:01:21.000Z",
+            "fetchedAt": "2026-11-04T11:36:50.226Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Tencent Holdings Ltd. released a foundation model Wednesday that it said joins the top tier of Chinese open-weight AI systems for the first time.",
+            "id": "a2"
+          },
+          {
+            "title": "Nvidia China Clients to Get 1% of $70 Billion RTX Chips Ordered",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/nvidia-china-clients-to-get-1-of-70-billion-rtx-chips-ordered",
+            "description": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-04T03:14:24.000Z",
+            "fetchedAt": "2026-11-04T11:36:50.226Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Chinese AI developers expect to receive just a small fraction of the advanced Nvidia Corp. chips they’ve ordered over the next several months, as the US company struggles to boost production to meet soaring demand.",
+            "id": "a3"
+          },
           {
             "title": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
             "url": "https://finance.yahoo.com/video/mcdonalds-qualcomm-earnings-adp-labor-010000492.html?.tsrc=rss",
@@ -21744,7 +21586,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-04T01:00:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -21752,27 +21594,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Market Domination Overtime Host Jake Conley previews several of the biggest stories to come tomorrow, Wednesday, November 4, including earnings out from Qualcomm (QCOM), McDonald's (MCD), and DoorDash (DASH), as well as the latest employment data out from ADP.",
-            "id": "a1"
-          },
-          {
-            "title": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans - Businesskorea",
-            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE40Ql9aUDlJZ0ZqczBvMl9fSUdDZkFvNE1fMFRtWkROcTkwQ0lDR2lPMm11ZU5FTzJHMGktY0xENklRMU5xS0JXci1TaVNiQzdlb25wRTI2WDhPeGNXcHpxOGVSSUZEQlctMjVaOEk4RExTZnRf?oc=5",
-            "description": "U.S. Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T00:26:34.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Businesskorea",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Holds Up Equipment Exports for SK hynix’s China Plant, Clouding New York Investment Plans Businesskorea",
-            "id": "a2"
+            "id": "a4"
           },
           {
             "title": "Please stop asking me when the AI bubble will pop",
@@ -21782,7 +21604,7 @@ export const NEWS_DATA = {
             "sourceId": "the-verge",
             "sourceGroup": "tech",
             "publishedAt": "2026-11-03T23:37:45.000Z",
-            "fetchedAt": "2026-11-04T03:22:03.328Z",
+            "fetchedAt": "2026-11-04T11:36:50.491Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21791,7 +21613,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Emmanuel Roman, chief executive officer of Pacific Investment Management Co. (Pimco), during the Global Financial Leaders' Investment Summit in Hong Kong, China, on Tuesday, Nov. | Bloomberg via Getty Images People, including on this staff, keep asking me with varying degrees of excitement or trepidation when the AI bubble will burst. I'll tell you what I tell them: If I knew that, I would make a life-changing bet on the market, levered up as far as I could, and then, after I made my money, go retire on a beach somewhere. Maybe run a cat sanctuary, who knows.",
-            "id": "a3"
+            "id": "a5"
           },
           {
             "title": "Should You Buy Qualcomm Stock Before Its Nov. 4 Report?",
@@ -21801,7 +21623,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T23:12:02.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -21809,46 +21631,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Is the chipmaker's 11% one-day drop a chance to buy ahead of earnings?",
-            "id": "a4"
-          },
-          {
-            "title": "Reuters: U.S. Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment - news.sbs.co.kr",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFB2dlU0NWR2WjlaRjJXZGhJU3JsSUU5WjVzaGFhMG1ValV0ZS1QWlIwMlYyTTNneXl6MUx4ZGZkVGJhMTQ5c3BVNEpNeTIxMWVWS0RGLVVtcHNzYjRNdV9nRFlZY2QtMVhZcThKNE5n?oc=5",
-            "description": "Reuters: U.S. Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment news.sbs.co.kr",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T21:57:45.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "news.sbs.co.kr",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Holds Off on Export Approvals for SK Hynix's China Plant, Disrupting New York Investment news.sbs.co.kr",
-            "id": "a5"
-          },
-          {
-            "title": "U.S. Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment - BigGo Finance",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0wNV9vQkZjX3JTTEl1cXFkX3lVU2ZBWm0yZ08tcEVEOUx4QlUwd2RYSnpINDFRUzRHYWM1NUViMnVQQTM5X0UzRnpMTkY2R3ZvMF9aVXVGcU1NVGdObDNfUURROGt1YjVCYWdQZDk4Qm40MHB0N1E?oc=5",
-            "description": "U.S. Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment BigGo Finance",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T21:55:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "BigGo Finance",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Commerce Department Blocks SK Hynix Equipment Shipments to China's Dalian Plant, Casting Doubt on $45 Billion New York Investment BigGo Finance",
             "id": "a6"
           },
           {
@@ -21859,7 +21641,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T21:25:17.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
+            "fetchedAt": "2026-11-04T11:36:57.515Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "TradingView",
             "geopoliticalBypass": true,
@@ -21872,6 +21654,24 @@ export const NEWS_DATA = {
             "id": "a7"
           },
           {
+            "title": "Ahead of Qualcomm Earnings, Here's What Barchart Data Says Comes Next for QCOM Stock",
+            "url": "https://www.barchart.com/story/news/8629320/ahead-of-qualcomm-earnings-here-s-what-barchart-data-says-comes-next-for-qcom-stock?.tsrc=rss",
+            "description": "Qualcomm is set to report its fiscal Q4 earnings on Nov. 4. Options data and Bernstein are dovish heading into QCOM’s financial release.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T21:16:52.000Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm is set to report its fiscal Q4 earnings on Nov. Options data and Bernstein are dovish heading into QCOM’s financial release.",
+            "id": "a8"
+          },
+          {
             "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
             "url": "https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool",
             "description": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
@@ -21879,7 +21679,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-03T19:32:48.000Z",
-            "fetchedAt": "2026-11-04T03:22:06.570Z",
+            "fetchedAt": "2026-11-04T11:36:53.843Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21888,26 +21688,6 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-            "id": "a8"
-          },
-          {
-            "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - The Economic Times",
-            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxPbXhPYUNTVm0zSk9oRzJEeHU0QzNXQlp2dHB6RVNhLU9LSk1keXpjclNSXzdLVk5xRDdxNjM4MTdjSldwbXFWV3ktM0tNd2REZ2hWS21hZ2YxOEVUOW1hYmJiNHdWQmVPNEx4bjBlNU5IemsxQ0YtbEFQRUsxX0pRZGhUMkRqNjQ5S3hfQVB3MWRBVGNSd3VZeGs1ZWpKTkEyYTkxV00ya2UzTDZIV2liSjNCY01IcGZmSTRMODc1YlNUTzJWMC15ajVTTGtXNTAtQUVDamtqSnM0ZEhjcmRJWWZlM0N5LXRXejdrT3pabUU2UEt2MEhRZ3VB0gH6AUFVX3lxTE9teE9hQ1NWbTNKT2hHMkR4dTRDM1dCWnZ0cHpFU2EtT0tKTWR5emNyU1JfN0tWTnFEN3E2MzgxN2NKV3BtcVZXeS0zS013ZERnaFZLbWFnZjE4RVQ5bWFiYmI0d1ZCZU80THhuMGU1Tkh6azFDRi1sQVBFSzFfSlFkaFQyRGo2NDlLeF9BUHcxZEFUY1J3dVl4azVlakpOQTJhOTFXTTJrZTNMNkhXaWJKM0JjTUhwZmZJNEw4NzViU1RPMlYwLXlqNVNMa1c1MC1BRUNqa2pKczRkSGNyZElZZmUzQ3ktdFd6N2tPelptRTZQS3YwSFFndUE?oc=5",
-            "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Economic Times",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T19:05:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "The Economic Times",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say The Economic Times",
             "id": "a9"
           },
           {
@@ -21918,7 +21698,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T18:55:03.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
+            "fetchedAt": "2026-11-04T11:36:57.515Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "The Korea Times",
             "geopoliticalBypass": true,
@@ -21938,7 +21718,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-03T15:20:45.000Z",
-            "fetchedAt": "2026-11-04T03:22:07.491Z",
+            "fetchedAt": "2026-11-04T11:36:55.920Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -21957,7 +21737,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T15:01:19.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -21975,7 +21755,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T13:07:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.333Z",
+            "fetchedAt": "2026-11-04T11:36:57.516Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Business Upturn",
             "geopoliticalBypass": true,
@@ -21988,6 +21768,26 @@ export const NEWS_DATA = {
             "id": "a17"
           },
           {
+            "title": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says - Mezha.net",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNX2lpOER4RHB3UVlwdll5WnJvSFFDT2pWUlUxcW9BLTkwTE1DZENEVFZXTExqdE5GYjlBazM0N1hpTl80bGticXlmS25VN1ZsekE2Zk9IWlpyMmdOWHE4N1YxV2dtZUZic2gwdWQ0cUtQQWxVRTBSd3UxMmRsVWVnVmxORnd6YnlUclpMWWhIcmdLSGhsY3c?oc=5",
+            "description": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-03T12:30:42.000Z",
+            "fetchedAt": "2026-11-04T11:36:57.515Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Mezha.net",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Smuggler exploits export-control loophole to move HBM from South Korea to China, report says Mezha.net",
+            "id": "a18"
+          },
+          {
             "title": "Brad Gerstner Bought Qualcomm. A $2.1 Billion Fund Sold All of It. Who’s Right?",
             "url": "https://www.tikr.com/blog/brad-gerstner-qualcomm-distillate-sold-whos-right?ref=yahoofinance&tlnk=yf-261103-jw7r75f3&.tsrc=rss",
             "description": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
@@ -21995,7 +21795,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T12:07:09.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22003,125 +21803,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Key TakeawaysBrad Gerstner’s Altimeter Capital bought 1. 88 million Qualcomm (QCOM:NASDAQ) shares in the quarter ended June 30, while Distillate Capital Partners, which manages $2.",
-            "id": "a18"
-          },
-          {
-            "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
-            "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T11:37:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-            "id": "a20"
-          },
-          {
-            "title": "Are Wall Street Analysts Bullish on QUALCOMM Stock?",
-            "url": "https://www.barchart.com/story/news/8611082/are-wall-street-analysts-bullish-on-qualcomm-stock?.tsrc=rss",
-            "description": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T11:26:27.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "QUALCOMM has underperformed the broader market over the past year, but analysts are cautiously optimistic about the stock’s prospects.",
-            "id": "a21"
-          },
-          {
-            "title": "OpenAI Hires Former US Army Secretary for National Security Role - شبكة تواصل الإخبارية",
-            "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTFBOTnRXY0R2T1BUUTA0bk9nZjRaRlNSRkN0bmNZY3dfX3RyZzVUQ0swRk1jM2otWWV6RUg3XzhlWERBMXNxbWJFaElwZTVjLUVIMHFR?oc=5",
-            "description": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T09:54:41.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "شبكة تواصل الإخبارية",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "OpenAI Hires Former US Army Secretary for National Security Role شبكة تواصل الإخبارية",
-            "id": "a22"
-          },
-          {
-            "title": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test - 파이낸셜뉴스",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBicElwZXhJZDEzVzA4UkRSUmcxRjJPaUhWazZnX0FNMWh2ZjFrRDNlemhfY1JNcUMwOVdFUjBMUVMtOGpkbjhkT29WSDRpdW91YmpaeXlJMk8?oc=5",
-            "description": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T09:18:54.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "파이낸셜뉴스",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "‘Choose between the U.S. and China’: AI war puts Southeast Asia’s balancing diplomacy to the test 파이낸셜뉴스",
-            "id": "a23"
-          },
-          {
-            "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
-            "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T08:02:36.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "EU Perspectives",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-            "id": "a24"
-          },
-          {
-            "title": "Taiwan lawmakers push to tighten chip controls to China - Taiwan News",
-            "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTFBZV1JQQnJRVVNnS2hfWkZ0UjRqV3pBVGdWSk9GSUtYQVZmNFlqcVRTSTAtVHFlV0ZkT0h5b3hlZWtfRDlnOGU4OXF2Skpia0xWMS1kNG03eDk?oc=5",
-            "description": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T06:57:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:09.332Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Taiwan News",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Taiwan lawmakers push to tighten chip controls to China Taiwan News",
-            "id": "a25"
+            "id": "a19"
           },
           {
             "title": "HKT pulls out of US under FCC pressure – report",
@@ -22131,7 +21813,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-02T15:09:26.000Z",
-            "fetchedAt": "2026-11-04T03:22:07.467Z",
+            "fetchedAt": "2026-11-04T11:36:54.611Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22140,7 +21822,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-            "id": "a26"
+            "id": "a20"
           },
           {
             "title": "EPO sets out six priorities for strengthening Europe’s technology transfer",
@@ -22150,7 +21832,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-02T15:02:02.000Z",
-            "fetchedAt": "2026-11-04T03:22:07.076Z",
+            "fetchedAt": "2026-11-04T11:36:55.070Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22159,7 +21841,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "A new EPO study of over 800 technology transfer offices reveals that European universities now own as many patents as their U.S. counterparts, but with a fraction of the commercialization capacity. The gap between ownership and impact is widening, and the report lays out six priorities for closing it.",
-            "id": "a27"
+            "id": "a21"
           },
           {
             "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
@@ -22169,7 +21851,7 @@ export const NEWS_DATA = {
             "sourceId": "patently-o",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-02T12:30:26.000Z",
-            "fetchedAt": "2026-11-04T03:22:06.897Z",
+            "fetchedAt": "2026-11-04T11:36:53.986Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22178,33 +21860,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-            "id": "a28"
-          },
-          {
-            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
-            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:05.256Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a29"
+            "id": "a22"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "competitors",
         "sectionTitle": "Competitors",
@@ -22215,12 +21876,12 @@ export const NEWS_DATA = {
         "articles": []
       },
       "stakeholders": {
-        "generatedAt": "2026-11-04T03:22:09.367Z",
+        "generatedAt": "2026-11-04T11:36:57.538Z",
         "date": "2026-11-04",
         "section": "stakeholders",
         "sectionTitle": "Key Stakeholders",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "summary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i",
           "keyTakeaways": [
             {
               "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
@@ -22228,20 +21889,6 @@ export const NEWS_DATA = {
                 "a15"
               ],
               "subCategory": "mobile-chips"
-            },
-            {
-              "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-              "articleIds": [
-                "a20"
-              ],
-              "subCategory": "market-performance"
-            },
-            {
-              "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-              "articleIds": [
-                "a29"
-              ],
-              "subCategory": "geopolitics-export-controls"
             }
           ]
         },
@@ -22254,7 +21901,7 @@ export const NEWS_DATA = {
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-03T14:25:43.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
+            "fetchedAt": "2026-11-04T11:36:50.238Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -22265,52 +21912,11 @@ export const NEWS_DATA = {
             ],
             "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
             "id": "a15"
-          },
-          {
-            "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
-            "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-03T11:37:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:01.731Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-            "id": "a20"
-          },
-          {
-            "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-            "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
-            "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "source": "IAM",
-            "sourceId": "iam",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-11-01T11:30:00.000Z",
-            "fetchedAt": "2026-11-04T03:22:05.256Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "oem"
-            ],
-            "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-            "id": "a29"
           }
         ]
       }
     },
-    "totalArticles": 32
+    "totalArticles": 23
   }
 };
 

@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-04T03:22:09.367Z",
+  "generatedAt": "2026-11-04T11:36:57.538Z",
   "date": "2026-11-04",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i",
     "keyTakeaways": [
       {
         "text": "Mobile Chips: Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is",
@@ -12,20 +12,6 @@
           "a15"
         ],
         "subCategory": "mobile-chips"
-      },
-      {
-        "text": "market-performance: Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-        "articleIds": [
-          "a20"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "Geopolitics & Export Controls: Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-        "articleIds": [
-          "a29"
-        ],
-        "subCategory": "geopolitics-export-controls"
       }
     ]
   },
@@ -38,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-03T14:25:43.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
+      "fetchedAt": "2026-11-04T11:36:50.238Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -49,47 +35,6 @@
       ],
       "summary": "Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% in the June quarter and Qualcomm’s Apple revenue is fading faster than planned, while automotive revenue grew 61%.",
       "id": "a15"
-    },
-    {
-      "title": "The Zacks Analyst Blog Highlights Apple, Qualcomm, AMD, BMW, Ferrari, Deutsche, Lufthansa and Ryanair",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/zacks-analyst-blog-highlights-apple-113700898.html?.tsrc=rss",
-      "description": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-03T11:37:00.000Z",
-      "fetchedAt": "2026-11-04T03:22:01.731Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Apple, Qualcomm and AMD headline a pivotal week for global markets as U.S. midterm elections, October jobs data and central bank decisions test investor sentiment on AI, inflation and economic growth.",
-      "id": "a20"
-    },
-    {
-      "title": "Disney’s patent battle woes; IAM Strategy 300 nominations open; WIPO’s Laura Peter on PCT modernisation; InterDigital, Dell enter arbitration; China’s trade secret push; plus much more",
-      "url": "https://www.iam-media.com/article/disneys-patent-battle-woes-iam-strategy-300-nominations-open-wipos-laura-peter-pct-modernisation-interdigital-dell-enter-arbitration-chinas-trade-secret-push-plus-much-more",
-      "description": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "source": "IAM",
-      "sourceId": "iam",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-01T11:30:00.000Z",
-      "fetchedAt": "2026-11-04T03:22:05.256Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "Get ready for the new working week with a summary of all the stories posted on the IAM platform over the past seven days",
-      "id": "a29"
     }
   ]
 }

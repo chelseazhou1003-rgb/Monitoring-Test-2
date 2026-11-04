@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-04T03:22:09.368Z",
+  "generatedAt": "2026-11-04T11:36:57.540Z",
   "date": "2026-11-04",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 5,
+      "articleCount": 4,
       "topHeadline": "Qualcomm Stocks Edge Lower With AI Memory Validation in Focus",
       "topHeadlineId": "a11",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 5 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (2 articles), Wireless Communication (1 article), Mobile Chips (1 article). A total of 4 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -25,10 +25,10 @@
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 24,
-      "topHeadline": "McDonald's and Qualcomm earnings, ADP labor data: What to Watch",
+      "articleCount": 18,
+      "topHeadline": "China Robot Funding Slows to $1.6 Billion as Shakeout Fears Grow",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (6 articles), Customers & Partners (1 article). A total of 24 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (12 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
+      "articleCount": 1,
       "topHeadline": "Qualcomm Is Down 10% in a Year. Its CFO Says “Things Can Only Go Up From Here”",
       "topHeadlineId": "a15",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), market-performance (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
+      "briefingSummary": "One article today covering Mobile Chips. Key TakeawaysQualcomm stock is down 10% over the past year, after a May rally on AI devices, cars and data centers unwound. Handset revenue fell 20% i"
     }
   },
-  "totalArticles": 32
+  "totalArticles": 23
 }
