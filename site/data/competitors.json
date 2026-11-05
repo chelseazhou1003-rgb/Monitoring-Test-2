@@ -1,11 +1,43 @@
 {
-  "generatedAt": "2026-11-05T07:26:35.989Z",
+  "generatedAt": "2026-11-05T15:49:22.899Z",
   "date": "2026-11-05",
   "section": "competitors",
   "sectionTitle": "Competitors",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+    "keyTakeaways": [
+      {
+        "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "articleIds": [
+          "a21"
+        ],
+        "subCategory": "wireless"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+      "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+      "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+      "source": "IP Fray",
+      "sourceId": "ip-fray",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-05T08:28:31.000Z",
+      "fetchedAt": "2026-11-05T15:49:21.008Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [
+        "apple",
+        "huawei"
+      ],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+      "id": "a21"
+    }
+  ]
 }

@@ -2,137 +2,247 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
+    "generatedAt": "2026-11-05T15:49:22.899Z",
     "date": "2026-11-05",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
-      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-      "keyTakeaways": []
-    },
-    "articles": []
-  },
-  "core-businesses": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
-    "date": "2026-11-05",
-    "section": "core-businesses",
-    "sectionTitle": "Core Businesses",
-    "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 10 articles were aggregated from monitored sources.",
+      "summary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
+          "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
           "articleIds": [
-            "a1"
-          ],
-          "subCategory": "semiconductors"
-        },
-        {
-          "text": "Wireless Communication: Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
-          "articleIds": [
-            "a9"
+            "a21"
           ],
           "subCategory": "wireless"
-        },
-        {
-          "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-          "articleIds": [
-            "a27"
-          ],
-          "subCategory": "mobile-chips"
         }
       ]
     },
     "articles": [
       {
-        "title": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal — Retail Sentiment Turns Bullish",
-        "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-says-non-handset-revenue-will-make-up-50-of-chip-sales-this-fiscal-retail-sentiment-turns-bullish/cNG1BpuR9ES?.tsrc=rss",
-        "description": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T07:12:43.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
-        "id": "a1"
-      },
-      {
-        "title": "SpaceX Just Picked Qualcomm for Its Own 5G Network. I Still See the Stock as a Hold.",
-        "url": "https://www.fool.com/investing/2026/11/04/spacex-just-picked-qualcomm-for-its-own-5g-network-i-still-see-the-stock-as-a-hold/?.tsrc=rss",
-        "description": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T05:01:01.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+        "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+        "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-05T08:28:31.000Z",
+        "fetchedAt": "2026-11-05T15:49:21.008Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
         "subLabel": "Wireless Communication",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
-        "id": "a9"
-      },
+        "competitors": [
+          "apple",
+          "huawei"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "id": "a21"
+      }
+    ]
+  },
+  "core-businesses": {
+    "generatedAt": "2026-11-05T15:49:22.899Z",
+    "date": "2026-11-05",
+    "section": "core-businesses",
+    "sectionTitle": "Core Businesses",
+    "briefing": {
+      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles), Wireless Communication (2 articles). A total of 12 articles were aggregated from monitored sources.",
+      "keyTakeaways": [
+        {
+          "text": "Mobile Chips: Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price ",
+          "articleIds": [
+            "a4"
+          ],
+          "subCategory": "mobile-chips"
+        },
+        {
+          "text": "Semiconductors: Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset ch",
+          "articleIds": [
+            "a7"
+          ],
+          "subCategory": "semiconductors"
+        },
+        {
+          "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "articleIds": [
+            "a21"
+          ],
+          "subCategory": "wireless"
+        }
+      ]
+    },
+    "articles": [
       {
-        "title": "Elon Musk’s Starlink Deal Has ‘Tremendous Potential,’ Qualcomm CEO Says — Eyes FY28 Cash-In, Calls It Just The ‘Beginning’",
-        "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-starlink-deal-tremendous-potential-qualcomm-ceo-fy28-cash-in/cNG1P4HR9EB?.tsrc=rss",
-        "description": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
+        "title": "SK hynix Sinks 9% as Qualcomm’s 26% Handset Plunge Deepens Memory Chip Rout",
+        "url": "https://www.tikr.com/blog/sk-hynix-sinks-9-as-qualcomms-26-handset-plunge-deepens-memory-chip-rout?ref=yahoofinance&tlnk=yf-261105-5324ff3r&.tsrc=rss",
+        "description": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T03:07:58.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "publishedAt": "2026-11-05T15:08:33.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
+        "id": "a4"
+      },
+      {
+        "title": "Qualcomm Handset Revenue Falls 26%",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-handset-revenue-falls-26-150110263.html?.tsrc=rss",
+        "description": "Quarterly handset revenue declined 26% to $5.14 billion.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T15:01:10.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Quarterly handset revenue declined 26% to $5.14 billion.",
+        "id": "a5"
+      },
+      {
+        "title": "Qualcomm Sinks 12% as Rising Chip Costs Overshadow Its “Non-Handset Revenue Inflection”",
+        "url": "https://www.tikr.com/blog/qualcomm-sinks-12-as-rising-chip-costs-overshadow-its-non-handset-revenue-inflection?ref=yahoofinance&tlnk=yf-261105-wccrvmrm&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T14:31:56.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
-        "id": "a16"
+        "summary": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
+        "id": "a7"
       },
       {
-        "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
-        "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-stock-falls-after.html?.tsrc=rss",
-        "description": "Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
+        "title": "QCOM Q4 Earnings Call Highlights Data Center Ramp and Handset Risks",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-q4-earnings-call-highlights-140000903.html?.tsrc=rss",
+        "description": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T22:27:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "publishedAt": "2026-11-05T14:00:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
+        "id": "a10"
+      },
+      {
+        "title": "Qualcomm Sinks 11% as Soft Profit Guidance and Handset Slump Overshadow Beat; Arm Holdings Drops 7%, Skyworks Slides 2%",
+        "url": "https://247wallst.com/investing/2026/11/05/qualcomm-sinks-11-as-soft-profit-guidance-and-handset-slump-overshadow-beat-arm-holdings-drops-7-skyworks-slides-2/?.tsrc=rss",
+        "description": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T13:43:59.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "mobile-chips",
+        "subLabel": "Mobile Chips",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
+        "id": "a13"
+      },
+      {
+        "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+        "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html?.tsrc=rss",
+        "description": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T13:31:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
-        "id": "a23"
+        "summary": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+        "id": "a15"
       },
       {
-        "title": "Qualcomm's Phone Chip Sales Drop 26%: Rapid Earnings Reaction",
-        "url": "https://www.fool.com/investing/2026/11/04/qualcomm-s-phone-chip-sales-drop-26-rapid-earnings-reaction/?.tsrc=rss",
-        "description": "Qualcomm's growth story is shifting from phones to cars and data centers. Here's what its latest quarter says about how that handoff is going.",
+        "title": "Qualcomm Stock Falls as Rising Chip Costs Outrun Price Hikes",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-falls-rising-chip-120332632.html?.tsrc=rss",
+        "description": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
         "source": "Yahoo Finance",
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T22:10:19.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "publishedAt": "2026-11-05T12:03:32.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
         "subLabel": "Semiconductors",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Qualcomm's growth story is shifting from phones to cars and data centers. Here's what its latest quarter says about how that handoff is going.",
-        "id": "a24"
+        "summary": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
+        "id": "a18"
+      },
+      {
+        "title": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum - Reuters",
+        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
+        "description": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
+        "source": "Reuters",
+        "sourceId": "reuters",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T10:16:18.000Z",
+        "fetchedAt": "2026-11-05T15:49:21.636Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Reuters",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
+        "id": "a19"
+      },
+      {
+        "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+        "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+        "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-05T08:28:31.000Z",
+        "fetchedAt": "2026-11-05T15:49:21.008Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [
+          "apple",
+          "huawei"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "id": "a21"
       },
       {
         "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
@@ -142,7 +252,7 @@ export const NEWS_DATA = {
         "sourceId": "wsj",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-04T21:34:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.836Z",
+        "fetchedAt": "2026-11-05T15:49:21.683Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "WSJ",
         "section": "core-businesses",
@@ -151,25 +261,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-        "id": "a27"
-      },
-      {
-        "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-        "description": "Qualcomm Inc. tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T21:01:36.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.220Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-        "id": "a28"
+        "id": "a25"
       },
       {
         "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -179,7 +271,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-04T14:48:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:33.604Z",
+        "fetchedAt": "2026-11-05T15:49:20.586Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -187,26 +279,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-        "id": "a32"
-      },
-      {
-        "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
-        "description": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T13:35:45.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.801Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "section": "core-businesses",
-        "subCategory": "wireless",
-        "subLabel": "Wireless Communication",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-        "id": "a35"
+        "id": "a28"
       },
       {
         "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -216,7 +289,7 @@ export const NEWS_DATA = {
         "sourceId": "light-reading",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-04T13:30:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.291Z",
+        "fetchedAt": "2026-11-05T15:49:21.054Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -224,70 +297,23 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-        "id": "a36"
+        "id": "a29"
       }
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
+    "generatedAt": "2026-11-05T15:49:22.899Z",
     "date": "2026-11-05",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
-      "keyTakeaways": [
-        {
-          "text": "Data Center: Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-          "articleIds": [
-            "a8"
-          ],
-          "subCategory": "data-center"
-        }
-      ]
+      "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+      "keyTakeaways": []
     },
-    "articles": [
-      {
-        "title": "Qualcomm Inc (QCOM) Q4 2026 Earnings Call Highlights: Record Automotive and Data Center Ramp ...",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-inc-qcom-q4-2026-051630325.html?.tsrc=rss",
-        "description": "Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T05:16:30.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-        "id": "a8"
-      },
-      {
-        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-        "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-04T22:42:15.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.484Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-        "id": "a21"
-      }
-    ]
+    "articles": []
   },
   "ip-legal": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
+    "generatedAt": "2026-11-05T15:49:22.899Z",
     "date": "2026-11-05",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
@@ -297,7 +323,7 @@ export const NEWS_DATA = {
         {
           "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
           "articleIds": [
-            "a20"
+            "a24"
           ],
           "subCategory": "frand-licensing"
         }
@@ -306,13 +332,13 @@ export const NEWS_DATA = {
     "articles": [
       {
         "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-        "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+        "url": "https://www.iam-media.com/index.php/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
         "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-04T23:12:13.000Z",
-        "fetchedAt": "2026-11-05T07:26:32.270Z",
+        "fetchedAt": "2026-11-05T15:49:19.328Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -322,85 +348,85 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-        "id": "a20"
+        "id": "a24"
       }
     ]
   },
   "latest": {
-    "generatedAt": "2026-11-05T07:26:35.991Z",
+    "generatedAt": "2026-11-05T15:49:22.903Z",
     "date": "2026-11-05",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 10,
-        "topHeadline": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal — Retail Sentiment Turns Bullish",
-        "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 10 articles were aggregated from monitored sources."
+        "articleCount": 12,
+        "topHeadline": "SK hynix Sinks 9% as Qualcomm’s 26% Handset Plunge Deepens Memory Chip Rout",
+        "topHeadlineId": "a4",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles), Wireless Communication (2 articles). A total of 12 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
         "articleCount": 1,
         "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-        "topHeadlineId": "a20",
+        "topHeadlineId": "a24",
         "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
       },
       "growth-areas": {
         "title": "Growth Areas",
-        "articleCount": 2,
-        "topHeadline": "Qualcomm Inc (QCOM) Q4 2026 Earnings Call Highlights: Record Automotive and Data Center Ramp ...",
-        "topHeadlineId": "a8",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
-      },
-      "macro-environment": {
-        "title": "Macro",
-        "articleCount": 30,
-        "topHeadline": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit - WSJ",
-        "topHeadlineId": "a2",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (8 articles), Customers & Partners (2 articles). A total of 30 articles were aggregated from monitored sources."
-      },
-      "competitors": {
-        "title": "Competitors",
         "articleCount": 0,
         "topHeadline": null,
         "topHeadlineId": null,
         "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
       },
+      "macro-environment": {
+        "title": "Macro",
+        "articleCount": 19,
+        "topHeadline": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+        "topHeadlineId": "a1",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (9 articles), Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 19 articles were aggregated from monitored sources."
+      },
+      "competitors": {
+        "title": "Competitors",
+        "articleCount": 1,
+        "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+        "topHeadlineId": "a21",
+        "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
+      },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 4,
-        "topHeadline": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
-        "topHeadlineId": "a13",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), FRAND & Licensing (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources."
+        "articleCount": 3,
+        "topHeadline": "The hidden supply chain costs of the AI boom",
+        "topHeadlineId": "a6",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Wireless Communication (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 47
+    "totalArticles": 36
   },
   "macro-environment": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
+    "generatedAt": "2026-11-05T15:49:22.899Z",
     "date": "2026-11-05",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (8 articles), Customers & Partners (2 articles). A total of 30 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans market-performance (9 articles), Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 19 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
+          "text": "market-performance: Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
           "articleIds": [
-            "a2"
-          ],
-          "subCategory": "geopolitics-export-controls"
-        },
-        {
-          "text": "market-performance: Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers",
-          "articleIds": [
-            "a11"
+            "a1"
           ],
           "subCategory": "market-performance"
         },
         {
-          "text": "Customers & Partners: Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the gl",
+          "text": "Geopolitics & Export Controls: Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom",
           "articleIds": [
-            "a13"
+            "a6"
+          ],
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
+          "articleIds": [
+            "a31"
           ],
           "subCategory": "customers-partners"
         }
@@ -408,24 +434,192 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
-        "title": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-        "description": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
-        "source": "Wall Street Journal",
-        "sourceId": "wsj",
+        "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+        "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+        "description": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T07:01:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.836Z",
+        "publishedAt": "2026-11-05T15:24:47.000Z",
+        "fetchedAt": "2026-11-05T15:49:16.989Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+        "id": "a1"
+      },
+      {
+        "title": "Qualcomm stock setup analysis after sharp post-earnings selloff: Is QCOM a buy?",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-setup-analysis-sharp-152203052.html?.tsrc=rss",
+        "description": "Investing.com -- Qualcomm’s selloff has a clear cause, and the chart hasn’t stabilized. The valuation case is real, but the evidence doesn’t yet show a bottom. \"Opportunity\" depends on your time horizon and risk tolerance. This is analysis, not a buy or sell call.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T15:22:03.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Investing.com -- Qualcomm’s selloff has a clear cause, and the chart hasn’t stabilized. The valuation case is real, but the evidence doesn’t yet show a bottom. \"Opportunity\" depends on your time horizon and risk tolerance. This is analysis, not a buy or sell call.",
+        "id": "a2"
+      },
+      {
+        "title": "Qualcomm Shares Fall Most in Six Months After Weak Profit Forecast",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-05/qualcomm-shares-fall-most-in-six-months-video",
+        "description": "Qualcomm shares slid 14% at the open of trading on Thursday after the company gave a lackluster profit forecast. If the decline holds through the close of trading it would be its worst day since 2020. Bloomberg's Ryan Vlastelica reports. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T15:15:50.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.237Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm shares slid 14% at the open of trading on Thursday after the company gave a lackluster profit forecast. If the decline holds through the close of trading it would be its worst day since 2020. Bloomberg's Ryan Vlastelica reports.",
+        "id": "a3"
+      },
+      {
+        "title": "The hidden supply chain costs of the AI boom",
+        "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+        "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage. Now, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout. Willy’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff. Okay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go. This interview has been lightly edited for length and clarity. Willy Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder. Well, thanks for having me back. I am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin. The Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory. Now, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. My favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second. It seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs. I’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics. Tell me about the state of the world and the state of our supply chains right now from your point of view. Well, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology. The book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff. So, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way. When we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening. We have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025. It all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there. If you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement. So what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that. That’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing. It is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that. One of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that. That is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome. When we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.” Eventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China. I think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever? That was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that. I remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well. So now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.” But on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem. It feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.” Fast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. The goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down? I think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada. So if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off. I think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem. I’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view. The first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade. It is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States. That has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working? No. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity. In fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world. I was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country. The US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up. There’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it. I want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well. I’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States. How do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system? I think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan. Those chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot. There’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that. If you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale? So the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly. There’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now. The flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how. Can you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind. I’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them. But the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market. Another thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions. The regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now. To your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy. I had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.” So there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well. The interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways. But the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment. There are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died. But to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important. Then the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government. So you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made. China had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.” I looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics. I would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.” Three weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs. It does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else. How would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up? We’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place. The problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?” Especially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.” Are you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”? It varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great. But the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant. Then what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.” So BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well. But then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful.. Do you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.” In the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible. That’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them. Yeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks. SUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion. Wait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better. You get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that. Although I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.” I’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel. Obviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach. I understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked. I don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs. Maybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones. What will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over. I think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted. We applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise. In the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year. Yeah, it’s all over. I’m just glad I stocked up on a previous Black Friday. If you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed. Yeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies. You may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers. The Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that. I know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed. But a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work. Politicians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead? Well, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available. The US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do? Let’s think about how we fix this problem with an understanding of that bigger picture. Willy, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder. Thanks for having me. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-11-05T15:00:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.706Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [
+          "oem",
+          "foundry"
+        ],
+        "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place.",
+        "id": "a6"
+      },
+      {
+        "title": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe - BigGo Finance",
+        "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMEpDYU51VXc5TWhBMldkTWlzMTU4cjRjV3lOc191SDJtSWVYTW1laWhYSFlHMDZRdHA4dTdZQXp3ZkY2WkVjRllQRnhaME1UUGFqVlpBUldiWENMbmNYcFRKMjhwcVhHV1gxX0E3MmMyd2t0OGc?oc=5",
+        "description": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T14:26:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:22.852Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "WSJ",
+        "googleNewsSource": "BigGo Finance",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
-        "id": "a2"
+        "summary": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+        "id": "a8"
+      },
+      {
+        "title": "Qualcomm stock drops on rising memory pricing, supply challenges",
+        "url": "https://finance.yahoo.com/video/qualcomm-stock-drops-on-rising-memory-pricing-supply-challenges-141021851.html?.tsrc=rss",
+        "description": "Both shares of Qualcomm (QCOM) and Arm Holdings (ARM) are sinking in Thursday's pre-market trading since each company reported its respective earnings results yesterday. Interactive Brokers Chief Strategist Steve Sosnick joins Pras Subramanian and Brooke DiPalma on The 8:30 to discuss memory chip pricing and supply challenges that Qualcomm is facing.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T14:10:21.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Both shares of Qualcomm (QCOM) and Arm Holdings (ARM) are sinking in Thursday's pre-market trading since each company reported its respective earnings results yesterday. Interactive Brokers Chief Strategist Steve Sosnick joins Pras Subramanian and Brooke DiPalma on The 8:30 to discuss memory chip pricing and supply challenges that Qualcomm is facing.",
+        "id": "a9"
+      },
+      {
+        "title": "Qualcomm beats earnings estimates but profit outlook falls short",
+        "url": "https://www.proactiveinvestors.com/companies/news/1101301/qualcomm-beats-earnings-estimates-but-profit-outlook-falls-short-1101301.html?.tsrc=rss",
+        "description": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) beat fiscal fourth-quarter earnings and revenue estimates, but the midpoint of its first-quarter adjusted profit forecast fell short of Wall Street expectations. Adjusted earnings were $2.17 a share, compared with analysts’ $2.16 estimate, while reported...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T13:53:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) beat fiscal fourth-quarter earnings and revenue estimates, but the midpoint of its first-quarter adjusted profit forecast fell short of Wall Street expectations. Adjusted earnings were $2.17 a share, compared with analysts’ $2.16 estimate, while reported...",
+        "id": "a11"
+      },
+      {
+        "title": "China blocks SoftBank, ABB robotics deal",
+        "url": "https://www.mobileworldlive.com/ai-cloud/china-blocks-softbank-abb-robotics-deal/",
+        "description": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+        "source": "Mobile World Live",
+        "sourceId": "mobile-world-live",
+        "sourceGroup": "telecom",
+        "publishedAt": "2026-11-05T13:48:41.000Z",
+        "fetchedAt": "2026-11-05T15:49:20.586Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+        "id": "a12"
+      },
+      {
+        "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+        "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+        "description": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T13:34:14.000Z",
+        "fetchedAt": "2026-11-05T15:49:16.989Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+        "id": "a14"
+      },
+      {
+        "title": "Premarket movers: Qualcomm, Snap slide premarket; Unity surges",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-qualcomm-snap-slide-131432799.html?.tsrc=rss",
+        "description": "Investing.com - U.S. stock index futures were mixed on Thursday, with Nasdaq contracts falling as semiconductor and data-center stocks remained under pressure, while S&P 500 futures were little changed following a rally in the previous session after Democrats secured a sweeping victory in the midterm elections.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-05T13:14:32.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.034Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "stock index futures were mixed on Thursday, with Nasdaq contracts falling as semiconductor and data-center stocks remained under pressure, while S&P 500 futures were little changed following a rally in the previous session after Democrats secured a sweeping victory in the midterm elections.",
+        "id": "a16"
       },
       {
         "title": "What the Democratic midterms sweep changes for U.S.-China relations",
@@ -434,8 +628,8 @@ export const NEWS_DATA = {
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T06:54:52.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.209Z",
+        "publishedAt": "2026-11-05T12:57:10.000Z",
+        "fetchedAt": "2026-11-05T15:49:16.989Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -444,198 +638,27 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-        "id": "a3"
+        "id": "a17"
       },
       {
-        "title": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing - WSJ",
-        "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQks5d0dlajJvcVBXTHV2OEhSamFnVy1IenpiYmdFTkRyZ1BqMFNHSUxtOUlkZU8xbFZlUjFUQXpYd3Z1VkFQOTJDbFZ4MUpsZk1iYnk1MEoySDdrcTRuNmJJRkRhZTJnS2JuRV9aXzR3dTJlbEQ2Uk8zaVpXcDhIeTNQbWJBUkFobmZsVl9tQlhTM2hoekpqZ2hwZGJmWWZ3RVZrek41bGJoejRkNHQ5WA?oc=5",
-        "description": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing WSJ",
-        "source": "Wall Street Journal",
-        "sourceId": "wsj",
+        "title": "Brussels bets on chip designers after Chips Act misses production target - Brussels Signal",
+        "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1paQm1fUnlhNUdUOUpSYzF0ZDl5RDdHWVYwXzNJWEZDeXJxSnlKaGZXNDFOWUprQUI1c0d4dzZlYU5Oa0U4LVltMzdKR1dXd3VCcmdVVnlQZEFfWkdzenhYR0d0Ulh6eXdZbnF6UWhmTnlobGdEa0c2THIzMnpwZFhibUpPMXdOby1Ea2FSclhaVHBMNDdyUVQtRWVDY3RLS19NOWJxOVBQZmM?oc=5",
+        "description": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T06:49:02.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.836Z",
+        "publishedAt": "2026-11-05T10:08:41.000Z",
+        "fetchedAt": "2026-11-05T15:49:22.852Z",
         "fetchStrategy": "google-news",
-        "googleNewsSource": "WSJ",
+        "googleNewsSource": "Brussels Signal",
         "geopoliticalBypass": true,
         "section": "macro-environment",
         "subCategory": "geopolitics-export-controls",
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing WSJ",
-        "id": "a4"
-      },
-      {
-        "title": "Valeo Looks to China as Role Model in Reshaping Auto-Parts Maker",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker",
-        "description": "Valeo SA Chief Executive Officer Christophe Perillat says he’s looking to China to streamline the century-old auto supplier, as it pursues new business areas beyond clients like Renault SA and General Motors Co.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T06:30:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.220Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Valeo SA Chief Executive Officer Christophe Perillat says he’s looking to China to streamline the century-old auto supplier, as it pursues new business areas beyond clients like Renault SA and General Motors Co.",
-        "id": "a5"
-      },
-      {
-        "title": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports - Reuters",
-        "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
-        "description": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports Reuters",
-        "source": "Reuters",
-        "sourceId": "reuters",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T06:24:03.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.801Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Reuters",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports Reuters",
-        "id": "a6"
-      },
-      {
-        "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
-        "url": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
-        "description": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T05:58:33.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.209Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-        "id": "a7"
-      },
-      {
-        "title": "Billionaire Mittal’s Satellite Ambition Pitches OneWeb Against Musk’s Starlink",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink",
-        "description": "Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for critical communication infrastructure.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T05:01:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.220Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for critical communication infrastructure.",
-        "id": "a10"
-      },
-      {
-        "title": "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
-        "url": "https://finance.yahoo.com/technology/articles/asian-chip-stocks-slide-disappointing-045137047.html?.tsrc=rss",
-        "description": "Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers Qualcomm and Arm amid growing concerns over returns on artificial intelligence investments.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T04:51:37.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers Qualcomm and Arm amid growing concerns over returns on artificial intelligence investments.",
-        "id": "a11"
-      },
-      {
-        "title": "Asia stocks mixed as chip rout triggers KOSPI trading halt; China outperforms",
-        "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-chip-rout-042442281.html?.tsrc=rss",
-        "description": "Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S. midterm elections.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T04:24:42.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S.",
-        "id": "a12"
-      },
-      {
-        "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
-        "url": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
-        "description": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T04:15:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-        "id": "a13"
-      },
-      {
-        "title": "Qualcomm Q4 Earnings Call Highlights",
-        "url": "https://www.marketbeat.com/instant-alerts/transcript-qualcomm-q4-earnings-call-highlights-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-        "description": "Qualcomm (NASDAQ:QCOM) reported fiscal fourth-quarter revenue at the high end of its guidance and projected a sharp increase in non-handset business in fiscal 2027, as data center shipments begin to ramp and automotive demand grows. The chipmaker reported non-GAAP revenue of $10.4 billion and non-G",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T04:14:22.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (NASDAQ:QCOM) reported fiscal fourth-quarter revenue at the high end of its guidance and projected a sharp increase in non-handset business in fiscal 2027, as data center shipments begin to ramp and automotive demand grows. The chipmaker reported non-GAAP revenue of $10.4 billion and non-G",
-        "id": "a14"
-      },
-      {
-        "title": "China Blocks SoftBank’s $5.4 Billion ABB Robot Unit Takeover",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
-        "description": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T03:15:01.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.220Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
-        "id": "a15"
+        "summary": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+        "id": "a20"
       },
       {
         "title": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
@@ -645,7 +668,7 @@ export const NEWS_DATA = {
         "sourceId": "reuters",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-04T23:40:12.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.801Z",
+        "fetchedAt": "2026-11-05T15:49:21.636Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Reuters",
         "section": "macro-environment",
@@ -654,7 +677,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
-        "id": "a17"
+        "id": "a22"
       },
       {
         "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -664,7 +687,7 @@ export const NEWS_DATA = {
         "sourceId": "cnbc",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-04T23:38:11.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.209Z",
+        "fetchedAt": "2026-11-05T15:49:16.989Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
@@ -672,121 +695,25 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
-        "id": "a18"
+        "id": "a23"
       },
       {
-        "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
-        "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-surge-ahead-after-democratic-sweep/cNGLApkR9ET?.tsrc=rss",
-        "description": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
+        "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
+        "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
+        "description": "Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T23:32:33.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "publishedAt": "2026-11-04T21:01:36.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.237Z",
         "fetchStrategy": "rss",
         "section": "macro-environment",
         "subCategory": "market-performance",
         "subLabel": "market-performance",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
-        "id": "a19"
-      },
-      {
-        "title": "Qualcomm (NASDAQ:QCOM) surprises with Q3 sales but stock drops",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-nasdaq-qcom-surprises-q3-223127514.html?.tsrc=rss",
-        "description": "Wireless chipmaker Qualcomm (NASDAQ:QCOM) reported revenue ahead of Wall Street’s expectations in calendar Q3 2026 (fiscal Q4 2026), but revenue fell by 8.4% year on year to $10.32 billion. Revenue guidance for next quarter was $10.8 billion at the midpoint, 2.6% above analysts’ consensus estimates. Its non-GAAP profit of $2.17 per share was in line with analysts’ consensus estimates.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T22:31:27.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Wireless chipmaker Qualcomm (NASDAQ:QCOM) reported revenue ahead of Wall Street’s expectations in calendar Q3 2026 (fiscal Q4 2026), but revenue fell by 8.4% year on year to $10.32 billion. Revenue guidance for next quarter was $10.8 billion at the midpoint, 2.6% above analysts’ consensus estimates. Its non-GAAP profit of $2.17 per share was in line with analysts’ consensus estimates.",
-        "id": "a22"
-      },
-      {
-        "title": "What Republicans' huge loss means for Trump",
-        "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-        "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-        "source": "CNBC",
-        "sourceId": "cnbc",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T21:50:05.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.209Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-        "id": "a25"
-      },
-      {
-        "title": "Qualcomm falls 3% as handset revenue misses estimates, costs rise",
-        "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-falls-3-handset-revenue-213919982.html?.tsrc=rss",
-        "description": "Investing.com -- Qualcomm Inc. (NASDAQ: QCOM) shares fell 3% after the chipmaker reported weaker-than-expected handset revenue and warned of rising semiconductor input costs, overshadowing quarterly earnings that topped analyst estimates.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T21:39:19.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
-        "fetchStrategy": "rss",
-        "section": "macro-environment",
-        "subCategory": "market-performance",
-        "subLabel": "market-performance",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Investing.com -- Qualcomm Inc. (NASDAQ: QCOM) shares fell 3% after the chipmaker reported weaker-than-expected handset revenue and warned of rising semiconductor input costs, overshadowing quarterly earnings that topped analyst estimates.",
+        "summary": "shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
         "id": "a26"
-      },
-      {
-        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-        "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-        "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-        "source": "TechCrunch",
-        "sourceId": "techcrunch",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-04T19:29:52.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.124Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-        "id": "a29"
-      },
-      {
-        "title": "SK Hynix’s New York chip plans hit snag over US restrictions on China - www.daily-sun.com",
-        "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UbWhFU1RqZE5HOFhPWEdxM0M4ZW1BaVJVVFVwX0xLQWJsMm5DMzFoMW5LZjJNODlDV1ZVQ2xobFBZWWpwSURfRmlWRVk3dWRSeGhNaGxDQUo3NkxHaFNvMllubW1zbzRr?oc=5",
-        "description": "SK Hynix’s New York chip plans hit snag over US restrictions on China www.daily-sun.com",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T18:00:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:35.934Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "www.daily-sun.com",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "SK Hynix’s New York chip plans hit snag over US restrictions on China www.daily-sun.com",
-        "id": "a30"
       },
       {
         "title": "China's Gray Market HBM3E Trades at About $4,000 Per Unit as a US Rule Loophole Persists - XenoSpectrum",
@@ -796,7 +723,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-04T17:58:58.000Z",
-        "fetchedAt": "2026-11-05T07:26:35.934Z",
+        "fetchedAt": "2026-11-05T15:49:22.852Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "XenoSpectrum",
         "geopoliticalBypass": true,
@@ -806,46 +733,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "China's Gray Market HBM3E Trades at About $4,000 Per Unit as a US Rule Loophole Persists XenoSpectrum",
-        "id": "a31"
-      },
-      {
-        "title": "Bitcoin: Dragosch Holds Bullish View on Decoupling - Blockchain News",
-        "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzJhUy1CbkhTUnhwNWd1Z0RXWFN5OU1Lam9lOF85RlVGRUNVd3JwMWxRZHZHTUt0M0EzNExMUkVianUtcFNNNHIydUFtanRJWHdsdWlRTXFScUVvV1lGVnBqaU4tMm5vb3Q0TnFnY2RqaVNFSGNhZXVrRFlEMmltNVUzdkdQU3c?oc=5",
-        "description": "Bitcoin: Dragosch Holds Bullish View on Decoupling Blockchain News",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T14:18:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:35.934Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Blockchain News",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Bitcoin: Dragosch Holds Bullish View on Decoupling Blockchain News",
-        "id": "a33"
-      },
-      {
-        "title": "Nigeria-Focused OPay Said to Halt US IPO After China Inquiry",
-        "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
-        "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
-        "source": "Bloomberg",
-        "sourceId": "bloomberg",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T14:07:27.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.220Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
-        "id": "a34"
+        "id": "a27"
       },
       {
         "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
@@ -855,7 +743,7 @@ export const NEWS_DATA = {
         "sourceId": "ip-fray",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-04T12:00:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:33.974Z",
+        "fetchedAt": "2026-11-05T15:49:21.008Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -864,47 +752,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
-        "id": "a37"
-      },
-      {
-        "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - ET Enterprise AI",
-        "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZmtYUm9hVm9NeUMwckdvSXVGRmtaUncydEQtSjN3bjlZSTNBMGg3SEx2TjRmdzdNSHItcnpERmduWnBYQmtYZUtSbER1QWtGVy04ZVlCbV9ITnVqS3VSVkZiRUVjY01vMVhmUEw2ZkRoX2c5a01rN19naG5ILUoza3RFMzZHakZJc3pzY2VDbktTOHBSTFJzZExWQzNTYXRTbDZpSEgxT2xCTFJMNE50TjBEZWRnOU14Z2Q5c002UFNmZ3NZdlBydmpjNzI1V0ZTMjdfMWxnckdmWjNybkZ4ZzlXa3QyNDluVWNTMGVnd1cxZU1DclV5T3M0ZVlRUWxwSVVPdUdVX2RQTlZVY29sT3JpWkhKaUhhZENWMXZCNA?oc=5",
-        "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say ET Enterprise AI",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T10:29:04.000Z",
-        "fetchedAt": "2026-11-05T07:26:35.934Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "ET Enterprise AI",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say ET Enterprise AI",
-        "id": "a38"
-      },
-      {
-        "title": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ - South China Morning Post",
-        "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcmFGSXhJbzVFbHQ4MjUtNXUwYWFHTUxpbER3RnRaSTZQMTRNcmNUdXNIMzZoTGdULUQ2U1FRcUZadjMweEdid2RWZExQMVJCVVIxbXdiLTZZbWJ3VEwyUFRrdDBQUzkxWm03UGd0Y2ZRUzVRcnkxY2Y4RHVkZ2E3aEZaNHF2eDV3OGN4WlJGSFZwTnNjNlRlQ3dVWlZmX2FQVWJiNXF0NnE2djl3MHVOWkpGMVJJUjlpLUlzMzZEYXFNZnhlMDlFNkxxUmhnYzJtNG1R?oc=5",
-        "description": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ South China Morning Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-04T08:30:15.000Z",
-        "fetchedAt": "2026-11-05T07:26:35.934Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "South China Morning Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ South China Morning Post",
-        "id": "a39"
+        "id": "a30"
       },
       {
         "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
@@ -914,7 +762,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-digest",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-03T19:32:48.000Z",
-        "fetchedAt": "2026-11-05T07:26:33.417Z",
+        "fetchedAt": "2026-11-05T15:49:20.381Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -923,7 +771,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-        "id": "a40"
+        "id": "a31"
       },
       {
         "title": "Russia, China likely to ramp up UK cyberattacks",
@@ -933,7 +781,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-03T15:20:45.000Z",
-        "fetchedAt": "2026-11-05T07:26:33.604Z",
+        "fetchedAt": "2026-11-05T15:49:20.586Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -942,45 +790,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
-        "id": "a41"
-      },
-      {
-        "title": "HKT pulls out of US under FCC pressure – report",
-        "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
-        "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "source": "Light Reading",
-        "sourceId": "light-reading",
-        "sourceGroup": "telecom",
-        "publishedAt": "2026-11-02T15:09:26.000Z",
-        "fetchedAt": "2026-11-05T07:26:34.291Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-        "id": "a42"
-      },
-      {
-        "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
-        "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
-        "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
-        "source": "Patently-O",
-        "sourceId": "patently-o",
-        "sourceGroup": "ip",
-        "publishedAt": "2026-11-02T12:30:26.000Z",
-        "fetchedAt": "2026-11-05T07:26:33.613Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-        "id": "a43"
+        "id": "a32"
       }
     ]
   },
@@ -1176,73 +986,91 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-05T07:26:35.989Z",
+    "generatedAt": "2026-11-05T15:49:22.899Z",
     "date": "2026-11-05",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), FRAND & Licensing (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Wireless Communication (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Customers & Partners: Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the gl",
+          "text": "Geopolitics & Export Controls: Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom",
           "articleIds": [
-            "a13"
+            "a6"
           ],
-          "subCategory": "customers-partners"
+          "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "articleIds": [
+            "a21"
+          ],
+          "subCategory": "wireless"
         },
         {
           "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
           "articleIds": [
-            "a20"
+            "a24"
           ],
           "subCategory": "frand-licensing"
-        },
-        {
-          "text": "Data Center: With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans",
-          "articleIds": [
-            "a21"
-          ],
-          "subCategory": "data-center"
-        },
-        {
-          "text": "Geopolitics & Export Controls: DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-          "articleIds": [
-            "a29"
-          ],
-          "subCategory": "geopolitics-export-controls"
         }
       ]
     },
     "articles": [
       {
-        "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
-        "url": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
-        "description": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-05T04:15:00.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.157Z",
+        "title": "The hidden supply chain costs of the AI boom",
+        "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+        "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage. Now, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout. Willy’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff. Okay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go. This interview has been lightly edited for length and clarity. Willy Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder. Well, thanks for having me back. I am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin. The Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory. Now, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. My favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second. It seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs. I’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics. Tell me about the state of the world and the state of our supply chains right now from your point of view. Well, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology. The book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff. So, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way. When we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening. We have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025. It all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there. If you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement. So what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that. That’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing. It is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that. One of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that. That is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome. When we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.” Eventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China. I think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever? That was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that. I remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well. So now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.” But on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem. It feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.” Fast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. The goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down? I think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada. So if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off. I think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem. I’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view. The first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade. It is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States. That has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working? No. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity. In fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world. I was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country. The US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up. There’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it. I want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well. I’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States. How do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system? I think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan. Those chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot. There’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that. If you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale? So the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly. There’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now. The flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how. Can you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind. I’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them. But the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market. Another thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions. The regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now. To your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy. I had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.” So there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well. The interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways. But the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment. There are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died. But to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important. Then the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government. So you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made. China had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.” I looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics. I would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.” Three weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs. It does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else. How would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up? We’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place. The problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?” Especially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.” Are you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”? It varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great. But the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant. Then what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.” So BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well. But then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful.. Do you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.” In the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible. That’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them. Yeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks. SUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion. Wait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better. You get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that. Although I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.” I’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel. Obviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach. I understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked. I don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs. Maybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones. What will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over. I think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted. We applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise. In the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year. Yeah, it’s all over. I’m just glad I stocked up on a previous Black Friday. If you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed. Yeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies. You may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers. The Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that. I know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed. But a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work. Politicians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead? Well, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available. The US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do? Let’s think about how we fix this problem with an understanding of that bigger picture. Willy, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder. Thanks for having me. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+        "source": "The Verge",
+        "sourceId": "the-verge",
+        "sourceGroup": "tech",
+        "publishedAt": "2026-11-05T15:00:00.000Z",
+        "fetchedAt": "2026-11-05T15:49:17.706Z",
         "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
         "section": "macro-environment",
-        "subCategory": "customers-partners",
-        "subLabel": "Customers & Partners",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [
-          "platform-partner"
+          "oem",
+          "foundry"
         ],
-        "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-        "id": "a13"
+        "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place.",
+        "id": "a6"
+      },
+      {
+        "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+        "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+        "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "source": "IP Fray",
+        "sourceId": "ip-fray",
+        "sourceGroup": "ip",
+        "publishedAt": "2026-11-05T08:28:31.000Z",
+        "fetchedAt": "2026-11-05T15:49:21.008Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "wireless",
+        "subLabel": "Wireless Communication",
+        "competitors": [
+          "apple",
+          "huawei"
+        ],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "id": "a21"
       },
       {
         "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-        "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+        "url": "https://www.iam-media.com/index.php/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
         "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "source": "IAM",
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-04T23:12:13.000Z",
-        "fetchedAt": "2026-11-05T07:26:32.270Z",
+        "fetchedAt": "2026-11-05T15:49:19.328Z",
         "fetchStrategy": "rss",
         "section": "ip-legal",
         "subCategory": "frand-licensing",
@@ -1252,48 +1080,7 @@ export const NEWS_DATA = {
           "oem"
         ],
         "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-        "id": "a20"
-      },
-      {
-        "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-        "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-        "source": "The Verge",
-        "sourceId": "the-verge",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-04T22:42:15.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.484Z",
-        "fetchStrategy": "rss",
-        "section": "growth-areas",
-        "subCategory": "data-center",
-        "subLabel": "Data Center",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-        "id": "a21"
-      },
-      {
-        "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-        "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-        "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-        "source": "TechCrunch",
-        "sourceId": "techcrunch",
-        "sourceGroup": "tech",
-        "publishedAt": "2026-11-04T19:29:52.000Z",
-        "fetchedAt": "2026-11-05T07:26:30.124Z",
-        "fetchStrategy": "rss",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [
-          "platform-partner"
-        ],
-        "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-        "id": "a29"
+        "id": "a24"
       }
     ]
   },
@@ -21757,130 +21544,208 @@ export const NEWS_DATA = {
     "totalArticles": 23
   },
   "archive-2026-11-05": {
-    "generatedAt": "2026-11-05T07:26:35.992Z",
+    "generatedAt": "2026-11-05T15:49:22.903Z",
     "date": "2026-11-05",
     "sections": {
       "core-businesses": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
+        "generatedAt": "2026-11-05T15:49:22.899Z",
         "date": "2026-11-05",
         "section": "core-businesses",
         "sectionTitle": "Core Businesses",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 10 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles), Wireless Communication (2 articles). A total of 12 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Semiconductors: Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
+              "text": "Mobile Chips: Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price ",
               "articleIds": [
-                "a1"
+                "a4"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Semiconductors: Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset ch",
+              "articleIds": [
+                "a7"
               ],
               "subCategory": "semiconductors"
             },
             {
-              "text": "Wireless Communication: Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
+              "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
               "articleIds": [
-                "a9"
+                "a21"
               ],
               "subCategory": "wireless"
-            },
-            {
-              "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-              "articleIds": [
-                "a27"
-              ],
-              "subCategory": "mobile-chips"
             }
           ]
         },
         "articles": [
           {
-            "title": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal — Retail Sentiment Turns Bullish",
-            "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-says-non-handset-revenue-will-make-up-50-of-chip-sales-this-fiscal-retail-sentiment-turns-bullish/cNG1BpuR9ES?.tsrc=rss",
-            "description": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
+            "title": "SK hynix Sinks 9% as Qualcomm’s 26% Handset Plunge Deepens Memory Chip Rout",
+            "url": "https://www.tikr.com/blog/sk-hynix-sinks-9-as-qualcomms-26-handset-plunge-deepens-memory-chip-rout?ref=yahoofinance&tlnk=yf-261105-5324ff3r&.tsrc=rss",
+            "description": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T07:12:43.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
+            "publishedAt": "2026-11-05T15:08:33.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
+            "id": "a4"
+          },
+          {
+            "title": "Qualcomm Handset Revenue Falls 26%",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-handset-revenue-falls-26-150110263.html?.tsrc=rss",
+            "description": "Quarterly handset revenue declined 26% to $5.14 billion.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T15:01:10.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Quarterly handset revenue declined 26% to $5.14 billion.",
+            "id": "a5"
+          },
+          {
+            "title": "Qualcomm Sinks 12% as Rising Chip Costs Overshadow Its “Non-Handset Revenue Inflection”",
+            "url": "https://www.tikr.com/blog/qualcomm-sinks-12-as-rising-chip-costs-overshadow-its-non-handset-revenue-inflection?ref=yahoofinance&tlnk=yf-261105-wccrvmrm&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T14:31:56.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "semiconductors",
             "subLabel": "Semiconductors",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
-            "id": "a1"
+            "summary": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
+            "id": "a7"
           },
           {
-            "title": "SpaceX Just Picked Qualcomm for Its Own 5G Network. I Still See the Stock as a Hold.",
-            "url": "https://www.fool.com/investing/2026/11/04/spacex-just-picked-qualcomm-for-its-own-5g-network-i-still-see-the-stock-as-a-hold/?.tsrc=rss",
-            "description": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
+            "title": "QCOM Q4 Earnings Call Highlights Data Center Ramp and Handset Risks",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-q4-earnings-call-highlights-140000903.html?.tsrc=rss",
+            "description": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
             "source": "Yahoo Finance",
             "sourceId": "yahoo-finance",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T05:01:01.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
+            "publishedAt": "2026-11-05T14:00:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
+            "id": "a10"
+          },
+          {
+            "title": "Qualcomm Sinks 11% as Soft Profit Guidance and Handset Slump Overshadow Beat; Arm Holdings Drops 7%, Skyworks Slides 2%",
+            "url": "https://247wallst.com/investing/2026/11/05/qualcomm-sinks-11-as-soft-profit-guidance-and-handset-slump-overshadow-beat-arm-holdings-drops-7-skyworks-slides-2/?.tsrc=rss",
+            "description": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T13:43:59.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
+            "id": "a13"
+          },
+          {
+            "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
+            "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html?.tsrc=rss",
+            "description": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T13:31:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
+            "id": "a15"
+          },
+          {
+            "title": "Qualcomm Stock Falls as Rising Chip Costs Outrun Price Hikes",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-falls-rising-chip-120332632.html?.tsrc=rss",
+            "description": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T12:03:32.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
+            "id": "a18"
+          },
+          {
+            "title": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum - Reuters",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
+            "description": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
+            "source": "Reuters",
+            "sourceId": "reuters",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T10:16:18.000Z",
+            "fetchedAt": "2026-11-05T15:49:21.636Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Reuters",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
+            "id": "a19"
+          },
+          {
+            "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+            "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+            "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-05T08:28:31.000Z",
+            "fetchedAt": "2026-11-05T15:49:21.008Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
             "subLabel": "Wireless Communication",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
-            "id": "a9"
-          },
-          {
-            "title": "Elon Musk’s Starlink Deal Has ‘Tremendous Potential,’ Qualcomm CEO Says — Eyes FY28 Cash-In, Calls It Just The ‘Beginning’",
-            "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-starlink-deal-tremendous-potential-qualcomm-ceo-fy28-cash-in/cNG1P4HR9EB?.tsrc=rss",
-            "description": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T03:07:58.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
-            "id": "a16"
-          },
-          {
-            "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
-            "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-stock-falls-after.html?.tsrc=rss",
-            "description": "Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T22:27:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
-            "id": "a23"
-          },
-          {
-            "title": "Qualcomm's Phone Chip Sales Drop 26%: Rapid Earnings Reaction",
-            "url": "https://www.fool.com/investing/2026/11/04/qualcomm-s-phone-chip-sales-drop-26-rapid-earnings-reaction/?.tsrc=rss",
-            "description": "Qualcomm's growth story is shifting from phones to cars and data centers. Here's what its latest quarter says about how that handoff is going.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T22:10:19.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm's growth story is shifting from phones to cars and data centers. Here's what its latest quarter says about how that handoff is going.",
-            "id": "a24"
+            "competitors": [
+              "apple",
+              "huawei"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "id": "a21"
           },
           {
             "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
@@ -21890,7 +21755,7 @@ export const NEWS_DATA = {
             "sourceId": "wsj",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-04T21:34:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.836Z",
+            "fetchedAt": "2026-11-05T15:49:21.683Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "WSJ",
             "section": "core-businesses",
@@ -21899,25 +21764,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-            "id": "a27"
-          },
-          {
-            "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-            "description": "Qualcomm Inc. tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T21:01:36.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.220Z",
-            "fetchStrategy": "rss",
-            "section": "core-businesses",
-            "subCategory": "semiconductors",
-            "subLabel": "Semiconductors",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-            "id": "a28"
+            "id": "a25"
           },
           {
             "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -21927,7 +21774,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-04T14:48:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:33.604Z",
+            "fetchedAt": "2026-11-05T15:49:20.586Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "mobile-chips",
@@ -21935,26 +21782,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-            "id": "a32"
-          },
-          {
-            "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPVWZCaVBsMkw1X24ydGtHeEN2cVhCZ09DcV9TTG9pQkJYMXlhUDZLOElIS21YbEdyeDdxM2RRY2dCazN1MXRFdUNNeEtHck05SFNUd2lpVkw4N1FiakdlTk1kWDFpZ08ycjlSajV0V29sdkJsZEVDbTZOc21ON2t2dkxtbDRDRmx0OFVIdWMyWXo3RUd0ckswYkRyV3RnekU5bmJyNXlvelR6VTRVeElGM2U2Wll4azlpbmNvbURfWDhDX29CMnRkN3ZWaHF6S3VHTTdPOQ?oc=5",
-            "description": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T13:35:45.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.801Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "section": "core-businesses",
-            "subCategory": "wireless",
-            "subLabel": "Wireless Communication",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-            "id": "a35"
+            "id": "a28"
           },
           {
             "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -21964,7 +21792,7 @@ export const NEWS_DATA = {
             "sourceId": "light-reading",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-04T13:30:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.291Z",
+            "fetchedAt": "2026-11-05T15:49:21.054Z",
             "fetchStrategy": "rss",
             "section": "core-businesses",
             "subCategory": "wireless",
@@ -21972,12 +21800,12 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-            "id": "a36"
+            "id": "a29"
           }
         ]
       },
       "ip-legal": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
+        "generatedAt": "2026-11-05T15:49:22.899Z",
         "date": "2026-11-05",
         "section": "ip-legal",
         "sectionTitle": "IP & Legal",
@@ -21987,7 +21815,7 @@ export const NEWS_DATA = {
             {
               "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
               "articleIds": [
-                "a20"
+                "a24"
               ],
               "subCategory": "frand-licensing"
             }
@@ -21996,13 +21824,13 @@ export const NEWS_DATA = {
         "articles": [
           {
             "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-            "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+            "url": "https://www.iam-media.com/index.php/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
             "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-04T23:12:13.000Z",
-            "fetchedAt": "2026-11-05T07:26:32.270Z",
+            "fetchedAt": "2026-11-05T15:49:19.328Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22012,94 +21840,47 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-            "id": "a20"
+            "id": "a24"
           }
         ]
       },
       "growth-areas": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
+        "generatedAt": "2026-11-05T15:49:22.899Z",
         "date": "2026-11-05",
         "section": "growth-areas",
         "sectionTitle": "Growth Areas",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
-          "keyTakeaways": [
-            {
-              "text": "Data Center: Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-              "articleIds": [
-                "a8"
-              ],
-              "subCategory": "data-center"
-            }
-          ]
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
         },
-        "articles": [
-          {
-            "title": "Qualcomm Inc (QCOM) Q4 2026 Earnings Call Highlights: Record Automotive and Data Center Ramp ...",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-inc-qcom-q4-2026-051630325.html?.tsrc=rss",
-            "description": "Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T05:16:30.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "data-center",
-            "subLabel": "Data Center",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm Inc (QCOM) posted $10.4 billion in quarterly revenue and $2.17 EPS while automotive hit a $2 billion quarter and data center targets point to a $15 billion opportunity by fiscal 2029.",
-            "id": "a8"
-          },
-          {
-            "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-            "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-04T22:42:15.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.484Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "data-center",
-            "subLabel": "Data Center",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-            "id": "a21"
-          }
-        ]
+        "articles": []
       },
       "macro-environment": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
+        "generatedAt": "2026-11-05T15:49:22.899Z",
         "date": "2026-11-05",
         "section": "macro-environment",
         "sectionTitle": "Macro",
         "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (8 articles), Customers & Partners (2 articles). A total of 30 articles were aggregated from monitored sources.",
+          "summary": "Today's Qualcomm coverage in this section spans market-performance (9 articles), Geopolitics & Export Controls (9 articles), Customers & Partners (1 article). A total of 19 articles were aggregated from monitored sources.",
           "keyTakeaways": [
             {
-              "text": "Geopolitics & Export Controls: ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
+              "text": "market-performance: Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
               "articleIds": [
-                "a2"
-              ],
-              "subCategory": "geopolitics-export-controls"
-            },
-            {
-              "text": "market-performance: Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers",
-              "articleIds": [
-                "a11"
+                "a1"
               ],
               "subCategory": "market-performance"
             },
             {
-              "text": "Customers & Partners: Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the gl",
+              "text": "Geopolitics & Export Controls: Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom",
               "articleIds": [
-                "a13"
+                "a6"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
+              "articleIds": [
+                "a31"
               ],
               "subCategory": "customers-partners"
             }
@@ -22107,24 +21888,192 @@ export const NEWS_DATA = {
         },
         "articles": [
           {
-            "title": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit - WSJ",
-            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-            "description": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
-            "source": "Wall Street Journal",
-            "sourceId": "wsj",
+            "title": "Qualcomm slides 9% after earnings, leading postelection chip stock sell-off",
+            "url": "https://www.cnbc.com/2026/11/05/qualcomm-earnings-chip-stocks-election.html",
+            "description": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T07:01:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.836Z",
+            "publishedAt": "2026-11-05T15:24:47.000Z",
+            "fetchedAt": "2026-11-05T15:49:16.989Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm slid Thursday morning after its Q4 earnings report as chip stocks face continued post-election pressure.",
+            "id": "a1"
+          },
+          {
+            "title": "Qualcomm stock setup analysis after sharp post-earnings selloff: Is QCOM a buy?",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-setup-analysis-sharp-152203052.html?.tsrc=rss",
+            "description": "Investing.com -- Qualcomm’s selloff has a clear cause, and the chart hasn’t stabilized. The valuation case is real, but the evidence doesn’t yet show a bottom. \"Opportunity\" depends on your time horizon and risk tolerance. This is analysis, not a buy or sell call.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T15:22:03.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Investing.com -- Qualcomm’s selloff has a clear cause, and the chart hasn’t stabilized. The valuation case is real, but the evidence doesn’t yet show a bottom. \"Opportunity\" depends on your time horizon and risk tolerance. This is analysis, not a buy or sell call.",
+            "id": "a2"
+          },
+          {
+            "title": "Qualcomm Shares Fall Most in Six Months After Weak Profit Forecast",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-05/qualcomm-shares-fall-most-in-six-months-video",
+            "description": "Qualcomm shares slid 14% at the open of trading on Thursday after the company gave a lackluster profit forecast. If the decline holds through the close of trading it would be its worst day since 2020. Bloomberg's Ryan Vlastelica reports. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T15:15:50.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.237Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm shares slid 14% at the open of trading on Thursday after the company gave a lackluster profit forecast. If the decline holds through the close of trading it would be its worst day since 2020. Bloomberg's Ryan Vlastelica reports.",
+            "id": "a3"
+          },
+          {
+            "title": "The hidden supply chain costs of the AI boom",
+            "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+            "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage. Now, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout. Willy’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff. Okay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go. This interview has been lightly edited for length and clarity. Willy Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder. Well, thanks for having me back. I am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin. The Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory. Now, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. My favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second. It seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs. I’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics. Tell me about the state of the world and the state of our supply chains right now from your point of view. Well, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology. The book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff. So, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way. When we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening. We have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025. It all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there. If you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement. So what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that. That’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing. It is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that. One of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that. That is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome. When we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.” Eventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China. I think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever? That was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that. I remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well. So now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.” But on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem. It feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.” Fast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. The goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down? I think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada. So if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off. I think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem. I’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view. The first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade. It is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States. That has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working? No. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity. In fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world. I was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country. The US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up. There’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it. I want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well. I’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States. How do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system? I think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan. Those chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot. There’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that. If you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale? So the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly. There’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now. The flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how. Can you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind. I’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them. But the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market. Another thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions. The regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now. To your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy. I had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.” So there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well. The interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways. But the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment. There are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died. But to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important. Then the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government. So you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made. China had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.” I looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics. I would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.” Three weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs. It does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else. How would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up? We’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place. The problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?” Especially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.” Are you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”? It varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great. But the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant. Then what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.” So BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well. But then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful.. Do you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.” In the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible. That’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them. Yeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks. SUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion. Wait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better. You get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that. Although I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.” I’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel. Obviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach. I understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked. I don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs. Maybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones. What will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over. I think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted. We applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise. In the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year. Yeah, it’s all over. I’m just glad I stocked up on a previous Black Friday. If you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed. Yeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies. You may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers. The Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that. I know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed. But a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work. Politicians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead? Well, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available. The US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do? Let’s think about how we fix this problem with an understanding of that bigger picture. Willy, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder. Thanks for having me. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-05T15:00:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.706Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [
+              "oem",
+              "foundry"
+            ],
+            "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place.",
+            "id": "a6"
+          },
+          {
+            "title": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMEpDYU51VXc5TWhBMldkTWlzMTU4cjRjV3lOc191SDJtSWVYTW1laWhYSFlHMDZRdHA4dTdZQXp3ZkY2WkVjRllQRnhaME1UUGFqVlpBUldiWENMbmNYcFRKMjhwcVhHV1gxX0E3MmMyd2t0OGc?oc=5",
+            "description": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T14:26:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:22.852Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "WSJ",
+            "googleNewsSource": "BigGo Finance",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit WSJ",
-            "id": "a2"
+            "summary": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+            "id": "a8"
+          },
+          {
+            "title": "Qualcomm stock drops on rising memory pricing, supply challenges",
+            "url": "https://finance.yahoo.com/video/qualcomm-stock-drops-on-rising-memory-pricing-supply-challenges-141021851.html?.tsrc=rss",
+            "description": "Both shares of Qualcomm (QCOM) and Arm Holdings (ARM) are sinking in Thursday's pre-market trading since each company reported its respective earnings results yesterday. Interactive Brokers Chief Strategist Steve Sosnick joins Pras Subramanian and Brooke DiPalma on The 8:30 to discuss memory chip pricing and supply challenges that Qualcomm is facing.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T14:10:21.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Both shares of Qualcomm (QCOM) and Arm Holdings (ARM) are sinking in Thursday's pre-market trading since each company reported its respective earnings results yesterday. Interactive Brokers Chief Strategist Steve Sosnick joins Pras Subramanian and Brooke DiPalma on The 8:30 to discuss memory chip pricing and supply challenges that Qualcomm is facing.",
+            "id": "a9"
+          },
+          {
+            "title": "Qualcomm beats earnings estimates but profit outlook falls short",
+            "url": "https://www.proactiveinvestors.com/companies/news/1101301/qualcomm-beats-earnings-estimates-but-profit-outlook-falls-short-1101301.html?.tsrc=rss",
+            "description": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) beat fiscal fourth-quarter earnings and revenue estimates, but the midpoint of its first-quarter adjusted profit forecast fell short of Wall Street expectations. Adjusted earnings were $2.17 a share, compared with analysts’ $2.16 estimate, while reported...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T13:53:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm Inc (NASDAQ:QCOM, XETRA:QCI) beat fiscal fourth-quarter earnings and revenue estimates, but the midpoint of its first-quarter adjusted profit forecast fell short of Wall Street expectations. Adjusted earnings were $2.17 a share, compared with analysts’ $2.16 estimate, while reported...",
+            "id": "a11"
+          },
+          {
+            "title": "China blocks SoftBank, ABB robotics deal",
+            "url": "https://www.mobileworldlive.com/ai-cloud/china-blocks-softbank-abb-robotics-deal/",
+            "description": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-05T13:48:41.000Z",
+            "fetchedAt": "2026-11-05T15:49:20.586Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+            "id": "a12"
+          },
+          {
+            "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+            "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+            "description": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T13:34:14.000Z",
+            "fetchedAt": "2026-11-05T15:49:16.989Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+            "id": "a14"
+          },
+          {
+            "title": "Premarket movers: Qualcomm, Snap slide premarket; Unity surges",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/premarket-movers-qualcomm-snap-slide-131432799.html?.tsrc=rss",
+            "description": "Investing.com - U.S. stock index futures were mixed on Thursday, with Nasdaq contracts falling as semiconductor and data-center stocks remained under pressure, while S&P 500 futures were little changed following a rally in the previous session after Democrats secured a sweeping victory in the midterm elections.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-05T13:14:32.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.034Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "stock index futures were mixed on Thursday, with Nasdaq contracts falling as semiconductor and data-center stocks remained under pressure, while S&P 500 futures were little changed following a rally in the previous session after Democrats secured a sweeping victory in the midterm elections.",
+            "id": "a16"
           },
           {
             "title": "What the Democratic midterms sweep changes for U.S.-China relations",
@@ -22133,8 +22082,8 @@ export const NEWS_DATA = {
             "source": "CNBC",
             "sourceId": "cnbc",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T06:54:52.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.209Z",
+            "publishedAt": "2026-11-05T12:57:10.000Z",
+            "fetchedAt": "2026-11-05T15:49:16.989Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22143,198 +22092,27 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Analysts note the growing risks around U.S. President Donald Trump's ability to maintain a fragile trade truce.",
-            "id": "a3"
+            "id": "a17"
           },
           {
-            "title": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing - WSJ",
-            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQks5d0dlajJvcVBXTHV2OEhSamFnVy1IenpiYmdFTkRyZ1BqMFNHSUxtOUlkZU8xbFZlUjFUQXpYd3Z1VkFQOTJDbFZ4MUpsZk1iYnk1MEoySDdrcTRuNmJJRkRhZTJnS2JuRV9aXzR3dTJlbEQ2Uk8zaVpXcDhIeTNQbWJBUkFobmZsVl9tQlhTM2hoekpqZ2hwZGJmWWZ3RVZrek41bGJoejRkNHQ5WA?oc=5",
-            "description": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing WSJ",
-            "source": "Wall Street Journal",
-            "sourceId": "wsj",
+            "title": "Brussels bets on chip designers after Chips Act misses production target - Brussels Signal",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1paQm1fUnlhNUdUOUpSYzF0ZDl5RDdHWVYwXzNJWEZDeXJxSnlKaGZXNDFOWUprQUI1c0d4dzZlYU5Oa0U4LVltMzdKR1dXd3VCcmdVVnlQZEFfWkdzenhYR0d0Ulh6eXdZbnF6UWhmTnlobGdEa0c2THIzMnpwZFhibUpPMXdOby1Ea2FSclhaVHBMNDdyUVQtRWVDY3RLS19NOWJxOVBQZmM?oc=5",
+            "description": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T06:49:02.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.836Z",
+            "publishedAt": "2026-11-05T10:08:41.000Z",
+            "fetchedAt": "2026-11-05T15:49:22.852Z",
             "fetchStrategy": "google-news",
-            "googleNewsSource": "WSJ",
+            "googleNewsSource": "Brussels Signal",
             "geopoliticalBypass": true,
             "section": "macro-environment",
             "subCategory": "geopolitics-export-controls",
             "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [],
-            "summary": "What I Learned in ‘Dalifornia,’ China’s Laid-Back Capital of Doing Nothing WSJ",
-            "id": "a4"
-          },
-          {
-            "title": "Valeo Looks to China as Role Model in Reshaping Auto-Parts Maker",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-05/valeo-looks-to-china-as-role-model-in-reshaping-auto-parts-maker",
-            "description": "Valeo SA Chief Executive Officer Christophe Perillat says he’s looking to China to streamline the century-old auto supplier, as it pursues new business areas beyond clients like Renault SA and General Motors Co.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T06:30:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.220Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Valeo SA Chief Executive Officer Christophe Perillat says he’s looking to China to streamline the century-old auto supplier, as it pursues new business areas beyond clients like Renault SA and General Motors Co.",
-            "id": "a5"
-          },
-          {
-            "title": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports - Reuters",
-            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNTVBJa2g4T1RZOXVuY3phU1ZicmlpM0kzUTdjNlBrMmtNZ29aNlBxZzNwQWkzam9WNVB6MGFwV2tERnA5WWNhWE9ZaWtKaV9JMDdpWHBKRjUyU2ZKU2lEN2R4U29ZQlo3T3g1cndpLUNqZXFhclphYzdyN0thaXM5WXl4UnN2eGZiUXd4SXdUenppTXNRTU1CV3RURnEyT05XUFRNUWFiMGNwN0QzYjVtS1Zoc24zcV9lWHV2eDZQckJwb2ZpS3g0OG9VMnpJaHJt?oc=5",
-            "description": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports Reuters",
-            "source": "Reuters",
-            "sourceId": "reuters",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T06:24:03.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.801Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Reuters",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China blocks SoftBank’s $5.4 billion takeover of ABB’s robotics division, FT reports Reuters",
-            "id": "a6"
-          },
-          {
-            "title": "Russia, China may be more aggressive if they feel Trump is on 'his way out': Brookings",
-            "url": "https://www.cnbc.com/2026/11/05/trump-russia-china-summit-apec-midterms.html",
-            "description": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T05:58:33.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.209Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Russia and China may be more aggressive if they feel that U.S. President Donald Trump is on \"his way out\" after the Democratic Party flipped the midterms.",
-            "id": "a7"
-          },
-          {
-            "title": "Billionaire Mittal’s Satellite Ambition Pitches OneWeb Against Musk’s Starlink",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-05/billionaire-mittal-s-satellite-ambition-pitches-oneweb-against-musk-s-starlink",
-            "description": "Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for critical communication infrastructure.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T05:01:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.220Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Indian billionaire Sunil Bharti Mittal is betting he can build a global satellite-internet network independent of both the US and China, as governments increasingly seek strategic alternatives for critical communication infrastructure.",
-            "id": "a10"
-          },
-          {
-            "title": "Asian chip stocks slide as disappointing Qualcomm, Arm earnings weigh",
-            "url": "https://finance.yahoo.com/technology/articles/asian-chip-stocks-slide-disappointing-045137047.html?.tsrc=rss",
-            "description": "Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers Qualcomm and Arm amid growing concerns over returns on artificial intelligence investments.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T04:51:37.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Investing.com-- Asian semiconductor shares fell on Thursday, with Japanese and South Korean chipmakers among the hardest hit, as investors assessed mixed earnings and outlooks from U.S. chip designers Qualcomm and Arm amid growing concerns over returns on artificial intelligence investments.",
-            "id": "a11"
-          },
-          {
-            "title": "Asia stocks mixed as chip rout triggers KOSPI trading halt; China outperforms",
-            "url": "https://finance.yahoo.com/markets/world-indices/articles/asia-stocks-mixed-chip-rout-042442281.html?.tsrc=rss",
-            "description": "Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S. midterm elections.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T04:24:42.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Investing.com-- Asian stocks were mixed on Thursday, as a sharp selloff in semiconductor shares triggered a trading curb in South Korea, offsetting support from a steep decline in oil prices after Democrats' victories in the U.S.",
-            "id": "a12"
-          },
-          {
-            "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
-            "url": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
-            "description": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T04:15:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-            "id": "a13"
-          },
-          {
-            "title": "Qualcomm Q4 Earnings Call Highlights",
-            "url": "https://www.marketbeat.com/instant-alerts/transcript-qualcomm-q4-earnings-call-highlights-2026-11-04/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
-            "description": "Qualcomm (NASDAQ:QCOM) reported fiscal fourth-quarter revenue at the high end of its guidance and projected a sharp increase in non-handset business in fiscal 2027, as data center shipments begin to ramp and automotive demand grows. The chipmaker reported non-GAAP revenue of $10.4 billion and non-G",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T04:14:22.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Qualcomm (NASDAQ:QCOM) reported fiscal fourth-quarter revenue at the high end of its guidance and projected a sharp increase in non-handset business in fiscal 2027, as data center shipments begin to ramp and automotive demand grows. The chipmaker reported non-GAAP revenue of $10.4 billion and non-G",
-            "id": "a14"
-          },
-          {
-            "title": "China Blocks SoftBank’s $5.4 Billion ABB Robot Unit Takeover",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
-            "description": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T03:15:01.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.220Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
-            "id": "a15"
+            "summary": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+            "id": "a20"
           },
           {
             "title": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
@@ -22344,7 +22122,7 @@ export const NEWS_DATA = {
             "sourceId": "reuters",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-04T23:40:12.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.801Z",
+            "fetchedAt": "2026-11-05T15:49:21.636Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "Reuters",
             "section": "macro-environment",
@@ -22353,7 +22131,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
-            "id": "a17"
+            "id": "a22"
           },
           {
             "title": "Qualcomm stock drops 7% on weak earnings forecast as memory shortage weighs on smartphone sales",
@@ -22363,7 +22141,7 @@ export const NEWS_DATA = {
             "sourceId": "cnbc",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-04T23:38:11.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.209Z",
+            "fetchedAt": "2026-11-05T15:49:16.989Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
@@ -22371,121 +22149,25 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "Qualcomm delivered better-than-expected results but issued a weak earnings forecast.",
-            "id": "a18"
+            "id": "a23"
           },
           {
-            "title": "S&P 500, Nasdaq Surge Ahead After Democratic Sweep, Dow Jumps To One-Year High On Lower Oil — AAPL, SNAP, INTC, CRWV, QCOM In Focus",
-            "url": "https://stocktwits.com/news-articles/markets/equity/s-and-p-500-nasdaq-dow-surge-ahead-after-democratic-sweep/cNGLApkR9ET?.tsrc=rss",
-            "description": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
+            "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
+            "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
+            "description": "Qualcomm Inc. shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
             "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T23:32:33.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
+            "publishedAt": "2026-11-04T21:01:36.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.237Z",
             "fetchStrategy": "rss",
             "section": "macro-environment",
             "subCategory": "market-performance",
             "subLabel": "market-performance",
             "competitors": [],
             "stakeholders": [],
-            "summary": "Democrats won the mid-term elections, with analysts looking at the political gridlock as a win for markets.",
-            "id": "a19"
-          },
-          {
-            "title": "Qualcomm (NASDAQ:QCOM) surprises with Q3 sales but stock drops",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-nasdaq-qcom-surprises-q3-223127514.html?.tsrc=rss",
-            "description": "Wireless chipmaker Qualcomm (NASDAQ:QCOM) reported revenue ahead of Wall Street’s expectations in calendar Q3 2026 (fiscal Q4 2026), but revenue fell by 8.4% year on year to $10.32 billion. Revenue guidance for next quarter was $10.8 billion at the midpoint, 2.6% above analysts’ consensus estimates. Its non-GAAP profit of $2.17 per share was in line with analysts’ consensus estimates.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T22:31:27.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Wireless chipmaker Qualcomm (NASDAQ:QCOM) reported revenue ahead of Wall Street’s expectations in calendar Q3 2026 (fiscal Q4 2026), but revenue fell by 8.4% year on year to $10.32 billion. Revenue guidance for next quarter was $10.8 billion at the midpoint, 2.6% above analysts’ consensus estimates. Its non-GAAP profit of $2.17 per share was in line with analysts’ consensus estimates.",
-            "id": "a22"
-          },
-          {
-            "title": "What Republicans' huge loss means for Trump",
-            "url": "https://www.cnbc.com/2026/11/04/trump-midterm-election-results-congress.html",
-            "description": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-            "source": "CNBC",
-            "sourceId": "cnbc",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T21:50:05.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.209Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Trump's handling of tariffs, the Iran war and an array of Washington-area construction projects are sure to face sudden pushback from newly empowered Democrats.",
-            "id": "a25"
-          },
-          {
-            "title": "Qualcomm falls 3% as handset revenue misses estimates, costs rise",
-            "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-falls-3-handset-revenue-213919982.html?.tsrc=rss",
-            "description": "Investing.com -- Qualcomm Inc. (NASDAQ: QCOM) shares fell 3% after the chipmaker reported weaker-than-expected handset revenue and warned of rising semiconductor input costs, overshadowing quarterly earnings that topped analyst estimates.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T21:39:19.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
-            "fetchStrategy": "rss",
-            "section": "macro-environment",
-            "subCategory": "market-performance",
-            "subLabel": "market-performance",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Investing.com -- Qualcomm Inc. (NASDAQ: QCOM) shares fell 3% after the chipmaker reported weaker-than-expected handset revenue and warned of rising semiconductor input costs, overshadowing quarterly earnings that topped analyst estimates.",
+            "summary": "shares tumbled by the most in almost six months after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
             "id": "a26"
-          },
-          {
-            "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-            "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-            "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-            "source": "TechCrunch",
-            "sourceId": "techcrunch",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-04T19:29:52.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.124Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-            "id": "a29"
-          },
-          {
-            "title": "SK Hynix’s New York chip plans hit snag over US restrictions on China - www.daily-sun.com",
-            "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1UbWhFU1RqZE5HOFhPWEdxM0M4ZW1BaVJVVFVwX0xLQWJsMm5DMzFoMW5LZjJNODlDV1ZVQ2xobFBZWWpwSURfRmlWRVk3dWRSeGhNaGxDQUo3NkxHaFNvMllubW1zbzRr?oc=5",
-            "description": "SK Hynix’s New York chip plans hit snag over US restrictions on China www.daily-sun.com",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T18:00:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:35.934Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "www.daily-sun.com",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "SK Hynix’s New York chip plans hit snag over US restrictions on China www.daily-sun.com",
-            "id": "a30"
           },
           {
             "title": "China's Gray Market HBM3E Trades at About $4,000 Per Unit as a US Rule Loophole Persists - XenoSpectrum",
@@ -22495,7 +22177,7 @@ export const NEWS_DATA = {
             "sourceId": "geopolitics",
             "sourceGroup": "finance",
             "publishedAt": "2026-11-04T17:58:58.000Z",
-            "fetchedAt": "2026-11-05T07:26:35.934Z",
+            "fetchedAt": "2026-11-05T15:49:22.852Z",
             "fetchStrategy": "google-news",
             "googleNewsSource": "XenoSpectrum",
             "geopoliticalBypass": true,
@@ -22505,46 +22187,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "China's Gray Market HBM3E Trades at About $4,000 Per Unit as a US Rule Loophole Persists XenoSpectrum",
-            "id": "a31"
-          },
-          {
-            "title": "Bitcoin: Dragosch Holds Bullish View on Decoupling - Blockchain News",
-            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOUzJhUy1CbkhTUnhwNWd1Z0RXWFN5OU1Lam9lOF85RlVGRUNVd3JwMWxRZHZHTUt0M0EzNExMUkVianUtcFNNNHIydUFtanRJWHdsdWlRTXFScUVvV1lGVnBqaU4tMm5vb3Q0TnFnY2RqaVNFSGNhZXVrRFlEMmltNVUzdkdQU3c?oc=5",
-            "description": "Bitcoin: Dragosch Holds Bullish View on Decoupling Blockchain News",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T14:18:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:35.934Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "Blockchain News",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Bitcoin: Dragosch Holds Bullish View on Decoupling Blockchain News",
-            "id": "a33"
-          },
-          {
-            "title": "Nigeria-Focused OPay Said to Halt US IPO After China Inquiry",
-            "url": "https://www.bloomberg.com/news/articles/2026-11-04/africa-focused-opay-is-said-to-halt-us-ipo-after-china-inquiry",
-            "description": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
-            "source": "Bloomberg",
-            "sourceId": "bloomberg",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T14:07:27.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.220Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Inquiries by a Chinese regulator prompted Nigeria-focused payments company OPay Ltd. to halt its $300 million US initial public offering just hours after setting the price, according to people familiar with the matter.",
-            "id": "a34"
+            "id": "a27"
           },
           {
             "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
@@ -22554,7 +22197,7 @@ export const NEWS_DATA = {
             "sourceId": "ip-fray",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-04T12:00:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:33.974Z",
+            "fetchedAt": "2026-11-05T15:49:21.008Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22563,47 +22206,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
-            "id": "a37"
-          },
-          {
-            "title": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say - ET Enterprise AI",
-            "url": "https://news.google.com/rss/articles/CBMinwJBVV95cUxQZmtYUm9hVm9NeUMwckdvSXVGRmtaUncydEQtSjN3bjlZSTNBMGg3SEx2TjRmdzdNSHItcnpERmduWnBYQmtYZUtSbER1QWtGVy04ZVlCbV9ITnVqS3VSVkZiRUVjY01vMVhmUEw2ZkRoX2c5a01rN19naG5ILUoza3RFMzZHakZJc3pzY2VDbktTOHBSTFJzZExWQzNTYXRTbDZpSEgxT2xCTFJMNE50TjBEZWRnOU14Z2Q5c002UFNmZ3NZdlBydmpjNzI1V0ZTMjdfMWxnckdmWjNybkZ4ZzlXa3QyNDluVWNTMGVnd1cxZU1DclV5T3M0ZVlRUWxwSVVPdUdVX2RQTlZVY29sT3JpWkhKaUhhZENWMXZCNA?oc=5",
-            "description": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say ET Enterprise AI",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T10:29:04.000Z",
-            "fetchedAt": "2026-11-05T07:26:35.934Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "ET Enterprise AI",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "SK Hynix's New York chip plans hit snag over US restrictions on China, sources say ET Enterprise AI",
-            "id": "a38"
-          },
-          {
-            "title": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ - South China Morning Post",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNcmFGSXhJbzVFbHQ4MjUtNXUwYWFHTUxpbER3RnRaSTZQMTRNcmNUdXNIMzZoTGdULUQ2U1FRcUZadjMweEdid2RWZExQMVJCVVIxbXdiLTZZbWJ3VEwyUFRrdDBQUzkxWm03UGd0Y2ZRUzVRcnkxY2Y4RHVkZ2E3aEZaNHF2eDV3OGN4WlJGSFZwTnNjNlRlQ3dVWlZmX2FQVWJiNXF0NnE2djl3MHVOWkpGMVJJUjlpLUlzMzZEYXFNZnhlMDlFNkxxUmhnYzJtNG1R?oc=5",
-            "description": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ South China Morning Post",
-            "source": "Geopolitics",
-            "sourceId": "geopolitics",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-04T08:30:15.000Z",
-            "fetchedAt": "2026-11-05T07:26:35.934Z",
-            "fetchStrategy": "google-news",
-            "googleNewsSource": "South China Morning Post",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "China’s Wingtech rejects proposal on Nexperia, cites ‘discrimination’ South China Morning Post",
-            "id": "a39"
+            "id": "a30"
           },
           {
             "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
@@ -22613,7 +22216,7 @@ export const NEWS_DATA = {
             "sourceId": "semiconductor-digest",
             "sourceGroup": "semiconductor",
             "publishedAt": "2026-11-03T19:32:48.000Z",
-            "fetchedAt": "2026-11-05T07:26:33.417Z",
+            "fetchedAt": "2026-11-05T15:49:20.381Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22622,7 +22225,7 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-            "id": "a40"
+            "id": "a31"
           },
           {
             "title": "Russia, China likely to ramp up UK cyberattacks",
@@ -22632,7 +22235,7 @@ export const NEWS_DATA = {
             "sourceId": "mobile-world-live",
             "sourceGroup": "telecom",
             "publishedAt": "2026-11-03T15:20:45.000Z",
-            "fetchedAt": "2026-11-05T07:26:33.604Z",
+            "fetchedAt": "2026-11-05T15:49:20.586Z",
             "fetchStrategy": "rss",
             "geopoliticalBypass": true,
             "section": "macro-environment",
@@ -22641,127 +22244,139 @@ export const NEWS_DATA = {
             "competitors": [],
             "stakeholders": [],
             "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
-            "id": "a41"
-          },
-          {
-            "title": "HKT pulls out of US under FCC pressure – report",
-            "url": "https://www.lightreading.com/regulatory-politics/hkt-pulls-out-of-us-under-fcc-pressure--report",
-            "description": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-            "source": "Light Reading",
-            "sourceId": "light-reading",
-            "sourceGroup": "telecom",
-            "publishedAt": "2026-11-02T15:09:26.000Z",
-            "fetchedAt": "2026-11-05T07:26:34.291Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Another Chinese telco is reportedly leaving the US as Hong Kong-based HKT is said to be withdrawing from the country after pressure from the FCC, which has in the past placed prohibitions on major Chinese telcos on the grounds of national security and law enforcement.",
-            "id": "a42"
-          },
-          {
-            "title": "Guest Post by Profs. Masur & Ouellette: Public Use, Sales, and Public Disclosure Under the AIA",
-            "url": "https://patentlyo.com/patent/2026/11/guest-post-by-profs-masur-ouellette-public-use-sales-and-public-disclosure-under-the-aia.html",
-            "description": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget. Scenario 2: January 1, 2026: Aleida invents a new widget and offers the widget for sale to Charlise, but without any enabling disclosure. Charlise accepts the offer. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida delivers the widget to Charlise and files for a patent on it. Who do you think should receive the patent in each of these two scenarios? Maybe you think it should be Aleida in both cases, or Bruno in both cases, or Aleida in one and Bruno in the other. Continue reading this post on Patently-O.",
-            "source": "Patently-O",
-            "sourceId": "patently-o",
-            "sourceGroup": "ip",
-            "publishedAt": "2026-11-02T12:30:26.000Z",
-            "fetchedAt": "2026-11-05T07:26:33.613Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [],
-            "summary": "Guest post by Professors Jonathan S. Masur (UChicago Law) and Lisa Larrimore Ouellette (Stanford Law). Imagine the following hypothetical scenarios: Scenario 1: January 1, 2026: Aleida invents a new widget and gives it without a confidentiality restriction to Charlise, who uses the invention (thus creating a public use) but in a non-enabling way. February 1, 2026: Bruno independently invents the same widget and files for a patent on it. March 1, 2026: Aleida files for a patent on the widget.",
-            "id": "a43"
+            "id": "a32"
           }
         ]
       },
       "competitors": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
+        "generatedAt": "2026-11-05T15:49:22.899Z",
         "date": "2026-11-05",
         "section": "competitors",
         "sectionTitle": "Competitors",
         "briefing": {
-          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-          "keyTakeaways": []
-        },
-        "articles": []
-      },
-      "stakeholders": {
-        "generatedAt": "2026-11-05T07:26:35.989Z",
-        "date": "2026-11-05",
-        "section": "stakeholders",
-        "sectionTitle": "Key Stakeholders",
-        "briefing": {
-          "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), FRAND & Licensing (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources.",
+          "summary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
           "keyTakeaways": [
             {
-              "text": "Customers & Partners: Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the gl",
-              "articleIds": [
-                "a13"
-              ],
-              "subCategory": "customers-partners"
-            },
-            {
-              "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-              "articleIds": [
-                "a20"
-              ],
-              "subCategory": "frand-licensing"
-            },
-            {
-              "text": "Data Center: With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans",
+              "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
               "articleIds": [
                 "a21"
               ],
-              "subCategory": "data-center"
-            },
-            {
-              "text": "Geopolitics & Export Controls: DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-              "articleIds": [
-                "a29"
-              ],
-              "subCategory": "geopolitics-export-controls"
+              "subCategory": "wireless"
             }
           ]
         },
         "articles": [
           {
-            "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
-            "url": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
-            "description": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-            "source": "Yahoo Finance",
-            "sourceId": "yahoo-finance",
-            "sourceGroup": "finance",
-            "publishedAt": "2026-11-05T04:15:00.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.157Z",
+            "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+            "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+            "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-05T08:28:31.000Z",
+            "fetchedAt": "2026-11-05T15:49:21.008Z",
             "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [
+              "apple",
+              "huawei"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "id": "a21"
+          }
+        ]
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-05T15:49:22.899Z",
+        "date": "2026-11-05",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (1 article), Wireless Communication (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Econom",
+              "articleIds": [
+                "a6"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+              "articleIds": [
+                "a21"
+              ],
+              "subCategory": "wireless"
+            },
+            {
+              "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+              "articleIds": [
+                "a24"
+              ],
+              "subCategory": "frand-licensing"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "The hidden supply chain costs of the AI boom",
+            "url": "https://www.theverge.com/podcast/1024438/willy-shih-supply-chain-ai-chips-ram-where-does-my-stuff-come-from-book",
+            "description": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place. We also had Willy on the show in 2021 to talk about what was then the pandemic-era chip shortage. Now, five years later, we’re in another manufacturing mess, as we stand in the middle of a political fight over whether globalization is coming to an end. Trumps’ tariffs keep changing, the factories that were supposed to reshore in America mostly haven’t materialized, and AI is devouring the planet’s computing resources during an unprecedented infrastructure buildout. Willy’s new book is all about the economics underlying these complex systems, which our politicians and regulators seem to insistently ignore. You’ll hear us talk about why the markets have reacted to all these disruptions the way they have, and why China remains a global manufacturing powerhouse even though every other country thinks that’s so risky. I loved this conversation — it’s in the weeds, and Willy really knows his stuff. Okay: economist Will Shih on his new book Where Does My Stuff Come From? Here we go. This interview has been lightly edited for length and clarity. Willy Shih, you’re an economist and professor of management practice at Harvard. You’re also the author of the new book, Where Does My Stuff Come From: The Powerful Economics Behind Global Supply Chains. Welcome back to Decoder. Well, thanks for having me back. I am very excited to talk to you. You and I first started talking ages ago when The Verge was covering Foxconn in Wisconsin. You are a reliable source of information on what it takes to actually build an LCD plant anywhere, not just in Wisconsin. The Foxconn in Wisconsin thing was funny because I tend to go on first principles on these things. Once I knew they weren’t going to build a glass plant across the street, it’s like there’s no way there’s going to be a factory. Now, what happened afterwards, of course, is people heard your show, and then I started getting calls from people who live in the community. They went to the zoning hearings in town, then sent me the plans and asked, “Is this going to be a panel factory?” I said, “No, I told you it’s not going to be a panel factory.” So they sent me the plans. I said, “Well, there’s not enough concrete to make this a panel factory.” For a panel factory, you need stability, so you gotta have all this structural steel, and you have to have all this concrete. Verge subscribers, don’t forget you get exclusive access to ad-free Decoder wherever you get your podcasts. Head here. Not a subscriber? You can sign up here. My favorite part of the Foxconn story — and I don’t mean to rehash it, but it’s just fun to talk to you about it again — is when you said there’s not enough concrete and steel. It’s great. We should actually talk about LCD manufacturing a little bit. There’s an entire chapter in your book about why all of it is in China and China’s investment in that. But I want to just take a big step back for a second. It seems to me that you’ve written a book about the end of globalization in one particular way. We had big global supply chains. The pandemic came and shocked the just-in-time manufacturing system to its core. And then the Trump administration, in the second round, has imposed a whole bunch of tariffs. I’ve had several guests on the show straightforwardly tell me we’re de-globalizing the economy. That’s what’s happening here. We can’t rely on it anymore. Your book, as you read it, is a little bit of a reaction to that, but you’re also pointing out how globalization is one of the smartest ways to do it based on first principles of economics. Tell me about the state of the world and the state of our supply chains right now from your point of view. Well, I think the point about first principles of economics is actually spot on. I often tell people my father was an economist, and I used to see him come home from work, and I thought, “I never want to do that. I’m going to go into science and technology.” So I went into science and technology and took all these engineering classes. And I was in product businesses only to discover, to my horror, that if you don’t get the economics right, then it doesn’t matter for science and technology. The book’s subtitle is “the powerful economics behind global supply chains.” I talk about all these principles behind global supply chains, but they’re all actually driven by economics. In fact, what you see today is market forces responding to all this stuff. So, for example, when we put tariffs on stuff coming out of China, then manufacturers say, “Okay, let me move that supply chain, and I’ll do my assembly in Vietnam, or I’m going to do my assembly in Mexico, or let me find some way to circumvent these tariffs.” What I really find is that when you look at how these supply chains are structured, like why do cashew nuts say they come from Vietnam when they were actually grown in the Ivory Coast or Ghana? Well, there was an economic reason for all of these things. It’s why frozen fish that are caught off the coast of Alaska go to Qingdao, China, for processing before they come back. Again, it’s because it’s cheaper to do it that way. When we put up these trade barriers, the first reaction tends to be, “How can I circumvent that?” We saw a lot of that, especially last year. I remember Liberation Day was April 2nd, and if you look at the quarter right before, people knew stuff was going to be happening. We have this circumvention going. That’s why in the first quarter of 2025, we had all-time-record imports from Ireland, and then the first half of 2026 showed slow imports from Ireland. That’s because we’re burning off all the stuff we imported in the first half of 2025. It all gets down to economics. I’m getting all these TV set ads because the holiday season is coming up. Great, and they’re all coming from Mexico. It’s like, “How can they all be coming from Mexico?” I know the flat panel factories that supply all these TV sets these days are all in China, and they’re all in China because the plants have been subsidized so heavily or because of industrial policies that have encouraged those plants to be there. If you watch the trade lanes, you’ll see this stuff. What happens is there’ve been all these new shipping routes from China to Mexico over the last two years. Direct ocean container service from China to Mexico. It’s like, “Huh, I wonder what that’s about.” I’ll tell you what it’s about. It’s about moving parts and components from China to Mexico so that I can assemble them in Mexico and then bring them in under the USMCA agreement. So what you’re actually seeing is that these supply chains are organized the way they are partly because some places have the capabilities, but more often than not, a lot of these are just responding to economic forces. If I’m going to add on tariffs or I’m going to make it more expensive to ship something between two points, the market will find a way around that. That’s something I want to come back to several times in this conversation. “It’s cheaper” was a real driving force of globalization. Americans like cheap things. They like cheap flat-panel TVs. The fact that I can go to Costco right now and get a 50-inch TV for $300 is a miracle of the modern supply chain and of modern manufacturing. It is a miracle, right? And it’s cheaper, and it’s because there’s a place that, for better or for worse, can make it cheaper. By the way, American consumers benefit from that. One of the reasons that we pursued free trade and globalization so heavily in the United States is that we thought that creating economic ties between all these various countries would reduce the potential for an armed conflict. There are a lot of ways to think about that, but in general, if you tie the economies together, the price of having a war shoots up, and then you won’t have free or cheap TVs, and maybe the public won’t like that. That is under pressure now, right? We’re sitting here in the middle of an AI conversation, where China is routinely invoked as the great threat that will rise up if they get to AGI before us. We are putting up tariffs, particularly on China. In the United States, the policy administration is to bring manufacturing back to the United States through the use of tariffs. Your point of view is that simple economics will provide enough contortions to avoid that blunt outcome. When we seal the borders for some products everywhere, then the price is going to go up. So, for example, putting tariffs on steel. Initially, when we just put tariffs on imported steel and aluminum, then what happened was, “Well, gee, I happen to be making construction equipment. More than half of the cost of that construction equipment is medium carbon steel, so therefore it makes it easier for me to import construction equipment from somewhere else.” We then say, “Okay. Now we’re going to tariff stuff based on your steel content.” Eventually, when you close off all those things, which means you’re basically tariffing everything, then stuff gets more expensive domestically. You could look back on the period from 2000 until really 2012 to 2014; we had relatively low inflation. Part of it is because we were getting cheaper stuff from China. I think there are a couple of things that drove a breakdown of this model, if you will. One is that people didn’t really recognize that the connection between moving work out of the US to China meant you’re leaving people behind who don’t have any more work. That cost was spread over people who, by the way, also shop at Walmart and benefit from the cheap goods. But we as a country didn’t think about it like, how are we going to retrain all those people who weren’t making furniture in North Carolina or who were making castings and forgings in Kentucky or wherever? That was one part of the problem. The other part of the problem is that we have this gigantic trade deficit. Now, a lot of that is fueled by government spending and borrowing and so on. But typically, in some respects, you would’ve expected the exchange rate or some other adjustment mechanism to compensate for that. I remember the last time exchange rates moved was in the 1980s. That was also the last time the US ever had a trade surplus, when the dollar got a lot cheaper relative to the Japanese yen, especially at that time. That had an adjustment on trade flows as well. So now you have China running this ginormous trade surplus. Basically, what they’re doing is exporting their economic problems in China to the US, and they’re exporting that at the expense of jobs elsewhere. The Europeans have suddenly woken up to that. Now go to a place like Germany, where half the economy revolves around the auto industry, and they now have figured it out, and it’s like, “Wait a minute, this is an existential crisis for us.” But on those two things, the controls you would’ve expected to rebalance things didn’t pan out. That’s why we have so much discussion about this right now and a view of this as a problem. It feels like my entire teen experience was a conversation about NAFTA, and we should open free trade in North America. Later on, I got to college, and all the economic discussion was about the EU and creating the single market in the EU: “We’re going to set up these big open markets, and there’s going to be free trade inside of those markets, and that will lead to a kind of economic prosperity.” Fast forward to 2026, and the desire to tear a lot of that down has gone way up, right? Particularly as you look at the USMCA and Chinese goods coming to Mexico to come to the United States, nakedly circumventing the entire policy goal of imposing tariffs. The goal is to build the iPhone in the United States. The goal is to build manufacturing in the United States. I know that you have never really thought that’s an achievable goal, but that is the goal. That is what the administration promised. We’ve created these trade groups, trade associations, that allow that goal to be circumvented. Do you think the walls are going to keep going up, or do you think they’re going to come back down? I think we’re going to see more pressure to moderate our behavior a little bit because, let’s face it, there are a lot of goods that we, as a country, need access to inexpensive labor. So I’m actually very pro-USMCA as a successor to NAFTA because I actually think there are things that we need inexpensive labor for. Mexico is a good place to source things like that. There are things that we need from Canada. So if we were to look at North America as a trading bloc, then what you would see is the benefits of specialization, which is the whole rationale for trade in the first place. We’re better at doing this, you’re better at doing that; you specialize in that, we’ll specialize in this. We trade; everybody is better off. If you can do that with a community of countries that understand the need for that type of balance, then everybody is better off. I think the problem with China is they’re very happy to have this imbalance, where they want the world to be dependent on them, but they don’t want to buy stuff from the rest of the world. When you have that, then trade doesn’t really work. So I think that’s the problem. I’m hoping we’re going to realize that we’re better off among a group of like-minded countries where we can trade within that bloc. So for example, if the US were to view North American partners and European partners in Japan — and countries in Southeast Asia, Australia, New Zealand, parts of Central and South America, and even Africa — and say, “Okay, let’s trade across this bloc,” then we’d have access to most of what we need, whether it’s critical minerals, low-cost labor, or a lot of technology specialties. We could do much better with that, much better than a go-it-alone strategy in my view. The first part of your book — which I highly recommend the audience read; it’s a fun read — is just setting up the first principles of why we trade at all in the very concept of labor arbitrage. It seems like we’re having a national policy conversation that is 500 steps removed from these basic ideas of why we would trade. It is entirely centered around: can you bring manufacturing back to America because we let all the manufacturing jobs go to Mexico and China, particularly in high tech? And we’re behind. There might be some extraordinarily bad event, like a war, where it’s exposed how little manufacturing capability we have in the United States. That has nothing to do with the basics of specialization in various countries around the world. It’s another problem, and the blunt instrument is, “Boy, it’s bad that all of our drones are made in China. We’re going to prevent drones from being sold here. Of course, our industry will set up drone manufacturing in the United States.” I don’t see that connection. Do you see that working? No. I think that’s a transactional view where you look at one piece at a time as opposed to looking at the bigger picture. I think we have to start with a core principle that the US is a high-cost country. Therefore, if you want manufacturing jobs coming to the US, then you’ve got to have high labor productivity. In fact, if you look at the types of jobs that are coming back to the US, they tend to use a lot of automation, a lot of sophisticated manufacturing processes, and stuff that is high-skill that can justify the high labor cost. Either that, or they are things where we have a technological lead that nobody else knows how to do in the world. I was looking at the high-temperature superalloys that are used in the hot section of jet engines. There are only three companies in the world that know how to cast those, and two of them are in the US, and one of them is in the UK. There are things like that the rest of the world has to buy from us. So if you have high labor productivity or highly differentiated products, those we can make in the US; we can make them successfully. By the way, most of them never left the country. The US, France, and the UK are major suppliers of jet engines to the entire world market. Even the Chinese buy those from the West. So if we have these things that we do better than anybody else, we should invest in those and make sure that we’re always in the lead, and then everybody else will buy from us, and then you’ll have some balance where you can’t be held up. There’s a lot of this thinking like, “I wish I could turn the clock back to the 1980s or the 1970s, when manufacturing was the path to the middle class in the US.” But manufacturing has changed worldwide, and for those jobs that you want to have manufacturing in the US, you’ve got to have high labor productivity or the high differentiation that’ll go with it. I want to stay on the iPhone for one more second. Apple just inked a new deal where they’re going to source a bunch of titanium from a Pennsylvania-based company called Perryman for the iPhone 18 Pro and the new iPhone Duo. They’re going to source that titanium here. They’re then going to ship it to China. They’re going to assemble the phone in China, and they’re going to ship the phones back to us. They do that with Corning and glass as well. I’ve always looked at that. Tim Cook’s job, in particular, is that he’s a statesman. He has to negotiate with Donald Trump and Xi Jinping about iPhone production and tariffs in these supply chains, and the iPhone holds the global economy together. If the price of the iPhone gets too high because of tariffs, maybe there’s an electoral impact in the United States. How do you see products like that? Are they as load-bearing as it feels to me, or are they just examples of the larger system? I think the iPhone is a terrific example of how difficult this problem is. Because right now you have components that have high technological complexity. The iPhone uses the most advanced chips produced by Taiwan Semiconductor Manufacturing Company. By the way, most of those chips are still going to be made in Taiwan. TSMC has a fab in Arizona, but its capacity is piddly compared to what it has in Taiwan. Those chips come from one place and require the most sophisticated processing tools that come from ASML in the Netherlands, but also companies like Lam Research and Applied Materials in the US. So it’s that global thing. But the key thing is iPhones also require assembly labor. They require manual assembly because we’re not at the point yet where you can assemble the whole thing with a robot. There’s actually a chapter in my book where I talk about what Henry Ford and the lifestyles of the Chinese Communist Party have to do with assembling iPhones. It turns out it’s a lot. The lifestyles of the Chinese Communist Party have to do with how they mobilize workers in what’s called the Danwei model, which was established after the Communist Revolution. It’s where you have a production site, a walled city with housing for workers, a means of production, warehouses, ways to feed them, and stuff like that. If you ever go to a phone factory in China, the real question is: how do I mobilize 100,000 to 200,000 workers to do this manual assembly on a scale that an Apple needs? They’re trying to do it in India. They’re having some success with India, but that was really hard. Once again, it’s: how do I mobilize manual labor at that level of scale? So the iPhone, as you point out, is a great example of a global product because it needs the highest level of tech, and it also needs the huge workforce to do the manual assembly. There’s actually a great book called Apple in China, which I also recommend. The narrative is that the Chinese government subsidized an awful lot of manufacturing in China. They built these cities, and they built the culture that enables the labor at scale. Your example in the book, again, is LCD factories, where the Chinese government invested in overcapacity, and that drove the price of LCD manufacturing down. Basically, it’s all centered in China now. The flip side of that is, boy, it’s pretty obvious that they stole a bunch of American intellectual property along the way. They developed these manufacturing capabilities. They took a lot of the know-how that Apple imported into that country. They did the same with Tesla in a lot of ways. They stood up an entire electric car industry on the back of the innovation Tesla had started through manufacturing in that country. Now they have those capabilities, and they’re racing ahead of our companies because we don’t actually have the manufacturing know-how. Can you rebalance that? I hear this concern a lot: that you can’t rebalance it. If all the manufacturing happens there, they will actually be state-of-the-art, and we will fall behind. I’m not sure if “stole” is the best description of how they got these capabilities. I would say they learned it, and in many cases we taught it to them. Being a supplier to Apple is often referred to as a golden ticket, and people say, “Well, why is it a golden ticket?” Well, obviously you get cash flow from selling products to them. But the other thing is that Apple is a real taskmaster. By making you work hard to improve your products, improve your specs, meet their performance specs, and meet their cost targets, you get better. The same thing happened when Tesla set up their factory in Shanghai. The fact that they qualified local suppliers raised the game in the Chinese EV market. Another thing I think a lot of people miss about China is that there is actually this very interesting competition going on. Beijing sets policies and objectives, but then all the regional governments, the provinces, and the major cities are competing with each other. They set up this free market dynamic, and so you have this fierce competition between regions. The regions are also very smart about setting objectives. They keep raising the bar for people so the technology gets better. You have a dynamic where there’s really cutthroat competition in the Chinese market, and it’s about survival to make better products at lower prices. That’s something that’s really driving it right now. To your point about how, to the extent we’ve lost the ability to make things, the Chinese have a lot of capabilities. You should walk through some Chinese factories these days. They’re way ahead of the US in terms of using automation, because they’re investing like crazy. I had a student I was talking to about his father’s factory in Shanghai, and he said his father’s answer to everything, every competitive threat, was just more CapEx: “I’m going to throw more capital at it. I’m going to buy the latest machine.” I was in one factory a couple of months ago where the equipment was two or maybe three years old, and they were ripping it out and upgrading it to the latest generation because they said, “This is how we’re going to survive. We have to make the product more efficiently, and we have to make a better product.” So there’s this internal competition in the Chinese marketplace that is really fearsome, and it’s hard for Western companies to compete there, but that is an important dynamic that’s going on as well. The interesting thing about that, as I compare and contrast China with the United States, is that the system in China is understood. It’s stable. You can make a lot of criticisms of that system. I think you can make an endless number of human rights criticisms of the Chinese government. It’s obviously a repressive government in a lot of ways. But the economic system is understood, and it’s controlled at the top in a meaningfully stable way. The goals are apparent, the investment is apparent, and there’s a lot of competition to achieve those goals with that investment. There are two things about that which I think are significant. The first is that China engages in long-term planning, five-year plans. Now, when I was a kid, I used to look at China’s five-year plans, and I thought, “This is a big joke,” because they would make a lot of mistakes, like Mao Zedong’s Great Leap Forward, and they were doing this new type of tillage in farming, and they caused this huge famine and millions of people died. But to the credit of the government there, when they do this type of long-range planning, they learn from their mistakes, and they get better. If you look at their current five-year plans and the last couple of five-year plans, they’re good plans. They understand what’s important, and they focus on those things that are important. Then the second point is about what kinds of people they have implementing these plans. I was in one of these third-tier cities some number of years ago, and I was having dinner with the economic development commission there. At the beginning of dinner, I said, “Hey guys, just for fun, let’s go around the table and talk about what you studied in school.” It was mechanical engineering, industrial engineering, electrical engineering, metallurgy, metallurgy, mechanical engineering. You go to Washington and ask what people studied in school, and it’s political science, economics, and government. So you have these technocrats competing in technology-intensive businesses and having that understanding. By the way, that’s one of the reasons I wrote this book: I was serving on these committees appointed by the Commerce Secretary on supply chains, and I realized we have civil servants who don’t have the exposure to supply chains and how stuff is actually made. China had this plan that was called the 863 plan. The 863 plan was when four scholars went to the government in Beijing in March of 1986 — that’s why it’s called “863”; it was ‘86, March. I remember the first time I looked at the 863 plan, and it was, “If we want to be a modern economy, we have to be good at these things.” I looked at that plan in the 1990s, and I said, “This is a good plan.” And they’ve executed every one of those things. They said, “We need to be good at all these things, like information technology, biotechnology.” In semiconductors, they still have a way to go, but they identified civil aircraft. But they identified all these different technologies like communications technology, software, and robotics. I would contrast that with the Trump administration here in Trump’s second term, where… We already talked about Liberation Day. Howard Lutnick is on television saying, “We’re going to move manufacturing back to the United States. This is the goal of the tariffs.” Three weeks later, there are 900 lawsuits about the tariffs, and Howard Lutnick is back on TV saying, “Robots will do all the manufacturing now. This is the goal. We’re going to do heavy automation.” And then the tariffs get struck down, and they find a new law for different tariffs. It does not seem like the same long-term planning that can be stuck to, or the same environment where businesses understand the stability of the trading system such that they can compete ferociously. Every CEO who does manufacturing and comes on the show usually ends up talking to me about how they scrambled to buy RAM at affordable prices to make their products, which has to keep them from doing anything else. How would you contrast that? Can we get out of this moment where it’s a pure scramble, or is this fully shaking everything up? We’re in a very transactional environment. Everything is short-term, and these rapid changes that you see in the tariffs… If you look at a map of 2025 and 2026 and put a dot everywhere there was some tariff action, it looks like a shotgun hit the wall. There are all these spots all over the place. The problem with that is when you have that type of instability, it’s very hard for a company to make any long-term plans. Before I build a factory, I want to know that I’m going to have stable demand for a couple of years, at least until I have a chance of earning a return on that thing. I’ve talked to a couple of companies about this. These were overseas companies thinking about coming into the US market, and they said, “Well, I can’t do it because things keep changing. Do I go to Mexico? Do I go to the US? What part of the US do I go into?” Especially with things like semiconductor fabs, you need to know that you’re going to be able to get 10 to 20 years out of it. When things change every couple of weeks, what that does instead is say, “I’m just going to hold off on an investment because it’s just too uncertain. It changes too often.” Are you seeing that slow down in investment? Are you seeing companies say, “We can’t actually invest in manufacturing in the United States”? It varies. I see that with a lot of companies asking, “Where do I want to put my production operations?” Okay, now we see some things like car plants coming into the US, and usually that’s a function of the pain being too great. But the whole auto tariff thing is also a little bit crazy. If you look historically at production strategies in the auto industry, typically when you build a plant, you size it to build about 200,000 to 250,000 units of a model or a model family, because that’s like the efficient scale for an auto plant. Then what you have is a company like BMW that says, “Great, I’m going to build all my X Series SUVs in South Carolina. I’ll build the 3 Series somewhere else. I’ll build the 5 Series somewhere else, and I’ll build the 7 Series somewhere else. And then what I’ll do is exchange them.” So BMW in South Carolina or Mercedes in Alabama, they build certain models in the US, export them to the rest of the world, and then import other models so that you have the whole product line. Toyota does that. For example, they build more Camrys in the US than anywhere else, and they were exporting some of those as well. But then when you start putting tariffs on imports, that screws up that whole strategy. Again, it’s a decision that was made without understanding how the automakers had laid out that strategy.. You need to understand how the supply chain is structured and why it’s structured the way it is, and then you can be more thoughtful.. Do you see tariffs as mostly protectionist? I was in France earlier this year, and I took an Uber, and I think it was a BYD Seal, a Chinese EV. I asked the French Uber driver, “How do you like this car?” He was very French, and he literally did the thing. He goes, “Peugeot is shit.” I almost started clapping because it was amazing. He’s like, “If the French government would just allow the Chinese government to sell these cars here, these companies would all be dead.” In the United States, I think Jim Farley, the CEO of Ford, is running around saying the Chinese EVs are superior to American products. It’s the tariffs that protect our markets and protect our manufacturers, because you could import the cars, but you’d pay such high tariffs that they’re economically infeasible. That’s just pure protectionism. That goes against what you’re saying, which is that you need to protect your industry until their products are good enough to compete on the global scale. But we’re not doing that with our carmakers. We’re just protecting them. Yeah, and there’s a cost associated with that. So, for example, one of the famous tariffs is a so-called chicken tax. I talk about this in the book as well. The chicken tax resulted from this trade spat where we put tariffs on imported light trucks. SUVs are built on that platform. It’s one of the reasons the Detroit automakers have focused on SUVs and light trucks. That’s their profit center because there’ve been tariffs on that, and it’s only happened in the last decade or so that Toyota and Nissan and others have made more light trucks in the US and Mexico. So that’s one of the results of that type of tariff distortion. Wait. But that’s a policy victory, right? Toyota, Nissan, and all the other foreign manufacturers are going to make trucks in the United States. You’ve gotten some economic benefit; they can compete, and maybe all the trucks are going to get better. You get some economic benefit, but one of the reasons the Detroit guys still make so many trucks and SUVs on those platforms is because they’re more profitable, which says the price is higher than it might otherwise have been. But I do see the benefit of that. Although I have to say, I was walking around the Toyota factory in Georgetown, Kentucky. I’m walking around with the plant manager, and I said, “You’re making sedans here?” He said, “Yep,” and a lot of the Detroit guys have given up making sedans because they can’t make any money. I said, “And you’re using parts that mostly come from Kentucky, Ohio, Indiana, Alabama, Mississippi, and Texas, and some from Mexico and Japan, but mostly domestic content.” He’s like, “Yep.” I said, “And you’re using American workers.” He said, “Yep.” I said, “You’re using American-made steel.” I’m trying to get out of him that, okay, look, I know American steel costs a lot more than imported steel because I’ve been in other factories that are still importing steel despite the steel tariffs because they say it’s still cheaper in Asia. But I said, “You’re using American-made steel.” So I’m trying to get that out of him: how much he’s paying for steel. Obviously, he’s not going to tell me, but he does say, “We have a strategic long-term relationship with our supplier.” That tells you a lot, which is that there are ways you can do these things. You have to work with your suppliers. You have to give them longer-term arrangements, be less transactional, more strategic on things like that. So I think you can do it, but it really takes a comprehensive and more thoughtful approach. I understand the rationale for putting tariffs on foreign goods that undercut our markets. You’re just going to increase the cost, and then maybe the consumer will buy the domestic product, and that’s better for our economy. It just hasn’t seemed to have worked. I don’t see Liberation Day as having done anything except generally raise prices on everything. We haven’t actually remapped the global economy. And a lot of what you’re describing is, well, the system is pretty resilient. The system was pretty resilient to COVID. The system was pretty resilient to an oil tanker getting stuck in the Suez Canal. The system has been pretty resilient to the war in Iran. The system has been pretty resilient to absolutely chaotic tariffs. Maybe some prices have risen, and I’m sure we’re going to get listeners pointing out that all the prices have risen. It feels like the only thing the system isn’t resilient to is the AI industry wanting every scrap of RAM that the whole world can produce. And so now there’s not going to be inexpensive cell phones. What will push the system over the breaking point? Because globalization has seemed generally resilient to a bunch of people who want it to be over. I think what you’re highlighting is that it’s really the power of the market. In the case of closing the Strait of Hormuz, Brent North Sea crude prices didn’t go to $150 a barrel like I was afraid they would, and a lot of people were afraid they would because the market adjusted. We applied a lot of tariffs on Liberation Day. The first response was circumvention or front-running. The next response was tariff engineering. The next response is like, “Okay, let me move production to Vietnam or let me move production to Mexico, and I’ll find a way around that.” Now, eventually, when you close down all those things, then prices eventually have to rise. In the case of memory chips, that’s a different problem because the demand far outstripped the capacity. I used to always buy memory cards on Black Friday. Forget that this year. Yeah, it’s all over. I’m just glad I stocked up on a previous Black Friday. If you want to know my prediction for when the AI industry will meet its true political end, it’s when Grand Theft Auto VI comes out. Everyone goes out to buy a PS5, and they realize it’s more expensive now at the end of its life cycle than it was at the beginning because the price of memory has skyrocketed. Yeah, no kidding. We’re talking about huge amounts. But that’s the same thing. We’re in a phase where we see all these tactical actions taken by the government, very transactional, without necessarily understanding all the complex interconnections and interdependencies. You may have noticed, for example, that the administration temporarily suspended the Jones Act. I don’t know if you remember that. Why did they temporarily suspend the Jones Act? Because oil refineries on the East Coast of the US couldn’t get their oil from Texas cheaply because there were no domestic supertankers. The Jones Act requires that if you move stuff from Texas to New Jersey, you have to have a US-owned, US-crewed, US-built, very large crude carrier. There aren’t any because we don’t build those in the US. So that’s why it’s cheaper to bring oil from Algeria to New Jersey than it is to bring it from Texas. And that’s why they suspended the Jones Act for a while. At least they understood that. I know at least some of our audience is going to be listening to this conversation, and you’re steeped in global trade. You wrote a book to educate our government about how it works from the basics, which I think is sorely needed. But a lot of the promise for young people in our politics lately is that we will rebuild American capacity. We will rebuild manufacturing capacity. We will bring back a bunch of jobs where you don’t need an advanced degree in AI prompt engineering or whatever to see the future. We will bring back the dignity of work. Politicians on both sides are making these promises all the time, and a lot of that requires closing down trade, forcing that economic activity back within our borders. It just seems like that isn’t likely. So I’m not going to ask you whether or not that is totally likely. I’m going to ask: what’s more likely instead? Well, I think what’s more likely is that we will see efforts as you describe. I would love to sit down with people and say, okay, we want to move this type of production back to the US. Let’s take a more strategic, more nuanced approach, understanding the bigger picture, considering what levers are available. The US is still a big, attractive market. It is the largest market in the world. It is the most attractive market in the world. That’s, by the way, why the Chinese all want to come here: because they can make some money here that they can’t make elsewhere. So then how do we harness that market power and that market pull with a more nuanced understanding of why our supply chains are organized the way they are today? Recognizing that, can I build a strategy to bring important things that are very strategic for the US to know how to do? Let’s think about how we fix this problem with an understanding of that bigger picture. Willy, it’s been great to talk to you. It is always just a pleasure. We have to have you back faster than five years. Thank you so much for being on Decoder. Thanks for having me. Questions or comments? Hit us up at decoder@theverge.com. We really do read every email!",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-05T15:00:00.000Z",
+            "fetchedAt": "2026-11-05T15:49:17.706Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
             "section": "macro-environment",
-            "subCategory": "customers-partners",
-            "subLabel": "Customers & Partners",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
             "competitors": [],
             "stakeholders": [
-              "platform-partner"
+              "oem",
+              "foundry"
             ],
-            "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
-            "id": "a13"
+            "summary": "Today, I’m talking with Willy Shih, an economist, a professor of management practice at Harvard Business School, and the author of the upcoming book, Where Does My Stuff Come From? The Powerful Economics Behind Global Supply Chains. Willy is one of my all-time favorite Decoder guests — his way of looking at the world through our supply chains is just a fascinating way of making sense of the global economy. I first met Willy in 2019, while The Verge was covering Foxconn’s promise to build an LCD fab in Wisconsin. That obviously never happened, but Willy called it right away because he could see the supply chain to support a fab simply wasn’t in place.",
+            "id": "a6"
+          },
+          {
+            "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+            "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+            "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "source": "IP Fray",
+            "sourceId": "ip-fray",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-05T08:28:31.000Z",
+            "fetchedAt": "2026-11-05T15:49:21.008Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [
+              "apple",
+              "huawei"
+            ],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "id": "a21"
           },
           {
             "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-            "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+            "url": "https://www.iam-media.com/index.php/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
             "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
             "source": "IAM",
             "sourceId": "iam",
             "sourceGroup": "ip",
             "publishedAt": "2026-11-04T23:12:13.000Z",
-            "fetchedAt": "2026-11-05T07:26:32.270Z",
+            "fetchedAt": "2026-11-05T15:49:19.328Z",
             "fetchStrategy": "rss",
             "section": "ip-legal",
             "subCategory": "frand-licensing",
@@ -22771,53 +22386,12 @@ export const NEWS_DATA = {
               "oem"
             ],
             "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-            "id": "a20"
-          },
-          {
-            "title": "Qualcomm is betting big on data centers as smartphone sales sink",
-            "url": "https://www.theverge.com/ai-artificial-intelligence/1026867/qualcomm-earnings-data-centers",
-            "description": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-            "source": "The Verge",
-            "sourceId": "the-verge",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-04T22:42:15.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.484Z",
-            "fetchStrategy": "rss",
-            "section": "growth-areas",
-            "subCategory": "data-center",
-            "subLabel": "Data Center",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-            "id": "a21"
-          },
-          {
-            "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
-            "url": "https://techcrunch.com/2026/11/04/duckduckgo-pitches-itself-to-schools-amid-backlash-over-googles-ai-policy/",
-            "description": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-            "source": "TechCrunch",
-            "sourceId": "techcrunch",
-            "sourceGroup": "tech",
-            "publishedAt": "2026-11-04T19:29:52.000Z",
-            "fetchedAt": "2026-11-05T07:26:30.124Z",
-            "fetchStrategy": "rss",
-            "geopoliticalBypass": true,
-            "section": "macro-environment",
-            "subCategory": "geopolitics-export-controls",
-            "subLabel": "Geopolitics & Export Controls",
-            "competitors": [],
-            "stakeholders": [
-              "platform-partner"
-            ],
-            "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-            "id": "a29"
+            "id": "a24"
           }
         ]
       }
     },
-    "totalArticles": 47
+    "totalArticles": 36
   }
 };
 
