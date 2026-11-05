@@ -1,11 +1,40 @@
 {
-  "generatedAt": "2026-11-04T18:52:56.759Z",
+  "generatedAt": "2026-11-05T00:33:12.519Z",
   "date": "2026-11-05",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f",
+    "keyTakeaways": [
+      {
+        "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+        "articleIds": [
+          "a5"
+        ],
+        "subCategory": "frand-licensing"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
+      "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+      "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-04T23:12:13.000Z",
+      "fetchedAt": "2026-11-05T00:33:08.994Z",
+      "fetchStrategy": "rss",
+      "section": "ip-legal",
+      "subCategory": "frand-licensing",
+      "subLabel": "FRAND & Licensing",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+      "id": "a5"
+    }
+  ]
 }
