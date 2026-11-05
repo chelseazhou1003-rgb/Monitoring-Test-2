@@ -1,0 +1,736 @@
+{
+  "generatedAt": "2026-11-05T22:20:58.557Z",
+  "date": "2026-11-06",
+  "sections": {
+    "core-businesses": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "core-businesses",
+      "sectionTitle": "Core Businesses",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (2 articles). A total of 8 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Semiconductors: Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
+            "articleIds": [
+              "a8"
+            ],
+            "subCategory": "semiconductors"
+          },
+          {
+            "text": "Mobile Chips: AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+            "articleIds": [
+              "a12"
+            ],
+            "subCategory": "mobile-chips"
+          },
+          {
+            "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "articleIds": [
+              "a19"
+            ],
+            "subCategory": "wireless"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm Stocks Fall 13.63% as Handset Weakness Overshadows Diversification",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-fall-13-63-193136086.html?.tsrc=rss",
+          "description": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T19:31:36.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
+          "id": "a8"
+        },
+        {
+          "title": "Applied Materials Sinks 12%, Lam Research Down 14% as Chip Stock Rout Deepens After Midterms",
+          "url": "https://www.tikr.com/blog/applied-materials-sinks-12-lam-research-down-14-as-chip-stock-rout-deepens-after-midterms?ref=yahoofinance&tlnk=yf-261105-656xr43g&.tsrc=rss",
+          "description": "Key TakeawaysApplied Materials fell 12% today as the chip sell-off that began after the midterms deepened, pulling down Lam Research, KLA and Teradyne. Investors fear data-center spending will slow, and Qualcomm’s weak guidance didn’t help.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T18:06:40.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Key TakeawaysApplied Materials fell 12% today as the chip sell-off that began after the midterms deepened, pulling down Lam Research, KLA and Teradyne. Investors fear data-center spending will slow, and Qualcomm’s weak guidance didn’t help.",
+          "id": "a9"
+        },
+        {
+          "title": "Chip Stocks Are Sinking, but This Bearish ETF Is Up More Than 25%",
+          "url": "https://247wallst.com/investing/etf/2026/11/05/chip-stocks-are-sinking-but-this-bearish-etf-is-up-more-than-25/?.tsrc=rss",
+          "description": "A midterm shake-up in Washington and a weak Qualcomm forecast sent chipmakers tumbling, and one triple-leveraged fund cashed in fast. Its yearly record tells a far harsher story that anyone tempted to chase the move should see first.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T18:03:04.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "A midterm shake-up in Washington and a weak Qualcomm forecast sent chipmakers tumbling, and one triple-leveraged fund cashed in fast. Its yearly record tells a far harsher story that anyone tempted to chase the move should see first.",
+          "id": "a11"
+        },
+        {
+          "title": "Qualcomm's Impressive Guidance Comes With a Big Catch",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-impressive-guidance-comes-big-174103146.html?.tsrc=rss",
+          "description": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T17:41:03.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "mobile-chips",
+          "subLabel": "Mobile Chips",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+          "id": "a12"
+        },
+        {
+          "title": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
+          "description": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T14:54:15.000Z",
+          "fetchedAt": "2026-11-05T22:20:57.318Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Reuters",
+          "section": "core-businesses",
+          "subCategory": "semiconductors",
+          "subLabel": "Semiconductors",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
+          "id": "a13"
+        },
+        {
+          "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+          "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+          "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "source": "IP Fray",
+          "sourceId": "ip-fray",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-05T08:28:31.000Z",
+          "fetchedAt": "2026-11-05T22:20:56.827Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "wireless",
+          "subLabel": "Wireless Communication",
+          "competitors": [
+            "apple",
+            "huawei"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "id": "a19"
+        },
+        {
+          "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
+          "url": "https://www.mobileworldlive.com/network-tech/spacex-taps-qualcomm-to-power-starlink-mobile-in-us/",
+          "description": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+          "source": "Mobile World Live",
+          "sourceId": "mobile-world-live",
+          "sourceGroup": "telecom",
+          "publishedAt": "2026-11-04T14:48:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:55.781Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "mobile-chips",
+          "subLabel": "Mobile Chips",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
+          "id": "a23"
+        },
+        {
+          "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
+          "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
+          "description": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
+          "source": "Light Reading",
+          "sourceId": "light-reading",
+          "sourceGroup": "telecom",
+          "publishedAt": "2026-11-04T13:30:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:56.343Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "wireless",
+          "subLabel": "Wireless Communication",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
+          "id": "a24"
+        }
+      ]
+    },
+    "ip-legal": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "ip-legal",
+      "sectionTitle": "IP & Legal",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles). A total of 2 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "FRAND & Licensing: Licensing renewals and automotive growth shape the chipmaker's outlook.",
+            "articleIds": [
+              "a7"
+            ],
+            "subCategory": "frand-licensing"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "QUALCOMM (QCOM) Q4 2026 Earnings Call Transcript",
+          "url": "https://www.fool.com/earnings/call-transcripts/2026/11/05/qualcomm-qcom-q4-2026-earnings-call-transcript/?.tsrc=rss",
+          "description": "Licensing renewals and automotive growth shape the chipmaker's outlook.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T20:19:01.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "frand-licensing",
+          "subLabel": "FRAND & Licensing",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Licensing renewals and automotive growth shape the chipmaker's outlook.",
+          "id": "a7"
+        },
+        {
+          "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
+          "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+          "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-04T23:12:13.000Z",
+          "fetchedAt": "2026-11-05T22:20:54.313Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "frand-licensing",
+          "subLabel": "FRAND & Licensing",
+          "competitors": [],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+          "id": "a21"
+        }
+      ]
+    },
+    "growth-areas": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "growth-areas",
+      "sectionTitle": "Growth Areas",
+      "briefing": {
+        "summary": "One article today covering Data Center. Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+        "keyTakeaways": [
+          {
+            "text": "Data Center: Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+            "articleIds": [
+              "a4"
+            ],
+            "subCategory": "data-center"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm's Data Center Investments Could Weigh on Near-Term Margins, RBC Says",
+          "url": "https://finance.yahoo.com/technology/articles/qualcomm-apos-data-center-investments-205746920.html?.tsrc=rss",
+          "description": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T20:57:46.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "growth-areas",
+          "subCategory": "data-center",
+          "subLabel": "Data Center",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+          "id": "a4"
+        }
+      ]
+    },
+    "macro-environment": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "macro-environment",
+      "sectionTitle": "Macro",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (7 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "market-performance: Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to talk further about the company's earnings and its forecasts surrounding handheld devices and AI data centers.",
+            "articleIds": [
+              "a1"
+            ],
+            "subCategory": "market-performance"
+          },
+          {
+            "text": "Geopolitics & Export Controls: The New Economics of National Security (Part I) Daily Times",
+            "articleIds": [
+              "a3"
+            ],
+            "subCategory": "geopolitics-export-controls"
+          },
+          {
+            "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
+            "articleIds": [
+              "a26"
+            ],
+            "subCategory": "customers-partners"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm CFO outlines AI's next big transformation: A new type of personal device",
+          "url": "https://finance.yahoo.com/video/qualcomm-cfo-outlines-ais-next-big-transformation-a-new-type-of-personal-device-215605977.html?.tsrc=rss",
+          "description": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to talk further about the company's earnings and its forecasts surrounding handheld devices and AI data centers.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T21:56:05.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to talk further about the company's earnings and its forecasts surrounding handheld devices and AI data centers.",
+          "id": "a1"
+        },
+        {
+          "title": "Chip Stocks Tumble After Arm, Qualcomm Reports",
+          "url": "https://finance.yahoo.com/m/4ffd1fa7-89e8-30b1-8b51-102fb1d0af19/chip-stocks-tumble-after-arm%2C.html?.tsrc=rss",
+          "description": "Chip stocks continued to fall Thursday in the wake of Tuesday's election results and earnings reports from Arm, Qualcomm and others.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T21:43:43.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Chip stocks continued to fall Thursday in the wake of Tuesday's election results and earnings reports from Arm, Qualcomm and others.",
+          "id": "a2"
+        },
+        {
+          "title": "The New Economics of National Security (Part I) - Daily Times",
+          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOX0RVem5aNDBUUkpFTVFWMVlvQUdGRG5ZcGJaTlFSazRFYjBIWkRVU0JwMHpfcHFqcmM4OU1uYXFRZFdYVTdubzFTNnlzOEsxOERKdUZScDkxenRmYlpBeU1FQlQ2c0lSMVluR3VFUHBiaURNSlFTbzdZbHpqb09JeFdmWUV2b28?oc=5",
+          "description": "The New Economics of National Security (Part I) Daily Times",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T21:07:32.000Z",
+          "fetchedAt": "2026-11-05T22:20:58.514Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Daily Times",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "The New Economics of National Security (Part I) Daily Times",
+          "id": "a3"
+        },
+        {
+          "title": "Qualcomm Stock Forecast – Why Analysts Cut Price Targets After Q4 Results",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-forecast-why-analysts-205447868.html?.tsrc=rss",
+          "description": "Chipmaker Qualcomm (QCOM) reported better-than-expected Q4 results after the market closed on November 4. However, despite the earnings beat, analysts remain concerned about rising component costs, gross margin pressure, and potential weakness in the handset market. Following the results, several analysts lowered their price targets on QCOM, with some maintaining Sell ratings. Shares were trading lower in premarket trading on November 5. Meanwhile, Qualcomm is making progress in diversifying bey",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T20:54:47.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Chipmaker Qualcomm (QCOM) reported better-than-expected Q4 results after the market closed on November 4. However, despite the earnings beat, analysts remain concerned about rising component costs, gross margin pressure, and potential weakness in the handset market. Following the results, several analysts lowered their price targets on QCOM, with some maintaining Sell ratings. Shares were trading lower in premarket trading on November 5. Meanwhile, Qualcomm is making progress in diversifying bey",
+          "id": "a5"
+        },
+        {
+          "title": "Qualcomm earnings analysis: questions answered and next catalysts",
+          "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-earnings-analysis-questions-answered-205248480.html?.tsrc=rss",
+          "description": "Investing.com -- Qualcomm (QCOM) cleared the low bar on the headline numbers. It still fell, because the quality of the quarter and the guidance disappointed. The stock trades at $155.09 (-10.45%) as of Nov 5, 1:24 PM EST. It is down 16.35% over one week.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T20:52:48.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Investing.com -- Qualcomm (QCOM) cleared the low bar on the headline numbers. It still fell, because the quality of the quarter and the guidance disappointed. The stock trades at $155.09 (-10.45%) as of Nov 5, 1:24 PM EST. It is down 16.35% over one week.",
+          "id": "a6"
+        },
+        {
+          "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+          "url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
+          "description": "Intel stock is on track to slump more than 50% in a month.",
+          "source": "Yahoo Finance",
+          "sourceId": "yahoo-finance",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T18:06:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.268Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Intel stock is on track to slump more than 50% in a month.",
+          "id": "a10"
+        },
+        {
+          "title": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe - BigGo Finance",
+          "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFAxMEpDYU51VXc5TWhBMldkTWlzMTU4cjRjV3lOc191SDJtSWVYTW1laWhYSFlHMDZRdHA4dTdZQXp3ZkY2WkVjRllQRnhaME1UUGFqVlpBUldiWENMbmNYcFRKMjhwcVhHV1gxX0E3MmMyd2t0OGc?oc=5",
+          "description": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T14:26:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:58.514Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "BigGo Finance",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
+          "id": "a14"
+        },
+        {
+          "title": "China blocks SoftBank, ABB robotics deal",
+          "url": "https://www.mobileworldlive.com/ai-cloud/china-blocks-softbank-abb-robotics-deal/",
+          "description": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+          "source": "Mobile World Live",
+          "sourceId": "mobile-world-live",
+          "sourceGroup": "telecom",
+          "publishedAt": "2026-11-05T13:48:41.000Z",
+          "fetchedAt": "2026-11-05T22:20:55.781Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
+          "id": "a15"
+        },
+        {
+          "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
+          "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
+          "description": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+          "source": "CNBC",
+          "sourceId": "cnbc",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T13:34:14.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.299Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
+          "id": "a16"
+        },
+        {
+          "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech - WSJ",
+          "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
+          "description": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech WSJ",
+          "source": "Wall Street Journal",
+          "sourceId": "wsj",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T11:50:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:57.368Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "WSJ",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech WSJ",
+          "id": "a17"
+        },
+        {
+          "title": "Brussels bets on chip designers after Chips Act misses production target - Brussels Signal",
+          "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQX1paQm1fUnlhNUdUOUpSYzF0ZDl5RDdHWVYwXzNJWEZDeXJxSnlKaGZXNDFOWUprQUI1c0d4dzZlYU5Oa0U4LVltMzdKR1dXd3VCcmdVVnlQZEFfWkdzenhYR0d0Ulh6eXdZbnF6UWhmTnlobGdEa0c2THIzMnpwZFhibUpPMXdOby1Ea2FSclhaVHBMNDdyUVQtRWVDY3RLS19NOWJxOVBQZmM?oc=5",
+          "description": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-05T10:08:41.000Z",
+          "fetchedAt": "2026-11-05T22:20:58.514Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Brussels Signal",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
+          "id": "a18"
+        },
+        {
+          "title": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
+          "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
+          "description": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
+          "source": "Reuters",
+          "sourceId": "reuters",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-04T23:40:12.000Z",
+          "fetchedAt": "2026-11-05T22:20:57.318Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Reuters",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
+          "id": "a20"
+        },
+        {
+          "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
+          "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
+          "description": "Qualcomm Inc. shares tumbled after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+          "source": "Bloomberg",
+          "sourceId": "bloomberg",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-04T21:01:36.000Z",
+          "fetchedAt": "2026-11-05T22:20:52.381Z",
+          "fetchStrategy": "rss",
+          "section": "macro-environment",
+          "subCategory": "market-performance",
+          "subLabel": "market-performance",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "shares tumbled after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+          "id": "a22"
+        },
+        {
+          "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
+          "url": "https://ipfray.com/cnipas-five-year-plan-spans-pre-filing-commercial-assessments-ai-assisted-inventions-possible-sep-pilot-drug-patent-linkage-disputes/",
+          "description": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+          "source": "IP Fray",
+          "sourceId": "ip-fray",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-04T12:00:00.000Z",
+          "fetchedAt": "2026-11-05T22:20:56.827Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
+          "id": "a25"
+        },
+        {
+          "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
+          "url": "https://www.semiconductor-digest.com/acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool/?utm_source=rss&utm_medium=rss&utm_campaign=acm-research-announces-shipment-of-its-first-310-x-310-mm-ultra-ecp-ap-p-panel-level-horizontal-electroplating-production-tool",
+          "description": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
+          "source": "Semiconductor Digest",
+          "sourceId": "semiconductor-digest",
+          "sourceGroup": "semiconductor",
+          "publishedAt": "2026-11-03T19:32:48.000Z",
+          "fetchedAt": "2026-11-05T22:20:55.627Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "customers-partners",
+          "subLabel": "Customers & Partners",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
+          "id": "a26"
+        },
+        {
+          "title": "Russia, China likely to ramp up UK cyberattacks",
+          "url": "https://www.mobileworldlive.com/ai-cloud/russia-china-to-ramp-up-uk-cyberattacks-by-2028/",
+          "description": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+          "source": "Mobile World Live",
+          "sourceId": "mobile-world-live",
+          "sourceGroup": "telecom",
+          "publishedAt": "2026-11-03T15:20:45.000Z",
+          "fetchedAt": "2026-11-05T22:20:55.782Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
+          "id": "a27"
+        }
+      ]
+    },
+    "competitors": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "competitors",
+      "sectionTitle": "Competitors",
+      "briefing": {
+        "summary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+        "keyTakeaways": [
+          {
+            "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "articleIds": [
+              "a19"
+            ],
+            "subCategory": "wireless"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+          "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+          "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "source": "IP Fray",
+          "sourceId": "ip-fray",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-05T08:28:31.000Z",
+          "fetchedAt": "2026-11-05T22:20:56.827Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "wireless",
+          "subLabel": "Wireless Communication",
+          "competitors": [
+            "apple",
+            "huawei"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "id": "a19"
+        }
+      ]
+    },
+    "stakeholders": {
+      "generatedAt": "2026-11-05T22:20:58.554Z",
+      "date": "2026-11-06",
+      "section": "stakeholders",
+      "sectionTitle": "Key Stakeholders",
+      "briefing": {
+        "summary": "Today's Qualcomm coverage in this section spans Wireless Communication (1 article), FRAND & Licensing (1 article). A total of 2 articles were aggregated from monitored sources.",
+        "keyTakeaways": [
+          {
+            "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+            "articleIds": [
+              "a19"
+            ],
+            "subCategory": "wireless"
+          },
+          {
+            "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+            "articleIds": [
+              "a21"
+            ],
+            "subCategory": "frand-licensing"
+          }
+        ]
+      },
+      "articles": [
+        {
+          "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
+          "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
+          "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "source": "IP Fray",
+          "sourceId": "ip-fray",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-05T08:28:31.000Z",
+          "fetchedAt": "2026-11-05T22:20:56.827Z",
+          "fetchStrategy": "rss",
+          "section": "core-businesses",
+          "subCategory": "wireless",
+          "subLabel": "Wireless Communication",
+          "competitors": [
+            "apple",
+            "huawei"
+          ],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
+          "id": "a19"
+        },
+        {
+          "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
+          "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
+          "description": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+          "source": "IAM",
+          "sourceId": "iam",
+          "sourceGroup": "ip",
+          "publishedAt": "2026-11-04T23:12:13.000Z",
+          "fetchedAt": "2026-11-05T22:20:54.313Z",
+          "fetchStrategy": "rss",
+          "section": "ip-legal",
+          "subCategory": "frand-licensing",
+          "subLabel": "FRAND & Licensing",
+          "competitors": [],
+          "stakeholders": [
+            "oem"
+          ],
+          "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
+          "id": "a21"
+        }
+      ]
+    }
+  },
+  "totalArticles": 30
+}

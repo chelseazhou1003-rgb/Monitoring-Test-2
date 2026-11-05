@@ -1,11 +1,38 @@
 {
-  "generatedAt": "2026-11-05T15:49:22.899Z",
-  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "date": "2026-11-06",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
-    "keyTakeaways": []
+    "summary": "One article today covering Data Center. Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+    "keyTakeaways": [
+      {
+        "text": "Data Center: Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+        "articleIds": [
+          "a4"
+        ],
+        "subCategory": "data-center"
+      }
+    ]
   },
-  "articles": []
+  "articles": [
+    {
+      "title": "Qualcomm's Data Center Investments Could Weigh on Near-Term Margins, RBC Says",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomm-apos-data-center-investments-205746920.html?.tsrc=rss",
+      "description": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T20:57:46.000Z",
+      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+      "id": "a4"
+    }
+  ]
 }

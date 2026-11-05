@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-05T15:49:22.899Z",
-  "date": "2026-11-05",
+  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "date": "2026-11-06",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (6 articles), Semiconductors (4 articles), Wireless Communication (2 articles). A total of 12 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (2 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price ",
+        "text": "Semiconductors: Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
         "articleIds": [
-          "a4"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset ch",
-        "articleIds": [
-          "a7"
+          "a8"
         ],
         "subCategory": "semiconductors"
       },
       {
+        "text": "Mobile Chips: AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+        "articleIds": [
+          "a12"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a21"
+          "a19"
         ],
         "subCategory": "wireless"
       }
@@ -31,140 +31,86 @@
   },
   "articles": [
     {
-      "title": "SK hynix Sinks 9% as Qualcomm’s 26% Handset Plunge Deepens Memory Chip Rout",
-      "url": "https://www.tikr.com/blog/sk-hynix-sinks-9-as-qualcomms-26-handset-plunge-deepens-memory-chip-rout?ref=yahoofinance&tlnk=yf-261105-5324ff3r&.tsrc=rss",
-      "description": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
+      "title": "Qualcomm Stocks Fall 13.63% as Handset Weakness Overshadows Diversification",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-fall-13-63-193136086.html?.tsrc=rss",
+      "description": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T15:08:33.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysSK hynix shares fell 9% after Qualcomm reported a 26% drop in handset chip sales as memory costs push phone prices up. Conventional DRAM, the kind phones use, drove SK hynix’s 2026 price gains.",
-      "id": "a4"
-    },
-    {
-      "title": "Qualcomm Handset Revenue Falls 26%",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-handset-revenue-falls-26-150110263.html?.tsrc=rss",
-      "description": "Quarterly handset revenue declined 26% to $5.14 billion.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T15:01:10.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Quarterly handset revenue declined 26% to $5.14 billion.",
-      "id": "a5"
-    },
-    {
-      "title": "Qualcomm Sinks 12% as Rising Chip Costs Overshadow Its “Non-Handset Revenue Inflection”",
-      "url": "https://www.tikr.com/blog/qualcomm-sinks-12-as-rising-chip-costs-overshadow-its-non-handset-revenue-inflection?ref=yahoofinance&tlnk=yf-261105-wccrvmrm&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T14:31:56.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
+      "publishedAt": "2026-11-05T19:31:36.000Z",
+      "fetchedAt": "2026-11-05T22:20:52.268Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Key TakeawaysQualcomm fell 12% today on a soft guide and a warning that rising chip costs will squeeze margins into late fiscal 2027. Cars and IoT covered only about half of the 26% drop in handset chip revenue, and the stock still trades above its five-year average forward P/E.",
-      "id": "a7"
+      "summary": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
+      "id": "a8"
     },
     {
-      "title": "QCOM Q4 Earnings Call Highlights Data Center Ramp and Handset Risks",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qcom-q4-earnings-call-highlights-140000903.html?.tsrc=rss",
-      "description": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
+      "title": "Applied Materials Sinks 12%, Lam Research Down 14% as Chip Stock Rout Deepens After Midterms",
+      "url": "https://www.tikr.com/blog/applied-materials-sinks-12-lam-research-down-14-as-chip-stock-rout-deepens-after-midterms?ref=yahoofinance&tlnk=yf-261105-656xr43g&.tsrc=rss",
+      "description": "Key TakeawaysApplied Materials fell 12% today as the chip sell-off that began after the midterms deepened, pulling down Lam Research, KLA and Teradyne. Investors fear data-center spending will slow, and Qualcomm’s weak guidance didn’t help.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T14:00:00.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm targets $5 billion in fiscal 2027 data center revenue as automotive growth accelerates, while handset weakness and margin pressures pose challenges.",
-      "id": "a10"
-    },
-    {
-      "title": "Qualcomm Sinks 11% as Soft Profit Guidance and Handset Slump Overshadow Beat; Arm Holdings Drops 7%, Skyworks Slides 2%",
-      "url": "https://247wallst.com/investing/2026/11/05/qualcomm-sinks-11-as-soft-profit-guidance-and-handset-slump-overshadow-beat-arm-holdings-drops-7-skyworks-slides-2/?.tsrc=rss",
-      "description": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T13:43:59.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm topped Wall Street's estimates on both revenue and earnings, yet investors rushed for the exits anyway. Something buried in the outlook and the phone business spooked the market, and it is rattling Arm and Skyworks too.",
-      "id": "a13"
-    },
-    {
-      "title": "Qualcomm, Micron, Sandisk, and AMD stocks sink, leading chip sector lower",
-      "url": "https://finance.yahoo.com/markets/article/qualcomm-micron-arm-stocks-sink-lead-chip-sector-lower-133100607.html?.tsrc=rss",
-      "description": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T13:31:00.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
+      "publishedAt": "2026-11-05T18:06:40.000Z",
+      "fetchedAt": "2026-11-05T22:20:52.268Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm, Micron, and Arm Holdings were all trading lower on Thursday as chip stocks continued to slide.",
-      "id": "a15"
+      "summary": "Key TakeawaysApplied Materials fell 12% today as the chip sell-off that began after the midterms deepened, pulling down Lam Research, KLA and Teradyne. Investors fear data-center spending will slow, and Qualcomm’s weak guidance didn’t help.",
+      "id": "a9"
     },
     {
-      "title": "Qualcomm Stock Falls as Rising Chip Costs Outrun Price Hikes",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-falls-rising-chip-120332632.html?.tsrc=rss",
-      "description": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
+      "title": "Chip Stocks Are Sinking, but This Bearish ETF Is Up More Than 25%",
+      "url": "https://247wallst.com/investing/etf/2026/11/05/chip-stocks-are-sinking-but-this-bearish-etf-is-up-more-than-25/?.tsrc=rss",
+      "description": "A midterm shake-up in Washington and a weak Qualcomm forecast sent chipmakers tumbling, and one triple-leveraged fund cashed in fast. Its yearly record tells a far harsher story that anyone tempted to chase the move should see first.",
       "source": "Yahoo Finance",
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T12:03:32.000Z",
-      "fetchedAt": "2026-11-05T15:49:17.034Z",
+      "publishedAt": "2026-11-05T18:03:04.000Z",
+      "fetchedAt": "2026-11-05T22:20:52.268Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Higher costs for wafers, packaging and memory are squeezing QCT margins",
-      "id": "a18"
+      "summary": "A midterm shake-up in Washington and a weak Qualcomm forecast sent chipmakers tumbling, and one triple-leveraged fund cashed in fast. Its yearly record tells a far harsher story that anyone tempted to chase the move should see first.",
+      "id": "a11"
     },
     {
-      "title": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum - Reuters",
+      "title": "Qualcomm's Impressive Guidance Comes With a Big Catch",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-impressive-guidance-comes-big-174103146.html?.tsrc=rss",
+      "description": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T17:41:03.000Z",
+      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
+      "id": "a12"
+    },
+    {
+      "title": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum - Reuters",
       "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
-      "description": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
+      "description": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
       "source": "Reuters",
       "sourceId": "reuters",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T10:16:18.000Z",
-      "fetchedAt": "2026-11-05T15:49:21.636Z",
+      "publishedAt": "2026-11-05T14:54:15.000Z",
+      "fetchedAt": "2026-11-05T22:20:57.318Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -172,8 +118,8 @@
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm slumps as weak smartphone chip sales overshadow data-center momentum Reuters",
-      "id": "a19"
+      "summary": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
+      "id": "a13"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -183,7 +129,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-05T15:49:21.008Z",
+      "fetchedAt": "2026-11-05T22:20:56.827Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -196,26 +142,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a21"
-    },
-    {
-      "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOVjRWZDhfZ1BEQ2tFQUVMZ0MzQTdvY1czUWxlcUVfU29QcldDSVU5eVRVeENnQ2pMQ1ppUmZvNThDVWtwUUFZY0djcG5CLVdmbDJ1WFpWRUMtVzhJcWZoRTVqd1JnTmVsN2I1T0ZIUHpxbEJhbjF2V1JVV1lBd1ZSZmZTS01BcFJsTkZnMGh3UEpfX1E4VlJFS3JnTUlfLXJsUmxqZGl0a0R0NDJUZC1YSUcxVkE?oc=5",
-      "description": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-      "source": "Wall Street Journal",
-      "sourceId": "wsj",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T21:34:00.000Z",
-      "fetchedAt": "2026-11-05T15:49:21.683Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "WSJ",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-      "id": "a25"
+      "id": "a19"
     },
     {
       "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -225,7 +152,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T14:48:00.000Z",
-      "fetchedAt": "2026-11-05T15:49:20.586Z",
+      "fetchedAt": "2026-11-05T22:20:55.781Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -233,7 +160,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "id": "a28"
+      "id": "a23"
     },
     {
       "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -243,7 +170,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T13:30:00.000Z",
-      "fetchedAt": "2026-11-05T15:49:21.054Z",
+      "fetchedAt": "2026-11-05T22:20:56.343Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -251,7 +178,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "id": "a29"
+      "id": "a24"
     }
   ]
 }
