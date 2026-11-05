@@ -1,35 +1,89 @@
 {
-  "generatedAt": "2026-11-05T00:33:12.519Z",
+  "generatedAt": "2026-11-05T07:26:35.989Z",
   "date": "2026-11-05",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (4 articles), Wireless Communication (2 articles). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
+        "text": "Semiconductors: Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
         "articleIds": [
-          "a8"
+          "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
+        "text": "Wireless Communication: Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
         "articleIds": [
-          "a13"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Wireless Communication: Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-        "articleIds": [
-          "a29"
+          "a9"
         ],
         "subCategory": "wireless"
+      },
+      {
+        "text": "Mobile Chips: Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
+        "articleIds": [
+          "a27"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal — Retail Sentiment Turns Bullish",
+      "url": "https://stocktwits.com/news-articles/markets/equity/qualcomm-says-non-handset-revenue-will-make-up-50-of-chip-sales-this-fiscal-retail-sentiment-turns-bullish/cNG1BpuR9ES?.tsrc=rss",
+      "description": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T07:12:43.000Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Analysts lauded Qualcomm’s diversification efforts and the greater visibility for its emerging data center segment.",
+      "id": "a1"
+    },
+    {
+      "title": "SpaceX Just Picked Qualcomm for Its Own 5G Network. I Still See the Stock as a Hold.",
+      "url": "https://www.fool.com/investing/2026/11/04/spacex-just-picked-qualcomm-for-its-own-5g-network-i-still-see-the-stock-as-a-hold/?.tsrc=rss",
+      "description": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T05:01:01.000Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "wireless",
+      "subLabel": "Wireless Communication",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Tens of thousands of cell sites start going up in 2027. How much of that belongs in the stock price now?",
+      "id": "a9"
+    },
+    {
+      "title": "Elon Musk’s Starlink Deal Has ‘Tremendous Potential,’ Qualcomm CEO Says — Eyes FY28 Cash-In, Calls It Just The ‘Beginning’",
+      "url": "https://stocktwits.com/news-articles/markets/equity/elon-musk-starlink-deal-tremendous-potential-qualcomm-ceo-fy28-cash-in/cNG1P4HR9EB?.tsrc=rss",
+      "description": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T03:07:58.000Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm expects revenue to begin appearing near the end of fiscal 2027, with the opportunity developing more fully in fiscal 2028.",
+      "id": "a16"
+    },
     {
       "title": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
       "url": "https://finance.yahoo.com/m/1c74714d-b3e8-378c-98a9-4f7059eb768b/qualcomm%E2%80%99s-stock-falls-after.html?.tsrc=rss",
@@ -38,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-04T22:27:00.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.594Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm reported better-than-expected revenue but warned of weaker margins ahead in its chip-design segment.",
-      "id": "a8"
+      "id": "a23"
     },
     {
       "title": "Qualcomm's Phone Chip Sales Drop 26%: Rapid Earnings Reaction",
@@ -56,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-04T22:10:19.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.594Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,25 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's growth story is shifting from phones to cars and data centers. Here's what its latest quarter says about how that handoff is going.",
-      "id": "a9"
-    },
-    {
-      "title": "Qualcomm Revenue Will Shift Away From Handsets, CFRA's Zino Says",
-      "url": "https://www.bloomberg.com/news/videos/2026-11-04/qualcomm-will-shift-away-from-handsets-cfra-s-zino-says-video",
-      "description": "CFRA Research Senior VP and Equity Analyst Angelo Zino discusses Qualcomm’s latest quarterly results and outlook. Speaking on \"Bloomberg The Close,\" Zino expects a lower gross margin profile as Qualcomm shifts away from handsets. (Source: Bloomberg)",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T21:54:47.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.848Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "CFRA Research Senior VP and Equity Analyst Angelo Zino discusses Qualcomm’s latest quarterly results and outlook. Speaking on \"Bloomberg The Close,\" Zino expects a lower gross margin profile as Qualcomm shifts away from handsets.",
-      "id": "a10"
+      "id": "a24"
     },
     {
       "title": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains - WSJ",
@@ -91,8 +127,8 @@
       "source": "Wall Street Journal",
       "sourceId": "wsj",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T21:37:39.000Z",
-      "fetchedAt": "2026-11-05T00:33:11.309Z",
+      "publishedAt": "2026-11-04T21:34:00.000Z",
+      "fetchedAt": "2026-11-05T07:26:34.836Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "WSJ",
       "section": "core-businesses",
@@ -101,25 +137,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm Revenue Falls as Handset Slowdown Offsets Automotive Gains WSJ",
-      "id": "a13"
-    },
-    {
-      "title": "Crown Castle Soars 6% as SpaceX Taps Qualcomm for a “Credible Fourth” Mobile Network",
-      "url": "https://www.tikr.com/blog/crown-castle-soars-6-as-spacex-taps-qualcomm-for-a-credible-fourth-mobile-network?ref=yahoofinance&tlnk=yf-261104-fx6j2m62&.tsrc=rss",
-      "description": "Key TakeawaysCrown Castle stock rose 6% today after SpaceX picked Qualcomm to supply base stations for Starlink Mobile’s US 5G network, starting in 2027. Starlink Mobile will need towers, and a fourth carrier could fill the hole DISH left in Crown Castle’s leasing.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T21:29:40.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.594Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysCrown Castle stock rose 6% today after SpaceX picked Qualcomm to supply base stations for Starlink Mobile’s US 5G network, starting in 2027. Starlink Mobile will need towers, and a fourth carrier could fill the hole DISH left in Crown Castle’s leasing.",
-      "id": "a15"
+      "id": "a27"
     },
     {
       "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
@@ -129,7 +147,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-04T21:01:36.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.848Z",
+      "fetchedAt": "2026-11-05T07:26:30.220Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,25 +155,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "tumbled in late trading after giving a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-      "id": "a19"
-    },
-    {
-      "title": "Arm Stock Has Crashed 37%. Is It a Better Buy Than Qualcomm?",
-      "url": "https://247wallst.com/investing/2026/11/04/arm-stock-has-crashed-37-is-it-a-better-buy-than-qualcomm/?.tsrc=rss",
-      "description": "Arm has shed more than a third of its value in a single month while Qualcomm stumbles through a handset slump, and both companies report earnings tonight. Which chip stock actually holds up better when the pressure is on?",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T20:17:42.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.594Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Arm has shed more than a third of its value in a single month while Qualcomm stumbles through a handset slump, and both companies report earnings tonight. Which chip stock actually holds up better when the pressure is on?",
-      "id": "a21"
+      "id": "a28"
     },
     {
       "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -165,7 +165,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T14:48:00.000Z",
-      "fetchedAt": "2026-11-05T00:33:09.884Z",
+      "fetchedAt": "2026-11-05T07:26:33.604Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -173,25 +173,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "id": "a26"
-    },
-    {
-      "title": "SpaceX signs deal with Qualcomm to provide network technology for U.S. mobile service",
-      "url": "https://www.cnbc.com/2026/11/04/spacex-strikes-deal-with-qualcomm-for-mobile-network-infrastructure.html",
-      "description": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T13:53:54.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.615Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SpaceX struck a multiyear deal with Qualcomm to build out base stations for its Starlink Mobile cellular network.",
-      "id": "a28"
+      "id": "a32"
     },
     {
       "title": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network - Reuters",
@@ -201,7 +183,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-04T13:35:45.000Z",
-      "fetchedAt": "2026-11-05T00:33:11.346Z",
+      "fetchedAt": "2026-11-05T07:26:34.801Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -210,7 +192,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm signs major 5G infrastructure deal with SpaceX for Starlink Mobile network Reuters",
-      "id": "a29"
+      "id": "a35"
     },
     {
       "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -220,7 +202,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T13:30:00.000Z",
-      "fetchedAt": "2026-11-05T00:33:10.784Z",
+      "fetchedAt": "2026-11-05T07:26:34.291Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -228,7 +210,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "id": "a30"
+      "id": "a36"
     }
   ]
 }

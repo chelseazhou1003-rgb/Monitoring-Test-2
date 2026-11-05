@@ -1,35 +1,62 @@
 {
-  "generatedAt": "2026-11-05T00:33:12.519Z",
+  "generatedAt": "2026-11-05T07:26:35.989Z",
   "date": "2026-11-05",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Data Center (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), FRAND & Licensing (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Customers & Partners: Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the gl",
+        "articleIds": [
+          "a13"
+        ],
+        "subCategory": "customers-partners"
+      },
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a5"
+          "a20"
         ],
         "subCategory": "frand-licensing"
       },
       {
         "text": "Data Center: With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans",
         "articleIds": [
-          "a6"
+          "a21"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "Geopolitics & Export Controls: DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
         "articleIds": [
-          "a22"
+          "a29"
         ],
         "subCategory": "geopolitics-export-controls"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
+      "url": "https://finance.yahoo.com/technology/ai/articles/yealink-brings-global-industry-leaders-041500698.html?.tsrc=rss",
+      "description": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T04:15:00.000Z",
+      "fetchedAt": "2026-11-05T07:26:30.157Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "customers-partners",
+      "subLabel": "Customers & Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Yealink successfully hosted the Workplace Forward Summit at BMW Welt in Munich, bringing together 400 industry leaders, technology experts, enterprise customers and channel partners from across the global collaboration ecosystem. Representatives from leading technology companies, including Microsoft and Qualcomm; industry organizations such as AVIXA; Frost & Sullivan analysts; and leading system integrators joined the event to exchange perspectives on the future of work.",
+      "id": "a13"
+    },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
       "url": "https://www.iam-media.com/article/qualcomm-completes-5g-licence-renewals-annual-licensing-revenue-holds-near-56-billion",
@@ -38,7 +65,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-05T00:33:08.994Z",
+      "fetchedAt": "2026-11-05T07:26:32.270Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -48,7 +75,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a5"
+      "id": "a20"
     },
     {
       "title": "Qualcomm is betting big on data centers as smartphone sales sink",
@@ -58,7 +85,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-04T22:42:15.000Z",
-      "fetchedAt": "2026-11-05T00:33:07.065Z",
+      "fetchedAt": "2026-11-05T07:26:30.484Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -68,7 +95,7 @@
         "platform-partner"
       ],
       "summary": "With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 2026 earnings call, the company laid out its plans to make a splash in the AI data center business, through partnerships with companies like Amazon and Meta announced earlier this year. The company expects that portion of its business to grow quickly, forecasting around $650 million in data center revenue during the first quarter of 2027. But it anticipates that will reach $5 billion by the end of 2027 and $15 billion by 2029. Considering the company's total revenue for 2026 was $10.4 billion, … Read the full story at The Verge.",
-      "id": "a6"
+      "id": "a21"
     },
     {
       "title": "DuckDuckGo pitches itself to schools amid backlash over Google’s AI policy",
@@ -78,7 +105,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-04T19:29:52.000Z",
-      "fetchedAt": "2026-11-05T00:33:06.575Z",
+      "fetchedAt": "2026-11-05T07:26:30.124Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -89,7 +116,7 @@
         "platform-partner"
       ],
       "summary": "DuckDuckGo is courting schools frustrated by Google's AI restrictions, pointing educators to its search engine and options to disable AI features.",
-      "id": "a22"
+      "id": "a29"
     }
   ]
 }

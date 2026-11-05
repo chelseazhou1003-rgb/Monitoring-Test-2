@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-05T00:33:12.521Z",
+  "generatedAt": "2026-11-05T07:26:35.991Z",
   "date": "2026-11-05",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 11,
-      "topHeadline": "Qualcomm’s Stock Falls After It Warns Chip Margins Are Getting Squeezed",
-      "topHeadlineId": "a8",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Mobile Chips (4 articles), Wireless Communication (2 articles). A total of 11 articles were aggregated from monitored sources."
+      "articleCount": 10,
+      "topHeadline": "Qualcomm Says Non-Handset Revenue Will Make Up 50% Of Chip Sales This Fiscal — Retail Sentiment Turns Bullish",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (5 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a5",
+      "topHeadlineId": "a20",
       "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Qualcomm is betting big on data centers as smartphone sales sink",
-      "topHeadlineId": "a6",
-      "briefingSummary": "One article today covering Data Center. With smartphone sales tanking by around 20 percent compared to 2025, Qualcomm is looking to data centers to help boost its bottom line. During its Q4 "
+      "articleCount": 2,
+      "topHeadline": "Qualcomm Inc (QCOM) Q4 2026 Earnings Call Highlights: Record Automotive and Data Center Ramp ...",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 25,
-      "topHeadline": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (11 articles), Customers & Partners (1 article). A total of 25 articles were aggregated from monitored sources."
+      "articleCount": 30,
+      "topHeadline": "ABB Confirms China Blocked SoftBank Deal for Robotics Unit - WSJ",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (8 articles), Customers & Partners (2 articles). A total of 30 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 3,
-      "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (1 article), Data Center (1 article), Geopolitics & Export Controls (1 article). A total of 3 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Yealink Brings Global Industry Leaders Together to Shape the Future of AI-Powered Workplaces",
+      "topHeadlineId": "a13",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Customers & Partners (1 article), FRAND & Licensing (1 article), Data Center (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 41
+  "totalArticles": 47
 }
