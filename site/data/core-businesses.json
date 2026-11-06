@@ -1,31 +1,31 @@
 {
-  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "generatedAt": "2026-11-06T02:51:15.111Z",
   "date": "2026-11-06",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (2 articles), Wireless Communication (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), Mobile Chips (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
         "articleIds": [
-          "a8"
+          "a11"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: AI, autos and data centers are growing fast, but handset revenue fell 26%.",
-        "articleIds": [
-          "a12"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a19"
+          "a18"
         ],
         "subCategory": "wireless"
+      },
+      {
+        "text": "Mobile Chips: SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on ",
+        "articleIds": [
+          "a21"
+        ],
+        "subCategory": "mobile-chips"
       }
     ]
   },
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T19:31:36.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Applied Materials Sinks 12%, Lam Research Down 14% as Chip Stock Rout Deepens After Midterms",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T18:06:40.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysApplied Materials fell 12% today as the chip sell-off that began after the midterms deepened, pulling down Lam Research, KLA and Teradyne. Investors fear data-center spending will slow, and Qualcomm’s weak guidance didn’t help.",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "Chip Stocks Are Sinking, but This Bearish ETF Is Up More Than 25%",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T18:03:04.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,25 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A midterm shake-up in Washington and a weak Qualcomm forecast sent chipmakers tumbling, and one triple-leveraged fund cashed in fast. Its yearly record tells a far harsher story that anyone tempted to chase the move should see first.",
-      "id": "a11"
-    },
-    {
-      "title": "Qualcomm's Impressive Guidance Comes With a Big Catch",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomms-impressive-guidance-comes-big-174103146.html?.tsrc=rss",
-      "description": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T17:41:03.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "AI, autos and data centers are growing fast, but handset revenue fell 26%.",
-      "id": "a12"
+      "id": "a13"
     },
     {
       "title": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum - Reuters",
@@ -110,7 +92,7 @@
       "sourceId": "reuters",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T14:54:15.000Z",
-      "fetchedAt": "2026-11-05T22:20:57.318Z",
+      "fetchedAt": "2026-11-06T02:51:13.883Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Reuters",
       "section": "core-businesses",
@@ -119,7 +101,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
-      "id": "a13"
+      "id": "a14"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -129,7 +111,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-05T22:20:56.827Z",
+      "fetchedAt": "2026-11-06T02:51:13.259Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -142,7 +124,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a19"
+      "id": "a18"
     },
     {
       "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -152,7 +134,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T14:48:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:55.781Z",
+      "fetchedAt": "2026-11-06T02:51:12.490Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -160,7 +142,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "id": "a23"
+      "id": "a21"
     },
     {
       "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -170,7 +152,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T13:30:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:56.343Z",
+      "fetchedAt": "2026-11-06T02:51:12.842Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -178,7 +160,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "id": "a24"
+      "id": "a22"
     }
   ]
 }

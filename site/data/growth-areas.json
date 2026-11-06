@@ -1,21 +1,42 @@
 {
-  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "generatedAt": "2026-11-06T02:51:15.111Z",
   "date": "2026-11-06",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "One article today covering Data Center. Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Data Center: Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
+        "text": "Data Center: Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to it",
         "articleIds": [
-          "a4"
+          "a2"
         ],
         "subCategory": "data-center"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
+      "url": "https://www.tikr.com/blog/baird-cut-its-qualcomm-target-to-320-it-still-sees-104-upside?ref=yahoofinance&tlnk=yf-261105-m8g363m2&.tsrc=rss",
+      "description": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T22:16:15.000Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
+      "fetchStrategy": "rss",
+      "section": "growth-areas",
+      "subCategory": "data-center",
+      "subLabel": "Data Center",
+      "competitors": [],
+      "stakeholders": [
+        "oem",
+        "platform-partner"
+      ],
+      "summary": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
+      "id": "a2"
+    },
     {
       "title": "Qualcomm's Data Center Investments Could Weigh on Near-Term Margins, RBC Says",
       "url": "https://finance.yahoo.com/technology/articles/qualcomm-apos-data-center-investments-205746920.html?.tsrc=rss",
@@ -24,7 +45,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T20:57:46.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +53,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
-      "id": "a4"
+      "id": "a7"
     }
   ]
 }

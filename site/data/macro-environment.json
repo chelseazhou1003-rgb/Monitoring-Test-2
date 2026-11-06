@@ -1,35 +1,72 @@
 {
-  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "generatedAt": "2026-11-06T02:51:15.111Z",
   "date": "2026-11-06",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (7 articles), Customers & Partners (1 article). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (8 articles), market-performance (5 articles), Customers & Partners (1 article). A total of 14 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "market-performance: Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to talk further about the company's earnings and its forecasts surrounding handheld devices and AI data centers.",
+        "text": "Geopolitics & Export Controls: China could face “severe economic headwinds” if the Democratic Party’s sweeping midterm victory slows the US’s artificial intelligence buildout, Bloomberg Economics says — just as tech stocks across A",
         "articleIds": [
           "a1"
-        ],
-        "subCategory": "market-performance"
-      },
-      {
-        "text": "Geopolitics & Export Controls: The New Economics of National Security (Part I) Daily Times",
-        "articleIds": [
-          "a3"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
+        "text": "market-performance: Intel stock is on track to slump more than 50% in a month.",
+        "articleIds": [
+          "a3"
+        ],
+        "subCategory": "market-performance"
+      },
+      {
         "text": "Customers & Partners: ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level ho",
         "articleIds": [
-          "a26"
+          "a24"
         ],
         "subCategory": "customers-partners"
       }
     ]
   },
   "articles": [
+    {
+      "title": "China’s AI-Propelled Growth May Take a Blue Wave Hit, BE Says",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-06/china-s-ai-propelled-growth-may-take-a-blue-wave-hit-be-says",
+      "description": "China could face “severe economic headwinds” if the Democratic Party’s sweeping midterm victory slows the US’s artificial intelligence buildout, Bloomberg Economics says — just as tech stocks across Asia slump on tech worries.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T01:58:49.000Z",
+      "fetchedAt": "2026-11-06T02:51:02.538Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China could face “severe economic headwinds” if the Democratic Party’s sweeping midterm victory slows the US’s artificial intelligence buildout, Bloomberg Economics says — just as tech stocks across Asia slump on tech worries.",
+      "id": "a1"
+    },
+    {
+      "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
+      "url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
+      "description": "Intel stock is on track to slump more than 50% in a month.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-05T22:12:00.000Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Intel stock is on track to slump more than 50% in a month.",
+      "id": "a3"
+    },
     {
       "title": "Qualcomm CFO outlines AI's next big transformation: A new type of personal device",
       "url": "https://finance.yahoo.com/video/qualcomm-cfo-outlines-ais-next-big-transformation-a-new-type-of-personal-device-215605977.html?.tsrc=rss",
@@ -38,7 +75,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T21:56:05.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -46,7 +83,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CFO and COO Akash Palkhiwala joins Yahoo Finance Tech Editor Dan Howley to talk further about the company's earnings and its forecasts surrounding handheld devices and AI data centers.",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Chip Stocks Tumble After Arm, Qualcomm Reports",
@@ -56,7 +93,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T21:43:43.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -64,7 +101,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chip stocks continued to fall Thursday in the wake of Tuesday's election results and earnings reports from Arm, Qualcomm and others.",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "The New Economics of National Security (Part I) - Daily Times",
@@ -74,7 +111,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T21:07:32.000Z",
-      "fetchedAt": "2026-11-05T22:20:58.514Z",
+      "fetchedAt": "2026-11-06T02:51:15.090Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Daily Times",
       "geopoliticalBypass": true,
@@ -84,7 +121,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The New Economics of National Security (Part I) Daily Times",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Qualcomm Stock Forecast – Why Analysts Cut Price Targets After Q4 Results",
@@ -94,7 +131,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T20:54:47.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -102,7 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chipmaker Qualcomm (QCOM) reported better-than-expected Q4 results after the market closed on November 4. However, despite the earnings beat, analysts remain concerned about rising component costs, gross margin pressure, and potential weakness in the handset market. Following the results, several analysts lowered their price targets on QCOM, with some maintaining Sell ratings. Shares were trading lower in premarket trading on November 5. Meanwhile, Qualcomm is making progress in diversifying bey",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "Qualcomm earnings analysis: questions answered and next catalysts",
@@ -112,7 +149,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T20:52:48.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
+      "fetchedAt": "2026-11-06T02:51:02.420Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -120,25 +157,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investing.com -- Qualcomm (QCOM) cleared the low bar on the headline numbers. It still fell, because the quality of the quarter and the guidance disappointed. The stock trades at $155.09 (-10.45%) as of Nov 5, 1:24 PM EST. It is down 16.35% over one week.",
-      "id": "a6"
-    },
-    {
-      "title": "Nvidia, Micron, Intel, Sandisk, Palantir, AppLovin, Qualcomm, and More Stocks That Explain Today’s Market",
-      "url": "https://finance.yahoo.com/m/de98938f-df98-3afd-93e7-51ed0664b1a9/nvidia%2C-micron%2C-intel%2C.html?.tsrc=rss",
-      "description": "Intel stock is on track to slump more than 50% in a month.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T18:06:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.268Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Intel stock is on track to slump more than 50% in a month.",
-      "id": "a10"
+      "id": "a9"
     },
     {
       "title": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe - BigGo Finance",
@@ -148,7 +167,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T14:26:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:58.514Z",
+      "fetchedAt": "2026-11-06T02:51:15.090Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "BigGo Finance",
       "geopoliticalBypass": true,
@@ -158,7 +177,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Hole Emerges in U.S.-China Chip Ban as Moonshot AI Reportedly Seeks to Rent Over 8,000 Blackwell Chips in Europe BigGo Finance",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "China blocks SoftBank, ABB robotics deal",
@@ -168,7 +187,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-05T13:48:41.000Z",
-      "fetchedAt": "2026-11-05T22:20:55.781Z",
+      "fetchedAt": "2026-11-06T02:51:12.490Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -177,46 +196,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
-      "id": "a15"
-    },
-    {
-      "title": "Chinese AI lab Moonshot turned to Europe for Nvidia Blackwell access amid U.S. China curbs, sources tell CNBC",
-      "url": "https://www.cnbc.com/2026/11/05/moonshot-ai-nvidia-chips-europe-china.html",
-      "description": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T13:34:14.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.299Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Moonshot AI has sought leasing agreements with neoclouds for advanced chips in Europe, as U.S. export controls restrict their import to China.",
       "id": "a16"
-    },
-    {
-      "title": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech - WSJ",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWU1MYTRpWmVYU2dfWXBkTjR3U3ZERnVWUGtMVkttTjFPT3JPUE43NUdIRE1KcHVzcEpRNHpDaHdHOXEzbHQxcEJEVkNYNGRnY2lhV0ctZFRvb19adzJLcENWLXlINk1DRkNSUl9LQWlrVlRDaFVhb3dSVWF6c1l3Y3NGd3dQdFR5Z2ZLQWlvMFNhV1dtQVIyNVF2SFQycm9iS1Y4dQ?oc=5",
-      "description": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech WSJ",
-      "source": "Wall Street Journal",
-      "sourceId": "wsj",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T11:50:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:57.368Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "WSJ",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China Blocks $5.4 Billion SoftBank Robot Deal, Flexing Control Over AI Tech WSJ",
-      "id": "a17"
     },
     {
       "title": "Brussels bets on chip designers after Chips Act misses production target - Brussels Signal",
@@ -226,7 +206,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T10:08:41.000Z",
-      "fetchedAt": "2026-11-05T22:20:58.514Z",
+      "fetchedAt": "2026-11-06T02:51:15.090Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Brussels Signal",
       "geopoliticalBypass": true,
@@ -236,44 +216,26 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Brussels bets on chip designers after Chips Act misses production target Brussels Signal",
-      "id": "a18"
+      "id": "a17"
     },
     {
-      "title": "Qualcomm shares slide as smartphone weakness clouds growth push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPY1J5TU1haGNMUk9CVzZLSmN4d09oZXdTLUFSTEJOMVAxZURhWE5JRVgzVU41TXdHSV92TEJkODQ2Q1NFLUdLSjh6UThlVUVFTUJUS3gxb25ta1VHYjJEMWQ5LUxwTTRzNXpfaUdPOVJxeGhQaDhqMzg5eDRkTENkeUhNa3lwT1k1cEVQQWR6SEl1R1dkVUtFalp2eHVMTDR5VUhiM1JHUjNPRkt5MW1Td2U2UE9SejRBUTJJR0cyaWE?oc=5",
-      "description": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T23:40:12.000Z",
-      "fetchedAt": "2026-11-05T22:20:57.318Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm shares slide as smartphone weakness clouds growth push Reuters",
-      "id": "a20"
-    },
-    {
-      "title": "Qualcomm Slides After Supply Costs Take a Bite Out of Profit",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-04/qualcomm-s-push-into-new-markets-helps-make-up-for-phone-slump",
-      "description": "Qualcomm Inc. shares tumbled after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
+      "title": "China Blocks SoftBank’s $5.4 Billion ABB Robot Unit Takeover",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-05/china-blocks-softbank-s-acquisition-of-abb-industrial-robot-unit",
+      "description": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
       "source": "Bloomberg",
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-04T21:01:36.000Z",
-      "fetchedAt": "2026-11-05T22:20:52.381Z",
+      "publishedAt": "2026-11-05T03:15:01.000Z",
+      "fetchedAt": "2026-11-06T02:51:02.538Z",
       "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
       "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "shares tumbled after the company gave a lackluster profit forecast, a sign the largest maker of smartphone processors is still grappling with higher component prices.",
-      "id": "a22"
+      "summary": "China has blocked the sale of ABB Ltd.’s robotics unit to SoftBank Group Corp., dealing a blow to the Japanese investment firm’s plans to expand into physical AI.",
+      "id": "a19"
     },
     {
       "title": "CNIPA’s five-year plan spans pre-filing commercial assessments, AI-assisted inventions, possible SEP pilot, drug patent linkage disputes",
@@ -283,7 +245,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T12:00:00.000Z",
-      "fetchedAt": "2026-11-05T22:20:56.827Z",
+      "fetchedAt": "2026-11-06T02:51:13.259Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -292,7 +254,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "To help bring inventions to market, China’s patent office will study how to assess their commercial prospects before filing. Its five-year plan also addresses how AI affects inventive step, a possible SEP examination pilot and closer coordination of patent validity challenges with disputes over generic drug entry.",
-      "id": "a25"
+      "id": "a23"
     },
     {
       "title": "ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool",
@@ -302,7 +264,7 @@
       "sourceId": "semiconductor-digest",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-03T19:32:48.000Z",
-      "fetchedAt": "2026-11-05T22:20:55.627Z",
+      "fetchedAt": "2026-11-06T02:51:06.246Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -311,7 +273,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "ACM Research, Inc., a supplier of wafer processing solutions for semiconductor and advanced packaging applications, today announced the shipment of its first 310 × 310 mm Ultra ECP ap-p panel-level horizontal electroplating production system to a customer in Asia outside mainland China. The post ACM Research Announces Shipment of Its First 310 × 310 mm Ultra ECP ap-p Panel-Level Horizontal Electroplating Production Tool appeared first on Semiconductor Digest.",
-      "id": "a26"
+      "id": "a24"
     },
     {
       "title": "Russia, China likely to ramp up UK cyberattacks",
@@ -321,7 +283,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-03T15:20:45.000Z",
-      "fetchedAt": "2026-11-05T22:20:55.782Z",
+      "fetchedAt": "2026-11-06T02:51:12.490Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -330,7 +292,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "The UK’s National Cyber Security Centre The post Russia, China likely to ramp up UK cyberattacks appeared first on Mobile World Live.",
-      "id": "a27"
+      "id": "a25"
     }
   ]
 }

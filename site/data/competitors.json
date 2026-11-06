@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-05T22:20:58.554Z",
+  "generatedAt": "2026-11-06T02:51:15.111Z",
   "date": "2026-11-06",
   "section": "competitors",
   "sectionTitle": "Competitors",
@@ -9,7 +9,7 @@
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a19"
+          "a18"
         ],
         "subCategory": "wireless"
       }
@@ -24,7 +24,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-05T22:20:56.827Z",
+      "fetchedAt": "2026-11-06T02:51:13.259Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -37,7 +37,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a19"
+      "id": "a18"
     }
   ]
 }
