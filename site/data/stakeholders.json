@@ -1,35 +1,63 @@
 {
-  "generatedAt": "2026-11-06T02:51:15.111Z",
+  "generatedAt": "2026-11-06T11:33:45.222Z",
   "date": "2026-11-06",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (1 article), Wireless Communication (1 article), FRAND & Licensing (1 article). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Supply Chain (1 article), Data Center (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
+        "articleIds": [
+          "a8"
+        ],
+        "subCategory": "supply-chain"
+      },
       {
         "text": "Data Center: Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to it",
         "articleIds": [
-          "a2"
+          "a12"
         ],
         "subCategory": "data-center"
       },
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a18"
+          "a26"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a20"
+          "a27"
         ],
         "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Chip Industry Week In Review",
+      "url": "https://semiengineering.com/chip-industry-week-in-review-163/",
+      "description": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "source": "Semiconductor Engineering",
+      "sourceId": "semiconductor-engineering",
+      "sourceGroup": "semiconductor",
+      "publishedAt": "2026-11-06T08:01:01.000Z",
+      "fetchedAt": "2026-11-06T11:33:41.123Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "supply-chain",
+      "subLabel": "Supply Chain",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+      "id": "a8"
+    },
     {
       "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
       "url": "https://www.tikr.com/blog/baird-cut-its-qualcomm-target-to-320-it-still-sees-104-upside?ref=yahoofinance&tlnk=yf-261105-m8g363m2&.tsrc=rss",
@@ -38,7 +66,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T22:16:15.000Z",
-      "fetchedAt": "2026-11-06T02:51:02.420Z",
+      "fetchedAt": "2026-11-06T11:33:39.665Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -49,7 +77,7 @@
         "platform-partner"
       ],
       "summary": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
-      "id": "a2"
+      "id": "a12"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -59,7 +87,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-06T02:51:13.259Z",
+      "fetchedAt": "2026-11-06T11:33:43.429Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -72,7 +100,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a18"
+      "id": "a26"
     },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -82,7 +110,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-06T02:51:05.023Z",
+      "fetchedAt": "2026-11-06T11:33:41.715Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -92,7 +120,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a20"
+      "id": "a27"
     }
   ]
 }

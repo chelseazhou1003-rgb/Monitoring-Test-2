@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-06T02:51:15.111Z",
+  "generatedAt": "2026-11-06T11:33:45.222Z",
   "date": "2026-11-06",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "FRAND & Licensing: Licensing renewals and automotive growth shape the chipmaker's outlook.",
         "articleIds": [
-          "a10"
+          "a21"
         ],
         "subCategory": "frand-licensing"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-05T20:19:01.000Z",
-      "fetchedAt": "2026-11-06T02:51:02.420Z",
+      "fetchedAt": "2026-11-06T11:33:39.665Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Licensing renewals and automotive growth shape the chipmaker's outlook.",
-      "id": "a10"
+      "id": "a21"
     },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -42,7 +42,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-06T02:51:05.023Z",
+      "fetchedAt": "2026-11-06T11:33:41.715Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -52,7 +52,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a20"
+      "id": "a27"
     }
   ]
 }
