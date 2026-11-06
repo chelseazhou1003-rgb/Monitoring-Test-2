@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-06T11:33:45.222Z",
-  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T18:31:11.332Z",
+  "date": "2026-11-07",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles), Wireless Communication (2 articles). A total of 10 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: Alphabet discloses $548 million worth of Qualcomm stake Reuters",
+        "text": "Semiconductors: Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "semiconductors"
       },
       {
-        "text": "Mobile Chips: Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks ",
+        "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
         "articleIds": [
-          "a6"
+          "a10"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a26"
+          "a23"
         ],
         "subCategory": "wireless"
       }
@@ -31,23 +31,116 @@
   },
   "articles": [
     {
-      "title": "Alphabet discloses $548 million worth of Qualcomm stake - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
-      "description": "Alphabet discloses $548 million worth of Qualcomm stake Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
+      "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
+      "url": "https://finance.yahoo.com/technology/articles/qualcomm-faces-worst-day-since-181632192.html?.tsrc=rss",
+      "description": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T11:20:59.000Z",
-      "fetchedAt": "2026-11-06T11:33:44.003Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
+      "publishedAt": "2026-11-06T18:16:32.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Alphabet discloses $548 million worth of Qualcomm stake Reuters",
+      "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
       "id": "a1"
+    },
+    {
+      "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
+      "url": "https://finance.yahoo.com/video/theres-a-disconnect-between-the-market-rate-of-ai-build-out-qualcomm-ceo-153628313.html?.tsrc=rss",
+      "description": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T15:36:28.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
+      "id": "a7"
+    },
+    {
+      "title": "Alphabet reveals $548M Qualcomm stake",
+      "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
+      "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-11-06T15:14:19.000Z",
+      "fetchedAt": "2026-11-06T18:31:08.800Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+      "id": "a10"
+    },
+    {
+      "title": "Is Qualcomm Stock Worth Buying After Mixed Q4 Results?",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-worth-buying-mixed-151000647.html?.tsrc=rss",
+      "description": "QCOM's fiscal Q4 earnings fall 28% as handset weakness and rising costs offset automotive growth. Can diversification revive QCOM's prospects amid margin pressures?",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T15:10:00.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "QCOM's fiscal Q4 earnings fall 28% as handset weakness and rising costs offset automotive growth. Can diversification revive QCOM's prospects amid margin pressures?",
+      "id": "a11"
+    },
+    {
+      "title": "Google parent reveals $548 million bet on beaten-down chip stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
+      "description": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T13:36:11.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+      "id": "a13"
+    },
+    {
+      "title": "Should You Buy Qualcomm Stock Now Or Wait?",
+      "url": "https://www.trefis.com/stock/qcom/articles/623316/should-you-buy-qualcomm-stock-now-or-wait/2026-11-06?.tsrc=rss",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T12:21:21.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "id": "a14"
     },
     {
       "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
@@ -57,7 +150,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-06T11:33:42.907Z",
+      "fetchedAt": "2026-11-06T18:31:08.800Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -65,44 +158,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
-      "id": "a6"
-    },
-    {
-      "title": "Qualcomm Stocks Fall 13.63% as Handset Weakness Overshadows Diversification",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stocks-fall-13-63-193136086.html?.tsrc=rss",
-      "description": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T19:31:36.000Z",
-      "fetchedAt": "2026-11-06T11:33:39.665Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Automotive growth has not yet offset a much larger decline in smartphone-chip revenue.",
-      "id": "a22"
-    },
-    {
-      "title": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNeENYSWEwaDRLMW55UG5qd3NaNDNVenVSbXBpUHZfbHI1R1pqMk5VVkJUbkRYMG9QMzYtYzMzSWhPLS1SeTg2eXVUWkU4MGFMWlBiajlPMjY4RDItX1dXYlU3djA5cUJNMFItVGQ3RWhoUHdIcVVMcWMzLTB2eE5vLThWckM4bVByTmRXb0RPWFpVV0NDWjZHZ0k3R1ZrWjBJWXl6ajV4cEFTaHRFejk3elYtS1Vxekl5aDlhYjAyRDlaVG52dzQweDMxS1UyeGJ5?oc=5",
-      "description": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T14:54:15.000Z",
-      "fetchedAt": "2026-11-06T11:33:44.002Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm shares slump as weak smartphone chip sales overshadow data-center momentum Reuters",
-      "id": "a23"
+      "id": "a18"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -112,7 +168,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-06T11:33:43.429Z",
+      "fetchedAt": "2026-11-06T18:31:09.141Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -125,7 +181,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a26"
+      "id": "a23"
     },
     {
       "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -135,7 +191,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T14:48:00.000Z",
-      "fetchedAt": "2026-11-06T11:33:42.907Z",
+      "fetchedAt": "2026-11-06T18:31:08.800Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -143,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "id": "a28"
+      "id": "a25"
     },
     {
       "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -153,7 +209,7 @@
       "sourceId": "light-reading",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-04T13:30:00.000Z",
-      "fetchedAt": "2026-11-06T11:33:43.526Z",
+      "fetchedAt": "2026-11-06T18:31:09.342Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -161,25 +217,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "id": "a29"
-    },
-    {
-      "title": "SpaceX recurre a Qualcomm para desplegar su red 5G en EE. UU.",
-      "url": "https://www.mobileworldlive.com/spanish/spacex-recurre-a-qualcomm-para-desplegar-su-red-5g-en-ee-uu/",
-      "description": "SpaceX ha suscrito un acuerdo con Qualcomm para utilizar la infraestructura celular Dragonwing del fabricante de chips en el despliegue Read more... The post SpaceX recurre a Qualcomm para desplegar su red 5G en EE. UU. appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-04T10:46:26.000Z",
-      "fetchedAt": "2026-11-06T11:33:42.907Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SpaceX ha suscrito un acuerdo con Qualcomm para utilizar la infraestructura celular Dragonwing del fabricante de chips en el despliegue Read more... The post SpaceX recurre a Qualcomm para desplegar su red 5G en EE. appeared first on Mobile World Live.",
-      "id": "a30"
+      "id": "a26"
     }
   ]
 }

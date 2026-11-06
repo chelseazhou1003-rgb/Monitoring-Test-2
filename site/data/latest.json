@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-06T11:33:45.224Z",
-  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T18:31:11.334Z",
+  "date": "2026-11-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 8,
-      "topHeadline": "Alphabet discloses $548 million worth of Qualcomm stake - Reuters",
+      "articleCount": 10,
+      "topHeadline": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Wireless Communication (3 articles), Mobile Chips (2 articles). A total of 8 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles), Wireless Communication (2 articles). A total of 10 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
-      "articleCount": 2,
-      "topHeadline": "QUALCOMM (QCOM) Q4 2026 Earnings Call Transcript",
-      "topHeadlineId": "a21",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans FRAND & Licensing (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
+      "topHeadlineId": "a24",
+      "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 2,
-      "topHeadline": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
-      "topHeadlineId": "a12",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
+      "articleCount": 1,
+      "topHeadline": "Alphabet takes $548 million stake in partner Qualcomm in data center push - Reuters",
+      "topHeadlineId": "a5",
+      "briefingSummary": "One article today covering Data Center. Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters"
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 19,
-      "topHeadline": "Italian prosecutors target China-linked network accused of tracking dissident - Reuters",
+      "articleCount": 14,
+      "topHeadline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
       "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (6 articles), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Supply Chain (1 article). A total of 14 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "topHeadlineId": "a26",
+      "topHeadlineId": "a23",
       "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 4,
-      "topHeadline": "Chip Industry Week In Review",
-      "topHeadlineId": "a8",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Supply Chain (1 article), Data Center (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
+      "articleCount": 6,
+      "topHeadline": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 36
+  "totalArticles": 33
 }

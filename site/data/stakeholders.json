@@ -1,42 +1,116 @@
 {
-  "generatedAt": "2026-11-06T11:33:45.222Z",
-  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T18:31:11.332Z",
+  "date": "2026-11-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Supply Chain (1 article), Data Center (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
+      {
+        "text": "Platform & Ecosystem Partners: If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s e",
+        "articleIds": [
+          "a6"
+        ],
+        "subCategory": "platform-partner"
+      },
+      {
+        "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
+        "articleIds": [
+          "a10"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
+        "text": "Semiconductors: Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+        "articleIds": [
+          "a13"
+        ],
+        "subCategory": "semiconductors"
+      },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a8"
+          "a19"
         ],
         "subCategory": "supply-chain"
       },
       {
-        "text": "Data Center: Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to it",
-        "articleIds": [
-          "a12"
-        ],
-        "subCategory": "data-center"
-      },
-      {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a26"
+          "a23"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a27"
+          "a24"
         ],
         "subCategory": "frand-licensing"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
+      "url": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
+      "description": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty. Meta Quest 3S Where to Buy: $349.99 $255.99 at eBay (refurbished) The Quest 3S strikes a middle ground between the Quest 3 and Quest 2. Like the pricier Quest 3, it runs on the speedy Snapdragon XR2 Gen 2 chip and supports the same library of games. It also comes with the same cameras for full-color passthrough, letting you interact with the world around you while wearing the headset. It comes with Meta’s Touch Plus controllers, though you can also use your hands to navigate menus and interact with some apps. And because it’s a standalone headset, you don’t need a PC or console to play games. However, its display resolution and optics quality are closer to the Quest 2’s, which, while good, means visuals are narrower and less sharp. Still, as we noted in our review, those trade-offs are easy to overlook given the price, especially if you’re new to VR. Read our full Meta Quest 3S review. Three more deals worth a look Philips Hue’s 80-inch Gradient Lightstrip is on sale for $83.16 ($115 off) when you buy it directly from Philips’ online storefront with code OUTLET58. The two-meter lightstrip can extend up to 10 meters and display multiple colors simultaneously, while delivering up to 1,800 lumens of brightness with customizable lighting effects. You can also control it via Alexa and Google Assistant, or using either Bluetooth or a Philips Hue Bridge. Anker’s new Desktop USB-C Hub is currently available from both Amazon and Anker (with code WSPDV2ONVYED) for $79.99 ($20 off), which is $5 shy of its lowest price to date. The 10-in-1 hub features a built-in screen that not only displays charging speeds, but also doubles as a digital photo frame and customizable timer. It also sports an HDMI port, a DisplayPort connection, four USB ports, an ethernet jack, and SD and microSD card slots, letting you connect multiple accessories and external displays. Speaking of gadgets with personality, Orico’s adorable PixCharge Plus is on sale at Amazon in several colors for $29.99 ($50 off), its best price to date. The small, 10,000mAh power bank has a customizable 16-by-16 pixel screen that displays animations, scrolling text, and pixel art using a companion app; it also supports up to 22.5W fast-charging and comes with a built-in USB-C cable that conveniently doubles as a strap.",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-06T16:39:15.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.975Z",
+      "fetchStrategy": "rss",
+      "section": "stakeholders",
+      "subCategory": "platform-partner",
+      "subLabel": "Platform & Ecosystem Partners",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty.",
+      "id": "a6"
+    },
+    {
+      "title": "Alphabet reveals $548M Qualcomm stake",
+      "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
+      "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+      "source": "Mobile World Live",
+      "sourceId": "mobile-world-live",
+      "sourceGroup": "telecom",
+      "publishedAt": "2026-11-06T15:14:19.000Z",
+      "fetchedAt": "2026-11-06T18:31:08.800Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+      "id": "a10"
+    },
+    {
+      "title": "Google parent reveals $548 million bet on beaten-down chip stock",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
+      "description": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T13:36:11.000Z",
+      "fetchedAt": "2026-11-06T18:31:04.236Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "platform-partner"
+      ],
+      "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
+      "id": "a13"
+    },
     {
       "title": "Chip Industry Week In Review",
       "url": "https://semiengineering.com/chip-industry-week-in-review-163/",
@@ -45,7 +119,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-06T11:33:41.123Z",
+      "fetchedAt": "2026-11-06T18:31:05.898Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -56,28 +130,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a8"
-    },
-    {
-      "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
-      "url": "https://www.tikr.com/blog/baird-cut-its-qualcomm-target-to-320-it-still-sees-104-upside?ref=yahoofinance&tlnk=yf-261105-m8g363m2&.tsrc=rss",
-      "description": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T22:16:15.000Z",
-      "fetchedAt": "2026-11-06T11:33:39.665Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
-      "id": "a12"
+      "id": "a19"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -87,7 +140,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-06T11:33:43.429Z",
+      "fetchedAt": "2026-11-06T18:31:09.141Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,7 +153,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a26"
+      "id": "a23"
     },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -110,7 +163,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-06T11:33:41.715Z",
+      "fetchedAt": "2026-11-06T18:31:06.725Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -120,7 +173,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a27"
+      "id": "a24"
     }
   ]
 }

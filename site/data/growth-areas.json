@@ -1,15 +1,15 @@
 {
-  "generatedAt": "2026-11-06T11:33:45.222Z",
-  "date": "2026-11-06",
+  "generatedAt": "2026-11-06T18:31:11.332Z",
+  "date": "2026-11-07",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+    "summary": "One article today covering Data Center. Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
     "keyTakeaways": [
       {
-        "text": "Data Center: Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to it",
+        "text": "Data Center: Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
         "articleIds": [
-          "a12"
+          "a5"
         ],
         "subCategory": "data-center"
       }
@@ -17,43 +17,23 @@
   },
   "articles": [
     {
-      "title": "Baird Cut Its Qualcomm Target to $320. It Still Sees 104% Upside",
-      "url": "https://www.tikr.com/blog/baird-cut-its-qualcomm-target-to-320-it-still-sees-104-upside?ref=yahoofinance&tlnk=yf-261105-m8g363m2&.tsrc=rss",
-      "description": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
+      "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
+      "description": "Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T22:16:15.000Z",
-      "fetchedAt": "2026-11-06T11:33:39.665Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [
-        "oem",
-        "platform-partner"
-      ],
-      "summary": "Key TakeawaysBaird cut its Qualcomm price target to $320 from $400 after the fiscal fourth-quarter report and kept its Outperform rating. Qualcomm’s phone chip sales are shrinking as Apple moves to its own modems, while its data center chips start shipping to Amazon and a second hyperscaler.",
-      "id": "a12"
-    },
-    {
-      "title": "Qualcomm's Data Center Investments Could Weigh on Near-Term Margins, RBC Says",
-      "url": "https://finance.yahoo.com/technology/articles/qualcomm-apos-data-center-investments-205746920.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-05T20:57:46.000Z",
-      "fetchedAt": "2026-11-06T11:33:39.665Z",
-      "fetchStrategy": "rss",
+      "publishedAt": "2026-11-06T16:44:46.000Z",
+      "fetchedAt": "2026-11-06T18:31:10.159Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
       "section": "growth-areas",
       "subCategory": "data-center",
       "subLabel": "Data Center",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Qualcomm (QCOM) faces near-term margin headwinds from mounting data center investments amid componen",
-      "id": "a18"
+      "summary": "Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
+      "id": "a5"
     }
   ]
 }
