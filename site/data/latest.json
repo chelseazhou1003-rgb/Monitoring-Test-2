@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-06T18:31:11.334Z",
+  "generatedAt": "2026-11-06T23:32:17.282Z",
   "date": "2026-11-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 10,
-      "topHeadline": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (4 articles), Wireless Communication (2 articles). A total of 10 articles were aggregated from monitored sources."
+      "articleCount": 11,
+      "topHeadline": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
+      "topHeadlineId": "a3",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (5 articles), Semiconductors (3 articles), Wireless Communication (3 articles). A total of 11 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a24",
+      "topHeadlineId": "a28",
       "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 1,
-      "topHeadline": "Alphabet takes $548 million stake in partner Qualcomm in data center push - Reuters",
-      "topHeadlineId": "a5",
-      "briefingSummary": "One article today covering Data Center. Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters"
+      "articleCount": 3,
+      "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
+      "topHeadlineId": "a8",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 14,
-      "topHeadline": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Supply Chain (1 article). A total of 14 articles were aggregated from monitored sources."
+      "articleCount": 15,
+      "topHeadline": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "topHeadlineId": "a23",
+      "topHeadlineId": "a27",
       "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 6,
-      "topHeadline": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
-      "topHeadlineId": "a6",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "Google Buys $548 million Qualcomm shares - The Information",
+      "topHeadlineId": "a5",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 33
+  "totalArticles": 37
 }

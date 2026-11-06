@@ -1,50 +1,50 @@
 {
-  "generatedAt": "2026-11-06T18:31:11.332Z",
+  "generatedAt": "2026-11-06T23:32:17.280Z",
   "date": "2026-11-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Mobile Chips (1 article), Semiconductors (1 article). A total of 6 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Platform & Ecosystem Partners: If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s e",
+        "text": "market-performance: Google Buys $548 million Qualcomm shares The Information",
         "articleIds": [
-          "a6"
+          "a5"
         ],
-        "subCategory": "platform-partner"
+        "subCategory": "market-performance"
+      },
+      {
+        "text": "Geopolitics & Export Controls: Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
+        "articleIds": [
+          "a7"
+        ],
+        "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
         "articleIds": [
-          "a10"
+          "a18"
         ],
         "subCategory": "mobile-chips"
       },
       {
-        "text": "Semiconductors: Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-        "articleIds": [
-          "a13"
-        ],
-        "subCategory": "semiconductors"
-      },
-      {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a19"
+          "a24"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a23"
+          "a27"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a24"
+          "a28"
         ],
         "subCategory": "frand-licensing"
       }
@@ -52,24 +52,47 @@
   },
   "articles": [
     {
-      "title": "Meta’s refurbished Quest 3S headset is nearly $100 off right now",
-      "url": "https://www.theverge.com/gadgets/1028372/meta-quest-3s-headset-philips-hue-gradient-lightstrip-deal-sale",
-      "description": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty. Meta Quest 3S Where to Buy: $349.99 $255.99 at eBay (refurbished) The Quest 3S strikes a middle ground between the Quest 3 and Quest 2. Like the pricier Quest 3, it runs on the speedy Snapdragon XR2 Gen 2 chip and supports the same library of games. It also comes with the same cameras for full-color passthrough, letting you interact with the world around you while wearing the headset. It comes with Meta’s Touch Plus controllers, though you can also use your hands to navigate menus and interact with some apps. And because it’s a standalone headset, you don’t need a PC or console to play games. However, its display resolution and optics quality are closer to the Quest 2’s, which, while good, means visuals are narrower and less sharp. Still, as we noted in our review, those trade-offs are easy to overlook given the price, especially if you’re new to VR. Read our full Meta Quest 3S review. Three more deals worth a look Philips Hue’s 80-inch Gradient Lightstrip is on sale for $83.16 ($115 off) when you buy it directly from Philips’ online storefront with code OUTLET58. The two-meter lightstrip can extend up to 10 meters and display multiple colors simultaneously, while delivering up to 1,800 lumens of brightness with customizable lighting effects. You can also control it via Alexa and Google Assistant, or using either Bluetooth or a Philips Hue Bridge. Anker’s new Desktop USB-C Hub is currently available from both Amazon and Anker (with code WSPDV2ONVYED) for $79.99 ($20 off), which is $5 shy of its lowest price to date. The 10-in-1 hub features a built-in screen that not only displays charging speeds, but also doubles as a digital photo frame and customizable timer. It also sports an HDMI port, a DisplayPort connection, four USB ports, an ethernet jack, and SD and microSD card slots, letting you connect multiple accessories and external displays. Speaking of gadgets with personality, Orico’s adorable PixCharge Plus is on sale at Amazon in several colors for $29.99 ($50 off), its best price to date. The small, 10,000mAh power bank has a customizable 16-by-16 pixel screen that displays animations, scrolling text, and pixel art using a companion app; it also supports up to 22.5W fast-charging and comes with a built-in USB-C cable that conveniently doubles as a strap.",
-      "source": "The Verge",
-      "sourceId": "the-verge",
+      "title": "Google Buys $548 million Qualcomm shares - The Information",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjlTcXZtdTBHZTdNa2U4bk9lbWR2UTVCYjQxa1RocHBMdnZqS2w2NnlPRXZGQnVGYmZpYlJ1cHY2VVl2OXFzQldMdDdiQVhpQjlaekJSOHBkUDU3VEZ1VnpDLXBId05SSnNiZUpYZUhUSXlwVFFKSGI5NXE0QllvVXZKdFpXbXM?oc=5",
+      "description": "Google Buys $548 million Qualcomm shares The Information",
+      "source": "The Information",
+      "sourceId": "the-information",
       "sourceGroup": "tech",
-      "publishedAt": "2026-11-06T16:39:15.000Z",
-      "fetchedAt": "2026-11-06T18:31:04.975Z",
-      "fetchStrategy": "rss",
-      "section": "stakeholders",
-      "subCategory": "platform-partner",
-      "subLabel": "Platform & Ecosystem Partners",
+      "publishedAt": "2026-11-06T21:15:00.000Z",
+      "fetchedAt": "2026-11-06T23:32:17.192Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Information",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
       "competitors": [],
       "stakeholders": [
         "platform-partner"
       ],
-      "summary": "If you’re curious about virtual reality, Meta’s Quest 3S is a good entry-level headset for dipping your toes in, especially now it’s on sale in refurbished condition for $255.99 directly from Meta’s eBay storefront through November 8th when you use coupon code SAVE20TECH. For comparison, the headset recently dropped to $300 in new condition as part of Amazon’s fall Prime Day event, and currently retails for $349.99. According to eBay, the certified refurbished headset is in “like-new” condition and has undergone professional inspection and cleaning by the manufacturer. More importantly, it comes with either original or new accessories — including a power adapter, a glasses spacer, wrist straps, etc. — alongside a two-year Allstate warranty.",
-      "id": "a6"
+      "summary": "Google Buys $548 million Qualcomm shares The Information",
+      "id": "a5"
+    },
+    {
+      "title": "All the latest updates on AI data centers",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/902546/data-centers-ai-energy-power-grids-controversy",
+      "description": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with. From audacious plans about data centers into space, heated local battles over buildouts, and potential environmental impacts, here’s The Verge’s news, coverage, and reporting surrounding data centers and the companies that are building them. Lame-duck Congress might actually do something: speed up energy projects “We are a data center first company,” AMD CEO Lisa Su says. OpenAI is stepping back from NDAs for data center projects This week in the big AI data center buildout. Data centers lost the midterms Maine Republican Susan Collins concedes Senate seat in a tech-fueled race. Democrat projected to win Ohio seat that Republicans warned could spell trouble for data centers. Data center-dense Texas turns blue. OpenAI is quietly renaming data centers ‘compute campuses’ OpenAI pitches data center power plants as a way to protect nearby areas Could data center backlash flip Florida? Prop 45 in California could be hiding a loophole for data centers Maine’s data center revolt will decide who controls the Senate Data centers could send US climate pollution skyrocketing AI has come for Arizona’s water This week in the big AI data center buildout. Voters in Texas agree: They hate data centers Highway robbers are targeting trucks carrying data center components. Data center backlash is uniting America Anthropic is burning gas to feed the AI boom It’s a good time to sell gray paint. Data centers could erase decades of air quality gains This week in the big AI data center buildout. Trump says paying communities a “dividend” could make data centers more popular. Texas is still permitting data centers despite a supposed statewide moratorium. The fossil fuel comeback is here Microsoft abandons the UK’s largest data center project. Amazon is funding a new nuclear plant in Indiana You’ve got to hear both sides? Neocloud CoreWeave’s bonds are distressed, and so am I. This week in the big AI data center buildout. A bipartisan bill aims to hold data centers accountable for their energy use. This week in the big AI data center buildout. Google’s power-hungry data centers crave nuclear energy A Japanese real estate company is building a data center in an underground tunnel. If a data center is camouflaged in the woods, will anyone hate it? Amazon writes scary blog warning communities not to block data centers The People of Utah vs. Kevin O’Leary South Park has a data center infestation. This week in the big AI data center buildout. Trump: “You’re going to see — data centers are going to be very popular.” Google is sending an AI satellite into space next week Data centers are black boxes, but California wants to change that Americans sour even more on data centers. California tightens rules on AI data center energy and water use Virginia governor creates an AI task force and moves to restrain data centers The AI data center e-waste problem is huge — and getting bigger This week in the big AI data center buildout. AI and data centers are incredibly unpopular in every poll This week in the big AI data center buildout. Is this the future of America? A Microsoft-backed data center has reportedly been running on unpermitted generators. Trump’s EPA wants to let data centers hide their air pollution This week in the big AI data center buildout. Now OpenAI’s former head of data centers is out. There’s a surge of new gas projects being built to power data centers in the US. The latest turn in the data center debate. This week in the big AI data center buildout. Nvidia guarantees up to $105 billion to support an OpenAI data center. This week in the big AI data center buildout. An Amazon data center could have the worst polluting power plant in the country The left and right agree on one thing: no data centers This week in the big AI data center buildout. AMD’s data center business is booming while gaming takes a backseat At least 37 people have reportedly been arrested for protesting data centers. Texas says data centers must pass an audit before connecting to the grid This week in the big AI data center buildout. Willie Nelson is pushing back against data centers in his hometown. Meta and BlackRock are building a data center campus together. The right-wing boomers protesting data centers have a lot in common with the left Utility companies promise to spare us from AI’s energy bill Meta reportedly considers leasing computing power to Anthropic. This week in the big AI data center buildout. AI’s power bill is here. New York becomes the first state to enact a data center moratorium The fight against AI data centers is just beginning Would you host part of an AI data center in your home? This week in the big AI data center buildout. Anthropic signs 20-year lease agreement for an AI data center in Kentucky. This week in the big AI data center buildout. Meta might launch its own cloud computing business. This week in the big AI data center buildout. Nvidia says its AI data center design runs hotter to use a lot less water Amazon employees say they’re facing termination for backing data center limits This week in the big AI data center buildout. xAI’s gas-powered data center is necessary for national security, DOJ argues. SpaceX reportedly rented out Colossus 1 AI data center after it ran into latency issues. Amazon’s data centers used 2.5 billion gallons of water last year This week in the big AI data center buildout. GM thinks EVs can help offset AI’s energy suck with vehicle-to-grid tech Amazon employees ask Seattle to put the brakes on new data centers The mayor of Shelbyville, Indiana, says only people who live in ‘shitty houses’ oppose data center New York lawmakers pass one-year ban on new data centers Kevin O’Leary agrees to downsize massive Utah data center This week in the big AI data center buildout. AI has a water problem — Google thinks it has a fix This week in the big AI data center buildout. Erin Brockovich created a map of data centers in the US. Anthropic is paying $15 billion a year for access to Elon Musk’s data centers What’s your score on the WSJ’s data center quiz? This week in the big AI data center buildout. The biggest data center ever is becoming a huge problem in Utah Use this map to find the data centers in your backyard Americans do not want AI data centers in their backyards This week in the big AI data center buildout. Data centers are coming for rural America Google may work with SpaceX to launch data centers into space. 43 percent of Americans blame data centers as a major reason for rising power bills. A 40,000-acre data center project was just approved in Utah, despite outcry from the community. A political battleground is forming around data centers. Are AI data centers coming to your area? Data centers will soon have to complete “mandatory” energy usage surveys. “A data center should not be a potential death sentence for a community’s health.” Iran threatens OpenAI’s Stargate data center in Abu Dhabi Senators are pushing to find out how much electricity data centers actually use Arm’s first CPU ever will plug into Meta’s AI data centers later this year Lake Tahoe has to look for a new power source as data center demand soars. How the spiraling Iran conflict could affect data centers and electricity costs Seven tech giants signed Trump’s pledge to keep electricity costs from spiking around data centers Trump claims tech companies will sign deals next week to pay for their own power supply Anthropic says it’ll try to keep its data centers from raising electricity costs How an ‘icepocalypse’ raises more questions about Meta’s biggest data center project Microsoft wants to rewire data centers to save space New York is considering two bills to rein in the AI industry Elon Musk is merging SpaceX and xAI to build data centers in space — or so he says It’s a new heyday for gas thanks to data centers Microsoft gets approval to build 15 data centers in Mount Pleasant, Wisconsin. Meta is spending millions to convince people that data centers are cool and you like them The winter storm tested power grids straining to accommodate AI data centers Microsoft wants to build 15 data centers in Mount Pleasant, Wisconsin. OpenAI says its data centers will pay for their own energy and limit water usage ICE hits Meta data center project. Amazon is buying copper harvested by bacteria for its data centers Microsoft scrambles to quell fury around its new AI data centers Data center projects are dropping like flies. That’s a lot of money for just one data center job. Alphabet is acquiring a data center company. Communities are rising up against data centers — and winning Democratic lawmakers are investigating data centers’ impact on electricity costs Billionaires want data centers everywhere, including space AI’s water and electricity use soars in 2025 Racks of AI chips are too damn heavy The scramble to launch data centers into space is heating up Data center construction moratorium is gaining steam Satya Nadella acknowledged that data centers are “putting a lot of pressure” on power grids. The largest power grid system in the US is considering rolling blackouts because of energy-hungry data centers. Data centers in Oregon might be helping to drive an increase in cancer and miscarriages Nvidia says some AI GPUs are ‘sold out,’ grows data center business by $10B in just three months Data centers are already influencing the global forecast for clean energy. Anthropic will invest $50 billion in building AI data centers in the US Google has a ‘moonshot’ plan for AI data centers in space Google is turning on the gas for its data centers Why data centers are building their own power plants Electricity costs are up to 267 percent higher than they used to be in communities near data centers. Microsoft says this new cooling method could enable more powerful chips and efficient data centers OpenAI, Oracle, and SoftBank announced five new AI data centers as part of Stargate. Microsoft is turning Foxconn’s empty buildings into the ‘world’s most powerful’ AI data center Nvidia invests $5 billion into Intel to jointly develop PC and data center chips Tech companies ‘be on alert,’ NAACP says with new guiding principles for data centers Meta faces Democratic probe into plans to power a giant data center with gas Amazon is investing billions more into its Mississippi data centers. Mark Zuckerberg wants you to know he has a big AI data center, too Bill Gates’ nuclear energy startup inks new data center deal OpenAI and SoftBank are starting a $500 billion AI data center company CBS News reports OpenAI, Oracle, and Softbank will announce a “Stargate” AI data center project. Joe Biden signs executive order to speed AI data center construction Go read this report on Arizona data centers and those without power in the state. Google’s future data centers will be built next to solar and wind farms Meta is putting a $10 billion AI data center in Louisiana. xAI competitors are flying spy planes over the ‘Colossus’ data center. New AI data centers could raise Americans’ electricity bills. Some Memphis residents are pissed about xAI’s new data center. Can Meta clean up its data centers with geothermal energy? xAI faces accusations its data center is polluting the air. This climate tech startup wants to capture carbon and help data centers cool down Google plans to reuse heat after expanding a data center for AI AI and crypto mining are driving up data centers’ energy use Google’s new geothermal energy project is up and running The environmental impact of the AI revolution is starting to come into focus How data centers at public pools can keep swimmers warm Can hydrogen fuel cells power Microsoft data centers?",
+      "source": "The Verge",
+      "sourceId": "the-verge",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-06T20:02:22.000Z",
+      "fetchedAt": "2026-11-06T23:32:11.355Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [
+        "regulators",
+        "platform-partner"
+      ],
+      "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with.",
+      "id": "a7"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -79,7 +102,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-06T18:31:08.800Z",
+      "fetchedAt": "2026-11-06T23:32:15.046Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -89,27 +112,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a10"
-    },
-    {
-      "title": "Google parent reveals $548 million bet on beaten-down chip stock",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/google-parent-reveals-548-million-133611955.html?.tsrc=rss",
-      "description": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T13:36:11.000Z",
-      "fetchedAt": "2026-11-06T18:31:04.236Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [
-        "platform-partner"
-      ],
-      "summary": "Alphabet disclosed nearly 3 million Qualcomm shares worth $547.9 million.",
-      "id": "a13"
+      "id": "a18"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -119,7 +122,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-06T18:31:05.898Z",
+      "fetchedAt": "2026-11-06T23:32:12.338Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -130,7 +133,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a19"
+      "id": "a24"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -140,7 +143,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-06T18:31:09.141Z",
+      "fetchedAt": "2026-11-06T23:32:15.690Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -153,7 +156,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a23"
+      "id": "a27"
     },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -163,7 +166,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-06T18:31:06.725Z",
+      "fetchedAt": "2026-11-06T23:32:13.092Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -173,7 +176,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a24"
+      "id": "a28"
     }
   ]
 }
