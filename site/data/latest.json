@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-07T10:42:23.472Z",
-  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T16:39:19.173Z",
+  "date": "2026-11-08",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 11,
-      "topHeadline": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "topHeadlineId": "a10",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (5 articles), Semiconductors (3 articles), Wireless Communication (3 articles). A total of 11 articles were aggregated from monitored sources."
+      "articleCount": 9,
+      "topHeadline": "What Is Behind The Rebound In Qualcomm Stock?",
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a34",
+      "topHeadlineId": "a35",
       "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-      "topHeadlineId": "a15",
+      "topHeadlineId": "a22",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 20,
-      "topHeadline": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports - Reuters",
+      "articleCount": 22,
+      "topHeadline": "US allows Nvidia chip sales to company with empty office in China — The Verge - UA.NEWS",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "topHeadlineId": "a33",
+      "topHeadlineId": "a34",
       "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 6,
-      "topHeadline": "Google Acquires Qualcomm Stake Through Modular Purchase - The Information",
-      "topHeadlineId": "a12",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "articleCount": 4,
+      "topHeadline": "Alphabet reveals $548M Qualcomm stake",
+      "topHeadlineId": "a30",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Supply Chain (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 42
+  "totalArticles": 40
 }

@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-07T10:42:23.469Z",
-  "date": "2026-11-07",
+  "generatedAt": "2026-11-07T16:39:19.171Z",
+  "date": "2026-11-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (5 articles), Semiconductors (3 articles), Wireless Communication (3 articles). A total of 11 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challeng",
+        "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a10"
-        ],
-        "subCategory": "mobile-chips"
-      },
-      {
-        "text": "Semiconductors: Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
-        "articleIds": [
-          "a16"
+          "a7"
         ],
         "subCategory": "semiconductors"
       },
       {
+        "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+        "articleIds": [
+          "a11"
+        ],
+        "subCategory": "mobile-chips"
+      },
+      {
         "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
         "articleIds": [
-          "a19"
+          "a25"
         ],
         "subCategory": "wireless"
       }
@@ -31,40 +31,59 @@
   },
   "articles": [
     {
-      "title": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "url": "https://www.theverge.com/science/1029162/spacex-starlink-mobile-elon-musk-news",
-      "description": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm, which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile, potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network. SpaceX’s big plans have garnered some reactions in the telecom industry. Tim Höttges, the CEO of T-Mobile’s parent company Deutsche Telekom, said he takes SpaceX’s plans “super serious” but that it could cost Musk more than $200 billion to pull off. Follow along for the latest updates on Starlink’s major mobile carrier ambitions. What will it take for SpaceX to launch its “major” mobile network? SpaceX is working with Qualcomm to build its Starlink Mobile 5G network SpaceX could buy Boost Mobile as part of its big mobile carrier plans SpaceX’s mobile carrier push reportedly involves tapping into 80,000 cell sites SpaceX announces plan to become a ‘major mobile carrier’ SpaceX is coming for T-Mobile, AT&T and Verizon",
-      "source": "The Verge",
-      "sourceId": "the-verge",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-06T22:45:43.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.940Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm, which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile, potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network.",
-      "id": "a10"
-    },
-    {
-      "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
-      "url": "https://www.cnbc.com/2026/11/06/tech-executives-ai-data-center-selloff-midterms.html",
-      "description": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
-      "source": "CNBC",
-      "sourceId": "cnbc",
+      "title": "What Is Behind The Rebound In Qualcomm Stock?",
+      "url": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07?.tsrc=rss",
+      "description": "For questions about this article or underlying research, email help@trefis.com.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T18:35:08.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.319Z",
+      "publishedAt": "2026-11-07T12:49:50.000Z",
+      "fetchedAt": "2026-11-07T16:39:11.610Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
       "subLabel": "Semiconductors",
       "competitors": [],
       "stakeholders": [],
-      "summary": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
-      "id": "a16"
+      "summary": "For questions about this article or underlying research, email help@trefis.com.",
+      "id": "a7"
+    },
+    {
+      "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
+      "url": "https://www.tikr.com/blog/ai-wants-every-scrap-of-ram-qualcomm-and-arm-just-showed-who-pays-the-bill?ref=yahoofinance&tlnk=yf-261107-72q2vv83&.tsrc=rss",
+      "description": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-07T07:15:04.000Z",
+      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "mobile-chips",
+      "subLabel": "Mobile Chips",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+      "id": "a11"
+    },
+    {
+      "title": "Alphabet Acquires Qualcomm Stake Through Modular Purchase - The Information",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjlTcXZtdTBHZTdNa2U4bk9lbWR2UTVCYjQxa1RocHBMdnZqS2w2NnlPRXZGQnVGYmZpYlJ1cHY2VVl2OXFzQldMdDdiQVhpQjlaekJSOHBkUDU3VEZ1VnpDLXBId05SSnNiZUpYZUhUSXlwVFFKSGI5NXE0QllvVXZKdFpXbXM?oc=5",
+      "description": "Alphabet Acquires Qualcomm Stake Through Modular Purchase The Information",
+      "source": "The Information",
+      "sourceId": "the-information",
+      "sourceGroup": "tech",
+      "publishedAt": "2026-11-06T21:15:00.000Z",
+      "fetchedAt": "2026-11-07T16:39:19.091Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "The Information",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Alphabet Acquires Qualcomm Stake Through Modular Purchase The Information",
+      "id": "a20"
     },
     {
       "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -74,7 +93,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:16:32.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.446Z",
+      "fetchedAt": "2026-11-07T16:39:11.610Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +101,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-      "id": "a18"
+      "id": "a24"
     },
     {
       "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -92,7 +111,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:14:22.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.446Z",
+      "fetchedAt": "2026-11-07T16:39:11.610Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,7 +119,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-      "id": "a19"
+      "id": "a25"
     },
     {
       "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
@@ -110,7 +129,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:36:28.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.446Z",
+      "fetchedAt": "2026-11-07T16:39:11.610Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -118,7 +137,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "id": "a22"
+      "id": "a28"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -128,7 +147,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-07T10:42:21.405Z",
+      "fetchedAt": "2026-11-07T16:39:17.476Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -138,25 +157,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a25"
-    },
-    {
-      "title": "Is Qualcomm Stock Worth Buying After Mixed Q4 Results?",
-      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-stock-worth-buying-mixed-151000647.html?.tsrc=rss",
-      "description": "QCOM's fiscal Q4 earnings fall 28% as handset weakness and rising costs offset automotive growth. Can diversification revive QCOM's prospects amid margin pressures?",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T15:10:00.000Z",
-      "fetchedAt": "2026-11-07T10:42:16.446Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "QCOM's fiscal Q4 earnings fall 28% as handset weakness and rising costs offset automotive growth. Can diversification revive QCOM's prospects amid margin pressures?",
-      "id": "a26"
+      "id": "a30"
     },
     {
       "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
@@ -166,7 +167,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-07T10:42:21.405Z",
+      "fetchedAt": "2026-11-07T16:39:17.476Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -174,7 +175,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
-      "id": "a30"
+      "id": "a31"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -184,7 +185,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-07T10:42:21.541Z",
+      "fetchedAt": "2026-11-07T16:39:16.711Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -197,43 +198,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a33"
-    },
-    {
-      "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
-      "url": "https://www.mobileworldlive.com/network-tech/spacex-taps-qualcomm-to-power-starlink-mobile-in-us/",
-      "description": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-04T14:48:00.000Z",
-      "fetchedAt": "2026-11-07T10:42:21.405Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-      "id": "a35"
-    },
-    {
-      "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
-      "url": "https://www.lightreading.com/5g/spacex-boldly-goes-into-huge-5g-network-rollout-with-qualcomm",
-      "description": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "source": "Light Reading",
-      "sourceId": "light-reading",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-04T13:30:00.000Z",
-      "fetchedAt": "2026-11-07T10:42:21.839Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-      "id": "a36"
+      "id": "a34"
     }
   ]
 }
