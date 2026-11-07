@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T03:15:06.594Z",
+  "generatedAt": "2026-11-07T10:42:23.469Z",
   "date": "2026-11-07",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,42 +9,42 @@
       {
         "text": "Platform & Ecosystem Partners: Google Acquires Qualcomm Stake Through Modular Purchase The Information",
         "articleIds": [
-          "a7"
+          "a12"
         ],
         "subCategory": "platform-partner"
       },
       {
         "text": "Geopolitics & Export Controls: Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
         "articleIds": [
-          "a9"
+          "a14"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
         "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
         "articleIds": [
-          "a20"
+          "a25"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a26"
+          "a31"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a29"
+          "a33"
         ],
         "subCategory": "wireless"
       },
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a30"
+          "a34"
         ],
         "subCategory": "frand-licensing"
       }
@@ -59,7 +59,7 @@
       "sourceId": "the-information",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T21:15:00.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.497Z",
+      "fetchedAt": "2026-11-07T10:42:23.350Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Information",
       "section": "stakeholders",
@@ -70,7 +70,7 @@
         "platform-partner"
       ],
       "summary": "Google Acquires Qualcomm Stake Through Modular Purchase The Information",
-      "id": "a7"
+      "id": "a12"
     },
     {
       "title": "All the latest updates on AI data centers",
@@ -80,7 +80,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T20:02:22.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.930Z",
+      "fetchedAt": "2026-11-07T10:42:16.940Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -92,7 +92,7 @@
         "platform-partner"
       ],
       "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with.",
-      "id": "a9"
+      "id": "a14"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -102,7 +102,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-07T03:15:04.135Z",
+      "fetchedAt": "2026-11-07T10:42:21.405Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -112,7 +112,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a20"
+      "id": "a25"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -122,7 +122,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-07T03:15:00.980Z",
+      "fetchedAt": "2026-11-07T10:42:18.029Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -133,7 +133,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a26"
+      "id": "a31"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -143,7 +143,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-07T03:15:04.621Z",
+      "fetchedAt": "2026-11-07T10:42:21.541Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -156,7 +156,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a29"
+      "id": "a33"
     },
     {
       "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -166,7 +166,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-07T03:15:01.844Z",
+      "fetchedAt": "2026-11-07T10:42:19.022Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -176,7 +176,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a30"
+      "id": "a34"
     }
   ]
 }

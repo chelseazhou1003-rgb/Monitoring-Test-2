@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T03:15:06.594Z",
+  "generatedAt": "2026-11-07T10:42:23.469Z",
   "date": "2026-11-07",
   "section": "ip-legal",
   "sectionTitle": "IP & Legal",
@@ -9,7 +9,7 @@
       {
         "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
         "articleIds": [
-          "a30"
+          "a34"
         ],
         "subCategory": "frand-licensing"
       }
@@ -24,7 +24,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-04T23:12:13.000Z",
-      "fetchedAt": "2026-11-07T03:15:01.844Z",
+      "fetchedAt": "2026-11-07T10:42:19.022Z",
       "fetchStrategy": "rss",
       "section": "ip-legal",
       "subCategory": "frand-licensing",
@@ -34,7 +34,7 @@
         "oem"
       ],
       "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-      "id": "a30"
+      "id": "a34"
     }
   ]
 }

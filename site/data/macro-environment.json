@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-07T03:15:06.594Z",
+  "generatedAt": "2026-11-07T10:42:23.469Z",
   "date": "2026-11-07",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (2 articles), Supply Chain (1 article). A total of 20 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+        "text": "Geopolitics & Export Controls: SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
         "articleIds": [
           "a1"
         ],
@@ -16,20 +16,117 @@
       {
         "text": "market-performance: Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders a",
         "articleIds": [
-          "a18"
+          "a23"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a26"
+          "a31"
         ],
         "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports - Reuters",
+      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
+      "description": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
+      "source": "Reuters",
+      "sourceId": "reuters",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-07T09:55:43.000Z",
+      "fetchedAt": "2026-11-07T10:42:22.300Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Reuters",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
+      "id": "a1"
+    },
+    {
+      "title": "A new Congress, a new opportunity to protect American inventors",
+      "url": "https://www.iam-media.com/article/new-congress-new-opportunity-protect-american-inventors",
+      "description": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
+      "source": "IAM",
+      "sourceId": "iam",
+      "sourceGroup": "ip",
+      "publishedAt": "2026-11-07T09:30:00.000Z",
+      "fetchedAt": "2026-11-07T10:42:19.022Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
+      "id": "a2"
+    },
+    {
+      "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
+      "description": "SoftBank Group Corp. and ABB Ltd. are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-07T08:39:26.000Z",
+      "fetchedAt": "2026-11-07T10:42:16.697Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
+      "id": "a3"
+    },
+    {
+      "title": "US lawmakers call Jensen Huang to closed-door briefing over China spying allegations and national security risks - 联合早报",
+      "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPN3luaUxtcmMwcktVR3BZMVRNR3Fqenk4MXNrQmUzeUhSaUN0WS1IRWZEcE9TMkprY1Zza2tidnpRczhjM1BzYUJkUmNfVDhLUUZHUy1YRm1TUVN3NUk1QUVPZ2ZIWnJIOTNDcmRlRjNISEFFWEhjZWc0NW0zNXN1cXFHSGVHZUk4bUNRbTZ6bktXYlFsQ1k1TEhNejV4UFpvNG1zaFVtdHk5STc1dXIyMEZYUjZxeHpHMmpJcVppVWhjSWxGM0dPbUh2SWQ1YXM?oc=5",
+      "description": "US lawmakers call Jensen Huang to closed-door briefing over China spying allegations and national security risks 联合早报",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-07T05:12:13.000Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "联合早报",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "US lawmakers call Jensen Huang to closed-door briefing over China spying allegations and national security risks 联合早报",
+      "id": "a4"
+    },
+    {
+      "title": "Trump’s defeat heralds a US retreat",
+      "url": "https://www.ft.com/content/f80ff605-6f6e-4b5d-9fab-20276b78e9b7?syn-25a6b1a6=1",
+      "description": "American retrenchment could change Middle East balance of power and signify opportunities for China",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-07T05:00:34.000Z",
+      "fetchedAt": "2026-11-07T10:42:16.894Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "American retrenchment could change Middle East balance of power and signify opportunities for China",
+      "id": "a5"
+    },
     {
       "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
       "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
@@ -38,7 +135,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T02:33:26.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.826Z",
+      "fetchedAt": "2026-11-07T10:42:16.894Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -47,7 +144,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
-      "id": "a1"
+      "id": "a6"
     },
     {
       "title": "How the CHIPS Act Accelerates the Semiconductor Ecosystem - Mexico Business News",
@@ -57,7 +154,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T23:18:16.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.557Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Mexico Business News",
       "geopoliticalBypass": true,
@@ -67,7 +164,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "How the CHIPS Act Accelerates the Semiconductor Ecosystem Mexico Business News",
-      "id": "a2"
+      "id": "a7"
     },
     {
       "title": "China reportedly recruited AI exec to spy on Jensen Huang",
@@ -77,7 +174,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T23:00:44.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.930Z",
+      "fetchedAt": "2026-11-07T10:42:16.940Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -86,7 +183,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed is a customer of Nvidia's, and Alice Huang also has \"relationships with executives at the highest levels of the A.I. chip industry,\" including leaders at Gigabyte, the NYT says. Last week, the NYT reported that Jensen Huang was seen as the target of a \"Chinese spy plot\" and shared details about Al … Read the full story at The Verge.",
-      "id": "a3"
+      "id": "a8"
     },
     {
       "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
@@ -96,7 +193,7 @@
       "sourceId": "ft",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T22:53:51.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.826Z",
+      "fetchedAt": "2026-11-07T10:42:16.894Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -105,7 +202,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-      "id": "a4"
+      "id": "a9"
     },
     {
       "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
@@ -115,7 +212,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T22:25:58.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.331Z",
+      "fetchedAt": "2026-11-07T10:42:16.319Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -124,7 +221,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-      "id": "a6"
+      "id": "a11"
     },
     {
       "title": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door - The Daily Caller",
@@ -134,7 +231,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T20:55:00.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.557Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Daily Caller",
       "geopoliticalBypass": true,
@@ -144,7 +241,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Daily Caller",
-      "id": "a8"
+      "id": "a13"
     },
     {
       "title": "All the latest updates on AI data centers",
@@ -154,7 +251,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T20:02:22.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.930Z",
+      "fetchedAt": "2026-11-07T10:42:16.940Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -166,7 +263,7 @@
         "platform-partner"
       ],
       "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with.",
-      "id": "a9"
+      "id": "a14"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -176,7 +273,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T17:23:52.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.303Z",
+      "fetchedAt": "2026-11-07T10:42:16.356Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -185,7 +282,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "id": "a15"
+      "id": "a20"
     },
     {
       "title": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
@@ -195,7 +292,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:15:54.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.506Z",
+      "fetchedAt": "2026-11-07T10:42:16.446Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -203,7 +300,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders are saying about the volatile state of politics. Sozzi sits down for a 1-on-1 with Affirm (AFRM) CEO Max Levchin to discuss the company's earnings and the midterm results.",
-      "id": "a18"
+      "id": "a23"
     },
     {
       "title": "A $25 Billion Fund Just Bought These 3 Stocks",
@@ -213,7 +310,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:15:04.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.506Z",
+      "fetchedAt": "2026-11-07T10:42:16.446Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -221,7 +318,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysA $25 billion fund made Nokia (NOK), Qualcomm (QCOM:NASDAQ), and Alphabet (GOOGL:NASDAQ) its three biggest new or added positions in Q3. All three stocks have fallen since Sept.",
-      "id": "a19"
+      "id": "a24"
+    },
+    {
+      "title": "Expected Decoupling Fails: Why BTC Returns to the Shadow of US Stocks Amid the AI Sell-Off Wave - 深潮TechFlow",
+      "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9SZU9wbVhkTF9FMWI5Rl9Vd0dONlk1MjROelpYaFdIckJselc0aXUwYzVRcllBX0ZROU1GWFBNWnd2Y2xiX2kxWGhBaUtUcXJ2bG1Xd1dBQmxJZDdM?oc=5",
+      "description": "Expected Decoupling Fails: Why BTC Returns to the Shadow of US Stocks Amid the AI Sell-Off Wave 深潮TechFlow",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-06T15:04:02.000Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "深潮TechFlow",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Expected Decoupling Fails: Why BTC Returns to the Shadow of US Stocks Amid the AI Sell-Off Wave 深潮TechFlow",
+      "id": "a27"
     },
     {
       "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
@@ -231,7 +348,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T11:39:01.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.557Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "EU Perspectives",
       "geopoliticalBypass": true,
@@ -241,46 +358,27 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-      "id": "a22"
+      "id": "a28"
     },
     {
-      "title": "Trump has taught the world that tariffs are useless",
-      "url": "https://www.ft.com/content/aab95234-0b9a-4b95-b1e5-d932669076d5?syn-25a6b1a6=1",
-      "description": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
-      "source": "Financial Times",
-      "sourceId": "ft",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T11:00:09.000Z",
-      "fetchedAt": "2026-11-07T03:14:59.826Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
-      "id": "a23"
-    },
-    {
-      "title": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right - Newsweek",
-      "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbDJETXRuTjRDNjhUUThna1NNNWRjblA4WnZPVXhtVjFRUjZIVkplLVRMM1BqdlpiZXc2NmlQVWNZY0RrdVlnZDkwajlHaEJETlBibV8xSXdLV3h5Sk1hMlZEWmRTM0p2X3FYZmlOSTkyRmFsMXZ0VU9fREFkUnUzSmctQmVfY2FCdmNGc0hEMllhNmQzMl81TFcybExIRXl0?oc=5",
-      "description": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right Newsweek",
+      "title": "House Republicans Summon Nvidia's Jensen Huang for Closed-Door Briefing on Alleged China Spy Ties - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5tT0MySXBvejZjdHZ1SmNZMVVfWHB2NHhRUHh3bHpoWGNGSXoxUXN4QW5PMTh4aTB3eENvelA5RFNHOVAxc1BMUURWMVdsX1M4VVZjaE52LUxoYTJmaHJaUE9yal9ZZWxwQVlrR1lCY3JFbi1UWlE?oc=5",
+      "description": "House Republicans Summon Nvidia's Jensen Huang for Closed-Door Briefing on Alleged China Spy Ties BigGo Finance",
       "source": "Geopolitics",
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T10:00:00.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.557Z",
+      "publishedAt": "2026-11-06T11:05:00.000Z",
+      "fetchedAt": "2026-11-07T10:42:23.420Z",
       "fetchStrategy": "google-news",
-      "googleNewsSource": "Newsweek",
+      "googleNewsSource": "BigGo Finance",
       "geopoliticalBypass": true,
       "section": "macro-environment",
       "subCategory": "geopolitics-export-controls",
       "subLabel": "Geopolitics & Export Controls",
       "competitors": [],
       "stakeholders": [],
-      "summary": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right Newsweek",
-      "id": "a24"
+      "summary": "House Republicans Summon Nvidia's Jensen Huang for Closed-Door Briefing on Alleged China Spy Ties BigGo Finance",
+      "id": "a29"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -290,7 +388,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-07T03:15:00.980Z",
+      "fetchedAt": "2026-11-07T10:42:18.029Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -301,27 +399,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a26"
-    },
-    {
-      "title": "China’s midterm dilemma: A weaker Trump could mean a tougher Washington for Xi - Firstpost",
-      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNZnpNRXNaZ0plb3JIcGRxQU9uUDJ4V19EcUhRNmpSTE9faElsRlg5TGs1ZXNVd19qeHhJNmJQeEhZbjFZM0sybTZ1dl9reUVNMVRBN1pkQzhXaF9uWGE4akRhUjRKc0tDZ1VKU2lBNjl5UUt2OEJ5WTUzdGNHejdvRDRrY0hyZUp6TmVKZVlLQV9NWUF5dmZmY051X1AwX3lDQTUyc9IBqgFBVV95cUxNeTBta1F5UjhERE9BelVHTHVReGpZYmVhT2F2Q1loMmx1US1BUVROWHd4MzdvR25NOXFWam1uX2JjOW1veTdpMDZwcnhfSHZ1aGJZY2prLVF3RVkzQWhpRG40UXNQalVnMHlmZ0oyQ3laZl9YdkY5QVRRaFVnWEZEdFloOXluLU1NNms1SlNXMTNFbUhnQ1BqbHpIZTFWaDhsa2ZtMUU1eGRMZw?oc=5",
-      "description": "China’s midterm dilemma: A weaker Trump could mean a tougher Washington for Xi Firstpost",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T04:54:52.000Z",
-      "fetchedAt": "2026-11-07T03:15:06.557Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Firstpost",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "China’s midterm dilemma: A weaker Trump could mean a tougher Washington for Xi Firstpost",
-      "id": "a27"
+      "id": "a31"
     },
     {
       "title": "China blocks SoftBank, ABB robotics deal",
@@ -331,7 +409,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-05T13:48:41.000Z",
-      "fetchedAt": "2026-11-07T03:15:04.135Z",
+      "fetchedAt": "2026-11-07T10:42:21.405Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -340,7 +418,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
-      "id": "a28"
+      "id": "a32"
     }
   ]
 }
