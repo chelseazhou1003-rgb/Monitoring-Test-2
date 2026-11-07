@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-07T20:32:22.870Z",
+  "generatedAt": "2026-11-07T23:59:44.410Z",
   "date": "2026-11-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a9"
+          "a12"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
         "articleIds": [
-          "a13"
+          "a16"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
         "articleIds": [
-          "a25"
+          "a23"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T12:49:50.000Z",
-      "fetchedAt": "2026-11-07T20:32:16.355Z",
+      "fetchedAt": "2026-11-07T23:59:36.750Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T07:15:04.000Z",
-      "fetchedAt": "2026-11-07T20:32:16.355Z",
+      "fetchedAt": "2026-11-07T23:59:36.750Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -64,26 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
-      "id": "a13"
-    },
-    {
-      "title": "Alphabet Acquires Qualcomm Stake Through Modular Purchase - The Information",
-      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjlTcXZtdTBHZTdNa2U4bk9lbWR2UTVCYjQxa1RocHBMdnZqS2w2NnlPRXZGQnVGYmZpYlJ1cHY2VVl2OXFzQldMdDdiQVhpQjlaekJSOHBkUDU3VEZ1VnpDLXBId05SSnNiZUpYZUhUSXlwVFFKSGI5NXE0QllvVXZKdFpXbXM?oc=5",
-      "description": "Alphabet Acquires Qualcomm Stake Through Modular Purchase The Information",
-      "source": "The Information",
-      "sourceId": "the-information",
-      "sourceGroup": "tech",
-      "publishedAt": "2026-11-06T21:15:00.000Z",
-      "fetchedAt": "2026-11-07T20:32:22.695Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "The Information",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Alphabet Acquires Qualcomm Stake Through Modular Purchase The Information",
-      "id": "a20"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -93,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:16:32.000Z",
-      "fetchedAt": "2026-11-07T20:32:16.355Z",
+      "fetchedAt": "2026-11-07T23:59:36.750Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -101,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-      "id": "a24"
+      "id": "a22"
     },
     {
       "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -111,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:14:22.000Z",
-      "fetchedAt": "2026-11-07T20:32:16.355Z",
+      "fetchedAt": "2026-11-07T23:59:36.750Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -119,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-      "id": "a25"
+      "id": "a23"
     },
     {
       "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
@@ -129,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:36:28.000Z",
-      "fetchedAt": "2026-11-07T20:32:16.355Z",
+      "fetchedAt": "2026-11-07T23:59:36.750Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "id": "a27"
+      "id": "a25"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -147,7 +128,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-07T20:32:20.826Z",
+      "fetchedAt": "2026-11-07T23:59:42.244Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -157,7 +138,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a29"
+      "id": "a27"
     },
     {
       "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
@@ -167,7 +148,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-07T20:32:20.826Z",
+      "fetchedAt": "2026-11-07T23:59:42.244Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -175,7 +156,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
-      "id": "a30"
+      "id": "a28"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -185,7 +166,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-07T20:32:20.848Z",
+      "fetchedAt": "2026-11-07T23:59:42.227Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -198,7 +179,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a33"
+      "id": "a31"
     }
   ]
 }
