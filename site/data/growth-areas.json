@@ -1,10 +1,10 @@
 {
-  "generatedAt": "2026-11-07T16:39:19.171Z",
+  "generatedAt": "2026-11-07T20:32:22.870Z",
   "date": "2026-11-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T19:25:20.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:20:50.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -51,25 +51,6 @@
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
       "id": "a23"
-    },
-    {
-      "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOZXlYcFdWcV9JU25ST013NGFEdWszTUFKS0xKNG5vYVhnVm1fbHFoa2lUWk16RGhqMmVXdzFkQ0NwRGcwaTdSdl82VjdUZWREdnhJZ1VIYXJUQzdWbVJCUTlySUJHVFFzc0M1QlNieFRSTU81bkF2MWpfbUlWQUxnUEhsUzdnUlBwRGo1a0hPcWh3VkFmYnJOX3E2UnE?oc=5",
-      "description": "Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T16:44:46.000Z",
-      "fetchedAt": "2026-11-07T16:39:17.995Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
-      "id": "a27"
     }
   ]
 }

@@ -1,32 +1,32 @@
 {
-  "generatedAt": "2026-11-07T16:39:19.173Z",
+  "generatedAt": "2026-11-07T20:32:22.873Z",
   "date": "2026-11-08",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 9,
       "topHeadline": "What Is Behind The Rebound In Qualcomm Stock?",
-      "topHeadlineId": "a7",
+      "topHeadlineId": "a9",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a35",
+      "topHeadlineId": "a34",
       "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
-      "articleCount": 3,
+      "articleCount": 2,
       "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
       "topHeadlineId": "a22",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 22,
-      "topHeadline": "US allows Nvidia chip sales to company with empty office in China — The Verge - UA.NEWS",
+      "topHeadline": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - The Washington Post",
       "topHeadlineId": "a1",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (1 article), Supply Chain (1 article). A total of 22 articles were aggregated from monitored sources."
     },
@@ -34,16 +34,16 @@
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "topHeadlineId": "a34",
+      "topHeadlineId": "a33",
       "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 4,
       "topHeadline": "Alphabet reveals $548M Qualcomm stake",
-      "topHeadlineId": "a30",
+      "topHeadlineId": "a29",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Supply Chain (1 article), Wireless Communication (1 article). A total of 4 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 40
+  "totalArticles": 39
 }

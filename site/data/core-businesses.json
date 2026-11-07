@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T16:39:19.171Z",
+  "generatedAt": "2026-11-07T20:32:22.870Z",
   "date": "2026-11-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
@@ -9,14 +9,14 @@
       {
         "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a7"
+          "a9"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
         "articleIds": [
-          "a11"
+          "a13"
         ],
         "subCategory": "mobile-chips"
       },
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T12:49:50.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a7"
+      "id": "a9"
     },
     {
       "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T07:15:04.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
-      "id": "a11"
+      "id": "a13"
     },
     {
       "title": "Alphabet Acquires Qualcomm Stake Through Modular Purchase - The Information",
@@ -74,7 +74,7 @@
       "sourceId": "the-information",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T21:15:00.000Z",
-      "fetchedAt": "2026-11-07T16:39:19.091Z",
+      "fetchedAt": "2026-11-07T20:32:22.695Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Information",
       "section": "core-businesses",
@@ -93,7 +93,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:16:32.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -111,7 +111,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:14:22.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -129,7 +129,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:36:28.000Z",
-      "fetchedAt": "2026-11-07T16:39:11.610Z",
+      "fetchedAt": "2026-11-07T20:32:16.355Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -137,7 +137,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "id": "a28"
+      "id": "a27"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -147,7 +147,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-07T16:39:17.476Z",
+      "fetchedAt": "2026-11-07T20:32:20.826Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -157,7 +157,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a30"
+      "id": "a29"
     },
     {
       "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
@@ -167,7 +167,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-07T16:39:17.476Z",
+      "fetchedAt": "2026-11-07T20:32:20.826Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -175,7 +175,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
-      "id": "a31"
+      "id": "a30"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -185,7 +185,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-07T16:39:16.711Z",
+      "fetchedAt": "2026-11-07T20:32:20.848Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -198,7 +198,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a34"
+      "id": "a33"
     }
   ]
 }
