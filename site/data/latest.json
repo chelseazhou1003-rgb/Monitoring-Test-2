@@ -1,49 +1,49 @@
 {
-  "generatedAt": "2026-11-06T23:32:17.282Z",
+  "generatedAt": "2026-11-07T03:15:06.596Z",
   "date": "2026-11-07",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
       "articleCount": 11,
       "topHeadline": "Starlink Mobile: All the news on SpaceX&#8217;s major mobile carrier ambitions",
-      "topHeadlineId": "a3",
+      "topHeadlineId": "a5",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (5 articles), Semiconductors (3 articles), Wireless Communication (3 articles). A total of 11 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
       "articleCount": 1,
       "topHeadline": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
-      "topHeadlineId": "a28",
+      "topHeadlineId": "a30",
       "briefingSummary": "One article today covering FRAND & Licensing. Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in f"
     },
     "growth-areas": {
       "title": "Growth Areas",
       "articleCount": 3,
       "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-      "topHeadlineId": "a8",
+      "topHeadlineId": "a10",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (3 articles). A total of 3 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 15,
-      "topHeadline": "China reportedly recruited AI exec to spy on Jensen Huang",
+      "articleCount": 16,
+      "topHeadline": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
       "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources."
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
       "articleCount": 1,
       "topHeadline": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "topHeadlineId": "a27",
+      "topHeadlineId": "a29",
       "briefingSummary": "One article today covering Wireless Communication. The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection."
     },
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 6,
-      "topHeadline": "Google Buys $548 million Qualcomm shares - The Information",
-      "topHeadlineId": "a5",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
+      "topHeadline": "Google Acquires Qualcomm Stake Through Modular Purchase - The Information",
+      "topHeadlineId": "a7",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources."
     }
   },
-  "totalArticles": 37
+  "totalArticles": 38
 }

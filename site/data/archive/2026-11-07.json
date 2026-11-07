@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-06T23:32:17.282Z",
+  "generatedAt": "2026-11-07T03:15:06.596Z",
   "date": "2026-11-07",
   "sections": {
     "core-businesses": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "core-businesses",
       "sectionTitle": "Core Businesses",
@@ -13,21 +13,21 @@
           {
             "text": "Mobile Chips: SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challeng",
             "articleIds": [
-              "a3"
+              "a5"
             ],
             "subCategory": "mobile-chips"
           },
           {
             "text": "Semiconductors: Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
             "articleIds": [
-              "a9"
+              "a11"
             ],
             "subCategory": "semiconductors"
           },
           {
             "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
             "articleIds": [
-              "a12"
+              "a14"
             ],
             "subCategory": "wireless"
           }
@@ -42,7 +42,7 @@
           "sourceId": "the-verge",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T22:45:43.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.355Z",
+          "fetchedAt": "2026-11-07T03:14:59.930Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -50,7 +50,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "SpaceX has declared that it’s going to make Starlink Mobile a “major” mobile carrier. The Elon Musk-owned company has already deployed thousands of direct-to-cell satellites, but its next big challenge is building out its 5G network here on Earth. As part of its plans to rival AT&T, Verizon, and T-Mobile, SpaceX has inked a deal with Qualcomm, which will deploy its cellular technology across tens of thousands of 5G cell sites starting in 2027. SpaceX is also reportedly in talks to buy Boost Mobile, potentially allowing it to launch Starlink Mobile through the service. Another report suggests SpaceX may tap into 80,000 cell sites across the US to build out its network.",
-          "id": "a3"
+          "id": "a5"
         },
         {
           "title": "OpenAI, Arm and Qualcomm executives react to post-midterm AI sell-off",
@@ -60,7 +60,7 @@
           "sourceId": "cnbc",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T18:35:08.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.656Z",
+          "fetchedAt": "2026-11-07T03:14:59.331Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -68,7 +68,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Executives of major tech companies are largely projecting optimism about continued growth in the artificial intelligence sector despite a post-midterm sell-off.",
-          "id": "a9"
+          "id": "a11"
         },
         {
           "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -78,7 +78,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T18:16:32.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -86,7 +86,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-          "id": "a11"
+          "id": "a13"
         },
         {
           "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -96,7 +96,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T18:14:22.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -104,7 +104,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-          "id": "a12"
+          "id": "a14"
         },
         {
           "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
@@ -114,7 +114,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T15:36:28.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "semiconductors",
@@ -122,7 +122,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-          "id": "a15"
+          "id": "a17"
         },
         {
           "title": "Alphabet reveals $548M Qualcomm stake",
@@ -132,7 +132,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-06T15:14:19.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.046Z",
+          "fetchedAt": "2026-11-07T03:15:04.135Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -142,7 +142,7 @@
             "platform-partner"
           ],
           "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-          "id": "a18"
+          "id": "a20"
         },
         {
           "title": "Is Qualcomm Stock Worth Buying After Mixed Q4 Results?",
@@ -152,7 +152,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T15:10:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -160,7 +160,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "QCOM's fiscal Q4 earnings fall 28% as handset weakness and rising costs offset automotive growth. Can diversification revive QCOM's prospects amid margin pressures?",
-          "id": "a19"
+          "id": "a21"
         },
         {
           "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
@@ -170,7 +170,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-06T09:17:57.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.046Z",
+          "fetchedAt": "2026-11-07T03:15:04.135Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -178,7 +178,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
-          "id": "a23"
+          "id": "a25"
         },
         {
           "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -188,7 +188,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-05T08:28:31.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.690Z",
+          "fetchedAt": "2026-11-07T03:15:04.621Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -201,7 +201,7 @@
             "oem"
           ],
           "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-          "id": "a27"
+          "id": "a29"
         },
         {
           "title": "SpaceX taps Qualcomm to power Starlink Mobile in US",
@@ -211,7 +211,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-04T14:48:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.047Z",
+          "fetchedAt": "2026-11-07T03:15:04.135Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -219,7 +219,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "SpaceX signed a deal with Qualcomm to use the chipmaker’s Dragwing Cellular Infrastructure offering for Starlink Mobile’s nationwide mobile network rollout in the US, while agreeing to collaborate on AI-native 6G infrastructure. The post SpaceX taps Qualcomm to power Starlink Mobile in US appeared first on Mobile World Live.",
-          "id": "a29"
+          "id": "a31"
         },
         {
           "title": "SpaceX boldly goes into 'huge' 5G network rollout with Qualcomm",
@@ -229,7 +229,7 @@
           "sourceId": "light-reading",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-04T13:30:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.296Z",
+          "fetchedAt": "2026-11-07T03:15:04.244Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -237,12 +237,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "After trying satellites and small cells, Elon Musk's SpaceX is to build a terrestrial mobile network across tens of thousands of sites with Qualcomm.",
-          "id": "a30"
+          "id": "a32"
         }
       ]
     },
     "ip-legal": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "ip-legal",
       "sectionTitle": "IP & Legal",
@@ -252,7 +252,7 @@
           {
             "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
             "articleIds": [
-              "a28"
+              "a30"
             ],
             "subCategory": "frand-licensing"
           }
@@ -267,7 +267,7 @@
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-04T23:12:13.000Z",
-          "fetchedAt": "2026-11-06T23:32:13.092Z",
+          "fetchedAt": "2026-11-07T03:15:01.844Z",
           "fetchStrategy": "rss",
           "section": "ip-legal",
           "subCategory": "frand-licensing",
@@ -277,12 +277,12 @@
             "oem"
           ],
           "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-          "id": "a28"
+          "id": "a30"
         }
       ]
     },
     "growth-areas": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "growth-areas",
       "sectionTitle": "Growth Areas",
@@ -292,7 +292,7 @@
           {
             "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
             "articleIds": [
-              "a8"
+              "a10"
             ],
             "subCategory": "data-center"
           }
@@ -307,7 +307,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T19:25:20.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "growth-areas",
           "subCategory": "data-center",
@@ -315,7 +315,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-          "id": "a8"
+          "id": "a10"
         },
         {
           "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
@@ -325,7 +325,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T18:20:50.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "growth-areas",
           "subCategory": "data-center",
@@ -333,7 +333,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-          "id": "a10"
+          "id": "a12"
         },
         {
           "title": "Alphabet takes $548 million stake in partner Qualcomm in data center push - Reuters",
@@ -343,7 +343,7 @@
           "sourceId": "reuters",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T16:44:46.000Z",
-          "fetchedAt": "2026-11-06T23:32:16.154Z",
+          "fetchedAt": "2026-11-07T03:15:05.332Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Reuters",
           "section": "growth-areas",
@@ -352,42 +352,81 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Alphabet takes $548 million stake in partner Qualcomm in data center push Reuters",
-          "id": "a14"
+          "id": "a16"
         }
       ]
     },
     "macro-environment": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "macro-environment",
       "sectionTitle": "Macro",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (3 articles), Supply Chain (1 article). A total of 15 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (13 articles), market-performance (2 articles), Supply Chain (1 article). A total of 16 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "Geopolitics & Export Controls: China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean inf",
+            "text": "Geopolitics & Export Controls: American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
             "articleIds": [
               "a1"
             ],
             "subCategory": "geopolitics-export-controls"
           },
           {
-            "text": "market-performance: Google Buys $548 million Qualcomm shares The Information",
+            "text": "market-performance: Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders a",
             "articleIds": [
-              "a5"
+              "a18"
             ],
             "subCategory": "market-performance"
           },
           {
             "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
             "articleIds": [
-              "a24"
+              "a26"
             ],
             "subCategory": "supply-chain"
           }
         ]
       },
       "articles": [
+        {
+          "title": "US believes Nvidia’s Huang had romantic relationship with alleged Chinese spy",
+          "url": "https://www.ft.com/content/a55a2a22-4479-4f93-a445-6147a5c6d790?syn-25a6b1a6=1",
+          "description": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+          "source": "Financial Times",
+          "sourceId": "ft",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-07T02:33:26.000Z",
+          "fetchedAt": "2026-11-07T03:14:59.826Z",
+          "fetchStrategy": "rss",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "American intelligence warned the tech boss was involved with executive recruited by China to gather information on US group",
+          "id": "a1"
+        },
+        {
+          "title": "How the CHIPS Act Accelerates the Semiconductor Ecosystem - Mexico Business News",
+          "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNSE5zQjhUY1AzN21UZHgtejlac3RKaGYtSlRMbVlxMm83NmFiQ0U5aUZHb2ZIWFRNa25ieVRZdDJZbllidmdrRlJZWG5aeUc1cmI3OVBaZFNUYW5qYzB4eTdWTUdwVFgzYWk0UFBfaGMxNDZ2SDRXemJlMnBlMTdvanN6YVlWX1NWZHNySDA3Q0p5TlB4Z3hwVjVDTEFBc0l1R0dGb093?oc=5",
+          "description": "How the CHIPS Act Accelerates the Semiconductor Ecosystem Mexico Business News",
+          "source": "Geopolitics",
+          "sourceId": "geopolitics",
+          "sourceGroup": "finance",
+          "publishedAt": "2026-11-06T23:18:16.000Z",
+          "fetchedAt": "2026-11-07T03:15:06.557Z",
+          "fetchStrategy": "google-news",
+          "googleNewsSource": "Mexico Business News",
+          "geopoliticalBypass": true,
+          "section": "macro-environment",
+          "subCategory": "geopolitics-export-controls",
+          "subLabel": "Geopolitics & Export Controls",
+          "competitors": [],
+          "stakeholders": [],
+          "summary": "How the CHIPS Act Accelerates the Semiconductor Ecosystem Mexico Business News",
+          "id": "a2"
+        },
         {
           "title": "China reportedly recruited AI exec to spy on Jensen Huang",
           "url": "https://www.theverge.com/tech/1029338/nvidia-ceo-jensen-huang-china-spy",
@@ -396,7 +435,7 @@
           "sourceId": "the-verge",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T23:00:44.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.355Z",
+          "fetchedAt": "2026-11-07T03:14:59.930Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -405,7 +444,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China's intelligence agency recruited Megaspeed executive Alice Huang to spy on Nvidia CEO Jensen Huang, according to The New York Times. The Ministry of State Security (MSS) enlisted her to glean information about American AI chips and \"potentially influence the company to push for its most advanced chips to be made available to China.\" Megaspeed is a customer of Nvidia's, and Alice Huang also has \"relationships with executives at the highest levels of the A.I. chip industry,\" including leaders at Gigabyte, the NYT says. Last week, the NYT reported that Jensen Huang was seen as the target of a \"Chinese spy plot\" and shared details about Al … Read the full story at The Verge.",
-          "id": "a1"
+          "id": "a3"
         },
         {
           "title": "US warns China it must ‘immediately’ meet terms of Busan trade deal",
@@ -415,7 +454,7 @@
           "sourceId": "ft",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T22:53:51.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.307Z",
+          "fetchedAt": "2026-11-07T03:14:59.826Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -424,7 +463,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Washington says Beijing is not fulfilling commitments to increase supply of rare earths and other critical products",
-          "id": "a2"
+          "id": "a4"
         },
         {
           "title": "OpenAI will keep investing in AI data centers despite election results, CFO tells CNBC",
@@ -434,7 +473,7 @@
           "sourceId": "cnbc",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T22:25:58.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.656Z",
+          "fetchedAt": "2026-11-07T03:14:59.331Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -443,38 +482,17 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Voters across the country on Tuesday voiced their support for candidates who have pledged to place restrictions on data center development.",
-          "id": "a4"
-        },
-        {
-          "title": "Google Buys $548 million Qualcomm shares - The Information",
-          "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjlTcXZtdTBHZTdNa2U4bk9lbWR2UTVCYjQxa1RocHBMdnZqS2w2NnlPRXZGQnVGYmZpYlJ1cHY2VVl2OXFzQldMdDdiQVhpQjlaekJSOHBkUDU3VEZ1VnpDLXBId05SSnNiZUpYZUhUSXlwVFFKSGI5NXE0QllvVXZKdFpXbXM?oc=5",
-          "description": "Google Buys $548 million Qualcomm shares The Information",
-          "source": "The Information",
-          "sourceId": "the-information",
-          "sourceGroup": "tech",
-          "publishedAt": "2026-11-06T21:15:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.192Z",
-          "fetchStrategy": "google-news",
-          "googleNewsSource": "The Information",
-          "section": "macro-environment",
-          "subCategory": "market-performance",
-          "subLabel": "market-performance",
-          "competitors": [],
-          "stakeholders": [
-            "platform-partner"
-          ],
-          "summary": "Google Buys $548 million Qualcomm shares The Information",
-          "id": "a5"
+          "id": "a6"
         },
         {
           "title": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door - The Daily Caller",
-          "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQRkFwN1dVUzRwUTQ0NzhFckpidDY5RllCbUR0THBOQVVQU1NEMkcySExMUExXYVY2TllWNExCRk05aHRfcDdFNnhlelVjNEhocWExRHpXaTlVT3NtTGxrZ0RLcDRSM2Y5cDN0OUNVU3ZzZF9oZXhabUFodlJfYVB4eWxVcVh1aTZ1OVFkblNKcVJyWnM?oc=5",
+          "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQRWEyS1F5dTBTSFViUTBYU0FJQTgzZG9xN093ZnA4d1h2VF9jRlY3eXFBbklDOTE1LWdiZm1PUF9mVC1YN2RXTkRrYTg1UFcxR21aQkJCVy03b0NKcnBVTTBVaGc4T3Mxc1NWTXJjQTBUSTB3MUVORWIzMmNKQW9LSTc3RVk3bEYyUGo2d2lMaTZUZ0hL?oc=5",
           "description": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Daily Caller",
           "source": "Geopolitics",
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T20:55:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.236Z",
+          "fetchedAt": "2026-11-07T03:15:06.557Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "The Daily Caller",
           "geopoliticalBypass": true,
@@ -484,7 +502,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Daily Caller",
-          "id": "a6"
+          "id": "a8"
         },
         {
           "title": "All the latest updates on AI data centers",
@@ -494,7 +512,7 @@
           "sourceId": "the-verge",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T20:02:22.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.355Z",
+          "fetchedAt": "2026-11-07T03:14:59.930Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -506,7 +524,7 @@
             "platform-partner"
           ],
           "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with.",
-          "id": "a7"
+          "id": "a9"
         },
         {
           "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -516,7 +534,7 @@
           "sourceId": "techcrunch",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T17:23:52.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.582Z",
+          "fetchedAt": "2026-11-07T03:14:59.303Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -525,7 +543,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-          "id": "a13"
+          "id": "a15"
         },
         {
           "title": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
@@ -535,7 +553,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T15:15:54.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -543,7 +561,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders are saying about the volatile state of politics. Sozzi sits down for a 1-on-1 with Affirm (AFRM) CEO Max Levchin to discuss the company's earnings and the midterm results.",
-          "id": "a16"
+          "id": "a18"
         },
         {
           "title": "A $25 Billion Fund Just Bought These 3 Stocks",
@@ -553,7 +571,7 @@
           "sourceId": "yahoo-finance",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T15:15:04.000Z",
-          "fetchedAt": "2026-11-06T23:32:10.650Z",
+          "fetchedAt": "2026-11-07T03:14:59.506Z",
           "fetchStrategy": "rss",
           "section": "macro-environment",
           "subCategory": "market-performance",
@@ -561,7 +579,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Key TakeawaysA $25 billion fund made Nokia (NOK), Qualcomm (QCOM:NASDAQ), and Alphabet (GOOGL:NASDAQ) its three biggest new or added positions in Q3. All three stocks have fallen since Sept.",
-          "id": "a17"
+          "id": "a19"
         },
         {
           "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
@@ -571,7 +589,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T11:39:01.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.236Z",
+          "fetchedAt": "2026-11-07T03:15:06.557Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "EU Perspectives",
           "geopoliticalBypass": true,
@@ -581,7 +599,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-          "id": "a20"
+          "id": "a22"
         },
         {
           "title": "Trump has taught the world that tariffs are useless",
@@ -591,7 +609,7 @@
           "sourceId": "ft",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T11:00:09.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.307Z",
+          "fetchedAt": "2026-11-07T03:14:59.826Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -600,7 +618,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "The Republicans’ evisceration in the midterm elections shows the economic and political costs of mindless protectionism",
-          "id": "a21"
+          "id": "a23"
         },
         {
           "title": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right - Newsweek",
@@ -610,7 +628,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T10:00:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.236Z",
+          "fetchedAt": "2026-11-07T03:15:06.557Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Newsweek",
           "geopoliticalBypass": true,
@@ -620,7 +638,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "After Two Whiplash Trump Years, Democrats Have Two More to Get China Right Newsweek",
-          "id": "a22"
+          "id": "a24"
         },
         {
           "title": "Chip Industry Week In Review",
@@ -630,7 +648,7 @@
           "sourceId": "semiconductor-engineering",
           "sourceGroup": "semiconductor",
           "publishedAt": "2026-11-06T08:01:01.000Z",
-          "fetchedAt": "2026-11-06T23:32:12.338Z",
+          "fetchedAt": "2026-11-07T03:15:00.980Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -641,7 +659,7 @@
             "oem"
           ],
           "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-          "id": "a24"
+          "id": "a26"
         },
         {
           "title": "China’s midterm dilemma: A weaker Trump could mean a tougher Washington for Xi - Firstpost",
@@ -651,7 +669,7 @@
           "sourceId": "geopolitics",
           "sourceGroup": "finance",
           "publishedAt": "2026-11-06T04:54:52.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.236Z",
+          "fetchedAt": "2026-11-07T03:15:06.557Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "Firstpost",
           "geopoliticalBypass": true,
@@ -661,7 +679,7 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "China’s midterm dilemma: A weaker Trump could mean a tougher Washington for Xi Firstpost",
-          "id": "a25"
+          "id": "a27"
         },
         {
           "title": "China blocks SoftBank, ABB robotics deal",
@@ -671,7 +689,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-05T13:48:41.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.046Z",
+          "fetchedAt": "2026-11-07T03:15:04.135Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -680,12 +698,12 @@
           "competitors": [],
           "stakeholders": [],
           "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
-          "id": "a26"
+          "id": "a28"
         }
       ]
     },
     "competitors": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "competitors",
       "sectionTitle": "Competitors",
@@ -695,7 +713,7 @@
           {
             "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
             "articleIds": [
-              "a27"
+              "a29"
             ],
             "subCategory": "wireless"
           }
@@ -710,7 +728,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-05T08:28:31.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.690Z",
+          "fetchedAt": "2026-11-07T03:15:04.621Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -723,57 +741,57 @@
             "oem"
           ],
           "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-          "id": "a27"
+          "id": "a29"
         }
       ]
     },
     "stakeholders": {
-      "generatedAt": "2026-11-06T23:32:17.280Z",
+      "generatedAt": "2026-11-07T03:15:06.594Z",
       "date": "2026-11-07",
       "section": "stakeholders",
       "sectionTitle": "Key Stakeholders",
       "briefing": {
-        "summary": "Today's Qualcomm coverage in this section spans market-performance (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
+        "summary": "Today's Qualcomm coverage in this section spans Platform & Ecosystem Partners (1 article), Geopolitics & Export Controls (1 article), Mobile Chips (1 article). A total of 6 articles were aggregated from monitored sources.",
         "keyTakeaways": [
           {
-            "text": "market-performance: Google Buys $548 million Qualcomm shares The Information",
+            "text": "Platform & Ecosystem Partners: Google Acquires Qualcomm Stake Through Modular Purchase The Information",
             "articleIds": [
-              "a5"
+              "a7"
             ],
-            "subCategory": "market-performance"
+            "subCategory": "platform-partner"
           },
           {
             "text": "Geopolitics & Export Controls: Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the w",
             "articleIds": [
-              "a7"
+              "a9"
             ],
             "subCategory": "geopolitics-export-controls"
           },
           {
             "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
             "articleIds": [
-              "a18"
+              "a20"
             ],
             "subCategory": "mobile-chips"
           },
           {
             "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
             "articleIds": [
-              "a24"
+              "a26"
             ],
             "subCategory": "supply-chain"
           },
           {
             "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
             "articleIds": [
-              "a27"
+              "a29"
             ],
             "subCategory": "wireless"
           },
           {
             "text": "FRAND & Licensing: Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
             "articleIds": [
-              "a28"
+              "a30"
             ],
             "subCategory": "frand-licensing"
           }
@@ -781,25 +799,25 @@
       },
       "articles": [
         {
-          "title": "Google Buys $548 million Qualcomm shares - The Information",
+          "title": "Google Acquires Qualcomm Stake Through Modular Purchase - The Information",
           "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOQjlTcXZtdTBHZTdNa2U4bk9lbWR2UTVCYjQxa1RocHBMdnZqS2w2NnlPRXZGQnVGYmZpYlJ1cHY2VVl2OXFzQldMdDdiQVhpQjlaekJSOHBkUDU3VEZ1VnpDLXBId05SSnNiZUpYZUhUSXlwVFFKSGI5NXE0QllvVXZKdFpXbXM?oc=5",
-          "description": "Google Buys $548 million Qualcomm shares The Information",
+          "description": "Google Acquires Qualcomm Stake Through Modular Purchase The Information",
           "source": "The Information",
           "sourceId": "the-information",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T21:15:00.000Z",
-          "fetchedAt": "2026-11-06T23:32:17.192Z",
+          "fetchedAt": "2026-11-07T03:15:06.497Z",
           "fetchStrategy": "google-news",
           "googleNewsSource": "The Information",
-          "section": "macro-environment",
-          "subCategory": "market-performance",
-          "subLabel": "market-performance",
+          "section": "stakeholders",
+          "subCategory": "platform-partner",
+          "subLabel": "Platform & Ecosystem Partners",
           "competitors": [],
           "stakeholders": [
             "platform-partner"
           ],
-          "summary": "Google Buys $548 million Qualcomm shares The Information",
-          "id": "a5"
+          "summary": "Google Acquires Qualcomm Stake Through Modular Purchase The Information",
+          "id": "a7"
         },
         {
           "title": "All the latest updates on AI data centers",
@@ -809,7 +827,7 @@
           "sourceId": "the-verge",
           "sourceGroup": "tech",
           "publishedAt": "2026-11-06T20:02:22.000Z",
-          "fetchedAt": "2026-11-06T23:32:11.355Z",
+          "fetchedAt": "2026-11-07T03:14:59.930Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -821,7 +839,7 @@
             "platform-partner"
           ],
           "summary": "Massive new data centers are the physical foundation for tech companies’ hopes and dreams for AI. But the rush to expand warehouses full of energy-hungry servers has also kicked up fights across the world over their impact on power grids, utility bills, nearby communities, and the environment. Data centers were a major bipartisan issue ahead of the 2026 midterms, and voters largely opposed data center expansion at the polls. Tech giants like OpenAI and Amazon are promising to work more closely with local communities and cover their data center energy costs. But following the election, Democratic leaders are calling for further data center restrictions and slowdowns that the AI companies will have to grapple with.",
-          "id": "a7"
+          "id": "a9"
         },
         {
           "title": "Alphabet reveals $548M Qualcomm stake",
@@ -831,7 +849,7 @@
           "sourceId": "mobile-world-live",
           "sourceGroup": "telecom",
           "publishedAt": "2026-11-06T15:14:19.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.046Z",
+          "fetchedAt": "2026-11-07T03:15:04.135Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "mobile-chips",
@@ -841,7 +859,7 @@
             "platform-partner"
           ],
           "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-          "id": "a18"
+          "id": "a20"
         },
         {
           "title": "Chip Industry Week In Review",
@@ -851,7 +869,7 @@
           "sourceId": "semiconductor-engineering",
           "sourceGroup": "semiconductor",
           "publishedAt": "2026-11-06T08:01:01.000Z",
-          "fetchedAt": "2026-11-06T23:32:12.338Z",
+          "fetchedAt": "2026-11-07T03:15:00.980Z",
           "fetchStrategy": "rss",
           "geopoliticalBypass": true,
           "section": "macro-environment",
@@ -862,7 +880,7 @@
             "oem"
           ],
           "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-          "id": "a24"
+          "id": "a26"
         },
         {
           "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -872,7 +890,7 @@
           "sourceId": "ip-fray",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-05T08:28:31.000Z",
-          "fetchedAt": "2026-11-06T23:32:15.690Z",
+          "fetchedAt": "2026-11-07T03:15:04.621Z",
           "fetchStrategy": "rss",
           "section": "core-businesses",
           "subCategory": "wireless",
@@ -885,7 +903,7 @@
             "oem"
           ],
           "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-          "id": "a27"
+          "id": "a29"
         },
         {
           "title": "Qualcomm completes 5G licence renewals as annual licensing revenue holds near $5.6 billion",
@@ -895,7 +913,7 @@
           "sourceId": "iam",
           "sourceGroup": "ip",
           "publishedAt": "2026-11-04T23:12:13.000Z",
-          "fetchedAt": "2026-11-06T23:32:13.092Z",
+          "fetchedAt": "2026-11-07T03:15:01.844Z",
           "fetchStrategy": "rss",
           "section": "ip-legal",
           "subCategory": "frand-licensing",
@@ -905,10 +923,10 @@
             "oem"
           ],
           "summary": "Agreements with Apple, Huawei and Transsion maintain royalty rates, its finance chief says, and provide stability ahead of the next renewal cycle in fiscal 2030 to 2033",
-          "id": "a28"
+          "id": "a30"
         }
       ]
     }
   },
-  "totalArticles": 37
+  "totalArticles": 38
 }
