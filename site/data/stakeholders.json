@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-07T23:59:44.410Z",
+  "generatedAt": "2026-11-08T06:44:37.215Z",
   "date": "2026-11-08",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
@@ -9,21 +9,21 @@
       {
         "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
         "articleIds": [
-          "a27"
+          "a25"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a29"
+          "a27"
         ],
         "subCategory": "supply-chain"
       },
       {
         "text": "Wireless Communication: The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
         "articleIds": [
-          "a31"
+          "a29"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-07T23:59:42.244Z",
+      "fetchedAt": "2026-11-08T06:44:35.273Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -48,7 +48,7 @@
         "platform-partner"
       ],
       "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a27"
+      "id": "a25"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -58,7 +58,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-07T23:59:38.528Z",
+      "fetchedAt": "2026-11-08T06:44:32.359Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -69,7 +69,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a29"
+      "id": "a27"
     },
     {
       "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
@@ -79,7 +79,7 @@
       "sourceId": "ip-fray",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-07T23:59:42.227Z",
+      "fetchedAt": "2026-11-08T06:44:35.540Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -92,7 +92,7 @@
         "oem"
       ],
       "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a31"
+      "id": "a29"
     }
   ]
 }
