@@ -2,8 +2,8 @@
 
 export const NEWS_DATA = {
   "competitors": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "competitors",
     "sectionTitle": "Competitors",
     "briefing": {
@@ -13,37 +13,76 @@ export const NEWS_DATA = {
     "articles": []
   },
   "core-businesses": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "core-businesses",
     "sectionTitle": "Core Businesses",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
+          "text": "Semiconductors: Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue",
           "articleIds": [
-            "a16"
+            "a2"
           ],
           "subCategory": "semiconductors"
         },
         {
           "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
           "articleIds": [
-            "a18"
+            "a19"
           ],
           "subCategory": "mobile-chips"
         },
         {
           "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
           "articleIds": [
-            "a22"
+            "a23"
           ],
           "subCategory": "wireless"
         }
       ]
     },
     "articles": [
+      {
+        "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
+        "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
+        "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T18:06:59.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
+        "fetchStrategy": "rss",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+        "id": "a2"
+      },
+      {
+        "title": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU4yMWQ2SGNwajFrVGtVWW4wQTM1c3Y1Tm5FXzFqWDhEYmdVZVNuZmUxbkxiRVhzdUpHcmtyd1dJY1JnWm1BWU1CM0piVzNVSVhudV9TYkFVR1pyWU9FV3czdWtfbTRVaGMyUXdRSDRINDNmdUJ4N0U3Ymxwb2xjQmVmSk9rQXU5d3JrcmZ6X09Xd0d0VFVNUkRNeHc0VjZsLXYxLUM4TS1iNmJTUzk0Tk5fbW12QU0zUU1NeHhVcWF3N1pTSTRaRTNFMA?oc=5",
+        "description": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? آي-فون إسلام",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T08:57:08.000Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "آي-فون إسلام",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+        "id": "a11"
+      },
       {
         "title": "What Is Behind The Rebound In Qualcomm Stock?",
         "url": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07?.tsrc=rss",
@@ -52,7 +91,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-07T12:49:50.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -60,7 +99,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "For questions about this article or underlying research, email help@trefis.com.",
-        "id": "a16"
+        "id": "a17"
       },
       {
         "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
@@ -70,7 +109,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-07T07:15:04.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -78,7 +117,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
-        "id": "a18"
+        "id": "a19"
       },
       {
         "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -88,7 +127,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-06T18:16:32.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "semiconductors",
@@ -96,7 +135,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-        "id": "a21"
+        "id": "a22"
       },
       {
         "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -106,7 +145,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-06T18:14:22.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "wireless",
@@ -114,25 +153,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-        "id": "a22"
-      },
-      {
-        "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
-        "url": "https://finance.yahoo.com/video/theres-a-disconnect-between-the-market-rate-of-ai-build-out-qualcomm-ceo-153628313.html?.tsrc=rss",
-        "description": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-        "source": "Yahoo Finance",
-        "sourceId": "yahoo-finance",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-06T15:36:28.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
-        "fetchStrategy": "rss",
-        "section": "core-businesses",
-        "subCategory": "semiconductors",
-        "subLabel": "Semiconductors",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-        "id": "a24"
+        "id": "a23"
       },
       {
         "title": "Alphabet reveals $548M Qualcomm stake",
@@ -142,7 +163,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-06T15:14:19.000Z",
-        "fetchedAt": "2026-11-08T13:54:51.240Z",
+        "fetchedAt": "2026-11-08T19:10:58.522Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -162,7 +183,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-06T09:17:57.000Z",
-        "fetchedAt": "2026-11-08T13:54:51.240Z",
+        "fetchedAt": "2026-11-08T19:10:58.522Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -175,8 +196,8 @@ export const NEWS_DATA = {
     ]
   },
   "growth-areas": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "growth-areas",
     "sectionTitle": "Growth Areas",
     "briefing": {
@@ -185,7 +206,7 @@ export const NEWS_DATA = {
         {
           "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
           "articleIds": [
-            "a19"
+            "a20"
           ],
           "subCategory": "data-center"
         }
@@ -200,7 +221,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-06T19:25:20.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -208,7 +229,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-        "id": "a19"
+        "id": "a20"
       },
       {
         "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
@@ -218,7 +239,7 @@ export const NEWS_DATA = {
         "sourceId": "yahoo-finance",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-06T18:20:50.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.216Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
         "fetchStrategy": "rss",
         "section": "growth-areas",
         "subCategory": "data-center",
@@ -226,13 +247,13 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-        "id": "a20"
+        "id": "a21"
       }
     ]
   },
   "ip-legal": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "ip-legal",
     "sectionTitle": "IP & Legal",
     "briefing": {
@@ -242,15 +263,15 @@ export const NEWS_DATA = {
     "articles": []
   },
   "latest": {
-    "generatedAt": "2026-11-08T13:54:53.174Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.783Z",
+    "date": "2026-11-09",
     "sections": {
       "core-businesses": {
         "title": "Core Businesses",
-        "articleCount": 7,
-        "topHeadline": "What Is Behind The Rebound In Qualcomm Stock?",
-        "topHeadlineId": "a16",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
+        "articleCount": 8,
+        "topHeadline": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
+        "topHeadlineId": "a2",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources."
       },
       "ip-legal": {
         "title": "IP & Legal",
@@ -263,15 +284,15 @@ export const NEWS_DATA = {
         "title": "Growth Areas",
         "articleCount": 2,
         "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-        "topHeadlineId": "a19",
+        "topHeadlineId": "a20",
         "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
       },
       "macro-environment": {
         "title": "Macro",
-        "articleCount": 18,
-        "topHeadline": "How Democrats will try to end Trump's tariffs",
+        "articleCount": 17,
+        "topHeadline": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
         "topHeadlineId": "a1",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources."
       },
       "competitors": {
         "title": "Competitors",
@@ -282,28 +303,35 @@ export const NEWS_DATA = {
       },
       "stakeholders": {
         "title": "Key Stakeholders",
-        "articleCount": 2,
-        "topHeadline": "Alphabet reveals $548M Qualcomm stake",
-        "topHeadlineId": "a25",
-        "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Supply Chain (1 article). A total of 2 articles were aggregated from monitored sources."
+        "articleCount": 3,
+        "topHeadline": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+        "topHeadlineId": "a11",
+        "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article), Supply Chain (1 article). A total of 3 articles were aggregated from monitored sources."
       }
     },
-    "totalArticles": 29
+    "totalArticles": 30
   },
   "macro-environment": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "macro-environment",
     "sectionTitle": "Macro",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
       "keyTakeaways": [
         {
-          "text": "Geopolitics & Export Controls: Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+          "text": "Geopolitics & Export Controls: Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
           "articleIds": [
             "a1"
           ],
           "subCategory": "geopolitics-export-controls"
+        },
+        {
+          "text": "market-performance: Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+          "articleIds": [
+            "a3"
+          ],
+          "subCategory": "market-performance"
         },
         {
           "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
@@ -316,14 +344,51 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+        "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+        "description": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+        "source": "CNBC",
+        "sourceId": "cnbc",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T18:18:30.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.609Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+        "id": "a1"
+      },
+      {
+        "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
+        "url": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
+        "description": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T15:59:59.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+        "id": "a3"
+      },
+      {
         "title": "How Democrats will try to end Trump's tariffs",
         "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
         "description": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
         "source": "CNBC",
         "sourceId": "cnbc",
         "sourceGroup": "finance",
-        "publishedAt": "2026-11-08T13:00:01.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.035Z",
+        "publishedAt": "2026-11-08T15:36:39.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.609Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -332,7 +397,84 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-        "id": "a1"
+        "id": "a4"
+      },
+      {
+        "title": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
+        "url": "https://www.fool.com/investing/2026/11/08/why-qualcomm-stock-fell-11-despite-beating-earning/?.tsrc=rss",
+        "description": "Investors are worried the future may not be nearly as bright as management suggests, or arrive there as quickly as implied.",
+        "source": "Yahoo Finance",
+        "sourceId": "yahoo-finance",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T15:34:33.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.641Z",
+        "fetchStrategy": "rss",
+        "section": "macro-environment",
+        "subCategory": "market-performance",
+        "subLabel": "market-performance",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "Investors are worried the future may not be nearly as bright as management suggests, or arrive there as quickly as implied.",
+        "id": "a5"
+      },
+      {
+        "title": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns - Forbes Middle East",
+        "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHJ1YmdneHFwd1RPcEdTbk5BWklDeEVWUmpYR0Y1U2g2R1pGM3ZFOEVaY0w4TmlFY1YtbmdwdjlITlpDc1FINHI3bXlucDdtSzJpMy1kNFZLbjYwS1JFTnpSdzFwLU85dlkyU19MdDMxWEtjc0Y2elpjc2FyLXdlZTdEUXJ4dEZmbWY0ZTBla1BSU0V2TUUyVEhEZUdwS1BwMjhGel9GR1BTblVqZ2lHTTRpTHhsdlJNajB0SEJRcWZxUUd2ZHp4dEk4ZnVjdzlSRVpZUmh3?oc=5",
+        "description": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns Forbes Middle East",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T15:00:31.000Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "Forbes Middle East",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns Forbes Middle East",
+        "id": "a6"
+      },
+      {
+        "title": "Voters Put the AI Data Center Boom on Notice",
+        "url": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
+        "description": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Speaking with hosts David Gura and Christina Ruffini, Ford discusses the risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development. (Source: Bloomberg)",
+        "source": "Bloomberg",
+        "sourceId": "bloomberg",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T14:16:32.000Z",
+        "fetchedAt": "2026-11-08T19:10:53.835Z",
+        "fetchStrategy": "rss",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Speaking with hosts David Gura and Christina Ruffini, Ford discusses the risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development.",
+        "id": "a7"
+      },
+      {
+        "title": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem - VanEck",
+        "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlrY01BQ004bUlyYkxXRGZCOEwycG13Z3d3MTZNMGtLUGhTWXpyak1wMXZKbFdhT2ljek0xT1AtTi1KVDFLV2VJOE0xQXoxUHl5cW4wNGIwYjhnZXZEdlEyMFNPNS00d3JLb3h0aWRWbV9BMVVHZEFuWUNzS1gyYS1ydmNhMGNRR0trNG9jeFZXb1g2V0NGdlg5ZEhhMWZlc0JnTmc3TQ?oc=5",
+        "description": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem VanEck",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T13:54:12.000Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "VanEck",
+        "geopoliticalBypass": true,
+        "section": "macro-environment",
+        "subCategory": "geopolitics-export-controls",
+        "subLabel": "Geopolitics & Export Controls",
+        "competitors": [],
+        "stakeholders": [],
+        "summary": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem VanEck",
+        "id": "a8"
       },
       {
         "title": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” - Wccftech",
@@ -342,7 +484,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-08T12:20:47.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Wccftech",
         "geopoliticalBypass": true,
@@ -352,17 +494,17 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
-        "id": "a2"
+        "id": "a9"
       },
       {
-        "title": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office - BigGo Finance",
+        "title": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office - BigGo Finance",
         "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oaDJPR2tlcmtRMGthYkRKYTRPdmk0S1JIVU9Fd2pOdzNuVXJZRmJTZ2xoQ1pGWHpnVmZJMHVfRW9pX1lwNnBCbXkxZjhNdkY4akFJZndpdzJseDhwNWcxbklBWHQwU01TTWRwLXBoci15MEY4TEE?oc=5",
-        "description": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office BigGo Finance",
+        "description": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office BigGo Finance",
         "source": "Geopolitics",
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-08T09:05:00.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "BigGo Finance",
         "geopoliticalBypass": true,
@@ -371,8 +513,8 @@ export const NEWS_DATA = {
         "subLabel": "Geopolitics & Export Controls",
         "competitors": [],
         "stakeholders": [],
-        "summary": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office BigGo Finance",
-        "id": "a3"
+        "summary": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office BigGo Finance",
+        "id": "a10"
       },
       {
         "title": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang - Startup Fortune",
@@ -382,7 +524,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-08T05:06:43.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "Startup Fortune",
         "geopoliticalBypass": true,
@@ -392,7 +534,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
-        "id": "a4"
+        "id": "a12"
       },
       {
         "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
@@ -402,7 +544,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-08T02:48:55.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "EU Perspectives",
         "geopoliticalBypass": true,
@@ -412,7 +554,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-        "id": "a5"
+        "id": "a13"
       },
       {
         "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - The Washington Post",
@@ -422,7 +564,7 @@ export const NEWS_DATA = {
         "sourceId": "geopolitics",
         "sourceGroup": "finance",
         "publishedAt": "2026-11-07T22:33:07.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
         "fetchStrategy": "google-news",
         "googleNewsSource": "The Washington Post",
         "geopoliticalBypass": true,
@@ -432,7 +574,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street The Washington Post",
-        "id": "a6"
+        "id": "a14"
       },
       {
         "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -442,7 +584,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-07T21:17:08.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.103Z",
+        "fetchedAt": "2026-11-08T19:10:53.646Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -451,107 +593,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-        "id": "a7"
-      },
-      {
-        "title": "US allows Nvidia chip sales to company with empty office in China — The Verge - UA.NEWS",
-        "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQcnBuTkpOWWZpWVltMnpHT2t1WnNQUjctMHBETE9PMnlXaTRQXzRFTjJpUVlURHlBTkFld2tFZG51bnktWDVQNFRhWTRJQmdjNUVUV01jQXdKal9SaVdqOVlCZFRiMVZOcW9vYkUtd1FlNVBQVkhyOVJteThJRFBIN3hINEFNVTZvc1Azc29Vd1g5VXk5YXM4c2dmbWF5cmE4TWJua0h4ZmQ0bmFPNHJsR1kzc3VUeXNF?oc=5",
-        "description": "US allows Nvidia chip sales to company with empty office in China — The Verge UA.NEWS",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T16:26:09.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "UA.NEWS",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US allows Nvidia chip sales to company with empty office in China — The Verge UA.NEWS",
-        "id": "a8"
-      },
-      {
-        "title": "Report reveals Nvidia H200 China licenses went to two firms with empty offices - Pasquale Pillitteri",
-        "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOaVJGOTc2Y3p1OVVwSnBtcExYMXFSY29iVk5UVjM5WThaWHN0b0NJS1otemFaNTB5SFZVZlJxX0hlY0REZTBFQjF6dDNicWNTaFFMaE1kR0Q5bnpZWEUzLUhBTkx3ejhQVndFVDFqdjRPUVYtZEtpNEVJY2ZKQ2RPdHpsaTI5RE5BVGR6djF2SG9SdEl0N0FXS2Vn?oc=5",
-        "description": "Report reveals Nvidia H200 China licenses went to two firms with empty offices Pasquale Pillitteri",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T16:11:36.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "Pasquale Pillitteri",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Report reveals Nvidia H200 China licenses went to two firms with empty offices Pasquale Pillitteri",
-        "id": "a9"
-      },
-      {
-        "title": "U.S. extends pause on its 50% Affiliates export rule to Jan. 10, 2027, keeping China truce intact - MLQ.ai",
-        "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPbVBoakxyU25OWHBYTUVlUjZmQUZ3Vkp1c0M0MXdnRi13R00wRnpTZHBPN3RsQ3QyUF8xY0lDM1FnYVhOdTR3cy1UeXltWkpjdW5EQkpCV0tLeEhPV3UydmhISTVHaU5pRXNlV1RRdFdmT00xeHk1dWh4anNmdkVWa2lVU29yQ2pBVi1rWHE0YnZWd21EMkdKaVdUR2ZSQ3hyQ0JPQUZPVHdXd2hvdGpJdGJR?oc=5",
-        "description": "U.S. extends pause on its 50% Affiliates export rule to Jan. 10, 2027, keeping China truce intact MLQ.ai",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T16:10:23.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "MLQ.ai",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "extends pause on its 50% Affiliates export rule to Jan. 10, 2027, keeping China truce intact MLQ.ai",
-        "id": "a10"
-      },
-      {
-        "title": "Nvidia's H200 Chips Reached China Through Ghost Company - The Tech Buzz",
-        "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNR0JKT2N5OXBlRDFDSG5xSE5VYTJYcG9LMTZ4dGpmaTRKd3B1MTI2V0hIZ1FxVVBqOUt0Rkl2eGg5ZDc0QThiX0xyeUQ4STZweGI0a1pSWDZ2aURwUVpjZnVXV0RaVHMzTldpeFZMaWh4SGhlVXBBRDV5bVlIX0RReld6VTI0OTlpY05PakFtYU9HZw?oc=5",
-        "description": "Nvidia's H200 Chips Reached China Through Ghost Company The Tech Buzz",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T16:06:29.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Tech Buzz",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Nvidia's H200 Chips Reached China Through Ghost Company The Tech Buzz",
-        "id": "a11"
-      },
-      {
-        "title": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door - The Maine Wire",
-        "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOcmgwa1J0eWhEZkN2Q045b3Q5bFlUYk1WZnB1TG5JOEdnYTJ1VTg1eVEzbUVwbnJpSXcwVk9iNjRFNk80ekpxT0c3YUd2bTNBcXkxUlBaRDlOV2w3c0tJY2JFMTZCZndSWTNSb29kM0ZXQU16VFVRbGg5NWxpcmtCMUxmbjdWZFVxeUNRUUJPa214M1VVaVVERjZIUjZhd0p6aXlYSHVR?oc=5",
-        "description": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Maine Wire",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T15:55:56.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Maine Wire",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Maine Wire",
-        "id": "a12"
+        "id": "a15"
       },
       {
         "title": "The US let Nvidia sell chips to an empty office in China",
@@ -561,7 +603,7 @@ export const NEWS_DATA = {
         "sourceId": "the-verge",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-07T15:43:45.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.674Z",
+        "fetchedAt": "2026-11-08T19:10:54.324Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -570,47 +612,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.",
-        "id": "a13"
-      },
-      {
-        "title": "US approved Nvidia chip sales to China-linked firms - The Jerusalem Post",
-        "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPLTZ4MjlOX3BvY0VpUnZMa0Y3anNIRTJRS1p4M3RpenY0YWxfZFVfbE1qN2VtbkQyc3Q2WEhBY0JMOVJOUzFFN1BSNDZGbVc2ZVh2cTNSV1ZRcmZWWXNTMkhiQTRWbFpFNmhCTzIxWDIzVjBWTzNrS2JlTGg2eU8zT3JUazV5QQ?oc=5",
-        "description": "US approved Nvidia chip sales to China-linked firms The Jerusalem Post",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T14:52:37.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "The Jerusalem Post",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "US approved Nvidia chip sales to China-linked firms The Jerusalem Post",
-        "id": "a14"
-      },
-      {
-        "title": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny - MLQ.ai",
-        "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObDlUbElnbjhlQ0RQOWZrb2lHWE5EZVlMT19Hc00tNDFqNTM4ZUVjcDNmS3VqWS1YYUdWdmhSQ05aTW5aNkpFN2E0bmp0eEdxRTEwbldhX0k2Q1lwajVBeWJhX2VQS25kZHFvS01sUEp3LVJFUFNPaGRBekdQY2xlSEF4OGNCNWpTMFh0NHAyWGl5Y1M4NExLUjVWRGJHWUpRcFZxeXNuNUxKbWNJZ0NhY2Y1a3pTVTA?oc=5",
-        "description": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny MLQ.ai",
-        "source": "Geopolitics",
-        "sourceId": "geopolitics",
-        "sourceGroup": "finance",
-        "publishedAt": "2026-11-07T14:02:34.000Z",
-        "fetchedAt": "2026-11-08T13:54:53.148Z",
-        "fetchStrategy": "google-news",
-        "googleNewsSource": "MLQ.ai",
-        "geopoliticalBypass": true,
-        "section": "macro-environment",
-        "subCategory": "geopolitics-export-controls",
-        "subLabel": "Geopolitics & Export Controls",
-        "competitors": [],
-        "stakeholders": [],
-        "summary": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny MLQ.ai",
-        "id": "a15"
+        "id": "a16"
       },
       {
         "title": "A new Congress, a new opportunity to protect American inventors",
@@ -620,7 +622,7 @@ export const NEWS_DATA = {
         "sourceId": "iam",
         "sourceGroup": "ip",
         "publishedAt": "2026-11-07T09:30:00.000Z",
-        "fetchedAt": "2026-11-08T13:54:50.042Z",
+        "fetchedAt": "2026-11-08T19:10:56.457Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -629,7 +631,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
-        "id": "a17"
+        "id": "a18"
       },
       {
         "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -639,7 +641,7 @@ export const NEWS_DATA = {
         "sourceId": "techcrunch",
         "sourceGroup": "tech",
         "publishedAt": "2026-11-06T17:23:52.000Z",
-        "fetchedAt": "2026-11-08T13:54:47.103Z",
+        "fetchedAt": "2026-11-08T19:10:53.646Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -648,7 +650,7 @@ export const NEWS_DATA = {
         "competitors": [],
         "stakeholders": [],
         "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-        "id": "a23"
+        "id": "a24"
       },
       {
         "title": "Chip Industry Week In Review",
@@ -658,7 +660,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-06T08:01:01.000Z",
-        "fetchedAt": "2026-11-08T13:54:49.072Z",
+        "fetchedAt": "2026-11-08T19:10:55.494Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -865,13 +867,20 @@ export const NEWS_DATA = {
     }
   ],
   "stakeholders": {
-    "generatedAt": "2026-11-08T13:54:53.172Z",
-    "date": "2026-11-08",
+    "generatedAt": "2026-11-08T19:11:00.782Z",
+    "date": "2026-11-09",
     "section": "stakeholders",
     "sectionTitle": "Key Stakeholders",
     "briefing": {
-      "summary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Supply Chain (1 article). A total of 2 articles were aggregated from monitored sources.",
+      "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article), Supply Chain (1 article). A total of 3 articles were aggregated from monitored sources.",
       "keyTakeaways": [
+        {
+          "text": "Semiconductors: Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+          "articleIds": [
+            "a11"
+          ],
+          "subCategory": "semiconductors"
+        },
         {
           "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
           "articleIds": [
@@ -890,6 +899,27 @@ export const NEWS_DATA = {
     },
     "articles": [
       {
+        "title": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+        "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU4yMWQ2SGNwajFrVGtVWW4wQTM1c3Y1Tm5FXzFqWDhEYmdVZVNuZmUxbkxiRVhzdUpHcmtyd1dJY1JnWm1BWU1CM0piVzNVSVhudV9TYkFVR1pyWU9FV3czdWtfbTRVaGMyUXdRSDRINDNmdUJ4N0U3Ymxwb2xjQmVmSk9rQXU5d3JrcmZ6X09Xd0d0VFVNUkRNeHc0VjZsLXYxLUM4TS1iNmJTUzk0Tk5fbW12QU0zUU1NeHhVcWF3N1pTSTRaRTNFMA?oc=5",
+        "description": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? آي-فون إسلام",
+        "source": "Geopolitics",
+        "sourceId": "geopolitics",
+        "sourceGroup": "finance",
+        "publishedAt": "2026-11-08T08:57:08.000Z",
+        "fetchedAt": "2026-11-08T19:11:00.751Z",
+        "fetchStrategy": "google-news",
+        "googleNewsSource": "آي-فون إسلام",
+        "section": "core-businesses",
+        "subCategory": "semiconductors",
+        "subLabel": "Semiconductors",
+        "competitors": [],
+        "stakeholders": [
+          "oem"
+        ],
+        "summary": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+        "id": "a11"
+      },
+      {
         "title": "Alphabet reveals $548M Qualcomm stake",
         "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
         "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
@@ -897,7 +927,7 @@ export const NEWS_DATA = {
         "sourceId": "mobile-world-live",
         "sourceGroup": "telecom",
         "publishedAt": "2026-11-06T15:14:19.000Z",
-        "fetchedAt": "2026-11-08T13:54:51.240Z",
+        "fetchedAt": "2026-11-08T19:10:58.522Z",
         "fetchStrategy": "rss",
         "section": "core-businesses",
         "subCategory": "mobile-chips",
@@ -917,7 +947,7 @@ export const NEWS_DATA = {
         "sourceId": "semiconductor-engineering",
         "sourceGroup": "semiconductor",
         "publishedAt": "2026-11-06T08:01:01.000Z",
-        "fetchedAt": "2026-11-08T13:54:49.072Z",
+        "fetchedAt": "2026-11-08T19:10:55.494Z",
         "fetchStrategy": "rss",
         "geopoliticalBypass": true,
         "section": "macro-environment",
@@ -22159,6 +22189,734 @@ export const NEWS_DATA = {
       }
     },
     "totalArticles": 29
+  },
+  "archive-2026-11-09": {
+    "generatedAt": "2026-11-08T19:11:00.784Z",
+    "date": "2026-11-09",
+    "sections": {
+      "core-businesses": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "core-businesses",
+        "sectionTitle": "Core Businesses",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue",
+              "articleIds": [
+                "a2"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+              "articleIds": [
+                "a19"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
+              "articleIds": [
+                "a23"
+              ],
+              "subCategory": "wireless"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
+            "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
+            "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T18:06:59.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+            "id": "a2"
+          },
+          {
+            "title": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU4yMWQ2SGNwajFrVGtVWW4wQTM1c3Y1Tm5FXzFqWDhEYmdVZVNuZmUxbkxiRVhzdUpHcmtyd1dJY1JnWm1BWU1CM0piVzNVSVhudV9TYkFVR1pyWU9FV3czdWtfbTRVaGMyUXdRSDRINDNmdUJ4N0U3Ymxwb2xjQmVmSk9rQXU5d3JrcmZ6X09Xd0d0VFVNUkRNeHc0VjZsLXYxLUM4TS1iNmJTUzk0Tk5fbW12QU0zUU1NeHhVcWF3N1pTSTRaRTNFMA?oc=5",
+            "description": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? آي-فون إسلام",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T08:57:08.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "آي-فون إسلام",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+            "id": "a11"
+          },
+          {
+            "title": "What Is Behind The Rebound In Qualcomm Stock?",
+            "url": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07?.tsrc=rss",
+            "description": "For questions about this article or underlying research, email help@trefis.com.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-07T12:49:50.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "For questions about this article or underlying research, email help@trefis.com.",
+            "id": "a17"
+          },
+          {
+            "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
+            "url": "https://www.tikr.com/blog/ai-wants-every-scrap-of-ram-qualcomm-and-arm-just-showed-who-pays-the-bill?ref=yahoofinance&tlnk=yf-261107-72q2vv83&.tsrc=rss",
+            "description": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-07T07:15:04.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
+            "id": "a19"
+          },
+          {
+            "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
+            "url": "https://finance.yahoo.com/technology/articles/qualcomm-faces-worst-day-since-181632192.html?.tsrc=rss",
+            "description": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-06T18:16:32.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
+            "id": "a22"
+          },
+          {
+            "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
+            "url": "https://finance.yahoo.com/technology/articles/does-qualcomm-qcom-winning-nationwide-181422645.html?.tsrc=rss",
+            "description": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-06T18:14:22.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "wireless",
+            "subLabel": "Wireless Communication",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
+            "id": "a23"
+          },
+          {
+            "title": "Alphabet reveals $548M Qualcomm stake",
+            "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
+            "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-06T15:14:19.000Z",
+            "fetchedAt": "2026-11-08T19:10:58.522Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+            "id": "a25"
+          },
+          {
+            "title": "The Friday File: SpaceX; UK cyberattacks; Nokia",
+            "url": "https://www.mobileworldlive.com/ai-cloud/the-friday-file-spacex-uk-cyberattacks-nokia/",
+            "description": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-06T09:17:57.000Z",
+            "fetchedAt": "2026-11-08T19:10:58.522Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
+            "id": "a26"
+          }
+        ]
+      },
+      "ip-legal": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "ip-legal",
+        "sectionTitle": "IP & Legal",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "growth-areas": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "growth-areas",
+        "sectionTitle": "Growth Areas",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
+              "articleIds": [
+                "a20"
+              ],
+              "subCategory": "data-center"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
+            "url": "https://www.tikr.com/blog/qualcomm-ceo-its-data-center-ramp-is-all-supply-bound-not-demand-bound?ref=yahoofinance&tlnk=yf-261106-qh2fx6f3&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-06T19:25:20.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
+            "id": "a20"
+          },
+          {
+            "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
+            "url": "https://www.tikr.com/blog/qualcomm-rises-5-on-alphabets-548-million-stake-as-ceo-sees-a-disconnect-on-ai?ref=yahoofinance&tlnk=yf-261106-3hf3776h&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-06T18:20:50.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "growth-areas",
+            "subCategory": "data-center",
+            "subLabel": "Data Center",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
+            "id": "a21"
+          }
+        ]
+      },
+      "macro-environment": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "macro-environment",
+        "sectionTitle": "Macro",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (2 articles), Supply Chain (1 article). A total of 17 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Geopolitics & Export Controls: Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+              "articleIds": [
+                "a1"
+              ],
+              "subCategory": "geopolitics-export-controls"
+            },
+            {
+              "text": "market-performance: Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+              "articleIds": [
+                "a3"
+              ],
+              "subCategory": "market-performance"
+            },
+            {
+              "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
+              "articleIds": [
+                "a27"
+              ],
+              "subCategory": "supply-chain"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Nvidia CEO Jensen Huang faces bipartisan congressional scrutiny over reported China spy link",
+            "url": "https://www.cnbc.com/2026/11/08/jensen-huang-nvidia-china-spy-congress.html",
+            "description": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T18:18:30.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.609Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Lawmakers want to question Nvidia CEO Jensen Huang following reports about his relationship with an alleged Chinese intelligence asset.",
+            "id": "a1"
+          },
+          {
+            "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
+            "url": "https://www.tikr.com/blog/qualcomms-car-chips-grew-89-as-handsets-fell-26-is-16-7x-earnings-too-cheap?ref=yahoofinance&tlnk=yf-261108-3p86fw4m&.tsrc=rss",
+            "description": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T15:59:59.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+            "id": "a3"
+          },
+          {
+            "title": "How Democrats will try to end Trump's tariffs",
+            "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+            "description": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+            "source": "CNBC",
+            "sourceId": "cnbc",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T15:36:39.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.609Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+            "id": "a4"
+          },
+          {
+            "title": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
+            "url": "https://www.fool.com/investing/2026/11/08/why-qualcomm-stock-fell-11-despite-beating-earning/?.tsrc=rss",
+            "description": "Investors are worried the future may not be nearly as bright as management suggests, or arrive there as quickly as implied.",
+            "source": "Yahoo Finance",
+            "sourceId": "yahoo-finance",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T15:34:33.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.641Z",
+            "fetchStrategy": "rss",
+            "section": "macro-environment",
+            "subCategory": "market-performance",
+            "subLabel": "market-performance",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Investors are worried the future may not be nearly as bright as management suggests, or arrive there as quickly as implied.",
+            "id": "a5"
+          },
+          {
+            "title": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns - Forbes Middle East",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPZHJ1YmdneHFwd1RPcEdTbk5BWklDeEVWUmpYR0Y1U2g2R1pGM3ZFOEVaY0w4TmlFY1YtbmdwdjlITlpDc1FINHI3bXlucDdtSzJpMy1kNFZLbjYwS1JFTnpSdzFwLU85dlkyU19MdDMxWEtjc0Y2elpjc2FyLXdlZTdEUXJ4dEZmbWY0ZTBla1BSU0V2TUUyVEhEZUdwS1BwMjhGel9GR1BTblVqZ2lHTTRpTHhsdlJNajB0SEJRcWZxUUd2ZHp4dEk4ZnVjdzlSRVpZUmh3?oc=5",
+            "description": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns Forbes Middle East",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T15:00:31.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Forbes Middle East",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns Forbes Middle East",
+            "id": "a6"
+          },
+          {
+            "title": "Voters Put the AI Data Center Boom on Notice",
+            "url": "https://www.bloomberg.com/news/videos/2026-11-08/voters-put-the-ai-data-center-boom-on-notice-video",
+            "description": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Speaking with hosts David Gura and Christina Ruffini, Ford discusses the risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development. (Source: Bloomberg)",
+            "source": "Bloomberg",
+            "sourceId": "bloomberg",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T14:16:32.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.835Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Speaking with hosts David Gura and Christina Ruffini, Ford discusses the risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development.",
+            "id": "a7"
+          },
+          {
+            "title": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem - VanEck",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNTHlrY01BQ004bUlyYkxXRGZCOEwycG13Z3d3MTZNMGtLUGhTWXpyak1wMXZKbFdhT2ljek0xT1AtTi1KVDFLV2VJOE0xQXoxUHl5cW4wNGIwYjhnZXZEdlEyMFNPNS00d3JLb3h0aWRWbV9BMVVHZEFuWUNzS1gyYS1ydmNhMGNRR0trNG9jeFZXb1g2V0NGdlg5ZEhhMWZlc0JnTmc3TQ?oc=5",
+            "description": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem VanEck",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T13:54:12.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "VanEck",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem VanEck",
+            "id": "a8"
+          },
+          {
+            "title": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” - Wccftech",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk1icDF6S21KQU4xbWt4UFI0TkIxb1dzb0R1M0tPVmF3RkxVZWpyZTdYaHNnbHBLcWpqOHp5WEVpMElTdmZ0RVRWTEZQekJVNjdkWVRtcmJWczNIZ2d4bWJCZG1NTDZYMGp5Z0w0bXJVWVNNSTZqbW84TklaS0p6WFZxaWp0Nm1YRWF4NW9Na3k5dElFOHpRcXR3SE1fU2tCWTRNZEdqdm_SAa4BQVVfeXFMT3pUaUNhOWJmbGlPSHBEZEJJWHVpMjJoOHpRaEQzbmRBbm5oNWJNalNWZ1hmcjJZWXdZSjIzcUZjLWlDVmJ3X2hhcElvN0FyTVg0NTNtRVAtMUFNZ2loM3JMTU80X2h0alRlNDU0NTRhbFdCWTQ4WkZLYUt5WGFaX3FQdXEwSnY5NmZHTDkyaDN6VXd3YUIzRzFOa1VDVVJmSFpQaUFhaHpFMk5TNkJB?oc=5",
+            "description": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T12:20:47.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Wccftech",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
+            "id": "a9"
+          },
+          {
+            "title": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office - BigGo Finance",
+            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oaDJPR2tlcmtRMGthYkRKYTRPdmk0S1JIVU9Fd2pOdzNuVXJZRmJTZ2xoQ1pGWHpnVmZJMHVfRW9pX1lwNnBCbXkxZjhNdkY4akFJZndpdzJseDhwNWcxbklBWHQwU01TTWRwLXBoci15MEY4TEE?oc=5",
+            "description": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office BigGo Finance",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T09:05:00.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "BigGo Finance",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Nvidia H200 China Sales Approval Process Shows Gaps as Cleared Assembler Found With Empty Office BigGo Finance",
+            "id": "a10"
+          },
+          {
+            "title": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang - Startup Fortune",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQml0X0RINDc0WDc5ZmxPSnE3SkJrNWJ6eTlnc2ZobFRrbWFZWHBiVHRmUVd6QVA4Uk1LalctSk96LXIyMXVFQ3F6YmZjdGh2ajZUa2Nja1g2LWVqVXZQU1g5Zlpod1VvNTlHRTBMaERqWjVrc0NocURTekxxQ09PWkVSSkNCU2ljbTRCZ05oYlAxSEJ4QzhIVVl2SVFSTDJ6ZnhnZkZPaXE2WTVnMjRsRndfQXJXX3JtSklrYkxqZw?oc=5",
+            "description": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T05:06:43.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "Startup Fortune",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
+            "id": "a12"
+          },
+          {
+            "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
+            "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T02:48:55.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "EU Perspectives",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
+            "id": "a13"
+          },
+          {
+            "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - The Washington Post",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOUV9WOHd3aGJaUTljRFpGYWhwVXF3aGJRTEFEbnFvMVpCSktnNnZGNkE3RHN5Z0hDSW8xWXpyQm1VSS1wV1k3S3pYMHV5bVowY0hTUGx1SHpoUVRSQTBHa2k5U2MyX2ZERE82dHdYNnI3WWZRMVhfNEVFVlY1dVJvVi0wU2N5U1cxZXl3S1JfeHhSTVpsU1dKeHVfazhnMkZuaDV4N1o3OHZ2NlkxT0VXMndtZmV6NmVJdHRFbjBEN1FPb2RKSXF6ejNRaUdsMGs5ZmhkQ3hXdEM3dw?oc=5",
+            "description": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street The Washington Post",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-07T22:33:07.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "The Washington Post",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street The Washington Post",
+            "id": "a14"
+          },
+          {
+            "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
+            "url": "https://techcrunch.com/2026/11/07/chinese-exec-was-recruited-to-spy-on-nvidia-ceo-according-to-us-intelligence-memo/",
+            "description": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-07T21:17:08.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.646Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
+            "id": "a15"
+          },
+          {
+            "title": "The US let Nvidia sell chips to an empty office in China",
+            "url": "https://www.theverge.com/ai-artificial-intelligence/1029483/nvidia-ai-chips-china-blacklist-government",
+            "description": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.",
+            "source": "The Verge",
+            "sourceId": "the-verge",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-07T15:43:45.000Z",
+            "fetchedAt": "2026-11-08T19:10:54.324Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.",
+            "id": "a16"
+          },
+          {
+            "title": "A new Congress, a new opportunity to protect American inventors",
+            "url": "https://www.iam-media.com/article/new-congress-new-opportunity-protect-american-inventors",
+            "description": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
+            "source": "IAM",
+            "sourceId": "iam",
+            "sourceGroup": "ip",
+            "publishedAt": "2026-11-07T09:30:00.000Z",
+            "fetchedAt": "2026-11-08T19:10:56.457Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
+            "id": "a18"
+          },
+          {
+            "title": "After the midterms, is the AI industry in for a rough two years?",
+            "url": "https://techcrunch.com/video/after-the-midterms-is-the-ai-industry-in-for-a-rough-two-years/",
+            "description": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+            "source": "TechCrunch",
+            "sourceId": "techcrunch",
+            "sourceGroup": "tech",
+            "publishedAt": "2026-11-06T17:23:52.000Z",
+            "fetchedAt": "2026-11-08T19:10:53.646Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "geopolitics-export-controls",
+            "subLabel": "Geopolitics & Export Controls",
+            "competitors": [],
+            "stakeholders": [],
+            "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
+            "id": "a24"
+          },
+          {
+            "title": "Chip Industry Week In Review",
+            "url": "https://semiengineering.com/chip-industry-week-in-review-163/",
+            "description": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+            "source": "Semiconductor Engineering",
+            "sourceId": "semiconductor-engineering",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-11-06T08:01:01.000Z",
+            "fetchedAt": "2026-11-08T19:10:55.494Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+            "id": "a27"
+          }
+        ]
+      },
+      "competitors": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "competitors",
+        "sectionTitle": "Competitors",
+        "briefing": {
+          "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+          "keyTakeaways": []
+        },
+        "articles": []
+      },
+      "stakeholders": {
+        "generatedAt": "2026-11-08T19:11:00.782Z",
+        "date": "2026-11-09",
+        "section": "stakeholders",
+        "sectionTitle": "Key Stakeholders",
+        "briefing": {
+          "summary": "Today's Qualcomm coverage in this section spans Semiconductors (1 article), Mobile Chips (1 article), Supply Chain (1 article). A total of 3 articles were aggregated from monitored sources.",
+          "keyTakeaways": [
+            {
+              "text": "Semiconductors: Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+              "articleIds": [
+                "a11"
+              ],
+              "subCategory": "semiconductors"
+            },
+            {
+              "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
+              "articleIds": [
+                "a25"
+              ],
+              "subCategory": "mobile-chips"
+            },
+            {
+              "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
+              "articleIds": [
+                "a27"
+              ],
+              "subCategory": "supply-chain"
+            }
+          ]
+        },
+        "articles": [
+          {
+            "title": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU4yMWQ2SGNwajFrVGtVWW4wQTM1c3Y1Tm5FXzFqWDhEYmdVZVNuZmUxbkxiRVhzdUpHcmtyd1dJY1JnWm1BWU1CM0piVzNVSVhudV9TYkFVR1pyWU9FV3czdWtfbTRVaGMyUXdRSDRINDNmdUJ4N0U3Ymxwb2xjQmVmSk9rQXU5d3JrcmZ6X09Xd0d0VFVNUkRNeHc0VjZsLXYxLUM4TS1iNmJTUzk0Tk5fbW12QU0zUU1NeHhVcWF3N1pTSTRaRTNFMA?oc=5",
+            "description": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? آي-فون إسلام",
+            "source": "Geopolitics",
+            "sourceId": "geopolitics",
+            "sourceGroup": "finance",
+            "publishedAt": "2026-11-08T08:57:08.000Z",
+            "fetchedAt": "2026-11-08T19:11:00.751Z",
+            "fetchStrategy": "google-news",
+            "googleNewsSource": "آي-فون إسلام",
+            "section": "core-businesses",
+            "subCategory": "semiconductors",
+            "subLabel": "Semiconductors",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+            "id": "a11"
+          },
+          {
+            "title": "Alphabet reveals $548M Qualcomm stake",
+            "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
+            "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+            "source": "Mobile World Live",
+            "sourceId": "mobile-world-live",
+            "sourceGroup": "telecom",
+            "publishedAt": "2026-11-06T15:14:19.000Z",
+            "fetchedAt": "2026-11-08T19:10:58.522Z",
+            "fetchStrategy": "rss",
+            "section": "core-businesses",
+            "subCategory": "mobile-chips",
+            "subLabel": "Mobile Chips",
+            "competitors": [],
+            "stakeholders": [
+              "platform-partner"
+            ],
+            "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
+            "id": "a25"
+          },
+          {
+            "title": "Chip Industry Week In Review",
+            "url": "https://semiengineering.com/chip-industry-week-in-review-163/",
+            "description": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+            "source": "Semiconductor Engineering",
+            "sourceId": "semiconductor-engineering",
+            "sourceGroup": "semiconductor",
+            "publishedAt": "2026-11-06T08:01:01.000Z",
+            "fetchedAt": "2026-11-08T19:10:55.494Z",
+            "fetchStrategy": "rss",
+            "geopoliticalBypass": true,
+            "section": "macro-environment",
+            "subCategory": "supply-chain",
+            "subLabel": "Supply Chain",
+            "competitors": [],
+            "stakeholders": [
+              "oem"
+            ],
+            "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
+            "id": "a27"
+          }
+        ]
+      }
+    },
+    "totalArticles": 30
   }
 };
 

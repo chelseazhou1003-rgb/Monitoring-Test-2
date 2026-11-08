@@ -1,35 +1,74 @@
 {
-  "generatedAt": "2026-11-08T13:54:53.172Z",
-  "date": "2026-11-08",
+  "generatedAt": "2026-11-08T19:11:00.782Z",
+  "date": "2026-11-09",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 8 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
+        "text": "Semiconductors: Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue",
         "articleIds": [
-          "a16"
+          "a2"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
         "articleIds": [
-          "a18"
+          "a19"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
         "articleIds": [
-          "a22"
+          "a23"
         ],
         "subCategory": "wireless"
       }
     ]
   },
   "articles": [
+    {
+      "title": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/why-qualcomm-shares-swinging-handset-180659510.html?.tsrc=rss",
+      "description": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-08T18:06:59.000Z",
+      "fetchedAt": "2026-11-08T19:10:53.641Z",
+      "fetchStrategy": "rss",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Qualcomm reported Q4 fiscal 2026 revenue of US$10.3b, with handset chip sales under pressure. Full year net income reached US$13.6b on US$43.1b in revenue, and management guided Q1 fiscal 2027 revenue to a range of US$10.4b to US$11.2b. The business is leaning harder into AI data center, automotive, and infrastructure deals, including the Dragonfly portfolio, an expanded automotive chip footprint, and long term agreements such as the SpaceX Starlink Mobile 5G partnership and custom silicon...",
+      "id": "a2"
+    },
+    {
+      "title": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? - آي-فون إسلام",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPVU4yMWQ2SGNwajFrVGtVWW4wQTM1c3Y1Tm5FXzFqWDhEYmdVZVNuZmUxbkxiRVhzdUpHcmtyd1dJY1JnWm1BWU1CM0piVzNVSVhudV9TYkFVR1pyWU9FV3czdWtfbTRVaGMyUXdRSDRINDNmdUJ4N0U3Ymxwb2xjQmVmSk9rQXU5d3JrcmZ6X09Xd0d0VFVNUkRNeHc0VjZsLXYxLUM4TS1iNmJTUzk0Tk5fbW12QU0zUU1NeHhVcWF3N1pTSTRaRTNFMA?oc=5",
+      "description": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips? آي-فون إسلام",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-08T08:57:08.000Z",
+      "fetchedAt": "2026-11-08T19:11:00.751Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "آي-فون إسلام",
+      "section": "core-businesses",
+      "subCategory": "semiconductors",
+      "subLabel": "Semiconductors",
+      "competitors": [],
+      "stakeholders": [
+        "oem"
+      ],
+      "summary": "Why does Apple still need Qualcomm and Broadcom despite developing its own chips?",
+      "id": "a11"
+    },
     {
       "title": "What Is Behind The Rebound In Qualcomm Stock?",
       "url": "https://www.trefis.com/stock/qcom/articles/623744/what-is-behind-the-rebound-in-qualcomm-stock/2026-11-07?.tsrc=rss",
@@ -38,7 +77,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T12:49:50.000Z",
-      "fetchedAt": "2026-11-08T13:54:47.216Z",
+      "fetchedAt": "2026-11-08T19:10:53.641Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +85,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a16"
+      "id": "a17"
     },
     {
       "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
@@ -56,7 +95,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T07:15:04.000Z",
-      "fetchedAt": "2026-11-08T13:54:47.216Z",
+      "fetchedAt": "2026-11-08T19:10:53.641Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -64,7 +103,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
-      "id": "a18"
+      "id": "a19"
     },
     {
       "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -74,7 +113,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:16:32.000Z",
-      "fetchedAt": "2026-11-08T13:54:47.216Z",
+      "fetchedAt": "2026-11-08T19:10:53.641Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +121,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-      "id": "a21"
+      "id": "a22"
     },
     {
       "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -92,7 +131,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:14:22.000Z",
-      "fetchedAt": "2026-11-08T13:54:47.216Z",
+      "fetchedAt": "2026-11-08T19:10:53.641Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,25 +139,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-      "id": "a22"
-    },
-    {
-      "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
-      "url": "https://finance.yahoo.com/video/theres-a-disconnect-between-the-market-rate-of-ai-build-out-qualcomm-ceo-153628313.html?.tsrc=rss",
-      "description": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T15:36:28.000Z",
-      "fetchedAt": "2026-11-08T13:54:47.216Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "semiconductors",
-      "subLabel": "Semiconductors",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "id": "a24"
+      "id": "a23"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -128,7 +149,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-08T13:54:51.240Z",
+      "fetchedAt": "2026-11-08T19:10:58.522Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -148,7 +169,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-08T13:54:51.240Z",
+      "fetchedAt": "2026-11-08T19:10:58.522Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
