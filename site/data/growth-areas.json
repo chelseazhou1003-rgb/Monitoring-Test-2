@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T06:44:37.215Z",
+  "generatedAt": "2026-11-08T13:54:53.172Z",
   "date": "2026-11-08",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
         "articleIds": [
-          "a18"
+          "a19"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T19:25:20.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-      "id": "a18"
+      "id": "a19"
     },
     {
       "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:20:50.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-      "id": "a19"
+      "id": "a20"
     }
   ]
 }

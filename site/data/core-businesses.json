@@ -1,29 +1,29 @@
 {
-  "generatedAt": "2026-11-08T06:44:37.215Z",
+  "generatedAt": "2026-11-08T13:54:53.172Z",
   "date": "2026-11-08",
   "section": "core-businesses",
   "sectionTitle": "Core Businesses",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 8 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
         "text": "Semiconductors: For questions about this article or underlying research, email help@trefis.com.",
         "articleIds": [
-          "a13"
+          "a16"
         ],
         "subCategory": "semiconductors"
       },
       {
         "text": "Mobile Chips: Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
         "articleIds": [
-          "a17"
+          "a18"
         ],
         "subCategory": "mobile-chips"
       },
       {
         "text": "Wireless Communication: QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale",
         "articleIds": [
-          "a21"
+          "a22"
         ],
         "subCategory": "wireless"
       }
@@ -38,7 +38,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T12:49:50.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -46,7 +46,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "For questions about this article or underlying research, email help@trefis.com.",
-      "id": "a13"
+      "id": "a16"
     },
     {
       "title": "AI Wants “Every Scrap of RAM.” Qualcomm and Arm Just Showed Who Pays the Bill",
@@ -56,7 +56,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T07:15:04.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -64,7 +64,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysArm fell 13% and Qualcomm 9. 5% on Thursday as pricier memory hit their phone businesses.",
-      "id": "a17"
+      "id": "a18"
     },
     {
       "title": "Qualcomm Faces Worst Day Since 2020 as Chips Crater",
@@ -74,7 +74,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:16:32.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -82,7 +82,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm's handset miss collided with a much broader AI-chip de-rating.",
-      "id": "a20"
+      "id": "a21"
     },
     {
       "title": "What Does QUALCOMM (QCOM) Winning A Nationwide 5G Buildout Mean For Investors?",
@@ -92,7 +92,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:14:22.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "wireless",
@@ -100,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "QUALCOMM (NasdaqGS:QCOM) and SpaceX have agreed a multiyear partnership to power the new Starlink Mobile nationwide 5G network. The project uses Qualcomm 5G infrastructure technology at national scale, taking the chip designer beyond its traditional smartphone-focused business. Starlink Mobile aims to offer a satellite-backed 5G service across the U.S., creating a new competitor to existing wireless carriers. This Starlink Mobile 5G infrastructure deal with SpaceX is a big swing for Qualcomm...",
-      "id": "a21"
+      "id": "a22"
     },
     {
       "title": "There's a 'disconnect' between the market, rate of AI build-out: Qualcomm CEO",
@@ -110,7 +110,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T15:36:28.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
+      "fetchedAt": "2026-11-08T13:54:47.216Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "semiconductors",
@@ -118,7 +118,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Qualcomm (QCOM) CEO Cristiano Amon spoke to Yahoo Finance about the company's position in the AI marketplace and how it is adjusting to semiconductor shortages.",
-      "id": "a23"
+      "id": "a24"
     },
     {
       "title": "Alphabet reveals $548M Qualcomm stake",
@@ -128,7 +128,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-08T06:44:35.273Z",
+      "fetchedAt": "2026-11-08T13:54:51.240Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -148,7 +148,7 @@
       "sourceId": "mobile-world-live",
       "sourceGroup": "telecom",
       "publishedAt": "2026-11-06T09:17:57.000Z",
-      "fetchedAt": "2026-11-08T06:44:35.273Z",
+      "fetchedAt": "2026-11-08T13:54:51.240Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
       "subCategory": "mobile-chips",
@@ -157,29 +157,6 @@
       "stakeholders": [],
       "summary": "Mobile World Live (MWL) brings you our top three picks of the week as SpaceX tapped Qualcomm to power its US mobile network, experts warned the UK could face a growing wave of AI-powered cyberattacks and Nokia forecast AI to drive almost half of global network traffic by 2035. The post The Friday File: SpaceX; UK cyberattacks; Nokia appeared first on Mobile World Live.",
       "id": "a26"
-    },
-    {
-      "title": "Qualcomm’s annual licensing revenue of nearly $5.6B fueled by Apple, Huawei, Transsion patent agreement renewals",
-      "url": "https://ipfray.com/qualcomms-annual-licensing-revenue-of-nearly-5-6b-fueled-by-apple-huawei-transsion-patent-agreement-renewals/",
-      "description": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "source": "IP Fray",
-      "sourceId": "ip-fray",
-      "sourceGroup": "ip",
-      "publishedAt": "2026-11-05T08:28:31.000Z",
-      "fetchedAt": "2026-11-08T06:44:35.540Z",
-      "fetchStrategy": "rss",
-      "section": "core-businesses",
-      "subCategory": "wireless",
-      "subLabel": "Wireless Communication",
-      "competitors": [
-        "apple",
-        "huawei"
-      ],
-      "stakeholders": [
-        "oem"
-      ],
-      "summary": "The company’s 5G renewal cycle has come to an end and will restart in FY 2030, with FY 2027 marking the start of its non-handset revenue inflection.",
-      "id": "a29"
     }
   ]
 }

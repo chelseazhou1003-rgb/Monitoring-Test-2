@@ -1,24 +1,17 @@
 {
-  "generatedAt": "2026-11-08T06:44:37.215Z",
+  "generatedAt": "2026-11-08T13:54:53.172Z",
   "date": "2026-11-08",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), market-performance (1 article), Supply Chain (1 article). A total of 19 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (17 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
+        "text": "Geopolitics & Export Controls: Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
-      },
-      {
-        "text": "market-performance: Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders a",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "market-performance"
       },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
@@ -31,6 +24,65 @@
   },
   "articles": [
     {
+      "title": "How Democrats will try to end Trump's tariffs",
+      "url": "https://www.cnbc.com/2026/11/08/trump-tariffs-democrats-congress-canada.html",
+      "description": "Rep. Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-08T13:00:01.000Z",
+      "fetchedAt": "2026-11-08T13:54:47.035Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
+      "id": "a1"
+    },
+    {
+      "title": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” - Wccftech",
+      "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPRk1icDF6S21KQU4xbWt4UFI0TkIxb1dzb0R1M0tPVmF3RkxVZWpyZTdYaHNnbHBLcWpqOHp5WEVpMElTdmZ0RVRWTEZQekJVNjdkWVRtcmJWczNIZ2d4bWJCZG1NTDZYMGp5Z0w0bXJVWVNNSTZqbW84TklaS0p6WFZxaWp0Nm1YRWF4NW9Na3k5dElFOHpRcXR3SE1fU2tCWTRNZEdqdm_SAa4BQVVfeXFMT3pUaUNhOWJmbGlPSHBEZEJJWHVpMjJoOHpRaEQzbmRBbm5oNWJNalNWZ1hmcjJZWXdZSjIzcUZjLWlDVmJ3X2hhcElvN0FyTVg0NTNtRVAtMUFNZ2loM3JMTU80X2h0alRlNDU0NTRhbFdCWTQ4WkZLYUt5WGFaX3FQdXEwSnY5NmZHTDkyaDN6VXd3YUIzRzFOa1VDVVJmSFpQaUFhaHpFMk5TNkJB?oc=5",
+      "description": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-08T12:20:47.000Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Wccftech",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
+      "id": "a2"
+    },
+    {
+      "title": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office - BigGo Finance",
+      "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9oaDJPR2tlcmtRMGthYkRKYTRPdmk0S1JIVU9Fd2pOdzNuVXJZRmJTZ2xoQ1pGWHpnVmZJMHVfRW9pX1lwNnBCbXkxZjhNdkY4akFJZndpdzJseDhwNWcxbklBWHQwU01TTWRwLXBoci15MEY4TEE?oc=5",
+      "description": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office BigGo Finance",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-08T09:05:00.000Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "BigGo Finance",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Nvidia H200 China Sales Expose Screening Gaps; Approved Chinese Assembler Found With Empty Office BigGo Finance",
+      "id": "a3"
+    },
+    {
       "title": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang - Startup Fortune",
       "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPQml0X0RINDc0WDc5ZmxPSnE3SkJrNWJ6eTlnc2ZobFRrbWFZWHBiVHRmUVd6QVA4Uk1LalctSk96LXIyMXVFQ3F6YmZjdGh2ajZUa2Nja1g2LWVqVXZQU1g5Zlpod1VvNTlHRTBMaERqWjVrc0NocURTekxxQ09PWkVSSkNCU2ljbTRCZ05oYlAxSEJ4QzhIVVl2SVFSTDJ6ZnhnZkZPaXE2WTVnMjRsRndfQXJXX3JtSklrYkxqZw?oc=5",
       "description": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
@@ -38,7 +90,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T05:06:43.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Startup Fortune",
       "geopoliticalBypass": true,
@@ -48,7 +100,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US intelligence memo says China recruited a Megaspeed executive to spy on Nvidia's Jensen Huang Startup Fortune",
-      "id": "a1"
+      "id": "a4"
     },
     {
       "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
@@ -58,7 +110,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T02:48:55.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "EU Perspectives",
       "geopoliticalBypass": true,
@@ -68,7 +120,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-      "id": "a2"
+      "id": "a5"
     },
     {
       "title": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street - The Washington Post",
@@ -78,7 +130,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T22:33:07.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Washington Post",
       "geopoliticalBypass": true,
@@ -88,7 +140,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "From high-flying AI stocks to tariff-hit alcohol companies, the midterms shook up Wall Street The Washington Post",
-      "id": "a3"
+      "id": "a6"
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -98,7 +150,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-07T21:17:08.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.625Z",
+      "fetchedAt": "2026-11-08T13:54:47.103Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -107,7 +159,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "id": "a4"
+      "id": "a7"
     },
     {
       "title": "US allows Nvidia chip sales to company with empty office in China — The Verge - UA.NEWS",
@@ -117,7 +169,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T16:26:09.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "UA.NEWS",
       "geopoliticalBypass": true,
@@ -127,7 +179,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US allows Nvidia chip sales to company with empty office in China — The Verge UA.NEWS",
-      "id": "a5"
+      "id": "a8"
     },
     {
       "title": "Report reveals Nvidia H200 China licenses went to two firms with empty offices - Pasquale Pillitteri",
@@ -137,7 +189,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T16:11:36.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.186Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Pasquale Pillitteri",
       "geopoliticalBypass": true,
@@ -147,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Report reveals Nvidia H200 China licenses went to two firms with empty offices Pasquale Pillitteri",
-      "id": "a6"
+      "id": "a9"
     },
     {
       "title": "U.S. extends pause on its 50% Affiliates export rule to Jan. 10, 2027, keeping China truce intact - MLQ.ai",
@@ -157,7 +209,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T16:10:23.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.186Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "MLQ.ai",
       "geopoliticalBypass": true,
@@ -167,7 +219,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "extends pause on its 50% Affiliates export rule to Jan. 10, 2027, keeping China truce intact MLQ.ai",
-      "id": "a7"
+      "id": "a10"
     },
     {
       "title": "Nvidia's H200 Chips Reached China Through Ghost Company - The Tech Buzz",
@@ -177,7 +229,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T16:06:29.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Tech Buzz",
       "geopoliticalBypass": true,
@@ -187,7 +239,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia's H200 Chips Reached China Through Ghost Company The Tech Buzz",
-      "id": "a8"
+      "id": "a11"
     },
     {
       "title": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door - The Maine Wire",
@@ -197,7 +249,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T15:55:56.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Maine Wire",
       "geopoliticalBypass": true,
@@ -207,7 +259,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Chinese AI Firm Slips Past US Chip Ban Through European Back Door The Maine Wire",
-      "id": "a9"
+      "id": "a12"
     },
     {
       "title": "The US let Nvidia sell chips to an empty office in China",
@@ -217,7 +269,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-07T15:43:45.000Z",
-      "fetchedAt": "2026-11-08T06:44:31.401Z",
+      "fetchedAt": "2026-11-08T13:54:47.674Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -226,7 +278,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Concerns are being raised that neither the Commerce Department nor Nvidia are doing their due diligence when it comes to vetting Chinese firms cleared to handle the company's H200 AI chips. According to The New York Times, New Matrix is on the list of approved firms, yet its offices are empty, \"a hollow gray shell with wires dangling from the ceiling where lights should be.\" In fact, the paper could find little evidence that the company exists in any meaningful way: Only scant information can be found online about New Matrix, which was created 17 months ago. At the building that New Matrix lists as its address, a company directory does not … Read the full story at The Verge.",
-      "id": "a10"
+      "id": "a13"
     },
     {
       "title": "US approved Nvidia chip sales to China-linked firms - The Jerusalem Post",
@@ -236,7 +288,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T14:52:37.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "The Jerusalem Post",
       "geopoliticalBypass": true,
@@ -246,7 +298,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US approved Nvidia chip sales to China-linked firms The Jerusalem Post",
-      "id": "a11"
+      "id": "a14"
     },
     {
       "title": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny - MLQ.ai",
@@ -256,7 +308,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-07T14:02:34.000Z",
-      "fetchedAt": "2026-11-08T06:44:37.185Z",
+      "fetchedAt": "2026-11-08T13:54:53.148Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "MLQ.ai",
       "geopoliticalBypass": true,
@@ -266,27 +318,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Democrats weigh the future of the House China committee that drove chip export-control scrutiny MLQ.ai",
-      "id": "a12"
-    },
-    {
-      "title": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports - Reuters",
-      "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMV9yYXBHcG8tbzdLTG85N2NjSlNJTmgwUlVFSmU5eEM2WVdpQUtfY2U1SXJ0VkxJSWV6RXpDVnEtR0dHdzZQWnlmd2ZnRjZjdnZndzlOMzJqUjNwNmN1Y2tGQVBSUkdualpEdnNaRWRVbzV2cnR2YnJYaVR2amdURkZ4WHdGbENYN2QyYUd6UjlDTGZVUTVFQ0lKdExaZkNrM2NJYlhSZXRjY0N1aFNjcGJqVjM5ZlpfaHg2OXdCWmF0OHYwd0FndXo1dXI?oc=5",
-      "description": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
-      "source": "Reuters",
-      "sourceId": "reuters",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-07T09:55:43.000Z",
-      "fetchedAt": "2026-11-08T06:44:35.998Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "Reuters",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SoftBank, ABB explore China carve-out to salvage robotics deal, Bloomberg News reports Reuters",
-      "id": "a14"
+      "id": "a15"
     },
     {
       "title": "A new Congress, a new opportunity to protect American inventors",
@@ -296,7 +328,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-07T09:30:00.000Z",
-      "fetchedAt": "2026-11-08T06:44:33.302Z",
+      "fetchedAt": "2026-11-08T13:54:50.042Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -305,26 +337,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
-      "id": "a15"
-    },
-    {
-      "title": "SoftBank, ABB Consider China Carve-Out to Salvage Robotics Deal",
-      "url": "https://www.bloomberg.com/news/articles/2026-11-07/softbank-abb-weigh-china-carve-out-to-salvage-robotics-deal",
-      "description": "SoftBank Group Corp. and ABB Ltd. are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
-      "source": "Bloomberg",
-      "sourceId": "bloomberg",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-07T08:39:26.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.930Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "are looking at carving out the Chinese part of a giant robotics deal as they explore ways to salvage a transaction blocked by Beijing, according to people familiar with the matter.",
-      "id": "a16"
+      "id": "a17"
     },
     {
       "title": "After the midterms, is the AI industry in for a rough two years?",
@@ -334,7 +347,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-06T17:23:52.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.625Z",
+      "fetchedAt": "2026-11-08T13:54:47.103Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -343,25 +356,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Democrats’ historic victories in this week’s U.S. midterm elections could also transform the tech industry. The public voted on 41 data center-related ballot measures on Tuesday — in all but one, the majority voted to impose more restrictions on data center development. And even when data centers weren’t on the ballot directly, they were a […]",
-      "id": "a22"
-    },
-    {
-      "title": "$3 trillion wipe-out, CEOs on the volatility of politics, and the status of the AI trade",
-      "url": "https://finance.yahoo.com/video/3-trillion-wipe-out-ceos-on-the-volatility-of-politics-and-the-status-of-the-ai-trade-151554253.html?.tsrc=rss",
-      "description": "Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders are saying about the volatile state of politics. Sozzi sits down for a 1-on-1 with Affirm (AFRM) CEO Max Levchin to discuss the company's earnings and the midterm results.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T15:15:54.000Z",
-      "fetchedAt": "2026-11-08T06:44:30.687Z",
-      "fetchStrategy": "rss",
-      "section": "macro-environment",
-      "subCategory": "market-performance",
-      "subLabel": "market-performance",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Yahoo Finance Executive Editor Brian Sozzi gives his thoughts on the recent tech sell-off and what a bear market means for the AI trade. Plus, what the Qualcomm (QCOM) CEO and other business leaders are saying about the volatile state of politics. Sozzi sits down for a 1-on-1 with Affirm (AFRM) CEO Max Levchin to discuss the company's earnings and the midterm results.",
-      "id": "a24"
+      "id": "a23"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -371,7 +366,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-08T06:44:32.359Z",
+      "fetchedAt": "2026-11-08T13:54:49.072Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -383,25 +378,6 @@
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
       "id": "a27"
-    },
-    {
-      "title": "China blocks SoftBank, ABB robotics deal",
-      "url": "https://www.mobileworldlive.com/ai-cloud/china-blocks-softbank-abb-robotics-deal/",
-      "description": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-05T13:48:41.000Z",
-      "fetchedAt": "2026-11-08T06:44:35.273Z",
-      "fetchStrategy": "rss",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "SoftBank Group’s proposed $5.4 billion deal to acquire ABB’s industrial robot business has been blocked by Chinese regulators, in a major blow to the Japanese company’s well-publicised ambitions around physical AI. The post China blocks SoftBank, ABB robotics deal appeared first on Mobile World Live.",
-      "id": "a28"
     }
   ]
 }
