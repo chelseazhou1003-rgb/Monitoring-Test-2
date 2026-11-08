@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-08T19:11:00.782Z",
+  "generatedAt": "2026-11-08T23:11:06.916Z",
   "date": "2026-11-09",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
@@ -9,7 +9,7 @@
       {
         "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
         "articleIds": [
-          "a20"
+          "a16"
         ],
         "subCategory": "data-center"
       }
@@ -24,7 +24,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T19:25:20.000Z",
-      "fetchedAt": "2026-11-08T19:10:53.641Z",
+      "fetchedAt": "2026-11-08T23:10:59.208Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -32,7 +32,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-      "id": "a20"
+      "id": "a16"
     },
     {
       "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
@@ -42,7 +42,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-06T18:20:50.000Z",
-      "fetchedAt": "2026-11-08T19:10:53.641Z",
+      "fetchedAt": "2026-11-08T23:10:59.208Z",
       "fetchStrategy": "rss",
       "section": "growth-areas",
       "subCategory": "data-center",
@@ -50,7 +50,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-      "id": "a21"
+      "id": "a17"
     }
   ]
 }
