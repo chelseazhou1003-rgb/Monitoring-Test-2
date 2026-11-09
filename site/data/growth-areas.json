@@ -1,56 +1,11 @@
 {
-  "generatedAt": "2026-11-09T12:11:11.381Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T22:43:41.622Z",
+  "date": "2026-11-10",
   "section": "growth-areas",
   "sectionTitle": "Growth Areas",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources.",
-    "keyTakeaways": [
-      {
-        "text": "Data Center: Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the comp",
-        "articleIds": [
-          "a24"
-        ],
-        "subCategory": "data-center"
-      }
-    ]
+    "summary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST.",
+    "keyTakeaways": []
   },
-  "articles": [
-    {
-      "title": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-      "url": "https://www.tikr.com/blog/qualcomm-ceo-its-data-center-ramp-is-all-supply-bound-not-demand-bound?ref=yahoofinance&tlnk=yf-261106-qh2fx6f3&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T19:25:20.000Z",
-      "fetchedAt": "2026-11-09T12:10:51.605Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysQualcomm stock fell about 11% this week after its earnings guidance for the December quarter came in below expectations. CEO Cristiano Amon says supply is the only thing limiting the company’s $5 billion data center revenue target for fiscal 2027.",
-      "id": "a24"
-    },
-    {
-      "title": "Qualcomm Rises 5% on Alphabet’s $548 Million Stake as CEO Sees a “Disconnect” on AI",
-      "url": "https://www.tikr.com/blog/qualcomm-rises-5-on-alphabets-548-million-stake-as-ceo-sees-a-disconnect-on-ai?ref=yahoofinance&tlnk=yf-261106-3hf3776h&.tsrc=rss",
-      "description": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-      "source": "Yahoo Finance",
-      "sourceId": "yahoo-finance",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-06T18:20:50.000Z",
-      "fetchedAt": "2026-11-09T12:10:51.605Z",
-      "fetchStrategy": "rss",
-      "section": "growth-areas",
-      "subCategory": "data-center",
-      "subLabel": "Data Center",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Key TakeawaysQualcomm shares rose 5% today on Alphabet’s nearly $548 million stake. The stake backs Qualcomm’s data center push, still targeting $5 billion of revenue in fiscal 2027.",
-      "id": "a25"
-    }
-  ]
+  "articles": []
 }

@@ -1,40 +1,40 @@
 {
-  "generatedAt": "2026-11-09T12:11:11.381Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T22:43:41.623Z",
+  "date": "2026-11-10",
   "section": "stakeholders",
   "sectionTitle": "Key Stakeholders",
   "briefing": {
-    "summary": "One article today covering Mobile Chips. Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smar",
+    "summary": "One article today covering IoT & XR. Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across r",
     "keyTakeaways": [
       {
-        "text": "Mobile Chips: Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals",
+        "text": "IoT & XR: Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those target",
         "articleIds": [
-          "a29"
+          "a12"
         ],
-        "subCategory": "mobile-chips"
+        "subCategory": "iot-xr"
       }
     ]
   },
   "articles": [
     {
-      "title": "Alphabet reveals $548M Qualcomm stake",
-      "url": "https://www.mobileworldlive.com/google/alphabet-reveals-548m-qualcomm-stake/",
-      "description": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "source": "Mobile World Live",
-      "sourceId": "mobile-world-live",
-      "sourceGroup": "telecom",
-      "publishedAt": "2026-11-06T15:14:19.000Z",
-      "fetchedAt": "2026-11-09T12:10:56.060Z",
+      "title": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
+      "url": "https://finance.yahoo.com/markets/stocks/articles/qualcomm-qcom-stock-fair-value-162051691.html?.tsrc=rss",
+      "description": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T16:20:51.000Z",
+      "fetchedAt": "2026-11-09T22:43:35.353Z",
       "fetchStrategy": "rss",
       "section": "core-businesses",
-      "subCategory": "mobile-chips",
-      "subLabel": "Mobile Chips",
+      "subCategory": "iot-xr",
+      "subLabel": "IoT & XR",
       "competitors": [],
       "stakeholders": [
-        "platform-partner"
+        "oem"
       ],
-      "summary": "Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smartphone chip sales slump. The post Alphabet reveals $548M Qualcomm stake appeared first on Mobile World Live.",
-      "id": "a29"
+      "summary": "Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across recent research. Analysts are trimming those targets while still highlighting long term potential tied to data center, automotive and IoT growth, as well as Qualcomm’s role in smartphones and its renewed licensing agreement with Apple. As you read on, you will see how these shifting targets and opinions can help you track the evolving Qualcomm...",
+      "id": "a12"
     }
   ]
 }

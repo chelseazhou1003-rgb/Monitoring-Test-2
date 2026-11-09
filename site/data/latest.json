@@ -1,34 +1,34 @@
 {
-  "generatedAt": "2026-11-09T12:11:11.382Z",
-  "date": "2026-11-09",
+  "generatedAt": "2026-11-09T22:43:41.625Z",
+  "date": "2026-11-10",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 9,
-      "topHeadline": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources."
+      "articleCount": 7,
+      "topHeadline": "Jim Cramer: “You Should Not Own AT&T” as SpaceX Pushes Into Wireless",
+      "topHeadlineId": "a6",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Wireless Communication (2 articles), IoT & XR (1 article). A total of 7 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
+      "articleCount": 1,
+      "topHeadline": "Video streaming licensing divides deepen over royalties and codec choice",
+      "topHeadlineId": "a18",
+      "briefingSummary": "One article today covering FRAND & Licensing. Representatives from Warner Bros Discovery, Qualcomm, Avanci and LexisNexis debated revenue-based fees, technological lock-in and competing pools at L"
+    },
+    "growth-areas": {
+      "title": "Growth Areas",
       "articleCount": 0,
       "topHeadline": null,
       "topHeadlineId": null,
       "briefingSummary": "No Qualcomm coverage in this section today. Check back tomorrow at 07:00 CST."
     },
-    "growth-areas": {
-      "title": "Growth Areas",
-      "articleCount": 2,
-      "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-      "topHeadlineId": "a24",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
-    },
     "macro-environment": {
       "title": "Macro",
-      "articleCount": 18,
-      "topHeadline": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
-      "topHeadlineId": "a2",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (7 articles). A total of 18 articles were aggregated from monitored sources."
+      "articleCount": 26,
+      "topHeadline": "Nvidia spy allegations likely to spur laws to tighten China’s access to AI chips, say some lawmakers - The Straits Times",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (20 articles), market-performance (6 articles). A total of 26 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -40,10 +40,10 @@
     "stakeholders": {
       "title": "Key Stakeholders",
       "articleCount": 1,
-      "topHeadline": "Alphabet reveals $548M Qualcomm stake",
-      "topHeadlineId": "a29",
-      "briefingSummary": "One article today covering Mobile Chips. Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smar"
+      "topHeadline": "Qualcomm (QCOM) Stock Fair Value Edges Lower As Analysts Trim Targets",
+      "topHeadlineId": "a12",
+      "briefingSummary": "One article today covering IoT & XR. Qualcomm has seen its fair value estimate adjusted from US$194.13 to US$185.79, which feeds into a broadly more measured set of price targets across r"
     }
   },
-  "totalArticles": 30
+  "totalArticles": 35
 }
