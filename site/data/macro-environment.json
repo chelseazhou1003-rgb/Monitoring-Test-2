@@ -1,35 +1,149 @@
 {
-  "generatedAt": "2026-11-08T23:11:06.916Z",
+  "generatedAt": "2026-11-09T03:00:46.250Z",
   "date": "2026-11-09",
   "section": "macro-environment",
   "sectionTitle": "Macro",
   "briefing": {
-    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (10 articles), market-performance (2 articles), Supply Chain (1 article). A total of 13 articles were aggregated from monitored sources.",
+    "summary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources.",
     "keyTakeaways": [
       {
-        "text": "Geopolitics & Export Controls: What does the Jensen Huang case mean for Nvidia's chip sales to China? No rules have changed so far Nacionale",
+        "text": "Geopolitics & Export Controls: The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
         "articleIds": [
           "a1"
         ],
         "subCategory": "geopolitics-export-controls"
       },
       {
-        "text": "market-performance: Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
+        "text": "market-performance: The week was marked by developments, including a probe into Nvidia’s CEO, strong results from Palantir, and Musk’s ambitious revenue goals.",
         "articleIds": [
-          "a4"
+          "a3"
         ],
         "subCategory": "market-performance"
       },
       {
         "text": "Supply Chain: HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semicondu",
         "articleIds": [
-          "a22"
+          "a27"
         ],
         "subCategory": "supply-chain"
       }
     ]
   },
   "articles": [
+    {
+      "title": "China wholesale inflation hits highest in more than four years as consumer measure slows",
+      "url": "https://www.cnbc.com/2026/11/09/china-wholesale-inflation-rises-consumer.html",
+      "description": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "source": "CNBC",
+      "sourceId": "cnbc",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T02:50:22.000Z",
+      "fetchedAt": "2026-11-09T03:00:38.654Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The PPI for October came in at 5.7%, compared to the 5.3% expected by economists polled by Reuters.",
+      "id": "a1"
+    },
+    {
+      "title": "Nvidia’s Jensen Huang: China Is 'Not Our Enemy,' US Chip Policy a 'Mistake'",
+      "url": "https://www.bloomberg.com/news/videos/2026-11-09/nvidia-ceo-jensen-huang-on-selling-chips-to-china-video",
+      "description": "In an interview filmed on October 14, Nvidia CEO Jensen Huang defended engaging with China and criticized US chip restrictions. He has since acknowledged having an affair, and US intelligence officials reportedly suspect the woman was recruited by Beijing to influence him. Nvidia’s board is now investigating, and Huang said he would \"cooperate fully.\" He spoke with Bloomberg’s Emily Chang for an upcoming episode of The Circuit. (Source: Bloomberg)",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T02:46:23.000Z",
+      "fetchedAt": "2026-11-09T03:00:39.074Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "In an interview filmed on October 14, Nvidia CEO Jensen Huang defended engaging with China and criticized US chip restrictions. He has since acknowledged having an affair, and US intelligence officials reportedly suspect the woman was recruited by Beijing to influence him. Nvidia’s board is now investigating, and Huang said he would \"cooperate fully.\" He spoke with Bloomberg’s Emily Chang for an upcoming episode of The Circuit.",
+      "id": "a2"
+    },
+    {
+      "title": "NVDA, PLTR, QCOM, SPCX, MRVL: Why Retail Traders Couldn’t Take Their Eyes Off These Stocks Last Week",
+      "url": "https://stocktwits.com/news-articles/markets/equity/nvda-pltr-qcom-spcx-mrvl-why-retail-traders-couldn-t-take-their-eyes-off-these-stocks-last-week/cNGAH2tR9Ix?.tsrc=rss",
+      "description": "The week was marked by developments, including a probe into Nvidia’s CEO, strong results from Palantir, and Musk’s ambitious revenue goals.",
+      "source": "Yahoo Finance",
+      "sourceId": "yahoo-finance",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T02:04:55.000Z",
+      "fetchedAt": "2026-11-09T03:00:38.736Z",
+      "fetchStrategy": "rss",
+      "section": "macro-environment",
+      "subCategory": "market-performance",
+      "subLabel": "market-performance",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "The week was marked by developments, including a probe into Nvidia’s CEO, strong results from Palantir, and Musk’s ambitious revenue goals.",
+      "id": "a3"
+    },
+    {
+      "title": "China’s inflation edges lower in October",
+      "url": "https://www.ft.com/content/085c4610-143a-47ad-b546-0587695294b5?syn-25a6b1a6=1",
+      "description": "Weak domestic demand weighs on prices in world’s second-largest economy even as higher energy prices drive up costs for producers",
+      "source": "Financial Times",
+      "sourceId": "ft",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T02:01:28.000Z",
+      "fetchedAt": "2026-11-09T03:00:39.410Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "Weak domestic demand weighs on prices in world’s second-largest economy even as higher energy prices drive up costs for producers",
+      "id": "a4"
+    },
+    {
+      "title": "Chinese Producer Inflation Hits 5.7% for Post-Covid Era High",
+      "url": "https://www.bloomberg.com/news/articles/2026-11-09/chinese-producer-inflation-soars-to-5-7-for-post-covid-era-high",
+      "description": "China’s producer inflation accelerated to the fastest since June 2022 as more expensive energy raised factories’ costs but failed to prevent a slowdown in consumer-price growth.",
+      "source": "Bloomberg",
+      "sourceId": "bloomberg",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T01:35:41.000Z",
+      "fetchedAt": "2026-11-09T03:00:39.074Z",
+      "fetchStrategy": "rss",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "China’s producer inflation accelerated to the fastest since June 2022 as more expensive energy raised factories’ costs but failed to prevent a slowdown in consumer-price growth.",
+      "id": "a5"
+    },
+    {
+      "title": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security - Yahoo Finance",
+      "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNczg1STR4SGpseHN2akZkWG44WHhCcGFqZVB5RGc1amxoN1ZXT3pKRzJtbHFPbHVKOHRCZ2FXdVI1Y2JEeXF1bkEzUWNCd2J1UEJVRmJFMTVnLWtaNTBqN1RXQkU3N2pObU1pQVMzUnNxaURtVDhuandxcko0b0VwTTM1NlREc3h1dF9PYW8zbGxhaDJy?oc=5",
+      "description": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security Yahoo Finance",
+      "source": "Geopolitics",
+      "sourceId": "geopolitics",
+      "sourceGroup": "finance",
+      "publishedAt": "2026-11-09T01:12:00.000Z",
+      "fetchedAt": "2026-11-09T03:00:46.208Z",
+      "fetchStrategy": "google-news",
+      "googleNewsSource": "Yahoo Finance",
+      "geopoliticalBypass": true,
+      "section": "macro-environment",
+      "subCategory": "geopolitics-export-controls",
+      "subLabel": "Geopolitics & Export Controls",
+      "competitors": [],
+      "stakeholders": [],
+      "summary": "3 US Defense Stocks Worth Watching As Nvidia Questions Hit National Security Yahoo Finance",
+      "id": "a6"
+    },
     {
       "title": "What does the Jensen Huang case mean for Nvidia's chip sales to China? No rules have changed so far - Nacionale",
       "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPdmlDZ081c1NRdUQ1RG43TGxpMUdfdTJTZkRYdFBjLXhGRXlUT1J4ZkhObVFmaFJaN2xoWTZSUlVVTFQxNDc5UEpYbUFha0FHaXc3WnlOR3BfdkhlTkROZ29YT3BISmR3VlFwYVRJbTcyZXgxM3VjY2xsT2pCbGw2dWQwMlRSajQ1ZDY3SkVXUUQ0Zy1ycDBJM0h1TzJHT2FTYUE?oc=5",
@@ -38,7 +152,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T21:21:59.000Z",
-      "fetchedAt": "2026-11-08T23:11:06.875Z",
+      "fetchedAt": "2026-11-09T03:00:46.208Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Nacionale",
       "geopoliticalBypass": true,
@@ -48,7 +162,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "What does the Jensen Huang case mean for Nvidia's chip sales to China? No rules have changed so far Nacionale",
-      "id": "a1"
+      "id": "a7"
     },
     {
       "title": "Nvidia is investigating Jensen Huang’s relationship with a Chinese spy",
@@ -58,7 +172,7 @@
       "sourceId": "the-verge",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-08T20:22:39.000Z",
-      "fetchedAt": "2026-11-08T23:11:00.345Z",
+      "fetchedAt": "2026-11-09T03:00:39.503Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -67,7 +181,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Nvidia has announced that it is opening an investigation into CEO Jensen Huang and his relationship with Megaspeed executive Alice Huang, who was reportedly recruited by China's Ministry of State Security to spy on the company. A statement posted by the board of directors reads: The NVIDIA Board is initiating an independent investigation in light of recent reporting that founder and CEO Jensen Huang has been the target of a foreign intelligence effort. A committee of independent directors, assisted by outside independent counsel, will oversee the investigation. The Board prioritizes U.S. national and economic security, which is paramou … Read the full story at The Verge.",
-      "id": "a2"
+      "id": "a8"
     },
     {
       "title": "Qualcomm’s Car Chips Grew 89% as Handsets Fell 26%. Is 16.7x Earnings Too Cheap?",
@@ -77,7 +191,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T15:59:59.000Z",
-      "fetchedAt": "2026-11-08T23:10:59.208Z",
+      "fetchedAt": "2026-11-09T03:00:38.736Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -85,7 +199,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Key TakeawaysQualcomm rose 5. 5% Friday after Alphabet disclosed a $548 million stake, days after weak handset sales hit the stock following earnings.",
-      "id": "a4"
+      "id": "a10"
     },
     {
       "title": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns - Forbes Middle East",
@@ -95,7 +209,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T15:54:45.000Z",
-      "fetchedAt": "2026-11-08T23:11:06.875Z",
+      "fetchedAt": "2026-11-09T03:00:46.208Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Forbes Middle East",
       "geopoliticalBypass": true,
@@ -105,7 +219,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "US Lawmakers Seek Nvidia CEO Jensen Huang Briefing Over China Espionage Concerns Forbes Middle East",
-      "id": "a5"
+      "id": "a11"
     },
     {
       "title": "How Democrats will try to end Trump's tariffs",
@@ -115,7 +229,7 @@
       "sourceId": "cnbc",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T15:36:39.000Z",
-      "fetchedAt": "2026-11-08T23:10:59.240Z",
+      "fetchedAt": "2026-11-09T03:00:38.654Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -124,7 +238,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Hakeem Jeffries, D-N.Y., who is likely the next House speaker, has made clear that ending President Trump's tariffs is one of Democrats' top priorities.",
-      "id": "a6"
+      "id": "a12"
     },
     {
       "title": "Why Qualcomm Stock Fell 9% Despite Beating Earnings Estimates",
@@ -134,7 +248,7 @@
       "sourceId": "yahoo-finance",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T15:34:33.000Z",
-      "fetchedAt": "2026-11-08T23:10:59.208Z",
+      "fetchedAt": "2026-11-09T03:00:38.736Z",
       "fetchStrategy": "rss",
       "section": "macro-environment",
       "subCategory": "market-performance",
@@ -142,7 +256,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Investors are worried the future may not be nearly as bright as management suggests, or arrive there as quickly as implied.",
-      "id": "a7"
+      "id": "a13"
     },
     {
       "title": "Voters Put the AI Data Center Boom on Notice",
@@ -152,7 +266,7 @@
       "sourceId": "bloomberg",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T14:16:32.000Z",
-      "fetchedAt": "2026-11-08T23:10:59.553Z",
+      "fetchedAt": "2026-11-09T03:00:39.074Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -161,7 +275,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "On Bloomberg This Weekend, Bloomberg News tech reporter Brody Ford explains how voter backlash against data centers could disrupt the rapid buildout of infrastructure powering the AI boom. Speaking with hosts David Gura and Christina Ruffini, Ford discusses the risks for heavily indebted AI companies and whether tougher promises from newly elected officials will translate into meaningful restrictions on development.",
-      "id": "a8"
+      "id": "a14"
     },
     {
       "title": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem - VanEck",
@@ -171,7 +285,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T13:54:12.000Z",
-      "fetchedAt": "2026-11-08T23:11:06.875Z",
+      "fetchedAt": "2026-11-09T03:00:46.208Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "VanEck",
       "geopoliticalBypass": true,
@@ -181,7 +295,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "SMHC: Investing in China’s Parallel Semiconductor Ecosystem VanEck",
-      "id": "a9"
+      "id": "a15"
     },
     {
       "title": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” - Wccftech",
@@ -191,7 +305,7 @@
       "sourceId": "geopolitics",
       "sourceGroup": "finance",
       "publishedAt": "2026-11-08T12:20:47.000Z",
-      "fetchedAt": "2026-11-08T23:11:06.874Z",
+      "fetchedAt": "2026-11-09T03:00:46.208Z",
       "fetchStrategy": "google-news",
       "googleNewsSource": "Wccftech",
       "geopoliticalBypass": true,
@@ -201,27 +315,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "NVIDIA’s Jensen Huang Rejects Anthropic’s Total China Chip Ban Push, Says “I Completely Disagree” And Believes “America Is About Competition” Wccftech",
-      "id": "a10"
-    },
-    {
-      "title": "Deepest pockets set EU chip priorities, warns Chips Act negotiator - EU Perspectives",
-      "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQVGRZVm4ybVRNQXczbFUzZU9QVmh0d01rTUZ4Wl9Ecm03WjJobjN5MEZkaC02YUhubXp3aHViQzVtWXh1LUFrRkF6VnpXcUpINDRfUUh1U095RDQwVXRPT1pTNlFoM2dxTHlwekVoYXhOd293SUxuT1p4RTdIZGhtTWRjc0RRd2FnamRtYm5FeXQ1d1pYbS1OM0dpcGdwZ21FTVE?oc=5",
-      "description": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-      "source": "Geopolitics",
-      "sourceId": "geopolitics",
-      "sourceGroup": "finance",
-      "publishedAt": "2026-11-08T02:48:55.000Z",
-      "fetchedAt": "2026-11-08T23:11:06.875Z",
-      "fetchStrategy": "google-news",
-      "googleNewsSource": "EU Perspectives",
-      "geopoliticalBypass": true,
-      "section": "macro-environment",
-      "subCategory": "geopolitics-export-controls",
-      "subLabel": "Geopolitics & Export Controls",
-      "competitors": [],
-      "stakeholders": [],
-      "summary": "Deepest pockets set EU chip priorities, warns Chips Act negotiator EU Perspectives",
-      "id": "a11"
+      "id": "a16"
     },
     {
       "title": "Megaspeed exec was recruited to spy on Nvidia CEO, according to US intelligence memo",
@@ -231,7 +325,7 @@
       "sourceId": "techcrunch",
       "sourceGroup": "tech",
       "publishedAt": "2026-11-07T21:17:08.000Z",
-      "fetchedAt": "2026-11-08T23:10:59.138Z",
+      "fetchedAt": "2026-11-09T03:00:38.672Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -240,7 +334,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "A memo circulated earlier this year reportedly claimed that China’s Ministry of State Security recruited a female technology executive to spy on Nvidia's CEO.",
-      "id": "a12"
+      "id": "a17"
     },
     {
       "title": "A new Congress, a new opportunity to protect American inventors",
@@ -250,7 +344,7 @@
       "sourceId": "iam",
       "sourceGroup": "ip",
       "publishedAt": "2026-11-07T09:30:00.000Z",
-      "fetchedAt": "2026-11-08T23:11:02.200Z",
+      "fetchedAt": "2026-11-09T03:00:41.191Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -259,7 +353,7 @@
       "competitors": [],
       "stakeholders": [],
       "summary": "Saturday Opinion: The new Congress must resist litigation funding restriction proposals that would weaken inventors’ ability to enforce their patents",
-      "id": "a14"
+      "id": "a19"
     },
     {
       "title": "Chip Industry Week In Review",
@@ -269,7 +363,7 @@
       "sourceId": "semiconductor-engineering",
       "sourceGroup": "semiconductor",
       "publishedAt": "2026-11-06T08:01:01.000Z",
-      "fetchedAt": "2026-11-08T23:11:01.157Z",
+      "fetchedAt": "2026-11-09T03:00:40.408Z",
       "fetchStrategy": "rss",
       "geopoliticalBypass": true,
       "section": "macro-environment",
@@ -280,7 +374,7 @@
         "oem"
       ],
       "summary": "HBM smuggling routes into China; Nvidia H200s held in Hong Kong; Micron pauses Taiwan fab work; Samsung expands HBM base-die capacity; Oracle-Tencent AI chip deal collapses; Bosch builds out semiconductors; S. Korea boosts AI and chip spending; Marvell-Lumentum deal draws scrutiny; more acquisitions, market reports and earnings. The post Chip Industry Week In Review appeared first on Semiconductor Engineering.",
-      "id": "a22"
+      "id": "a27"
     }
   ]
 }
