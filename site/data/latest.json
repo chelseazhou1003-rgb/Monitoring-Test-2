@@ -1,13 +1,13 @@
 {
-  "generatedAt": "2026-11-09T03:00:46.252Z",
+  "generatedAt": "2026-11-09T12:11:11.382Z",
   "date": "2026-11-09",
   "sections": {
     "core-businesses": {
       "title": "Core Businesses",
-      "articleCount": 7,
-      "topHeadline": "Why Qualcomm Shares Are Swinging After Handset Weakness And AI Data Center Push",
-      "topHeadlineId": "a9",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (3 articles), Mobile Chips (3 articles), Wireless Communication (1 article). A total of 7 articles were aggregated from monitored sources."
+      "articleCount": 9,
+      "topHeadline": "Alphabet Keeps Its Massive SpaceX Bet. Now It's Making a $548 Million Qualcomm Move",
+      "topHeadlineId": "a1",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Semiconductors (4 articles), Mobile Chips (3 articles), Wireless Communication (2 articles). A total of 9 articles were aggregated from monitored sources."
     },
     "ip-legal": {
       "title": "IP & Legal",
@@ -20,15 +20,15 @@
       "title": "Growth Areas",
       "articleCount": 2,
       "topHeadline": "Qualcomm CEO: Its Data Center Ramp Is “All Supply Bound,” Not Demand Bound",
-      "topHeadlineId": "a21",
+      "topHeadlineId": "a24",
       "briefingSummary": "Today's Qualcomm coverage in this section spans Data Center (2 articles). A total of 2 articles were aggregated from monitored sources."
     },
     "macro-environment": {
       "title": "Macro",
       "articleCount": 18,
-      "topHeadline": "China wholesale inflation hits highest in more than four years as consumer measure slows",
-      "topHeadlineId": "a1",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (14 articles), market-performance (3 articles), Supply Chain (1 article). A total of 18 articles were aggregated from monitored sources."
+      "topHeadline": "Qualcomm (QCOM) Sees $28.3 Million in Net ETF Buying on Nov. 5",
+      "topHeadlineId": "a2",
+      "briefingSummary": "Today's Qualcomm coverage in this section spans Geopolitics & Export Controls (11 articles), market-performance (7 articles). A total of 18 articles were aggregated from monitored sources."
     },
     "competitors": {
       "title": "Competitors",
@@ -39,11 +39,11 @@
     },
     "stakeholders": {
       "title": "Key Stakeholders",
-      "articleCount": 2,
+      "articleCount": 1,
       "topHeadline": "Alphabet reveals $548M Qualcomm stake",
-      "topHeadlineId": "a25",
-      "briefingSummary": "Today's Qualcomm coverage in this section spans Mobile Chips (1 article), Supply Chain (1 article). A total of 2 articles were aggregated from monitored sources."
+      "topHeadlineId": "a29",
+      "briefingSummary": "One article today covering Mobile Chips. Google parent Alphabet disclosed a $548 million stake in Qualcomm, a long-time partner, which is trying to build a data centre business while its smar"
     }
   },
-  "totalArticles": 29
+  "totalArticles": 30
 }
